@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong>Job Title:</strong> Site Reliability Engineer</p><p><strong>Duration:</strong> 4 Months contract to hire</p><p><strong>Location:</strong> Remote</p><p></p><p><strong>Candidates who were SRE backgrounds with CI/CD focus</strong></p><ul><li><span>Going with an SLA, SLI, SLO approach where they talk about reliability</span></li><li>1 SRE to every 2-3 areas (1 in 25-30)</li></ul><p><br></p><p><strong>Skills:</strong></p><ul><li>Windows/Linux servers--on-prem legacy hardware/infrastructure/servers</li><li>Cloud--preferred (Azure ideally)</li><li>Network equipment (Cisco)</li><li>Knowing the difference between observability and monitoring</li><li>Observability: understand state of service/overall health of the system</li><li>Monitoring: specific to this specific component of this server</li><li>Scripting helpful, but don\u2019t need a coder--they identify areas of improvement/do scripting for integrations into Splunk, but that's handled by higher level people on team</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-13T20:42:19.000Z"
+  },
+  "company": {
+    "name": "Pull Skill Technologies Inc.",
+    "link": "https://www.linkedin.com/company/pull-skill-technologies-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

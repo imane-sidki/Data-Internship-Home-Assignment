@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "100% REMOTE Lead Cloud Engineer, GCP",
+    "industry": "Staffing and Recruiting",
+    "description": "A large insurance company is looking for a 100% remote (within US) Lead Cloud Engineer and is offering up to $220,000. This engineer is someone with a start-up leadership mentality who can help build out their GCP environment, and can bring in DevOps best practices. Someone who works heavily with Terraform, is skilled with container orchestration (GKE, EKS, etc.), and is strong with at least one major scripting/programming language (Python, Golang, Java, etc.) who would like to lead Google Cloud architecture projects will fit in perfectly here.<br><br><strong><u>Required Skills &amp; Experience<br></u></strong><ul><li>7+ years of experience</li><li>Public cloud (GCP pref., open to AWS and Azure)</li><li>Cluster deployment and container orchestration (Docker, Kubernetes, etc.)</li><li>Infrastructure as Code (Terraform pref., open to Cloudformation)</li><li>Scripting/programming (Python, Golang, Java, etc.)</li><li>Strong understanding of or hands-on with CI/CD pipelines (Jenkins, CircleCI, GithubActions, etc.)<br></li></ul><strong><u>Desired Skills &amp; Experience<br></u></strong><ul><li>2-3+ years of GCP architecture</li><li>Transactional database systems (MySQL, Postgres, MongoDB, etc.)</li><li>Monitoring tools (Dynatrace, Datadog, etc.)</li><li>IAM (Active Directory, Okta, etc.)</li><li>Networking knowledge<br></li></ul>What You Will Be Doing<br><br>Tech Breakdown<br><ul><li>100% Linux</li><li>90% GCP</li><li>10% AWS<br></li></ul>Daily Responsibilities<br><ul><li>90% Hands On</li><li>10% Management Duties<br></li></ul>The Offer<br><ul><li>Competitive compensation: Up to $220k, DOE<br></li></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul><li>Medical Insurance &amp; Health Savings Account (HSA)</li><li>401(k)</li><li>Paid Sick Time Leave</li><li>Pre-tax Commuter Benefit<br></li></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.<br><br><strong>Posted By:</strong> Gavin Malloy<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:21:55.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

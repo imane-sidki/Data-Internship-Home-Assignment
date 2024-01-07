@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (New Grad)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We\u2019re working to find new and better ways to help businesses succeed on their own terms\u2014and we\u2019re looking for people like you to help shape tomorrow at Square.<br><br><strong><u>Job Description<br><br></u></strong>Our software engineers are responsible for keeping Square simple and making our users faster and smarter by giving them a designed payments experience and rich data surrounding each transaction. The Emerging Talent team at Square hires engineers of all shapes and sizes, who are excited about building world-class software and solving hard problems. Our challenges span many technologies, from web and mobile applications (iOS, Android) to server-side development (Java and/or Ruby). Our engineers work on small teams with people across engineering, product, and creative, building reliable, fast, responsive, and beautiful software.<br><br><strong><u>You Will<br></u></strong><ul><li>Ensure Square works right, every time, by using testing, continuous integration, and in-depth code reviews (Reliability)</li><li>Create interactions and APIs that promote trust, increase security, and make it harder to do the wrong thing (Security)</li><li>Collect all the data around every transaction and turn it into tools that help our users (Analytics)</li><li>Envision entire new products, features, and flows that are inspired, considered, and magical (Products)</li><li>Make quick decisions on millions of dollars which requires diligence and passion for detecting bad actors and preventing loss (Fraud Prevention)<br></li></ul><strong><u>You Have<br><br></u></strong><strong>Qualifications<br></strong><ul><li>An expected graduation between December 2021 and May 2022 and are completing a degree in Computer Science, Electrical Engineering, Math or related technical field. Bootcamp graduates and engineering training participants are also considered upon completion of program requirements</li><li>Programming experience in one or more object-oriented languages, including C, C++, Objective-C, Java, Ruby, Scala, Go, or Python<br></li></ul><strong><u>Additional Information<br><br></u></strong>We\u2019re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Square is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.<br><br>We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. <em><strong>Want to learn more about what we\u2019re doing to build a workplace that is fair and square? Check out our I+D page. <br><br></strong></em>Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.<br><br><strong>Perks<br><br></strong>We want you to be well and thrive. Our global benefits package includes:<br><ul><li>Healthcare coverage</li><li>Retirement Plans</li><li>Employee Stock Purchase Program</li><li>Wellness perks</li><li>Paid parental leave</li><li>Paid time off</li><li>Learning and Development resources<br></li></ul><em>Square, Inc. (NYSE: SQ) builds tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in person, manage their business, and access financing. Individuals use Cash App to spend, send, store, and invest money. And TIDAL is a global music and entertainment platform that expands Square&apos;s purpose of economic empowerment to artists. Square, Inc. has offices in the United States, Canada, Japan, Australia, Ireland, Spain, Norway, and the UK.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T02:43:22.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 116000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

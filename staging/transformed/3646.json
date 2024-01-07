@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Electronics,Retail",
+    "description": "<strong><u>Responsibilities<br><br></u></strong>Kforce has a client in Beaverton, OR that is seeking a Site Reliability Engineer. As a Site Reliability Engineer in the Retail and Athlete Tools team, you will be passionate about maximum availability, observability, reliability, security, and performance of the company's Digital Experiences in Stores and in our Digital call centers around the globe. The Site Reliability Engineer will build applications, tools, and automation using technical skills to provide deep problem analysis, detect system faults or code defects, define, report, write and build observability processes for critical metrics, and partner up with product delivery teams to provide long term scalable solutions to production issues.<br><br><strong><u>Requirements<br></u></strong><ul><li> Bachelor's degree in Computer Science, Information Systems, Business, or other relevant subject area Site Reliability Engineer</li><li> 1-2 years of professional experience in software development, testing and/or devops engineering </li><li> Design and development experience with microservice based architecture in Java, Node.js, or similar language preferred </li><li> Design and development experience with front-end UI languages such as Javascript, React, Swift or similar preferred </li><li> Experience building, deploying and supporting cloud-based systems in AWS preferred </li><li> Experience with at least one database layer such as SQL, DynamoDb, Cassandra etc. </li><li> Understanding of basic network and infrastructure concepts such as DNS, Virtualization, Linux * Experience with Docker and/or Serverless patterns a plus </li><li> Experience with observability monitoring tools such as Splunk, SignalFx, New Relic, or Catchpoint a plus </li><li> Background with ITIL or Lean a plus</li><li> Ability to observe, diagnose, code, and test fixes for production issues quickly and efficiently </li><li> Ability to develop and drive real time supervising solutions that provide transparency into site health and key performance indicators </li><li> Capable in reporting and communicating metrics with an understanding of the business landscape and how site reliability influences our consumers </li><li> Working understanding of IT service management (Incident, Problem, Change and Knowledge management) </li><li> Ability to work across teams (business and technical) to continuously analyze system performance, seek for avoidance/root-cause, and proactively identify areas in need of optimization </li></ul> Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.<br><br>Salary: Competitive",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-09T17:14:01.000Z"
+  },
+  "company": {
+    "name": "Kforce Inc",
+    "link": "https://www.linkedin.com/company/kforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

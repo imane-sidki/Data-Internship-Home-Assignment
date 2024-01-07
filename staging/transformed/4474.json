@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "",
+    "description": "<p><strong>Junior Data Scientist</strong></p><p>Lexical Intelligence provides software and services related to processing large-scale biomedical information sources. Our NLP and analytics software is used by policy and decision makers to evaluate and prioritize current and emerging areas of research.</p><p><br></p><p>We are looking for a data scientist to work at the National Institutes of Health in Bethesda, MD. The data scientist will have experience in NLP and applying statistical methods and techniques, including statistical significance and hypothesis testing, analysis of various corpora utilizing advanced statistical modeling techniques including machine learning, standard linear models, or random forests. The data scientist will have a firm understanding of the nuances involved in unbalanced training sets, test/train/validation splits, gold standards, significance testing, and hyperparameter optimization.The data scientist will be comfortable working independently, while being part of a larger team of analysts and subject matter experts. Applicants selected will be subject to a pre-employment background and reference check.</p><p><br></p><p><strong>Qualifications</strong></p><p>Minimum qualifications:</p><ul><li>1 year of experience</li><li>BS or other degree(s) in data science, computer science or related fields</li></ul><p><br></p><p>Preferred qualifications:</p><ul><li>Highly proficient with natural language feature engineering, data augmentation, imbalanced classification, and ML model evaluation</li><li>Highly proficient coder in languages such as Python and Java</li><li>Experience utilizing computational language processing including rule based models (context-free grammars), embedding models (word2vec), and document-level summarization</li><li>Experience in network and graph theory expertise including spectral clustering and node2vec</li><li>Knowledge of deep learning models using machine learning libraries such as TensorFlow, or PyTorch</li><li>Experience using neural network architectures such as convolutional neural networks, recurrent neural networks, and generative adversarial models among other techniques and approaches</li><li>Experience with data extraction from unstructured sources, integrating data from multiple databases, cleaning, and normalizing for downstream data analysis.</li><li>Independent worker with strong analytical skills and excellent written and verbal communication skills</li></ul><p><br></p><p>All candidates will be required to undergo a background check and must be authorized to work in the United States.</p><p><br></p><p><strong>Salary and benefits</strong></p><p>We offer a competitive salary and a generous benefits package, including: full health and dental for you and your dependents (choice of POS or PPO plans), retirement account, short and long term disability insurance, life and accident insurance, paid time off, and 10 federal holidays.</p><p><br></p><p><strong>Location: </strong>Bethesda, MD</p><p><br></p><p><strong>Applications</strong></p><p>To ensure that we consider your application, craft a resume that succinctly describes your primary skills and relevant expertise and send it, together with a cover letter, to careers@lexicalintelligence.com</p><p><br></p><p><strong>Equal Employment Opportunity Policy</strong></p><p>Lexical Intelligence, LLC, provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</p><p>This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T16:06:57.000Z"
+  },
+  "company": {
+    "name": "Lexical Intelligence",
+    "link": "https://www.linkedin.com/company/lexical-intelligence"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rockville",
+    "region": "MD",
+    "postal_code": "20850",
+    "street_address": null,
+    "latitude": 39.08418,
+    "longitude": -77.1529
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p>Urjanet is an Atlanta-based technology company that has built the world\u2019s first and largest platform to aggregate utility data. Through this platform, our customers use utility data to support a variety of applications and use cases, including energy management, sustainability reporting, bill payment, credit decisioning, and address verification. Our </p><p>   platform, which has won numerous awards, is available in forty-seven countries around the world and expanding rapidly. </p><p>Urjanet has positive impacts on climate change, financial inclusion, and data privacy. We\u2019re looking for top talent to join our team and help shape the future of our business. </p><p>Urjanet seeks a Site Reliability Engineer to be part of our team in Atlanta, Georgia. This individual will be part of the global team that provides 24/7 support for our production operations in the cloud. They will also be responsible for contributing to the maintenance and improvement of our infrastructure. The successful candidate will have experience in AWS, a solid understanding of continuous deployment, automation, production alarming and </p><p>   operations, and some scripting and coding experience. </p><p><strong>Responsibilities </strong></p><p>  \u2022 Monitor, maintain and improve the engineering infrastructure: Making sure that our production environment is </p><p>  continually available for our customers, and responding to any alerts or issues. </p><ul><li>Participate in production operations shift coverage to ensure continuous availability 24x7 of the infrastructure </li><li>you\u2019re responsible for maintaining. </li><li>Work directly with Engineering to help troubleshoot and adjust alarms as needed to keep alarms relevant and </li></ul><p>   alarm fatigue at a minimum. </p><ul><li>Create and maintain documentation regarding processes and troubleshooting procedures. </li><li>Engineer tools and processes to reduce downtime and toil for the team. </li></ul><p>   \u2022 Contribute to projects (either as an individual or as part of a small team) with research and implementation to help bring them to completion. </p><p>  </p><p>\u2022 Participate in peer technical design review sessions to assist in bringing about best practices and optimize designs/solutions. </p><p><strong>Requirements </strong></p><ul><li>  At least 2-3 years experience in an Operations support role in the public cloud. </li><li>Familiarity with AWS: Our primary workloads are on AWS, and as a result, so are all the day-to-day operations </li></ul><p>   you will be responsible for. You should have a familiarity with AWS somewhere near the AWS Solutions Architect Associate level, as well as the hands-on experience to match. You must have this in order to perform the job. </p><ul><li>Some familiarization with containers and Kubernetes: The majority of our workloads are containerized. Understanding the basic concepts will be needed to assist with your troubleshooting. </li><li>Solid understanding of Continuous Delivery and Infrastructure as Code. Design and most implementation of the mechanisms will fall to more senior members of the team. However, you will be utilizing the existing implementations daily, and in the case of IaC, be making adjustments. </li><li>Some experience with scripting: You should have a moderate amount of experience with scripting and/or programming, and be able to pick up new ones quickly. Scripting work will include not only modification or </li></ul><p>   improvement of existing scripts, but creation of new ones as necessary. This position will primarily use Bash, </p><p>Python or Golang. </p><ul><li>Strong understanding of some of the commonly used internet protocols and networking, as well as cloud </li><li>networking. Subnetting, firewalling and protocols like DNS, SSH, HTTP(S), SMTP as well as any AWS </li><li>specific implementations (Route53, Security Groups/ACLs, ALBs, SES, etc) will be used on a regular basis. </li><li>Experience with Jenkins: We use Jenkins heavily in our day-to-day operations. </li><li>Familiarity with Atlassian products: We use multiple Atlassian products. Familiarity with Jira, Confluence and </li></ul><p>   Bitbucket (or an equivalent GIT based SCM) will assist greatly in your day-to-day tasks.</p><p> \u2022 Familiarity with source control (GIT): Being able to perform checkouts, branching and commits as needed to </p><p>make changes that will get processed by the CD system.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T13:09:52.000Z"
+  },
+  "company": {
+    "name": "Urjanet",
+    "link": "https://www.linkedin.com/company/urjanet-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

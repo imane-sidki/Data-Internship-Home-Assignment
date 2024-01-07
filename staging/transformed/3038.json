@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "Job Summary:<br><br>We have created one of the most powerful brands by bringing memorable, life-changing storytelling to the world. The foundation of this creativity starts with The Walt Disney Studios where we produce, acquire, and distribute live-action and animated motion pictures, video experiences, music, and live performances. Our brands include Marvel, Lucasfilm, Pixar, Disney Animation, 20th Century Studios, and Searchlight Pictures. No other Media &amp; Entertainment company can rival the brands we have the honor of bringing to the world.<br><br>As part of the Studio\u2019s Technology team you\u2019ll be joining a group of seasoned, dedicated technologists solving a range of interesting problems in innovative ways in an exciting and dynamic industry.<br><br>We are looking for a Software Engineer who is dedicated to help us implement high-quality applications used in the development and production of film and direct-to-consumer content. We\u2019re a casual shop that values passion, community involvement and exceptional software. If this is you, we want you to join our team.<br><br>Responsibilities:<br><br>You will be part of the team creating the next-generation internal systems for movie and direct-to-consumer creative development and production. You should be comfortable being part of a cross-functional team and working with a diverse group of business stakeholders and technologists. We expect you to have a deep understanding of Quality Assurance Testing.<br><br>Your key responsibilities will be:<ul><li>Analysis and Design</li><ul><li>Conducts fact gathering sessions with customers.</li><li>Consults with Business Analysts to identify and analyze technology needs and problems.</li><li>Performs data flow diagramming and/or process modeling (code architecture).</li><li>Writes technical specifications for application components.</li><li>Prepares estimates for design, coding and testing.</li><li>Designs complex software and database objects.</li></ul></ul><ul><li>Development and Testing</li><ul><li>Develops new complex features and functions for software applications.</li><li>Expert in connecting Web interface to back-end services and functions using AJAX, SOAP and REST services.</li><li>Strong understanding of complex cross-platform and cross-application integration techniques.</li><li>Identifies complex integration and user acceptance test scenarios.</li><li>Provides programming support through all testing phases and general releases of software.</li><li>Adheres to department programming standards and methodology.</li><li>Performs peer and lower level code reviews.</li><li>Adheres to department programming standards and methodology.</li><li>Experience working in an \u201cAgile\u201d environment is a plus.</li></ul></ul><ul><li>Delivery and Installation</li><ul><li>Prepares pre-release and release process documents including Change Control, contingency and fallback Plans.</li><li>Assists the Infrastructure group with configuration and deployment of new systems.</li></ul></ul><ul><li>Production Support</li><ul><li>Conduct functional analysis for production support activities.</li><li>Identify complex problems and analyze potential solutions including workarounds.</li><li>Perform tuning, repairs and/or maintenance to production applications.</li><li>Work with other IT departments on integrated system support, as required.</li></ul></ul><ul><li>Administrative</li><ul><li>Works as a member of a cross-functional, integrated development team.</li><li>Communicates plans, status and issues to management on a regular basis.</li><li>Adheres to department standards, policies, procedures and industry best practice<br></li></ul></ul><strong>Basic Qualifications:<br><br></strong>Knowledge:<br><br><ul><li>Expert in Java programming, Developing REST APIs</li><li>Experience with Java 8, Git</li><li>Expert developing REST services in Java.</li><li>Strong experience with JPA libraries, querying and manipulating data using SQL</li><li>Expert working with relational databases platforms.</li><li>Strong experience working with Postgress.</li><li>Strong experience with document storage in AWS (S3).</li><li>Good understanding of deployment strategies for distributed and multi-tiered applications.</li><li>Knowledge of Software Development Life Cycle methodologies.</li><li>Knowledge of relational database concepts and database management systems.</li><li>Knowledge of the UNIX operating system (especially Linux), and UNIX development tools and environments.</li><li>Experience with CI/CD pipelines</li><li>Experience with Spring Boot</li><li>Experience developing/deploying application for cloud environment</li><li>Strong experience and understanding of Kubernetes</li><li>Experience with Elastic Search</li><li>Knowledge of Entertainment industry business practices a plus.<br><br></li></ul>Skills:<br><br><ul><li>Capable of translating complex business needs into technical solutions.</li><li>Capable of translating what the UX/UI Designer into technical solutions.</li><li>Comfortable working on different databases, Oracle, SQL Server, Postgress.</li><li>Must be able to understand what the \u201cintent\u201d of the requirements are.</li><li>Must be able to understand specific use cases where technology must adapt to the ways and culture in which a business unit operates and not the other way around.</li><li>Must be able to understand that a user-friendly front end is part of the requirements.</li><li>Good verbal and written communication skills.</li><li>Advanced skills in developing programs using Java.</li><li>Advanced skills in SQL &amp; Postgres</li><li>Strong experience with Kubernetes</li><li>Able to create an implement CI/CD strategy<br><br></li></ul>Experience:<br><br><ul><li>Minimum 4 years of experience developing multi-tier applications in a business environment.</li><li>Minimum 4 years of experience developing applications using Java language and toolset.</li><li>Minimum 4 years of experience developing modern, responsive and complex web-based Java applications in a business environment.</li><li>Minimum 2 years of experience developing on Linux.<br><br></li></ul>Required Education<br><br><ul><li>Bachelor\u2019s degree or higher in Computer Science or related field.<br><br></li></ul>829922BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T13:52:03.000Z"
+  },
+  "company": {
+    "name": "The Walt Disney Company",
+    "link": "https://www.linkedin.com/company/the-walt-disney-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 87200,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

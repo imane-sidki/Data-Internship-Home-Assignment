@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Computer Hardware,Computer Networking",
+    "description": "<p>Position Details:</p><p><strong>Location:</strong> San Francisco, CA (100% Remote)</p><p><strong>Type</strong>: Full Time</p><p><strong><em>Must have TN Visa, GC, USC, H4 EAD, or H1B </em></strong></p><p><strong></strong></p><p><strong>Referral Program: Not Interested but know someone!? We offer a $1000 Referral Bonus for anyone you refer that gets the project.</strong></p><p></p><p><strong>You Want</strong></p><p>To automate infrastructure behind customer facing APIs with high availability, reliability, scalability.</p><p>To build systems that:</p><ul><li>Look Elegant and reliable on the outside</li><li>Deal with the complexities of rigorous business logic</li><li>Transparently handle hardware failures</li><li>To work in Go and other tools as necessary to build systems.</li><li>To participate and thrive in a delivery-oriented, goal-centric culture.</li></ul><p></p><p><strong>Successful candidates will</strong></p><ul><li>Demonstrate the ability to be productive and independent in a remote environment</li><li>Design, write, and maintain software to improve the availability, scalability, reliability, performance, and efficiency of our services, incorporating third-party open-source tools when available</li><li>Create new designs for a growing number of distributed systems</li><li>Design and implement the tools and processes used for deployment and change management</li><li>Plan and execute configuration management</li><li>Automate resource provisioning and allocation process</li><li>Own, maintain, and continuously improve all systems provided as a service, such as monitoring and datastores</li><li>Engage in service capacity planning and demand forecasting, anticipating performance bottlenecks</li><li>Run software performance analysis</li><li>Plan and execute disaster recovery drills</li><li>Participate in rotating on-call duties</li></ul><p><br></p><p><strong>You have</strong></p><p>A Love of systems engineering, APIs, and making applications secure. You enjoy collaborating and coming up with reliable solutions that solve business needs. You constantly seek ways to ensure your systems meet the objectives while improving performance.</p><p><br></p><p>The ideal candidate doesn\u2019t have all of the following, but is seeking to gain experience with them:</p><ul><li>Comfortable with languages such as Go and Python</li><li>Minimum of 4 years of industry experience in engineering</li><li>Familiarity with algorithms, data structures, and complexity analysis</li><li>Experience with Grafana and Prometheus</li><li>Experience working with Linux systems from kernel to shell including working with system libraries, file systems, and client-server protocols</li><li>Experience with networking (TCP/IP, UDP, ICMP, ARP, DNS, load balancing, etc.)</li><li>Experience with configuration management tools (Ansible)</li><li>Systematic problem solving</li><li>Elegant and simple solutions to complex problems</li><li>Strong sense of ownership and drive</li><li>Expertise in designing, analyzing, and troubleshooting large-scale distributed systems</li></ul><p><br></p><p><strong>We offer</strong></p><ul><li>An opportunity to build a cloud solution and scale it to meet the needs of the world\u2019s largest cloud consumers</li><li>A highly distributed, remote-friendly team (US preferred)</li><li>An opportunity to shape product and business strategy and can grow into new roles as the organization grows</li></ul><p></p><p><br></p><p>Blackstone Talent Group is a division of Blackstone Technology Group, a global IT services and solutions firm that implements technological solutions across commercial industry verticals and the US Federal Government. Blackstone\u2019s global talent augmentation practice was founded in 1998. Blackstone Talent Group has offices in San Francisco, Denver, Houston, Colorado Springs, and Washington, DC. We specialize in providing clients the best talent across a variety of industries and sectors.</p><p></p><p><strong>EOE of Minorities/Females/Veterans/Disabilities</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T20:24:07.000Z"
+  },
+  "company": {
+    "name": "Blackstone Talent Group",
+    "link": "https://www.linkedin.com/company/blackstonetalentgroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer \u2013 Containers &amp; Cloud",
+    "industry": "Computer & Network Security",
+    "description": "<p><strong>The Position</strong></p><p>We are looking for bright and talented software engineers with primary knowledge in containers and cloud to join one of our cross functional international teams in Boston. The Boston team will be a new innovation hub with strong focus on containerization and cloud SaaS, for our flagship product Appgate SDP. With Appgate SDP we provide Zero Trust Network Access (ZTNA) to our customers which has been recognized by Forrester as one of the few leaders in the new hype in cybersecurity. If you can bring passion, knowledge and innovation to the team, we\u2019d love to hear from you! Today our international organization is rapidly expanding and employs over 500 people world-wide with close to 160 software engineers.</p><p> </p><p> We work creatively, agile, and always encourage to use the latest technology. In order to create an inspiring, innovative and knowledge gathering working environment, we give our software engineers maximal autonomy. Within Appgate you will be surrounded by the world\u2019s best ethical hackers, machine learning experts and network security engineers.</p><p> </p><p> </p><p> <strong>What You will do</strong></p><ul><li>Contributing to the containerization of our flagship security products as part of a creative cross-functional international team</li><li>Create new Zero Trust products for containerized workloads</li><li>Create, manage and integrate software to automate and secure our public and private cloud offerings.</li><li>Building automated frameworks for safe production deployments which can easily be maintained and operated by our SRE\u2019s</li><li>Always learn and bring new concepts and technology to your team</li></ul><p><br></p><p><strong>What you will need</strong></p><ul><li>Work experience with containerized workloads: Kubernetes, Docker</li><li>Work experience in some of the following areas: Go, Python, Rest APIs, AWS, GCP, Azure, Terraform, other programming languages</li><li>Good understanding of the Linux operating system</li><li>Strong knowledge about automatic deployment of software</li><li>Some basic knowledge about IP networking</li><li>Cares about readable, performant, reliable, and secure code</li><li>Able to work with other international software teams</li></ul><p>\u00b73+ years of experience or show desire to take a steep learning curve</p><ul><li>Fluent in English </li></ul><p><br></p><p><strong>Your Key interests</strong></p><ul><li>Cybersecurity</li><li>Containers</li><li>Cloud environments such as AWS, GCP and Azure</li><li>Continuous deployment and integration</li><li>SAAS based software delivery</li></ul><p><br></p><p><strong>The Company</strong></p><p>Appgate is a new large-scale international security software startup that brings together a set of highly innovative cloud and hybrid-ready security and analytics products and services with a big focus on Network Access, Anti-Fraud and offensive security services. The company is planning to go public in the second half of the year, and just got a new $100 Million funding for our ambitious expansion plans.</p><p><br></p><p>Appgate SDP is a context-aware, identity-centric access control solution that surpasses outdated hardware-defined and perimeter-centric approaches to infrastructure security with a \u201csoftware-defined perimeter\u201d that increases resilience, simplifies management complexity and reduces costs. Currently deployed with well over 200 customers, including a few fortune 100 companies and governments. Appgate SDP is the fastest growing product within the Appgate portfolio.</p><p></p><p>Does this sound like an interesting challenge for you? We hope to hear from you!</p><p><br></p><p>Interviews are held regularly so the role can be filled before the application deadline.</p><p><br></p><p>Privacy and PuL - When you apply you allow us to save your information strictly for recruitment purposes.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:31:35.000Z"
+  },
+  "company": {
+    "name": "Appgate",
+    "link": "https://www.linkedin.com/company/appgate-security"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>ForceMetrics\u2122 mission is to solve some of the most challenging societal problems through data science, and we\u2019re looking for a talented <em>Machine Learning Ops Engineer</em> who will be pivotal in making that happen. You will be an owner of our first product aimed at transforming the way police departments and community services engage each other. You will do this by working closely with our data science team, analyzing and enriching some of the most interesting public safety datasets rarely ever available.</p><p><br></p><p>As such, the platform you help develop will produce real-time and actionable insights that will have a direct impact on public safety, community, and daily life to provide answers to these questions:</p><p><br></p><ul><li>How do we help police officers engage with our community to provide social and emotional support services?</li><li>How do we better identify individualized training content specific to the officer?</li><li>How do we identify risky situations in the moment?</li><li>How do we help city leaders identify stress and burnout before it is too late?</li></ul><p><br></p><p><br></p><p><strong>HOW YOU WILL HAVE IMPACT</strong></p><p>We're seeking a self-starting, mission-driven <em>Machine Learning Ops Engineer</em> capable of unifying data and building systems that scale from both an operational and an organizational perspective. The individual will work on our core data analytics platform, which synthesizes and enriches law enforcement datasets to identify optimal activity patterns and improve officer effectiveness and resource planning.</p><p><br></p><p>In addition, as an early member of our engineering team, you'll have many opportunities to forge our best practices, technical decisions, and create areas of ownership for yourself. We are actively considering applicants that are fully remote.</p><p><br></p><p><br></p><p><strong>WHAT YOU WILL DO</strong></p><p>This position is for someone who is a jack of all trades and highly skilled in at least a few. Here are a few things you can expect to do:</p><p><br></p><ul><li>Develop, test, and maintain the data processing and ETL process from multiple, disparate structured/unstructured data sources</li><li>Design, implement, and maintain the core data models and databases in a scalable and fault-tolerant manner, and build performant interfaces to this data</li><li>Design and build large-scale, cloud machine learning pipeline (processing, training, inference, monitoring) in a replicable, well-documented, scalable, and highly performant manner</li><li>Develop and implement novel data-acquisition and labeling systems (e.g. active learning, crowdsourcing)</li><li>Attend customer meetings. Our product development is customer-centric, so you should be excited to join calls with customers to ask questions, get feedback, and bounce ideas around.</li><li>Fix bugs, improve our release process, and help in countless other things that are crucial at a startup but might be taken for granted in larger, more established companies.</li><li>Actively collaborate with teammates in an exciting and creative environment.</li></ul><p><br></p><p><br></p><p><strong>WHAT YOU MIGHT HAVE</strong></p><ul><li>3+ years experience in designing, implementing, and maintaining data processing and ETL pipelines on multiple, disparate sources of data, preferably with large-scale data processing pipeline</li><li>3+ years in designing, implementing, testing, and maintaining machine learning pipelines</li><li>Excitement about learning how to build and support machine learning pipelines that scale not just computationally, but in ways that are flexible, iterative, and geared for collaboration</li><li>Expert experience architecting, writing, optimizing, &amp; debugging software applications, in modern Python stacks with a focus on building scalable ML</li><li>Open-minded mentality and strong willingness to collaborate with others</li><li>Self-starter with excellent communication skills, able to work independently with little direction</li><li>BS degree in Computer Science or similar technical field of study, or equivalent experience</li><li>Candidate must be a US Citizen or US Resident due to strict data privacy requirements</li><li>Willing to undergo background checks in order to work with the highly sensitive data entrusted with us to positively impact the world.</li></ul><p><br></p><p>Some things that will make you stick out:</p><ul><li>Early stage tech startup experience and/or experience building and scaling a product</li><li>Industry or academic experience working on various ML problems</li><li>Experience with managing large-scale data labelling and acquisition, through tools such as through Amazon Turk or DeepDive</li><li>Experience using Python ML frameworks (i.e PyTorch, Spacy, Tensorflow), orchestration, and pipelines (i.e. Kubeflow, Polyaxon, DVC, MLflow)</li><li>Deep knowledge of SQL and relational databases</li><li>Exceptional understanding of web security and performance best practices</li></ul><p><br></p><p><br></p><p><strong>WHAT WE CAN OFFER</strong></p><ul><li>A strong sense of mission for impacting real communities and solving complex real-world problems</li><li>Work alongside other top talent in a rewarding and enjoyable culture</li><li>Competitive salary + equity (seed-stage)</li><li>Medical, Dental, Vision &amp; Life insurance</li><li>Flexible remote working hours</li><li>Standard holidays and paid time off</li></ul><p><br></p><p><br></p><p>ForceMetrics\u2122 is venture-backed with a diverse founding team led by Andre McGregor, computer engineer and veteran FBI Special Agent turned entrepreneur, alongside a team of data scientists, software engineers, cybersecurity experts, and business operations leaders - many of whom were law enforcement officers themselves, and have built successful companies before. We have a robust set of investors and an advisory board of active/retired police chiefs, government leaders, and technology innovators.</p><p><br></p><p>ForceMetrics\u2122 values diversity and we are proud to be an Equal Opportunity Employer committed to providing employees with a work environment free of discrimination and harassment. ForceMetrics\u2122 will not tolerate discrimination or harassment of any kind based on any characteristics.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T01:02:44.000Z"
+  },
+  "company": {
+    "name": "ForceMetrics",
+    "link": "https://www.linkedin.com/company/forcemetrics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

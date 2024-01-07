@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "<br><strong>Do what you love. Love what you do. <br><br></strong> At Workday, we help the world\u2019s largest organizations adapt to what\u2019s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we\u2019re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. <br><br><strong>About the Team<br></strong>The Delivery Engineering team for Workday Analytics is a team of engineers for engineers. We get the opportunity to support a lot of different groups including back-end, front-end, SDETs, etc. We spend our time writing software and manage how we deliver, deploy, monitor and everything in-between. \u00a0We are responsible for the infrastructure around how we build Prism, how we support and test and, ultimately, how we deploy. We are a small but growing team with a diverse set of skills. This is an exciting area of growth at Workday that your contributions will have a direction impact on. Our team is keenly focused on several of Workday\u2019s core values, including innovation, integrity, and employees.<br><strong>About the Role<br><br></strong>You will be a key contributor on the Analytics Delivery Engineering team. As an SRE, you will help in building a clean, scalable, reliable, and automated services framework.<br><br><strong>What You Will Do<br></strong><ul><li>Work on projects ranging from building out robust CI/CD to automation for both the Prism engineering team and SRE team</li><li>Work on enhancements and improvements for monitoring, alerting, and tracing of not only internal services but most importantly, production services.</li><li>Collaborate with others on the SRE team to help set technical direction while ensuring requirements are met.</li><li>Help enhance, build, and maintain internal infrastructure running in the public cloud as well as orchestration across the Workday Private Cloud.</li><li>Interact and be the primary contact with multiple teams both internally in Workday Prism Analytics alongside external Workday teams</li><li>Participate in and facilitate production on-call duties and events to ensure reliability of the analytics applications and play a pivotal role in building the foundation that delivers Workday Analytics to the cloud.<br><br></li></ul><strong>About You<br><br></strong><strong>Basic Qualifications<br></strong><ul><li>MS in Computer Science or related field and 2 years relevant experience or BS in Computer Science or related field and 5 years relevant experience</li><li>You have a strong coding background and can utilize various languages. We focus and build tooling and automation using Python, GoLang and Java.</li><li>You prefer building infrastructure and tooling in the cloud and using managed services where possible, we focus on AWS</li><li>You package and deliver immutable services and functions, utilizing Docker, Kubernetes and Serverless frameworks (AWS Lambda, API Gateway)<br><br></li></ul><strong>Other Qualifications<br></strong><ul><li>You have experience in designing, analyzing, and troubleshooting large-scale distributed systems build on technologies like Spark, YARN, Hadoop, Kubernetes</li><li>You love to work in Unix/Linux from kernel to shell, file systems, client-server protocols, etc.</li><li>You believe that everything should be repeatable and use orchestration and deployment tools and Infrastructure as Code such as terraform, Ansible</li><li>You rely on CI/CD to automatically deliver build pipelines such as Jenkins, TeamCity, Bamboo, Artifactory</li><li>You utilize and help create meaningful metrics and alerts using technologies like: Prometheus, Sensu, Nagios, Kafka, Grafana, Wavefront, BigPanda, DataDog, PagerDuty, CloudWatch</li><li>You\u2019ve worked with JVM\u2019s and have debugged and tuned them in the past<br><br></li></ul> Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T07:05:33.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85800,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

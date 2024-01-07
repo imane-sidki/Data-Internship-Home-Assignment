@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer: Biomechanics",
+    "industry": "",
+    "description": "<p><strong>About Us</strong></p><p><br></p><p>Autonomous Healthcare is a medical technology company developing the next generation of devices and technologies for healthcare. The company has received numerous Government grants (NASA, DARPA, NIH, NSF) to commercialize new technologies. Our company's mission is to commercialize breakthrough medical technologies predicated on state-of-the-art frameworks in machine learning and autonomous medical systems.</p><p><br></p><p><strong>Description</strong></p><p><br></p><p>Autonomous Healthcare has an opening for machine learning engineer with an interest in biomechanics and gait analysis. The goal is to implement algorithms (signal processing and machine learning) to analyze human gait within a clinical setting. The ideal candidate has a solid understanding of biomechanics, machine learning including activity recognition and pose estimation.</p><p><br></p><p><strong>Must Haves</strong></p><p><br></p><ul><li>Experience in Python</li><li>Prior research and coursework in biomechanics and human gait analysis</li><li>Willing to learn new subjects and collaborate with a small team in a R&amp;D environment</li><li>Solid understanding of computer vision and machine learning methods</li></ul><p><br></p><p><strong>Extra Credit</strong></p><p><br></p><ul><li>Prior work using the Microsoft Kinect camera or other depth sensing cameras</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T14:42:51.000Z"
+  },
+  "company": {
+    "name": "Autonomous Healthcare",
+    "link": "https://www.linkedin.com/company/autonomous-healthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>The Role<br><br></strong>Cedar is a patient payment and engagement platform that elevates the total patient experience beyond clinical care. The platform leverages data science and technology to deliver modern intelligence to health providers and payers, and simplify the healthcare experience for patients.<br><br>Cedar is growing rapidly and data is at the core of everything we do! We build analytics for our clients and our teams to inform the product development process. We tell stories about all aspects of the patient journey and use quantitative analyses to explain patient behavior. We run experiments to test our various hypotheses and iterate using our results. We build models to drive better decision-making, both within our organization and for our clients in the healthcare industry.<br><br>As the scale of the data that we collect has grown, we are looking for a <strong>Data Scientist </strong>with a passion for tool development to join our Data Science Team! This role will be central in our efforts in scaling our data science tooling to support our organizations growth. This is a great opportunity to work in a non-siloed, collaborative meritocracy on challenging problems with other scientists and engineers.<br><ul><li> Cedar is committed to a flexible work environment, so this as well as many of our roles are remote friendly.<br></li></ul><strong><u>Responsibilities<br></u></strong><ul><li>Building and optimizing the process of deploying scalable and reusable statistical data science libraries to support experiments, machine learning models and product analyses.</li><li>Collaborate with data engineers in building tools to standardize and streamline analysis, and designing and deploying new experimentation, data science and machine learning pipelines.</li><li>Collaborate with the platform team to deploy new tooling to support the ongoing data science efforts.<br></li></ul><strong><u>Skills And Experience<br></u></strong><ul><li>2+ years experience as a data scientist.</li><li>2+ years experience of software engineering best practices.</li><li>Experience working with relational databases, such as PostgreSQL, or MySQL</li><li>Experience with Python and ORM tools such as SQL Alchemy</li><li>Sound knowledge of statistical algorithm implementations.</li><li>Demonstrates a passion for breaking down and understanding complex systems.</li><li>A great teammate with excellent communication and listening skills.</li><li>Ability to thrive in an entrepreneurial environment, comfortable with ambiguity</li><li>Strong computer science fundamentals</li><li>Encompass Cedar\u2019s core values: mission driven, no mediocrity, use good judgement, and growth mindset.</li><li>Excited about Cedar\u2019s mission of improving the healthcare financial experience</li><li>Eligible to work in the United States<br></li></ul><strong><u>Prefered Skills And Experiences<br></u></strong><ul><li>Experience with AWS data services/tools such as Sagemaker, Redshift, S3, Athena, Glue is preferred.<br></li></ul><strong>What do we offer to the ideal candidate?<br></strong><ul><li>An opportunity to work on a platform that is scaling very rapidly, engaging with millions of patients per year and growing at a rate of 360% YoY as of January 2021</li><li>A chance to join a high-growth company at an early stage</li><li>The ability to impact the growth of our company, we value all comments and suggestions</li><li>Transparency across teams and interaction with multiple departments</li><li>Competitive pay, employer-paid healthcare, stock options<br></li></ul><strong><em>Applicants must be currently authorized to work in the United States on a full-time basis. Cedar will not hire any applicants for Data Scientist position who are present in the United States on an F-1</em></strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Cedar",
+    "link": "https://www.linkedin.com/company/cedar-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62100,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

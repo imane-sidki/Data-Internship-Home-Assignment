@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. You bring passion, and dedication to your job and there's no telling what you could accomplish.<br><br><br>We are building the next generation systems powering Apple Pay. Working alongside a talented team of engineers our initiative is to build the strategic elements of the Apple Pay stack, enabling first to market features that differentiate our products.<br><br> <br><strong>Key Qualifications<br></strong> <br>Significant experience (5+ years) in designing, implementing &amp; supporting highly scalable systems and services in Java, Scala and/or other JVM-based languages<br><br>At least 4 years experience with SQL, NoSQL or NewSQL technologies (see Additional Requirements below)<br><br>Self-starter with strong customer and product focus<br><br>Ability to communicate thoughtfully, leveraging problem-solving skills and a learning mindset to build long-term relationships<br><br> <br><strong>Description<br></strong> <br>We are looking for a team member with a strong foundation in computer science theory and industry experience. In this role, you will design, develop, and deliver components of a distributed system that is key to the Apple Pay stack.<br><br><br>You will have a proven ability to solve problems, interest in continuous learning and digging deep into the domain when necessary. <br><br><br>Job functions include: <br><br><br>-  Cross-functional collaboration throughout the entire software lifecycle<br><br>-  Scoping, design, and implementation of scalable, resilient distributed systems<br><br>-  Participating in design sessions and code reviews with peers to elevate the quality of engineering across the organization<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science or related technical field, equivalent work experience will be considered<br><br> <br><strong>Additional Requirements<br></strong> <br>Any of the following is an advantage:<br><br>Practical experience with CockroachDB, Cassandra, FoundationDB, DynamoD<br><br>Public cloud platforms (AWS, GCP, etc)<br><br>Deployment experience using Docker and Kubernetes<br><br>Relational data modeling &amp; practical experience with RDBMS (Oracle, Postgres, MySQL etc)<br><br>Practical experience with Apache Kafka<br><br>Fintech experience<br><br>Payments experience<br><br> <br>Role Number: 200266172<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T14:47:44.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75400,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

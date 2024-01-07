@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior C++ Software Engineer",
+    "industry": "Financial Services",
+    "description": "<strong>Job Purpose<br><br></strong>ICE Data Services, the premier provider of real-time market data from around the world, is looking for a Senior C++ Software Engineer. Our team is comprised of experts in software development, network programming, performance optimizations and tools development. The individual will join the IDS News and Content team, and will be responsible for developing solutions to distribute News Headlines and Contributed Content into the ICE Connect platform. The ICE Connect platform, products and tools process and distribute market data from around the globe, servicing streaming real-time quotes and charts using cutting edge caching and time series database.<br><br>The ideal candidate should be a highly motivated individual with a proven background in system design and development. Additionally, the candidate should possess solid knowledge of server-side technologies, good experience with iterative development and SDLC tools, and the ability to work well with others.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li> Understand complex business systems and workflows and explain them to other developers </li> <li> Exercise judgment within defined standard practices and procedures to analyze, test, design, program, debug, modify and implement system requirements </li> <li> Work closely with the business units and stakeholders on gathering and understanding system requirements </li> <li> Plan and estimate the development for key components, applications and systems </li> <li> Balance design considerations with delivering specified requirements </li> <li> Solve business problems through the use of applied proven technologies </li> <li> Work with system operations, database administration and systems software in production support and defining system recovery procedures </li> <li> Develop high performance and business critical applications that work on large data sets in a clustered environment </li> <li> Identify root causes and develop solutions for program failures </li> <li> Collaborate with business analysts and QA analysts in the design and execution of business feature, regression and integration testing </li> <li> Plan and execute unit tests to ensure the developed code is free of functional defects </li> <br><br></ul><strong><u>Knowledge And Experience<br></u></strong><ul> <li> Bachelor\u2019s Degree or equivalent in Computer Science, or related field </li> <li> 7+ years of C++ development experience for Windows </li> <li> MSSQL Relational database experience </li> <li> Strong understanding of modern C++ &amp; STL (up to and including C++17) </li> <li> Multithreaded application development experience </li> <li> Demonstrable experience in design and system architecture </li> <li> Strong interpersonal skills and ability to work well in a team environment </li> <br><br></ul><strong><u>Preferred<br></u></strong><ul> <li> Exposure to the financial services technologies\u2019 domain </li> <li> Experience with test automation software </li> <li> Experience with distributed storage solutions and/or NoSQL databases </li> <li> Experience with scripting language - Bash, Powershell, Python </li> <br></ul>Intercontinental Exchange, Inc. is an Equal Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin or ancestry, age, disability or veteran status, or other protected status.<br><br>Additional Information<br><ul> <li> Job Type Standard </li> <li> Schedule Full-time</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:12:26.000Z"
+  },
+  "company": {
+    "name": "ICE",
+    "link": "https://www.linkedin.com/company/icemarkets"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Publishing",
+    "description": "<p><strong>Title \u2013 </strong>Software Engineer </p><p><br></p><p><strong>Location:</strong> Hoboken, NJ</p><p><br></p><p>At Wiley, we welcome you for who you are, the background you bring, and embrace individuals who get excited about learning whether online or by book. Learning is for everyone, and so is our workplace. Bring your experiences, your perspectives, and your passion. It\u2019s in our differences that we empower the way the world learns.</p><p><strong>Summary of the role</strong></p><p>The Product Technology group supporting Academic and Profession Learning is seeking a software engineer to join our core development team at our corporate headquarters in Hoboken New Jersey. You will be part of a global team that is responsible for building the features and products that are part of our customer-facing Learning Management Platform. The ideal candidate will be a full-stack developer proficient in front-end technologies like ReactJS as well as experienced in Java/Spring framework. You should have great communication skills and be able to work closely with fellow developers, quality engineers, business analysts and product owners in building products that delight our customers utilizing our Agile methodology. You will be required to analyze and classify requests, identify and document scope and impact on other interfaces. You should understand a broad spectrum of technology in order to provide part or all of a detailed technical design which meets requirements. As part of a larger team you will participate in walk-throughs which review program specs, source code, all technical supporting documentation, including screens/reports as well as provide feedback in accordance with industry and company standards and guidelines.</p><p><strong>We are looking for people who have:</strong></p><ul><li>Bachelor\u2019s Degree in Computer Science (or related field)</li><li>4 or more years of experience as a software engineer</li><li>Hands on experience with React/ React Native, node.js, Angular, modern front-end Web architecture, JavaScript libraries, CSS3, HTML5</li><li>Experience of Spring/ Java, modern front-end Web architecture, MVC/ MVVM framework, Restful API, databases, Amazon web services (AWS)</li><li>Working experience in software and system development, microservices Architecture (SOA</li><li>Hands-on experience in designing, and developing customer facing online platforms</li><li>Knowledge and understanding of a n-tier web architecture</li><li>Strong business analysis skills including ability to craft and prioritize user stories and expertise in managing priorities</li><li>Understanding technology methodologies including Agile (SCRUM), continuous integration/ continuous development and automation</li><li>Creative, solution oriented</li><li>Ability to work as an effective member of a global and multi-culturally diverse team</li><li>Quality focused</li><li>Strong interpersonal skills, including adaptability / ability to manage change</li></ul><p><br></p><p><strong>About Wiley</strong></p><p>We are in one of the most dynamic periods in our history as technology, globalism and economic diversity create far-reaching changes in the world. As a learning business, Wiley makes meaningful contributions to research discovery and lifelong learning by helping organizations achieve their goals and people achieve success from education through their career. We may have been founded over two centuries ago, but our secret to success remains the same: change with the times and adapt to meet the ever-evolving needs of our customers. The company\u2019s headquarters are located in Hoboken, New Jersey, with operations in the U.S., Europe, Asia, Australia, and Canada.</p><p>Wiley is an equal opportunity/affirmative action employer. We evaluate qualified applicants and treat all applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability, protected veteran status, or based on any individual\u2019s status in any group or class protected by applicable federal, state or local laws.</p><p>When applying, please attach your resume/CV to be considered</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T00:23:29.000Z"
+  },
+  "company": {
+    "name": "Wiley",
+    "link": "https://www.linkedin.com/company/john-wiley-and-sons"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

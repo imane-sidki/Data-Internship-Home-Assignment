@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Entertainment",
+    "description": "<strong><u>Company Overview<br><br></u></strong>WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world\u2019s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.<br><br>Join us. Shape your story here.<br><br><strong>The Perks<br></strong><ul><li>Exclusive WarnerMedia events and advance screenings</li><li>Paid time off every year to volunteer for eligible employees</li><li>Access to well-being tools, resources, and freebies</li><li>Access to in-house learning and development resources</li><li>Part of the WarnerMedia family of powerhouse brands<br></li></ul>Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T06:02:46.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 89200,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

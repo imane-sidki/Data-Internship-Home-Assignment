@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p><strong>Desired Skills and Experience*</strong></p><p>5+ years of experience as a Software Engineer, with a focus in Middleware technologies (NO Front-End)</p><p>Extensive experience/knowledge of implementing and managing multi-threaded processes, using C#/.NET or C++</p><p>Experience developing interactive APIs, writing libraries/DDL, and working with Windows Services</p><p>Experience with background processing and integrating any type of hardware/device</p><p><br></p><p><br></p><p><strong>Plusses</strong></p><p>Experience with Retails Sales systems or POS (point-of-sale) systems/devices</p><p><br></p><p><br></p><p><strong>Day-to-Day*</strong></p><ul><li>A client is looking for a Software Engineer (C#/.NET) to join their team in Philadelphia, PA. He/she will be supporting the Mobile Device Management applications and the Enterprise Portal. This team manages retail sales systems, that are used on over 10,000 devices across the country (i.e. Point-of-Sale devices). This role will heavily involve middleware technology, multithreading, and Windows Services for communication between the hardware/software. Additionally, he/she will be programming in C#/.NET and conducting basic testing.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T12:46:44.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Frontend",
+    "industry": "Furniture",
+    "description": "<strong>At Feather, our mission is to transform people's relationship with material goods to create a healthier and happier planet. We are redefining furniture rental for city living and helping people feel at home no matter where they live or how long they plan on staying. By giving people smarter options, Feather is able to keep more furniture in homes and out of landfills.<br><br></strong><strong><u>About This Job<br><br></u></strong>We are looking for a talented Frontend Software Engineer to join our team. We have positions open on several different teams, covering all aspects of our business; everything from a heavy frontend, consumer focus to a heavy backend, operations focus, and several points in between. This position is for those who are experienced in the frontend and can help advocate, architect and design scalable client solutions, make major changes to our entire user experience and get their hands dirty with data/state management on a granular level.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul> <li>Focus on user experience and create UIs that are scalable, intuitive and add value for users of all kinds.</li> <li>Work in a distributed architecture consisting of APIs and message/event consuming microservices.</li> <li>Begin to take ownership of larger initiatives, collaborating with other engineers to deliver project epics</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>3+ years of experience building commercial software with a modern programming language</li> <li>An eagerness to join a fast-paced, growing, and evolving environment.</li> <li>Excellent analytical and problem-solving skills.</li> <li>Strong experience creating rich user applications with modern frontend frameworks, such as React, Angular or Vue, and modern state management tools, such as Redux</li> <li>Strong experience working with RESTful APIs, as well as noSQL data models and GraphQL.</li> <br></ul><strong>Technology Stack <br><br></strong>You don't need to have experience with all of these. We\u2019re looking for talented and smart engineers who are willing to ramp up on these technologies.<br><ul> <li>Frontend React, Redux, Saga, Typescript, GraphQL, Storybook, Emotion</li> <li>Backend Express, NestJS, RESTful APIs, GraphQL</li> <br><br></ul><u><strong>Benefits<br></strong></u><ul> <li>Competitive compensation</li> <li>Health, vision, dental, and life insurance</li> <li>401(k), commuter benefits, and HSA/FSA</li> <li>Flexible vacation and paid time off</li> <li>A monthly stipend to support remote work</li> <li>A 50% discount on your own Feather subscription</li> <li>The latest hardware to get the job done</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T03:39:54.000Z"
+  },
+  "company": {
+    "name": "Feather",
+    "link": "https://www.linkedin.com/company/feather1"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

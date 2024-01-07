@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Python &amp; Linux)",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<strong><u>Opentext - The Information Company<br><br></u></strong>As the Information Company, our mission at OpenText is to create software solutions and deliver services that redefine the future of digital. Be part of a winning team that leads the way in Enterprise Information Management.<br><br><strong><u>The Opportunity<br><br></u></strong>OpenText builds breakthrough software solutions that harness the power of information to solve concrete business problems. Our patented innovations at the nexus of law, big data, and predictive analytics help extract critical insights from massive volumes of unstructured data - for eDiscovery, contract analysis, and enterprise knowledge management. With a world-class professional services team across the globe, OpenText is trusted by renowned corporations (BMW, Cisco, Swiss Re), premier law firms (Clifford Chance, Morgan Lewis, White &amp; Case), and key regulatory agencies (SEC, DOE, FINRA).<br><br>Candidate must show aptitude troubleshooting technical issues in mission critical situations; possess strong analytical skills and superior communication skills. Candidate must be comfortable leading a team during a crisis.<br><br><strong><u>You Are Great At<br></u></strong><ul><li>Develop and maintain the deployment and services of cloud SaaS offerings</li><li>Provide Level 3 support for OnDemand and SaaS customers including sending status updates to multiple audiences</li><li>Work seamlessly as part of an escalation team including proper handoffs and escalations</li><li>Participate in an on-call rotation</li><li>Install, patch and upgrade Recommind software</li><li>Design and communicate custom workflows, run books, and response documents</li><li>Take on special projects. Represent the department in meetings. Track and report on ongoing projects</li><li>Evaluate and maintain customized monitors</li><li>Provide scripted solutions to unique scenarios</li><li>Develop and maintain a deep understanding of OpenText\u2019s Axcelerate product<br><br><br></li></ul><strong><u>What It Takes<br></u></strong><ul><li>The team is very open-minded to the tools required, currently including:</li><li>Scripting Languages and surrounding tooling (Python, Ruby)</li><li>Deployment and Configuration Management (SaltStack, Ansible, Terraform, CloudFormation, Puppet, Chef, Consul, Vault, etc.)</li><li>Monitoring tools (Nagios, Icinga, Zabbix, Cloudwatch, etc.)</li><li>Virtualization and Containers (Docker, Kubernetes/EKS, Vagrant, VMware)</li><li>Build Automation and testing (Jenkins, Gradle)</li><li>Analysis / statistics tools (ELK Stack, Grafana, Graylog, Splunk, LogRhythm, Excel, R, Stata, Scipy/Numpy, SQL, etc.)</li><li>Object Oriented Programming (Java, C++)<br><br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Bachelor\u2019s degree in a related field or equivalent work experience required</li><li>AWS Certification preferred</li><li>Candidate must be an enthusiastic and fast-paced worker, able to solve technical challenges creatively in a dynamic environment</li><li>Excellent problem solving ability, verbal and written communication skills, work under strict deadlines in a legal environment and the ability to interact with all levels of staff necessary</li><li>Handle multiple tasks under challenging conditions as a team player<br><br></li></ul>Minimum Slaary we are providing for this role is 125,000 USD/Year<br><br>While OpenText is an Equal Opportunity Employer, our efforts to build an inclusive work environment go beyond simply complying with applicable laws. Our Employment Equity and Diversity Policy provides direction on maintaining a working environment that is inclusive of everyone, regardless of culture, national origin, race, color, gender, gender identification, sexual orientation, family status, age, veteran status, disability, religion, or other basis protected by applicable laws. Should you require accommodations during the selection process, please contact accomodationrequests@opentext.com).",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:05:03.000Z"
+  },
+  "company": {
+    "name": "OpenText",
+    "link": "https://ca.linkedin.com/company/opentext"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80700,
+    "max_value": 138000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

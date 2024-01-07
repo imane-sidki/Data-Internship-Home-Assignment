@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>About The Role<br><br></u></strong>ARC is searching for a Site Reliability Engineer to join our team! As a Site Reliability Engineer, you will provide product teams\u2019 operational and release management support for the full product stack. You will be responsible for release and operational management for the product lifecycle and service management with direction from the Product Owner, the Solution Owner and technical guidance from Solution Architects and Developers.<br><br>Come innovate with us!<br><br><strong><u>What You'll Get To Do<br></u></strong><ul><li>Partner with product owners and business SMEs to analyze the business needs and improve supportability, scalability and recovery for the engineered solution. Ensure that the overall technical solution is aligned with the business needs and operational teams methodologies</li><li>Drive the improvement of service availability to reduce the mean time to recovery using automation. Develop methods for autonomous recovery and self-repairing systems. Ensure the solution is consistent with ARC architecture, design and development standards</li><li>Coordinate and plan system releases and hotfixes. Develop methods that allow simplified triage following a set of checklists, run books and standard operating procedures. Make adjustments to adopt new methodologies that provide the business with increased flexibility and agility</li><li>Support software development by providing operational improvements to non-functional requirements. Develop enhancements to improve service levels by leveraging key performance indicators consisting of monitoring, non-functional testing and availability reports. Provide a service-focused approach leveraging continuous process improvement. Participate in chaos testing to improve system resiliency. Mentor other engineers. Provide overall technical leadership to smaller working teams as needed</li><li>Stay current with latest development tools, technology ideas, patterns and methodologies; share knowledge by clearly articulating results and ideas to key stakeholders<br></li></ul><strong><u>You'll Bring These Qualifications</u></strong><ul><li>Bachelor\u2019s Degree in Computer Science or related engineering field; or equivalent experience</li><li>7+ years of application programming in both front end User Interfaces, server-side application and database queries</li><li>5+ years of experience with full cycle application development (Full SDLC experience: design, development, delivery, etc.),</li><li>3+ years with Agile, Scrum, DevOps, XP, and Continuous Integration and Continuous Delivery</li><li>5+ years of experience implementing modern applications using:</li><ul><li>Cloud Based Solutions/Technologies (AWS, Google, Azure). AWS developer environment including, but not limited to, Lambda, API Gateway, DynamoDB, S3, Cloudwatch</li><li>Implementation of modern application and infrastructure design patterns, including micro-services and containers, disposable, reactive, stateless and distributed patterns</li><li>Open source technologies including, but not limited to, NodeJS, OpenJDK, React, Python and NoSql DynamoDB database(s)</li><li>DevOps tools including, but not limited to, Terraform/Cloud formation, Jenkins pipeline, GIT, Jira, Confluence, Jenkins, Sonar, Nexus, automated test and deployment tools</li><li>Data warehouse platforms (such as Teradata, Snowflake, Redshift). Expertise with SQL, database design/structures, ETL/ELT design patterns, datamart structures (star, snowflake schemas, etc.)</li><li>Experience w/Data Lake concepts and design patters (AWS S3, parquet, python, lambda, java, hadoop, Spark, noSQL mongoDB, Dynamodb, Athena, etc.)</li><li>BI Technologies (such as Tableau, Jasper, Cognos, Qlik, Looker, other)</li><li>Understanding of Data Management and Data governance best practices<br></li></ul></ul><strong><u>You'll Also Bring These Professional Skills<br></u></strong><ul><li>Proven ability to lead multiple resources through triage events and communication after action reports</li><li>Proven ability to lead a group through an operational improvements that reduce mean time to resolution</li><li>Experience leading small technical teams to mentor and guide multiple-disciplined (full stack) technical teams</li><li>Ability to discover and define non-functional requirements and to transform them into technical requirements and solution definition</li><li>Proven ability to influence technology strategy and best practices across peer and leadership groups to support an agile development culture</li><li>Outstanding communication skills (verbal and written) and ability to communicate with internal and external customers and all levels of management, including communicating technical information to nontechnical audiences</li><li>A strong intellectual curiosity to continually challenge what exists and explore what should be changed to best meet evolving business and market</li><li>A strong passion to support peers to help meet timelines on larger projects<br></li></ul><strong><u>What We Can Offer You<br></u></strong><ul><li>Joining ARC means joining a team that is motivated, diverse, creative, collaborative and solutions-oriented. We think big, embrace challenges, and explore new ideas to lead the way for the travel industry.</li><li>Our employees value the hands-on learning and professional development opportunities that allow them to expand their skills and grow their career in new, dynamic ways.</li><li>We offer a highly competitive, comprehensive benefits package so you can worry less and focus on what truly matters.</li><li>By joining ARC, you will partner with top minds in the industry as we use data and technology to innovate how the world travels.<br></li></ul>EOE M/F/D/V Females and Minorities Encouraged to Apply<br><br>PM21",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T22:54:26.000Z"
+  },
+  "company": {
+    "name": "Airlines Reporting Corporation (ARC)",
+    "link": "https://www.linkedin.com/company/arc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "All",
+    "region": "MO",
+    "postal_code": "65636",
+    "street_address": null,
+    "latitude": 37.180607,
+    "longitude": -93.03601
+  }
+}

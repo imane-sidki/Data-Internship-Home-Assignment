@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>About Verkada<br><br></u></strong>At Verkada, we rethink what it means to be physically safe. We build disruptive, out-of-the-box, security solutions that detect action, identify danger, and keep people and places safe. Using a combination of software and hardware, we\u2019re transforming a space that has seen little innovation for decades. Today we support thousands of customers and we are only getting started. We envision a world in which security systems feel as seamless and modern as the organizations they protect.<br><br>Our Growth efforts are no exception. You will join the Special Projects team to empower Verkada Growth via automated data-driven decision-making. You will build autonomous infrastructure that turns people into paying customers and scale it from $MMM to $BB in annual bookings.<br><br>One of the core projects is an engine that autonomously executes ad campaigns and learns winning strategies in real time through experimentation using RL and NLP.<br><br>Our backend stack is a set of multi-threaded python (Flask and Django) apps hosted on GCP and AWS that talk to Postgres, BigQuery and various SaaS APIs. The front end is in plain JS. You need to be very comfortable with at least one web framework (e.g., Django), basic DOM manipulation (plain JS/jQuery or React/Vue) and modern devops lifecycle.<br><br>You also need to have a founder mentality and ability to reduce complex problems to simple practical solutions. First-principles thinkers from Stanford, Princeton and MIT around you will support you along the way.<br><br><strong><u>Ideal Qualifications<br></u></strong><ul><li>4+ years of work experience with backend applications in python preferred. </li><li>2+ year of front-end experience (jquery or any single-page application framework). </li><li>A hacker\u2019s type mentality full of curiosity and creativity. </li><li>Experience with linux programming and distributed systems is a plus, but not required. <br></li></ul><strong><u>Responsibilities<br></u></strong><ul><li>Build and own web applications that help marketers automate campaign execution. </li><li>Design scalable, reliable and testable architecture. </li><li>Quickly iterate on optimal design, make intelligent tradeoffs. </li><li>Interact cross-functionally to identify the most promising areas of contributing to the team. <br></li></ul><strong><u>About Our Team<br><br></u></strong>Behind the scenes, we\u2019re a team of computer scientists, hardware engineers and experienced founders who saw a chance to make a real impact. We\u2019re united by the challenge of building beautiful products, designed for real people\u2014and by our commitment to using technology responsibly. We believe keeping data private and secure is core to our safety as individuals, businesses and communities and we put great care into building systems that embody our values as people. Likewise, many of Silicon Valley\u2019s top investors believe in us: we\u2019re backed by Sequoia Capital, FirstRound, Meritech and Siemens (Next47).<br><br>Verkada is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status, and encourage all qualified applicants to apply.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T02:12:58.000Z"
+  },
+  "company": {
+    "name": "Verkada",
+    "link": "https://www.linkedin.com/company/verkada"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

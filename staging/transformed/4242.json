@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Olio Apps is looking for our next software engineer! We are a small but talented group of full stack developers focused on meeting and exceeding our customer\u2019sexpectations when it comes to delivering their mission critical projects. Those run the gamut of web apps, native mobile apps, web service backends, and experimental prototypes.</p><p><br></p><p>If you are a great communicator, love honing your technical skills, and enjoy building software that people will rely on in their daily lives \u2014 we\u2019d love to hear from you!</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Analyze requirements and mock-ups to create actionable, estimated ticket work items</li><li>Create technical designs encompassing the algorithms, patterns, and tools needed to accomplish the tasks at hand</li><li>Build reusable components, and aggregate those building blocks into features</li><li>Write unit tests and integration tests to ensure quality of work</li><li>Participate within a highly collaborative agile software development lifecycle</li><li>Create and receive high quality pull requests which enhances the overall quality of the engineering team</li></ul><p></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree in computer science or software engineering; or equivalent experience</li><li>Effective and proactive communicator, with a strong growth mindset</li><li>Demonstrated experience in React Native</li><li>High proficiency with Typescript and Javascript</li><li>Proficiency in using modern web development technologies and techniques, including AJAX, HTML5, CSS, Responsive Design, web services</li><li>3+ years of experience in active software project development</li><li>2+ years working with React / React Native</li><li>2+ years experience with Redux, Redux Saga, or equivalents</li><li>1+ years experience working with either Go, Java, Swift, Objective C, or Python</li><li>1+ years experience in building web services and API backends</li></ul><p><br></p><p><strong>Employment Type</strong></p><ul><li>Full Time</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T19:20:50.000Z"
+  },
+  "company": {
+    "name": "Olio Apps",
+    "link": "https://www.linkedin.com/company/olioapps"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

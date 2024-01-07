@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "<ul><li>Knowledge of AWS Infrastructure including S3, SNS, Ec2, CloudWatch and RDS.</li><li>Min 1+ years of experience on Matillion ELT tool and Snowflake Database.</li><li>Min 5+ years of experience with ETL/Data Transformation and one or more related products such as Informatica and SSIS.</li><li>Min 4+ years\u2019 work experience in business intelligence, data warehousing, and logical/physical model design required.</li><li>Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.</li><li>Experience in building AWS Data Pipelines using Python/Scala, Apache Spark, SparkSQL, S3 Data Lake, Snowflake, Redshift.</li><li>Good to have - Experience with any of the NoSQL datastores such as Elasticsearch, MongoDB, DynamoDB, Cassandra.</li></ul><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:32:50.000Z"
+  },
+  "company": {
+    "name": "Plant Talent Inc.",
+    "link": "https://www.linkedin.com/company/plant-talent-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

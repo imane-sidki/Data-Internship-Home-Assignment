@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Full-stack)",
+    "industry": "E-Learning",
+    "description": "TeachFX is changing how schools around the world use data to improve teaching and learning. We use machine learning over classroom audio to provide teachers with insights about their instruction, including insights on their teacher-to-student talk ratio, lesson design, use of academic language and \"uptake\", open- and closed-ended questioning technique, think time, and other high-leverage instructional strategies that education research shows improve student outcomes and increase equity in the classroom. In school- and district-wide implementations, the data is anonymized and aggregated to empower instructional leaders to pinpoint equity issues and drive change for students most in need of additional support. We\u2019re supported by best-in-class investors including Ulu Ventures, Newfund, Brighteye Ventures and Reach Capital, and we\u2019re a mission-driven team looking for talented, scrappy, and mission-driven engineers to join our crew.<br><br>As an early software engineer at TeachFX, you'll be a key leader of our company as we scale, and you\u2019ll help define TeachFX\u2019s engineering culture. You\u2019ll help build the systems that will support our growth, and will have the ability to take ownership of projects from inception to completion. We are a deeply mission-driven company, working hard to develop tech that revolutionizes teacher professional learning -- and we\u2019re looking for engineers who want to use their skills to power our mission.<br><br><strong><u>You Might Be a Good Fit If<br></u></strong><ul><li>You have a solid foundation in computer science with strong competencies in data structures, algorithms, and software design.</li><li>You have an ownership mindset. You embrace both responsibility and accountability.</li><li>You have prior experience building high quality software, following coding best practices.</li><li>You enjoy working on a team and in a pair programming environment. </li><li>You are passionate about social impact and education. You are excited to have an impact on tens of millions of kids' lives through your work.<br><br></li></ul><strong><u>Exceptional Candidates Will Also Have<br></u></strong><ul><li>3+ years of industry software engineering experience</li><li>Experience working at a startup, or a similar context where you're on a small team trying to accomplish big things, and strong prioritization skills and teamwork are key.</li><li>Experience designing clean and maintainable APIs</li><li>Experience with Google Cloud Platform services</li><li>Experience with technologies in our tech stack<br><br></li></ul><strong>Our tech stack</strong>: We use React and React Native for our frontend, and Django with GraphQL for our backend. In addition, we use Airflow, Docker, Expo, SQL, BigQuery, Data Studio, and other Google Cloud Platform services.<br><br><em>TeachFX is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T01:18:51.000Z"
+  },
+  "company": {
+    "name": "TeachFX",
+    "link": "https://www.linkedin.com/company/teachfx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

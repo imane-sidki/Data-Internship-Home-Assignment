@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Xbox is one of the world\u2019s most valuable brands and enjoys millions of players and passionate fans. An important part of our plan is to grow our global player base and our multi-billion dollar a year Xbox console and accessories business. At Xbox, we believe Gamer Happiness is at the core to our mission of empowering every person and organization on the planet to achieve more.<br><br>As part of Xbox Product Services (XPS), The Xbox Customer Experiences Team (CXT) is focused on driving the digital transformation of Xbox Support and providing personalized, predictive and proactive support to customers across all Gaming endpoints. Our ultimate goal is to deliver gamer happiness through empathy and customer obsession.<br><br><strong><u>Responsibilities<br><br></u></strong>In this role, you will be part of the full stack team responsible for building creative, scalable, high-quality services and experiences that deliver personalized support to gamers in a systematic and consistent way across all customer touchpoints - Xbox, PC, web, and mobile. These solutions pave the way to predictive and proactive support through continued investment in ML and AI solutions.<br><br>Our team is built on a culture of inclusion, teamwork, and quality. We work together in a collaborative environment to design, build, test, and monitor services and infrastructure for a large variety of customer experiences. We are a forward-looking team that leverages the latest technologies to ensure we create a seamless end-to-end solution that is customer-focused, data-driven, and high-quality.<br><br>We are looking for a software engineer with excellent coding, problem solving, and collaboration skills that is excited to contribute in a strong team-focused environment. Our team focuses is a full stack engineering team and we offer the chance to learn about many technologies and specialize on what you\u2019re most passionate about. The list below is a good overview of all the stacks we work on but expertise in all is NOT required.<br><br><strong><u>Qualifications<br><br></u></strong>Qualifications:<br><ul><li>BS or MS in Computer Science, Computer Engineering, or other equivalent technical degree.</li><li>5 Years of relevant work experience building services or products in the Software industry</li><li>Excellent communication and collaboration skills</li><li>Ability to work well in a diverse, team-focused environment</li><li>Excellent design and coding skills, with a strong emphasis on quality and engineering excellence</li><li>A passion for Gaming and/or customer-focused solutions<br><br></li></ul><strong><u>Desired (the More The Merrier But Not All Required)<br></u></strong><ul><li>Experience with object-oriented programming languages (C++, C#, Java, Python)</li><li>Experience with backend services and hosting infrastructure</li><li>Experience working on cloud platforms like Azure, AWS</li><li>Experience leveraging web app technologies such as ASP.NET Core and Azure Functions</li><li>Experience working with Document databases such as Azure CosmosDB</li><li>Experience with React and React Native</li><li>Experience with a large-scale Single Page Application (SPA)</li><li>Experience in building data warehouse skills using tech like Kusto or SQL</li><li>Experience in building big data processing pipelines using tech like ADF</li><li>Experience in building analytics reporting using tech such as PowerBI or Grafana</li><li>Experience with developing ML Models and MLOps using tech such as Azure ML &amp; Kubernetes<br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:06:23.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Member of Technical Staff (JoinOCI-SDE)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong>Are you interested in building large-scale distributed infrastructure for the cloud? Oracle\u2019s Cloud Infrastructure (OCI) team is building new Infrastructure-as-a-Service technologies that operate at large scale in a broadly distributed multi-tenant cloud environment. Our customers run their businesses on our cloud, and our mission is to provide them with best in class, foundational cloud infrastructure services. The Virtual Networking Team builds the highly customizable Virtual Cloud Networks (VCN) and connectivity services offering predictable and consistent performance, isolation, and availability.<br><br>https://www.oracle.com/cloud/networking/<br><br>We are a team that builds and maintains the OCI Software Defined Network (SDN) stack. Currently, we are looking for hands-on engineers with expertise and passion in solving difficult problems in maintaining a large fleet of embedded Linux systems. These are exciting times, and our team is undergoing rapid growth while working on many new ambitious initiatives. An engineer at any level can have significant technical and business impact. Join our team and help us build a state-of-the-art IaaS network starting from the ground floor.<br><br><strong> Why join VCN Card Management? <br><br></strong>The Virtual Cloud Network (VCN) team has a culture of collaboration which welcomes new people to their ranks. We not only focus on an excellent customer experience; we also spend the time to make sure that your onboarding and ramp-up experience is a great one. We work together and help each other out, and do not skimp on technical debt, which facilitates reasonable on-call and a good work/life balance.<br><br><strong><u>Responsibilities<br><br></u></strong>As a Sr. Member of Technical Staff on the Card Management team, you will help design and develop tooling and infrastructure to manage a growing fleet of embedded Linux systems. You will be one of the engineers responsible for delivering a highly available, and secure fleet of critical SDN infrastructure. Our team owns onboarding new generation network technologies, deployment tooling, patching, monitoring, automation, access controls, and metrics reporting. We are a nexus with many partner teams and work across OCI to support their applications on our platform.<br><br>As a member of our team you will be required to:<br><ul><li> Maintain and build new technologies to support our distributed fleet of Linux systems. This includes distributed deployment and monitoring tooling. </li><li> Automate and maintain build and test systems including systems for performance and scalability testing. </li><li> Improve efficiency of the deployment processes across a fast-growing number of regions through automation and scale improvements to tools and dashboards. </li><li> Participate in our on-call rotation which requires monitoring our fleet and associated services. </li><li> Improve our operational capabilities by developing runbooks, alarming, and building tools. <br></li></ul><strong><u>Qualifications<br><br></u></strong>You are an expert in Linux, comfortable with Python, BASH and Java, and have embedded system knowledge and systems engineering experience. You value simplicity and scale, work comfortably in a collaborative, agile environment, and are excited to learn.<br><br><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelors in computer science and Engineering or related engineering fields</li><li>3+ years of experience with Linux System Engineering</li><li>2+ years of experience with Python/BASH/Java</li><li>1+ years of DevOps experience</li><li>Proficient with build tools and pipelines (e.g. Team City, Maven, make)<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>3+ years of experience with embedded systems</li><li>Experience in CICD environments</li><li>Experience with Agile Development</li><li>Experience with IOT at scale</li><li>Hardware qualification experience (embedded development)</li><li>Linux kernel development experience<br></li></ul>Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.<br><br>As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.<br><br>Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.<br><br><strong><u>About Us<br><br></u></strong>Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It\u2019s when everyone\u2019s voice is heard and valued, that we are inspired to go beyond what\u2019s been done before. That\u2019s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.<br><br>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:13:19.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing",
+    "description": "<p>Do you want to design software for electric vehicles?If so, and you enjoy working with a great, small team of engineers, we may have the job for you!</p><p></p><p>We are looking for a Embedded Software Engineer to code and debug real-time embedded firmware for electric motor controllers/inverters.</p><p> <strong></strong></p><p><strong>What you\u2019ll do:</strong></p><p><strong></strong></p><ul><li>Write effective and efficient real-time software.</li><li>Follow software development cycles, including software requirements capture and verification of software to these requirements.</li><li>Design, setup and run tests to ensure the design meets specifications.</li><li>Debug systems.</li><li>Provide support to continuation engineering and other Curtis engineering teams.</li><li>Participate in the preparation of development specifications.</li><li>Work within a small design team to complete assigned objectives.</li><li>Collaborate with Curtis engineering sites around the world.</li></ul><p><br></p><p><strong>We are interested in hearing from you if you possess the following:</strong></p><ul><li>Bachelor\u2019s degree plus 3-5 years of experience in embedded, real-time software.</li><li>Skilled in real-time software programming using high level languages.</li><li>User of emulators, in-circuit testing and software debugging tools/techniques.</li></ul><p></p><p><strong>Nice to have:</strong></p><ul><li>Experience with serial communication protocols using CAN, for example CANopen, J1939, UDS, etc.</li><li>Knowledge of control and feedback systems for power and motor control.</li><li>Knowledge of real-time operating systems and task schedulers.</li><li>Knowledge of electronic circuits and implementation.</li><li>Experience with Model-based design (MBD).</li><li>Excellent interpersonal skills.</li><li>Effective verbal and written communication skills.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:41:08.000Z"
+  },
+  "company": {
+    "name": "Curtis Instruments, Inc.",
+    "link": "https://www.linkedin.com/company/curtis-instruments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Livermore",
+    "region": "CA",
+    "postal_code": "94551",
+    "street_address": null,
+    "latitude": 37.675915,
+    "longitude": -121.758865
+  }
+}

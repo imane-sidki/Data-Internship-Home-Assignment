@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site reliability Engineer",
+    "industry": "Internet,Information Technology and Services",
+    "description": "<strong><u>Preferred Qualifications<br></u></strong><ul><li>DevOps Experience</li><li> Public Cloud Experience (Microsoft Azure)</li><li>Container Concepts (Docker)</li><li>Orchestration (Kubernetes)</li><li>Source Control (GitHub, Bitbucket, Azure Repos etc)</li><li>Continuous Integration ( Azure Pipelines, Jenkins, Bamboo etc)</li><li>Continuous Deployment (Azure DevOps, Jenkins etc)</li><li>Experience with infrastructure automation tools (Terraform, Packer, Puppet, Ansible etc)</li><li>Scripting Experience (Python, Ruby, Bash, Shell, Node.js)</li><li>Security and Network awareness</li><li>Product Mindset</li><li>Learnability</li><li>Self Motivated</li><li>Experience in Agile methodologies</li><li>Experience working with global teams</li><li> Good communication &amp; interpersonal skills<br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li>5 years of IT industry experience with a Bachelor's/Master's Degree in Computer Science or equivalent</li><li>Strong Software Engineering Principles</li><li>Product Company Experience</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-03T01:56:09.000Z"
+  },
+  "company": {
+    "name": "Resiliency LLC",
+    "link": "https://www.linkedin.com/company/resiliencyllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Bruno",
+    "region": "CA",
+    "postal_code": "94067",
+    "street_address": null,
+    "latitude": 37.627277,
+    "longitude": -122.416145
+  }
+}

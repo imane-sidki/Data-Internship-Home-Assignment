@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Digital - Senior Salesforce Developer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Role/Department Description<br><br></u></strong>The Lead-to-Cash organization aims to create a \"Digital Foundation\" of data-driven applications and automated workflows that are disciplined yet flexible enough to support multiple sales channels at FactSet. The primary responsibilities of this group are to provide best in breed solutions that are scalable and advance with the growing demands of our Sales and Consulting stakeholders.<br><br>As a Senior Software Engineer, you will be joining a team that is part of a growing transformation on top of Salesforce technologies and servicing over 2,500 users.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Help build and maintain an application portfolio across Salesforce CRM (Sales Cloud, Service Cloud, CPQ), Tableau CRM (formerly Einstein Analytics).</li><li> Analyze business problems and efficiently design then develop software solutions to help solve those needs.</li><li> Partner with other engineers, admins, operations and consultants in building stable, efficient and scalable systems, contributing with requirements analysis, solutioning &amp; implementation of the highest quality product.</li><li> Review the work of a team of engineers comprising of varying experience levels - share valuable feedback on best practices, SDLC &amp; design considerations, tips &amp; tricks.<br></li></ul><strong><u>Job Requirements<br></u></strong><ul><li> Expertise in Salesforce custom development (Apex, Lightning, Visualforce)</li><li> In-depth experience in Tableau CRM (Einstein Analytics) - Analytics Studio &amp; Dashboards, Dataflows, SAQL</li><li> Strong knowledge of database design and Salesforce Data Modeling</li><li> Familiarity with backend services: REST APIs, Bulk Data Processing, Scheduled Jobs, ESB and Queues</li><li> Strong interpersonal skills to interact with team members and stakeholders at all levels of the company</li><li> Attention to detail and strong aptitude towards technical research, analysis and solutioning<br></li></ul><strong><u>Highly Desired<br></u></strong><ul><li> Experience with web application design and development (HTML, CSS, JavaScript, JSON)</li><li> Experience with traditional object-oriented languages (Java, C# or C++)</li><li> Experience working with globally distributed teams</li><li> Exposure in integration via Salesforce MuleSoft.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> Bachelor\u2019s degree or higher in Computer Science or related technical field.</li><li> 5+ years' experience in Salesforce development (Sales Cloud, Service Cloud) at enterprise scale.</li><li> 3+ years\u2019 experience in Lightning application development.</li><li> 2+ years of Einstein Analytics development experience.</li><li> 1-2 years of technical leadership experience is desirable .<br></li></ul>FactSet is an Equal Opportunity Employer \u2013 M/F/Veteran/Disability/Sexual Orientation/Gender Identity",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:54:57.000Z"
+  },
+  "company": {
+    "name": "FactSet",
+    "link": "https://www.linkedin.com/company/factset"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Norwalk",
+    "region": "CT",
+    "postal_code": "06858",
+    "street_address": null,
+    "latitude": 41.11805,
+    "longitude": -73.4129
+  }
+}

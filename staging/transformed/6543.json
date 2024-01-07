@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist Software Engineer - Ag Robotics Start-up",
+    "industry": "",
+    "description": "<p><strong>We build robots for the next frontier of farming.</strong></p><p>We are a venture-backed startup based in Davis, CA, and we build robots to address some of farming\u2019s toughest tasks. Here\u2019s what we can offer to you that you can\u2019t get anywhere else:</p><p><br></p><p>\u2705 The chance to transform an industry and improve the lives of millions of farmworkers.</p><p>\u2705 First-hand exposure to an endless supply of incredibly challenging technical problems.</p><p>\u2705 The pressure to invent cutting-edge solutions to said problems (and mess up along the way).</p><p>\u2705 Limitless career upside: you grow as we grow.</p><p>\u2705 The chance to live in the \u2018burbs of sunny California and ride your bike to a farm for work everyday.</p><p>\u2705 A workplace that encourages building, learning and deploying. See <em>your work</em> in the field!</p><p><br></p><p>Still interested? Read our mission and the job description below to see if you\u2019re a good fit for us! (www.advanced.farm)</p><p><br></p><p><strong>Use your powers for good!</strong></p><ul><li>Build the architecture for logging, events, and other information to support cutting edge data analysis</li><li>Analyze collected data to spot trends in performance and reliability to inform further development by engineering, R&amp;D, and field operations teams.</li><li>Write reproducible data analysis that can be automated and scaled as our equipment fleet grows.</li><li>Summarize and clearly communicate data analysis assumptions and results.</li><li>Build dashboards and applications that engineers, business managers and customers can rely on.</li></ul><p><br></p><p><strong>Here\u2019s what we\u2019ll look for when we select someone to join the team.</strong></p><ul><li>M.S. or higher in mathematics, statistics, data science, engineering or a related field (no degree at all is also just fine, if you have a strong portfolio of examples)</li><li>3+ years experience working with data from hardware applications, and at least a basic knowledge of electrical and mechanical engineering concepts.</li><li>Strong skills in git, Python, SQL, matplotlib, numpy, pandas, other data science/visualization tools</li><li>Experience with web apps, devops, and machine learning.</li><li><strong><em>Legal work status in the US- please do not apply if you need visa sponsorship now or in the future.</em></strong></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T13:46:39.000Z"
+  },
+  "company": {
+    "name": "advanced.farm",
+    "link": "https://www.linkedin.com/company/advancedfarm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Davis",
+    "region": "CA",
+    "postal_code": "95616",
+    "street_address": null,
+    "latitude": 38.546726,
+    "longitude": -121.74434
+  }
+}

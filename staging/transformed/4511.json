@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "-",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:47:27.000Z"
+  },
+  "company": {
+    "name": "Kesar Web",
+    "link": "https://www.linkedin.com/company/kesar-web"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "United States",
+    "postal_code": "98925",
+    "street_address": null,
+    "latitude": 47.411373,
+    "longitude": -120.556366
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Computer Vision / Machine Learning Engineer ",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>You will join the Optical Engineering team, building customized solutions for the characterization of display, camera and touch technology for a well known product line up.</p><p>In this role, you will design and develop computer vision and machine learning based solutions, for automatic optical inspection and calibration of displays and cam- eras used in clients future products.</p><p><br></p><p><strong>Description</strong></p><p>You will be directly responsible for developing automatic optical inspection and calibration of the end clients products, working with teams of amazing engineers and scientists.</p><p>Design, develop and optimize CV and ML based solution, for automatic optical in- spection and calibration.</p><p>Collaborate closely with optical instrumentation scientists, software engineers and system design engineers, to develop and deploy mass-production friendly metrology solutions for the clients products.</p><p>Work with cross-functionally teams to define metrology coverage and calibration specifications. Develop and validate corresponding CV/ML algorithm during new product introduction (NPI) cycle.</p><p>Study and improve metrology algorithm vs visual inspection correlation.</p><p>Analyze large amounts of NPI data to qualify/upgrade algorithm design.</p><p>Review algorithms from cross functional teams and third parties.</p><p><br></p><p><strong>Requirements</strong></p><ul><li>3+ years of related professional experience.</li><li>Deep knowledge and hands on experience on image processing and computer vision, including spatial/frequency domain analysis, geometric transform, feature detection, registration, segmentation, object detection and classification, etc.</li><li>Experience on machine learning, including SVM, CNN, and unsupervised machine learning, for image segmentation/classification.</li><li>Proficient in one or more of the following: C++/Python/Matlab/OpenCV/CUDA.</li><li>Proficient in at least one machine learning framework: Keras/Pytorch/TensorFlow, etc.</li><li>Good team player, self motivated and responsible.</li><li>A positive outlook towards stepping into uncharted technology space and working hard to deliver solutions in a timely fashion.</li><li>Experience on data analysis and visualization using Matlab/Python/JMP is a plus.</li><li>Excellent written and interpersonal skills; clear communication with diverse teams.</li></ul><p><br></p><p><strong>Desired Skillsets</strong></p><ul><li>Strong in C++ CV algorithm programming, profiling, and optimization.</li><li>Proficient of complete ML development including training, validation, deployment, evaluation and continuous upgrade.</li><li>Experience on developing CV and ML solution for manufacturing metrology/bio- medical imaging/related fields.</li><li>Experience on transfer learning, small labeled data, GAN, etc.</li><li>Experience on camera calibration, geometric registration, distortion correction, image rectification, multi-view geometry for industrial vision system.</li><li>Experience on complex mathematical optimization problems.</li><li>Knowledge on image quality metric (IQA).</li><li>Experience of cross-functional collaboration and project leadership.</li></ul><p><br></p><p><strong>Education</strong></p><p>MS/PhD in CS/EE/Imaging Science + 3 years experience.</p><p><br></p><p> Location: Cupertino, CA</p><ul><li>Duration: 6-12 months</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T16:44:01.000Z"
+  },
+  "company": {
+    "name": "OSI Engineering",
+    "link": "https://www.linkedin.com/company/osi-engineering-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

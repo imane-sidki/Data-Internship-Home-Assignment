@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Title:Sr. Data Scientist</strong></p><p><strong>Location: Saint Louis, MO</strong></p><p><strong>100% Remote</strong></p><p><strong>Duration:18 Months</strong></p><p><strong><u>Job Description:</u></strong></p><ul><li>At Client Companies, we are passionate about transforming the lives of pets and the people who love them. A key ambition of ours is to deliver new-to-world solutions that give pet owners the confidence and reassurance they are seeking in the decisions they make every day regarding their pets needs. We aim to do this by developing digital products and services for pet owners and vets that translate each pets behavior, health and nutrition data into current and predictive insights unique to each pet.</li><li>To deliver on this ambition, we are looking for an exceptional senior data scientist with experience in AI and other Machine-Learning (ML) products. The ideal candidate will have a desire to leverage this experience to design, build and productionize AI/ML models that can be used at a global level .</li><li>In this role, you\u2019ll use AI/ML development strategies while collaborating with pet data acquisition, infrastructure, and AI-UX teams to deliver advanced analytics solutions that transform the lives of pets and the people who love them.</li></ul><p><strong><u>Summary:</u></strong></p><p>The Client Companies Global Digital Solutions Group is seeking a dynamic and skilled Senior Data Scientist who will develop reliable Data Science solutions. This role is a key member of the dynamic new digital product development group\u2019s team responsible for Client\u2019s global expansion in \u201csmart\u201d and connected-pet product development as. This position is responsible for the development of Advanced Analytics and AI products that translate a pet\u2019s data into unique behavior, health, and nutrition insights.</p><p><strong><u>Primary Responsibilities:</u></strong></p><ul><li>Translate objectives into project plans and lead, and manage projects to successful end points</li><li>Collaborate with internal and external teams to efficiently acquire labelled training data that can be used to create advanced analytic and AI products</li><li>Extract, prepare, clean, analyze, visualize, and explore data using scripting languages</li><li>Feature Engineering including signal processing of time series sensor data and cleaning and processing of longitudinal health record data</li><li>Build and test AI and advanced analytic solutions using standard statistical programming languages (e.g. R, Python)</li><li>Work closely with product teams to understand and deploy advanced analytics and AI products directly within devices or cloud environments using container-based solutions</li><li>Maintain and monitor performance of models in production and iterate and improve models when necessary</li><li>Work with internal/external vendors to assess needs, aid and resolve problems, using excellent problem-solving skills and verbal/written communication to non-technical audiences</li></ul><p><strong><u>Additional Responsibilities:</u></strong></p><ul><li>Policy Alignment. Conduct all activity in compliance with Good Manufacturing Practices (GMP), Good Laboratory Practices (GLP), and all required Company policies and procedures.</li><li>Safety. Maintain a safe, clean, and sanitary work environment. Practice safety in the work area.</li><li>Quality. Support quality assurance and regulatory compliance of all work performed.</li><li>Travel. Travel as necessary (estimated not to exceed 15%-20%).</li><li>Advocate for, and use, agile digital product development methodologies.</li><li>Actively work to deliver products that meet consumer and business needs.</li><li>Work effectively within cross-functional project teams to achieve excellent results</li><li>Additional duties as assigned</li></ul><p><strong><u>Supervision:</u></strong></p><ul><li>This position reports to the lead of AI product development</li></ul><p><strong><u>Job Qualifications (Education, Experience, and Knowledge):</u></strong></p><ul><li>PhD or Master's degree from an accredited college/university in Computer Science, Statistics, Mathematics, Engineering, Physics, Chemistry or related fields preferred, with at least 7 years of relevant experience in statistics, machine learning, deep learning and/or neural networks.</li><li>Deep understanding of and experience with standard machine learning algorithms (Random Forest, SVM, Logistic Regression, etc.) and deep learning algorithms and frameworks (CNN, LSTM, GANs, etc.)</li><li>Proficiency in statistical programming languages (e.g. Python, R) and machine learning libraries and packages (Python: Scipy, Numpy, Pandas, TensorFlow, pyTorch, Theano, MXNet R: tidyverse, dplyr, randomForest, caret, glmnet, nnet)</li><li>Experience as a data scientist on a team that has successfully delivered AI/ML products from inception to production for internal and/or external customers</li><li>Deep experience extracting, cleaning, preparing, and modeling large / complex / segmented data sets and interpret data to identify meaningful insights</li><li>Demonstrated experience working collaboratively with teams using Agile methodologies and version control repositories to develop, deploy and enhance high-performing data science deliverables.</li><li>Experience with cloud computing platforms such as Azure.</li><li>Possess a clear grasp of the fundamentals of microservices, containers and their orchestration</li><li>Ability to communicate complex technical concepts clearly through written or oral communication</li></ul><p><strong><u>Additional DesiredQualifications:</u></strong></p><ul><li>Experience working with AWS cloud.</li><li>Experience in applying deep learning models in the field of health diagnostics.</li><li>Experience with CI/CD pipelines for AI solutions</li></ul><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-30T20:35:17.000Z"
+  },
+  "company": {
+    "name": "Denken Solutions, Inc",
+    "link": "https://www.linkedin.com/company/denkensolutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

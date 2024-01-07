@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "GNSS System-Debug Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Would you like to join Apple\u2019s growing wireless silicon development team? <br><br><br>Global Navigation Satellite Systems (GNSS) space vehicles transmit the power of a lightbulb, they are 13000 miles away, and are moving four kilometers per second. The received signals are commonly one hundred times weaker than cosmic microwave background radiation left over from the Big Bang and arrive next to interfering signals ten billion times stronger, just few MHz away.<br><br><br>Our GNSS team is part of Apple's wireless SOC team. We are a vertically integrated engineering team spanning RF, mixed signal analog design, systems engineering, Design Verification, RTL design, firmware and software engineering, Test, and Validation. <br><br><br>Our focus is on highly energy efficient and robust GNSS receiver design. We develop GNSS technology that touches hundreds of millions of lives, something we are passionate about. We\u2019d like you to consider being a part of our team. <br><br><br>As a GNSS RF System Debug Engineer, you will be a key member of Apple\u2019s cellular team, driving cellular development for our next generation wireless products used by millions. Come to Apple and do your life's best work!<br><br> <br><strong>Key Qualifications<br></strong> <br>Minimum of 5 years of experience in RF System Level test development, debug, and reporting<br><br>Strong RF background and familiarity with RF systems fundamentals<br><br>Working knowledge of RF test equipment (network analyzer, spectrum analyzer, vector signal analyzer, vector signal generator, etc.)<br><br>Experience in RF-System simulation environment (SystemVue, Matlab or Verilog-A)<br><br>Knowledge in test and script development (Python, PERL, TCL)<br><br>Working knowledge of RF, PLL, and general wireless systems measurements (i.e. IP3, NF, ACPR, phase noise, lock time, etc.)<br><br>Strong verbal and written communication skills<br><br>Previous GPS experience is a plus<br><br> <br><strong>Description<br></strong> <br>In this role, you will be part of the GNSS RF System team and perform lab System Level investigations, implement RF standalone calibrations and run system level validation/characterization of GNSS SoC IP.<br><br><br>SCOPE OF WORK WHEN COLLABORATING WITH:<br><br>RF Architects: <br><br>-  RF System modeling of RF/Analog impairments.<br><br>-  Correlate radio behavioral model to system measurements<br><br>-  Analysis/Verification of radio calibrations (IQ, DCOC, Delay Calibration, IIP2, etc.)<br><br>-  RF system characterization measuring phase noise, sensitivity, and other radio parameters<br><br><br> RFIC circuit designers, PHY, PHY FW engineers: <br><br>-  Bench test, debug, and characterization of RF SoC IP including receivers, PLL, amplifiers, ADCs, crystal oscillators, and PMU<br><br>-  Debug of chip level or board level deSense and spur issues<br><br>-  Generation of RF design/verification/test report<br><br>-  Collaborate with System bring-up and integration teams on RF board layout, test interface methodology and programming sequence, and RF calibration programming<br><br> <br><strong>Education &amp; Experience<br></strong> <br>A BS degree in EE or related fields is required; a M.Sc. degree is desirable.<br><br> <br>Role Number: 200218887<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:13.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Mechanical or Industrial Engineering",
+    "description": "<p><strong>Description </strong></p><p><strong>Schaeffler</strong>, a global automotive and industrial supplier, is seeking a<strong>Data Scientist</strong>in the<strong>Charlotte, North Carolina</strong>area.The goal of this position isto discover the information hidden in the vast amounts of data, help business to make smarter decisions, optimize operating processes and deliver even better products. The primary focus will be in applying data mining techniques, doing advanced statistical analysis, and building high quality machine learning or deep learning models and deploying them as productive solutions to get integrated with our existing IT digital solutions and products</p><p><br></p><p><strong>Key responsibilities include but not limited to:</strong></p><ul><li>Lead discovery processes with business stakeholders to identify opportunities and business problems and framing them into an IT data science/ advanced data analytics project initiative.</li><li>Identification and extraction of available and relevant data from internal and external data sources to perform data science solution development.</li><li>Perform data cleansing using data processing and statistical software packages.</li><li>Perform data quality assessments and statistical testing to verify data quality and data integrity</li><li>Exploratory data analysis for extracting business insights from large volume of data using data science toolkits and statistical packages.</li><li>Translate and visualize data into information and insights to discover trends and patterns for solving the business problem and improving the Key Performance Indicators (KPIs)</li><li>Develop custom data models, standard statistical models, machine learning or deep learning algorithms for building diagnostic, predictive and prescriptive data science solution.</li><li>Coordinate with different functional agile teams such as data engineering and software development to deploy the data science solutions to production and integrate it with existing IT digital solutions and products</li></ul><p><br></p><p><strong>Qualified candidates will have:</strong></p><ul><li>Master\u2019s degree in Applied Mathematics, Statistics, Machine Learning, Electrical Engineering, Computer Science/Information Systems or related fields or MBA with quantitative focus.</li><li>2-3 years of Data Science Experience in industry environment.</li><li>Industrial research and development and advanced data analytics experience.</li><li>Experience in data mining for large volumes of data, extracting insights and building prediction and system optimization models.</li><li>Comprehensive statistical knowledge(regression/classification models, design of experiments, statistical testing etc.) and experience applying it to real-world projects.</li><li>Strong knowledge in the application of Machine Learning</li><li>Experience with common data science toolkits, such as SQL, R and/or Python with high proficiency in the use of opensource statistical and machine learning packages (numpy, pandas, scikit-learn, stats tool etc.)</li><li>Experience delivering data science projects from model development to production deployment</li><li>Any of the following qualifications is a plus</li><li>Deep Learning algorithms (TensorFlow or Equivalent framework), ideally demonstrated by relevant industrial experience.</li><li>Experience in deploying predictive or prescriptive data science solutions from any embedded electronic sensor data streams (such as IoT sensors, PLC systems, condition monitoring systems, wearables etc.)</li></ul><p><br></p><p><strong>Schaeffler is an Equal Opportunity Employer/Minorities/Females/Disabled/Veterans</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T17:28:20.000Z"
+  },
+  "company": {
+    "name": "Schaeffler",
+    "link": "https://de.linkedin.com/company/schaeffler"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Our client is looking for a <strong>Machine Learning Engineer</strong> to help them build and automate Chatbots for their SaaS product customer support.</p><p><br></p><p>Title: Machine Learning Engineer</p><p><br></p><p><strong>Key Skills:</strong></p><p>-2+ years of NLP experience (i.e. text classification, keyphrase extraction)</p><p>-5+ years of overall engineering experience</p><p>-Solid Java Spring Boot knowledge for REST API integration</p><p>-CI/CD configuration</p><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-13T16:22:04.000Z"
+  },
+  "company": {
+    "name": "K2 Partnering Solutions",
+    "link": "https://uk.linkedin.com/company/k2-partnering-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

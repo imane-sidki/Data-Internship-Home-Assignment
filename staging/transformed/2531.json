@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "",
+    "description": "<br><p>Software Developer (Junior to Intermediate Level)</p><p><br></p><p>Isoprime Corporation is a small software development and consulting firm based in Naperville, Illinois.We provide software technology consulting and packaged software products to serve the healthcare market \u2013 primarily hospital-based neonatal intensive care units. </p><p><br></p><p>Job duties include software design, coding, testing, maintenance, and customer support.Being a small company, Isoprime offers the opportunity to experience all facets of software development and get extensive experience with a wide variety of tools.</p><p><br></p><p>Our software products are built using Microsoft technology, including VB.Net and SQL Server, along with other supporting tools such as Crystal Reports.</p><p><br></p><p>Job qualifications include classes, training, or experience with an object-oriented programming language such as VB.NET, C#, Java.Experience or extensive training in SQL is also required.Experience or training in Crystal Reports, OLE DB (ADO), and MS Access would be useful.Background in healthcare applications is a plus.</p><p><br></p><p>Excellent English-language skills are required, and <u>you must have the permanent legal right to work in the US without sponsorship</u>.</p><p><br></p><p>We are a small company looking for a developer who will take ownership of their work, is eager to learn and grow, and can work well as part of a small team of developers.</p><p><br></p><p><br></p><p>Responsibilities</p><ul><li>Design, Develop and Test new features for our customers</li><li>Work with customers on implementing and configuring our software</li><li>Answer support calls and emails to help customers troubleshoot problems</li></ul><p><br></p><p>Qualifications</p><ul><li>Experience or training in .NET (or another object-oriented language)</li><li>Knowledge and understanding of SQL and Database Design</li><li>Comfortable working with customers to troubleshoot problems </li></ul><p><br></p><p>Preferred</p><ul><li>BS in Computer Science or related degree</li><li>VB .NET Experience</li><li>Crystal Reports (or other reporting tools) experience</li></ul><p><br></p><p>Benefits</p><ul><li>Competitive Salary</li><li>Participation in all aspects of software development from design to rollout</li><li>Retirement Plan</li><li>Company holidays and paid time off</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:33:19.000Z"
+  },
+  "company": {
+    "name": "Isoprime",
+    "link": "https://www.linkedin.com/company/isoprime"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Naperville",
+    "region": "IL",
+    "postal_code": "60563",
+    "street_address": null,
+    "latitude": 41.771496,
+    "longitude": -88.148
+  }
+}

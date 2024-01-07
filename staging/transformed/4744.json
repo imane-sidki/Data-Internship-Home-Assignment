@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Automotive",
+    "description": "<p><strong><u>Business Environment and Job Description</u></strong></p><p>ALLDATA is a large contributor to the success of AutoZone. It is an exciting blend of commercial software products with strong market leadership around the globe. Within ALLDATA, the new Data Science and Insights organization contributes critically to business strategy, planning, and operations. Our advanced analytics and collective business acumen drive business results.</p><p></p><p>We are launching a large-scale Big Data program whereby we are collecting a high volume of vehicle repair and part sale data to create a competitive advantage for AutoZone. To better leverage our data resources, we are looking for a Data Scientist to contribute to the development of predictive models in key products and services, engage with management and senior stakeholders across the business, advise and provide solutions and communicate the value of our services to the market.</p><p></p><p><strong><u>Description</u></strong></p><ul><li>Translate complex datasets into strategic insights for the business and to communicate to nontechnical audiences, visualize results, and create understandings and solution buy-in</li><li>Contribute to the development of automotive analytics products to solve challenges in automotive and other market (i.e. actuarial, data services, supply chain, manufacturing, etc.), taking account of user needs, technology and operational landscape</li><li>Collaborate with a range of stakeholders to deliver commercial value</li><li>Identify new analytics trends and opportunities to drive the innovation agenda across business functions &amp; Big Data Analytics community</li><li>Evaluate and improve the quality of both internal and external data assets and work with technology in setting key requirements for data sourcing and decision making.</li><li>Contribute to expand the knowledge base within area of expertise, which includes IaaS, DaaS, visualization, analytics, OR techniques, and strategy recommendations</li></ul><p></p><p><strong><u>Qualifications,Education and Skills Required:</u></strong></p><ul><li>Bachelor\u2019s degree in data science or in quantitative fields.</li><li>Minimum 3-4 years of related experience</li><li>Solid understanding of machine learning, artificial intelligence, statistical analysis (including probability, inference, and a good portfolio of modeling approaches), and/or Operations Research. Experience in IaaS/DaaS is a plus</li><li>Experience working with large datasets using tools like SQL, Hadoop, Spark, Hive, etc.</li><li>Ability to create/test hypotheses from raw data sets, build and validate relevant models, draw meaningful conclusions, effectively communicate results verbally, in writing, and by visualization</li><li>Ability to implement data transformation and to deploy predictive models in at least one of the common programming languages (e.g. Python, Java/Scala, C/C++/C#)</li><li>Proficient in statistical packages and ML libraries (e.g. R, SAS, Spark MLlib)</li><li>Experience with Natural Language Processing is a strong plus</li><li>Experience with Google Cloud is a strong plus</li><li>Familiarity with leading visualization tools</li><li>Passionate about learning new technologies and solving hard problems</li></ul><p>Effective communication skills and ability to collaborate in a cross functional</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T16:06:32.000Z"
+  },
+  "company": {
+    "name": "ALLDATA",
+    "link": "https://www.linkedin.com/company/alldata_2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Elk Grove",
+    "region": "CA",
+    "postal_code": "95757",
+    "street_address": null,
+    "latitude": 38.418133,
+    "longitude": -121.39326
+  }
+}

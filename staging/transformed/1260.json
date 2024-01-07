@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Financial Services,Information Services,Information Technology and Services",
+    "description": "<strong><u>Job Summary<br><br></u></strong>GLG\u2019s <strong>Core Engineering</strong> team builds the platform technology that connects GLG\u2019s clients to our experts. Based primarily in our Austin and New York offices, our team of developers, IT engineers, operations engineers, and product managers are responsible for GLG\u2019s technology initiatives, product development, and IT operations.<br><br>Reporting to the Director of the Enterprise Transformation Engineering, the Senior Software Engineer is a key member of the Enterprise Transformation team. The Enterprise Transformation Engineering team is developing and implementing best-in-class business transformation solutions that create the connective tissue across our business technology eco-system to track revenue throughout the company. This includes next generation of revenue micro services, using queues (AWS SQS), topics (AWS SNS), Lambdas, CD/CI using Github Actions, Regression testing with Wiremock and monitored by Cloudwatch and AWS X-RAY, all driven from a single source of truth in Salesforce. This is a great opportunity to get exposed to leading AWS technologies and micro services, while working on green field projects.<br><br><strong><u>Specific Responsibilities Include (but Are Not Limited To)<br></u></strong><ul> <li>Build strong relationships with a variety of GLG stakeholders including senior business leaders</li> <li>Develop a deep understanding of GLG products and Engineering processes</li> <li>Architect business transformation solutions that integrate with the current and future technology eco-system</li> <li>Build products, from end to end, with multiple technology stacks</li> <li>Devise metrics to understand the success of a project</li> <li>Develop a comprehensive understanding of business metrics to drive ideas and translate them into executable projects</li> <li>Effectively present project outcomes to large groups</li> <li>Mentor and lead other Engineers on the team</li> <br><br></ul><strong><u>An Ideal Candidate Will Have The Following<br></u></strong><ul> <li>At least 6 years of relevant software engineering experience, including proven project leadership skills</li> <li>A track record in developing green field projects is preferred</li> <li>Experience working with complex business requirements across multiple organizations and translating them into achievable deliverables</li> <li>Must have experience working in an AGILE environment</li> <li>Strong Database (preferably T-SQL) experience is required</li> <li>js experience is required</li> <li>Must have experience in developing micro-services, messaging, queuing, monitoring and scaling technologies</li> <li>CI/CD experience in Cloud environments (preferably AWS)</li> <li>Bachelor\u2019s degree required. Master\u2019s degree in business, finance, or relevant field preferred.</li> <li>Be an autonomous self-starter, and an ability to deep dive into new and existing products</li> <li>Must have a desire to be involved in leading edge development, and work with leading technology</li> <li>Strong interpersonal and relationship building skills are required to effectively collaborate with various business stakeholders including senior leaders</li> <li>Maintains a proactive \u201ccan-do\u201d approach to all situations, with the ability to develop appropriate solutions using excellent analytical, critical thinking and problem-solving skills</li> <li>Strong communication and presentation skills are required to work effectively with the executive team</li> <li>Must have strong organizational and project management skills, ability to prioritize and work within tight time frames and manage multiple projects simultaneously</li> <br><br></ul><strong><u>About GLG / Gerson Lehrman Group<br><br></u></strong>GLG is the world\u2019s insight network. Our clients rely on GLG\u2019s global team to connect with powerful insight across fields from our network of 900,000+ experts (and the hundreds of new experts we recruit every day).<br><br>We serve thousands of the world\u2019s best businesses, from Fortune 500 corporations to leading technology companies to professional services firms and financial institutions. We connect our clients to the world\u2019s largest and most varied source of first-hand expertise, including executives, scientists, academics, former public-sector leaders, and the foremost subject matter specialists.<br><br>GLG\u2019s industry-leading compliance framework allows clients to learn in a structured, auditable, and transparent way, consistent with their own internal compliance obligations and the highest professional ethical standards. Our compliance standards are a major competitive differentiator and key component of the company\u2019s culture.<br><br>To learn more, visit www.GLGinsights.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:40:52.000Z"
+  },
+  "company": {
+    "name": "GLG",
+    "link": "https://www.linkedin.com/company/glg"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96200,
+    "max_value": 154000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

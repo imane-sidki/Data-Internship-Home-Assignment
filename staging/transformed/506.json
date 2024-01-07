@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "THE ROLE<br><br>As an experienced Software Engineer you\u2019ll lead the design and development of software for the current and next generation of Tesla\u2019s Enterprise Resource Planning systems. In this role, you\u2019ll be developing highly complex applications, while acting as a team leader and project manager, with the goal of streamlining business operations and improving overall user experience. The ideal candidate is a highly skilled engineer with proven ability to prioritize well and juggle multiple projects in a fast-paced environment, all while making an impact contributing to a cross-functional team. Your ability to creatively collaborate and execute team goals will affect scalability and directly contribute to the company mission of accelerating the world\u2019s transition to sustainable energy.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Work closely with wide variety of functional areas, teams and stakeholders across the business to evaluate, estimate, guide, design and ultimately bring large high impact projects to a successful and timely completion.</li><li>Create designs, prototypes and proof-of-concepts to demonstrate your proposals.</li><li>Lead multiple projects and teams simultaneously.</li><li>Continually learn, set, teach and apply software development best practices, design patterns, tools and technologies.</li><li>Design and develop new modules on the home grown ERP application Warp which is to plan, procure and produce cars.</li><li>Develop scalable solutions using tools like Angular, C# dotNet, MySQL and other open stack frameworks.<br><br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Continually practiced the following for past 6+ years: Designing and integrating multi component systems, Web Service Development</li><li>Architecture</li><li>RESTful API Design &amp; Implementation using C# or equivalent platform</li><li>API Versioning</li><li>API Security</li><li>Automated Testing: Unit, Functional, Performance</li><li>OOP&amp;D: Domain Driven Design, Utilizing well-known design patterns</li><li>Web Frontend Development: JavaScript, Angular, React, etc., Optimization &amp; Performance Tuning</li><li>Relational Database experience with strong query planning experience</li><li>Asynchronous Programming: Multi-threaded, Queue, Event-based applications</li><li>Distributed Application Development: MicroService Architecture, Caching, Distributed Source Control (Git)</li><li>Infrastructure Development: Infrastructure as Code, Zero Downtime Deployments, Continuous Integration / Continuous Delivery (CI/CD)</li><li>Agile Development</li><li>Distributed Application Development, preferred: Containerized (Docker), Stateless Services</li><li>Test Driven Development (TDD) , preferred</li><li>Experience using our current tech stack, preferred: Frontend: Angular | React, Backend: C# | Go, Data: SQL</li><li>Education: BS/MS in Computer Science or equivalent degree.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T07:05:17.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

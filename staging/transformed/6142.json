@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Infrastructure Engineer",
+    "industry": "Internet,Computer Software,Real Estate",
+    "description": "Knock is on a mission to empower people to move freely. The Knock Home Swap\u2122 makes it easy for consumers to buy their new dream home before selling their old one, skipping the hassles of living through repairs and showings, paying only one mortgage at a time, and having home prep covered upfront, so their old house sells for the highest possible price. Knock currently offers the Home Swap in 50 markets and plans to be in over 100 markets by 2023.<br><br>Launched in 2015 by founding team members of Trulia.com, Knock has raised more than $600 million in debt and equity from top-tier investors, including RRE Ventures, Foundry Group, Redpoint, Greycroft, Corazon Capital, Correlation Ventures, Great Oaks Venture Capital and FJ Labs. In 2021, Knock was one of eight companies selected by Second Century Ventures, the strategic investment arm of the National Association of Realtors\u00ae, for its REACH program, which helps technology companies scale across the real estate vertical and its adjacent markets.<br><br><strong>Enjoying Life &amp; Making an Impact<br></strong><ul><li> Knock is a 100% remote, work from home culture and has been since our inception in 2015 </li><li> 100% employee covered medical, dental, &amp; vision premiums </li><li> Unlimited PTO (2 week min. is highly encouraged) + flexible work schedules </li><li> $1,000 each year for professional development </li><li> Salary + Equity. We offer equitable compensation based on market data, your experience &amp; geographic location </li><li> Paid parental leave </li><li> We believe in creating diverse, equitable, and inclusive practices and programs that will further Knock\u2019s commitment to making an impact, learning, putting people first, being open, and courageous <br></li></ul><strong>Machine Learning Infrastructure Engineer:<br><br></strong><strong>We\u2019d love you to bring:<br></strong><ul><li> Background in software engineering, specifically in the context of a data science and machine learning team </li><li> Experience with: Python, DS/ML libraries such as TensorFlow </li><li> Experience automating &amp; monitoring complex workflows on large datasets, with an emphasis on simplicity whenever possible </li><li> Knowledge of cloud products and how they fit into ML (we\u2019re in AWS) </li><li> Excellent problem solving skills, and a desire to dig into hard problems around running machine learning systems at scale </li><li> We use Apache Spark, Docker, Terraform, but you don\u2019t need prior experience with these </li><li> Have proven success working 100% remote in prior positions &amp; are experienced working with a distributed, national team </li><li> We encourage you to apply even if you don\u2019t have every listed requirement <br></li></ul><strong>As a Machine Learning Infrastructure Engineer you will: <br></strong><ul><li> Build our machine learning platform that powers the Knock Home Swap\u2122 product. This product ingests large quantities of data to accurately predict home values across the nation. You\u2019ll partner with Machine Learning Engineers, offering tools, infrastructure, data, and services to enable our ML scalability. </li><li> Develop, extend, and maintain systems used in our machine learning infrastructure, such as proprietary geospatial systems and training workflow orchestration. You'll work on automation of training, validation, and deployment of ML models. </li><li> Utilize infrastructure-as-code technology such as Terraform to automate provisioning of resources. </li><li> Optimize and debug ML training support systems; as well as, develop libraries and tools to aid ML engineers day-to-day work. Wrangle large datasets and make them available for training and inference via both bulk files and APIs. Implement monitoring and alerting for ML systems. </li><li>Continually learn, grow, and expand your knowledge, while also supporting others learning experiences; act as a mentor and be a resource for others inside and outside of your team. You will take on ad-hoc projects as they arise &amp; always be willing to support your team where they need you. <br></li></ul>We are proud to be a distributed company from our founding with employees in 28 states and counting. This is an amazing opportunity to be an integral part of building a multi-billion dollar consumer brand in an industry that is long overdue for a new way of doing things. You will be working with a passionate team that is disrupting the status quo.<br><br>Knock, and its subsidiaries, are committed to creating a diverse, inclusive, and equitable environment and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br><strong>Please no recruitment firm or agency inquiries, you will not receive a reply from us.<br><br></strong><strong>This position is in the continental United States.<br><br></strong><strong>PDF is our preferred format for resumes and any other attachments. Thank you!<br><br></strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:02:18.000Z"
+  },
+  "company": {
+    "name": "Knock",
+    "link": "https://www.linkedin.com/company/knock.co"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "<p>NVIDIA is looking for a Senior Site Reliability Engineer to work in IPP (Infrastructure, Planning and Process). IPP is a global organization within NVIDIA. This group works with various other groups within NVIDIA Software such as Graphics Processors, Mobile Processors, Deep Learning, Artificial Intelligence and Driverless Cars to cater to their infrastructure needs. These cloud services provide almost half a million automated jobs per day on thousands of servers helping with the productivity of thousands of NVIDIA's software engineers worldwide.</p><p>The cloud hosts a heterogeneous mix of machines and devices with various operating systems (Windows/Linux/Android), a multitude of hardware platforms both NVIDIA GPUs and Tegra Processors. Are you passionate about distributed infrastructure and looking for sophisticated, critical issues, ready to build the next generation of cloud services, design creative solutions, mine through data to uncover real problems and fix them? We are excited to onboard a fun-loving person like you.</p><p><strong>What you'll be doing:</strong></p><p><br></p><ul><li>Develop framework and scripts to automate workflows and deployments in the cloud environment.</li><li>Deploy and maintain a large farm of machines using groundbreaking Configuration Management &amp; Infrastructure Automation (IaC) tools like Chef, Ansible, Terraform</li><li>Develop extensive monitoring systems to have fast, reliable and real-time pulse of the various infrastructure subsystems (Zabbix, Grafana)</li><li>Participate in on-call &amp; rotational L1 support for round-the-clock monitoring and remediation of the infrastructure.</li><li>Work closely with multi-functional teams across the globe to ensure service up-time and SLAs are maintained.</li><li>Solve sophisticated problems involving multi site infrastructure scaling, security threat mitigation, commissioning disaster recovery sites etc.</li><li>Will be leading a service charter completely, and will be essentially a responsible pilot in charge for the development, monitoring and automation of that infrastructure.</li><li>Automation and performance tuning of regression test frameworks, creation of self healing/automated recovery solutions for regression farms.</li><li>Assist in roll-out and deployment of new development features aimed at supporting the latest NVIDIA hardware and technologies.</li></ul><p><br></p><p><strong>What we need to see:</strong></p><p><strong><span class=\"ql-cursor\"></span></strong></p><ul><li>Bachelor's or Master's Degree in Computer Science or Software Engineering (or equivalent experience).</li><li>8+ years of overall experience.</li><li>Ability to analyze and debug source code to triage, root cause and resolve issues in the infrastructure. Collaborate with the development teams in improving the build and test infrastructure.</li><li>Familiar with maintenance and setup of Linux, Windows hosts and popular open source applications such as Nginx, Apache HTTP, Apache Tomcat and MySQL server.</li><li>Hands-on programming experience with any including but not limited to Java (preferred), Python, Golang etc. Unix shell proficiency is expected.</li><li>Experience in MySQL/No-SQL(plus), should be able to write complex queries.</li><li>Background with version control systems like Perforce, GIT.</li><li>Demonstrable experience working in large scale enterprise production systems. 6+ years of operational experience required.</li></ul><p><br></p><p><strong>Ways to stand out from the crowd:</strong></p><p><br></p><ul><li>Experience with public clouds (AWS, GCP, Azure), VM and container virtualization technologies like VMware, KVM, Docker and Kubernetes.</li><li>Background with automating bare metal and VM provisioning.</li><li>Experience with supporting GPUs, embedded device development, driver development and CUDA/TensorRT applications.</li></ul><p>NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing and Visualization. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens new universes to explore, enables outstanding creativity and discovery, and powers what were once science fiction inventions from artificial intelligence to autonomous cars.</p><p>NVIDIA is looking for phenomenal people like you to help us accelerate the next wave of artificial intelligence. If you are creative and passionate about developing cloud services, we want to hear from you! Widely considered to be one of the technology world\u2019s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and passionate about developing cloud services we want you on our team!</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T07:03:24.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

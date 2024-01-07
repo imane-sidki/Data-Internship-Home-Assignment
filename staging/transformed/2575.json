@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Qualifications<br>- Proficient with systems thinking, able to write software with code in a language that allows them to be successful in: JavaScript, NextJS, ReactJS, TypeScript, GraphQL (Apollo), MongoDB<br><br>Responsibilities<br>- What ongoing activities is the role responsible for?<br>- Making the software systems that allows users to be successful in Murmur.<br>- Talking to users to better understand the connection between what is being built and maintained and what is adding or reducing value in the market.<br>- Observing the software systems to optimize the implementation level of Murmur.<br>- Tending the software systems to keep them easy to reason about.<br>- Collaborating cross-functionally with other roles in Murmur in making decisions about features and functionalities of Murmur.<br>- Building resilient software through writing tests and documentation. <br>- Documenting how and why the software systems are built the way they are.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T17:50:09.000Z"
+  },
+  "company": {
+    "name": "Murmur",
+    "link": "https://www.linkedin.com/company/murmurlabs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

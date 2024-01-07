@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer- Machine Learning",
+    "industry": "Information Technology and Services",
+    "description": "<strong><u>Job Description<br></u></strong><ul><li>Should have very strong experience with 10+ Years .</li><li>Hands on Python experience in designing, developing microservices, REST APIs.</li><li>Solid hands on experience developing Python applications using libraries, IBM accelerators on Data Sciences/Client projects.</li><li>Experience using Python such as Flask, Django, etc.</li><li>Experience using microservices orchestration using frameworks such as AirFlow, etc.\"</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-21T08:00:48.000Z"
+  },
+  "company": {
+    "name": "eTeam",
+    "link": "https://www.linkedin.com/company/eteam"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Albany",
+    "region": "NY",
+    "postal_code": "12256",
+    "street_address": null,
+    "latitude": 42.651726,
+    "longitude": -73.7551
+  }
+}

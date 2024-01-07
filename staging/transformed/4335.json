@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr.Site Reliability Engineer",
+    "industry": "",
+    "description": "1)*Job Title : Sr.Site Reliability Engineer<br>*Total relevant experience : 7 + years<br>*Job Location : Remote<br>**Please NOTE: We have positions open in CANADA and US both **<br>Job description:<br><br>-  7-9 yrs Total IT experience.<br>- Experience of at least 4-5 years within an Enterprise SRE configuration.(Mandatory)<br>AWS: 4 years (Mandatory)- AWS Cost Optimization, Developing applications in an AWS environment & Terraform.<br>- Debugging production issues: 4+ years (Mandatory).<br>- Python: 2-3 years (Mandatory)-DJango, Celery.<br>-Good to have: AWS Certified. <br>- Experience in with development technology stack-Docker, Python, Django, Celery, Postgres. AWS serverless technologies(Lambda, Cognito, API Gateway, Step Functions, AppSync), - -Experience in operational technology stack(Uwsgi, Nginx, RabbitMQ, Elasticsearch, Redis). Experience with automation tools- Salt, Vagrant, Packer. Experience with metrics and orchestration tools-Jenkins, NewRelic, Datadog, Loggly.<br><br>-He/ She needs to be the best buddy of Key IT Stakeholders and sponsors.<br>-Healthcare Industry exposure is a plus.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T03:11:08.000Z"
+  },
+  "company": {
+    "name": "Nitor Infotech",
+    "link": "https://in.linkedin.com/company/nitorinfotech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Chicago Area",
+    "region": null,
+    "postal_code": "60618",
+    "street_address": null,
+    "latitude": 41.948055,
+    "longitude": -87.655754
+  }
+}

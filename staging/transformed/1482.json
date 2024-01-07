@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>The Reserve Pricing System team is looking for a Machine Learning Engineer to join our team in building Reinforcement Learning solutions at scale. RPS leverages Machine Learning, Causal Inference, and Econometric techniques to continuously explore, learn, and optimize the allocation, ranking, and pricing of ads across Amazon\u2019s retail business. We are an interdisciplinary team of Scientists, Engineers, and Economists incubating and building day one solutions using cutting-edge technology to solve some of the toughest business problems at Amazon.<br><br>This is a unique opportunity for someone who wants to have business impact, dive deep into large-scale economic problems, enable measurable actions on Amazon\u2019s Ads and Consumer business, and work closely with scientists and economists. If you are interested in Machine Learning, Reinforcement Learning, large-scale, low-latency distributed systems and can build the software that use the models, this is the role you have been looking for. With a broad mandate to experiment and innovate using the power of data science, big data and machine learning, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.<br><br>We are a Day 1 team, with a charter to be disruptive through the use of ML and bridge the Science and Engineering gaps that exist for engineers today. You will work on green field projects with senior scientists to bring our models to life. We are an inclusive team, and are looking for engineers that aren't averse to learning and building predictive models alongside our scientists.<br><br>We are seeking talented and experienced leaders to design, implement and deliver ML components along with high quality (e.g., secure, testable, maintainable, low-defects, efficient, etc.) software to solve complex economics problems, while independently authoring, testing and rolling-out new models in an existing system with coordination from scientists in order to generate positive feedback. You'll have the freedom (and encouragement) to experiment, improve, invent, and innovate when analyzing tradeoffs of selecting source data; building tools that accelerate the development of ML models by scientists; developing ML models using variety of ML design approaches and solid breadth of knowledge such as data processing, regression, clustering, recommendations, classification, experimentation, model optimization.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> 2+ years of non-internship professional software development experience</li><li> Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li><li> 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Experience working with high-performance scalable systems</li><li> Experience with machine learning</li><li> Experience in online advertising is a plus</li><li> 3+ years of industry experience</li><li> MS/PhD in Computer Science or a related technical discipline<br></li></ul>Amazon is an Equal Opportunity-Affirmative Action Employer \u2013 Minority Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us<br><br>#sspajobs<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1646934",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T09:15:27.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80700,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

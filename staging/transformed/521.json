@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Staffing and Recruiting",
+    "description": "<strong><u>About Us<br><br></u></strong>HirexHire (pronounced hire by hire) is a Chicago-based recruiting and talent consultancy that integrates with companies short-term to provide long-term talent solutions. We take a seat in our client\u2019s everyday operations to understand their people goals, gaps, and challenges. We then develop and implement the processes and technologies to execute a sustainable and scalable talent plan.<br><br>We partner with companies expecting or experiencing high growth who need to hire at scale or fill a critical role rapidly. Our clients are not looking for quick-fix placements but are thoughtfully building a hiring strategy to scale their businesses.<br><br><strong>OUR CLIENT<br><br></strong><strong>Location:</strong> Chicago, IL<br><br><strong>Industry:</strong> B2B SaaS / Software<br><br><strong>Company Size:</strong> 150+<br><br><strong>What They Do:</strong> Our client works with global brands and retailers, ranging from emerging brands to the world\u2019s largest blue-chip companies, to empower clients to make smarter decisions, drive more sales and grow deeper relationships with their customers. Powered by AI and NLP, their ratings and reviews products allow customers to analyze the influence of user-generated content on the buyer journey.<br><br><strong>THE ROLE<br><br></strong>We seek a Junior Software Engineer to join our client\u2019s rapidly growing team in Chicago. This is an excellent opportunity for recent grads or early-stage software engineers looking to learn and grow within the role. As Junior Software Engineer, you will work on a scrum team to drive the delivery of features that bring high performance, usability, and stability within the context of our client's infrastructure, business practices, market pressures, and planning cycles. With the main focus on Java, you will also find yourself working closely with other engineers of varying disciplines (Java, QA, DevOps, Front-End ReactJS, Full-Stack Ruby, etc.), product, and data science, well as other parts of the organization.<br><br>If you\u2019re passionate about innovating with modern technologies and implementing viable use cases to do so, then we\u2019re looking for you!<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Take ownership of projects and collaborate with stakeholders to develop robust, multi-tiered web applications </li><li>Collaborate with front-end, QA, product, DevOps, and UX teammates in an agile development environment </li><li>Add new features and maintain an existing codebase while learning various technologies and working in the AWS ecosystem </li><li>Promote high-quality code with thoughtful design, unit testing, and automated functional testing </li><li>Proactively identify improvements within our infrastructure, production operations, and codebase </li><li>Work in a technical environment that includes: Ruby on Rails, Elixir, and a variety of AWS services <br></li></ul><strong><u>What You Will Likely Need<br></u></strong><ul><li>0-1+ years experience in a similar role (including relevant internship experience) </li><li>Bachelor's of Science degree in Computer Science/Engineering or equivalent </li><li>Deep understanding of Java development, database modeling and design, and scalable web architectures </li><li>Professional experience with Java technologies and tools such as Spring Boot, Spring MVC, SQL, Hibernate/JPA, Maven, and IntelliJ/Eclipse </li><li>Familiarity with databases such as PostgreSQL, Neo4J, ElasticSearch, or Snowflake </li><li>Experience developing/interacting with REST API's </li><li>Comfortable working with Git and Linux </li><li>Must be authorized to work in the U.S.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T00:00:00.000Z"
+  },
+  "company": {
+    "name": "HirexHire",
+    "link": "https://www.linkedin.com/company/hirexhire"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64700,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

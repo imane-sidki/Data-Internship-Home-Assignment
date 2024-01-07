@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Entertainment,Sports",
+    "description": "<strong><u><strong>Job Description</strong></u></strong>Endeavor is an equal opportunity employer committed to a diverse and inclusive work environment.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:28:58.000Z"
+  },
+  "company": {
+    "name": "Endeavor",
+    "link": "https://www.linkedin.com/company/endeavor-co"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Machine Learning",
+    "industry": "Hospital & Health Care,Financial Services,Computer Software",
+    "description": "<p><strong><u>About The Company</u></strong></p><p>We believe in a world without misdiagnoses, where every patient receives the best opportunity to recover and lead a healthy life. And we are the team solving this problem every single day for millions of patients across the country.</p><p><br></p><p>Covera Health is transforming how quality health care is measured and delivered. We are starting in radiology where the wrong diagnosis can lead to a cascade effect of misguided care, enormous patient harm and, for some, a missed opportunity for recovery. An early and accurate diagnosis is the patient's best chance to get better.</p><p><br></p><p>Our first product uses a proprietary framework that leverages advanced data science and artificial intelligence to help patients receive an accurate diagnosis. Today, we are working with some of the largest healthcare payers in the country to impact millions of patient lives. With a pipeline representing 25% of insured individuals in the US, the opportunity to transform radiology and, in turn, improve patient care across the globe is in front of us.</p><p><br></p><p>Headquartered in New York City, Covera Health closed a $23.5M Series B financing round with Insight Partners, a leading global venture capital and private equity firm investing in high-growth companies that are driving transformative change in their industries.</p><p><br></p><p><strong><u>About the role</u></strong></p><p>We are looking for a talented Data Scientist with a strong background in Machine Learning techniques to join us in our commitment to improve the quality of care for patients in communities across the nation. You will be working with a growing multidisciplinary team of talented data scientists, other statisticians, engineers, and researchers to leverage unique healthcare data (in the form of MRI images, clinical reports, claims data, and beyond) to answer novel clinical questions. The datasets will be diverse and wholly distinct and cover all phases of care delivery (referral, diagnosis, therapy, and outcome/follow-up) from the perspective of various key stakeholders (patients, providers and payers). As a member of the team, you will work to create, extend, and validate the statistical models that power analytics at Covera Health. We encourage new opportunities to shape our data science strategy, and value those who can lead and mentor junior members along the way.</p><p></p><p>You will be expected to:</p><ul><li>Leverage a variety of healthcare data, including healthcare provider profile data, longitudinal claims data, and proprietary diagnostic imaging exam quality assessment data, to quantify the relationship between healthcare quality and patient outcomes, costs, and care patterns.</li><li>Apply techniques to answer clinical questions, including the implementation of interpretable machine learning methods</li><li>Create, extend, and validate models and methods for causal analysis and outcome prediction.</li><li>Collaborate with data science team members and other colleagues on data analysis projects and research activities.</li><li>Communicate the results of analysis and research projects to internal and external stakeholders.</li><li>Prepare and contribute material for academic publication and participate in scientific conferences.</li></ul><p></p><p><strong><u>Requirements</u></strong></p><ul><li>Ph.D or M.S. in statistics, biostatistics, healthcare economics, applied math, epidemiology, computer science or a related field.</li><li>At least 1+ years of work experience as a Data Scientist following a PhD or 3+ years of experience following a Masters.</li><li>Experience with random forests, ensemble techniques, supervised and unsupervised learning</li><li>Exposure to causal inference methods such as propensity score matching and weighting is a plus.</li><li>Experience and interest in interpretable Machine Learning is a big plus.</li><li>Experience with Python and/or R.</li><li>Experience developing code that is leveraged by a wider team and/or contributing to a collaborative code base.</li><li>Strong communicator with excellent ability to work in a team environment.</li><li>Experience working with real world medical data or claims data is a plus.</li><li>Eager to learn new techniques and work at the intersection of machine learning and causal inference.</li></ul><p></p><p><strong><u>Benefits</u></strong></p><p>You will be a full-time employee with competitive salary, stock options, and great benefits. These benefits include medical, dental, and vision insurance, HRA, 401k, pre-tax commuter benefits, flexible paid time off, and--when we go back to the office--a comfortable office space filled with a variety of quality snacks and beverages. Most importantly, you\u2019ll get to know each of us and we love to work together to find solutions. We are a talented, fun, focused, and unique team of people who are truly passionate about changing healthcare for the better! Even while remote, you'll experience the Covera culture as we offer a host of virtual experiences including a book club, fitness club, guest speakers, dynamic Slack channels, and more!</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:20:14.000Z"
+  },
+  "company": {
+    "name": "Covera Health",
+    "link": "https://www.linkedin.com/company/covera-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

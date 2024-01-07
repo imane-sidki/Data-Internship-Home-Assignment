@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, NLP",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Responsibilities<br><br></u></strong>You will be the key player in a talented machine learning and NLP team to:<br><ul><li> Develop text NLP and ML applications for various Zoom products; </li><li> Propose and design the best suitable ML and NLP models or algorithms based on the product requirements </li><li> Build ML pipelines such as model training, evaluation, and monitoring system and deploy in production utilizing AWS cloud; </li><li> Collaborate with various teams including offshore teams, communicating requirements, providing technical leadership, code review, production integration and deployment, and result evaluation. </li></ul><strong><strong> Requirements <br></strong></strong><ul><li> Ph.D or M.S. in NLP, Machine Learning, Computer Science or a related technical field; </li><li> Industry experience in machine learning applications in production. </li><li> Experience in developing pipeline components and processes, such as inference and training pipeline, model evaluation, monitoring, A/B testing etc. </li><li> Fluent in English writing and speaking, strong communication skills to work with different teams and stakeholders; </li><li> Expertise knowledge in NLP such as text classification, sentiment analysis, topic modeling, text summarization, ranking, text similarity, tokenization, word/sentence/doc embedding, NER, POS (Part-Of-Speech) tagging and parsing, intent detection, slot filler, dialog flow, knowledge graph; </li><li> Expertise in Machine Learning (ML) / Deep Learning (DL) and NLP algorithms (CNN, LSTM, BERT, XLNet, GPT etc), techniques (transfer learning, transformers, etc.). Hands-on experience on developing and training models with large-scale text data; </li><li> Experience with open-source ML / DL / NLP toolkits such as TensorFlow, Caffe, PyTorch, CoreNLP, OpenNLP, StanfordNLP, SpaCy, AllenNLP, NLTK, gensim, etc; </li><li> Strong mastery of Python programming language, and general software development skills (source code management, debugging, testing, deployment, etc.) </li></ul><strong><strong> Preferences <br></strong></strong><ul><li> Experience in Multilingual NLP Models </li><li> AWS experience such as EKS, ECR, S3; </li><li> Framework experience such as AirFlow, KubeFlow, MLFlow, TFServing, Seldon Core; </li><li> Production ML software development experience is preferred. </li><li> Strong analytical skills and attention to detail. <br></li></ul>Have experience in most but not all of these areas? We\u2019d still love to hear from you! Please apply and we\u2019ll get back to you if there\u2019s a fit.<br><br>Ensuring a diverse and inclusive workplace where we learn from each other is core to Zoom\u2019s values. We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records as well as any qualified applicants requiring reasonable accommodations in accordance with the law.<br><br>We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.<br><br>All your information will be kept confidential according to EEO guidelines.<br><br><strong><u>Explore Zoom<br></u></strong><ul><li> Hear from our leadership team </li><li> Browse Awards and Employee Reviews on Comparably </li><li> Visit our Blog </li><li> Zoom with us! </li><li>Find us on social at the links below and on Instagram</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-27T19:09:51.000Z"
+  },
+  "company": {
+    "name": "Zoom",
+    "link": "https://www.linkedin.com/company/zoom-video-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

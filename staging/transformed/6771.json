@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Engineer Test",
+    "industry": "Civil Engineering",
+    "description": "US CITIZENSHIP REQUIRED FOR THIS POSITION: Yes<br><br>RELOCATION ASSISTANCE: No relocation assistance available<br><br>CLEARANCE TYPE: Secret<br><br>TRAVEL: No<br><br><strong><u>Description<br><br></u></strong>Peraton Global Health &amp; Financial Solutions sector is seeking an experienced software test engineer to join our team of qualified, diverse software development professionals. The qualified applicants will become part of Peratons application development team helping the Financial Crimes Enforcement Network (FinCEN) safeguard the U.S. financial system from the abuses of financial crime. FinCEN carries out its mission by receiving and maintaining financial transaction data, analyzing and disseminating that data for law enforcement purposes, and building global cooperation with counterpart organizations in other countries and associated international bodies. The Peraton team currently supports FinCENs on premises Bank Secrecy Act (BSA) Electronic Filing System by providing application development and operation services to collect, validate, and process financial transaction data from various types of financial organizations throughout the US and oversees. FinCEN has expanded the scope of the above system to include the collection of Beneficial Ownership data (as part of the Corporate Transparency Act included in the 2021 National Defense Authorization Act) within a secure AWS gov-cloud environment.<br><br><strong><u>Roles And Responsibilities<br><br></u></strong>The candidate is experienced in writing software to validate the quality of software systems and front-end functionality, as well as some experience in either front-end or back-end development in J2EE. The candidate shall support the lead developer with front-end and/or back-end development as needed and create automated tests, tools and systems to make sure that products and processes run as expected.<br><br><strong><u>Basic Qualifications<br><br></u></strong>To be considered for this position, the candidate must minimally meet the knowledge, skills, and abilities listed below:<br><ul><li>5 Years with Bachelors in Science; 3 Years with Masters; 0 Years with PhD</li><li>Experience developing test automation in an AWS cloud environment (e.g. AWS Devicefarm, CI/CD automation tools, etc.) and/or Java environment (e.g. Selenium, SOAP UI, etc.)</li><li>Must have programming experience, in Java (J2EE) and related technologies</li><li>Must have an Active Secret (or higher) clearance.</li><li>Must be a US Citizen.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experienced in technologies like Python, Ruby, and Selenium.</li><li>Knowledge of test automation.</li><li>Knowledge of designing and developing a web-based application using Java EE platforms (java technology stack)</li><li>Insight of Java and JEE internals (Class-loading, Memory Management, Transaction management, etc.)</li><li>Knowledge of Relational Databases, SQL, and ORM technologies (JPA2, Hibernate)</li><li>Knowledge of developing web applications using at least one popular web framework (Spring MVC)</li><li>Knowledge of test-driven development (Junit)</li><li>Knowledge of any JS Framework (React, Angular, etc.)</li><li>Knowledge of web-service protocols (REST APIs and JSON)</li><li>Knowledge of Oracle, Adobe designer, HTML5, CSS, XML<br></li></ul>We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:46:27.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64800,
+    "max_value": 77100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Vienna",
+    "region": "VA",
+    "postal_code": "22184",
+    "street_address": null,
+    "latitude": 38.903484,
+    "longitude": -77.26282
+  }
+}

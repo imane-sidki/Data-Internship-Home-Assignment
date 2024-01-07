@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Job Summary<br>Craxel has developed breakthrough computer science for bringing unprecedented order to data at any scale.  We live in the era of exploding data and our customers are suffering from the performance and scale limitations of existing data management software. Come work on the core team delivering the next generation data platform.  We are looking for builders that would rather work deep into the technology stack instead of spending their career working on a few new features augmenting software designed 50 years ago.  If you want to be challenged and work on a high powered team that will help you grow your skills, this is the opportunity for you.  If you want to work on cutting edge tech such as high velocity data indexing, distributed consensus for distributed ledger, SQL query optimization, high performance searchable encryption, zero trust access control, or advanced UI; then this is the opportunity for you.<br>  <br>Key Job Responsibilities<br>You will write and test code (mostly Java) in an agile environment.  You will participate in planning and execution of the product roadmap.  You will regularly interact with engineering, marketing, and business leadership.  You will help customers use and deploy our products to solve really hard problems.  You may be called on to help our customers create products and services using our platform.<br><br>Qualifications<br>Minimum B.S. in Computer Science or similar.  Proficiency in Java, C or C++.   <br>Strong demonstrated skills building software<br>Curiosity for how software actually works at the lowest levels <br><br>Craxel is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T15:24:15.000Z"
+  },
+  "company": {
+    "name": "Craxel, Inc.",
+    "link": "https://www.linkedin.com/company/craxel-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chantilly",
+    "region": "VA",
+    "postal_code": "22022",
+    "street_address": null,
+    "latitude": 38.888687,
+    "longitude": -77.417496
+  }
+}

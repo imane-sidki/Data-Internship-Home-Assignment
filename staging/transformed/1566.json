@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Software Engineer",
+    "industry": "Automotive",
+    "description": "<p>We are looking for a candidate who has :</p><p>\u2022 Working experience in coding within multiple technology stacks technologies \u2013 Ruby on Rails,</p><p>\u2022 Working experience with AWS</p><p><br></p><p>Its an entry level role .</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-28T17:59:10.000Z"
+  },
+  "company": {
+    "name": "Confidential",
+    "link": "https://www.linkedin.com/company/confidentialcompany"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

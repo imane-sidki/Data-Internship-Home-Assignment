@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong><u>Who We Are<br><br></u></strong>Drizly is the world\u2019s largest alcohol marketplace and the best way to shop beer, wine and spirits. Our customers trust us to be part of their lives \u2013 their celebrations, parties, dinners and quiet nights at home. We are there when it matters - committed to life\u2019s moments and the people who create them. We partner with the best retail stores in over 1400 cities across North America to serve up the best buying experience. Drizly offers a huge selection and competitive pricing with a side of personalized content. That is what we do. Who we are is a different story.<br><br>We are more than just another tech company. There is an intellectual curiosity that occurs at Drizly. We have a desire to question, to understand, to figure it out. Bottom line, we solve it. We value not just the truth but the process to get to the truth, to deliberate, decide and then act. Most importantly, we care. We care about our customer. We care about our company. We care about our team. There will be long days and incredible challenges.<br><br>We are blazing a trail in an industry that hasn\u2019t changed in nearly a century, and that doesn\u2019t scare us (well, not all the time) -and even when it does, it doesn\u2019t stop us, it energizes us.<br><br>Do you see yourself here? Read on.<br><br><strong><u>Who You Are<br><br></u></strong>You have a solid foundation in software engineering, sound design principles, good code habits, and experience working on models. You are a Software Engineer with Data Science experience or a Data Scientist with Software Engineering experience. You have defined standards and practices for previous Data Science teams. You have deployed predictive models in production environments. You have created models that drive performance in very complicated cases and where the best practices in the industry are murky at best. You are comfortable collaborating with and teaching other Data Scientists on the team.<br><br><strong><u>What The Role Is<br><br></u></strong>Personalization is a key part of our consumer facing strategy for the next 3 years. Personalization in Data Science is best built via collaboration of people and the cohesion of multiple processes into a unified user experience. The ML Engineer core function is to increase the leverage of the individual data scientist on the team.<br><br>As Drizly\u2019s ML Engineer focusing on personalization, a big focus will be architecting core data products that have a solid foundation for others to build on. There will be a big emphasis on interacting seamlessly with Product and Data Engineering. The role will implement engineering solutions for Data Science outputs end to end including CI/CD, Scaling, Logging, Monitoring of Services, Modeling work, Product integration, E2E testing, and defining SLAs between microservices.<br><br><strong><u>In This Role You Will<br></u></strong><ul><li>Create and maintain new processes for Data Science to broadcast and act on their outputs to the rest of the company</li><li>Keep up to date on the rapidly evolving tech stack for Data Science and incorporate tools to augment DS work</li><li>Formulate new ways to make Drizly\u2019s experience truly more specific to the individual</li><li>Know when additional resources and infrastructure are necessary to execute on Data Science initiatives</li><li>Set standards for the Data Science team around code development, deployment, and monitoring<br></li></ul><strong><u>The Other Stuff<br></u></strong><ul><li>Competitive salary</li><li>One-on-one professional coaching with an external expert</li><li>Health, Dental and Vision Insurance</li><li>Flexible vacation policy</li><li>401(K) Plan with with Employer Match</li><li>Added perks<br></li></ul><strong>You do you.<br><br></strong>Drizly is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status<br><br><strong>BEFORE YOU APPLY...<br><br></strong>We ask that you please remove all identifying information from your resume before you upload it on the next page in an effort to help us remove unconscious bias from our resume review process. Drizly is committed to cultivating an inclusive environment where a diverse group of people can and want to do their best work, and that starts with our hiring practices.<br><br>Identifying information includes your name, photos, LinkedIn URL, email address and more.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T11:38:31.000Z"
+  },
+  "company": {
+    "name": "Drizly",
+    "link": "https://www.linkedin.com/company/drizly"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

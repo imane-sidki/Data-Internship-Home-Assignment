@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services",
+    "description": "<br><br><strong>Additional Information<br><br></strong><p>All your information will be kept confidential according to EEO guidelines.<br><br></p><p><em>Experian is proud to be an Equal Opportunity and Affirmative Action employer. Our goal is to create a thriving, inclusive and diverse team where people love their work and love working together. We believe that diversity, equity and inclusion is essential to our purpose of creating a better tomorrow. We value the uniqueness of every individual and want you to bring your whole, authentic self to work. For us, this is The Power of YOU and it ensures that we live what we believe.<br><br></em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T20:21:12.000Z"
+  },
+  "company": {
+    "name": "Experian",
+    "link": "https://www.linkedin.com/company/experian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74600,
+    "max_value": 117000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "<strong><u>Description<br><br></u></strong>ESSENTIAL JOB DUTIES AND RESPONSIBILITIES*<br><br><ul><li> Provide their expertise to a team of Data Scientist, Machine Learning Engineer, and Data Engineers to augment existing services and develop new capabilities at GameStop.</li><li> Contribute to one or more ongoing projects and initiatives.</li><li> Leverage clustering, network, NLP, and other analytical tools to better understand the relationships between customers and products.</li><li> Develop statistical and machine learning models to improve customer facing eCommerce services.</li><li> Contribute to the entire lifecycle of a project to ensure it technologically sound.</li><li> Supporting and/or aiding the development of analytical dashboard and reporting tools and processes<br><br><br></li></ul>MINIMUM QUALIFICATIONS, JOB SKILLS, ABILITIES<br><br><ul><li> Accredited bachelor\u2019s degree in computer science, mathematics, or similar field; equivalent work experience may be considered as a substitution. Master\u2019s degree preferred.</li><li> 2+ years of experience as a Data Scientist, Machine Learning Engineer, or similar role</li><li> Experienced in querying and working with SQL and NoSQL databases</li><li> Experience developing and evaluating machine/deep learning models.</li><li> Proficient in Python/R programming language</li><li> Experience with cloud service providers like AWS and GCP<br><br></li></ul><strong><u>Preferred Qualifications, Job Skills, Abilities<br><br></u></strong><ul><li> 1+ years of experience working with retail data on analytical projects.</li><li> Experience developing cloud-based data services on cloud service providers like AWS and GCP.</li><li> Ability to work with big data in the form of systems like Hadoop and BigQuery.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T22:37:36.000Z"
+  },
+  "company": {
+    "name": "GameStop",
+    "link": "https://www.linkedin.com/company/gamestop"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 58000,
+    "max_value": 121000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Grapevine",
+    "region": "TX",
+    "postal_code": "76051",
+    "street_address": null,
+    "latitude": 32.93656,
+    "longitude": -97.0867
+  }
+}

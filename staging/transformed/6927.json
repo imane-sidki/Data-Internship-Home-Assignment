@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, great ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.<br><br><br>Are you passionate about building massively scalable services that surprise and delight? Do you have a natural curiosity for learning new technologies? If you answered yes to both questions, the Apple Pay Server engineering team wants to hear from you.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience with object-oriented analysis and design with languages like Java<br><br>Experience developing scalable and distributed systems<br><br>Experience authoring and supporting web services<br><br>Experience with Relational and NoSQL Databases<br><br> <br><strong>Description<br></strong> <br>Apple Pay brought mobile payment to millions of customers and it\u2019s just the beginning. We are looking for engineers who are equally comfortable working at the bits and bytes level and designing state of the art objected-oriented web-services. <br><br><br>Imagine the freedom of a startup but with the funding and focus of the most valuable company in the world.  Job duties include the following:  <br><br><br>Architect and implement new features for Apple Pay Write bullet-proof Java code (thread-safe, performant, object-oriented, and inherently testable) <br><br>- Work directly with the business team to collaborate on current and future initiatives <br><br>- Work directly with the iOS client team on feature definition and development <br><br>- Design specifications and protocols to tackle novel problems <br><br>- Support ongoing development efforts <br><br>- Work on overall team\u2019s efforts to fix bugs and diagnose existing issues <br><br>- Embrace test-driven development Unit tests are not optional on this team<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS degree in computer science or equivalent field plus 3-4 years software development experience or MS degree plus 1-2 years software development experience, or equivalent<br><br> <br><strong>Additional Requirements<br></strong> <br>Nice-to-have Experience, but not required:   <br><br>GlobalPlatform 2.2.1  <br><br>BSI Technical Guideline TR-03111<br><br>Elliptic Curve Cryptography Version 2.0  <br><br>NIST Special Publication 800-38B  <br><br>EMV Tokenization  <br><br>APDU/JavaCard  <br><br>Asn.1 <br><br>HSM (Thales)<br><br> <br>Role Number: 200270120<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T09:14:28.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Octane is a Fintech company whose mission is to connect people with their passions. The transaction process for large purchases such as powersports, RVs, boats, and home improvements is slow and frustrating, but Octane is changing that through automated underwriting, innovative credit products, and financing through our in-house lender Roadrunner Financial. Octane reaches millions of enthusiasts through editorial brands like Cycle World and Cycle Volta and helps consumers buy their favorite products with instant, frictionless financing on Octane.co. Octane is revolutionizing lending in under-served verticals that account for tens of billions of dollars in annual transactions.<br><br>Octane is gaining traction quickly with customers, as evidenced by growth in originations through our platform of more than $1B since inception. Octane works with more than 3,500 merchants in the USA and offers promotional financing with low rates for more than 40 OEM brands. Because we're the platform and the lender, we have both high growth and positive unit economics - rare for a fintech. We have raised more than $192M in capital from leading investors, including Valar Ventures, IA Ventures, Contour Venture Partners, Third Prime, Progressive Insurance and Citi Ventures and our lending securities are rated AA by Standard &amp; Poor's.<br><br>We are hiring a Software Engineer to build features and infrastructure for our consumer lending marketplace. Used by dealerships across the country, this product provides a streamlined workflow for dealerships to get fast, flexible financing to their customers. Working with a team of passionate, experienced engineers, you'll work throughout our stack with technologies such as Python, Django, PostgreSQL, Javascript, React, and Node.js. This role is based in our NYC office.<br><br>Responsibilities:<br><ul> <li>Write clean code to develop high-functioning systems</li> <li>Validate functionality of applications and implement automated tests to catch regressions</li> <li>Review code and fix bugs</li> <li>Collaborate with teammates and internal teams to improve products</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>2+ years experience in software engineering <strong>OR</strong> Computer Science Degree</li> <li>Proficiency with at least one high-level general-purpose language such as Python, Java, C#, Javascript, etc.</li> <li>Experience implementing technical solutions</li> <li>Experience working in a collaborative team environment</li> <li>Solutions oriented attitude with a willingness to take ownership</li> <li>Good communication and collaboration skills</li> <li>BS+ in Computer Science or a related field preferred</li> <br><br></ul><strong><u>Benefits<br></u></strong><ul> <li>Robust Health Care Plans (Medical, Dental &amp; Vision)</li> <li>Up to 5 weeks PTO (self-managed)</li> <li>Generous Parental Leave</li> <li>Retirement Plan (401k) with Company contribution </li> <li>Educational Assistance/Tuition Reimbursement up to $3K/year </li> <li>Powersports Safety Benefit: reimbursement of up to $500/year for the purchase of any powersports safety equipment</li> <li>Life Insurance (Basic, Voluntary &amp; AD&amp;D)</li> <li>Short Term / Long Term Disability &amp; Life insurance</li> <li>Team Activities (remotely)</li> <li>Monthly company gift</li> <br></ul><em>Octane Lending is an equal opportunity employer committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or any other protected status with respect to recruitment, hiring, promotion and other terms and conditions of employment.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T05:14:44.000Z"
+  },
+  "company": {
+    "name": "Octane",
+    "link": "https://www.linkedin.com/company/octane-lending"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81500,
+    "max_value": 177500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

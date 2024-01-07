@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Design Engineer",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "Hunter Engineering Company, a global leader in the development and manufacturing of computer-based automotive service equipment.<br><br>We are currently seeking a R&amp;D Engineer- Software Design for our R&amp;D operations.<br><br>Founded in 1946, Hunter has a history of product ingenuity and growth and has been a worldwide market leader for decades. Our computer-based products set the quality and technological standard in the industry. Hunter Engineering Company offers state-of-the-art automotive service equipment such as wheel alignment systems, wheel balancers, tire changers, lift racks, and brake testers.<br><br><strong><u>Job Summary<br><br></u></strong>We are looking for a Software Design Engineer to design and develop machine vision based products with emphasis on software development.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Perform new product research and conceptual design as member of our design team </li><li> Develop, implement, and test vision based software algorithms </li><li> Support development of application level software </li><li> Support further development of existing products as needed </li><li> Support development of factory test fixtures as required <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> Bachelor\u2019s of Science degree in Electrical Engineering, Computer Engineering, or Computer Science </li><li> Experience with Microsoft Visual Studio is preferred </li><li> Knowledgeable in matrix algebra, 3D perspective geometry, and optimization algorithms </li><li> Experience developing application level software including screen design and user interface design </li><li> Experience with working in a multiple developer team environment with configuration management and defect tracking tools is preferred </li><li> Experience in developing code for embedded systems is also desired </li><li> Experience developing software in C, C++, using a Windows-based development environment is required <br></li></ul><strong><u>Preferred Experience<br></u></strong><ul><li> C# </li><li> Azure </li><li> Electron &amp; Angular </li><li> .NET Core, React, &amp; TypeScript </li><li> JSON </li><li> RESTful APIs </li><li> Version Control: Team Foundation Server and/or Git</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:24:17.000Z"
+  },
+  "company": {
+    "name": "Hunter Engineering Company",
+    "link": "https://www.linkedin.com/company/hunter-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bridgeton",
+    "region": "MO",
+    "postal_code": "63044",
+    "street_address": null,
+    "latitude": 38.755707,
+    "longitude": -90.4183
+  }
+}

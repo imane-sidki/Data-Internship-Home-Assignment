@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Population Health",
+    "industry": "Computer Software,Biotechnology,Hospital & Health Care",
+    "description": "Verily, an Alphabet company, lives at the intersection of technology, data science and healthcare. Our mission is to make the world\u2019s health data useful so that people enjoy longer and healthier lives.<br><br>Our team combines expertise in healthcare, data science and technology to improve the health and well-being of our communities. We are developing the infrastructure and solutions to harness the profusion of health information for good. Our data-driven solutions span three primary areas: research, care and innovation. Programs include Project Baseline - our research initiative to increase participation and evidence generation in clinical research; Onduo - our personalized virtual care platform, which includes connected tools, lifestyle coaching and clinical support; and Debug - our effort to reduce the threat of mosquito-borne diseases by combining machine learning with sterile insect technique. We\u2019re also actively working to combat the spread of COVID-19 through new programs like Healthy at Work.<br><br><strong><u>Description<br><br></u></strong>Our Data Science group specializes in analyzing and building models to help make sense of large datasets resulting from bio-sensors, digital pathology, clinical informatics, molecular assays, and patient surveys. We combine domain knowledge and programming expertise with statistical and machine learning skills to build scalable models and solutions that help power Verily\u2019s various product areas.<br><br>In this position, you will work cross-functionally with Verily's clinical, software, product, and science teams to develop and productionize models for disease progression, digital phenotyping and risk stratification. To enable real-world impact, you will deliver key analyses for motivating product direction, build reusable analysis tools and work closely with software engineers, product managers, and clinicians to deliver user-facing products.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Work with large, complex data sets. Solve difficult, non-routine analysis problems, handling data challenges from a real-world setting.</li><li>Develop quality control and pre-processing tools for a broad range of digital and clinical data types.</li><li>Iterate on, engineer key features and build new statistical and machine learning models relating measured features to clinical endpoints.</li><li>Communicate highly technical results and methods clearly, as well as, interact cross-functionally with a wide variety of people and teams.<br></li></ul><strong><u>Qualifications<br><br></u></strong>Minimum Qualifications:<br><ul><li>Advanced degree in a quantitative discipline (e.g., statistics, computer science, applied mathematics, or similar) or equivalent practical experience.</li><li>Demonstrated experience working with Python for model development and production.</li><li>Demonstrated experience working with various healthcare data (EHR, medical and pharmacy claim, social determinants of health, etc).</li><li>Experience with exploratory and statistical data analysis (such as linear models, multivariate analysis, predictive modeling and data visualization).<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience with the analysis of observational clinical data.</li><li>Familiarity with medical terminologies and ontologies.</li><li>Demonstrated willingness to both teach others and learn new techniques.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T05:18:29.000Z"
+  },
+  "company": {
+    "name": "Verily Life Sciences",
+    "link": "https://www.linkedin.com/company/verily-life-sciences"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

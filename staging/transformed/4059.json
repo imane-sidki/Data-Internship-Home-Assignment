@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Electrical/Electronic Manufacturing,Logistics and Supply Chain,Machinery",
+    "description": "<strong><u>Requirements<br></u></strong><ul><li>Some experience in Python/Script programming and Robots. The tasking involves setting up and programming a Universal Robotic (UR) arm and gripper to pick up grocery items and move them across the plane of a scanner as performed by a human checker. </li><li>The UR robot and table are large so this tasking would be in the Holtsville Facility. For safety and security reasons, this tasking can't be fully performed remotely and the candidate would need to be in office approx 4 days a week and some weeks more than others. </li><li>The sample set of test items is large. Some training is involved, but the candidate must have some experience with robots and robotic control so the training is limited. </li><li>Develops and implements software systems or applications through the use of software best practices such as Specification, Design, Coding, Testing, Documentation, and Maintenance. </li><li>Knowledge of Development Environments, Configuration Management Tools, and Operating systems is expected. Bachelor's degree in an appropriate engineering discipline required. Minimum of 0-2 years of engineering experience.<br></li></ul>Develops and implements software systems or applications through the use of software best practices such as Specification, Design, Coding, Testing, Documentation, and Maintenance. Knowledge of Development Environments, Configuration Management Tools, and Operating systems is expected. Bachelor's degree in an appropriate engineering discipline required. Minimum of 0-2 years of engineering experience.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:18:37.000Z"
+  },
+  "company": {
+    "name": "Zebra Technologies",
+    "link": "https://www.linkedin.com/company/zebra-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Holtsville",
+    "region": "NY",
+    "postal_code": "11742",
+    "street_address": null,
+    "latitude": 40.8155,
+    "longitude": -73.044846
+  }
+}

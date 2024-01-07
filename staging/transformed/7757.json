@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Hello,<br><br>One of our many customer(s) today is urgently looking for an experienced Data Scientist who has experience Credit Risk Modelling, Banking Domain or financial experience.<br><br>Here are some of the specific details:<br><br>Position Details:<br><br>Title:                     Data Scientist<br>Duration:             6+ months<br>Location:              Costa Mesa, CA<br>Job Description:<br>Qualifications:<br>\u2022 Highly proficient writing data processing code with at least one SQL dialect<br>o Spark SQL experience desirable but not required<br>\u2022 Comfortable using Python and Jupyter notebooks with common open source libraries for machine learning<br>o MLlib, pytorch, sklearn, tensorflow all valuable<br>\u2022 Understanding of credit risk modeling fundamentals<br>\u2022 Strong communication skills \u2013 able to talk to business users to understand and articulate issues requirements, as well as more technical developer audiences<br><br>About us: <br>Harvey Nash is a national, full-service talent management firm specializing in technology positions. Our company was founded with a mission to serve as the talent partner of choice for the information technology industry.<br><br>Our company vision has led us to incredible growth and success in a relatively short period of time and continues to guide us today. We are committed to operating with the highest possible standards of honesty, integrity, and a passionate commitment to our clients, consultants, and employees.<br><br>Utilizing our proprietary Predictive Staffing model, our company has enjoyed more than a decade of rapid growth, earning our reputation as a client-focused, efficient provider across a broad range of industries.  Today, we serve top Fortune 1000 and successful privately held companies all over the country, still operating under the simple idea that great people aligned under a common vision can achieve tremendous results.<br><br>We are part of Harvey Nash Group, a global professional services organization with over forty offices worldwide.<br>  <br>For more information, please visit us at https://www.harveynashusa.com/<br>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T00:12:45.000Z"
+  },
+  "company": {
+    "name": "Harvey Nash USA",
+    "link": "https://www.linkedin.com/company/harveynashusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

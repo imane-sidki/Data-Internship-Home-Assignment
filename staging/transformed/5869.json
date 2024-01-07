@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Developer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p><strong>Job Title: Full Stack Software Developer</strong></p><p><strong>Duration: 6+ months</strong></p><p><strong>Location: San Diego, CA</strong></p><p><strong></strong></p><p><strong>Duties: </strong></p><ul><li>Work closely with product and development teams to create an amazing user experience.</li><li>Build integration and unit tests along with code.</li><li>Work in agile development environment with short sprints and standups.</li><li>Implement proof of concept, prototypes and production-grade software.</li><li>Maintain and support existing software and hardware systems, infrastructure and production.</li><li>Assist support staff and team members in trouble-shooting software issues and implementing bug fixes.</li><li>Takes ownership of the code base. Work to continually improve code quality, and get bugs fixed and deployed rapidly</li><li>Experience in or knowledge of Python, Celery, Go, Elasticsearch, PostgreSQL, SaltStack, Flask, Git, React, Elixir.</li><li>Deep understanding and knowledge of virtualization (libvirt, KVM, Xenserver).</li><li>Excellent communication and interpersonal skills. Strong programming skills including software engineering methodologies and best practices.</li><li>REST/API development.</li><li>Strong experience with Python or other scripting languages.</li><li>Experience working in a Linux development environment.</li><li>Strong experience with relational databases, and specifically MySQL, Elasticsearch, Redis.</li><li>Excellent HTML, CSS and JavaScript skills. Experience in consuming RESTful APIs.</li></ul><p><strong></strong></p><p><strong>Skills: Required Skills : </strong>Java, spring boot, Web services, AWS</p><p><strong></strong></p><p><strong>Education: </strong>EOE AA M/F/Vet/Disability.</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:40:22.000Z"
+  },
+  "company": {
+    "name": "Russell Tobin",
+    "link": "https://www.linkedin.com/company/russell-tobin-&amp;-associates-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Platform",
+    "industry": "Consumer Goods",
+    "description": "<p>Ollie was born with the mission of improving the lives of pets and pet parents nationwide. We make human-grade pet food, tailored for each dog\u2019s nutritional needs, and deliver directly to our customers\u2019 doors. Through Ollie\u2019s carefully crafted meals, dogs can truly live their healthiest, happiest lives.</p><p><br></p><p>We are a U.S. based distributed team and are backed by the same venture capital companies behind Instacart, Warby Parker, Glamsquad, Mirror, Prose, and Allbirds.</p><p><br></p><p>As aSoftware Engineer, Platformat Ollie, you will be implementing critical features and technical infrastructure in our core services that handle recommendations, pricing, order fulfillment, and pet health services. You will utilize Django to create a platform that powers our website and admin tooling. You will participate in all aspects of agile software development to design, implement and deploy key features. You will identify and define system improvements to support the growth of Ollie. You will help set, teach and maintain best practices.</p><p><br></p><p>This position is great for you if you are a curious, collaborative, and open-minded engineer. We are looking for someone who thrives in a small team environment and is excited to both teach &amp; learn from teammates. You enjoy delivering reliable, performant, well-tested code that power all your clients!</p><p><br></p><p><strong>Requirements</strong></p><ul><li>Strong working knowledge of Python</li><li>5-8+ years of full-time professional software development experience</li><li>Experience creating scalable systems</li><li>Ability to learn new tools and technologies and be able to integrate them into our system</li><li>Interest in expanding your own knowledge and sharing it with the team</li></ul><p><br></p><p><strong>Preferred Experience</strong></p><ul><li>If you don't have all of these (or even if you have none!), we encourage you to apply anyway!</li><li>Experienced with the Django framework</li><li>Postgres</li><li>Working knowledge of Docker</li><li>Familiarity with AWS</li><li>Experience with service-oriented architecture</li></ul><p><br></p><p><strong>Benefits</strong></p><ul><li>Competitive salary and a stake in the company</li><li>Sponsored 401k program with employer match up to 4%</li><li>Comprehensive health coverage including medical, dental and vision</li><li>Unlimited vacation policy that you're encouraged to use</li><li>Paid parental leave</li><li>1-week paw-ternity leave for new dog parents</li><li>Ollie subscription for one dog</li><li>Inspiring pack members!</li></ul><p><br></p><p><br></p><p><em>If you'd like to stand out, tell us in your cover letter why you're interested in joining Ollie and how your skills match the responsibilities detailed in this posting.</em></p><p><br></p><ul><li><em>Ollie embraces diversity and equal opportunity. We're committed to building a team that represents a variety of backgrounds, perspectives, and skills. Ollie is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please include that in your application.</em></li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:33:44.000Z"
+  },
+  "company": {
+    "name": "Ollie ",
+    "link": "https://www.linkedin.com/company/ollie-pets"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

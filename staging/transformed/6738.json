@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer Intern",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Description<br><br></u></strong><strong><u>Job Description:<br><br></u></strong>Leidos is a Fortune 500\u2122 company aimed at embracing and solving some of the world\u2019s most pressing challenges. Through science and technology, Leidos makes the world safer, healthier and more efficient.<br><br>Our Civil Group offers an array of exciting career opportunities for the best IT, energy, logistics and engineering professionals.<br><br>Our <strong>Transportation Solutions Operation</strong> delivers cutting-edge research in some of the most exciting technological fields and advances state-of-the-practice solutions in transportation safety. Anew era of mobilityrequiresspecialized expertise toaddressparadigm shifts inhowwe travel and move goods.<br><br><strong><u>Wesupportour Customers With<br></u></strong><ul><li>Connected and Automated Vehicles</li><li>Aircraft Traffic Planning and Operations</li><li>Human Factors Research</li><li>Analysis, Modeling and Simulation</li><li>Transportation Safety and Operations, and Asset Management </li><li>e-Construction and Accelerated Construction</li><li>Freight Efficiency</li><li>Research Facility Management<br></li></ul>Leidos is seeking an <strong>Software Development Engineer Intern </strong>who will be a member of a dynamic team working on the Federal Aviation Administration\u2019s En-Route Automation Modernization ERAM) technology, which is the heart of the Next Generation Air Transportation System and the pulse of the National Airspace System helping to advance our transition from a ground-based system of air traffic control to a satellite-based system of air traffic management. ERAM is vital to the future of air navigation, providing the foundational platform required for FAA to enable NextGen solutions, via modernization programs such as System Wide Information Management, Data Communications, and Automatic Dependent Surveillance- Broadcast.<br><br>ERAM will provide benefits for users and the flying public by increasing air traffic flow Flight Deck (FDK) functions include:<br><ul><li> Real-Time Programming on High Availability Systems</li><li> Multi-threaded programming</li><li> Low Level Operating Systems Customization (RedHat, AIX)</li><li> Low level communication software (TCP-IP, UDP, SCTP)</li><li> Support of Common Services utilized by ERAM Application teams</li><li> System Maintenance Concepts<br></li></ul><strong><u>Primary Responsibilities<br><br></u></strong>Modernizing the AT control system by improving the availability and performance of the ERAM system. Supporting ERAM as it continues to migrate from legacy system using the AIX operating systems to HP Hardware running Linux (Red Hat).<br><br>Detailed knowledge of Linux OS and OS concepts desirable.<br><br>Developing and maintaining the FAA air traffic control software (primarily Ada95/C++) on a UNIX/Linux platform.<br><br>There are a number of support/maintenance functions that utilize PERL/PYTHON.<br><br>Performing software development as needed for the ERAM system including FlightDeck \u201cmiddleware\u201d capabilities, System Management Concepts, and CHI for the Maintenance and Control Position.<br><br>Coordinate Solutions with Systems Engineering Coordinate the development of new capabilities and upgrade to common services provided the applications via the FlightDeck API. CAS Integration Concepts ERAM Tools Development<br><br>Interns typically work with one of the ERAM SW teams getting exposure to the technical environment and people who support ERAM.<br><br>Internships typically serve as interviews for future internships and Full-time employment post-graduation.<br><br><strong><u>Basic Qualifications<br><br></u></strong>Candidates must be enrolled in a degree program or equivalent experience and less than 2 years prior relevant experience. (Computer Science or Computer Engineering Degree)<br><br>Your GPA needs to be included on your application and resume.<br><br>US Citizenship Requirements<br><br>Candidate must be able to obtain an SF-85P Public Trust clearance from the FAA customer.<br><br><strong><u>Evolving Software Development Skills/Capabilities<br><br></u></strong>Excellent Verbal and Communication Skills<br><br>Strong interest in debugging and problem solving<br><br>A Strong Desire to Learn<br><br><strong><u>Preferred Qualifications<br><br></u></strong>Work Experience in a Technical organization performing Software Engineering Tasks.<br><br>Excellent Verbal and Written Communication Skills<br><br><strong><u>Leadership Skills &amp; Experience<br><br></u></strong>Leidos is growing!Connect with us on LinkedIn and Facebook.<br><br>We value and support the well-being and mobility of our employees with competitive benefit packages, complementary e-learning training, work-life flexibility, an exciting External Referral Program, and a diverse, inclusive and ethical work place. In fact, in 2020, Leidos was ranked as one of the \u201cWorld's Most Ethical Companies\u201d by the Ethisphere Institute for the third consecutive year.<br><br><strong><u>External Referral Bonus<br><br></u></strong>Ineligible<br><br><u><strong>External Referral Bonus $:<br><br></strong></u>N/A<br><br><strong><u>Potential For Telework<br><br></u></strong>No<br><br><strong><u>Clearance Level Required<br><br></u></strong>Public Trust<br><br><strong><u>Travel<br><br></u></strong>No<br><br><strong><u>Scheduled Weekly Hours<br><br></u></strong>40<br><br><strong><u>Shift<br><br></u></strong>Day<br><br><strong><u>Requisition Category<br><br></u></strong>Intern<br><br><strong><u>Job Family<br><br></u></strong>Intern Technical",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:23:49.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gaithersburg",
+    "region": "MD",
+    "postal_code": "20884",
+    "street_address": null,
+    "latitude": 39.142185,
+    "longitude": -77.193405
+  }
+}

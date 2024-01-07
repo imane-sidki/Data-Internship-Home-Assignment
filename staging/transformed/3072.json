@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Health, Wellness and Fitness",
+    "description": "<p>Site Reliability Engineer</p><p><strong><u>Job Description</u></strong></p><p>A client is looking for a traditional Infrastructure engineere turned DevOps engineer. They are looking for someone who can come in with knowledge of Infrastructure as Code (Ansible) along with monitoring experience (they currently use Newrelic). The best thing you can bring to the table is automation, to get code out the door, automation on the deployment process - and create a self-healing environment. They are currently using Ansible to automate.</p><p><br></p><p>To explain the environment everything is in AWS, they currently run everything on EC2 instances along with lambda and eventually would love to become serverless.</p><p><br></p><p>They are currently working on a migration from DockerSwarm to EKS and Kubernetes. At Plexus they have support from the vendor tools like K8s, Jenkins, etc. where you will be able to lean on that support if needed</p><p><br></p><p><strong><u>Required Skills &amp; Experience</u></strong></p><ul><li>4-5 yrs of experience in a DevOps role or 5+ years of implementing/supporting CI/CD</li><li>NewRelic or something similar</li><li>Ansible or similar</li><li>CloudFormation or Terraform</li><li>Selenium</li><li>Docker</li><li>VPC Services</li></ul><p><br></p><p><strong><u>Desired Skills &amp; Experience</u></strong></p><ul><li>Aws</li><li>Redis</li><li>Kubernetes</li><li>Loggly</li></ul><p><br></p><p><span>Tech Breakdown </span></p><ul><li>Tools, not all required but this is some that they work with - AWS, Ansible, Bitbucket, Docker, Dockerswarm, Kubernetes - EKS, Jenkins, NewRelic, Loggly, Lambda, Redis - ElasticCache, VCP, Selenium etc</li></ul><p><br></p><p>The Offer</p><ul><li>Full-time Direct Hire</li><li>$105-130K + Quarterly Bonuses </li></ul><p><br></p><p><strong><u>You Will Receive The Following Benefits</u></strong></p><ul><li>100% company paid medical, dental and vision for Employees.</li><li>401k program with a company match and immediate vesting.</li><li>Quarterly bonuses based on company profitability.</li><li>Weekly drawings for gift cards and cash.</li><li>Paid Sick Time Leave</li></ul><p><br></p><p>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.</p><p><strong>Posted By:</strong> Ashly Hale</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T17:44:48.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Scottsdale",
+    "region": "AZ",
+    "postal_code": "85266",
+    "street_address": null,
+    "latitude": 33.494907,
+    "longitude": -111.92606
+  }
+}

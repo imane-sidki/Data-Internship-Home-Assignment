@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad/Early Career - New York, San Francisco, Toronto",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Databases are the beating heart of every business in the world.<br><br>Cockroach Labs is the creator of CockroachDB, the most highly evolved cloud-native, distributed SQL database on the planet that scales fast, survives anything, and thrives anywhere. We created CockroachDB to unshackle teams from the constraints of their database. Join us on our mission to enable every developer to build world-changing applications!<br><br><strong><u>About The Role<br><br></u></strong>We are looking for extraordinary backend, full-stack, and frontend engineers to join our team.<br><br>You Will<br><ul><li>Design, code, and test across our distributed database, CockroachDB, or our database-as-a-service, CockroachCloud. You bring your expertise to the table to help us build the best database for our users, partners, and customers.</li><li>Collaborate with designers and engineers both in-house and in our open source community to design, implement, and integrate new features and tools into CockroachDB.</li><li>Improve the performance of CockroachDB or CockroachCloud.</li><li>Make sure that our products stay scalable, survivable, and consistent as we continue to grow as a company.<br></li></ul>The Expectations<br><br>In your first 30 days, you will become an integrated member of our engineering team. We believe that it's essential for you to take this first month to become familiar with our technology and our company.<br><br>After 3 months, you'll be integrated into the team. You will be comfortable contributing to the codebase for CockroachDB or CockroachCloud. You will begin to determine the parts of our product that most interest you and work with your manager to focus your efforts on projects that align with those areas and the product roadmap.<br><br>As our team grows, you will have the opportunity to shape the direction of development for Cockroach Labs products. We want our users to have a phenomenal experience using our products, and you play a crucial role in making our database offerings a joy to use.<br><br>You Have<br><ul><li>Been pursuing or recently completed studies in Computer Science or related technical field, graduating between December 2021 and August 2022.</li><li>A passion working on complex technical products and have exposure to distributed systems, concurrency control, data replication, file systems, or SQL processing.</li><li>Comfort using programming languages like Javascript, React, Redux, Go, C/C++, Java, and Python/Django. We use React.js, Redux, and Typescript on the client side and use Go on the server side. If you don't know any of these languages, you'll learn them while you're here.</li><li>A love for building relationships with your colleagues. You enjoy being part of the code review process and partnering with your teammates on challenging problems.</li><li>Past experience working on production-level code.</li><li>Genuine interest in Cockroach Labs' mission and are excited to use CockroachDB in your projects.</li><li>Bonus points if you were a TA or Head TA for a CS course.<br></li></ul>Note: Our interview process consists largely of programming in a real environment, and we'll be evaluating you on the skills listed above.<br><br>The Team<br><br><strong><u>In Addition, You Will Get To Work Closely With The Senior Leadership Including<br><br></u></strong>You will have the opportunity to report to a member of our engineering leadership team based on the project you work on at Cockroach Labs.<br><br><strong>Peter Mattis - Co-founder and Chief Technology Officer<br><br></strong>Peter works on a bit of everything, from low-level optimization of code to refining the overall design. He was thrust into file systems early in his career at Inktomi and then learned the true meaning of scalability while working on Gmail and Colossus at Google. Before stepping into the office in the morning, he will have nursed his CrossFit addiction and dealt with the chaos of a three kid morning routine. You can set your watch by his daily departure at 4:30 pm to have dinner with his family.<br><br><strong>Isaac Wong - VP of Engineering<br><br></strong>Isaac is responsible for the health of the engineering organization at Cockroach Labs. He partners closely with teams to ensure we have a balanced culture that promotes quality and innovation in pursuit of our goals. Before joining Cockroach Labs Isaac was in life sciences for 16 years with Medidata Solutions where he had a front row seat on the exciting ride from a 30 person startup to more than 2000 people worldwide. But the lure of distributed, resilient, and consistent SQL databases, along with the amazing technology and culture at Cockroach Labs proved too much. When not working he likes to draw, play the piano, and search NYC for cannoli's with his wife and kids<br><br>Our Benefits<br><ul><li>100% health insurance coverage (for you and your dependents!)</li><li>Fertility and Family Planning coverage</li><li>Paid parental leave (with baby bucks)</li><li>Flex Fridays</li><li>Flexible time off &amp; flexible hours</li><li>Education reimbursement</li><li>Relocation support<br></li></ul>Cockroach Labs is proud to be an Equal Opportunity Employer building a diverse and inclusive workforce. If you need additional accommodations to feel comfortable during your interview process, please email us at accessibility@cockroachlabs.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-29T23:07:36.000Z"
+  },
+  "company": {
+    "name": "Cockroach Labs",
+    "link": "https://www.linkedin.com/company/cockroach-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Syracuse-Auburn Area",
+    "region": null,
+    "postal_code": "13202",
+    "street_address": null,
+    "latitude": 43.07904,
+    "longitude": -76.16553
+  }
+}

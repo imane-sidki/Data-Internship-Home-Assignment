@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p><strong>Data Scientist/Analyst </strong></p><p><strong>Location: SFO, CA (Remote can work from anywhere but wiling to work Pacific hours).</strong></p><p><strong>3 Rounds of Interview</strong></p><p><strong></strong></p><p><strong>Mandatory:</strong></p><p>\u00b73+ years of data science, data analytics, or business intelligence experience</p><p>\u00b7Strong understanding of SQL</p><p>\u00b7Experience with conducting data analysis in Python and / or R</p><p>\u00b7Experience building clear and easy to understand dashboards and presentations </p><p>\u00b7Ability to communicate clearly and effectively to cross functional partners of varying technical levels</p><p>\u00b7Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insights</p><p><strong></strong></p><p><strong>Pluses</strong></p><p>\u00b7Familiarity with Superset</p><p>\u00b7Familiarity with running weblab experiments, efficacy studies, or product validation tests</p><p>\u00b7Familiarity with machine learning basics</p><p>\u00b7Familiarity with Client infrastructure, including Airflow, Presto SQL, and Hive SQL</p><p>\u00b7Experience creating and maintaining data pipelines</p><p>\u00b7Experience supporting engineering product work</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T21:07:13.000Z"
+  },
+  "company": {
+    "name": "Derex Technologies Inc",
+    "link": "https://www.linkedin.com/company/derex-technologies-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Insurance,Health, Wellness and Fitness",
+    "description": "<p>Our health system is broken, and it\u2019s a huge problem. Costs are rising out of control while the patient experience gets worse. At Sana, we're passionate about fixing this problem by bringing accessible and affordable health plans to small and medium businesses. We've built an innovative team with top talent from across the health insurance and tech industries to create engaging, modern plans for our clients. This allows our customers to offer competitive benefits packages while paying an average of 20% less than traditional plans.</p><p><br></p><p>Sana is looking for a Software Engineer to join our small but growing team. As a successful candidate, you have demonstrated the ability to build, deploy and maintain large-scale, distributed applications with complex database schemas. You understand and use automated testing and know how to write clean, readable code.</p><p><br></p><p>We are building a distributed engineering team and encourage all applicants to apply, regardless of location.</p><p><br></p><p>We work primarily in Ruby on Rails and JavaScript, but are open to those with differing backgrounds. You should have a deep understanding of how to build software that goes beyond the ability to use these tools.</p><p><br></p><p><strong>What you will do</strong></p><ul><li>Tackle complicated projects to make health insurance work better for our members</li><li>Automate insurance claims processing</li><li>Build internal tools to support our operations team</li><li>Enhance our testing, monitoring and continuous deployment infrastructure</li><li>Help keep sensitive medical data safe and secure</li><li>Work with our operations team to build out a roadmap for new features</li></ul><p><br></p><p><strong>About you</strong></p><ul><li>Minimum of 3 years writing code as a Software Engineer in a production environment</li><li>Strong object-oriented design and coding skills</li><li>Working knowledge of Ruby, Javascript</li><li>Experience working with complicated systems at scale</li><li>Solid understanding of data structures and algorithms</li></ul><p><br></p><p><strong>Tech we use</strong></p><ul><li>Rails</li><li>React</li><li>Docker</li><li>Elasticsearch</li><li>AWS</li><li>Linux</li><li>Postgres</li><li>Git</li></ul><p><br></p><p><strong>Benefits</strong></p><ul><li>Stock options in rapidly scaling startup</li><li>Flexible vacation</li><li>Medical, dental, and vision Insurance</li><li>401(k) and HSA plans</li><li>Parental leave</li><li>Remote worker stipend</li><li>Wellness program</li><li>Opportunity for career growth</li><li>Dynamic start-up environment</li></ul><p><br></p><p><strong>About Sana</strong></p><p>Sana is a modern health plan solution for small and medium businesses. We use a more efficient financing structure and integrated technology solutions to cut out wasteful spending and get members access to better quality care at lower cost. Founded in 2017, we are an experienced team of engineers, designers and health system operators. We have the financial backing of Silicon Valley venture firms and innovative reinsurance partners. If you are excited about building something new and being a part of fixing our broken healthcare system from the inside, please reach out!</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T18:41:21.000Z"
+  },
+  "company": {
+    "name": "Sana",
+    "link": "https://www.linkedin.com/company/sana-benefits"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

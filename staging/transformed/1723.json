@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Web (Ecommerce)",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Team Name<br><br></u></strong>Battle.net &amp; Online Products<br><br><strong><u>Job Title<br><br></u></strong>Software Engineer, Web (Ecommerce)<br><br><strong><u>Requisition ID<br><br></u></strong>R007607<br><br><strong><u>Job Description<br><br></u></strong>Battle.net &amp; Online Products is home to 400+ super-powered engineers, product managers, designers, and QA focused on the legendary gaming network, Battle.net, that brings millions of gamers together and makes our products available to our players around the world.<br><br>Battle.net currently has multiple web engineering roles available on our eCommerce group. The eCommerce group develops multiple web-based tools and web sites, that run on top of our Ecommerce Platform. In fact, our Battle.net homepage is powered by the Battle.net Ecommerce group, as is our popular Battle.net Web Shop. Our tools allow our game teams and operations teams to configure and operate the Ecommerce business and offering, from configuring thousands of digital products for sale, in our product catalog, to controlling sale events, to scheduling viewership incentives promotions, and requesting millions of keys, all for our Blizzard and Activision games.<br><br>Our web apps need to be performant, responsive, secure, localized, and deployed around the world. While we have our share of legacy tech choices, we are also using the latest and greatest web development techniques for our new apps. While we refactor and modernize our older apps, combating tech debt and maintaining technical excellence is important to us.<br><br>We use technologies like Angular, React, Java, Spring Boot, Docker, and more to provide the user-facing components and behind-the-scenes tooling of Battle.net's e-commerce experience. Our team frequently discusses emerging tech, opportunities for improvement, and ways to do better.<br><br><strong>Covid-19 Hiring Update:</strong> We\u2019ve transitioned to a work-from-home model and we\u2019re continuing to interview and hire during this time. This role is expected to begin as a remote position. We understand each person\u2019s circumstances may be unique and will work with you to explore possible interim options.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Develop new features for merchandising, purchasing, and gifting the contents of our digital product catalog, integrating with the rest of our e-commerce group and game teams</li><li>Collaborate with fellow engineers, designers, and numerous other partners to deliver quality products</li><li>Learn and grow with the team, drive for and adapt to new technologies</li><li>See projects through from requirement gathering to development, testing support, launch, and live coverage thereafter</li><li>Improve the quality of our code and infrastructure to grow with Blizzard\u2019s global reach</li><li>Lend a voice in shaping our product features, collaborating not only with other engineers but designers, product managers, test analysts, and others<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Bachelor\u2019s Degree in Computer Science or equivalent experience</li><li>Minimum 2 years of relevant experience </li><li>Experience in client-side JavaScript in the context of both single-page applications and more traditional webpage architecture</li><li>Familiar with server-side development for public-facing web applications</li><li>Understanding of web technology (HTTP, request/response, REST, etc.)<br></li></ul><strong>Pluses<br></strong><ul><li>Familiarity with a modern SPA framework or library such as Angular, React, or Vue</li><li>Skilled with common web security practices and the reasons to use them</li><li>Experience developing in Java or another object-oriented programming language</li><li>Working knowledge of Spring framework</li><li>Experience writing unit tests<br></li></ul>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br>Blizzard Entertainment is a global company committed to growing our employees along with the business. We offer generous benefits and perks with an eye on providing true work / life balance. We\u2019ve worked hard to foster an intensely collaborative and creative environment, a diverse and inclusive employee culture, and training and opportunity for professional growth. Our people are everything. Our core values are real, and our mission has never changed. We are dedicated to creating the most epic entertainment experiences\u2026ever. Join us!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:10:57.000Z"
+  },
+  "company": {
+    "name": "Blizzard Entertainment",
+    "link": "https://www.linkedin.com/company/blizzard-entertainment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 90500,
+    "max_value": 126000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

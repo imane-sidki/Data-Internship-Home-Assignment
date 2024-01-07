@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p><strong>ABOUT SCALE:</strong></p><p>Scale is a tech-driven direct-to-consumer company that builds and deploys next-generation CPG brands in the beauty, health and wellness industries. Through our proprietary eCommerce and digital marketing engine, Scale transforms consumers\u2019 end-to-end online shopping experience while increasing brand loyalty and retention. Scale\u2019s growing portfolio of five brands and 100+ products helps hundreds of thousands of people live healthier lives.</p><p></p><p><strong>About the Job:</strong></p><p>We are searching for a <strong>Data Scientist</strong> to join our growing Business Analytics team. Use your data and analytical skills to help us analyze our results and develop marketing strategies upon our current subscription and retention offerings. We are looking for someone with a natural ability to use data to better understand customer behavior, and utilize his/her findings to improve business results using machine learning, predictive analysis, churn and retention data.</p><p>You will have the opportunity to expand your skills and knowledge by collaborating with our awesome internal and external teams.</p><p></p><p><strong>Sample Responsibilities:</strong></p><ul><li>Conduct in-depth evaluation and analysis of subscription programs to help derive insights and recommendations</li><li>Build predictive models to support key initiatives such as predictive churn, price elasticity, predictive LTV, etc</li><li>Use data mining and statistics to find patterns within data and assist in turning into actionable insights</li><li>Use Machine Learning tools to analyze and make data-driven recommendations and decisions based on our customers journey and purchasing behavior</li><li>Determine the immediate and long term effects on ROAS, ROI and cash flow with corresponding drops/increases in different KPIs</li><li>Develop and manage dashboards using our online BI tool, by incorporating complex data sets from different data sources, such as our database, redshift clusters and other API\u2019s</li><li>Analyze and optimize current retention efforts to reduce churn rates, provide key insights and derive new retention plans and offerings across different products and brands.</li></ul><p></p><p><strong>Requirements:</strong></p><ul><li>Bachelor\u2019s degree in Computer Science, Math, Physics or similar technical field of study</li><li>5+ years of experience in data science/ data analytics</li><li>Understanding of machine learning algorithms, processes, tools, and platforms</li><li>Excellent SQL skills. Preferred - past experience with ETL tools and redshift / aws</li><li>Strong experience with Python /NumPy /Pandas and R</li><li>Previously experience in a Data Visualization tools development (data modeling as well as dashboard design) such as Sisense, Tableau and Qlik.</li><li>Good communication skills</li></ul><p></p><p><strong>Desired but not required:</strong></p><ul><li>Experience in these fields</li><li>Subscription</li><li>Ecommerce</li><li>Digital Marketing</li></ul><p></p><p><strong>Why you should join Scale:</strong></p><p>We are passionate about harnessing technology to drive business results. We collect and process large amounts of data to inform business decisions on a daily basis. You will be working alongside experienced data analysts, while having regular interactions with business executive</p><p></p><p><strong>What We Offer:</strong></p><ul><li>Work from home + Monthly WFH stipend</li><li>Competitive salary commensurate with Years of Experience</li><li>Excellent Medical, dental, vision and life insurance</li><li>401K match</li><li>Generous Paid Time Off</li></ul><p></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T19:40:32.000Z"
+  },
+  "company": {
+    "name": "Scale Media",
+    "link": "https://www.linkedin.com/company/scalemedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site-Reliability / Devops Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>We\u2019re seeking a Senior Site Reliability Engineer (SRE) / DevOps Engineer (AWS/Kubernetes ) for our client - a brand recognized company with high traffic websites + a sophisticated user interface -- in Orange County. You will be responsible for assisting teams to deliver secure, reliable and performant solutions used by millions of visitors, dealers and partners. The Senior SRE is responsible for identifying, implementing and assisting our teams with multiple initiatives including resilience, security, performance and availability, appropriate use of tools and processes, and product quality initiatives.</p><p><br></p><ul><li>This role offers an exceptional and comprehensive benefits package including growth opportunity and training.</li><li>We will consider both contract-to-hire and direct hire candidates.</li><li>Flexible schedule to work 3-4 days on a remote basis and 1-2 per week onsite in Irvine.</li><li>Will consider relocation candidates and work visa sponsorship.</li></ul><p><br></p><p>About You:</p><ul><li>Passionate technologists with an innovative mindset</li><li>Being self-motivated and customer service oriented..</li><li>Enjoy a fast-paced atmosphere where wearing multiple hats is encouraged.</li><li>Strong reasoning, analytical and problem-solving skills</li><li>Team-oriented with clear communication and meaningful collaboration skills</li></ul><p><br></p><p><strong>About This Role:</strong></p><ul><li>Provide technical expertise and domain knowledge of practices related to resilience, performance, security and similar topics to assist our engineering teams to deliver reliable, performance and secure servers to our visitors and partners.</li><li>Actively participate within our Scrum teams to help design, develop, test and deploy solutions.</li><li>Help define and promote best practices and guidelines to ensure continuous improvement in resilience, quality, scalability and performance within the engineering team.</li><li>Participate in continuous improvement activities by actively researching, recommending and implementing learnings from team members, partners, and industry resources.</li><li>Anticipate future technology needs based on business requirements and participate in the evaluation, selection and rollout of new technologies and tools.</li><li>Help to define relevant technical skills needed, including patterns, security, resilience, programming languages, certifications, performance, software design, documentation, etc.</li><li>Optimize solutions for reliability and performance.</li><li>Ensure that standards are followed for technical excellence, including relevant certifications.</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>Bachelor\u2019s Degree in Computer Science, or related field, from a four-year college or university, or one to two years related experience and/or training; or equivalent combination of education and experience. Relevant industry certification, similar is preferred.</li><li>Professional experience related to the design, development, implementation, and operation of highly scalable, high-volume software systems and components, client-facing web applications, and major Internet applications and systems.</li><li>Working proficiency with strong AWS technologies with Kubernetes skills - must have</li><li>Technical environment also includes Python, JavaScript, React, Powershell, Splunk, CI/CD, RESTful, and CDN (Akamai).</li><li>Strong understanding of software development best practices, including coding standards, code reviews, source control management, build processes, testing, and operations.</li><li>Passionate about continuous improvement related to reliability, performance, security and best practices.</li><li>Experience with architectural frameworks such as the AWS Well-Architected Framework</li><li>Experience in web and/or distributed application design.</li><li>Strong understanding of concepts related to modern API and service design</li><li>Experience in version control such as Git and Stash.</li><li>Experience in Continuous Integration/Delivery toolkits such as Code Build/Deploy, Jenkins/Puppet.</li></ul><p><br></p><p>Please apply today!</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T23:18:59.000Z"
+  },
+  "company": {
+    "name": "The Carrera Agency",
+    "link": "https://www.linkedin.com/company/the-carrera-agency"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

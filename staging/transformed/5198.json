@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (Remote)",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<strong>Work for a great company!<br><br></strong>This Jobot Job is hosted by Pegah Shakeri<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $150,000 - $200,000 per year<br><br><strong>A Bit About Us<br><br></strong>We\u2019re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you\u2019re a high performer who\u2019s an expert at your craft, constantly challenging the status quo.<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>We are a fantastic company that believes in taking care of its employees. If hired, you will be rewarded with an offer that will include<br><ul><li> Competitive Base Salary \u2013 (150K \u2013 200K)</li><li> Bonus</li><li> Stock Options</li><li> 401K Match</li><li> Medical, dental, vision, Rx, 401k, FSAs, life insurance, disability insurance</li><li> PTO</li><li> Incredible job stability</li><li> An amazing and fun working environment<br></li></ul><strong>Job Details<br><br></strong>Position Overview<br><br>You\u2019ll be working on a new team that will create the observability systems and practice for our Cloud. Help build the practice as well as design, architect, build and manage systems for metrics, logs and tracing. You\u2019ll also be an evangelist with stakeholders on SRE concepts and practices. Create a center of excellence for observability!<br><br>What you\u2019ll do<br><br>Create the observability architecture for metrics, logs, and tracing systems for our Cloud.<br><br>Design, Manage and operate the observability system.<br><br>Evangelize tools and practices with engineering, architecture and customer service teams as a subject matter expert.<br><br>Build dashboards, and escalation systems for production engineering, customer service and engineering teams<br><br>Ensure stakeholder teams are using the tools in the best way, make iterative improvements through problem solving, empathy and communication<br><br><strong>About You<br><br></strong>4+ years expertise with metrics, time-series, logging and/or distributed tracing<br><br>The team will offer Observability as a service<br><br>3+ years experience with building observability systems using products like Elastic Search, splunk, datadog, Prometheus, TICK stack, Grafana, kibana (your choice)<br><br>4-5+ years programming and software development \u2013 python, java, go, .NET or any other language<br><br>1 or more years experience working with cloud providers like AWS, GCP or Azure<br><br>Working knowledge of SDLC concepts<br><br>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:06:59.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

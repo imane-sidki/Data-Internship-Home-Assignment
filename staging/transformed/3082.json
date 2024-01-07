@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Electronics,Information Technology and Services",
+    "description": "<strong><u>Job Description<br><br></u></strong>Our mission is to redefine the home experience through intelligently designed products and services delivered to every home by people who care.<br><br><strong><u>Who Are We<br><br></u></strong>Vivint Smart Home is a leading smart home company in North America. Vivint delivers an integrated smart home system with in-home consultation, professional installation and support delivered by its Smart Home Pros, as well as 24-7 customer care and monitoring. Dedicated to redefining the home experience with intelligent products and services, Vivint serves more than 1.4 million customers throughout the U.S. and Canada. Vivint is on the Forbes 2018 list of \u201cAmerica\u2019s Best Employers, as well as the Forbes 2019 list of \u201cAmerica\u2019s Best Employers for Diversity.\u201d The company is the largest tech employer in Utah, a certified Great Place to Work, and one of <em>Fast Company</em>\u2019s World\u2019s 50 Most Innovative Companies for 2017. For more information, visit www.vivint.com .<br><br><strong>THE ROLE<br><br></strong>We are looking for a talented Site Reliability Engineer to help take Vivint\u2019s systems to the next level. The ideal candidate must have the ability to provide new and innovative ideas to automate Vivint\u2019s infrastructure and operations environments and enable migration of services to the cloud. We are looking for candidates with drive to make a difference and who are not afraid to experiment and learn new technologies.<br><br><strong><u>What You Will Be Working On<br></u></strong><ul><li>Developing tools and automating solutions to support Vivint\u2019s on premises and cloud services</li><li>Installation and configuration of applications and underlying software infrastructure</li><li>Automate repetitive / manual tasks and improve operational maturity</li><li>Scale systems through automation and evolve systems by pushing for changes that improve reliability and performance</li><li>Maintain services by measuring and monitoring availability, latency and overall system health</li><li>Troubleshoot performance and reliability issues</li><li>Be part of an engineering team on-call rotation<br></li></ul><strong><u>What We Are Looking For</u></strong><ul><li>Individuals that love:</li><ul><li>Thinking outside of the box</li><li>Tackling new technologies</li><li>Working with a dynamic group of people to create solutions</li><li>Wiling to learn and grow with a group of driven individuals</li></ul><li>Individuals that have:</li><ul><li>Ability and passion for automation with code and / or scripting</li><li>Experience managing environments with 700+ virtual machines</li><li>Familiarity with system &amp; state management tools such as Salt, Chef and Puppet</li><li>Knowledge and understanding of network, compute, storage systems</li><li>Experience with container-based systems running in a Kubernetes environment</li><li>An understanding of the concepts behind load balancers, reverse proxies, request routing used in solutions like F5, Apigee, Ambassador.io, Istio or Nginx</li><li>Experience with virtualization that can help us build our Hybrid cloud environment with solutions like VMWare, Azure &amp; Azure Stack, AWS, Google Cloud Compute</li><li>Experience with cloud-based systems like AWS, Azure and GCP<br></li></ul></ul><strong><u>What We Stand For<br></u></strong><ul><li>Honesty and Integrity Come First</li><li> Do the right thing </li><li>Customer Obsession is Our Advantage</li><li> A relentless passion to serve the customer </li><li>Innovation is Essential</li><li> Today\u2019s innovation is tomorrow\u2019s lifeblood </li><li>We Win Together</li><li> Individuals win games: teams win championships </li><li>Exceptional is Expected</li><li> Talk is cheap: create value, not just motion </li><li>We Give Back</li><li> Helping people is core to our DNA <br></li></ul><strong><u>Perks/Benefits<br></u></strong><ul><li> Free catered lunch/snacks/drinks; new menu daily </li><li>Paid holidays and flexible paid time away</li><li>Your choice between Mac or PC</li><li>Employee pricing on smart home products</li><li>Casual dress code</li><li>Onsite gym</li><li>Onsite health clinic</li><li> Medical/dental/vision/life coverage </li><li> 401(k) Plan &amp; Matching <br></li></ul><strong>FIND OUT MORE ABOUT WHAT IT'S LIKE TO WORK HERE:<br></strong><ul><li><u> http://archive.sltrib.com/article.php?id=5360131&amp;itype=CMSID <li><u> https://www.fastcompany.com/3067476/why-vivint-smart-home-is-one-of-the-most-innovative-companies-of-2 <li><u> https://www.vivint.com/company/careers/culture <br><strong><strong>If you are an active Vivint employee, please apply through Workday by searching \"Find Jobs\".<br><br></strong></strong></u></li></u></li></u></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:00:37.000Z"
+  },
+  "company": {
+    "name": "Vivint",
+    "link": "https://www.linkedin.com/company/vivint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 70900,
+    "max_value": 148000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

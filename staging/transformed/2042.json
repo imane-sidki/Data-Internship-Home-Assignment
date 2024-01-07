@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Security Researcher (REMOTE)",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>This role is 100% remote.<br><br><br>Apple is looking for a world-class security researcher to join our team dedicated to analyzing threat actor capabilities and tradecraft. Apple\u2019s Security Engineering &amp; Architecture (SEAR) provides operating system security foundations across all of Apple\u2019s innovative products. These foundations exist from the lowest levels of the device to the services off-device which work together to protect our users. Our team supports SEAR with information critical to solving some of our biggest security engineering challenges. This position will be remote.<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong reverse engineering experience using tools such as IDA Pro or Ghidra, and developing plug-ins<br><br>Experience with developing proof of concepts for common vulnerabilities, bypassing anti-exploitation protections<br><br>Exposure to kernel programming<br><br>Proficiency in analyzing crash reports and diagnostic information<br><br>Excellent verbal and written communication<br><br>5+ years of relevant experience<br><br> <br><strong>Description<br></strong> <br>You will have a broad set of skills that make you successful as threats continue to evolve, and will be directly involved in Apple's response to critical issues as they arise. From reverse engineering an exploit, providing insightful analysis, creating innovative tools, consulting with other teams on both software and hardware, the job is as diverse as it is essential. This position requires someone with exceptional technical skills and a deep passion for protecting users.<br><br><br>Protecting over a billion endpoints. Touching the lives of everyone who interacts with our products. Working for a company whose commitment to user privacy is at the heart of everything it does. Being surrounded by the most creative, passionate, talented people in the industry. Constantly being challenged to go beyond the norm to find new, innovative ways of solving problems and to make software safer, easier, and more fun to use. You can find all of this in one opportunity, and only at Apple.<br><br> <br>Role Number: 200241336<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:44:28.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Platform Operations Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>Join the INTERACTIVE BROKERS Team!<br><br></strong>Interactive Brokers Group has consistently been at the forefront of trading innovation , starting with the invention of the first floor-based handheld computer in 1983 and we pride ourselves on being primarily a technology company. We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features all for the lowest cost to our customers. Software development is the lifeblood of our firm, and it shows in our stellar brokerage platform.<br><br><strong><u>Job Description<br><br></u></strong>As a member of our Operations team, the Platform Operations Engineer will help in addressing operational needs of a mixed on-premise and cloud Linux environment.<br><br>In this role, the person is expected to have knowledge of DevOps tools, understanding of block, file and object storage technologies and have a strong background in Linux System Administration and Operations. They have excellent problem-solving and troubleshooting skills. The person should have a passion for automation and learning new skills and technologies.<br><br><strong><u>Core Requirements And Responsibilities<br><br></u></strong>Essential job functions included but are not limited to the following:<br><ul><li>Strong operational skills, with ability to work with end users to understand requirements and resolve trouble tickets.</li><li>Drive consistent standardized solutions across IB for all hardware, software, configurations, and processes.</li><li>Implement tools and processes for efficient and effective operational management of the environment -- change management, monitoring, alerting, etc.</li><li>Schedule and provide after-hours or weekend support when necessary, to perform high-risk or planned downtime of IB\u2019s data center systems for upgrades and maintenance.</li><li>Participate in permanently eliminating issues through automation and engagement with Platform Engineering teams on more complex projects.</li><li>Interact with internal teams to provide solutions and resolve problems in a timely and proactive manner.</li><li>Ability to communicate complex technical concepts to individuals of various technical ability<br></li></ul><strong><u>Knowledge, Skills And Abilities<br></u></strong><ul><li>Strong experience with DevOps tools and automation, including familiarity with CI/CD pipeline concepts, Docker, orchestration and configuration management (Ansible etc.), git</li><li>Experience with storage protocols and technologies such as S3, EFS, EBS, NFS, CIFS, iSCSI, Fiber Channel</li><li>Able to handle pressure during outages and systematically resolving issues</li><li>Experience being tasked outside their training, willing to take on and learn new technologies</li><li>Experience in Python scripting.</li><li>Solid understanding of host, network and cloud security concepts</li><li>Strong background in Linux administration. Understanding of core Linux concepts and technologies (LVM, systemd, memory/CPU/network/disk management and troubleshooting, Bash scripting, kernel tuning)</li><li>Understanding of standard services and protocols (DNS, DHCP, Active Directory/LDAP, SSH, SNMP)</li><li>Understanding of current monitoring concepts and tools ( Prometheus, New Relic, Datadog etc.)<br></li></ul><strong><u>Required Qualifications<br></u></strong><ul><li>A Bachelor\u2019s degree or equivalent in Computer Science or Software Engineering</li><li>5+ years of Linux System Administration or Operations</li><li>2+ years of experience in scripting or software development</li><li>Familiarity with AWS or another cloud provider preferred</li></ul> <strong>Company Benefits &amp; Perks<br></strong><ul><li>Competitive salary, annual performance-based bonus and stock grant</li><li>Retirement plan 401(k) with competitive company match</li><li>Excellent health and welfare benefits including medical, dental, and vision benefits</li><li>Wellness screenings and assessments, health coaches and counseling services through Employee Assistance Program (EAP)</li><li>Paid time off and a generous parental leave policy</li><li>Daily company paid lunch and a fully stocked kitchen with healthy options for breakfast and snack</li><li>Corporate events including team outings, dinners, volunteer activities and company sports teams</li><li>Education reimbursement and learning opportunities</li><li>Modern offices with sit/stand desks and multi-monitor setups<br></li></ul><strong><u>Company Overview<br><br></u></strong>Interactive Brokers (\"IBKR\"), a subsidiary of publicly-traded Interactive Brokers Group, Inc., based in Greenwich, Connecticut (NASDAQ: IBKR) is a low-cost provider of trade execution and clearing services for active traders, institutional investors, financial advisors and introducing brokers. IBKR\u2019s premier technology provides electronic access to stocks, options, futures, forex, bonds, and funds worldwide from a single IBKR Integrated Investment account. IBKR is one of the largest online brokers by trade volume and is consistently ranked at the top of its field.<br><br>Our employees are part of a dynamic, multinational, fast-paced, results-oriented team working to provide our customers with state-of-the-art trading technology, superior execution capabilities, worldwide electronic access, and sophisticated risk management tools.<br><br>Our headquarters are in Greenwich, CT, USA. IBKR has offices in the United States, Australia, Canada, China, Estonia, Hong Kong, Hungary, India, Ireland, Japan, Luxembourg, Russia, Singapore, Switzerland and United Kingdom.<br><br>IBKR is a member of NYSE, FINRA, and SIPC. Interactive Brokers Group brokerage affiliates are regulated by securities and commodities agencies around the world.<br><br>Click HERE to view a short video with a few words from current Interactive Brokers employees.<br><br>(If the hyperlink is not active, copy and paste the following URL in your browser: https://www.interactivebrokers.com/en/index.php?f=31899 )<br><br>For more information, please visit www.ibkr.com/info",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:14:03.000Z"
+  },
+  "company": {
+    "name": "Interactive Brokers",
+    "link": "https://www.linkedin.com/company/interactive-brokers"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80400,
+    "max_value": 130000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

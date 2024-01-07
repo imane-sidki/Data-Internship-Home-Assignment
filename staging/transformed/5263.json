@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - Health Sensing Hardware",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple is looking for a highly motivated individual with experience in data engineering to join the Health Sensing Hardware team. <br><br>The successful candidate will be responsible for working with a team of sensing hardware engineers and algorithm engineers to manage and analyze data from user studies to identify key behaviors and establish relevant dependencies. <br><br>The candidate will be creating tools to consume data from cloud based databases, run data quality analysis, and root cause outliers. The candidate will also be responsible for building tools to streamline the data analyzing with existing DL/ML algorithms. The candidate will also be responsible for communicating and reviewing these findings with the team. Responsibilities will span working with the team to ensure data availability and integrity, performing data-mining and data interrogation, communicating findings, and working with the team to establish next steps in the sensor development. A successful candidate needs to be flexible, receptive to ideas from others, team oriented, and excited to work with colleagues to push the technology. Expect this work to include collaborating with multi-functional teams responsible for crafting and producing better sensor technologies.<br><br> <br><strong>Key Qualifications<br></strong> <br>Data professional with expertise in Data Science, Data Analytics or similar<br><br>Strong coding skills with tools such as Python.<br><br>Experience developing data analytics systems for early-stage projects to help team learn about unknown dependencies<br><br>Experience interfacing and networking cloud based database (AWS, etc.)<br><br>Flexible and collaborative, willing to work in fast-paced technology development<br><br>Excellent written and verbal communications skills, excellent documentation skills.<br><br>Knowledge of DL/ML strongly preferred.<br><br>Knowledge of optics, physics, and electrical engineering is beneficial.<br><br> <br><strong>Description<br></strong> <br>The responsibilities of this position includes the following for products:<br><br>Solicit/consolidate requirements from sensor engineers for data tools<br><br>Build data analysis tools and analyze data<br><br>Data quality analysis and outlier analysis<br><br>Implement algorithm evaluation tools<br><br>Produce / Present meaningful data visualization to team<br><br>Discover new perspectives for old data<br><br>Finding opportunities for algorithm improvements<br><br>Build accessible data warehouse to consolidate analysis results<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science, Electrical Engineering, Physics, or related field<br><br>3+ years experience in a data-driven industry<br><br> <br>Role Number: 200266763<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:47.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

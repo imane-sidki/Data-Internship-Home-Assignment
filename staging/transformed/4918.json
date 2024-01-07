@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Automotive Software Engineer, Vehicle Level Controls",
+    "industry": "Computer Software,Automotive",
+    "description": "<p>Pony.ai is a startup co-located in Silicon Valley and China, our mission is to revolutionize the future of transportation by building the safest and most reliable technology for autonomous vehicles. Armed with the latest breakthroughs in artificial intelligence, we aim to deliver our technology on a global scale. We believe our work has the potential to transform lives and industries for the better. We are looking for an experienced and motivated Automotive Software Engineer with a focus on Vehicle Level Controls to join our team</p><p><br></p><p><strong>Roles and Responsibilities:</strong></p><ul><li>Develop automotive standard software for vehicle-level autonomous controls.</li><li>Improve and deliver reliable software through requirements generation, continuous integration, automated testing, issue tracking, and code reviews</li><li>Develop and test communication interfaces to vehicle systems, sensors, and other hardware components.</li><li>Design fail-operational strategies and architecture for redundant systems.</li><li>Develop fault diagnostics and prognosis for safety critical hardware components.</li><li>Work with component suppliers to calibrate and test sensors and actuators.</li><li>Support simulation, bench and in-vehicle testing</li><li>Support technical discussion with OEM and component suppliers and partners.</li></ul><p><br></p><p><strong>Requirements</strong>:</p><ul><li>Advanced Degree in Computer Science, Electrical Engineering, Mechanical Engineering, Mechatronics, or related disciplines.</li><li>Experience with automotive standard (e.g. AUTOSAR, MISRA) software C/C++ development in the Linux environment.</li><li>Experience with automotive control system development, instrumentation, and calibration tools.</li><li>Understanding of the design and application of vehicle systems (e.g. steering, braking, and powertrain)</li><li>Knowledge of system identification, dynamics, and controls</li><li>Experience with automotive embedded and real-time control systems including OS and architecture</li><li>Experience with automotive communication protocols (CAN, CAN FD, and Automotive Ethernet) and electrical architectures.</li><li>Knowledge of autonomous driving software stack or advanced driver assistance features</li><li>Experience with systems engineering processes and formal requirements management systems.</li></ul><p><br></p><p><strong>About Pony.ai</strong></p><p>Pony.ai, Inc. (\u201cPony.ai\u201d) is pursuing an ambitious vision for autonomous mobility. We aim to bring safe, sustainable, and accessible mobility to the entire world. We believe that autonomous technology can make our roads exponentially safer for travelers. Founded in late 2016, Pony.ai has been a pioneer in autonomous mobility technologies and services across the U.S. and China, spearheading public-facing Robotaxi pilots in both markets. The company is currently valued at $5.3B and some of its major investors include Toyota, OTPP, Sequoia Capital China, and IDG Capital.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:31:05.000Z"
+  },
+  "company": {
+    "name": "Pony.ai",
+    "link": "https://www.linkedin.com/company/pony-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Modis is hiring for multiple Software Engineers on a Direct Hire basis. These Software Engineers will have the opportunity to work for a growing team. A brief synopsis of the requirements and responsibilities are provided below.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Working as part of an Agile Development team, drives feature implementation from planning to release.</li><li>Confers with the product management team and fellow development team members to gain understanding of needed changes or modifications of existing programs. Resolves questions of program intent, data input, output requirements, and inclusion of internal checks and controls.</li><li>Writes and maintains programming documentation. Understands and implements role-specific information security access and responsibilities.</li><li>Ensures safety and confidentiality of data and systems by adhering to the organization's information security policies.</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>Bachelor's degree in Computer Science, Information Technology, or equivalent experience</li><li> 4+ years developing full stack web applications using JavaScript frameworks such as Node.Js, Express, Vue.Js, or other similar JavaScript tools.</li><li>4+ years working with database technologies such as MySQL or Microsoft SQL.</li><li> Hands-on software development experience with a major subset of web technologies such as, REST API multi-tiered solutions, HTML 5 / CSS, and interacting with various Web Servers.</li><li>Experience with Bootstrap, responsive, fluid design frameworks a plus.</li><li>Experience with software development concepts such as object-oriented. programming, testing and debugging software, and software deployment.</li><li>Understanding of systems security, data protection, and data privacy.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:43:54.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jacksonville",
+    "region": "FL",
+    "postal_code": "32277",
+    "street_address": null,
+    "latitude": 30.325968,
+    "longitude": -81.65676
+  }
+}

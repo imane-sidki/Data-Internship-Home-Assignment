@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "",
+    "description": "We are hiring senior developers for my US/Canada team with <br>- experience in workflow engines like Camunda, Airflow, etc.<br>- proficient in design and implementation of microservices-based, API/Endpoint architectures.<br>- strong background in designing and developing event-based/pub-sub workflows & digestion engines.<br>- Proficiency with 2 or more programming languages like Java, Go, Node.js, Scala or similar<br>- Expertise in Kafka at scale and working experience with No-SQL DBs<br>- Good understanding of AWS development and deployment ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:02:33.000Z"
+  },
+  "company": {
+    "name": "HCL America, Inc.",
+    "link": "https://www.linkedin.com/company/hcl-america-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Plano, TX",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "Altice USA is a cutting-edge communications, media, and tech company. We connect people to what matters most to them; texting with friends, advertising that resonates, or binge watching their favorite show. Our differentiated approach centers around technologies that push the envelope and deliver the ultimate customer experience. We're building a workforce that attracts and retains the best talent, not only to meet the needs of our customers, but that also reflects the diverse communities we serve. We're not the only ones who have seen it; we've recently been recognized by Forbes as one of America's Best Employers as well as by the Human Rights Campaign, DiversityInc Magazine, and Cablefax for our diversity &amp; inclusion program.<br><br><strong><u>Responsibilities<br><br></u></strong>Join Altice USA's Data Science team to deliver AI as a service across various teams involving marketing science, survey statistics, and advanced geospatial, content, network and customer relationship analytics. A successful candidate is curious, a self-learner, and can clearly communicate sophisticated concepts and results.<br><br>To develop AI solutions you will work hands-on to: prepare big data, select appropriate statistical and machine learning techniques, build &amp; validate models, evaluate models in light of objectives, deploy completed models, and maintain models by identifying model drift and retraining models. You will partner with other data scientists, data engineers, and application developers on the Data Science team.<br><br><strong><u>Qualifications<br><br></u></strong><strong>Qualifications:<br></strong><ul><li>Bachelor's degree with 2+ years of work experience or recent master's degree graduate in a Data Science related field.</li><li>Experience in statistical and machine learning predictive modeling, including comprehension of theory, modeling/identification strategies, and limitations and pitfalls.</li><li>Experience in unsupervised learning, experiments, and optimization.</li><li>Ability to apply probability, algebra, Bayesian inference, frequentist statistics, machine learning, reinforcement learning, and optimization techniques to solve business objectives.</li><li>Demonstrates basic computational skills and level of experience using statistical programming languages R or Python.</li><li>Proficiency in SQL and Python coding to wrangle and explore big data.</li><li>Strong ability to conduct literature reviews.</li><li>Experience with cloud computing platforms, such as Google Compute Engine or EC2 is a plus.</li><li>Experience with big data platforms, such as Big Query, Hadoop or AWS is a plus.<br></li></ul>Altice USA is an Equal Opportunity Employer committed to recruiting, hiring and promoting qualified people of all backgrounds regardless of gender, race, color, creed, national origin, religion, age, marital status, pregnancy, physical or mental disability, sexual orientation, gender identity, military or veteran status, or any other basis protected by federal, state, or local law.<br><br>Altice USA, Inc. collects personal information about its applicants for employment that may include personal identifiers, professional or employment related information, photos, education information and/or protected classifications under federal and state law. This information is collected for employment purposes, including identification, work authorization, FCRA-compliant background screening, human resource administration and compliance with federal, state and local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:10:49.000Z"
+  },
+  "company": {
+    "name": "Altice USA",
+    "link": "https://www.linkedin.com/company/altice-usa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65200,
+    "max_value": 138700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "The Company<br><br>Miso Robotics is transforming the restaurant industry and making a real impact on the world.<br><br>Miso Robotics is writing an epic new story for the restaurant industry. We've developed a robotic kitchen assistant, Flippy, that can perform a variety of kitchen tasks including flipping burgers and running the deep fryer. Our product is a robotic arm on a rail that fits into existing kitchens along existing cook lines and is designed to work with existing equipment alongside kitchen workers. Under the hood, Flippy relies on our platform which combines deep learning and other computer vision technologies with optimization-based scheduling and nonlinear control to adapt quickly to a variety of kitchen workflows, while achieving graceful and efficient motion.<br><br>The challenge of bringing robotics into commercial kitchens requires many disciplines to come together. The compositions of teams at Miso Robotics reflect this multidisciplinary nature of our work. We have built a world-class team and we are looking for more exceptional people to join us. If you believe, like we do, that the future of the kitchen involves robotics and artificial intelligence (HINT: It definitely does) and if you want to count yourself among the handful of lucky people who've found themselves with the opportunity to solve this problem, then Miso Robotics might be the right place for you!<br><br>The Role<br><br>As a Senior Software Engineer, you will be responsible for designing and developing our kitchen automation framework and cloud-connected infrastructure which power Flippy. You will perform hard-core coding, debugging, testing and troubleshooting throughout the development process. You will use your expertise in software engineering to own the design, prototype, and commercialization of core software focused primarily on improving the experience for the users of our systems. You will work closely with robotics specialists in design, controls, machine learning, and computer vision to continuously evolve our architecture to support an ever-increasing diversity of kitchen environments and tasks, allowing Flippy to operate broadly throughout the restaurant industry. You will also work to make our internal framework easier and easier to use, requiring less and less training to use.<br><br>What You\u2019ll Do<br><br><strong><u>In This Role, You Will<br></u></strong><ul><li>Design and develop computer software systems that are highly testable.</li><li>Read our code and documentation to understand our existing architecture and practices.</li><li>Take on problems and research the solution space to find several reasonable solutions.</li><li>Create architectural diagrams which demonstrate flow of data through the system.</li><li>Iterate on code, refactoring repeatedly to improve our software generality.</li><li>Create documentation to help identify and clarify functional requirements.</li><li>Review code and architectural diagrams and provide helpful feedback.</li><li>Create unit tests and system-level tests to verify code functionality.</li><li>Coordinate with hardware engineers and other staff to forecast whether the design will be feasible under cost and time constraints.</li><li>Perform software systems testing with a focus on procedures and programming.</li><li>Performs other related duties as assigned.<br></li></ul>What You Need in Order to Succeed in this Role<br><br>Technical Requirements<br><ul><li>Bachelor\u2019s Degree in Computer Science, Engineering, Mathematics or related field.</li><li>4+ years experience in developing general software frameworks in C++. Knowledge of template metaprogramming, STL, and concurrency is preferred but not required.</li><li>Experience developing, testing, and debugging </li><li>Expertise in Linux, MySQL, and Git. Experience with CMake and Docker is preferred but not required.</li><li>Strong understanding of OOP, algorithms, and data structures, and software design patterns.</li><li>Experience with practices for a full software development cycle, including agile development, coding standards, versioning, code reviews, and testing.<br></li></ul><strong><u>Other Requirements<br></u></strong><ul><li>Superb oral and written communication skills.</li><li>Ability to collaborate effectively with a team.</li><li>Ability to adapt your coding style to our internal style.</li><li>Ability to deliver production-ready code in a timely fashion.</li><li>Great at managing multiple tasks and getting stuff done in a fast paced environment.</li><li>Strong attention to detail, analytical skills and ability to learn at hyperspeed.</li><li>Obsession with clarity.</li><li>Prolonged periods sitting at a desk and working on a computer.</li><li>Must be able to lift up to 10 pounds at times.</li><li>Must be able to work at our HQ location in Pasadena, CA.<br></li></ul>Benefits and Perks<br><ul><li>Unlimited PTO policy</li><li>Comprehensive benefits offerings</li><li>401K plan</li><li>Education reimbursement program</li><li>Competitive pay</li><li>Advancement opportunities</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:49:50.000Z"
+  },
+  "company": {
+    "name": "Miso Robotics",
+    "link": "https://www.linkedin.com/company/miso-robotics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

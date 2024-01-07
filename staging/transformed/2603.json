@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Web Developer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "FocusKPI, Inc. is looking for a Web Developer/ Tagging Specialist to work for our client in Boston, MA. This is a full-time contract position.<br><br><strong>Responsibilities:<br></strong><ul><li>Leading communication between the web analytics and data engineering teams and efficiently managing pixel/tag implementation requests within a tag manager (TealiumIQ)</li><li>Use browser web debugging tools to perform tag validation and QA</li><li>Perform Tagging audits/data integrity checks on a regular basis to have better control over the tags deployed across the sites</li><li>Document and maintain a copy of tagging requests from the different teams</li><li>Use mobile proxy tools like Charles/Fiddler to validate analytics tagging across mobile applications and mobile web tagging</li><li>Collaborate with different vendors (marketing, social media, affiliates, etc.) to understand different analytics implementation techniques and suggest implementation best practices based on well-defined organization standards <br><br></li></ul><strong>Qualifications:<br></strong><ul><li>3+ years of years of web development/web analytics implementation experience.</li><li>Experienced in managing the backend tagging process and working with tag management tools (Tealium, Google Tag Manager, DTM/Adobe Launch). Tealium experience is a plus.</li><li>Strong frontend HTML5, CSS, Javascript &amp; jQuery experience.</li><li>Experience working with browser debugging tools(UDO debugger, network tools, wasp, etc.).</li><li>Experience working with analytics tools such as Google analytics, Adobe analytics.</li><li>Experience working in an agile environment and with tools like JIRA<br></li></ul>Thank you!<br><br>FocusKPI Hiring Team<br><br>Founded in 2010, FocusKPI, Inc. (FocusKPI) is a data science and technology firm specializing in predictive analytics practice and methodologies. FocusKPI is a US company headquartered in Silicon Valley, California with an East Coast office in Boston, Massachusetts.<br><br>Powered by JazzHR<br><br>PKS0gKiRud",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T07:01:01.000Z"
+  },
+  "company": {
+    "name": "FocusKPI, Inc.",
+    "link": "https://www.linkedin.com/company/focuskpi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

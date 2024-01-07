@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Online Media,Publishing,Newspapers",
+    "description": "<strong><u>Job Description<br><br></u></strong>The New York Times is a technology company committed to producing the world\u2019s most reliable and highest quality journalism. Our ability to do so relies on a talented team of expert technologists who help NYT learn from a tremendous abundance of data unique to this company. The Times seeks a Data Scientist to join the Data Science Group applying machine learning methods to meet this challenge, in close collaboration with working partners across the company.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Identify opportunities to apply machine learning to our data to power new ad products that brands are looking for in a constantly changing advertising landscape </li><li> Build algorithms that use proprietary 1st party NYTimes data to accurately predict user attributes and behavior </li><li> Work with a variety of business units to translate business problems into machine learning problems and then solve them! </li><li> Communicate results and impact to product and newsroom stakeholders </li><li> Turn models into data products, collaborate with engineering teams and integrate into processes throughout The Times <br></li></ul><strong><u>Technical Qualifications<br></u></strong><ul><li> PhD, MS, or 3+ years research experience in computational social science, applied mathematics, cognitive and neural sciences, economics, information retrieval, statistics, or another quantitative/computational discipline </li><li> Experience designing performance metrics and using machine learning for feature engineering </li><li> Experience communicating technical concepts to expert and lay audiences </li><li> 2+ years coding experience, Python preferred </li><li> Experience in data engineering, including SQL and manipulating large structured or unstructured datasets for analysis </li><li> Familiarity with modeling behavioral/user data a plus </li><li> Experience with advertising technology is a plus </li><li> Experience with NLP methods is a plus </li><li> Experience with experimental design is a plus </li><li> Experience with building data products, either internal or consumer-facing a plus <br></li></ul><strong>Non-Technical<br></strong><ul><li> Commitment to the Times\u2019 mission of delivering the world\u2019s best and most reliable journalism </li><li> Excellent analytical and problem-solving skills </li><li> Strong oral and written communication skills </li><li> Excitement about using Machine Learning to drive product development </li><li> A passion for empirical research and for answering hard questions with data </li><li> Proven record of solving challenging problems in academia and/or industry </li><li> Eagerness to collaborate with both technical and non-technical colleagues in editorial, product management, marketing, and executive leadership groups </li><li> Ability to gauge the complexity of machine learning problems and a willingness to execute simple approaches for quick effective solutions as appropriate </li><li> Desire to join the world\u2019s most important journalism company at a moment in history when the importance of learning from our data is transforming every aspect of the craft and practice of journalism <br></li></ul><strong> The New York Times is committed to a diverse and inclusive workforce, one that reflects the varied global community we serve. Our journalism and the products we build in the service of that journalism greatly benefit from a range of perspectives, which can only come from diversity of all types, across our ranks, at all levels of the organization. Achieving true diversity and inclusion is the right thing to do. It is also the smart thing for our business. So we strongly encourage women, veterans, people with disabilities, people of color and gender nonconforming candidates to apply. <br><br></strong><strong>The New York Times Company is an Equal Opportunity Employer and does not discriminate on the basis of an individual's sex, age, race, color, creed, national origin, alienage, religion, marital status, pregnancy, sexual orientation or affectional preference, gender identity and expression, disability, genetic trait or predisposition, carrier status, citizenship, veteran or military status and other personal characteristics protected by law. All applications will receive consideration for employment without regard to legally protected characteristics. The New York Times Company will consider qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local \"Fair Chance\" laws.<br><br></strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T18:55:34.000Z"
+  },
+  "company": {
+    "name": "The New York Times",
+    "link": "https://www.linkedin.com/company/the-new-york-times"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62100,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

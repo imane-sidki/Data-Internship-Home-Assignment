@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Site Reliability Engineer, Factory Software Systems",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "Role<br><br>The Ignition Support team at Tesla manages our Ignition deployment, and infrastructure. As an SRE on the Ignition Support team you'll be responsible for automating the deployment, configuration, management, and monitoring of Ignition, as well as troubleshooting issues with the Ignition application and assisting us with upgrading to version 8.1.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Support our Ignition deployment and infrastructure in every way possible</li><li> to ensure its reliability, availability, and security</li><li>Assist Software, Controls, Manufacturing, and other engineering teams with onboarding to Ignition</li><li>Automate deployment, configuration, management and monitoring of Ignition</li><li>Ensure best practices and observability of the Ignition, such as metrics, logging, tracing, and alerting</li><li>Consult on and design infrastructure, systems and application architectures</li><li>Help develop automation for Ignition 8.1<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Experience with Virtualization (vSphere)</li><li>Expert skills in Linux and its administration (Ubuntu 16.04/18.04/20.04)</li><li>Understanding of networking (Routing/Switching, VLANs, Firewalls, and Load Balancers)</li><li>Experience in a high-level language such as Go, Python and/or Java</li><li>Observability (InfluxDB, Kapacitor, Prometheus, AlertManager, Grafana, and/or Splunk)</li><li>Infrastructure as Code (Terraform/Ansible)</li><li>CI/CD pipeline experience (GitHub Enterprise)</li><li>Artifact management (Artifactory)</li><li>Bare-metal imaging experience (Ubuntu netboot PXE)</li><li>Strong bias for action vs endless planning, willing to get hands dirty and make mistakes sometimes</li><li>3+ years as DevOps/Site Reliability Engineer</li><li>Habitual documenter and spreader of knowledge</li><li>Willing to mentor other team members and engineers with less SRE/IT type knowledge</li><li>Comfortable on an on-call rotation</li><li>Comfortable doing live troubleshooting of issues on NOC bridges/outage calls</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-22T05:58:53.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "100% REMOTE Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "A risk management software company is looking for a 100% remote Site Reliability Engineer and is offering up to $65/hour (contract-to-hire). This engineer is someone experienced with either Terraform, Cloudformation, or Ansible, and skilled with at least one scripting language (Powershell, Bash, Python, etc.). Someone who be comfortable joining a major Azure cloud migration project, and looking to expand their DevOps skill set (including hands-on Kubernetes/AKS builds) will fit in perfectly here!<br><br><strong><u>Required Skills &amp; Experience<br></u></strong><ul><li>3+ years of experience</li><li>Proficient with at least one major public cloud (Azure, AWS, or GCP)</li><li>Infrastructure-as-Code (Terraform or Cloudformation)</li><li>Configuration Management (Ansible preferred)</li><li>Scripting (Bash, Powershell, Python, etc.)</li><li>Linux or Windows server support/troubleshooting<br></li></ul><strong><u>Desired Skills &amp; Experience<br></u></strong><ul><li>Understanding of containerization/orchestration (Docker, Kubernetes, etc.)</li><li>Azure or AWS certifications</li><li>Blue-Green deployment methodologies</li><li>Monitoring (Grafana, Nagios, Prometheus)</li><li>On-prem to Cloud Migrations<br></li></ul>What You Will Be Doing<br><br>Tech Breakdown<br><ul><li>70% on-premise</li><li>30% Azure</li><li>Terraform</li><li>AKS<br></li></ul>Daily Responsibilities<br><ul><li>90% Hands On</li><li>10% Management Duties<br></li></ul>The Offer<br><ul><li>Competitive compensation: Up to $65/hour, (contract-to-hire)<br></li></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul><li>Medical Insurance &amp; Health Savings Account (HSA)</li><li>401(k)</li><li>Paid Sick Time Leave</li><li>Pre-tax Commuter Benefit<br></li></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.<br><br><strong>Posted By:</strong> Gavin Malloy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T01:51:47.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

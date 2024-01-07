@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Research Scientist, Product Algorithms",
+    "industry": "Internet",
+    "description": "Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.<br><br>Facebook is looking for researchers and data scientists to join the Product Science group within the Core Data Science team. Product Science is an interdisciplinary team of quantitative scientists that aims to deliver research and innovation to improve existing products and inform and enable the development of new ones. The team works closely with various product groups throughout Facebook, bringing expertise in algorithms, modeling, machine learning, exploratory data analysis, and social network analysis. We help these teams better understand how people use their products, and we solve hard problems that will enable these products to better serve their users.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Work with large amounts of data in service of concrete conclusions and actionable insights</li><li>Communicate complicated technical topics and nuanced insights to diverse audiences</li><li>Learn new tools and languages quickly as required by the particular project you are working on, with tasks ranging from data processing to production engineering to modeling and machine learning</li><li>Work both independently and collaboratively with other scientists, engineers, designers, UX researchers, and product managers to accomplish complex tasks that deliver demonstrable value to Facebook's community of over 1.7 billion users</li><li>Think creatively, proactively, and futuristically to identify new opportunities within Facebook's long term roadmap for data-scientific contributions<br></li></ul><strong>Minimum Qualification<br></strong><ul><li>MS degree with 4+ years of relevant experience, or PhD in computer science, statistics, economics, sociology or related field</li><li>Experience in machine learning, deep learning, statistical analysis, or social network analysis</li><li>Experience in analysis and visualization using off-the-shelf statistical computing software such as R, Python or Julia</li><li>Experience writing code in any of the following programming languages PHP, Python, Java, C++</li><li>Ability to manipulate and analyze data from various sources, including with distributed computing tools like Hive and Presto<br></li></ul>Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:15:36.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 239000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

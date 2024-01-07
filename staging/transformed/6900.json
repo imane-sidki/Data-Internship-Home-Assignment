@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p><strong>MACHINE LEARNING ENGINEER</strong></p><p><strong>ROBOTICS</strong></p><p><strong>PITTSBURGH</strong></p><p><strong>$140,000-$170,000</strong></p><p><strong>THE COMPANY</strong></p><p>This well-funded company develops autonomous robotic systems that are used in industrial and manufacturing environments. They are backed by some of the biggest technology companies in the United States. They are combining robotic systems, computer vision, and deep learning to change both academic and industry settings.</p><p><strong>THE ROLE \u2013 MACHINE LEARNING ENGINEER</strong></p><p><strong>In this role,you will be working cross-functionally to improve and deploy machine learning and deep learning models into production.</strong></p><ul><li>You will be training and deploying machine learning models into production</li><li>You will be working with PyTorch to deploy deep learning models onto embedded systems</li><li>You will be doing distributing training, model optimization, and model benchmarking</li><li>You will work cross-functionally with the research and engineer team to further the research and development of their ai systems in robotics</li></ul><p><strong>YOUR SKILLS AND EXPERIENCE</strong></p><ul><li>Commercial experience working with robotics or autonomous vehicles</li><li>Experience with distributing training, model measurement, and model optimization</li><li>Experience training and deploying machine learning and deep learning models</li><li>Experience working on GPUs and CPUs</li><li>Experience working with TVM, Asic, FPGA or Xla</li><li>A Master\u2019s degree in computer science or a related field</li></ul><p><strong>BENEFITS</strong></p><p>As a Machine Learning Engineer, you can expect to earn up to $170,000 (depending on experience) along with competitive benefits.</p><p><strong>HOW TO APPLY</strong></p><p><strong>Please register your interest by sending your resume to Mitchell Resor via the apply link on this page</strong></p><p><strong><em>KEYWORDS:</em></strong></p><p><em>| Computer Vision | 3D | Robotics | Image Processing| Computer Vision | Image Analysis | Image Reconstruction | GPU| Cuda | TensorFlow | C++ | Keras |PyTorch |AI| machine learning | deep learning | SLAM | robots | artificial intelligence</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T21:07:33.000Z"
+  },
+  "company": {
+    "name": "Harnham",
+    "link": "https://uk.linkedin.com/company/harnham"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

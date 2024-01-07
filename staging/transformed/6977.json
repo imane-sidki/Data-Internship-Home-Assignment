@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "From our founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, your data just arrives in your warehouse, canonical and ready to query, no engineering or maintenance required. As we watch more and more companies leverage our technology to become truly data-driven, we're proud not only of our growth but also of the fact that we've grown without compromising our core values.<br><br><strong>Integrity.<br><br></strong>We do the right thing, even when it's harder in the short run. We challenge the status quo by reasoning from first principles.<br><br><strong>Initiative.<br><br></strong>Fivetran belongs to all of us. We take ownership and are accountable for getting things done. Through curiosity, learning, and coaching, we grow as individuals and teams.<br><br><strong>One team, one dream.<br><br></strong>We share the pains and successes of our customers, partners and colleagues. We seek, gather, and trust a diverse group of teammates with different perspectives to guide Fivetran's progress.<br><br>If these values resonate with you, we'd love to hear from you.<br><br><strong>About the role:<br><br></strong>Fivetran is looking for a Software Engineer enthusiastic in joining a fast-growing company. You'll help build new features of our data pipeline service, help improve our software architecture, and maintain reliable operation of the service. We're looking for people who want to learn the key values that make our product great, and implement those values in the many small decisions you make every day as a developer.<br><br><strong>Fivetran is the epitome of data-driven-development \u2014 our engineering team is focused on building a world class product that:<br></strong><ul><li> Facilitates Data Analytics \u2014 join our mission is to reliably deliver best-in class schemas, and clean data, designed to be intuitively useful to analysts.</li><li> Contributes to our Community \u2014 help develop tools like Data Lakes, SQL-based Transformations, and schema explorers to empower analysts to choose the best tools, and to make those tools more powerful.</li><li> Is Absolutely Dependable \u2014 work to make Fivetran the most reliable and secure component of our customers' data infrastructure.<br></li></ul>We emphasize using no-nonsense tools, and take great pride in the simplicity and effectiveness of the systems we build. Our back-end is built on Java, Postgres, and Kubernetes, and our front-end is built on React and Typescript.<br><br>As a Software Engineer I, you will:<br><ul><li>Create new data source connectors to be part of a product portfolio enjoyed by customers of all sizes- from startups to enterprises</li><li>Develop, maintain, and test code</li><li>Contribute to the efforts to the maintenance and improvement of existing connectors; call for improvement in all areas of Fivetran's codebase and infrastructure</li><li>Participate in on-call rotation </li><li>Contribute to hiring by participating in the interview process<br></li></ul>What you bring to the table:<br><ul><li>Writes well-structured and performant code</li><li>Are able to learn software and infrastructure design to satisfy project requirements </li><li>Works well in a team</li><li>Can troubleshoot problems with existing code and systems<br></li></ul>Nice-to-haves:<br><ul><li>Java programming experience</li><li>Experience in data processing (ETL, ELT) and/or cloud-based platforms</li><li>Experience in designing and developing file, event, application, or database connectors</li><li>Experienced working in a cloud environment utilizing AWS, GCP, Postgres, Kubernetes, Docker, CircleCI, or similar technologies<br></li></ul>Perks and Benefits:<br><ul><li>100% paid Medical, Dental, Vision and Basic Life Insurance. Benefits begin on your first day!</li><li>Option of Health Savings Account (HSA) or Flexible Savings Account (FSA)</li><li>Generous paid time off (PTO) plus paid sick time, holidays, parental leave, and volunteer days off</li><li>401k match program</li><li>Eligible donation match program</li><li>Monthly cell phone stipend</li><li>Work-from-home equipment reimbursement for your home office setup!</li><li>Professional development and training opportunities</li><li>Company virtual happy hours and fun team building activities</li><li>Pet Insurance -- and yes, you can bring your well-behaved fur babies to work</li><li>Commuter benefits to help with transit and parking costs<br></li></ul>Shaped by the real-world needs of data analysts, Fivetran technology is the smartest, fastest way to replicate your applications, databases, events and files into a high-performance cloud warehouse. Fivetran connectors deploy in minutes, require zero maintenance, and automatically adjust to source changes \u2014 so your data team can stop worrying about engineering and focus on driving insights. To learn more about Fivetran's culture and what it's like to be part of the team, click here and enjoy our video.<br><br>To learn more about our candidate privacy policy, you can read our statement here.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:28:17.000Z"
+  },
+  "company": {
+    "name": "Fivetran",
+    "link": "https://www.linkedin.com/company/fivetran"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

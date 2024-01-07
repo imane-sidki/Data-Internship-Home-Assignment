@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Sports",
+    "description": "<p>The Software Engineer will work closely with a multidisciplinary team of designers, product managers and engineers to design and build products that our PGA Coaches and consumers love. The Software Engineer will use Test Driven or Behavior Driven Development to build mobile and web products to address customer needs that are reliable, valuable, usable, and feasible.</p><p><br></p><p><strong>RESPONSIBILITIES (Specific areas of responsibility include but are not limited to):</strong></p><p><br></p><ul><li>Design, develop, test, deploy, maintain and improve software.</li><li>Manage individual project priorities, deadlines and deliverables.</li><li>Help build a world-class team and cultivate innovation.</li><li>Lead designs of major software components, systems, and features.</li><li>Participate in \u201cdesign time\u201d with other engineers to explore different component design tradeoffs and test decisions.</li><li>Mentor and train other team members on new technologies, design techniques, and coding standards.</li><li>Actively seek out customer and market insights that lead to high-value digital products.</li></ul><p><br></p><p><br></p><p><strong>EDUCATION AND EXPERIENCE:</strong></p><p><br></p><p>Bachelor\u2019s Degree (B.S.) in Computer Programming, Computer Science or related field.</p><p>Two years of experience working with two or more of the following: web application development, databases, mobile application development,and/or developing large software systems.Software development experience in one or more general-purpose programming languages including but not limited to: Dart, Python, JavaScript, Go, Swift. Intermediate design, problem solving, and troubleshooting skills. Must have Ruby on Rails experience.</p><p><br></p><p><br></p><p><strong>SKILLS, KNOWLEDGE AND ABILITIES:</strong></p><p><br></p><p>Knowledge of web application, database management systems; knowledge of a variety of web-authoring tools.Ability to maintain the confidentiality of sensitive data and the ability to logically structure processes and procedures.Must have skills in the operation of computers; in word processing and spreadsheet software applications; graphic design tools such as Photoshop and Adobe Illustrator.Knowledge of Google Workspace.</p><p><br></p><p><br></p><p><br></p><p><em>This position is not eligible for immigration sponsorship.</em></p><p><br></p><p>Reasonable accommodations may be made to enable qualified individuals with disabilities to perform the essential functions of this position.</p><p><br></p><p><br></p><p>The PGA of America is an equal opportunity employer. All candidates for employment will be considered without regard to race, color, religion, sex, national origin, physical or mental disability, veteran status, or any other basis protected by applicable federal, state or local law. DFWP.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T18:37:40.000Z"
+  },
+  "company": {
+    "name": "PGA of America",
+    "link": "https://www.linkedin.com/company/pga-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 53500,
+    "max_value": 116500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Frisco",
+    "region": "TX",
+    "postal_code": "75034",
+    "street_address": null,
+    "latitude": 33.15066,
+    "longitude": -96.82508
+  }
+}

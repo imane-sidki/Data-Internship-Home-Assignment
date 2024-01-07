@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<ul><li>Thorough command of both the Windows and Linux Operating Systems, with strong background in troubleshooting either</li><li>Knowledge of native Kubernetes or related enterprise container platforms such as Open Shift</li><li>Good understanding of the mechanics of this platform and the deployment pipeline that feeds it</li><li>Knowledge of Public Cloud Governance frameworks, architectures, configurations, services, and solutions, specifically within Microsoft Azure, but may also include AWS and GCP</li><li>Knowledge in core Azure services like Azure Kubernetes Service, CosmoDB, Azure Functions, Azure Storage Entities and Concepts, Azure CLI and Powershell Cmdlets</li><li>Knowledge in Azure organizational entities such as Departments, Accounts, Subscriptions, Resource Groups and Management Groups</li></ul><p><br></p><p><u>Skills</u></p><ul><li>Fast learner; proactive thinker</li><li>Ability to innovate, automate, and continually improve processes</li><li>Excellent verbal and written communication skills</li><li>Possess critical thinking and analytical skills</li><li>Capacity to take initiative; desire to become a self-starter</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:02:25.000Z"
+  },
+  "company": {
+    "name": "Amazech Solutions",
+    "link": "https://www.linkedin.com/company/amazech-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

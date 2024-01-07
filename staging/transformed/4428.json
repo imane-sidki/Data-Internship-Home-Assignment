@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer II",
+    "industry": "Civil Engineering",
+    "description": "<strong><u>Peraton Overview<br><br></u></strong>Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the worlds leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the cant be done, solving the most daunting challenges facing our customers.<br><br><strong><u>Responsibilities<br><br></u></strong>The Theatre Mission Planning Center (TMPC) consists of the set of systems required to perform targeting, mission planning, and strike execution for the Tomahawk Cruise Missile. Vencore develops and maintains 5 of the 7 systems in the TMPC. The TMPC systems must be maintained at the highest level of cyber security. Continuous development and maintenance is performed on the fielded and future Tomahawk systems<br><br>We are searching for a full time, software engineer to join our team as we design and code the next generation of applications for the Tomahawk Cruise Missile. As part of the development team, you will be on the leading edge of object oriented design, Microservices, and Service Oriented Architecture (SOA) development. You will be participating in the conceptual definition, design, coding, and testing of solutions in a process oriented environment.<br><br><strong><u>The Desired Candidate Will Be<br><br></u></strong>Highly motivated, capable of delivering innovative solutions that will support the Tomahawk Cruise Missile for the next decade<br><br>Able to maintain currency in the latest software technologies and methodologies<br><br>Experienced on at least one project through the complete software development lifecycle<br><br>Provides expertise and direction in the development and/or modification of computer-based scientific, technical, and business software systems. Uses expertise to design develop, code, test, and debug software. May work in one or several areas, such as equipment or software design, engineering evaluation or test, configuration management procedures, statistical analysis and modeling. Works with users to define existing or new system scope and objectives. Provides analytical support and technical advice during the conceptualization, development, and implementation phases. Plans and schedules new applications systems projects with user, systems software, and computer center operations personnel, including the identification of objectives, time frames, costs, and manpower requirements. Performs tasks necessary to ensure the identification and documentation of hazards within software systems using various analysis tools and techniques. Reviews and evaluates systems and software for adherence to government or commercial directives, standards, guidelines, and criteria concerning software safety and systems safety. Confirms design mitigations are captured in the design and its documentation and verifies implementation. May perform as a project lead with the responsibility for the instruction, assigning, direction, and monitoring of the performance of assigned systems developers / analyst working on a specific project.<br><br><strong><u>Required Skills And Experience<br><br></u></strong><strong> Qualifications <br><br></strong>2 to 5 years with BS/BA or 0 to 2 years with MS/MA/MBA<br><br>Fluent in at least one Object Oriented Programming (OOP) language<br><br>BS/MS in Computer Science or related field<br><br>US citizenship.<br><br><strong><u>Desired Skills<br><br></u></strong>Experience with Windows SW Development technologies<br><ul><li> Angular, .NET Core, C#, C++, Java, ASP.NET, Ajax, WCF<br></li></ul>Web-based application development: Server and Client<br><ul><li> IIS, XML, XSLT, ASP.NET,<br></li></ul>Software architecture and design<br><ul><li> Translating user requirements into SW design</li><li> Service Oriented Architecture</li><li> User Interface development<br></li></ul>Software Security<br><br>GUI and Graphics Web design and development<br><br>Familiarity developing software within a formal development process<br><br>Security Clearance Requirement<br><br>Candidates must be able to obtain a DoD SECRET security clearance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:13:14.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85200,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

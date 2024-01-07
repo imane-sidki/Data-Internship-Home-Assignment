@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Ad Platforms",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, we work every day to create products that enrich people\u2019s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Today, our technology and services power advertising in Search Ads in the App Store and Apple News. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. <br><br><br>The Ad Platforms team is seeking a Site Reliability Engineer for an extraordinary opportunity. Our mission is to enable Ad Platforms to deliver advertisements in a reliable and scalable way that results in awesome user experiences. We achieve this mission by automation, processes and education to our partner teams.<br><br> <br><strong>Key Qualifications<br></strong> <br>At least 5 years in a Reliability Engineering, DevOps or Infrastructure focused role.<br><br>Passion for designing and building reliable systems.<br><br>Advanced experience with programming languages (GoLang, Python, Java, C++).<br><br>Experience designing, building and operating solutions built on top of AWS.<br><br>Experience building and operating container based platforms like EKS.<br><br>Experience in deployment automation based on Terraform.<br><br>Automation advocate - you truly believe in removing operation load with software.<br><br>Experience with deploying, supporting and monitoring new and existing services, platforms, and application stacks.<br><br>Confirmed experience supporting internet-facing production services and distributed systems.<br><br>Demonstrated problem solving ability utilizing creative and innovating thinking but also adhering to a strong sense of ownership, customer service, and integrity demonstrated through clear communication.<br><br>Drive to be be self-motivated, and eager to learn.<br><br> <br><strong>Description<br></strong> <br>We are a diverse, global, agile engineering team that moves smart and fast by consuming and optimizing readily-available technology, collaborating to improve and scale capabilities across businesses and use cases, and sharing our own innovative solutions so everyone can benefit. We are not constrained by organization structure and offer flexibility to work on a variety of full-stack and backend systems and we have fun doing it!<br><br>IN THIS ROLE, YOU WILL:<br><br>- Design, build and operate our Serving Infrastructure.<br><br>- Design and implement reusable infrastructure resiliency patterns.<br><br>- Implement and improve our monitoring and observability capabilities that results in improving our reliability.<br><br>- Enhance our deployment infrastructure that will enable us to safely deploy changes.<br><br>- Design and develop tools that will aide in improving reliability of our infrastructure.<br><br>- Engage with engineering teams to improve on-call efficiencies, drive incident management and post-mortem analysis.<br><br>- Develop expertise in Apple Infrastructure and best practices and bring that to ad-platforms to run a world class distributed systems.<br><br>- Improve areas like capacity planning, configuration management and monitoring.<br><br>- Design and improve architectures of new and existing systems based on the principles of reliability and high availability with extensive logging and observability.<br><br>- Own the reliability of ad-platforms.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\u2019s degree in Computer Science or equivalent industry experience<br><br> <br>Role Number: 200231269<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T08:37:20.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80100,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

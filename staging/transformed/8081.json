@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Email Services",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! The people here at Apple don't just build products - we also provide tools and services to improve the way employees collaborate at Apple. We believe that the Apple Employee is the Apple\u2019s first customer.<br><br><br>Do you have a passion for email? Do you consider yourself to be an email specialist, who knows SMTP inside and out, and enjoys implementing anti-abuse and email deliverability strategies? Do you have a good understanding and stay up-to-date on email standards, and know how and when to leverage them for efficient results? If so, then imagine what you can do here at Apple!<br><br><br>We are looking for an experienced engineer to join our Email Delivery Services team in IS&amp;T. This team is responsible for the configuration, maintenance and security of our email services, as well as ensuring that the emails are delivered successfully in a timely fashion. You will be focussed on ensuring this critical platform is always available and be prepared to develop and improve existing internal applications developed in a variety of languages relating to both email and other critical collaboration services.<br><br> <br><strong>Key Qualifications<br></strong> <br>-  Good understanding of Email protocols such as SMTP, IMAP, POP<br><br><br>-  Proficient in Email security and anti-abuse<br><br><br>-  Experience managing Linux operating systems<br><br><br>-  Ability to script in various scripting languages (Python / Shell / Perl)<br><br><br>-  Ability to investigate and debug problems<br><br><br>-  Excellent verbal and written communication skills<br><br><br>-  Ability to adapt and learn new technologies as business needs change<br><br> <br><strong>Description<br></strong> <br>The successful candidate will be highly self-motivated with a passion for excellence, quality and detail. The SRE will not only support operations, but also work closely with the other engineers within the team to aid in architectural design and assist with the implementation of complex features. Developing new and maintaining existing tools/applications used in the delivery of critical corporate-wide services will be a key responsibility. Documenting and continually improving the quality of our infrastructure, service and processes will be significant goals. Participation in on-call rotation will be required.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelors in Electrical Engineering/Computer Engineering/Computer Science or equivalent; minimum 5 years experience.<br><br> <br><strong>Additional Requirements<br></strong> <br>-  Knowledge of LDAP / DNS <br><br><br>-  Understanding of Milter<br><br><br>-  Experience and knowledge of Automation (Ansible / Puppet)<br><br><br>-  Programming skills (Java / C / C++)<br><br> <br>Role Number: 200288776<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-13T05:03:57.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

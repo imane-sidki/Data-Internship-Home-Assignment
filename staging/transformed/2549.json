@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Software Engineer (Full Stack) - Pareto Portfolio Company</strong></p><p><br></p><p><strong>What you\u2019ll do</strong></p><ul><li>Full stack web/mobile application development with a variety of coding languages.</li><li>Work closely with Product Manager to define feature specifications and build products leveraging frameworks such as React &amp; React Native.</li><li>Create engaging UIs using performant and modern React.</li></ul><p><br></p><p><strong>Required skills</strong></p><ul><li>Bachelors in computer science or equivalent.</li><li>You produce readable, high quality code.</li><li>Highly technical with strong hands-on coding skills.</li><li>Fluent in at least one backend web framework.</li><li>Experience with React or a similar framework.</li><li>Comfortable with SQL.</li><li>You prize reliability, simplicity, and robustness in building out systems.</li><li>You communicate clearly and listen well.</li><li>You are a self-starter and comfortable taking on a variety of roles.</li><li>Have a startup mentality: team player, self-motivated, high-integrity, pragmatic, resourceful, can execute under pressure.</li></ul><p><br></p><p><strong>Preferred Qualifications</strong></p><ul><li>Masters in computer science or equivalent.</li><li>Prior knowledge of Graphql, Redis, Elasticsearch and React Native.</li><li>Prior experience with distributed systems and high-throughput services.</li><li>Knowledge of AWS or similar cloud services.</li></ul><p><br></p><p><strong>Location</strong></p><ul><li>San Francisco</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:48:41.000Z"
+  },
+  "company": {
+    "name": "Pareto Holdings",
+    "link": "https://www.linkedin.com/company/paretoholdings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

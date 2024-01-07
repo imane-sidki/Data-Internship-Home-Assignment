@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Internet,Information Technology and Services",
+    "description": "<strong>Who We Are And What We Do <br><br></strong>SurveyMonkey (Nasdaq: SVMK), is a leader in agile software solutions for customer experience, market research, and survey feedback. Our mission is to power the curious and enable organizations, including 98% of the Fortune 500, to transform feedback into action. Our brand is beloved and well known throughout the world\u2014over 6 billion people have taken a SurveyMonkey survey! Today, more than 17 million active users rely on our platform to measure and understand feedback from employees, customers, website and app users, and the market. And our enterprise-grade products and solutions enable 335,000+ organizations globally to solve daily challenges\u2014from delivering better customer experiences to increasing employee retention.<br><br><strong> More about our SRE Engineering Team <br><br></strong>As a member of the new SRE team at SurveyMonkey, you will automate away toil, help teams in AWS, and build tools to make development seamless. The SRE team is embedded amongst several developments that are responsible for some of the most trafficked applications within SurveyMonkey. The SRE team will be fully remote across North American time zones. This role presents a prime opportunity to ensure reliability, maintainability, performance, scalability, and security are at the forefront of our teams\u2019 products.<br><br><strong> What Are We Looking For <br><br></strong>The Senior Site Reliability Engineer will partner with the application development and main infrastructure teams to architect and operate reliable, scalable, and performant services. You will have a huge impact on how we do things and help take our engineering excellence to the next level. You will report to the Senior Manager of Site Reliability Engineering.<br><br><strong>You will<br></strong><ul><li>Partner with application developers and architects to ensure our services are built for scale, reliability and performance.</li><li>Develop the monitoring solutions on top of existing observability platforms</li><li>Refine the development, build and deployment processes on top of our main infrastructure</li><li>Work with the engineering teams to architect and build our platform services to simplify real-time troubleshooting and operational response to incidents and outages</li><li>Be the expert on how to best use AWS technologies to build our next-generation platform</li><li>Bridge the divide between our core application engineers and our main infrastructure teams</li><li>Provide capacity management expertise to ensure our deployments are managed for robustness and cost</li><li>Bring best practices and own environment management, ensuring all of our dev/test/prod environments are reproducible with high availability<br><br><br></li></ul><strong>You Have<br></strong><ul><li>A minimum 8 years experience operating in a large-scale environment</li><li>Experience improving the services and customer experiences of the platforms you support</li><li>Experience in application architecture designs and implementations, including the operational trade-offs of different designs</li><li>Knowledge of different aspects of service design: including messaging protocols and behavior, caching strategies, and software design practices</li><li>Experience making strategic trade-offs that are in priority when needed</li><li>Developed accomplished SRE engineers ranging from junior to senior levels of experience<br><br><br></li></ul><strong>What we offer our employees<br><br></strong>SurveyMonkey is a place where the curious come to grow. By embedding inclusion into our processes, policies, and culture for our 1,000+ employees across North America, Europe, and APAC, we're building a workplace where people of every background can thrive. We've won multiple awards and received recognition for our forward-looking policies, including extended parental and bereavement leave, vendor benefits standards, unlimited personal time off, flexible work locations, and Take 4 sabbaticals.<br><br>SurveyMonkey was recognized by Great Place to Work\u00ae and FORTUNE as a top workplace in 2018 and 2019, and we have also won numerous awards as a leader in global survey software, including being named among CNBC's Disruptor 50 and the Forbes Cloud 100.<br><br><strong>Our commitment to an inclusive workplace<br><br></strong>SurveyMonkey is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Accommodations are available for applicants with disabilities.<br><br>Learn more about our diversity, equity, and inclusion efforts here.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T04:14:31.000Z"
+  },
+  "company": {
+    "name": "Momentive.ai",
+    "link": "https://www.linkedin.com/company/momentive.ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

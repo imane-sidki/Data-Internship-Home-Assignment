@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Semiconductors",
+    "description": "<p><strong>Job Description:</strong></p><p><strong>Minimum Qualifications</strong></p><p>- Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.</p><p>- 1+ years\u2019 experience with Programming Language such as C, C++, Java, Python, etc.</p><p><br></p><p><strong>Preferred Qualifications</strong></p><p>Industry experience in the following:</p><p>- Software development and System Architecture on Arm based RTOS platforms.</p><p>- Android or other High level OS for Mobile, Compute, IoT or Automotive products ( e.g. Android, Linux, Windows etc.).</p><p>- Software version control systems (such as GIT, Perforce etc.) for large scale software development.</p><p>- C /C++ programming and debug experience</p><p>- Software development for embedded platform.</p><p>- One or more of the following Modem protocols: EVDO/WCDMA/LTE/5G system architecture</p><p>- RTOS software development</p><p>- Scripting language such as Perl or Python.</p><p>- Multimedia (Audio, Video, Camera) software development/debug/integration.</p><p>- Understanding of ARM processor family and software development on ARM processors.</p><p>- Understanding of Bluetooth , Wifi ( 802.11 family) drivers and protocol.</p><p>- Embedded system debugging skills (Jtag based).</p><p>- Familiarity with modem log analysis (e.g. WCDMA, LTE, 4g, 5g etc.)</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:31:53.000Z"
+  },
+  "company": {
+    "name": "ManpowerGroup",
+    "link": "https://www.linkedin.com/company/manpowergroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

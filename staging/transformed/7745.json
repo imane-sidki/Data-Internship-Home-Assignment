@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Industrial Automation,Aviation & Aerospace,Computer Software",
+    "description": "<p>Software Engineer (C++/python)</p><p>American Robotics is seeking a Software Engineer to help build software for our industrial drone system Scout. This work would cover a variety of domains including simulation environments, command and control, image processing, and robotics.This person will have the opportunity to contribute to a rapidly growing company on the verge of exciting commercial success.</p><p><br></p><p>Responsibilities</p><ul><li>Develop and maintain drone simulation environments</li><li>Develop automated testing environments</li><li>Develop and maintain business logic software for drone and drone station</li><li>Collaborate with cross functional teams to support engineering projects</li></ul><p><br></p><p>Requirements</p><p><br></p><ul><li>A Bachelors or Masters or higher degree in a Computer Science, Computer Engineering, Software Engineering or equivalent field</li><li>Experience developing software in robotics applications</li><li>3+ years of professional experience building production software</li><li>At least 1 year experience with both C++ and python</li><li>Current on modern C++ standards (C++ 11 / 14 / 17)</li><li>Experience developing multithreaded software</li><li>Experience with CI / CD tools such as Jenkins</li></ul><p><br></p><p>Great Additions:</p><p><br></p><ul><li>Experience with robotics simulation environments such as Gazebo</li><li>Experience developing robotics software</li><li>Drone/robotics enthusiast; familiar with building and operating drones and other robots</li></ul><p></p><p>About American Robotics</p><p></p><p>American Robotics is a commercial developer of the first FAA-approved fully-automated drone systems, providing ultra high resolution aerial data to enterprise customers. Through innovations in robot autonomy, machine vision, edge computing and AI, American Robotics has created the next generation of drone technology: a fully-automated robotic data platform capable of continuous, unattended operation. Using this technology, American Robotics provides enterprise customers with the ability to continuously monitor, digitize and analyze their assets in real-time.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T14:49:18.000Z"
+  },
+  "company": {
+    "name": "American Robotics",
+    "link": "https://www.linkedin.com/company/american-robotics-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Waltham",
+    "region": "MA",
+    "postal_code": "02154",
+    "street_address": null,
+    "latitude": 42.37617,
+    "longitude": -71.23899
+  }
+}

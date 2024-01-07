@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer - Site Reliability Engineering",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Media Products Engineering team is one of the most exciting examples of Apple\u2019s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple\u2019s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries.<br><br>These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services.<br><br>Thanks to Apple\u2019s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple\u2019s privacy policy, one of Apple\u2019s core values. Although services are a bigger part of Apple\u2019s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.<br><br> <br><strong>Key Qualifications<br></strong> <br>Support and maintain services by measuring and monitoring availability, latency, and overall system health. <br><br>Develop, manage and support SRE tools and applications. <br><br>Engage in improving the whole lifecycle of services from inception through deployment, operations, and refinement. <br><br>Analyze logs and telemetry data by writing monitoring and automation code.<br><br>Provide OnCall support to 1st level production support teams. <br><br>Provide hands-on technical expertise during service impacting events. <br><br>Collaborate with other engineers on code reviews, internal infrastructure improvements and process enhancements.<br><br> <br><strong>Description<br></strong> <br>Driven approach to continually improving service levels. <br><br>Consistent track record of troubleshooting and resolving issues in live production environments and implementing strategies to eliminate them. <br><br>Proficient coding experience using Python, Java, bash or similar languages. <br><br>Ability to effectively use a relational database and SQL queries. <br><br>Strong grasp of Linux systems, networking, and security. <br><br>Experience with monitoring tools such as Splunk, Nagios. <br><br>PREFERRED <br><br>Comfortable working with large-scale server deployments. Knowledge of additional programming languages and platforms: JavaScript, Oracle PL/SQL, Kafka, MySQL, Cassandra, Hadoop. Strong ability and enthusiasm to learn new technologies in a short time. We seek a self starter, visionary person with strong leadership capabilities. Extraordinary communication skills, for collaborating across many participating teams. You will interact with many other group\u2019s internal team to lead and deliver best-in-class products in an exciting fast-paced environment. Dynamic, smart people and inspiring, innovative technologies are the norm here. Will you join us in crafting solutions that do not yet exist?<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS degree in computer science or equivalent field with 5+ years or MS degree with 3+ years experience, or equivalent.<br><br> <br>Role Number: 200280566<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T17:23:46.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Associate Technology and Innovation (ATI) is a Customer Service organization enabling Amazon to become Earth\u2019s most customer-centric company by efficiently building services, products and programs that deliver exceptional customer and employee experiences anywhere at scale. As a Data Scientist on the ATI Science team, you will have the opportunity to build and deploy game changing data science and machine learning solutions that deliver exceptional Associate experiences.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelor\u2019s degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field with three years of working experience as a Data Scientist</li><li> Experience in SQL, R, Python, or another scripting language</li><li> Track record of diving into data to discover hidden patterns and of conducting error/deviation analysis.</li><li> Knowledge of various machine learning techniques and key parameters that affect their performance.</li><li> Excellent written and verbal communication skills for both technical and non-technical audiences.</li><li> Strong troubleshooting and problem-solving skills</li><li> Extensive knowledge and practical experience in one or more of the following areas: machine learning, statistics, NLP, deep learning<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Master\u2019s degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field</li><li> 5+ years of experience in data science<br><br></li></ul><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1603329",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T13:38:34.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

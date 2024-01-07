@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Financial Services",
+    "description": "<strong>About Dstillery<br><br></strong>Dstillery is the leading custom audience solutions company, empowering brands and their agencies to maximize the value of customer data and transform the way they connect with their audiences. Our premier product, Custom AI Audiences, is built by just-for-your-brand Custom AI models that deliver the ideal combination of accuracy and scale. Because Dstillery continuously rescores candidates in and out of audiences, our audiences are always up-to-date and on-target. That\u2019s why brands across Retail, CPG, Finance, Luxury, B2B, Telco, Travel, and Tech rely on Dstillery\u2019s audience solutions for branding and direct response initiatives to thrive.<br><br><strong>About The Role<br><br></strong>We are looking for a software engineer with strong quantitative skills to join our Data Science Department as a Machine Learning Engineer. You will work on a cross-functional team responsible for developing and deploying production machine learning solutions. You will have the opportunity to work alongside Machine Learning Engineers, Researchers and Analysts within our Data Science team who together create solutions that generate revenue for Dstillery.<br><br>The Machine Learning Engineering team often tackles greenfield projects and we are in the midst of building a modern, cloud based machine learning platform, making it an exciting time to join and help shape our future platform.<br><br>We believe diverse voices and backgrounds lead to richer perspectives and more innovative products. We strive to be a welcoming, safe and inclusive place to work that takes work life balance seriously and gives you the flexibility and support to be happy and productive. We value a diversity of professional backgrounds, and our colleagues come from various settings such as academia, fintech, adtech, big tech companies, startups, etc.<br><br>What you will do and learn:<br><ul><li>Explore, build and deploy machine learning pipelines at scale.</li><li>Write production code and data pipelines and conduct code reviews.</li><li>Promote and exemplify best practices of data science, engineering, and communication throughout the organization.<br><br></li></ul>What you'll have:<br><ul><li>A bachelor's degree in a quantitative field (CS, EE, Statistics, Physics, Math, etc.)</li><li>2+ years of industry software engineering experience using Python or Java.</li><li>Passionate about software development, finding elegant solutions to problems and learning more about machine learning.<br><br></li></ul>Technologies:<br><br>We anticipate all candidates will need some sort of on-the-job training and a willingness to learn through collaboration is key. We understand that you may not already be an expert in the various technologies we use, but you should be ready to learn and work with:<br><ul><li>Python (our preferred language for ML) and Java.</li><li>Google Cloud Platform</li><li>Machine learning frameworks such as scikit-learn and TensorFlow</li><li>Kubernetes, Kafka, Hive and Spark<br><br></li></ul>Dstillery is an EEO Employer",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-23T05:18:17.000Z"
+  },
+  "company": {
+    "name": "Dstillery",
+    "link": "https://www.linkedin.com/company/dstillery"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

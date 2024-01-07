@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Retail Analytics",
+    "industry": "Computer Software",
+    "description": "<p><strong><u>1010data Values</u></strong></p><ul><li>Integrity: Doing the right things for the right reasons</li><li>Agility: Adapting and thriving in a dynamic environment</li><li>Teamwork: Combining our strengths to do amazing things</li><li>Passion: Channeling enthusiasm to drive excellence</li><li>Creativity: Unleashing curiosity to defy the norm</li></ul><p><br></p><p><strong><u>About The Role</u></strong></p><p>1010data is seeking a Data Scientist \u2013 Retail Analytics with strong skills in data analysis to create large-scale analytical solutions (data products and applications) to client-driven business problems.\u202fQualified candidates will have several years of experience in the Retail industry building data driven solutions in areas such as demand forecasting, assortment planning or related Retail analytical applications. </p><p><br></p><p>At the core of 1010data\u2019s technology stack is a fast parallel processing database that powers all of our product offerings. Your work will involve using this core capability to analyze billions of rows of data to solve business problems in the Retail/CPG space. You will be responsible for conducting analysis to further the features, functionality, and data quality of the analytical solutions. </p><p><br></p><p>You will also work closely with the data engineering and operations teams to prototype and support high-performance data pipelines and the corresponding operational processes. Once deployed, you will be responsible for supporting ongoing data quality and stability of existing products and supporting client inquiries about the data. </p><p><br></p><p>You are curious and passionate about using your analytical skills in answering complex questions from real world datasets. You are adept at working in line with business goals and strive to deliver high quality products to further our growth. You will primarily use the 1010data Macro Language to interact with our core database. You will also use Airflow, Scala, Spark and Python to varying degrees. </p><p><br></p><p>You will be part of a diverse team with rich backgrounds in physics, computer science, statistics, finance and engineering collaborating to build data products using massive data sets. You will need to develop domain expertise on data products and be able to propose novel solutions to challenging problems. </p><p><br></p><p>You will be based in the US and are comfortable working remotely with the Data Science, Data Quality, Data Engineering and account management teams.</p><p><br></p><p><strong>This role is not sponsorable</strong></p><p><br></p><p><strong><u>What You Will Take On</u></strong></p><ul><li>Apply your expertise in Retail/CPG analytics to develop actionable analytical products leveraging retailer POS, Inventory, Supply Chain, competitive intelligence, consumer panel and related data.</li><li>Build models enabling a greater understanding of consumer demand assessing historical performance and developing predictive analytics to help Retailers forecast and optimize planning around Inventory, Pricing, Promotions and Assortment.</li><li>Become an expert user of 1010data Macro Language to analyze and process massive datasets</li><li>Use your understanding of datasets and business problems to research analytical solutions to further product capabilities</li><li>Use 1010data Macro Language, Spark, Scala, Python and Airflow to design, build and maintain data pipelines</li><li>Develop systems and processes to transform source data into knowledge and insights</li><li>Collaborate with product management, data engineering and data quality teams in producing high quality products</li><li>Conduct ad-hoc data analyses to resolve production and client data issues</li><li>Find and implement optimizations, improvements and design modifications to data engineering challenges</li><li>Develop quick proof-of-concept analyses and audit decks on new source data</li><li>Participate in agile development sprints and share your progress updates regularly </li></ul><p><br></p><p><strong>What you already have:</strong></p><ul><li>3-7 years professional experience in data analysis or practical experience building\u202fcustomer facing analytical products</li><li>3+ years of hands-on experience building analytical solutions on Retail/CPG data</li><li>BS/MS in a highly analytical discipline (Computer Science /Physics /Mathematics /Econometrics) or equivalent</li><li>Database experience (understanding of database structures and query languages such as SQL)</li><li>Demonstrated experience with scripting languages and statistical software (R, SAS, SPSS, MATLAB) and comfortable learning new tools as needed</li><li>Solid understanding of statistical concepts</li><li>Experience developing data products using Retailer Provided Data sources, Syndicated Market Tracking Data and Consumer Panel Data</li><li>Experience working with parallel processing frameworks like Spark</li><li>Experience constructing data pipelines using Airflow</li><li>Background in vector/matrix arithmetic is a plus</li><li>Experience with list/vector-based languages</li><li>Communication\u202fand collaboration</li><li>Have strong, positive interpersonal skills</li><li>Able to communicate clearly, consider options presented by others and reach an informed, balanced technical opinion</li><li>Create clear, concise memos, summaries, design documentation, and presentations </li></ul><p><br></p><p><strong><u>About 1010data</u></strong></p><p>For more than 20 years, 1010data has helped financial, retail and consumer goods customers monitor shifts in consumer demand and market conditions and rapidly respond with highly targeted strategies. The 1010data Insights Platform combines market intelligence, data management, granular enterprise analytics, and collaboration capabilities to empower better business outcomes. More than 900 of the world\u2019s foremost companies\u2019 partner with 1010data to power smarter decisions.</p><p><br></p><p>You can find this on the Company page of 1010data at https://1010data.com/company/</p><p><br></p><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:24:58.000Z"
+  },
+  "company": {
+    "name": "1010data",
+    "link": "https://www.linkedin.com/company/1010data"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

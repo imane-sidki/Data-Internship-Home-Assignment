@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Human Resources",
+    "description": "At John Deere, we run so life can leap forward. This powerful purpose is our promise to humankind that we will dream, design and deliver breakthrough products that sustain our world for generations to come. The world is counting on us to feed billions of people and build vital infrastructures in villages, towns, and megacities. We live up to the legacy our founder forged in a one-room blacksmith's shop nearly two centuries ago by creating a culture that brings out the best in all of us. A culture where great ideas thrive because every voice is heard.<br><br><strong>Primary Location:</strong> United States (US) - Iowa - Urbandale<br><br><strong>Function:</strong> Data Science &amp; Analytics<br><br><strong>Title: </strong>Data Scientist - 76123<br><br><strong><u>Your Responsibilities<br><br></u></strong>***This position qualifies for a partial telework or flexible work arrangement***<br><br>As a <strong>Data Scientist </strong>for ISG John Deere located in Urbandale, IA, you will;<br><ul><li> Establish and maintain core quality engineering datasets and dashboards that promote our collective understanding of key business measures such as Failures per Machine (FPM), Problem Resolution Cycle Time (PRCT), supplier quality performance, and supplier delivery performance </li><li> Participate as an active member of our End-to-End Solution Acceptability and Reliability (ESAR) core team innovating new ways to measure the customer quality experience of tech stack solutions through telematics </li><li> Perform ad-hoc data analysis for significant quality events that support rigorous root cause analysis and preventative actions </li><li> Lead the ISG Quality team\u2019s trials in machine learning. For example, experiment with training a machine learning engine to categorize failure modes of warranty claims <br></li></ul><strong> This position is open to sponsorship <br><br></strong><strong><u>What Skills You Need<br></u></strong><ul><li> 1 or more years of experience in data wrangling (structuring, cleaning, validating, and publishing data) </li><li> 1 or more years of experience in a data analytics field (developing models) </li><li> 1 or more years of experience programming in SQL, R, Python, or Spark <br></li></ul><strong><u>What Makes You Stand Out<br></u></strong><ul><li> Experience with tools such as S3 Cloud applications, SAS tools for analytics, Databricks, Power Apps, Tableau, R Shiny </li><li> Practice in advanced data gathering and statistical analysis </li><li> Experience with quality related datasets (e.g. warranty, reliability, yield, non-conformance and corrective action, downtime/uptime, DTAC, machine health) </li><li> Experience with ISG hardware and software products <br></li></ul><strong>Education<br><br></strong>Ideally you will have a degree or equivalent related work experience in the following:<br><ul><li> Degree in a Math, Engineering, Economics, Analytics, or Statistics discipline or equivalent experience. University Degree <br></li></ul><u><strong>What You'll Get<br><br></strong></u>At John Deere, you are empowered to create a career that will take you to where you want to go. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. We offer comprehensive relocation and reward packages to help you get started on your new career path. Click here to find out more about our Total Rewards Package.<br><br>The information contained herein is not intended to be an exhaustive list of all responsibilities and qualifications required of individuals performing the job. The qualifications detailed in this job description are not considered the minimum requirements necessary to perform the job, but rather as guidelines.<br><br>An Equal Opportunity Employer, John Deere requires a diversity of people, perspectives and ideas to address the complex challenges of its global business. John Deere is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to, among other things, race, religion, color, national origin, sex, age, sexual orientation, gender identity, status as a protected veteran, or status as a qualified individual with disability.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T00:34:13.000Z"
+  },
+  "company": {
+    "name": "John Deere",
+    "link": "https://www.linkedin.com/company/john-deere"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64600,
+    "max_value": 121000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Urbandale",
+    "region": "IA",
+    "postal_code": "50131",
+    "street_address": null,
+    "latitude": 41.630333,
+    "longitude": -93.736496
+  }
+}

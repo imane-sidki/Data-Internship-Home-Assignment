@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Computer/Software Engineer",
+    "industry": "Defense & Space,Information Technology and Services,Electrical/Electronic Manufacturing",
+    "description": "The Naval Training and Simulation (NTS) department at Naval Nuclear Laboratory (NNL) designs, develops, deploys, and maintains training simulators for the US Navy at training sites across the US. The NTS Software/Computer/Electrical Engineer will work on software applications and computing architectures hosting real-time software models that emulate shipboard embedded control systems and electrical components for new and existing simulators. Through this work, the engineer will gain a valuable understanding of the operation of various Navy reactor, propulsion, electrical, and control systems via research and design, implementation, and hands-on testing of several simulator systems used to train Naval Nuclear Operators on current and future Naval Nuclear Propulsion Program ship classes.<br><br>The successful candidate will work in an agile, team-oriented environment to emulate Generic Instrumentation and Control software architectures and develop engineering models of Reactor Protection and Rod Control systems. As a skilled engineer, you will apply your knowledge, creativity, and software design, implementation, and troubleshooting skills daily. Experienced engineers also gain opportunities to provide mentoring to teammates and lead significant efforts. Cognizant areas may include researching, planning, designing, modeling, analyzing, documenting, testing, presenting, and leading these engineering solutions.<br><br><strong><u>Skills We Are Looking For<br></u></strong><ul><li>Proficiency in C and C++ with 2+ years of experience in application development</li> <li>Experience with multiple languages (Python, Java, C#) and environments (Windows and Linux)</li> <li>Experience with integrated development environments (MS Visual Studio, Eclipse, etc.)</li> <li>Experience with source control (Git, ClearCase) and configuration control (TFS, ADOS) systems</li> <li>Systems/board-level software development and troubleshooting experience</li> <br><br></ul><strong><u>What We Offer<br><br></u></strong>The diversity in work opportunities and collective expertise of the community within NTS provides engineers the opportunity to continue gaining technical skills and broadening their experience throughout their careers while tackling exciting and challenging assignments. Through engaging, hands-on work, NTS computer/software engineers support simulation products from concept through delivery that directly serve sailors in the Fleet.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:27:42.000Z"
+  },
+  "company": {
+    "name": "Naval Nuclear Laboratory (FMP)",
+    "link": "https://www.linkedin.com/company/naval-nuclear-laboratory-bmpc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Mifflin",
+    "region": "PA",
+    "postal_code": "15122",
+    "street_address": null,
+    "latitude": 40.350273,
+    "longitude": -79.92702
+  }
+}

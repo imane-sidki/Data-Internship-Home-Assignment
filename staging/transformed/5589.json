@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Machine Learning)",
+    "industry": "Railroad Manufacture,Transportation/Trucking/Railroad",
+    "description": "<p><strong>Data Scientist (Machine Learning Scientist)</strong></p><p><strong>Atlanta, GA</strong></p><p></p><p><strong>Who we are and what we do:</strong></p><p>The AI and Data Science team is centralized across the entire organization.</p><ul><li>We work with various product teams across various business units to define high-impact business problems, solve them using novel techniques, and execute and monitor them throughout their lifecycle.</li><li>Most of our models make it to production, they never sit in a research lab. But we also do quite a bit of research to stay up to date with the latest technologies/algorithms.</li><li>We are very collaborative; you will likely get lots of ideas from the team.</li></ul><p></p><p><strong>What kind of problems do we solve?</strong></p><p>Our locomotives stream 350+ sensor information in real-time. We create predictive models to predict various component failures hours, days, and sometimes months in advance.</p><ul><li>There are high-frame cameras beside our tracks, capturing images of trains and rail cars as they pass. We design various Deep Learning and Computer Vision algorithms to detect certain objects of interest or issues and defects. We then optimize their performance and deploy them at the edge for real-time scoring and notification of our mechanical personnel upon detections.</li><li>Want to learn more? Apply today!</li></ul><p></p><p><strong>What tools do we use?</strong></p><ul><li>We use Python, R, and Spark (PySpark, SparkR) for modeling and EDA.</li><li>You will have a local machine with 512GB of memory, so feel free to load the data in memory if it makes sense or if it fits (!)</li><li>You will also have terabytes of memory in our Spark cluster that is not shared by anyone.</li><li>We use Jupyter notebook, Emacs, PyCharm, Rstudio as IDEs.</li><li>We use Tensorflow, Keras, PyTorch, and MXNet for Deep Learning, and OpenCV for traditional Computer Vision.</li><li>We always have the latest versions of our tools/packages/libraries available.</li></ul><p></p><p><strong>What are our requirements?</strong></p><ul><li>Bachelor\u2019s, Master\u2019s or Ph.D. in Computer Science, Electrical Engineering, Machine Learning, Statistics or related field</li></ul><p><br></p><p>Minimum of 1 year of relevant exp</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T22:40:23.000Z"
+  },
+  "company": {
+    "name": "Open Systems Inc.",
+    "link": "https://www.linkedin.com/company/open-systems-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

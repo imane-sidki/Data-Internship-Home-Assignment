@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p><strong><em><u>Job Description</u></em></strong></p><p>Major purpose: This engineer will need experience in SW design, digital communications, modems, and FPGA design.</p><p><br></p><p><strong><em><u>Areas of desired experience or education include:</u></em></strong></p><p>\u2022 Forward Error Correction (FEC)</p><p>\u2022 Modulation</p><p>\u2022 Demodulation</p><p>\u2022 Digital filters</p><p>\u2022 Baseband sampling</p><p>\u2022 Acquisition</p><p>\u2022 Tracking Algorithms</p><p><br></p><p><strong><em><u>Major functions: Technical/Functional skills: Education/Experience/Licenses etc.:\tQualifications:</u></em></strong></p><p>\u2022 Bachelor\u2019s (Master\u2019s preferred) degree in Computer Science, Computer Engineering, Software Engineering or Electrical Engineering.</p><p>\u2022 4+ years of experience implementing complex modem algorithms in DSP software.</p><p>\u2022 4+ years of equivalent experience in FPGA design with SW background will also receive consideration</p><p>\u2022 Preferred Skills:</p><p>\u2022 Expertise in C++ and object-oriented software design</p><p>\u2022 Expertise in software design for testability</p><p>\u2022 Expertise in laboratory debug techniques using digital scopes, logic analyzers, BERTS &amp; other complex measurement equipment</p><p>\u2022 Experience with TI DSP BIOS RTOS is a plus.</p><p>\u2022 Familiarity with Git is a plus</p><p>\u2022 Familiarity with VHDL/Verilog and Matlab/Simulink is a plus</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:44:50.000Z"
+  },
+  "company": {
+    "name": "LAUNCH Technical Workforce Solutions",
+    "link": "https://www.linkedin.com/company/launchtws"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City Metropolitan Area",
+    "region": null,
+    "postal_code": "84105",
+    "street_address": null,
+    "latitude": 40.74076,
+    "longitude": -111.89312
+  }
+}

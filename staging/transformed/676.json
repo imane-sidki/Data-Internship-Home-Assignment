@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p>As a Data Scientist you will apply your skills to increase digital adoption, engagement and behavior change leveraging CVS Health\u2019s digital products.</p><p><br></p><p>Aetna\u2019s Member Analytics team is an innovative team tasked with optimizing our ability to engage with members to help them make better healthcare decisions.</p><p><br></p><p>Our goal is to improve clinical outcomes and to help members gain more transparency into the healthcare system so that they can save money. To do this, we\u2019ve developed a leading capability that combines data science, agile marketing, behavioral economics, large scale experimentation, and optimization of our digital properties and applications. Through this we message millions of members each year about real challenges they face and help them become healthier and save money \u2013 we drive tangible and meaningful impact for our members.</p><p><br></p><p><strong>As a Data Scientist you will:</strong></p><ul><li>Develop, validate and execute algorithms and predictive models to investigate problems, detect patterns and recommend solutions</li><li>Perform analyses of structured and unstructured data to solve moderately complex business problems, utilizing advanced statistical techniques and mathematical analyses</li><li>Create data structures and pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needs</li><li>Use data visualization techniques to effectively communicate analytical results and support business decisions</li><li>Evaluate the data needs of assigned projects and assure the integrity of the data</li><li>Document projects, business objectives, data gathering and processing, detailed set of results and analytical metrics</li></ul><p><br></p><p><strong>Required Qualifications</strong></p><ul><li>2+ years of relevant Machine Learning model building experience</li><li>Experience with Python, R and SQL</li></ul><p><br></p><p><strong>Preferred Qualifications</strong></p><ul><li>Healthcare industry experience</li><li>Experience with Experimental Design and or A/B testing</li><li>Strong written and verbal communication skills</li><li>Problem resolution skills</li><li>Proficiency in several areas of data modeling, machine learning algorithms, statistical analysis and data engineering</li><li>Ability to work with large data sets from multiple sources</li></ul><p><br></p><p><strong>Education</strong></p><ul><li>Bachelor\u2019s degree or equivalent work experience in Mathematics, Statistics and Computer Science</li><li>Master\u2019s degree preferred</li></ul><p><br></p><p><strong>Business Overview</strong></p><p>At CVS Health, we are joined in a common purpose: helping people on their path to better health. We are working to transform health care through innovations that make quality care more accessible, easier to use, less expensive and patient-focused. Working together and organizing around the individual, we are pioneering a new approach to total health that puts people at the heart.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T21:31:54.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

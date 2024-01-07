@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<strong>Job Description<br><br></strong><strong>Machine Learning Engineer in Atlanta, GA 30092<br><br></strong><strong>Interview Logistics<br><br></strong>Video<br><br><strong>Required Skills Set<br><br></strong><strong>Years of Experience: </strong>5+ years<br><br><br><strong>Education Required: </strong>Bachelors Degree or equivalent work experience<br><ul><li>Machine Learning</li><li>The position will require the candidate has experience with Machine Learning strategy, data preparation, visualization, splitting, modeling, and model deployments.</li><li>SQL</li><li>Writing efficient queries sourced from restful internal/external APIs, MS SQL Servers, Oracle, and Teradata sources.</li><li>Python</li><li>Data analysis</li><li>MSSQL Server</li><li>ETL Skills, SSIS</li><li>C#<br></li></ul><strong>Nice To Have Skills<br><br></strong><strong>Additional Preferred Skills:<br></strong><ul><li>Min.io</li><li>Tableau</li><li>Multi-Platform Machine Learning (Microsoft Azure, Google AI, open-source Client platforms)</li><li>C# Machine Learning Libraries experience (Client.net, and extensions)</li><li>C# MVC</li><li>Java</li><li>Microsoft Powershell</li><li>EssBase Automation<br></li></ul><strong>Project Description<br><br></strong>We are looking for a Machine Learning (Client) Engineer to help us create business intelligence products that support financial and technical objectives. Machine Learning Engineer responsibilities include staging and cleaning data, developing machine learning models, maintaining Client systems, and occasionally presenting findings to executives. To do this job successfully, you need exceptional skills in statistics and programming. This team member will be working with subject matter experts in Accounting, Marketing, Engineering, and Finance.<br><br><strong>Physical Environment And Working Conditions<br><br></strong>Remote until covid restrictions are lifted.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T08:14:34.000Z"
+  },
+  "company": {
+    "name": "Turnberry Solutions",
+    "link": "https://www.linkedin.com/company/turnberry-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

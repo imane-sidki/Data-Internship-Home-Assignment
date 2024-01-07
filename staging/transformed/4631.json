@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Red Leader is an equal opportunity employer and strongly encourages women, people of color, LGBT individuals, people with disabilities, members of ethnic minorities, foreign-born residents, and veterans to apply.</p><p><br></p><p><strong>\ud83d\udc40 Who We're Looking For</strong></p><p>We are seeking a Software Engineer to serve as the nexus between our novel electronics and our high throughput sensing algorithms. This role presents the unique opportunity to work throughout the entire technology vertical of the company. Your first year at Red Leader will involve helping design and bring up novel electronics, architecting safety-critical real-time applications, and deploying high performance algorithms on state-of-the art RF-integrated SoCs. Autonomy is the goal for both our sensor and our engineers - you will be expected to make systems-level decisions as we roll out our first product.</p><p>Our ideal candidate is passionate about both working close to the hardware and pushing silicon and software to its limits. They will have deep experience in bare-metal / systems-level software, PCB bring-up, and programming in both high and low-level languages, with a strong software engineering or electrical engineering background. They will be fluent in C, C++, and Python, and they value good coding practices including versioning, reviews, and testing. They see joining our team as an early engineer as a leap that will accelerate growth in their career by entrusting them with a high degree of autonomy, responsibility, and visibility.</p><p>To excel in this role, you will have worked on high-performance compute platforms in the past (for example, FPGAs + SoCs, GPUs) and have had experience debugging and testing hardware. You should be comfortable writing performant programs, pursuing testability and maintainability in software development, and enjoy working with teammates that have hardware expertise and high-level software expertise.</p><p><br></p><p><strong>\ud83d\udcdd Responsibilities</strong></p><ul><li>Design and develop high-throughput, highly-optimized software and firmware</li><li>Architect software systems and interfaces with high-reliability and maintainability</li><li>Develop and build applications within real-time operating systems</li><li>Support hardware engineers with hardware bring-up, debugging, and testing</li><li>Develop drivers across high-level and low-level software interfaces</li><li>Support applications software engineers with data ingestion and processing</li><li>Propose future software development efforts</li><li>Maintain comprehensive architecture &amp; design documentation</li></ul><p><br></p><p><strong>\ud83c\udfc5 Qualifications</strong></p><ul><li>Minimum 2 years of industry experience</li><li>Strong foundations in computer architecture and code performance</li><li>Strong hands-on lab skills for characterization, testing, and debug</li><li>Deep experience with (and intricate knowledge of) C, C++, and Python</li><li>Experience with (Real-Time) Operating Systems</li><li>Experience with Parallel Computing, High Speed Compute</li><li>Experience with Serial Interfaces, Ethernet, Networking</li><li>Familiarity with safety-critical / real-time applications (Avionics / Medical / Automotive) a plus</li><li>Familiarity with FPGAs and SoC platforms (preferably Xilinx) a plus</li><li>Familiarity with GPU Programming / CDUA a plus</li><li>Familiarity with Verilog / VHDL / System Verilog a plus</li><li>Familiarity with formal methods and verification a plus</li></ul><p><br></p><p><strong>\ud83c\udf34 Benefits</strong></p><ul><li>Health Insurance (Medical, Dental, Vision)</li><li>401(k) w/ Employer Matching</li><li>Employee-Friendly Stock Grants</li><li>Generous (but intentionally not unlimited!) PTO</li><li>... and more!</li></ul><p><br></p><p><strong>\ud83d\udc4b About Us</strong></p><p>Red Leader is building the world's first software-defined HD lidar. We're creating a new sensing modality that breaks through industry-wide barriers resulting in 100x better point density while being scalable for manufacturing and tunable in software. Our fundamentally new architecture comes from our extensive backgrounds in optical communications, advanced digital signal processing, and cutting-edge compute.</p><p><br></p><p>We're looking for new team members with strong technical execution chops and a commitment to learning whatever skills are needed to get the job done. We run a people-first company and need someone who will be equally committed to a culture of care, excellence, and growth. We aim to compensate competitively, offer generous benefits, and invest in personal and professional development for everyone we bring into the Red Leader team.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:15:57.000Z"
+  },
+  "company": {
+    "name": "Red Leader Tech",
+    "link": "https://www.linkedin.com/company/red-leader-tech"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

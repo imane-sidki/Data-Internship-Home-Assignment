@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Internet,Retail",
+    "description": "The Staff Machine Learning Engineer will set the technical direction of their team to build and deploy machine learning solutions. They will work closely with Product and Engineering partners in the development of the solution.<br><br><strong><u>What You Get To Do Every Day<br></u></strong><ul><li> Design and test machine learning models to create highly accurate systems used in operations </li><li> Write production quality code </li><li> Take ownership of key components, ensuring that they meet the needs of the business. </li><li> Collaborate with senior management, product management, and other engineers in the development of product </li><li> Mentor team members to build the company\u2019s overall expertise </li><li> Work to make The RealReal an innovator in the space by bringing passion and new ideas to work every day <br></li></ul><strong><u>What You Bring To The Role<br></u></strong><ul><li> Quantitative degree </li><li> 5+ years experience in building and evaluating machine learning &amp; deep learning models </li><li> 5+ years experience putting machine learning models into production </li><li> 2+ years experience designing computer vision models in a commercial setting </li><li> Experience with big data tools (Apache Beam, Spark, etc) </li><li> Experience with cloud technologies such as AWS/GCP </li><li> High degree of familiarity with: Sklearn, Tensorflow/Keras, Pytorch </li><li> Fluency in Python <br></li></ul>The RealReal is the world\u2019s largest online marketplace for authenticated, resale luxury goods, with more than 20 million members. With a rigorous authentication process overseen by experts, The RealReal provides a safe and reliable platform for consumers to buy and sell their luxury items. We have hundreds of in-house gemologists, horologists and brand authenticators who inspect thousands of items each day. As a sustainable company, we give new life to pieces by thousands of brands across numerous categories\u2014including women's and men's fashion, fine jewelry and watches, art and home\u2014in support of the circular economy. We make selling effortless with free virtual appointments, in-home pickup, drop-off and direct shipping. We do all of the work for consignors, including authenticating, using AI and machine learning to determine optimal pricing, photographing and listing their items, as well as handling shipping and customer service. At our 13 retail locations, including our eight shoppable stores, customers can sell, meet with our experts and receive free valuations.<br><br>The RealReal is committed to providing an equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or Veteran status. We will consider qualified applicants for a position regardless of arrest or conviction records, consistent with legal requirements.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T04:09:23.000Z"
+  },
+  "company": {
+    "name": "The RealReal",
+    "link": "https://www.linkedin.com/company/the-realreal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63400,
+    "max_value": 126000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

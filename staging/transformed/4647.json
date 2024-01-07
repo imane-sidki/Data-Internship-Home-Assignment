@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Retail",
+    "description": "<p>The Principal Software Engineer is our top expert responsible for end-to-end software solutions, from strategy to implementation and ongoing improvements. The role has complete domain accountability including identification and resolution of intricate issues, maturing and improving current solutions, and acting as a technical go-to person for business partners and software engineers alike. The Principal will collaborate with peers and senior leadership, influencing the organization to develop the next generation of products for Coinstar. This is a multifaceted and highly technically position requiring skills from architectural proficiency to hands-on software development.</p><p><br></p><p><strong>What you'll do:</strong></p><ul><li>Drive collaboration across the business to address functionality and performance of software.</li><li>Translate business requirements into software development, providing technical direction to achieve Service Oriented Architecture (SOA) principles in building full-stack software solutions.</li><li>Responsible for coordinated oversight of projects through the full Software Development Lifecycle (SDLC), from requirements and specifications, to design, project plans, testing, and deployment.</li><li>Oversee vendors and enterprise Service Level Agreements (SLAs), keeping partners current on tools and processes, driving improvements, and advancing issues to resolution.</li><li>Responsible for all software documentation, including tool and process guidelines, owning accuracy and organizational awareness.</li><li>Inspire, coach, and mentor, team members on standard methodologies and alignment to policy, including team-level attainment of velocity and productivity goals in project and time tracking tools.</li><li>Work within constraints of existing technology stack, while leading continuous improvement initiatives.</li><li>Participate in company long-range planning sessions, collaborating on technology vision and taking personal responsibility across the larger organization to ensure alignment with business goals.</li><li>Remain current with emerging technologies, influencing the future Coinstar landscape.</li><li>Role model Coinstar Competencies, holding self and others accountable.</li></ul><p><br></p><p><strong>What you'll bring:</strong></p><ul><li>Bachelor\u2019s Degree in Computer Science or related technical field.</li><li>12+ years full-stack development experience, designing and delivering scalable, enterprise software solutions.</li><li>Proficiency in C#, .NET, .NET Core</li><li>Experience or familiarity with Ruby on Rails, Java, and Python are a plus.</li><li>Experience with SQL and NoSQL databases</li><li>Web service technologies (e.g. .Net Web API, Rails, XML, HTML, IIS)</li><li>Cloud computing experience such as, Azure, AWS, Google Cloud, or similar.</li><li>Experience with containerization and running production workloads on containers such as Docker or Kubernetes</li><li>Experience with Continuous Integration (CI) tools such as TeamCity or Jenkins.</li><li>Experience developing to SOA and SaaS principles and design patterns.</li><li>In-depth knowledge of SDLC methodologies (Agile, Waterfall, Scrum etc.)</li><li>Expert in web service, database test automation, and unit test level TDD.</li><li>Strong organizational, multi-tasking, and problem solving skills, both within and across teams. </li><li>Ability to lead and mentor team members.</li></ul><p><br></p><p>We believe that continued good health, financial security and work-life balance are important.We offer a complete, progressive benefits package including an outstanding healthcare plan, 401k match (immediately vested), generous paid time-off, paid parental and adoption leave, corporate matched giving, and more.In addition, we have a casual and flexible work environment with work from home options.</p><p><strong>EEO Statement</strong></p><p>We are Coinstar because of our people. We value and embrace their unique and diverse talents, perspectives and experiences and strive to build an environment where each individual can bring their best self to work. We are an Equal Opportunity Employer. Coinstar will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed, please contact our Human Resources team via AskHR@coinstar.com. We believe diversity and inclusion makes us a better, more innovative and successful company, and we seek to recruit and retain a diverse talent pool. Even if you do not meet every qualification, we encourage you to apply.</p><p>This job description is not intended to be all-inclusive. Other responsibilities may be assigned to meet the ongoing needs of the organization.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:01:30.000Z"
+  },
+  "company": {
+    "name": "Coinstar",
+    "link": "https://www.linkedin.com/company/coinstar"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "United States",
+    "postal_code": "98925",
+    "street_address": null,
+    "latitude": 47.411373,
+    "longitude": -120.556366
+  }
+}

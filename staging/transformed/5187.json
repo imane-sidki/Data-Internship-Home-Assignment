@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "REMOTE Lead Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "If you are a Lead Site Reliability Engineer with experience, please read on!<br><br>Top Reasons to Work with Us<br><br>Our mission is to replace classic college-level textbooks, homework, and lab assignments with interactive and animated online textbooks that allow instructors to modify content and monitor student participation/performance. Currently, we are used in over 600 universities by over 4500k students and offer the excitement of a young, energetic startup environment with a masterfully engineered platform and high-demand content for the STEM college market.<br><br>What You Will Be Doing<br><br>As the Lead Site Reliability Engineer on our team, you will be responsible for creating and owning production infrastructure and services. This infrastructure includes multiple Kubernetes clusters, CI/CD solutions, and deployment of security tooling to protect student data. You will be critical in the scaling of our educational products to hundreds of thousands of students.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Hands on work with production Kubernetes clusters. Upgrades, deployment, network/configuration, tooling, etc.</li><li> Own the infrastructure projects end-end</li><li> Build observability into our applications to monitor and self-heal</li><li> Work directly with application engineers to support, enhance, and maintain end-to-end CI/CD test driven deployment pipelines.</li><li> Improve internal and external security infrastructure, audit trails, etc.<br></li></ul>What You Need for this Position<br><br><strong><u>Must Have<br></u></strong><ul><li> BS in related field OR equivalent professional experience</li><li> 5+ years of site reliability engineering experience in a production Kubernetes environment</li><li> Team leadership experience</li><li> Programming: Python, Go, or Java</li><li> Distributed Systems experience</li><li> AWS infrastructure</li><li> DevOps tools: docker, terraform, helm<br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li> Infrastructure-as-code</li><li> cyber-security experience<br></li></ul>What's In It for You<br><ul><li> Competitive Salary DOE</li><li> Comprehensive Benefits Package</li><li> Very Flexible Hours</li><li> Generous PTO</li><li> 401K</li><li> Remote work<br></li></ul>So, if you are a Lead Site Reliability Engineer with experience, please apply today!<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Kurt.Holzmuller@Optello.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : KH4-1643257 -- in the email subject line for your application to be considered.***<br></li></ul>Kurt Holzmuller - Associate Manager - Optello<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>Optello is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T13:09:55.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Gatos",
+    "region": "CA",
+    "postal_code": "95030",
+    "street_address": null,
+    "latitude": 37.22134,
+    "longitude": -121.97964
+  }
+}

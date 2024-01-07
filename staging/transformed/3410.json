@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<p><strong>RESPONSIBILITIES</strong></p><ul><li>Work with leaders from Data Science, Product, and Engineering to solve customer challenges with advanced data analysis and machine learning</li><li>Partner with software engineering to deliver automated, optimized pipeline for production products</li><li>Write scalable Python code in a cloud environment</li><li>Optimize code for large data sets</li><li>Identify innovative ways to optimize the application development process</li></ul><p><br></p><p><strong>QUALIFICATIONS FOR THIS JOB</strong></p><ul><li>Bachelors, Masters, or PhD in a quantitative field such as Statistics, Computer Science, Economics, or Mathematics</li><li>3 to 5 years of industry experience in predictive modeling, data science, and analysis</li><li>Strong expertise in Python, SQL, and related data science tools</li><li>Experience with Google Cloud &amp; AI platform</li><li>Knowledge of Git or other version control tools</li><li>Familiarity with APIs</li><li>Experience in insurance or financial services is a plus</li><li>Strong analytical and problem-solving skills with an exploratory, curious mindset.</li><li>Relevant successful professional industry experience</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T21:40:45.000Z"
+  },
+  "company": {
+    "name": "Quest Groups LLC",
+    "link": "https://www.linkedin.com/company/quest-groups"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

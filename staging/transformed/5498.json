@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (.NET)",
+    "industry": "Accounting,Financial Services,Information Technology and Services",
+    "description": "<ul><li>Are you passionate about .NET technology?</li><li>Are you a team builder, a team player, a leader extraordinaire?</li><li>Do you find yourself constantly looking for ways to do better, be better and build better software?</li><li>If yes to all, we would like to talk to you!</li></ul> <strong>Responsibilities:<br></strong><ul><li>Design, develop and deliver code that is necessary to support new feature developments and enhancements in an agile environment</li><li>Work closely with our derivative and risk teams to integrate best practices in the development of analytical tools and processes.</li><li>Work extensively with large data sets and have the ability to optimize and create efficient data models and SQL queries for performance. </li><li>Interface with 3rd party data vendors to consume 3rd Party APIs</li><li>Effectively communicate and document the application architecture, utilizing industry standards as part of a team.</li><li>Deliver unit tests with all code to prove correctness, robustness, and scalability</li></ul> <strong>Qualifications: <br></strong><ul><li>A minimum of 5 years software development experience</li><li>Experience with REST API, Web APIs, RESTFUL Web Services</li><li>Experience with C#, MS SQL, JavaScript</li><li>Strong experience in one or more of the following technologies: ASP.NET MVC, Web API</li><li>Experience with modern UI web development i.e. , Angular, Typescript</li><li>Strong experience with SQL Server and database design</li><li>Knowledge of GPU/CUDA programming and programming for and deploying applications on the cloud is preferred.</li><li>Knowledge of SOLID principles is preferred</li></ul> <strong>Salary: </strong>$115.000 - $125,000<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:11:36.000Z"
+  },
+  "company": {
+    "name": "Allied OneSource",
+    "link": "https://www.linkedin.com/company/allied-onesource"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81400,
+    "max_value": 138000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Des Moines",
+    "region": "IA",
+    "postal_code": "50265",
+    "street_address": null,
+    "latitude": 41.575504,
+    "longitude": -93.71303
+  }
+}

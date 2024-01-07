@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong>About the Role: <br><br></strong><em><li>This fully remote role is open to candidates in <strong><em>most</em></strong><em> states. Working remotely from a primary residence outside the United States is currently not permitted for this role.*<br><br></em>We are seeking a highly analytical and creative person to help us understand our customers and our business through data. You will have the opportunity to dig into data to better understand how customers use our product. You will work closely with teams across the company to build your findings into automated models and reports that improve both our provider and consumer experiences.<br><br>We are a small, fast-moving team that supports high-impact company initiatives, including customer-facing models and deep-dive analyses that inform business strategy. We're looking for someone who thrives in a fast-paced environment, excels at tackling ambiguous problems with rational and structured thinking, and is eager to learn and apply new techniques to solve whatever issues arise. If you are excited about using your quantitative and data expertise to help support informed and assured results, join us to have an immediate impact on a fast-growing team.<br><br><strong>In this role, you will:<br><br></strong><ul> <li>Explore and analyze complex data sets, and use statistical and predictive modeling techniques to build data products and analytical solutions that deliver actionable insights and answer key business questions.</li> <li>Proactively identify opportunities where data science can be used to enhance and augment existing solutions to improve our product and impact different areas of the business.</li> <li>Partner with other teams to create tools, reports, or product features that allow learnings or recommendations from the data to empower both internal stakeholders and customers to make better, data-driven recommendations.</li> <li>Work with various stakeholders within the company to refine and teach the use of tools you have built and present findings to a broad audience of technical and non-technical co-workers, from other data scientists to executives.</li> <li>Automate, streamline, and document new and existing data processes and models to build robust, reusable, and scalable solutions.</li> <br><br></ul><strong>You may be the right fit if you have:<br><br></strong><ul> <li>4+ years of <strong>analytical experience</strong> (including experience gained as part of postgraduate education). </li> <li>3+ years of experience using <strong>Python/R</strong> and writing clear, functional, and well-documented code.</li> <li>3+ years of experience using <strong>SQL</strong>.</li> <li>Deep understanding of <strong>statistical concepts</strong> like hypothesis testing, statistical significance, and probability distributions.</li> <li>Hands-on experience applying <strong>modern machine learning techniques</strong> (e.g., regression, classification, dimensionality reduction, and clustering algorithms) to real-world data.</li> <li>Strong <strong>communication skills</strong>, as well as written and verbal presentation skills.</li> <li>Strong <strong>business acumen</strong> and ability to translate business problems into data science problems that can be tackled with machine learning. </li> <br><br></ul><em><strong>Highly desired, but not required:<br><br></strong></em><ul> <li>Experience with e-commerce or web analytics.</li> <li>Experience with time-series/forecasting and/or linear programming.</li> <li>Experience with Amazon SageMaker.</li> <li>Familiarity with data visualization tools like Looker or Tableau.</li> <br><br></ul><strong>Travel<br><br></strong>Is not anticipated for this role.<br><br><strong>Work Environment:<br><br></strong>RealSelf employees work from 26 states in the United States; while we have offices in Seattle, Washington we are a remote-first company.<br><br><em>This fully remote role is open to candidates in <strong>most</strong> states. Working remotely from a primary residence outside the United States is currently not permitted for this role.<br><br></em>We believe in inclusiveness, equal pay, and giving back. With COVID-19 we have become a more remote and distributed workforce that understands the value of internal connections and collaboration across all teams.<br><br><strong>About RealSelf:<br></strong>RealSelf.com is the leading consumer destination in the $32B US medical aesthetics market. We make it easy to get the information and deep support needed to make confident purchase decisions. Since 2006 our authentic stories, unbiased ratings, and expert answers from board-certified doctors have helped millions of people explore treatments and decisions that range from laser skin resurfacing to highly considered cosmetic surgery. With the backing of world-class investors we're growing RealSelf into a global business with a broad range of services. Come join our super talented and passionate team!<br><br>Check out our RealSelfLife Instagram account to learn more about life at RealSelf.<br><br>RealSelf is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status.</li></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T05:12:14.000Z"
+  },
+  "company": {
+    "name": "RealSelf",
+    "link": "https://www.linkedin.com/company/realself-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91600,
+    "max_value": 199600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer in Test - Platform Quality",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Do you have a strong interest in low level firmware and technology? A desire to work on complex software features, driving a high standard of quality into Apple's products? <br><br><br>The Core OS Platform Enablement organization is looking for a talented and passionate software engineer to join the Platform Quality engineering team. As a critical member of the team, you will be focusing on software technologies in low-level firmware and Apple silicon domains. Tightly integrated within the development team, your responsibilities will span across all phases of software delivery of Apple's products, from early design to product launch and beyond. You'll become intimately familiar with one or more major technologies, taking on responsibilities of test, framework and tool development, along with influencing design decisions.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience in software development and test<br><br>Skilled in testing embedded systems and firmware<br><br>Familiarity with computer architecture and operating systems concepts<br><br>Demonstrate strong critical thinking, debugging and troubleshooting skills<br><br>Excellent collaborative and communication skills<br><br>Knowledge of C / C++ and Python programming<br><br> <br><strong>Description<br></strong> <br>Devise a testing strategy for one or more major SOCs and products, focusing on low-level firmwares, silicon features, and boot loader technologies<br><br>Gain a deep understanding of the design, requirements and architecture<br><br>Influence inclusion of testability into the software design <br><br>Develop and automate unit, functional and system-level tests <br><br>Define and drive quality metrics to track progress and improvements<br><br>Collaborate cross-functionally with peer test, QA and validation teams <br><br>Assess and represent end-user impact of issues, shaping key product decisions<br><br>Explore novel approaches to create new test frameworks, automation and infrastructure to streamline testing<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\u2019s degree in CS, CE, EE or equivalent industry experience<br><br> <br><strong>Additional Requirements<br></strong> <br>Familiarity with low-level firmware concepts<br><br>Exposure to HW bring-up<br><br> <br>Role Number: 200230728<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T03:42:54.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

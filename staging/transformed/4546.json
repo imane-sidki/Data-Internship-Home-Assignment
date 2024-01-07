@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Entertainment",
+    "description": "<strong><u>Company Overview<br><br></u></strong>WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world\u2019s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.<br><br>HBO Max is where storytelling takes center stage and where creatives find a home with the support and resources to do their best work, no matter the genre or format. Whatever the viewer wants to watch is front and center and more of what they crave is easily discovered. It is where our exclusive HBO Max Originals and iconic entertainment brands thrive, with HBO, Warner Bros., DC, Turner Classic Movies, Cartoon Network and more delivering the greatest array of series, movies and specials for audiences of all ages. HBO Max launched in the US in May 2020 and will launch in Latin America and Europe during 2021.<br><br>Join us. Shape your story here.<br><br><strong>HBO Max is the future of entertainment and storytelling.<br><br></strong>WarnerMedia\u2019s streaming entertainment offering, HBO Max launched in May 2020 and is the culmination of some of the most innovative new technology and greatest creative talent in the industry. Anchored by the entire HBO service, arguably the greatest brand in television, HBO Max also features fan favorites from the WarnerMedia library including Warner Bros., New Line, DC, CNN, TNT, TBS, truTV, Turner Classic Movies, Cartoon Network, Adult Swim, Crunchyroll, Rooster Teeth, Looney Tunes, and more. HBO Max is home to key third-party library acquisitions such as Friends, South Park and Doctor Who, and more than 50 exclusive Originals in its first year, from the likes of groundbreaking creative talent such as J.J. Abrams, Ridley Scott, Jordan Peele, Steven Soderbergh, Michael Mann, Mindy Kaling, Reese Witherspoon, Anna Kendrick, Greg Berlanti, Melissa McCarthy, Robert Zemeckis and other visionaries. Find out more information at HBOMax.com.<br><br><strong>The Job<br><br></strong>We power the most critical HBO Max user experience - watching video - across all mobile, desktop, and connected devices. The Core Media Engine bridges the gap between cross-platform UI and platform-specific video playback. The next generation of our Core Media Engine will go deeper with platform-optimized video streaming, buffering, and rendering, using state of the art techniques to provide the best possible video quality.<br><br>As a Software Engineer on WarnerMedia\u2019s Core Media Engine team, you will build and support client-side components for our streaming video applications including the upcoming HBO Max service. You will own client-side video from the network to glass, including video profile selection, digital rights management and licensing, rendering, telemetry and on-the-fly stream optimization. You will interface with the appropriate low-level systems on each platform to build the best possible streaming experience for our customers. You will join a growing team with many opportunities to expand your skillset, including your ability to design, implement and own critical features in a product used by millions of customers. You will have access to experienced engineers as mentors and technical resources.<br><br><strong>The Daily<br></strong><ul><li>Work with the latest streaming media technologies and video capabilities</li><li>Learn to evaluate multiple technical approaches and drive consensus with peers</li><li>Use data to solve real world problems and improve customer experience, including prioritization of incoming issues reported by customers, partners, and internal QA<br></li></ul><strong><u>The Essentials<br></u></strong><ul><li>A strong understanding of Computer Science fundamentals, including algorithms, data structures, and operating systems</li><li>Fluency in a modern programming language, ideally Java, Swift, or TypeScript</li><li>Be a quick learner that can leverage surrounding resources to solve problems</li><li>Experience with streaming video delivery or playback</li><li>Passion for software engineering with a strong sense of ownership for the code that you and your team write, and a desire to become an expert in client-side video technology</li><li>Seek self-improvement and adapt to suggestions and feedback</li><li>Hold yourself and your team to high standards while maintaining respectful relationships</li><li>Ability to provide periodic on-call support for critical emergent customer-facing issues</li><li>Bachelor\u2019s degree in an engineering or science-related discipline or 2+ years of experience in software engineering on shipped consumer products or platforms</li><li>DevOps experience, where you\u2019ve owned and operated the systems you\u2019ve developed</li><li>Full-stack industry experience, or hands-on familiarity with both client and server technology<br></li></ul><strong>The Nice to Haves<br></strong><ul><li>Media technology (e.g. ExoPlayer, AVFoundation, HTML5 video)</li><li>Streaming technology (e.g. DASH, HLS)</li><li>DRM systems (e.g. FairPlay, Widevine)</li><li>Device platforms (e.g. Android, iOS, tvOS)</li><li>User experience telemetry<br></li></ul><strong>The Perks<br></strong><ul><li>Exclusive WarnerMedia events and advance screenings</li><li>Paid time off every year to volunteer for eligible employees</li><li>Access to well-being tools, resources, and freebies</li><li>Access to in-house learning and development resources</li><li>Part of the WarnerMedia family of powerhouse brands<br></li></ul>Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:50:17.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

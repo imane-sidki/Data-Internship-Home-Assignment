@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong>Role<br><br></strong>Tesla is looking for a strong Software Engineer to design and develop software for its current and next generations of Business Systems Applications. This position will be working with the Software Engineering team in Fremont, CA.<br><br>The team will build the system used to supply material to the distribution and service centers. It will be built with the long-term vision of being a global system to manage warehouses for all Tesla business operations, which includes Vehicle Service and Energy Products. This will be a business-critical system essential to support the growth and mission of Tesla. The candidate will be working in Go, Angular, React, and MySQL.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Design, implement and deliver end-to-end fully functional solutions.</li> <li>Contribute relevant, clean, concise quality documentation to Tesla\u2019s knowledge base to support increase organizational information sharing.</li> <li>Automating your repetitive development tasks.</li> <li>Evangelize best practices in Software development and Software development lifecycle.</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>B.S. degree in Computer Science, IT or related fields</li> <li>4+ years in Application Development</li> <li>RESTful API Design &amp; Implementation</li> <li>Experience with Automated Testing</li> <li>Web Frontend Development, using tools such as JavaScript, Angular, React, etc.</li> <li>Backend Development, using tools such as Go, Java, Ruby, etc.</li> <li>Database knowledge such as MySQL, Oracle, Postgres etc. </li> <li>Experience working on business services software or enterprise software</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T07:44:07.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

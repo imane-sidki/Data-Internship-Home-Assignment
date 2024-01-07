@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>JOB DESCRIPTION</strong></p><p><br></p><ul><li>Apply advanced machine learning, deep learning and NLP/NLU techniques to build cutting edge AI applications</li><li>Use effective text representation techniques to develop useful features</li><li>Write production-ready code in Python, applying coding and OOP best practices</li><li>Develop and deliver software using Python and various AI related libraries, applying the corporate SDLC and support continuous integration and continuous deployment of the micro-services. Use containerization, orchestration, DevOps for faster delivery and easier maintenance</li><li>Define and implement evaluation strategies for each required functionality, demonstrate applicability and performance of the delivered application, and communicate clearly on its limits</li><li>Collaborate with the various teams,present plans, ideas and deliverables.</li></ul><p><br></p><p><strong>Job Qualification:</strong></p><p></p><ul><li>Bachelor\u2019s degree in computer science, mathematics, or related field</li><li>At least one year of experience as a natural language processing engineer</li><li>Knowledge of data structures, semantic extraction, and modelling</li><li>Knowledge of text representation (e.g., n-grams, sentiment analysis, bag of words, etc.)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T14:21:08.000Z"
+  },
+  "company": {
+    "name": "Wipro Limited",
+    "link": "https://in.linkedin.com/company/wipro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

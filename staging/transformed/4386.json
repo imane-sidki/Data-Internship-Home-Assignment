@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Wireless protocol Test Engineer",
+    "industry": "",
+    "description": "Wireless Protocol Test Engineer is responsible for<br>\u2022 Creating Protocol test scenarios ( UMTS+LTE) across all the procedure that comply to 3GPP and Carrier requirements<br>\u2022 Able to identify the User experience KPIs and tests based on the product specification<br>\u2022 Debug latencies in various layers in protocol stack, Hardware interface that impact the power and performance<br>\u2022 Identifying the KPIs that will impact the power and performance and define test methods to uncover the issues. Define details test plans and approach for testing, developing test tools to achieve the same.<br>\u2022 Windows User mode and kernel mode driver knowledge for networking devices ( Wi-Fi, LTE)<br>\u2022 Plan the test approach and scope, write test cases, execute test cases, record and manage defects<br>\u2022 communicate issues with greater detail and help development teams to easily understand fix issues faster or assess the level of risk<br> <br>Qualification<br>\u2022 Minimum of 3 years\u2019 experience in Cellular protocol stack testing ( WCDMA and LTE) , preferably on Windows OS<br>\u2022 Hands-on experience and Expert knowledge of 3GPP ( UMTS & LTE) Layer 2 and Layer 3 protocol and call processing , testing and creating test cases using equipment such as Anritsu 8475, CMW 500, Keysight performance and conformance systems and conformance equipment .<br>\u2022 Good knowledge on the 3G/4G protocol debugging tools debug lab and field issues on connectivity, data throughout<br>\u2022 Ability to reproduce the field problems by creating simulated test cases on the any of the above test equipment<br>\u2022 Working knowledge of Windows UMDF/KMDF Drivers for Modems preferably USB based modem over MBIM Protocol, NDIS mini port drivers<br>\u2022 Hands-on Experience in executing and debugging carrier test cases such as AT&T, Verizon across various specifications.<br>\u2022 Automation level coding experience in C# , Python and power shell scripting. Test automation using Anritsu ( SSM ) Keysight ( TAP )<br>\u2022 Good understanding of the Mobile Operators requirements and approval process.<br>\u2022 Self-motivation to learn new features and technologies and deliver high quality results.<br> ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:05:42.000Z"
+  },
+  "company": {
+    "name": "Blackapple Solutions LLC",
+    "link": "https://www.linkedin.com/company/blackapplesolutionsllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

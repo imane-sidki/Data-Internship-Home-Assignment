@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>Job Title: </strong> Machine Learning Software Engineer, Lead Software Engineer, ML/AI Engineer, Senior Software Engineer<br><br><strong>Job Location: </strong> Boston, MA preferred, but remote is okay<br><br><strong>Job Salary: </strong> Flexible and DOE (target $150-185k base)<br><br><strong><u>Requirements<br></u></strong><ul><li> 5+ years Software Engineering experience</li><li> 3+ years Machine Learning and AI experience</li><li> 3+ years Cloud platform experience</li><li> Strong Python Development experience</li><li> Strong knowledge of data structures and algorithms<br></li></ul>You will have the opportunity to work on challenging Machine Learning and AI projects with the goal to improve the everyday life of our members. As a SR/Lead, you may direct a small team of engineers. You will collaborate with data science, analyst, business and IT teams to design, implement, and deploy Machine Learning and AI services using Python, PySpark, Azure services, Databricks, Terraform, and other open-source software. You will be expected to lead by example, develop plans, designs, code, and documentation, and perform code reviews, testing, and debugging. You will embrace and enforce best practices in our data science community with automated, repeatable data pipelines.<br><br>What You Will Be Doing<br><ul><li> Creating templates for data scientists, embracing leading-edge modeling techniques</li><li> Establishing a Feature Store with tens of thousands of features available to use in predictive models</li><li> Defining monitoring, auditing, data lineage, and dependency tracking for data pipelines to improve quality</li><li> Integrating ethical AI bias monitoring and drift analysis into modeling processing</li><li> Standardizing the definitions of clinical, financial, and actuarial features for use across the business</li><li> Some tools we utilize: Python, Pyspark, Azure Databricks, Azure Data Factory, Azure DevOps, Kubernetes, CosmosDB, Kafka, Pulsar, Terraform, SciKit Learn, SparkML, Tensorflow, Horovod, Petastorm...<br></li></ul>What You Need for this Position<br><ul><li> Ability to build and deploy ML models on Azure.</li><li> Understand best practices for effective predictive models, including cluster management and algorithms.</li><li> Ability to thrive in a fast-paced agile environment.</li><li> Ability to collaborate with team members and coach/mentor junior team members.<br></li></ul>So, if you are a Machine Learning Engineer with experience, please apply today!<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Kyle.Martin@Optello.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : KM3-1642533 -- in the email subject line for your application to be considered.***<br></li></ul>Kyle Martin - Recruiting Manager - Optello<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>Optello is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T15:03:44.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

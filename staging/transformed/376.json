@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Marketing Sr Data Scientist",
+    "industry": "Financial Services",
+    "description": "<strong>Employee Applicant Privacy Notice<br><br></strong><strong><u>Who We Are<br><br></u></strong>Shape a brighter financial future with us.<br><br>Together with our members, we\u2019re changing the way people think about and interact with personal finance.<br><br>We\u2019re a next-generation fintech company using innovative, mobile-first technology to help our 2+ million members reach their goals. The industry is going through an unprecedented transformation, and we\u2019re at the forefront.<br><br>We\u2019re proud to come to work every day knowing that what we do has a direct impact on people\u2019s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world. <br><br></strong><strong><u>Description<br><br></u></strong>As a Marketing Data Scientist @ SoFi, you will be subject matter expert on the user journeys and flows as part of the onboarding experience in becoming a SoFi member, our internal data pipelines as well as our marketing datasets. You will also contribute to building machine learning (ML) models and solutions that touch on attribution, forecasting, and budget allocation across our marketing channels such as Programmatic, Social, Search, Lifecycle, Television and Out of Home that enable SoFi to grow at scale efficiently.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>The key goal for this person will be to apply modeling techniques relevant to media mix modeling (MMM) optimization and multi-touch attribution (MTA) to our marketing efforts to connect the impact of marketing activities on business outcomes.</li> <li>Build and deploy models that enable marketers to allocate budgets to various channels in order to drive cross-channel optimization by product and by business objectives.</li> <li>Continue to enhance models as additional data points become available through iterative improvements to instrumentation and Martech initiatives.</li> <li>Develop models that drive personalization for member interactions on owned and paid marketing channels.</li> <li>Contribute to defining a set of SoFi attributes that will enable marketers to create and activate audiences through paid and owned channels. </li> <li>Establish processes and champion tool development to enable building ML models at scale.</li> <br><br></ul><strong><u>Minimum Qualifications<br></u></strong><ul> <li>Master's Degree or Ph.D. in Computer Science, Statistics, Operations Research, Engineering, Mathematics, or a related quantitative field.</li> <li>At least 3 years of experience with a proven track record of end-to-end experience in model development, testing, implementation, and performance tracking</li> <li>Experience with machine learning and statistical modeling methods for supervised and unsupervised learning.<br>These methods include (but not limited to) regression analysis, clustering, outlier detection, novelty detection, decision trees, collaborative filtering, nearest neighbors, support vector machines, ensemble methods and boosting, neural networks and deep learning, feature selection, and factorization methods and NLP.</li> <li>Write production-quality code in Python, Scala and/or R</li> <li>Strong knowledge of databases and related languages/tools such as SQL, NoSQL, Hive, etc</li> <li>Experience in deploying and operating machine-learned models on low latency, high-throughput systems such as DataBricks, AWS Sagemaker, Azure and GCP.</li> <li>Ability to work in a dynamic, cross-functional environment, with strong attention to detail</li> <li>Effective communication skills and ability to explain complex models to a diverse audience with varying technical backgrounds.</li> <li>Experience building models to optimize advertising performance and lifecycle marketing is preferred</li> <li>Familiarity with Google Marketing Platform (Adwords, Search Ads 360, DV360, Analytics), Facebook as well as other Social Media and Programmatic advertising platforms.</li> <br></ul>#IB-1<br><br><strong><u>Why You\u2019ll Love Working Here<br></u></strong><ul> <li>Competitive salary packages and bonuses</li> <li>Comprehensive medical, dental, vision and life insurance benefits</li> <li>Generous vacation and holidays</li> <li>Paid parental leave for eligible employees</li> <li>401(k) and education on retirement planning</li> <li>Tuition reimbursement on approved programs</li> <li>Monthly contribution up to $200 to help you pay off your student loans</li> <li>Great health &amp; well-being benefits including: telehealth parental support, subsidized gym program</li> <li>Employer paid lunch program (except for remote employees)</li> <li>Fully stocked kitchen (snacks and drinks)</li> </ul><li>These benefits are only applicable to full time employees<br><br></li>SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.<br><br>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:01:21.000Z"
+  },
+  "company": {
+    "name": "SoFi",
+    "link": "https://www.linkedin.com/company/sofi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

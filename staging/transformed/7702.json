@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Backend",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Foursquare is the leading independent location technology company, powered by our deep understanding of how people move throughout the world. Our solutions help businesses make smarter decisions, developers create more engaging experiences, and brands build more effective marketing strategies.<br><br>Foursquare\u2019s platform includes Attribution, Audience, Proximity, Places, Pilgrim SDK and Visits. As the industry\u2019s first and only accredited company for location data from the Media Rating Council (MRC), this foundation powers all our solutions \u2014 those that exist today and those we have yet to build. Over 14 billion consumer-verified place visit confirmations help us keep our map and models fresh and up-to-date, building a phone\u2019s-eye-view of the world with 105 million unique places of interest worldwide.<br><br><strong><u>About The Team<br><br></u></strong>Los Angeles teams contribute to our Places, Audience, Proximity, and Visits products. Our teams help to build data processing infrastructure to derive insights from billions of location data points every day. In this role, you will ship products with high visibility and of strategic importance to Foursquare, and contribute directly to revenue. Help us build and collaborate with Product, Engineering, and Data Science teams to create tools and processes to bring research and machine learning models to production.<br><br><strong>Our Tech Stack<br></strong><ul><li>Languages: Java, Scala, Python, Clojure, Ruby</li><li>Tools for pipeline orchestration: Airflow, Luigi</li><li>Frameworks: Spark, MapReduce, Scalding, Spring Boot</li><li>Infrastructure: AWS, Hadoop, Kubernetes, Docker</li><li>Other technologies: Postgres, Hive, HBase, MongoDB<br></li></ul><strong><u>Responsibilities Of The Role<br></u></strong><ul><li>Influence key decisions on architecture and implementation of scalable data processing and analytics structure.</li><li>Work with the Data Science team to bring machine learning models into production.</li><li>Build Hadoop MapReduce and Spark processing pipelines.</li><li>Focus on performance, throughput, and latency, and drive these throughout our architecture.</li><li>Write test automation, conduct code reviews, and take end-to-end ownership of deployments to production.</li><li>Write, deploy, and monitor services for data access by systems across our infrastructure.</li><li>Participate in on-call rotation duties.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>BS/BA in a technical field such as computer science or equivalent experience.</li><li>0-3 years of experience in software development working with production level code.</li><li>Proficiency in one or more of the programming languages we use.</li><li>Excellent communication skills, including the ability to identify and communicate data-driven insights.</li><li>Strong algorithms and data structures knowledge.</li><li>Comfort with Unix/Linux and the command line.<br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li>Experience with Hadoop MapReduce and/or Spark data processing pipelines, and machine learning technologies.</li><li>Experience with relational or document-oriented database systems.</li><li>Prior software internship experience.<br></li></ul><strong><u>Perks And Benefits<br></u></strong><ul><li>Learning and development programs from ICs to managers</li><li>Individual, professional coaching for all full-time employees</li><li>Flexible time off - rest and recharge when you need it!</li><li>Comprehensive and competitive health, vision, dental, life insurance</li><li>401(k) with company match</li><li>Home office setup: you get all necessary hardware and internet reimbursement </li><li>Family planning programs via Carrot and Maven</li><li>Employee Resource Groups to help you stay connected<br></li></ul>Foursquare is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.<br><br>Foursquare is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected Veteran status, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T23:01:05.000Z"
+  },
+  "company": {
+    "name": "Foursquare",
+    "link": "https://www.linkedin.com/company/foursquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92900,
+    "max_value": 126000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

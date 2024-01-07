@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II - Data Engineering",
+    "industry": "Information Technology and Services,Internet,Market Research",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Job Title</strong>: Software Engineer II - Data Engineering<br><br><strong>Location</strong>: Reston, VA or Remote<br><br><strong><u>About This Role<br><br></u></strong>The Software Engineer II delivers backend software solutions to internal and external clients. This includes the design, modification, development, and implementation of software programming applications. Additionally, the Software Engineer II may lead and direct the work of others. A wide degree of creativity and latitude is expected, as well as an understanding of business needs and requirements.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li> Modifies, writes, and documents backend software applications </li><li> Consults with clients to gather information about program needs, objectives, functions, features, and input and output requirements </li><li> Works with stakeholders to understand problem statements and suggest possible implementations </li><li> Demonstrates personal ownership and takes accountability for larger assigned tasks </li><li> Converts designs and specifications into software applications </li><li> Analyzes code to find causes of errors and revises programs </li><li> Consults with client to prototype, refine, test and debug programs to meet needs </li><li> Provides technical assistance by responding to inquiries from others regarding errors, problems or questions about programs </li><li> May train end users or technical support staff to use programs </li><li> Follows development best practices and standards </li><li> Design &amp; develop platform components such as API's, applications, data processing pipelines, and reporting solutions </li><li> Collaborate with data scientists and data analysts to implement statistical functions that operate at scale </li><li> Design and develop instrumentation, monitoring, and internal tooling for operating the platform </li><li> Participate in design and code reviews <br></li></ul><strong><u>What You\u2019ll Need<br></u></strong><ul><li> 2-4 years of experience in software development including design, coding, and testing </li><li> At least 2 years of experience with Java and Java frameworks like Spring and Spring Boot </li><li> At least 2 years of experience implementing RESTful APIs </li><li> Experience with AWS cloud services like EMR, EC2, Redshift, RDS, Lambda </li><li> Experience with Apache Spark framework </li><li> Experience with workflow management tools like Airflow, Luigi, conductor etc. </li><li> Experience working with DevOps style production operations <br></li></ul><strong><u>About Comscore<br><br></u></strong>At Comscore, were pioneering the future of cross-platform media measurement, arming organizations with the insights they need to make decisions with confidence. Central to this aim are our people who work together to simplify the complex on behalf of our clients &amp; partners. Though our roles and skills are varied, were united by our commitment to five underlying values: Integrity, Velocity, Accountability, Teamwork, and Servant Leadership. If you are motivated by big challenges and interested in helping some of the largest and most important media properties and brands navigate the future of media, wed love to hear from you.<br><br>Comscore (NASDAQ: SCOR) is a trusted partner for planning, transacting and evaluating media across platforms. With a data footprint that combines digital, linear TV, over-the-top and theatrical viewership intelligence with advanced audience insights, Comscore allows media buyers and sellers to quantify their multiscreen behavior and make business decisions with confidence. A proven leader in measuring digital and set-top box audiences and advertising at scale, Comscore is the industry\u2019s emerging, third-party source for reliable and comprehensive cross-platform measurement. To learn more about Comscore, please visit Comscore.com.<br><br><strong>EEO Statement</strong>: We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, disability status, sexual orientation, gender identity, age, protected veteran status or any other characteristic protected by law.<br><br>To comply with federal law, Comscore participates in E-Verify. Successful candidates must pass the E-Verify process after hire.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:17:16.000Z"
+  },
+  "company": {
+    "name": "Comscore, Inc.",
+    "link": "https://www.linkedin.com/company/comscore"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

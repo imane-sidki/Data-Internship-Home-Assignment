@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "AI/ML Data Scientist<br>Salary: $150K<br>Interview Mode: Video Interviews<br>susan@softwaregroupinc.com <br><br>Required Skills Set:<br><br>Years of Experience:3+ years of experience in developing and implementing AI/Client related projects<br><br>Education Required: Ph.D<br><br>Strong technical skills on machine learning/AI with proven track record. These technical skills include, but not limited to, regression techniques, neural networks, decision trees, clustering, pattern recognition, probability theory, stochastic systems, Bayesian inference, statistical techniques, deep learning, supervised learning, unsupervised learning, Reinforcement Learning<br><br>Strong technical knowledge on big data technologies, AWS AI/Client platforms such as SageMaker<br>Outstanding track record of successful solutions design in the digital space<br>Experienced in using AI/Client platforms, technologies, techniques (e.g. TensorFlow, Apache MXnet, Theano, Keras, CNTK, scikit-learn, H2O, Spark MLlib, etc).<br>Proficiency with SQL and NoSQL databases<br>Proficiency with scalable data extraction tools (e.g. Cassandra, MongoDB)<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T20:22:34.000Z"
+  },
+  "company": {
+    "name": "Software Group Inc",
+    "link": "https://www.linkedin.com/company/software-group-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

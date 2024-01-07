@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Full-Stack Software Engineer",
+    "industry": "Hospital & Health Care",
+    "description": "Brio\u2019s mission is to make diagnostic testing valuable for all and to become the largest provider of diagnostic laboratory testing in the world. We believe that the 21st century will be defined by advances in healthcare and biology. We intend to accelerate that future. Today, Brio empowers employers to test their teams proactively and on their terms, and gain the insights they need to understand in order to keep employees safe and manage risk.<br><br>While currently focused on the immediate need for B2B COVID testing amidst the global pandemic, our vision is to create a modern and decentralized diagnostic system that addresses the inefficiencies and shortcomings of the &gt;$150bb diagnostic testing market.<br><br>This is a rare opportunity to get involved in solving a truly meaningful problem with massive scale. The product is up and running, our growth is unprecedented, and there is still a ton of room to make your mark as an early member of the team.<br><br>We are fully remote, with a center of gravity around Boston, MA where we were founded.<br><br><strong>You<br><br></strong>You get excited about challenges, fast-changing environments and problems with no clear solution. You are opinionated, but equally open to the opinions of others. You value extreme ownership, attention to detail, and relish disambiguation. Solving problems nobody has tackled before in an environment where the landscape is shifting daily is your idea of fun. You are eager to contribute to our business and culture, not just our code base.<br><br><strong>The Current Stack<br><br></strong>Python 3, Flask, PostgreSQL, and Redis, running on AWS. Server-rendered HTML via Jinja, with Javascript and PostCSS, moving towards React.<br><br><strong>Responsibilities<br></strong><ul><li>Be comfortable across the stack from devops to back-end and front-end code, with a passion and strength in at least one zone.</li><li>Follow right-sized processes for development, QC, and release, and be an advocate for evolving them as the company grows.</li><li>Keep the data of our users and partners safe through secure code, secure infrastructure, and secure processes.</li><li>Work with the team to define and achieve delivery schedules.</li><li>Contribute to technical specs and plans.</li><li>Collaborate across BRIO with product management, customer support, sales, and others to deliver the best possible experience to our customers.</li><li>Make a big impact in the company, on the world.<br><br></li></ul><strong>Basic Qualifications<br></strong><ul><li>1+ years of experience with web-technology coding on a deployed commercial software product.</li><li>Live experience with back-end development, architecture, and deployment.</li><li>Some demonstrable experience with our current tech stack frameworks and technologies - AWS, Python, PostgreSQL, JavaScript</li><li>Understanding of creating secure API interfaces, ACL\u2019s, etc.</li><li>Ability to communicate technical concepts to non-technical people</li><li>Output oriented with a bias for action. <br><br></li></ul><strong>Bonus Points<br></strong><ul><li>Experience working on remote teams.</li><li>Experience in high-criticality / high-stakes industries like health, finance, aerospace.</li><li>Experience working in a seed-stage, high growth startup environment.</li><li>Passion for or working knowledge of health, wellness or biology-related topics.</li><li>Knowledge of security and regulatory frameworks like HIPAA and ISO 27001</li><li>Fire in your belly with a need to be extremely challenged every day.<br><br></li></ul><strong>Benefits And Perks<br></strong><ul><li>We are currently covering 100% of premiums for health, vision, and dental</li><li>Health Reimbursement Account</li><li>401k</li><li>Unlimited PTO</li><li>Paid sick days</li><li>Paid holidays</li><li>Home office improvement stipend</li><li>Monthly mystery chocolate box</li><li>Equity and performance based pay options<br><br></li></ul><strong>Company Culture<br><br></strong>Brio\u2019s mission is to increase the impact of diagnostic testing by making it more accessible and valuable to more people. Our core values as a company are devotion, responsibility, fearlessness, and curiosity.<br><br>Brio is an equal opportunity employer that recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, sex, disability, age, veteran status, and other protected status. Individuals and teams with different backgrounds and experiences foster diverse ideas, which brings universal perspectives to universal problems. So if we want to create a world with equitable healthcare, we need to employ and partner with people who represent the world as it is. At Brio, diversity is not just something we believe in, it is a part of our DNA. It makes us unique and it makes us successful.<br><br>We are interested in every qualified candidate who is eligible to work in the United States. Unfortunately, we currently do not sponsor visas.<br><br><strong>Commitment<br><br></strong>This is a full-time position (40+ hours per week). This position is fully remote and can be performed from anywhere in the U.S.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T04:40:26.000Z"
+  },
+  "company": {
+    "name": "Brio Systems",
+    "link": "https://www.linkedin.com/company/briosystems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

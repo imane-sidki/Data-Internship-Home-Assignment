@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Computer Software,Computer & Network Security,Information Technology and Services",
+    "description": "Awesome tech is made by awesome people. And we\u2019re always looking for new team members who bring the energy, passion, commitment, and collaboration that has made Auth0 the great company it is today.<br><br>So what do we exactly build? Auth0 is an authentication and authorization platform designed by developers for developers. Basically, we make companies\u2019 login boxes safe, secure, and seamless for anyone logging in. Our mission is to secure the world\u2019s identities so innovators can innovate. But it\u2019s a big mission that requires a lot of teamwork.<br><br>Words, code, or people, whatever your skill, there\u2019s a place for you here<br><br>The Data engineer will help build, scale and maintain the entire data platform. The ideal candidate will have a deep technical understanding, hands-on experience in distributed computing, big data, ETL, dimensional modelling, columnar databases and data visualization. The candidate should feed on challenges and love to be hands on with recent technologies.<br><br>This job plays a key role in data infrastructure, analytics projects, and systems design and development. You should be passionate for continuous learning, experimenting, applying and contributing towards cutting edge open source Data technologies and software paradigms.<br><br><strong>Responsibilities<br><br></strong><ul><li> Contributing at a senior-level to the data platform design by implementing a solid, robust, extensible design that supports key business flows. </li><li> Performing all of the necessary data transformations to populate data lake. </li><li> Establishing efficient design and programming patterns that beat SLAs and help easily manage the data platform. </li><li> Designing, integrating and documenting technical components for seamless data extraction and analysis. </li><li> Adopting best practices in our data systems and shared across teams. </li><li> Contributing to innovations and data insights that fuel Auth0\u2019s mission. </li><li> Working in a team environment, interacting with multiple groups on a daily basis (very strong communication skills) </li><li> Support production systems and be a part of on-call coverage team </li></ul> <strong><strong>Skills and Abilities:<br><br></strong></strong><ul><li> BA/BS in Computer Science, related technical field or equivalent practical experience. </li><li> At least 3 years of relevant work experience </li><li> Ability to write, analyze, and debug SQL queries. </li><li> Exceptional problem-solving and analytical skills. </li><li> Experience with Data Warehouse design, ETL (Extraction, Transformation &amp; Load), architecting efficient software designs for DW platform. </li><li> Hands-on experience in Python, R, Apache Spark in production environments </li><li> Strong skills in Apache Airflow, Luigi or similar tools </li><li> Experience in Tableau, Apache SuperSet, Looker or similar BI tools </li><li> Knowledge of AWS Redshift, Snowflake or similar databases <br><br></li></ul>Auth0 makes the internet safer by safeguarding billions of login transactions each month.<br><br>Our team is spread across more than 35 countries and we are proud to continually be recognized as a great place to work . Culture is critical to us, and we are transparent about our vision and principles . We practice N+1&gt;N which applies to everything from our people to how we iterate our tech; we believe in one team, one score; and we give a shit about everything we do.<br><br>Research shows that candidates from underrepresented backgrounds often don\u2019t apply unless they meet all the job criteria. We aren\u2019t looking for someone who ticks every single box on a page; we\u2019re looking for lifelong learners and people who can make us better with their unique experiences. If you think you\u2019d be a great fit, then please get in touch to tell us about yourself.<br><br>Auth0, recently acquired by Okta, is an Equal Employment Opportunity employer. Auth0 conducts all employment-related activities without regard to race, religion, color, national origin, age, sex, marital status, sexual orientation, disability, citizenship status, genetics, or status as a Vietnam-era special disabled and other covered veteran status, or any other characteristic protected by law. Auth0 participates in E-Verify and will confirm work authorization for candidates residing in the United States.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:51:19.000Z"
+  },
+  "company": {
+    "name": "Auth0",
+    "link": "https://www.linkedin.com/company/auth0"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

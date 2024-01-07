@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer (Support Coordinator)",
+    "industry": "Pharmaceuticals",
+    "description": "<strong><u>Job Overview<br><br></u></strong>Lexi is an application program interface (API) layer that connects all IQVIA applications and data assets using a common vocabulary. Our continued growth has opened up new opportunities.<br><br>We are looking for a Software Engineer to champion our customer needs and drive towards resolution. We are passionate about our users and our products; help us change the face of enterprise software.<br><br>Technical Skill<br><ul><li>Proficiency with fundamental front end languages such as HTML, CSS and JavaScript.</li><li>Proficiency with JavaScript frameworks such as Angular JS, React.</li><li>Proficiency with server-side languages such as Python, Ruby, NodeJS, Java and .Net.</li><li>Knowledge in Docker Images, Containers, Terraform</li><li>Experience in build Automation preferably with GitLab</li><li>Familiarity with database technology such as MySQL, Oracle, Redis , DynamoDB</li><li>Familiarity with micro services architecture</li><li>Knowledge in JIRA, Wiki documentation and Scrum process</li><li>Knowledge in various AWS services like Storage Systems, EKS, RDS, Networking, Load Balancers, Auto Scaling etc.<br><br></li></ul>Job Functions<br><ul><li>Responsible for translating product backlog use cases into functional and non-functional requirement</li><li>Contribute to the design and development of new features and applications.</li><li>Provide peer support to Software Engineers in the design of new small system components</li><li>Unit testing and functional testing of new functionality.</li><li>Support internal and external as required to address any questions or resolve any issues related to Lexi.</li><li>Help on-board new Software Engineers to the team</li><li>Review of functional specifications and other validation deliverables as assigned<br><br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Bachelor's Degree in related field - Computer Science, Math, Or Master's Degree</li><li>6-8 years prior related experience in developing front-end application, back-end micro services, automating build and tests and deployment service using micro services architecture<br><br></li></ul>At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible \u2013 to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 70,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other status protected by applicable law.<br><br>IQVIA, Inc. provides reasonable accommodations for applicants with disabilities. Applicants who require reasonable accommodation to submit an application for employment or otherwise participate in the application process should contact IQVIA\u2019s Talent Acquisition team at workday_recruiting@iqvia.com to arrange for such an accommodation.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:45:53.000Z"
+  },
+  "company": {
+    "name": "IQVIA",
+    "link": "https://www.linkedin.com/company/iqvia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 94400,
+    "max_value": 189000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bridgewater",
+    "region": "NJ",
+    "postal_code": "08807",
+    "street_address": null,
+    "latitude": 40.593002,
+    "longitude": -74.626434
+  }
+}

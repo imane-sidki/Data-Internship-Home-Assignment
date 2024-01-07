@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "**100% Remote (Franklin, TN/Minneapolis, MN preferred)**<br> <br><strong>Description:</strong><br><br><br>We are looking for mid-level engineers who will be working for the Commercial Data Engineering Team. The team works with payment integrity and implementing new clients. This person will be tasked with loading client data into the client systems after it has been transformed and enriched by another internal application called DataPoint. This team is the bridge between DataPoint and the client downstream systems. The application sends data to a prepay system and maps, transforms, and distributes this.<br> <br><strong>Requirements:</strong><br>- Undergraduate degree or equivalent work experience<br>- A year of practical experience of developing solutions hosting within key major cloud providers such as OpenShift, Kubernetes, AWS, GCP, and Azure<br>- 4+ years in the software engineering profession with demonstrated success designing and building high-quality, commercial software applications<br>- 2+ years working with data loading strategies<br>- 2+ years of development experience using Java or open-source technologies<br>- 2+ years developing Restful APIs<br>- 2+ years working with CI/CD<br>- Expert in SQL technologies across different platforms, i.e Oracle, MSSQL, MySQL, etc<br> <br> <br><strong>Must Haves:</strong><br>- NodeJS and APIs<br>- Java/JavaScript<br>- SQL or PL/SQL<br>- Familiarity with CI/CD (Jenkins)<br>- GitHub<br> <br> <br><strong>Plusses:</strong><br>- Experience with Docker/Kubernetes<br>- Experience with the Cloud (Azure specifically)<br><br>- Someone with an opensource mindset<br><br>Restful APIs,CI/CD,NodeJS ,SQL ,PL/SQL,Jenkins,GitHub,Docker/Kubernetes,Cloud ,data loading strategies,Java,JavaScript,Agile/SAFE,Oracle,MS SQL,MySQL",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T13:38:52.000Z"
+  },
+  "company": {
+    "name": "Collabera Inc.",
+    "link": "https://www.linkedin.com/company/collabera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 57000,
+    "max_value": 68500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer, Conversation",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>The Role<br></strong>We're hiring a talented Staff Software Engineer for the Conversation Engineering team to join our growing team where you'll help build and scale the intelligent Chatbot Engine that is interpreting the world's health sensor data and empowering people to live fitter and happier lives.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul> <li> Define and review projects by collaborating with other engineering teams, execs, dev ops, and the product team</li> <li>My team is building a Chatbot Engine</li> <li> Build new features, refactor, and scale existing backend systems that ingest and process data from mobile devices</li> <li> Work on our new backend systems using state of the art technologies that provide the best possible user experience to our users</li> <li> Rewrite and re-architect our existing services from other languages such as Java and Python to Typescript</li> <li> Build the tools and infrastructure that will easily allow us to design and create user interactions</li> <li>Instrument systems to make metrics available in real time to other teams like dev ops, analytics, data engineering, and other engineering teams</li> <li> Develop everything new in Typescript, Node, Next.js, DynamoDB, and Kubernetes </li> <li>Uphold and help define best practices and collaborate across teams, mentor junior engineers </li> <li> Be quality driven: write fast automated tests to achieve a very high, close to 100% code coverage with high quality</li> <li> Follow and better define coding guidelines to ensure that the security and privacy of our user data is ensured </li> <br><br></ul><strong><u>What You\u2019ll Need<br></u></strong><ul> <li> Expertise with data modeling, and performance tuning data systems and access </li> <li>Expertise with OO and functional programming or functional programming languages such as Haskell or Scala </li> <li> Expertise with designing DSLs or APIs </li> <li>Experience with integrating machine learning models into applications</li> <li> Strong sense of empathy for end users </li> <li> Ability to work closely with product and designers to create optimal solutions and trade offs </li> <li>Experience building highly scalable, high volume, and fast systems </li> <li> Experience with tooling that assists with optimizing and troubleshooting systems </li> <li>Awareness of most current best practices, tools, and newest technologies </li> <li>Knowledge of AWS technologies such as DynamoDB, Lambdas, Serverless </li> <li>Communication skills, capacity to work cross-functionally with both non-technical and highly technical team members </li> <li> Well-versed in Git and microservice architecture</li> <li>Expertise with Node.js and Typescript or JavaScript is a plus</li> <li>Expertise with DyanmoDB or other NoSQL technologies is a plus </li> <li> Knowledge or expertise in Kubernetes is a plus</li> <li> Familiarity with React or Next.js is a big plus</li> <br><br></ul><strong><u>Education And Experience<br></u></strong><ul> <li>MS in Computer Science or equivalent in a STEM field</li> <li>10-15 years experience as a software engineer </li> <li> Experience in sprint planning and working with Agile methodologies</li> <br></ul><strong>JOIN US<br></strong>Lark is a companion that lives on the user\u2019s phone and provides daily coaching, guidance, and health insights to users. Developed with the expertise of world-leading health professionals, we are on a mission to make the world a healthier, happier place. Come join our team!<br><br><strong><u>About Lark<br><br></u></strong>Lark is the world's largest A.I.-enabled healthcare provider, delivering virtual care and connected health devices that help people stay in control of conditions such as diabetes and heart disease. We\u2019re on a mission to improve the health and happiness of the 1 billion people globally who are living with or at risk for a chronic health condition. Our A.I. enabled programs were the first to achieve clinical outcomes matching those of in-person healthcare professionals, showing the ability to deliver care at a fraction of the cost and at enormous scale. <br><br><strong>Working at Lark <br></strong>Lark offers the option to work remotely in the United States. For Colorado Applicants only: minimum annual salary is $140,000 (minimum salary varies for other geographies). You may also be offered a bonus, stock options and/or benefits. We have identified the \u201ccore\u201d period of the day during which all employees are required to work for scheduled meetings, syncs, scrums between 10 a.m. and 3 p.m. Pacific time. The company is headquartered in Mountain View, CA.<br><br><em>Lark is an Equal Opportunity Employer.<br><br></em>#BI-Remote<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:00:57.000Z"
+  },
+  "company": {
+    "name": "Lark Health",
+    "link": "https://www.linkedin.com/company/lark-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

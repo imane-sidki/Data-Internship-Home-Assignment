@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Job Description: </strong></p><ul><li>A computer science (or equivalent) background with good C# coding skills around development/test-automation (2+ years) is a must</li><li>Strong PowerShell or other scripting skills</li><li>Good knowledge on Linux. </li><li>Understanding of hardware and multi-processing systems</li><li>Cloud systems exposure &amp; experience is valuable. </li><li>SQL Server, or other database exposure and/or experience</li><li>Platform management</li><li>Application development</li><li>Testing</li><li>Performance engineering skill sets will be a bonus.</li></ul><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T00:43:43.000Z"
+  },
+  "company": {
+    "name": "Quadrant Resource ",
+    "link": "https://www.linkedin.com/company/quadrant-resource-llc_2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

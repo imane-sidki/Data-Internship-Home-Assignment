@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE), Information Security",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>This position can be location in Santa Clara Valley (CA) or Seattle (WA).  <br><br><br>Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there\u2019s no telling what you could accomplish. <br><br><br>We are seeking a SRE who is passionate about security, and can thrive in a fast-paced environment where both individual drive and team collaboration are the keys to success. The SRE will configure, tune, and troubleshoot multi-tiered systems to achieve optimal application performance, stability and availability. The SRE will work closely with software developers, infrastructure and network engineers to deploy, maintain, and support applications and services. The SRE will work with users to analyze and resolve issues reported against services and applications.<br><br> <br><strong>Key Qualifications<br></strong> <br>A positive and respectful attitude<br><br>Linux/Unix system administration experience along with a working knowledge of common Linux and macOS file systems<br><br>Background using container and container orchestration technologies (Docker, Kubernetes)<br><br>At least 3 years of experience supporting RESTful applications using technologies such as Java, Ruby, Rails, Python, NginX, etc.<br><br>Knowledge and experience with software version control systems and source code management (Git/GitHub)<br><br>At least 3 years of experience deploying, configuring, and supporting software in the cloud (AWS)<br><br>Experience working with Atlassian tools (Confluence, Jira, Jira servicedesk)<br><br>Familiarity with log aggregation and visualization tools such as Zabbix/Splunk<br><br>Experience creating and using SQL queries to diagnose problems<br><br>An understanding of CI/CD technologies such as Jenkins<br><br>Familiarity with Agile development methodology<br><br>Excellent written and verbal communication skills, ability to work effectively with technical and non-technical users<br><br>The desire to provide a great customer experience<br><br> <br><strong>Description<br></strong> <br>The successful candidate will be highly self-motivated with a passion for excellence, quality, and attention to detail. The SRE will be responsible for operating and supporting application environments, working on deployments and automation, and working closely with the development engineers to assist with implementation and deployment of features. Responsibilities of the DevOps engineer will include:<br><br><br>-  Determine optimal configurations for application software, servers, database connections<br><br>-  Environment monitoring and task automation<br><br>-  Set up and manage monitoring tools<br><br>-  Measure and optimize system performance<br><br>-  Work with users to gather technical details and better understand issues<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelors Degree or equivalent work experience<br><br> <br><strong>Additional Requirements<br></strong> <br>-  Knowledge and experience using one or more programming languages including Swift, Objective-C, Golang, Python, Shell, Java, Ruby/Rails for scripting and/or development<br><br>-  Familiarity with Networking concepts (e.g. Open Systems interconnection (OSI) model)<br><br> <br>Role Number: 200259709<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T06:29:27.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81200,
+    "max_value": 209000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

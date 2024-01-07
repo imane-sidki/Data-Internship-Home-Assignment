@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Financial Services",
+    "description": "Job Summary:<br><br>Do you want to be part of a team that creates magic for millions of guests? Behind the scenes, the Retail Technology Operations team helps provide magical digital and physical experiences applying the latest technology; and our Site Reliability Engineers provide expert engineering services in the cloud, automation, and reliability to support the innovation and operation of The Walt Disney Company. We are passionate about ensuring our systems provide the best guest experience! You will protect and improve the automation and systems that run Disney's experiences and services with a focus on availability, latency, and automation while embracing a DevOps culture.<br><br>You will report to Senior Manager-Technology<br><br>Responsibilities:<br><br>The Site Reliability Engineering Team within the Retail Technology Operations focuses on improving our services and systems availability and performance. This is done through driving observability around our services, designing and implementing tooling and automation and working with our business and development teams to bring data-driven solutions. As a Senior Site Reliability Engineer, you will create automation for our services, expanding observability of the environment, participating in infrastructure design discussions, working with teams to implement complete solutions and resolving issues across environments.<br><br><ul><li>You will oversee our current cloud and SaaS services \u2013 install, upgrade, maintain all necessary middleware components, work with cloud vendors to integrate APIs and automation tools</li><li>You will work to compile a runbook that identifies all known, potential risks and incidents, and have well-defined procedures to reduce or eliminate the risk if they occur, you will also have on-call and incident resolution responsibilities</li><li>You will deploy and manage new modern cloud technologies using infrastructure-as-code, self-healing, security automation patterns, instrumented and monitored</li><li>You will participate in implementation of complex engineering solutions across Retail Technologies</li><li>Manage and escalate delivery impediments, risks, and changes tied to the engineering programs to the partners</li><li>Work with our development teams to ensure smooth operational transition of solutions, and to improve existing solutions post turnover<br><br></li></ul><strong>Basic Qualifications:<br><br></strong><ul><li>Experience programming in one or more of: Python, Ruby, Java, Go, Rust, C/C++ (3 years)</li><li>Experience with Cloud/PaaS/SaaS Environments (e.g. AWS, Azure, Google Cloud Compute) (3 years)</li><li>Proficient, collaborative, and experienced in building reliable, scalable, enterprise systems (5 years)</li><li>UNIX/Linux administration, troubleshooting, performance tuning, &amp; security (3 years)</li><li>Lead technical projects, working with project managers to ensure smooth delivery (2 years)</li><li>Experience working with Security Operations teams to design security into solutions and avoid existing issues (2 years)</li><li>Understanding of observability principles (monitoring, logging, tracing, alerting), tools and practices that promote observability (3 years)</li><li>Experience with continuous integration tools (e.g.Gitlab, AWS CodeBuild, CodeDeploy, CodePipeline, Azure DevOps) (3 years)</li><li>Configuration management and orchestration (e.g. Terraform, Cloud Formation, Ansible, Chef) (3 years)</li><li>Excellent written and verbal communications; ability to develop presentations<br><br></li></ul>Required Education<br><br><ul><li>Bachelor's degree in applicable field<br><br></li></ul>808309BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T12:47:03.000Z"
+  },
+  "company": {
+    "name": "The Walt Disney Company",
+    "link": "https://www.linkedin.com/company/the-walt-disney-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81000,
+    "max_value": 117000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

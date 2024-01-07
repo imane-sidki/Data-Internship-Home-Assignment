@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Entertainment",
+    "description": "<p>The Machine Learning Engineering team at Ampersand is seeking a ML Engineer focused on productionizing Bayesian models developed by the Data Science group. Samples of the types of model output you will be working with may be found in the example notebooks of our open source repository, PyMC3-HMM. </p><p><br></p><p><strong><em><u>https://github.com/ampersandtv/pymc3-hmm</u></em></strong></p><p><br></p><p>In our experience, there is not necessarily a specific background common to ML Engineers so here are a few of the different responsibilities you might take on: </p><ul><li>Extend the open source Aesara and PyMC3-HMM packages </li><li>Develop tools to visualize model results using Matplotlib </li><li>Write and optimize Clickhouse SQL queries and design relational schemas for efficient storage and computation </li><li>Use Github actions to create Docker images for use by AWS Batch as part of our production pipeline </li><li>Design custom metadata services to manage the state of our model fits</li></ul><p><strong>Requirements:</strong></p><ul><li>Intermediate to advanced knowledge of Python</li><li>Significant experience working on a collaborative team using git-based workflows and continuous integration</li></ul><p><strong>Nice to Have:</strong></p><p>It will be easier to convince us to hire you if have open source contributions, blog posts, or public  projects we can evaluate. Of course, we recognize that not everyone has the opportunity to work on these kinds of projects so they are in no way a requirement.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T20:23:22.000Z"
+  },
+  "company": {
+    "name": "Ampersand",
+    "link": "https://www.linkedin.com/company/meetampersand"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

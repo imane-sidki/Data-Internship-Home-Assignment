@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple Pay Server Engineering is the place to be if you are interested in working on awesome technology that is used by millions of people every single day! As part of the Apple Pay Server Engineering team, you will have the opportunity to explore and contribute to a wide variety of interesting projects within Apple Pay. If you meet the key qualifications and you are self-driven, enthusiastic, highly-motivated, and you want to make an impact, we'd love to hear from you!<br><br><br>*We're open to candidates for the following campuses: NYC, Austin or Cupertino*<br><br> <br><strong>Key Qualifications<br></strong> <br>Minimum 5+ years relevant industry experience<br><br>Experience writing server software in Java or C/C++ or C#<br><br>Experience/Knowledge working on highly scalable applications and RESTful web services<br><br>Knowledge of databases both SQL and NoSQL<br><br>Familiarity with scalability and performance issues<br><br>Understand software development process from inception to delivery of code to production<br><br>Strong Computer Science background<br><br>Interest in payment industry<br><br>Experience/understanding of security and cryptography (not mandatory)<br><br> <br><strong>Description<br></strong> <br>- Responsible for designing and developing highly reliable, scalable server platforms with attention to detail <br><br>- Follow our software development process including writing unit tests, perform code reviews etc. <br><br>- Ability to learn and apply new technologies quickly <br><br>- Work effectively with cross-functional teams to develop features <br><br>- Provide support for production deployments <br><br>- Demonstrate ability to deliver results on time with high quality<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor in Computer Science or equivalent<br><br> <br>Role Number: 200238369<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T08:35:38.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80300,
+    "max_value": 173900,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

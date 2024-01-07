@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer/SRE",
+    "industry": "Information Technology and Services,Consumer Electronics,Consumer Services",
+    "description": "<ul><li>6+ years in a software development, DevOps role, or SRE role.</li><li>Experience in designing, investigating, analyzing and troubleshooting large-scale enterprise systems.</li><li>Methodical and systematic problem solving approach, combined with a solid awareness of ownership, initiative and drive.</li><li>Fluency with running services at scale; In depth understanding of Unix systems internals and networking.</li><li>Networking knowledge and in depth understanding of network concepts, such as different protocols (TCP/IP, UDP, ICMP, etc.), MAC addresses, IP packets, DNS, OSI layers, and load balancing).</li><li>Understanding of Unix/Linux systems from kernel to shell and beyond, taking in system libraries, file systems, and client-server protocols along the way. Experience administering Linux systems in a production environment</li><li>Programming experience in one or more of the following languages: Go, Java, Python, Ruby, Shell</li><li>Bachelor's Degree in Computer Science or a related field, or relevant work experience</li><li>Experience with distributed version control like Git or similar</li><li>Experience with IaaS and PaaS providers such as AWS, AZURE, OpenStack, GCP</li><li>Experience with containerization and container platforms. (e.g. Docker, Kubernetes, Docker EE, OpenShift, Mesosphere).</li><li>Experience with enterprise monitoring solutions like Dynatrace, AppDynamics, New Relic, Prometheus, Graphite, Grafana, Nagios, Sensu and Splunk</li><li>Familiarity with continuous integration/deployment processes and tools such as Jenkins, Maven, Nexus, etc.,</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-14T20:34:45.000Z"
+  },
+  "company": {
+    "name": "AMISEQ",
+    "link": "https://www.linkedin.com/company/amiseq-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

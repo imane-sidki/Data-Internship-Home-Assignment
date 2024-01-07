@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Overview<br><br></u></strong>Come join the \"<strong>IIS Infrastructure Security Team</strong>\" as a \"<strong>Software Engineer 2</strong>\". The Software Engineer 2 role is to employ a set of tools, automation activities and processes to ensure that sensitive data is not lost, misused, or accessed by unauthorized users.<br><br><strong><u>What You'll Bring<br></u></strong><ul><li>BS/MS in computer science or equivalent work experience. </li><li>Experience in security controls (Data Loss Prevention, Cloud Access Security Broker, URL filtering)</li><li>2+ years experience developing web, software, or mobile applications.</li><li>Solid grasp of software engineering fundamentals and their practical application.</li><li>Experience with the following: LanDesk, JAMF, Python, Github, Ansible &amp; Cloud Formation templates</li><li>Experience with the Software Development Life Cycle (SDLC).</li><li>1+ years experience with web services (consuming or creating) with REST or SOAP.</li><li>Strong experience with any of the following: Python, Java/J2EE, AWS CloudFormation or Ansible.</li><li>Strong desire to learn and grow.</li><li>Excellent problem solving skills with a history of superb delivery against assigned tasks.</li><li>Solid communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences.<br></li></ul>Outstanding partnership skills.<br><br><strong><u>How You Will Lead<br></u></strong><ul><li>Architecting, developing, deploying and automating SaaS and agent based security solutions</li><li>Evaluating vendor security solutions and conducting proof of concepts (POC\u2019s)</li><li>Roughly 40% hands-on coding</li><li>Contribute to early quality activities, including peer reviews of estimates, designs and code</li><li>Resolve defects/bugs during QA testing, pre-production, production, and post-release patches</li><li>Partner effectively with all team members to deliver against commitments</li><li>Work cross-functionally with various Intuit teams: product management, program management, dev-operations, various product lines, or business units to drive forward results</li><li>Partner effectively with our security vendors, driving issue resolution and roadmap capabilities</li><li>Commitment to team success and positive team dynamics</li><li>Passion for growing and applying technical skills in service to customers</li><li>Experience with Agile Development, SCRUM, and/or Extreme Programming methodologies</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:09:41.000Z"
+  },
+  "company": {
+    "name": "Intuit",
+    "link": "https://www.linkedin.com/company/intuit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69700,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

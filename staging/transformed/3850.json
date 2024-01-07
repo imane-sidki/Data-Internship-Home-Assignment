@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Telecommunications,Hospital & Health Care,Information Technology and Services",
+    "description": "<p><strong>(SRE) Site Reliability Engineer </strong></p><p><strong>100% Remote </strong></p><p><br></p><p><strong>Desired Skills and Experience*</strong></p><p>Strong Kubernetes development experience - creating, deploying and running clusters</p><p>Strong experience working with Elastic Search, Prometheus, ELK, Kibana, or Grafana tools for LMA</p><p>Strong experience with Python OR Golang development</p><p>Experience monitoring cloud platforms (NOT apps/infrastructure on-premise)</p><p><br></p><p><strong>Day-to-Day*</strong></p><p>An employer is looking for a Senior Site Reliability Engineer to join their Cloud Platforms organization. This organization delivers a private cloud responsible for hosting business critical workloads, such as 5G and other network functions. The Cloud Platforms Development organization is responsible for integrating several open source services and tools to provide this cloud infrastructure at telecom scale. Team members can expect to work with technologies such as Kubernetes, Airship, Openstack, Python, Golang, and many more. The development organization is made up of many scrum teams and offers the opportunity to be involved in solving a diverse set of technological challenges, including Baremetal Cloud Provisioning, supporting CICD for a large-scale development organization, Site Reliability Engineering, or working to ensure the program\u2019s logging/monitoring/alerting system is operating efficiently and effectively. The development teams in this organization operate at a fast pace and work diligently to stay on the cutting edge of software engineering technologies, principles, and methodologies.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T17:44:18.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

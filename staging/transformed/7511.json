@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Sr Data Engineer, Siri Data",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Would you like to play a critical part in the next revolution of human-computer interaction? Would you like to contribute to the advancement of a product that is globally redefining how humans use voice to relate to technology?<br><br><br>The Siri Data organization seeks to improve Siri by using data as the voice of our customers. Within Siri Data, the mission of Siri data engineering is to build the scalable &amp; high quality data sets that curate the data required to give our customers their voice.<br><br><br>We\u2019re looking for exceptional data engineers who are passionate about our product and values; who love working with data at scale; and who are committed to that hard work necessary to continuously improve. As a part of this group, you will work with petabytes of data daily using diverse technologies like Spark, Flink, Kafka, Hadoop and others. You will be expected to effectively partner with upstream engineering teams and downstream analytical &amp; product consumers.<br><br> <br><strong>Key Qualifications<br></strong> <br>You have excellent written and verbal communication skills.<br><br>You are tenacious, relentless, &amp; determined.<br><br>You are curious: always learning new technologies, rapidly synthesizing new information, and understanding \u201cthe why\u201d before \u201cthe what.\u201d<br><br>You are self-directed and capable of operating amid ambiguity.<br><br>You are poised and display excellent judgment in prioritizing across difficult tradeoffs.<br><br>You are pragmatic: not letting \u201cthe perfect\u201d be the enemy of \u201cthe good.\u201d<br><br>You are humble, continually growing in self-awareness and possessing a growth mindset.<br><br> <br><strong>Description<br></strong> <br>WHAT WILL FILL YOUR DAYS:<br><br>-  Moving between understanding the open &amp; unanswered questions about Siri; to defining new metrics and filters; to specifying new logging necessary with the high-level goal of using data to improve Siri.<br><br><br>-  Designing, creating, and maintaining data pipelines that populate a petabyte scale data warehouse.<br><br><br>-  Working with data infrastructure teams providing input to improve our platform.<br><br><br>-  Working with data producing teams to specify requirements and to transparently provide rapid feedback.<br><br><br>-  Partnering with your teammates across Siri data to answer questions, to provide support, and to innovate in taking our data warehouse to the next level.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>-  Surprise us! Many will have an MS or BS in CS, Engineering, Math, Statistics, or a related field OR equivalent practical experience in data engineering.<br><br><br>-  4+ years of industry experience working with distributed data technologies (e.g. Hadoop, MapReduce, Spark, Flink, Kafka, etc.) for building efficient &amp; large-scale data pipelines.<br><br><br>-  Software Engineering proficiency in at least one high-level programming language (Java, Scala, Python or equivalent).<br><br><br>-  Experience required in building batch data processing pipelines curating data for data science consumers.<br><br><br>-  Experience strongly preferred building stream-processing applications using Apache Flink, Spark-Streaming, Apache Storm, Kafka Streams or others.<br><br> <br>Role Number: 200275107<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:11:31.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

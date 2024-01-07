@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services,Banking,Information Technology and Services",
+    "description": "<p>Our Engineers enjoy reducing or completely eliminating manual tasks, are excellent problem solvers, and know automation is key to operating a large-scale system.</p><p>SREs make sure that our applications highly available and Service Level Objectives (SLO) are met, SREs work directly on scrum teams with our Software Engineers using their interest in operations and development skills to ensure new features follow SRE best practices and are supportable.</p><p><br></p><p><u>Responsibilities Include</u></p><p><br></p><ul><li>CI/CD</li><li>Monitor and resolve issues in all environments. Ensure SLO and uptime are met</li><li>Be a member of scrum team(s) to ensure SRE concerns are addressed from the time a feature is designed through its deployment to production</li><li>Engage in capacity planning and demand forecasting, anticipating performance bottlenecks and scaling the environment as needed</li><li>Change management</li><li>Uptime and SLO reporting</li></ul><p><br></p><p><u><span class=\"ql-cursor\"></span>Requirements</u></p><p><br></p><ul><li>Expert-level knowledge of at least one configuration management system. (Chef, Ansible, Puppet, etc.)</li><li>Experience with build automation and configuration management tools (e.g. Puppet, Chef, Ansible.)</li><li>Strong knowledge of theAmazon Web Services (AWS)ecosystem and other core AWS technologies</li><li>Software development background preferred</li><li>Experience with a microservice architecture running in containers (Docker or other containerization technology)</li><li>Experience with Docker tooling and ecosystem</li><li>Experience supporting 24x7, high availability internet application environments that include web, application and database servers and load balancing systems.</li><li>Bachelor's degree or higher in Computer Science, or equivalent experience</li><li>AWS Certification a plus</li><li>Excellent written and communication skills</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T16:32:28.000Z"
+  },
+  "company": {
+    "name": "Lumin Digital",
+    "link": "https://www.linkedin.com/company/lumindigital"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

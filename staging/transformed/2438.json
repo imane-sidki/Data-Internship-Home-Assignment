@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Core Services Engineering team members are strategic business partners and are the first to create innovative solutions exploiting Microsoft\u2019s newest enterprise products and services. Core Services Engineering provides career growth opportunities, a rewarding and flexible work environment so you can better integrate professional and personal life. Unlike other organizations, Core Services Engineering employees make global impact on thousands of employees and millions of customers of Microsoft platforms and services.<br><br>We are seeking an incredibly talented Site reliability engineers to contribute to our efforts to envision, create and run our next generation services &amp; drive live site culture. If you are passionate about reliability, performance, scalability, security, resiliency, and efficiency of a service and have a strong SE/Developer background this is a fantastic opportunity to join a team that supports critical services for Microsoft. Part of the role you will be working within a tightknit DevOps culture where everyone (Engineering/PM/SRE/Leadership) is deeply focused on Live Site and QoS.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Design, write and deliver software to improve the availability, scalability, performance, security, resiliency, and efficiency of a service</li><li>Contribute in debugging, troubleshooting complete stack of a service and drive analysis of an outage; write software and build automation to resolve problems permanently</li><li>Engage in service capacity planning and demand forecasting, software performance analysis and system tuning.</li><li>Participate actively in code reviews, bug/issue triage with the feature teams, and support well informed decisions towards business and engineering goals</li><li>Review and influence ongoing design, architecture, standards and methods for operating services and systems; assess design and code changes to drive improvements</li><li>Conduct periodic on call duties.</li><li>Drive increased efficiencies through automation and tools you author.</li><li>Build business continuity and disaster recovery plans.</li><li>Programming in C#</li><li>Writing/reading PowerShell scripts</li><li>Strong Customer focus &amp; Live Site focus</li><li>Capable of &amp; experience with technical deep-dives into service design, operating systems, networking, storage, monitoring, and capacity planning. <br><br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>BASIC QUALIFICATIONS:<br></strong><ul><li>10+ years of experience in a large enterprise for an engineering or delivery role</li><li>5+ years of experience working with scripting languages and other automation tools, e.g., PowerShell, SQL, etc.</li><li>3+ years experience in one of these languages: C, C#, .Net Technologies, JavaScript, Typescript <br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>3+ years experience developing distributed service applications &amp; developing user experiences scenarios</li><li>3+ years experience with Microsoft Hyper-V, VMWare or other Virtualization tools</li><li>3 years of experience in service engineering, as well as experience with modern engineering practices</li><li>Four-year college degree in Information Technology, Information Security, related field or equivalent work experience</li><li>MS in Computer Science, mathematics, applied science, or related field</li><li>Excellent analytical ability and communications skills</li><li>Interpersonal relationship skills</li><li>Ability to manage multiple tasks simultaneously </li><li>Customer service skills and experience</li><li>Prior supply chain or service engineering/ operations analytics experience is highly valued<br><br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T21:00:02.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

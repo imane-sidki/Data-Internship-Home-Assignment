@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML- Machine Learning Engineer, Information Intelligence",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The AI/ML - Web Answers team is redefining how hundreds of millions of people use their devices to get their questions answered. We are an R&amp;D team pushing the limits of question answering technologies, responsible for a production service. We are part of a wider effort to power search and answers across a variety of Apple products \u2013 including Siri, Spotlight, Safari, Messages, and more. As part of our team, you will be leveraging and improving upon the latest deep learning models in order to understand queries, rank documents, and find useful answers to users\u2019 questions. Our team is responsible for deploying these models at scale, using the latest advances in model compression and inference-optimized hardware.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience in natural language processing<br><br>Mastery of one of following languages: Python Go Java C++<br><br>Excellent interpersonal skills ability to work independently as well as in a team<br><br>Excellent knowledge and good practical skills in major machine learning algorithms<br><br>Excellent data analytical skills<br><br>Experience with large scale search and machine learning systems is highly desired<br><br>Experience with Hadoop Hive and/or Impala is a plus<br><br>Strong background in algorithms and data structures<br><br> <br><strong>Description<br></strong> <br>As a member of our fast-paced group you\u2019ll have the unique and rewarding opportunity to shape upcoming products from Apple. Our team includes a diversity of backgrounds from applied scientists with a focus in NLP to experienced distributed systems engineers. As such we are looking for candidates with applied machine learning experience and solid engineering skills. This role will have the following responsibilities:<br><br>- Analyzing search ranking and relevance requirements issues and opportunities<br><br>- Utilizing PyTorch for training deep learning models<br><br>- Understanding product requirements then translating them into modeling tasks and engineering tasks<br><br>- Building an end-to-end production service for question answering<br><br>- Building machine-learned models for search relevance ranking query understanding and questioning<br><br>- Utilizing Spark Hadoop MapReduce Hive Impala to perform distributed data processing pipelines<br><br> <br><strong>Education &amp; Experience<br></strong> <br>MS or Ph.D in Computer Science, Machine Learning or related field<br><br> <br>Role Number: 200224378<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:29:52.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

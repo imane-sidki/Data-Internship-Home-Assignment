@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - LT Workbench Backend",
+    "industry": "Computer Hardware",
+    "description": "At Lightelligence, our engineers have opportunities to grow and develop cutting-edge technology at the forefront of photonic computing. With a culture of internal mobility, there's opportunity to thrive in a variety of disciplines. This is a place for dreamers and doers to succeed.<br><br>Become a part of the AI revolution at Lightelligence, where we\u2019re building computational machines that are solving problems in ways that have never been done before!<br><br>As a Backend Software Engineer on LT Workbench you will be an integral part of Lightelligence's growing engineering organization and will drive the adoption of our accelerators and ML model-deployment best practices.<br><br>As part of the LT Workbench team, you will help build out a platform to allow other internal teams to quickly develop, experiment, iterate, and deploy new projects and ideas. The workbench will be a cloud-native web application and API that enables our scientists and engineers to...<br><ul> <li>Perform driver and hardware benchmarks and compare and contrast results. </li> <li>Analyze AI workloads from theoretical, software, and hardware perspectives. </li> <li>Explore hardware architectures and provide performance estimates. </li> <li>Provide informative and flexible visualizations for both models and hardware. </li> <li>Provide easy access to an array of models and datasets for all of the above. </li> <br><br></ul><strong><u>What You\u2019ll Do At Lightelligence<br></u></strong><ul> <li>Work with a team to build our cloud-native LT Workbench API and CLI</li> <li>Participate in all phases of development, from requirement gathering to deployment</li> <li>Write unit tests, integration tests, and documentation for your code</li> <li>Assist in building/optimizing our CI/CD pipelines</li> <li>Design and deploy AWS cloud infrastructure</li> <li>Shape the feature map of the LT Workbench project</li> <br><br></ul><strong><u>Requirements<br><br></u></strong><strong>Preferred Qualifications <br><br></strong>If you meet 80% of the qualifications below or have other strengths that you think would benefit our team, we still encourage you to apply.<br><ul> <li>Bachelor\u2019s Degree in a relevant discipline, such as Computer Science (or 3+ years relevant experience)</li> <li>Excellent coding skills in at least one modern language (e.g., C#, Java, JavaScript, Python)</li> <li>Hands-on experience with cloud-based development (any major cloud provider)</li> <li>Hands-on experience with Database development (SQL and/or NoSQL)</li> <li>Experience using Agile and test-driven development</li> </ul><ul> <li>Experience with PyTorch, TensorFlow, ONNX or other ML frameworks</li> <br></ul><strong>Bonus<br></strong><ul> <li>Hands-on experience developing with AWS</li> <li>Proficiency with Python</li> <li>Proficiency with Docker, Git, Unix, and/or Bash</li> <li>ML Infrastructure experience</li> <li>Modern front-end development experience (e.g., Javascript, HTML, CSS, React, Flask)</li> <li>Experience delivering and maintaining open-source packages</li> <br><br></ul><u><strong>Benefits<br><br></strong></u><strong>We offer the following benefits <br></strong><ul> <li>Company subsidized health, vision and dental benefits</li> <li>3 weeks PTO and 1 week of paid sick leave</li> <li>401 (k) with an employer contribution</li> <li>9 Paid holidays</li> <li>Flexibility - we offer a hybrid work environment</li> <li>A great place to work!</li> <br><br></ul>Lightelligence is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T15:22:38.000Z"
+  },
+  "company": {
+    "name": "Lightelligence",
+    "link": "https://www.linkedin.com/company/lightelligence-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 73900,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

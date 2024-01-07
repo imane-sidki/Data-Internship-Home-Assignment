@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Consumer Platform (New York, Austin)",
+    "industry": "Food & Beverages",
+    "description": "<p><strong>THIS IS BLUE APRON</strong></p><p><br></p><p>Chefs around the world wear blue aprons when learning to cook, and for us it has become a symbol of lifelong learning.Our highly motivated group of food enthusiasts are inspired to work on complex business problems with creativity and passion, always looking to learn something new. We take preparation seriously, embrace a spirit of excellence, and put in the extra effort in everything we do.We are thrilled to be part of our customers\u2019 lives, cooking and creating experiences in their home kitchens.</p><p><br></p><p><strong>WHO'S IN THE KITCHEN</strong></p><p><br></p><p>Blue Apron\u2019s engineering team creates software that manages the forecasting, purchasing, preparation, and shipment of new fresh ingredients every week, delivering over 8 million meals nationwide each month. We\u2019re faced with complex supply chain and logistical challenges that require purpose-built solutions and data analysis.</p><p><br></p><p>As a Software Engineer at Blue Apron, you are responsible for the ongoing evolution of our software architecture, mentoring new engineers and providing technical leadership for strategic projects. We are looking for someone who is passionate about software development and enjoys both learning from and teaching others.</p><p><br></p><p><strong>WHAT'S ON THE MENU</strong></p><p><br></p><ul><li>Design and implement APIs for our consumer facing applications.</li><li>Collaborate with other engineers and internal stakeholders to apply engineering solutions to the unique challenges of our business.</li><li>Find and address performance issues.</li><li>Participate in design and code reviews.</li><li>Identify and communicate best practices.</li><li>Our stack: React, Redux, Webpack, Ruby on Rails, GraphQL, PostgreSQL</li></ul><p><br></p><p><strong>NECESSARY INGREDIENTS</strong></p><p><br></p><ul><li>Three or more years experience as a software engineer.</li><li>Experience developing and implementing GraphQL APIs and REST APIs</li><li>Solid knowledge of testing principles.</li><li>Experience creating cloud services in frameworks like Ruby on Rails, Django, Node.js or similar technologies.</li><li>Understanding of JavaScript, HTML, CSS, and related web technologies.</li><li>A thirst for learning and a passion for new technologies, processes, and patterns.</li><li>You write tests to improve the quality and reliability of your code.</li><li>Track record of mentoring up-and-coming engineers.</li></ul><p><br></p><p>If you don\u2019t meet these exact requirements but think you\u2019d be a good fit, please apply!</p><p><br></p><p><em>Blue Apron provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetics, marital status or veteran status. In addition to federal law requirements, Blue Apron complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T19:59:16.000Z"
+  },
+  "company": {
+    "name": "Blue Apron",
+    "link": "https://www.linkedin.com/company/blue-apron"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

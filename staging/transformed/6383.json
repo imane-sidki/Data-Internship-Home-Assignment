@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Immediate need for a talented<strong>Site Reliability Engineer.</strong>This is a<strong>Contract to Hire (FTE) </strong>employmentopportunity and isin <strong>Atlanta, GA (Initially Remote).</strong>Please review the job description below:</p><p><br></p><p><strong>Top Must Have: </strong>AWS, some software development experience, some Linux experience.</p><p><br></p><p><strong>What you will do: </strong></p><p>- Automate anything and everything! (Infrastructure build out, testing, deploying, monitoring, etc)</p><p>- Design and assist in the authoring of software tools that reliably manage application delivery</p><p>- Design and assist in the setup and maintenance of application monitoring and alerting</p><p>- Engage with Development/Capability Teams to ensure best practices are implemented</p><p>- Improve predictability and reliability of software releases, workflows and operating software.</p><p>- Reduce application deployment windows by leading company towards a Continuous Deployment environment</p><p>- Reduce mean time to recovery (MTTR) by helping troubleshoot, monitor, alert, and automating recovery.</p><p><br></p><p><strong>The skills we require: </strong></p><p>- Python, Ruby, Go or other systems programming (moderate skills required)</p><p>- Experience with configuration management systems (Octopus, Chef, Puppet)</p><p>- Experience rolling out redundant, mission-critical applications in a highly available production environment</p><p>- Experience with version control systems (Git or SVN)</p><p>- Experience with Cloud Computing platforms (Amazon AWS, Kubernetes, Heroku, etc)</p><p>- Experience with continuous integration tools (Jenkins, CircleCI, etc), Artifactory (or Nexus)</p><p>- Excellent written communication, problem solving, and process management skills</p><p>- Desire to work in a fast paced, evolving, growing, dynamic environment</p><p><br></p><p><strong>The skills we prefer: </strong></p><p>- Linux system engineering expertise</p><p>- VMWare, VirtualBox experience.</p><p>- Experience supporting Ruby or Java applications</p><p>- Experience supporting Database Server infrastructure (MySQL, Postgres, etc)</p><p>- Networking Knowledge</p><p>- Experience with Hashicorp tools (Vagrant, Terraform, Packer, etc), Linux Containers (docker, rocket)</p><p>- Experience with Java build tools such as Ant, Maven, Gant, or Gradle</p><p>- Experience with agile development, continuous integration and automated testing</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T17:27:22.000Z"
+  },
+  "company": {
+    "name": "Pyramid Consulting, Inc",
+    "link": "https://www.linkedin.com/company/pyramid-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Servicenow Developer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Role: ServiceNow Developer</strong></p><p><strong>Location: 100% Remote</strong></p><p><strong>Contract Duration: 6 Months</strong></p><p><br></p><p><strong>Requirements:</strong></p><ul><li>Experienced ServiceNow developers</li><li>Ability to create complex workflows using flow designer</li><li>Ability to create forms with automation fulfillment</li><li>Strong knowledge and understanding of ServiceNow data model and tables, especially for incident, change and CMDB</li><li>Knowledge of SN APIs</li><li>Network, server, or INF knowledge and experience is a \u2018plus\u2019 but not required</li></ul><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Replace work order templates using flow designer</li><li>Develop forms (including documentation)</li><li>Consult and help in development of the appropriate rest API to replace the ~100 automations across FI that use BMC ticket API</li><li>Consult other citizen developers with guardrails and solutions</li></ul><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:39:19.000Z"
+  },
+  "company": {
+    "name": "Metasys Technologies, Inc.",
+    "link": "https://www.linkedin.com/company/metasys-technologies-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (Remote)",
+    "industry": "Information Technology and Services,Computer Software,Hospital & Health Care",
+    "description": "WHAT IS CARBON ALL ABOUT?<br><br>At Carbon Health, we believe in the power of health, of medicine, and of technology. We aim to create a supportive environment where you can develop your career and continuously refine your craft. To support this goal, we\u2019ve built a diverse and passionate team of employees who are all driven to learn from one another and reach Carbon Health\u2019s mission of bringing high-quality healthcare to everyone.<br><br>Be an integral part of our growing DevOps team! As a Senior Site Reliability Engineer you will help define the design, development, and support of our next generation of automated build, deployment, &amp; infrastructure provisioning systems. You will help guide an engineering team that empowers engineers: building consistent development environments at scale; providing continuous integration tooling that ensures fast iteration, lessens developer frustration, and ensures what passes staging works in production; you will build out deploy tooling to manage a mesh of microservices; you will provide for production testing of canary and a/b (blue/green) needs. Your team will prototype new technologies to ensure system availability is always one step ahead of customer and staff demand.<br><br>This is an opportunity to use technology to make world class healthcare affordable to the masses, empowering medical professionals to serve those in need. If you love people and technology, we want to meet you!<br><br>This role is REMOTE friendly and can be located anywhere in the continental U.S.!<br><br><strong><u>What You'll Do<br></u></strong><ul><li>Champion DevOps best practices and standards across all of R&amp;D and Engineering</li><li>Support and evolve our CI/CD release pipelines</li><li>Maintain and evolve our computing infrastructure, focusing on cloud security, scaling, cost optimization, and automation</li><li>Work with our Security and Privacy teams to ensure application and infrastructure adhere to our policies and controls</li><li>Performance tuning JVMs, Databases, and configuration settings<br></li></ul><strong><u>About You<br></u></strong><ul><li>5+ years of experience in DevOps, System, or Software Engineering</li><li>4+ years of experience utilizing Cloud computing (EC2, SNS/SQS, RDS/Aurora)</li><li>Strong experience running production applications workloads in AWS Cloud</li><li>Experience administrating technologies at scale such as Kafka, ElasticSearch, Postgres and Redis</li><li>Database and Data warehouse experience (Postgres, DynamoDB, Snowflake)</li><li>Experiencing managing and automating Continuous Integration and Continuous Delivery (CI/CD) using GitHub, GitLab, Jenkins, CircleCI or similar (required)</li><li>Familiarity with modern scripting language such as Python, Ruby</li><li>AWS Certified a plus<br></li></ul><strong>Perks<br></strong><ul><li>Forward-thinking, transparent, and inclusive company culture</li><li>Collaborative environment within and across our clinic sites, virtual care teams and at HQ in San Francisco</li><li>401K with matching contribution and Pre-tax benefits including Commuter (transit &amp; parking)</li><li>Competitive compensation with medical, dental, vision, 401K (with match), FSA Medical, FSA Dependent Care and other great benefits for full time &amp; part time employees who work 20+ hours a week<br></li></ul><strong>A BRIEF HISTORY<br><br></strong>Carbon Health is the leading national healthcare provider with a mission to bring high-quality healthcare to everyone. Leveraging its unique technology platform, Carbon Health provides its patients with omnichannel care: seamless care from the same trusted providers at a wide variety of access points, including urgent care, primary care, virtual care, pop-up sites, the Carbon Health app, and on-site at their employers. Carbon Health also provides value-based care to enterprise partners across a broad range of industries, including academia, sports, entertainment, biotechnology, and travel. Apply today, join our team and make an impact!<br><br>To learn more about Carbon Health, and to stay up to date on what we're doing visit https://blog.carbonhealth.com/<br><br>We here at Carbon Health recognize that the key to success lies in valuing the minds, experiences and perspectives of people from all walks of life. Carbon Health is proud to value diversity and be an equal employment opportunity employer. Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, we will consider for employment qualified applicants with arrest and conviction records.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T07:11:50.000Z"
+  },
+  "company": {
+    "name": "Carbon Health",
+    "link": "https://www.linkedin.com/company/carbon-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

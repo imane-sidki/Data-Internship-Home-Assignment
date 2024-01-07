@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Applicant must be located in St. Louis, MO. Some remote work is okay, but candidate must be able to come to the office for meetings and other on-site requirements.  </strong></p><p>The Site Reliability Engineer (SRE) is key role within the client company. They provide a SaaS Order Management System (OMS) that is used by top name-brand retailer across the globe. The SRE Lead will be responsible for ensuring that the company\u2019s solutions are functioning at peak performance 24x7.</p><p><br></p><p>Our client is a fast growing and dynamic company looking for an SRE leader to take them to the next level. The role will focus on ensuring that cloud deployed solutions are running at peak performance and optimally using the cloud to provide rock-solid reliability. The role is also responsible for engaging closely with the engineering team to ensure that there is an efficient and reliable CI/CD process producing high-quality code on a predictable cadence. They are looking for a leader who thrives in a fast-paced, high-growth, team-focused environment where everybody makes a difference every day.</p><p><br></p><p><strong>The Successful Candidate Should Have the Following Skills &amp; Experience:</strong></p><ul><li>Bachelor\u2019s Degree in Computer Science (Master\u2019s Degree preferred).</li><li>5+ years of experience in a development role with lead or architect experience.</li><li>2-3 years hands-on experience with cloud technology architecture and web application deployment models (Azure experience preferred).</li><li>3-5 years as a senior developer or application architect.</li><li>Experience with enterprise level system monitoring tools (e.g., Datadog).</li><li>Understanding of major CI/CD approaches.</li><li>Command of automation technologies and tools.</li><li>Highly innovative with a drive for operational excellence.</li><li>Highly collaborative but not hesitant take ownership and move fast.</li><li>Strong desire to be part of a highly dynamic and talented technology team!</li><li>Ability to provide emergency support 24/7 if required.</li></ul><p><br></p><p><strong>Primary Responsibilities include the following:</strong></p><ul><li>Operational Health &amp; Automation- uptime, performance, redundancy, fault-detection.</li><li>Deploy and manage tooling to monitor Azure based production systems relative to performance, reliability, and scale.</li><li>Ensure that architecture and deployment models are sufficient to support SLA commitments.</li><li>Leverage cloud technology and platform capabilities to provide operationally sustainable solutions that are robust and cost effective.</li><li>Provide regular updates and recommendations to Sr Leadership on health and performance of production systems.</li></ul><p><br></p><p><strong>CI/CD Environment</strong></p><ul><li>Work with development team and build process to ensure tools and automation is in place to ensure reliable and quality code deployments.</li><li>Establish a CI/CD framework through tight engagement with engineering team.</li><li>Engage with QA team to establish and manage an automated test framework.</li><li>Provide regular updates and recommendations to Sr Leadership regarding reliability and effectiveness of the CI/CD environment.</li></ul><p><br></p><p><strong>Support Team Tooling &amp; Automation</strong></p><ul><li>Engage with product support team to identify and provide self-service tooling and automation that drive efficiencies, scale, and overall customer experience.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T19:10:18.000Z"
+  },
+  "company": {
+    "name": "VantageLinks, LLC",
+    "link": "https://www.linkedin.com/company/vantagelinks-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

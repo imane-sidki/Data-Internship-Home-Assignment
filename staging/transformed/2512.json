@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>Insight Global is looking for an eager, R&amp;D focused Data Scientist to join one of our largest Enterprise clients within their Emerging Technology organization and specifically Collaborate with the various teams while an understanding the Quantum Computing initiative. Day to day, this position has responsibility for evaluating quantum accelerated optimization approaches as well as alternative quantum annealing algorithms for use in optimization scenarios. He/She will implement optimization algorithms on quantum annealing hardware and prototype quantum annealing applications for combinatorial optimization problems.</p><p><br></p><p>This role will consist of preparing and collecting data sets to be used for testing quantum annealing prototypes and evaluating alternative optimization approaches in comparison to quantum annealing approaches both in graph based and non-graph-based optimization scenarios.</p><p><br></p><p><br></p><p><strong>Must-haves</strong> </p><ul><li>3+ years in relevant work experience </li><li>Hands on experience with Jupyter Notebooks </li><li>Knowledge working with Python </li><li>Experience with QUBO and alternative optimization algorithms. </li><li>Experience with embedding optimization problems into a topology appropriate for execution on a QPU. </li><li>A background in combinatorial optimization including working with graph structures. </li><li>The ability to critically evaluate the performance of algorithms. </li><li> Masters Degree or higher, Preferably a PhD in similar concentration </li></ul><p><strong></strong></p><p><strong>Plusses </strong></p><ul><li>Experience with D-Wave quantum systems. </li></ul><p><strong></strong></p><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T14:59:15.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

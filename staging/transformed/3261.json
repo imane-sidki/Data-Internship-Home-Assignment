@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Have you ever wanted to work on something that really matters?  Is it important to you to help others live longer, more fulfilling lives?  The Health Strategic Initiatives team is focused on just that \u2014 enabling individuals to live a healthier, happier life through personalized and compelling products.  We are an experienced team of engineers, data scientists, doctors, designers, PMs, and business leaders.  We work in a collaborative and dynamic environment where we are constantly pushing ourselves to redefine the industry and create delightful user experiences.<br><br><br>Data is central to the success of our team.  We work in a tight feedback loop where data insights drive feature development and design as well as defining future strategy and products.  As a data engineer you contribution will be foundational to all we achieve.<br><br> <br><strong>Key Qualifications<br></strong> <br>Developing ETL and debugging using Spark framework: PySpark/Spark Scala, Spark SQL, Spark UI<br><br>Implementing data transformation using Python<br><br>Experience with Unix-based command line interface and Bash scripts<br><br>Experience with workflow scheduling / orchestration such as Airflow or Oozie<br><br>Database development experience with Relational or MPP/distributed systems, experience w/ Postgres<br><br>Data visualization experience using Python or similar technologies<br><br>Experience with query APIs using JSON, ProtocolBuffers, or XML<br><br> <br><strong>Description<br></strong> <br>One of your main areas of contribution will be in the area of analytics tools and services to support analytics<br><br>Implement and maintain end-to-end data pipelines with structural understanding of data products<br><br>Developing tools to support analytics needs and facilitate analysis and insights<br><br>Create intermediate tables from raw data to support ad-hoc analyses and reporting<br><br>Develop and maintain data QA framework<br><br> <br><strong>Education &amp; Experience<br></strong> <br>A background in computer science, mathematics, or similar quantitative field with a minimum of 3 years professional experience; Masters preferred<br><br> <br>Role Number: 200275704<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T08:01:58.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 220000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer, Frontend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "As a Sr. Software Front-End Engineer you will be using your deep understanding of JavaScript, HTML, and CSS to improve the Slack web client, a complex in-browser application relied on by more than 10 million users every single day. You will work with real-time data streams, optimize for performance and reliability across browsers, and collaborate closely with Product, Design, Search Infrastructure Engineers, Machine Learning Engineer, and Quality Engineers to spec, build, test, and deploy new features. We have frontend engineers in almost every team across Slack, and in that role, you\u2019ll be making some of the most significant decisions for the company.<br><br><strong><u>A Taste Of Our Scale And Reach<br></u></strong><ul><li>Users spend over 10 hours connected and 2+ hours active in Slack every work day</li><li>10M+ Daily Active Users in more than 150 countries</li><li>1.5 billion messages are sent per month, half of those outside the United States</li><li>Every day we see over 3.5 million simultaneously connected users, over 3.5 billion web requests, over 42 billion database queries per day, and our systems see over 1 million queries/second in our caching tier</li><li>We have 8.8M+ app installations with 155,000 weekly active developers building on the platform</li><li>90% of our paid teams on Slack actively use apps</li><li>This is a full time Staff engineering position based in San Francisco, California<br></li></ul><em>Slack has a positive, diverse, and supportive culture\u2014we look for people who are curious, inventive, and work to be a little better every single day. In our work together we aim to be smart, humble, hardworking and, above all, collaborative. If this sounds like a good fit for you, why not say hello?<br><br></em><strong><u>What You Will Be Doing<br></u></strong><ul><li>You\u2019ll own technical strategy for broad or complex requirements with insightful and forward-looking approaches that go beyond the direct team and solve large open-ended problems</li><li>You\u2019ll lead technical design with expertise, guiding and enabling the best technical decisions to be made across the team</li><li>You\u2019ll drive strategic development of methods, techniques and evaluation criteria for projects and programs</li><li>You\u2019ll lead a broad functional area and direct efforts through team leads along with team\u2019s overall planning</li><li>You\u2019ll mentor other engineers and deeply review code that empowers a team to do its best work</li><li>You\u2019ll collaborate with backend and quality engineers to spec, write, test, and deploy code that integrates with real-time data streams and API endpoints</li><li>You\u2019ll brainstorm features with product managers and designers and guide decisions based on your knowledge of the codebase</li><li>You\u2019ll learn about, use, and teach new web technologies<br></li></ul><strong><u>What You Should Have<br></u></strong><ul><li>You have 5+ years of professional experience writing client-side JavaScript along with investigating and improving its performance</li><li>You have 1+ years experience with React and Redux, Lodash, and/or CSS preprocessors like LESS or SASS</li><li>You can lead technical architecture discussions and help drive technical decisions within your team</li><li>You have expertise in building complex layouts with CSS and HTML</li><li>You have experience building and debugging complex systems in a multi-team environment</li><li>You have experience with modern browser technologies and knowledge of a templating system</li><li>You have strong UX and design sensibilities, and a desire to sweat the small stuff</li><li>You are a strong communicator. Explaining complex technical concepts to designers, support, and other engineers is no problem for you</li><li>You have a bachelor's degree in Computer Science, Engineering or a related field, or equivalent training, fellowship, or work experience<br></li></ul><strong><u>Bonus Points<br></u></strong><ul><li>Experience with WebSockets, Local Storage, or ES6</li><li>Experience working on consumer facing products<br></li></ul>Slack is a layer of the business technology stack that brings together people, data, and applications \u2013 a single place where people can effectively work together, find important information, and access hundreds of thousands of critical applications and services to do their best work. From global Fortune 100 companies to corner markets, businesses and teams of all kinds use Slack to bring the right people together with all the right information. Slack is headquartered in San Francisco, CA and has ten offices around the world. For more information on how Slack makes teams better connected, visit slack.com.<br><br>Ensuring a diverse and inclusive workplace where we learn from each other is core to Slack\u2019s values. We welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and a pleasant and supportive place to work.<br><br>Come do the best work of your life here at Slack.<br><br>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br><br>Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org.<br><br>Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:15:04.000Z"
+  },
+  "company": {
+    "name": "Slack",
+    "link": "https://www.linkedin.com/company/tiny-spec-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

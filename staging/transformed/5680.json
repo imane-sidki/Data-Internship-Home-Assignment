@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Company Description<br><br></u></strong>Daxko powers health &amp; wellness throughout the world. Every day our team members focus their passion and expertise in helping health &amp; wellness facilities operate efficiently and engage their members.<br><br>Whether a neighborhood yoga studio, a national franchise with locations in every city, a YMCA or JCC--and every type of organization in between--we build solutions that make every aspect of running and being a member of a health and wellness organization easier and delightful.<br><br><strong><u>Job Description<br><br></u></strong>The <strong>Site Reliability Engineer</strong> is a role for the motivated coder/hacker/engineer that wants to solve problems at the root cause, in an elegant and sustainable way. If that&apos;s you, then you will be an instrumental part of our TechOps team, which exists to build and support the foundational tools that our product teams use to build products our customers love and trust. We care deeply about our delivery pipeline being simple, reliable, consistent, and fast. You will be successful in this role if you have a deep love for automation, building scalable systems, embracing new technologies, and sharing with teammates.<br><br>The Site Reliability Engineer reports to the Director, Technical Operations.<br><br><strong><u>You Will Also<br></u></strong><ul><li>Apply cloud (AWS, VMWare) computing skills to deploy upgrades and fixes</li><li>Design, develop, and implement software integrations based on user feedback</li><li>Troubleshoot production issues and coordinate with the development team to streamline code deployment</li><li>Implement automation tools and frameworks (CI/CD pipelines)</li><li>Analyze code and communicate detailed reviews to development teams to ensure a marked improvement in applications and the timely completion of projects</li><li>Collaborate with team members to improve the company\u2019s engineering tools, systems and procedures, and data security</li><li>Optimize current architecture</li><li>Design and build highly available production systems</li><li>Conduct systems tests for security, business continuity, performance, and availability</li><li>Develop and maintain design and troubleshooting documentation</li><li>Participate in rotating on-call responsibilities for the platform</li></ul> Qualifications<br><ul><li>Strong Knowledge AWS Public Cloud services and solutions</li><li>Extensive experience with automation tools such as Terraform, Chef, or Ansible</li><li>Ability to maintain .NET and Java web applications</li><li>Strong Linux and Windows management background</li><li>Experience in architecting solutions and a deep understanding of application-status monitoring</li><li>Strong command of software-automation production systems (Jenkins and Selenium)</li><li>Script writing abilities using Perl/Python/Java/Bash</li><li>Expertise in software development methodologies</li><li>Working knowledge DevOps tools like Git and GitLab</li><li>Working knowledge of Microsoft SQL and MySQL</li><li>Problem-solving skills and attitude</li><li>Ability to work independently and as part of a team</li><li>Bachelor\u2019s degree in a technical discipline OR equivalent experience</li><li>Two (2) to three (3) years of relevant experience<br></li></ul><strong><u>Bonus Points For<br></u></strong><ul><li>AWS Cloud Architect experience</li><li>Automation with Terraform</li><li>Worked with .NET SaaS solutions</li><li>Maintaining high availability systems</li><li>CI/CD process engineering<br></li></ul>Additional Information<br><br>Daxko is dedicated to pursuing and hiring a diverse workforce. We are committed to diversity in the broadest sense, including thought and perspective, age, ability, nationality, ethnicity, orientation, and gender. The skills, perspectives, ideas, and experiences of all of our team members contribute to the vitality and success of our purpose and values.<br><br><strong><u>Some Of Our Favorites Include<br><br></u></strong>We truly care for our team members, and this is reflected through our offices, benefits, and great perks.<br><ul><li>Flexible paid time off </li><li>Affordable health, dental, and vision insurance options</li><li>Monthly fitness reimbursement</li><li>401(k) matching</li><li>New-Parent Paid Leave</li><li>1-month paid sabbatical every 5 years</li><li>Casual work environments<br></li></ul>All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Daxko",
+    "link": "https://www.linkedin.com/company/daxko"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63200,
+    "max_value": 99300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Birmingham",
+    "region": "AL",
+    "postal_code": "35226",
+    "street_address": null,
+    "latitude": 33.522858,
+    "longitude": -86.80771
+  }
+}

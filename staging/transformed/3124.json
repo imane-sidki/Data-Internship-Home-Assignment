@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Responsibilities:</strong></p><p><br></p><ul><li>Create actionable recommendations and put code into production effecting a large population with cutting edge technology. </li><li>Create Training models, evaluating them, making sure they are fit for purpose. </li><li>Deliver actionable recommendations </li><li> Find and interpret rich data sources; manage large amounts of data despite hardware, software, and bandwidth constraints; merge data sources; ensure consistency of data sets; create visualizations to aid in understanding data; build mathematical models using the data; and present and communicate the data insights/findings.</li></ul><p><br></p><p><br></p><p><strong>Requirements :</strong></p><p><br></p><ul><li> Knowledge and experience in building and analyzing linear regression, logistic regression, generalized linear models, and time series models </li><li> Experience in converting business problems into statistical problems, building models to solve the statistical problem, then use the models to develop business recommendations to solve the business problem </li><li> Knowledge of optimization techniques and application to business problems </li><li> Experience in pulling data from multiple sources, cleaning the data, and preparing the data for analysis </li><li> Experience in using a structure workflow in their problem solving </li><li> Experience in using Git to manage model versions </li><li> Experience with R and Python</li><li> Three plus years of applying the above in a business environment </li></ul><p><br></p><p><br></p><p>PriceSenz is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, or disability</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T12:56:27.000Z"
+  },
+  "company": {
+    "name": "PriceSenz",
+    "link": "https://www.linkedin.com/company/pricesenz"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

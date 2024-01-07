@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Platform Engineer",
+    "industry": "Insurance",
+    "description": "<p><strong>Senior Data Platform Engineer</strong></p><p>Hippo is modernizing the home insurance industry by putting customers at the center of everything we do, from the coverage we offer to the customer service we provide. Hippo\u2019s true ambition lies in helping people protect their homes to begin with by leveraging technology and data to help find small issues before they become big headaches. Because, at the end of the day, the best home insurance policy is the one you never have to use.</p><p>We're looking for a talented Data Platform Engineer to scale up our analytical data infrastructure, as well as partner with the product team to ensure data integrity in the entire system. An ideal candidate brings curiosity, a passion for data, and a deep understanding of the technologies behind data pipelines, warehousing, big data, analytics and deep understanding of the software development life cycle . Prior startup experience and ability to thrive in a fast-paced environment is a big plus.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Manage analytics data systems, continuously scale up to meet the growing business demand</li><li>Develop and provide on-going improvement for workflow orchestration system</li><li>Manage build and deployment process in company wide data systems</li><li>Manage data ingest flow to meet all company\u2019s batch processing and real time use cases</li><li>Develop and improve company\u2019s reporting framework in empowering various regulatory and partner requirements</li><li>Partner with product engineering and other platform team to ensure data integrity across the broader systems</li><li>Improve the anomaly detection platform integration to achieve a resilient data system, and empower data QA as well as business users</li></ul><p><br></p><p><strong>Required Qualifications:</strong></p><ul><li>Bachelor\u2019s degree or equivalent in Computer Science, Computer Engineering, Information Technology or any related field of study</li><li>5+ years of work experience as a software engineer in data infrastructure or analytical data warehouse</li><li>Demonstrable knowledge, experience, skill and proficiency with the following:</li><li>Python</li><li>SQL</li><li>Shell scripting</li><li>AWS/GCP environments</li><li>Experience with building ETL workflow management systems</li><li>Experience with docker container and Kubernetes</li></ul><p><br></p><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience working with DBT and BigQuery</li><li>Experience in building or integrating data anomaly and validation tools</li></ul><p><br></p><p><strong>Compensation &amp; Perks:</strong></p><ul><li><strong>Healthy Hippos Benefits-</strong>100% Employer paid medical, dental &amp; vision plan options for our team members AND their families (yes, you read that correctly). As well as 401K, long &amp; short term disability, EAP and flexible spending accounts.</li><li><strong>Flexible Paid Time Off-</strong>Uncapped PTO (with manager approval)</li><li><strong>Little Hippos Program</strong>- We reimburse our team members up to $25k for adoption costs and up to $50k for infertility treatments. Plus, we offer 12 weeks parental leave for primary caregivers and 8 weeks for secondary caregivers.</li><li><strong>Hippo Habitat</strong>- Fun offices located in downtown Austin. Stocked kitchen and BBQ Friday\u2019s for all!</li></ul><p><br></p><p><strong><em>Hippo is an equal opportunity employer, and we are committed to building a team culture that celebrates diversity and inclusion.</em></strong></p><p><strong><em>Hippo\u2019s applicants are considered solely based on their qualifications, without regard to an applicant\u2019s disability or need for accommodation. Any Hippo applicant who requires reasonable accommodations during the application process should contact the Hippo\u2019s People Team to make the need for an accommodation known</em></strong></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:06:37.000Z"
+  },
+  "company": {
+    "name": "Hippo Insurance",
+    "link": "https://www.linkedin.com/company/hippo-insurance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

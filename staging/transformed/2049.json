@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Apple Media Products",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple Media Products (AMP) first delighted users with downloadable music in April 2003 with the opening of the iTunes Store. Since then, AMP has delivered countless innovations around the digital delivery of audio and video, and in 2008 revolutionized smartphone app distribution with the launch of the App Store<br><br><br>Being the source for so much digital content requires maintaining relationships with a vast number of providers, from record labels to movie studios to app developers. The Digital Supply Chain Engineering team (DSCE) is responsible for ensuring that new content is uploaded, processed, cataloged, and available on our storefronts when the provider expects it to be, and with the highest quality.<br><br><br>We are looking for an experienced software engineer to join our team dedicated to system evolution across DSCE. As with any software that has lasted more than 15 years, there are always opportunities to leverage new technology to improve performance, use fewer resources, simplify operations, and more. Our mission is to make engineers more productive while building efficiency and quality into our systems. This is a high-leverage, high-impact role that will expose you to all the systems Apple uses to process digital content for delivery to well over a billion people worldwide!<br><br> <br><strong>Key Qualifications<br></strong> <br>Fluency in Java 11 and related tooling<br><br>Protocol-level understanding of HTTP<br><br>Understanding of TCP/IP, networking, and maximizing throughput of very large files<br><br>Experience building REST APIs with JAX-RS/Jersey<br><br>Experience building manageable and reliable systems in a service-oriented architecture<br><br>Experience with Cassandra<br><br>Working knowledge of authentication and authorization fundamentals<br><br><br>Preferred:<br><br>Experience with Kafka<br><br>Experience with Spark<br><br>Knowledge of cryptographic APIs and proper use of cryptographic primitives<br><br>Experience &amp; passion for tools and techniques to drive operational quality improvements<br><br>Experience &amp; knowledge of OpenTelemetry and/or Zipkin<br><br> <br><strong>Description<br></strong> <br>The Apple Media products team is looking for a Software Engineer to join the Asset Repository team. We are responsible for storing and delivering the many petabytes of files used by the content import, management, processing, and distribution systems. Our systems store, track, and deliver every app, song, movie, and video \u2013 both streamed and downloaded. Come help build and run the services and systems that underlie the growth of the App Store, Apple TV+, &amp; Apple Music.<br><br><br>We're a team of consummate tech geeks who love figuring out how things work and trying to make them better. Sometimes it's a little tweak, sometimes it's a fundamental shift - usually it's somewhere in between. We brainstorm on whiteboards, share ideas at team lunches and pot-lucks, build prototypes, present proposals to teams, embed for a while to help them get started, check the metrics, and repeat!<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science or equivalent with relevant industry experience.<br><br> <br><strong>Additional Requirements<br></strong> <br>This position is in a small team that is tightly focused on a specific set of critically important systems. Your ability and self-motivation to learn new technologies, and promote novel solutions to the problems at hand, is important to success. The team is remotely distributed across the continental US, so strong communication skills are necessary.<br><br> <br>Role Number: 200271844<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:46:45.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 153000,
+    "max_value": 201000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

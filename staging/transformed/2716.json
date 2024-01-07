@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Software Engineer - Site Reliability Engineering",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you we could do together. At Apple, new insights have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.<br><br><br>JMET is an unusual security engineering group within Apple IS&amp;T! We provide critical services for the company across every product line. From manufacturing to customer facing, our services span across the entire lifecycle of most Apple hardware. We are responsible to design, implement and support the ongoing need to improve customer safety and privacy by providing security services that are tightly coupled with hardware. Many of our services are seen in iOS Security Guide or publicly discussed on Internet forums. <br><br><br>As a Cloud Software Engineer - SRE, you will bring deep expertise designing and supporting highly-scalable, highly-available infrastructure and applications in Kubernetes, AWS as well as promoting micro service design patterns in sophisticated working environment. The successful candidate will design and implement innovative approaches and tools for continuous delivery, serve as a domain professional on all aspect of our containerized deployments, including development, configuration, scaling and upgrades. You will be joining a team of highly-skilled, hardworking and passionate engineers working on this groundbreaking and constantly evolving space.<br><br> <br><strong>Key Qualifications<br></strong> <br>5+ years of experience in production expertise in architecting production EKS and On-Prem Kubernetes Clusters. <br><br>5+ years experience operating and developing infrastructure and services in public cloud environments (AWS, GCP)<br><br>Experience in configuring and designing service mesh and discovery using LinkerD, Consul or Istio. <br><br>5+ years strong automation and designing expertise in cluster deployments using tools such as Ansible, Terraform and Packer along with security policies using Open Policy Agent. <br><br>Experience in building observability solution and exposing metrics that feed SLO\u2019s and KPI\u2019s. <br><br>Strong with one or more languages (Go, Python, Java) for automation or integration with multiple APIs.<br><br>Experience with common formats such as JSON and compression utilities. <br><br>Experience working with Kubernetes ingress services such as Contour and Envoy.<br><br>3+ years of experience in designing, automating custom modules or tooling to simplify the management of multiple clusters and writing detail solution specifications, diagrams, operational procedures. <br><br>Excellent communication skills, capable of working with multi-functional technical teams and business partners.<br><br> <br><strong>Description<br></strong> <br>We are looking for an engineer whose objective is to \u201cmake things scale\u201d. <br><br><br>This includes building software that automates experiences, developing utilities that provides insights/metrics, and provide instrumentation for Engineering teams to more efficiently scale the platform. <br><br><br>This engineer will be responsible for maintaining JMET\u2019s Kubernetes &amp; AWS production and test environments and maintain high-volume clusters in multiple datacenters.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS Computer Science or relevant studies.<br><br> <br><strong>Additional Requirements<br></strong> <br>Programming and Scripting Languages: Go, Python, Java, Bash<br><br>Container Orchestration: Kubernetes, Amazon EKS, Rancher. <br><br>Configuration Management: Ansible, Terraform, Packer. <br><br>Operation Systems: Linux (Red Hat) and OS X. <br><br>Containerization and Virtualization Technologies: Docker Enterprise, Rancher AWS, GCP, VMWare<br><br>Metrics and monitoring: ELK, PagerDuty, Prometheus, Grafana<br><br>Messaging: Kafka, RabbitMQ<br><br>Databases: Oracle, memcached, MySQL<br><br>Other tooling: Linkerd, Contour, Hashicorp Consul, Open Agent Policy Agent.<br><br> <br>Role Number: 200244094<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T15:45:02.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

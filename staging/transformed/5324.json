@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ISE, Input Experience - Sr. Research Engineer, Text Understanding Platform",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple and its Intelligent System Experience organization are on a mission to create software that feels intimate, humane and personal, by building models that understand who you are and what you use your device for in order to adapt and personalize your experience.<br><br><br>Users interact with countless amounts of text through their daily interactions, and understanding what that text means to them is central to creating a truly personalized user experience. The Text Understanding Platform team provides some of the core system-level capabilities for semantic analysis of text used to benefit a range of features across Apple platforms. As a member of this organization, you\u2019ll have the opportunity have a broad impact on millions of iOS users worldwide.<br><br><br>We\u2019re looking for a motivated and experienced software architect with deep experience in building high-performance and maintainable software, to help us to design and implement the next generation of our text understanding platform. Prior work in NLP is not strictly necessary here \u2014 this could be a great role for a very experienced infrastructure engineer looking to learn about NLP.<br><br><br>If you\u2019ve got a passion for delivering personalized and intelligent user experience, in ways consistent with Apple\u2019s core values of fairness, privacy, and attention to detail, are comfortable working collaboratively and navigating ambiguity, we want to hear from you!<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong object-oriented programming and design skills, at both the systems level and application level.<br><br>Experience as a tech lead or architect, including work at the design, implementation, and maintenance phases.<br><br>Ability to understand and manage the performance and privacy constraints of client-side engineering.<br><br>Ability to navigate a large organization and work with internal partners to understand and satisfy requirements.<br><br>Engineering experience working on ML or data processing infrastructure.<br><br>Practical knowledge of Objective-C (useful but not required)<br><br>Knowledge of and experience with practical applications of NLP algorithms. (useful but not required)<br><br> <br><strong>Description<br></strong> <br>In this role, you will:<br><br><br>- Participate in the design of systems that allow us to bring the state of the art in NLP algorithms on device.<br><br>- Handle performance optimization and maintenance of the text processing engine.<br><br>- Establish a culture of excellence in code quality and testing.<br><br>- Work with internal client teams to identify critical needs and adapt your design to serve them.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor's, Master's, or Ph.D in Computer Science or related field, or relevant experience<br><br> <br>Role Number: 200229604<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:38:43.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

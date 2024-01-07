@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p>Title: <strong>Site Reliability Engineer</strong></p><p><strong>Location: 100% remote</strong></p><p><strong>Duration: 12 months+</strong></p><p><br></p><p><br></p><p><strong><u>Responsibilities</u></strong></p><p>Reduce Lead Time: The time from code written to entering production</p><p>Increase Deployment Frequency: How often deploys happen</p><p>Shorten Mean-Time-To-Recover (MTTR): How quickly can teams restore service after outages</p><p>Lessen Change Fail Rate: What percentage of deploys result in service impairment or an outage</p><p>Measure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating to continually improve</p><p>Provide primary operational support and engineering for multiple large, distributed software applications</p><p>Engage in and improve the whole lifecycle of services\u2014from inception and design, deployment, operation, and refinement.</p><p>Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning, and launch reviews.</p><p>Maintain services once they are live by measuring and monitoring availability, latency, and overall system health.</p><p>Scale systems sustainably through mechanisms like automation; evolve systems by pushing for changes that improve reliability and velocity.</p><p>Practice sustainable incident response and blameless postmortems.</p><p><strong><u>General</u></strong></p><p>Strong communication skills with ability to communicate complex technical concepts and align organization on decisions</p><p>Systematic problem-solving approach coupled with effective communication skills and a sense of drive.</p><p>Open to learning new ideas outside scope or knowledge</p><p><strong><u>Required skills:</u></strong></p><p>A proactive approach to spotting problems, areas for improvement, and performance bottlenecks</p><p>Passion for problem-solving, continuous improvement and optimization</p><p>Experience implementing, configuring and tuning Dynatrace</p><p>Experience programming in at least one of the following languages: C#, Java, Python, or Go.</p><p>Ability to debug, optimize code, and automate routine tasks.</p><p>Experience with Azure related resources such as VNets, Resource Groups, Functions, App Service, Azure VM, NSGs (Network Security Groups), Express Route &amp; RBAC (Role Based Access Control).</p><p>Experience with software deployment and orchestration technologies such as Helm, Docker, Kubernetes, Kubernetes Operators, Service Mesh (Istio)</p><p>Understanding of testing principles in the context of IaC</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T18:24:04.000Z"
+  },
+  "company": {
+    "name": "Intellyk Inc.",
+    "link": "https://www.linkedin.com/company/intellyk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Piscataway",
+    "region": "NJ",
+    "postal_code": "07001",
+    "street_address": null,
+    "latitude": 40.543877,
+    "longitude": -74.47411
+  }
+}

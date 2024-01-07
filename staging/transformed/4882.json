@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Restaurants,Facilities Services,Hospitality",
+    "description": "Array is revolutionizing how businesses leverage and enhance consumer data. Our platform (APIs, components, and rules engine) enables innovative companies and developers to seamlessly integrate credit and identity data into their apps, websites or workflows. Founded by serial entrepreneurs (with several exits), weve been nearly doubling revenue monthly. Were looking for passionate and creative teammates to help us scale and supercharge the company. If youre looking for autonomy, impact, and cutting-edge FinTech, wed love to hear from you. Though fully remote, our team is the foundation of our success. We strive for diverse backgrounds, opinions, and approaches. We encourage respectful dissent, digging for the truth, so that we can deliver the best product for our clients and users. Continuous improvement, experimentation, and a clear mission stretch us individually and together.<br><br>We are seeking experienced, results-driven, and passionate engineers to join our infrastructure project team. Our ideal candidate is a self-starter and has excellent communication skills. Our collaborative environment relies heavily on innovation, technical savvy, and problem-solving skills. This is a full-time remote position within the US. As our newest SRE Engineer, youll be a major contributor to the companys success. Youll work with teams across the organization to build and maintain monitor-able, performant, reliable and highly-scalable software systems. Your technical contributions will help protect dozens of brands, facilitate continuous delivery, support our SLA for high-traffic websites and mobile applications in the credit score and reporting industry.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Evangelize best practices for building and operating highly reliable systems.</li><li>Consult in system design to meet reliability and capacity requirements</li><li>Constantly optimizing performance and reliability</li><li>Support application deployments, building new systems and upgrading and patching existing ones through DevOps methodologies.</li><li>Automate infrastructure and configuration management.</li><li>Conduct timely post-mortems of production infrastructure incidents.</li><li>Assist with all aspects of operational security and PCI compliance.</li><li>Seek out potential threats to security and reliability and advocate solutions<br></li></ul><strong><u>Job Requirements<br></u></strong><ul><li>Passion for reliable, scalable, observable software with strong sense of ownership.</li><li>5+ years experience developing and monitoring mission-critical systems.</li><li>Hands on experience with Docker and docker-compose.</li><li>Proficiency working with and understanding a containerized development workflow</li><li>Strong background in Linux/UNIX administration (e.g. RedHat/CentOS 7/Alpine Linux).</li><li>Experience with configuration management tools like Ansible.</li><li>Experience with Infrastructure as Code (IaC) tools like Packer and Terraform.</li><li>Experience in deploying large scale Docker based environments with OpenShift or Kubernetes, or similar product.</li><li>Experience with languages like Bash, Python, or Node.js .</li><li>Experience implementing Application clustering / load balancing concepts and technologies</li><li>Experience using devops tooling/modules with VMware vSpheres API.</li><li>Proficiency administering a CI/CD pipeline (we use Gitlab).</li><li>Proficiency with networking fundamentals, diagnostic, troubleshooting, etc.</li><li>Proficient in using command line tools to quickly triage and fix production issues.</li><li>Understanding of protocols/technologies like HTTP, SSL, LDAP, SQL, HTML, XML<br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li>Experience implementing CI/CD Blue/Green Deployments using Gitlab CI/CD You're a wizard with Terraform</li><li>Project Atomic (Red Hat and Fedora atomic host)</li><li>Consul</li><li>Build and maintain data stores with PostgreSQL</li><li>Implement Keepalived / Linux HA in a scalable environment</li><li>In-depth knowledge of distributed computing and data systems, multi-region presence, high traffic websites.</li><li>In-depth knowledge of immutable infrastructure, compostable infrastructure, and/or serverless computing.<br></li></ul>Great products and great ideas don't happen by accident. Our goal is to grow through the recruitment of truly exceptional people, and we appreciate your application. Teamwork is the foundation of our success, and we look forward to getting to know more about you! Thank you again for considering Arrayhave an innovative day!<br><br>Best,<br><br>The Array Recruiting Team",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T00:00:00.000Z"
+  },
+  "company": {
+    "name": "ARRAY",
+    "link": "https://www.linkedin.com/company/arrayinfotech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Ann Arbor",
+    "region": "MI",
+    "postal_code": "48106",
+    "street_address": null,
+    "latitude": 42.281418,
+    "longitude": -83.748474
+  }
+}

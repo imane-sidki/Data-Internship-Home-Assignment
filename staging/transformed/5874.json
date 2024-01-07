@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Senior Data Engineer-Data Infrastructure</strong></p><p><br></p><p>Serve Robotics seeks to a build data analytics platform which aims to improve delivery robots and drive business decisions. Data Infrastructure team is searching for an enthusiastic individual who could tackle complex technical challenges in data collection, transferring and processing at scale, and develop solutions which will run on robots and in the cloud.</p><p><br></p><p><strong>What you'll be doing</strong></p><ul><li>Design, implement, and improve the analytics platform.</li><li>Develop and maintain data tools and solutions (e.g., pipelines, models, tables) to acquire, process, and store data by ensuring the accessibility, reliability, and quality of data for end users.</li><li>Apply data modeling techniques to organize and transform data into meaningful and valuable output.</li><li>Understand the data needs of other teams and build cross-functional solutions in a collaborative work environment.</li><li>Drive ongoing efficiency and reliability improvements through design and automation: performance, scaling, observability, and monitoring.</li></ul><p><br></p><p><strong>What makes you a strong fit</strong></p><ul><li>Strong problem solving and coding skills in at least one of the following languages: Python/Java/Scala/Kotlin.</li><li>Expert level skills writing and optimizing complex SQL</li><li>Knowledge of data warehousing concepts</li><li>Experience in data mining, profiling, and analysis</li><li>Experience with complex data modeling, ETL design, and using large databases in a business environment</li><li>Experience with Big Data technologies such as GCP BigQuery/Dataflow, AWS Redshift, Spark or similar technologies</li><li>You are able and comfortable to communicate well, both verbally and in writing.</li><li>You are passionate about technology and enjoy collaborating, learning from or teaching others so we can all become better developers.</li><li>You value respectful and inclusive environments, and always want to do your best to help your team and strive to excellence.</li></ul><p><br></p><p><strong>Bonus points</strong></p><ul><li>Sound knowledge of distributed systems and data architecture - design and implement batch and stream data processing pipelines, knows how to optimize the distribution, partitioning, and MPP of high-level data structures.</li><li>Demonstrate efficiency in handling data - tracking data lineage, ensuring data quality, and improving discoverability of data.</li><li>Familiarly with different types of data serialization formats such as Parquet, Avro and Protobuf.</li></ul><p><br></p><p><strong><span class=\"ql-cursor\"></span>About Serve Robotics</strong></p><p>Over 40% of restaurant deliveries in the US are within 30 minutes walking distance, yet 90% of the time, we are moving two-pound burritos with two-ton cars!</p><p>We are reimagining how things move in cities. Our personable sidewalk delivery robot, Serve, is a small, low-speed self-driving vehicle that\u2019s designed to take deliveries away from congested streets to save energy and reduce emissions, while making deliveries faster and cheaper.</p><p>Having completed thousands of commercial deliveries for Postmates (now Uber) in Los Angeles and San Francisco, we recently spun out with backing from top tier investors to grow faster and target the entire sidewalk delivery market. Our commercial agreement with Uber provides us unlimited access to delivery jobs\u2014and thus revenue.</p><ul><li>We are proud to be an equal employment opportunity and affirmative action employer. Qualified applicants are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:38:29.000Z"
+  },
+  "company": {
+    "name": "Serve Robotics",
+    "link": "https://www.linkedin.com/company/serve-robotics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

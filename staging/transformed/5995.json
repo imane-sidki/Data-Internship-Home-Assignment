@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Mechanical or Industrial Engineering",
+    "description": "<strong><u>About Blue River Technology<br><br></u></strong>We're Blue River, a team of innovators driven to radically change agriculture by creating intelligent machinery. We empower our customers to implement more sustainable solutions: optimize chemical usage, reimagining routine processes, and improving farming yields year after year. We believe that focusing on the small stuff \u2013 pixel-by-pixel and plant-by-plant - leads to big gains. By partnering with John Deere, we are innovating computer vision, machine learning, robotics and product management to solve monumental challenges for our customers.<br><br>Blue River is based in Sunnyvale, CA and has 100+ team members with diverse experience including computer vision, machine learning, systems software, autonomous vehicles and precision agriculture. Our working environment is fast paced and highly collaborative, and employees are excited to use their talents to improve food production and protect the environment.<br><br>Our people are at the heart of what we do. Through cross-discipline collaboration, our mission-driven and daring team is eager to define the new frontier of robotics. We are always asking hard questions, rapidly iterating, and getting our boots in the field to figure it out. We won't give up until we've made a tangible and positive impact.<br><br><strong><u>Position Description<br><br></u></strong>Are you a highly skilled Machine Learning Engineer looking to join an extraordinary research and engineering team? In this role, you'll focus on bringing state of the art Machine Learning technology to production for John Deere's construction vehicles. This will involve building and testing Machine Learning models applied to solve computer vision problems in outdoor environments. You will be working closely with team members within Blue River and at John Deere to deliver a first-of-its-kind solution.<br><br>Our ideal candidate for this exciting position will be fluent in the latest and greatest technologies, capable of working independently to solve hard technical challenges in Computer Vision and Machine Learning, and skilled at working with different groups of individuals across the company. The role will include work in the following areas:<br><ul><li>Implementing deep-learning-based classification systems for construction</li><li>Exploring and developing new methods for improving detection performance and improving the runtime of inference</li><li>Working with internal customers to develop machine learning pipelines for computer vision based classification tasks</li><li>Helping to architect and develop the data pipeline and platform supporting machine learning<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>M.Sc. or Ph.D. in Computer Vision or Machine Learning, with focus on Deep Learning and machine vision applications</li><li>5+ years developing algorithms and solving problems in computer vision and machine learning</li><li>5+ years in developing machine learning systems, with extensive experience on deep learning systems</li><li>Proven ability deploying machine learning systems to solve real-world problems</li><li>Advanced proficiency in C++, Python, or related tools and system SW architecture</li><li>Attention to detail and ability to work independently</li><li>Excellent communication and teaming skills</li><li>Ability to provide technical leadership for machine learning engineers</li><li>Passion to solve difficult problems<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience in implementing and improving deep learning systems and moving to real-time processing on embedded hardware</li><li>In-depth knowledge of deep learning frameworks including Tensorflow, PyTorch, MxNet</li><li>Hands-on work on managing and doing GPU-based computing on large data sets</li><li>Leadership or management experience</li><li>Experience with 3D stereo and pointclouds<br></li></ul>Blue River offers competitive compensation and benefits, including a great 401(K) match. We believe in a work life balance and offer Paid Time Off and Sick Leave as well as Paid Parental Leave and an adoption benefit. Subsidized lunches, flexible work hours, CalTrain passes (with mobile Wi-Fi!) and a collaborative and supportive environment also contribute to making Blue River a great place to work.<br><br>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.<br><br>We support each employee living a full life, enabling a thriving career and accomplishing a meaningful, challenging mission with incredible people.<br><br>We have designed our work environment to allow us each to do our work effectively, be our best selves, and be exposed to the unexpected connections and experiences that support creative innovation - all while leaving room for the other things you love.<br><br>We have been operating as \"mostly remote\" during the pandemic. As we transition back to the office, we are introducing our Workplace Flexibility Model. Most roles will be based out of our Sunnyvale office and balance in-office time with flexibility to support other needs you have in your life. This flexibility could be used to reduce the Bay Area commute burden by working from home a couple days a week, support parent or caregiver needs, or allow space for you to do the other things you love, whatever that might be! There are times when achieving great work is more productive when working where you work best. That's the point of this model...flexibility for you. A few roles will be approved as fully remote. Those are determined by managers and approved by our senior team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T17:06:44.000Z"
+  },
+  "company": {
+    "name": "Blue River Technology",
+    "link": "https://www.linkedin.com/company/bluerivertech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

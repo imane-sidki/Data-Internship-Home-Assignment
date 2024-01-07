@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p>Graylog is a leading log management solution that hundreds of thousands of IT professionals across the globe rely on every day. With a focus on security, compliance, operations, and DevOps, Graylog delivers a better user experience by making analysis ridiculously fast and efficient using a more cost-effective and flexible architecture. Purpose-built for modern log analytics, Graylog removes complexity from data exploration, compliance audits, and threat hunting so users can quickly and easily find meaning in data and act faster.</p><p><br></p><p>Graylog Cloud is an exciting new offering from an established innovator in the log management domain. It is a powerful, flexible and seamless centralized log management experience without the burden of operational and infrastructure costs. You'll be able to contribute on the foundational stages and directly contribute to key strategic decisions. This opportunity can help shape your career.</p><p><br></p><p>This team is operating from Germany and the United States and we are hiring for both locations. We always have been a remote company and your exact locations in those countries does not matter. If you are living in a city with a local Graylog office (Houston, Hamburg, Munich), you are of course welcome to get a permanent desk there.</p><p><br></p><p>Responsibilities</p><ul><li>Build and maintain globe-spanning cloud infrastructure on AWS primarily using Docker, Terraform and Kubernetes.</li><li>Automate manual tasks and ensure all resulting code is under source control.</li><li>Employ and maintain state of the art monitoring and logging tools.</li><li>Build a CI/CD pipeline that ensures our customers never see bugs.</li><li>Build a fault-tolerant and highly available system that will meet our Service Level Objectives and Data Loss Prevention goals.</li></ul><p><br></p><p>Requirements</p><ul><li>Experience with IaC or configuration management tools (we use Terraform and Ansible)</li><li>Experience with development and operation of highly available and scalable cloud infrastructures (Graylog Cloud runs on AWS)</li><li>Experience with a distributed version control system (git, Mercurial or comparable)</li><li>Experience with Graylog is a big plus</li><li>Participation in the Graylog Cloud On-Call Rotation</li><li>Working with remote teams requires a prudent approach, active inquiry and effective communication via chat</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T21:35:22.000Z"
+  },
+  "company": {
+    "name": "Graylog, Inc.",
+    "link": "https://www.linkedin.com/company/graylog"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ETL Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, cyberThink, Inc., is seeking the following. Apply via Dice today!<br><br>Role ETL Data Engineer Location Remote ndash Post Pandemic location will be Richardson TX. Duration 12+ Months Need minimum 10 Years of experience is mandatory Job Description 1. 9 to 10 years of data integration and data engineering experience doing hands-on ETL ELT development 2. Strong hands-on experience in Python, Spark, PySpark, Hive, Tez and Hadoop distributions preferably Cloudera and Google DataProc - MUST HAVE 3. Strong hands-on experience in SQL development and optimization ndash MUST HAVE 4. Experience in Google Cloud Platform cloud environment and Big query would be a plus",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T22:05:26.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

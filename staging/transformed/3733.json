@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Cloud Infrastructure (ACI) team is building the next generation cloud compute services empowering Apple\u2019s software developers to build the products our customers love. We're a fast-moving, highly-skilled team designing, developing and supporting the orchestrated, container-based compute platform that Apple\u2019s server-side developers use to build, test and deploy their products. Our web-scale implementation hosts Apple\u2019s core cloud services and has to stay highly available, secure, and \"just work\u201d. That's a tall order, and we're looking to add more talented, passionate engineers who enjoy solving distributed systems challenges. If you're curious, collaborative, and want to join us, we'd love to hear from you.<br><br> <br><strong>Key Qualifications<br></strong> <br>At least 5+ years of software design and development experience in distributed, orchestrated, containerized, microservice based architectures. <br><br>Advanced programming language proficiency in Go (or comparable object-oriented language) with experience designing and developing efficient, secured, scalable, and reliable production systems.<br><br>Fluency navigating Linux production environments.<br><br>Hands-on experience with some or all of the following topics : Linux containerization, Linux filesystems, Image distribution, Content storage, Kernel and container security.<br><br>Development experience within the Kubernetes resource model (controllers, operators, custom resources).<br><br>Experience troubleshooting and supporting containerized microservices in a Kubernetes (or comparable container orchestration) production environment!<br><br>Ability to parse user requirements and develop production-quality solutions.<br><br>Love open source and collaboration, including direct participation in the Kubernetes and other cloud native communities!<br><br> <br><strong>Description<br></strong> <br>Do you enjoy crafting high-quality, scalable, and innovative software solutions within the Kubernetes ecosystem? Do you enjoy understanding cloud native technologies at a deep, investigative level? If so, your curiosity and expertise will have a perfect fit working on Apple\u2019s next-generation compute platform. Ideally, you are well-versed in the cloud native ecosystem, the problem domain, used to designing internal customer-facing features, and able to resolve highly-complex issues creatively and in partnership with other teams. You should be able to effectively take ownership of the feature lifecycle to demonstrate a significant impact within the organization. Key to success is approaching opportunities creatively and collaboratively to produce software solutions that empower Apple\u2019s products and services. You will drive ideas from inception to implementation, become sought out for advice and consultation through setting standards, process and technical direction. You will also help cultivate the next generation of technical leaders through mentorship and open source contributions.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science or equivalent<br><br> <br>Role Number: 200230098<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T08:28:05.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

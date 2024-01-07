@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - C / C++ / Python",
+    "industry": "Defense & Space",
+    "description": "We are a rapidly growing autonomy and robotics technology company that has been in business for over 20 years! We are transforming government and commercial transportation with programs that include self-driving cars and trucks; autonomous shuttles; UAV; UAS; and drones. As we grow our team, we are looking for passionate people who want to build long-term careers with us!<br><br>What's In It for You<br><ul><li> Competitive Compensation Contingent On Experience</li><li> Health, Vision, and Dental Benefits</li><li> 401k Matching</li><li> Parental Leave</li><li> Life Insurance<br></li></ul>What You Need for this Position<br><ul><li> Experience as a Senior Software Engineer</li><li> C and / or C++</li><li> Python</li><li> Ability to obtain government clearance; although clearance is not required for this role</li><li> B.S., M.S., or Ph.D. degree in the field of Robotics, Computer Science, or Electrical, Mechanical, or Aerospace Engineering</li><li> Sensor processing (LIDAR, image processing, stereo cameras, RADAR) is a plus</li><li> Familiarity with Linux or other POSIX operating systems (Ubuntu and NuttX) is a plus</li><li> Experience with open-source drone development tools and flight controllers (Pixhawk, PX4, Ardupilot) is a plus</li><li> Experience with Robot Operating System (ROS) is a plus</li><li> Familiarity with microcontroller programming or NVIDIA Jetson embedded platforms is a plus</li><li> Kalman Filtering as applied to GPS/INS or IMUs is a plus</li><li> Localization, Mapping, SLAM is a plus<br></li></ul>What You Will Be Doing<br><ul><li> Development of software algorithms related to guidance, navigation, and control of advanced multirotor aerial vehicles</li><li> Software will support autonomous vehicle operations including navigation, path planning, obstacle avoidance, sensor processing, and perception</li><li> Indoor and outdoor testing of software running on multirotor aerial vehicles</li><li> Complete FAA Part 107 training and certification</li><li> Work as part of a multi-disciplinary development team, participating in team meetings, design reviews, brainstorming sessions, and testing events</li><li> Document activities, prepare tech reports, present results, and demonstrate system capabilities</li><li> Travel for field testing and project meetings may be required<br></li></ul>So, if you have the experience above, please apply today or email me directly at edwin.ocampo@cybercoders.com!<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Edwin.Ocampo@CyberCoders.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : EO1-1632158 -- in the email subject line for your application to be considered.***<br></li></ul>Edwin Ocampo - Recruiting Manager - CyberCoders<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:00:32.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85300,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gaithersburg",
+    "region": "MD",
+    "postal_code": "20884",
+    "street_address": null,
+    "latitude": 39.142185,
+    "longitude": -77.193405
+  }
+}

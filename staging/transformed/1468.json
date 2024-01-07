@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Hardware,Electrical/Electronic Manufacturing,Semiconductors",
+    "description": "<br><br><strong>Our vision is to transform how the world uses information to enrich life. </strong>Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.<br><br>The Smart Manufacturing and AI team at Micron Technology is looking for an ambitious Machine Learning Engineer. Are you curious, high velocity and ready to solve complex problems? Do you dream in SQL and machine learning models? If so, we want you to join us! Our mission is to enable to deliver industry winning machine learning solutions to power Micron\u2019s dominance in the highly competitive memory solutions market. Qualified applicants will have experience in a variety of data and cloud technologies and have extensive practice modeling data, querying, and deploying scalable data pipelines to execute machine learning models. You will collaborate with Data Scientists, ML Engineers, Data engineers and expert users to build and deploy scalable AI/ML solutions that drive value and insight from Micron\u2019s manufacturing processes and systems.<br><br><strong><u>Responsibilities Include, But Not Limited To<br></u></strong><ul><li>Build and maintain data/solution pipelines that feed machine learning models </li><li>Work in a technical team through development, deployment, and application of applied analytics, predictive analytics, and prescriptive analytics using machine learning and artificial intelligence </li><li>Design and optimize data structures in data management systems (Hadoop, Snowflake, and Cloud platforms) to enable AI/ML solutions. </li><li>Build custom software components and analytics applications </li><li>Create/Maintain CI/CD pipelines of machine learning solutions in the cloud <br></li></ul><strong><u>Education Qualifications<br></u></strong><ul><li>Technical Degree required. Computer Science or Statistics background highly desired <br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li>Experience in building and executing end-to-end ML systems automating training, testing and deploying Machine Learning models </li><li>Familiarity with machine learning frameworks (TensorFlow, PyTorch, scikit-learn, etc.) </li><li>Familiarity with software architecture (data structures, data schemas, etc.). </li><li>Software development skills and the desire to work on cutting edge development in a Cloud environment </li><li>Strong scripting and programming skills in one of the following, Python or Java </li><li>Experience with continuous integration/continuous delivery (CI/CD) tools (Jenkins, Git, Docker, Kubernetes) </li><li>Experience developing Machine Learning or A.I. solutions with either Python, AWS, AZURE, GCP </li><li>3+ years building scalable ETL pipelines </li><li>3+ years of experience with big data processing and/or developing applications and data sources </li><li>3+ years of strong working knowledge of databases (Oracle, MSSQL, Snowflake, or BigQuery) </li><li>Outstanding analytical thinking, interpersonal, oral and written communication skills </li><li>Proficiency in the Microsoft Office suite </li><li>Ability to prioritize and meet critical project timelines in a fast-paced environment </li><li>Self-motivated and team oriented <br></li></ul><strong><u>\u202fPreferred<br></u></strong><ul><li>Deep knowledge of math, probability, statistics and algorithms </li><li>Demonstrated ability to study and transform data science prototypes into production solutions </li><li>Knowledge of computer vision and/or signal processing including techniques for classification and feature extraction<br></li></ul><strong><u>About Micron Technology, Inc.<br><br></u></strong>We are an industry leader in innovative memory and storage solutions. Through our global brands \u2013 Micron\u00ae and Crucial\u00ae \u2013 our broad portfolio of high-performance memory and storage technologies, including DRAM, NAND, 3D XPoint\u2122 memory and NOR, is transforming how the world uses information to enrich life. Backed by more than 40 years of technology leadership, our memory and storage solutions enable disruptive trends, including artificial intelligence, 5G, machine learning and autonomous vehicles, in key market segments like mobile, data center, client, consumer, industrial, graphics, automotive, and networking. Our common stock is traded on the Nasdaq under the MU symbol. To learn more visit micron.com/careers.<br><br>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.<br><br>For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron\u2019s Human Resources Department at 1-800-336-8918 or 208-368-4748 and/or by completing our General Contact Form<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T20:18:20.000Z"
+  },
+  "company": {
+    "name": "Micron Technology",
+    "link": "https://www.linkedin.com/company/micron-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77400,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boise",
+    "region": "ID",
+    "postal_code": "83712",
+    "street_address": null,
+    "latitude": 43.61579,
+    "longitude": -116.20158
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Applied ML",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple Special Projects Group is seeking software engineers to develop scalable machine learning approaches for autonomous systems. You will directly contribute to ML approaches using rich data. You will work closely with specialists across high-performance computing, machine learning, and autonomous system development to identify needs and deliver new capabilities. You will share every stage of development from concept to deployment. <br><br><br>JOB SUMMARY <br><br>-  Build and integrate end to end lifecycles of large-scale, distributed machine learning systems using the latest open source technologies<br><br>-  Build software that improves your rate of experimentation and helps you make better decisions about what to try next<br><br>-  Train, evaluate, and debug deep learning models for complex tasks<br><br>-  Develop tools and services for improving ML systems beyond modeling choices \u2014 data distribution editing, data quality improvements, and representation learning with self-supervision<br><br>-  Improve distributed cloud GPU training approaches for deep learning models<br><br>-  Collaborate with engineers across functions to solve complex data problems at scale<br><br>-  Identify and evaluate new patterns and technologies to improve performance, maintainability and elegance of our machine learning systems<br><br>-  Lead technical projects to completion. Communicate with peers to build requirements and track progress<br><br>-  Mentor fellow engineers in your areas of expertise<br><br>-  Contribute to a team culture that values effective collaboration, technical perfection, and innovation<br><br> <br><strong>Key Qualifications<br></strong> <br>Significant full-time experience building end to end data systems as an ML Engineer, Platform Engineer, or equivalent<br><br>Solid software engineering skills in complex, multi-language systems. Fluency in Python.<br><br>Experience working with cloud data processing technologies (Spark, Dask, ElasticSearch, Presto, SQL, etc.)<br><br>Expertise in ML algorithms and top practices for working with deep learning systems<br><br>Proficiency with ML modeling frameworks (PyTorch, Tensorflow, etc.)<br><br>Ability to serve as a technical lead \u2014 building technical requirements, software design, implementation, and clear communication<br><br>Strong overall software development approach. You deliver clean, well-tested code.<br><br> <br><strong>Description<br></strong> <br>We are a team of hardworking engineers and researchers with deep experience in robotics, machine learning, and software engineering. We work on exciting new technologies and balance exploration of new problems with result-driven project planning and execution. In our daily work, the team stays effective, productive, and fun by sharing some key values:<br><br><br>Passion for the mission: We\u2019re here to make something extraordinary. We seek whatever work is right and strive for the best possible results.<br><br><br>Modesty: The right answer is more significant than being right. We search for solutions as a team and value clear-eyed feedback.<br><br><br>Lean habits: You can\u2019t grow without limits. Time constraints and big goals encourage us to sharpen our focus and learn to make phenomenal decisions.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelors, Masters, or PhD Degree in Computer Science/Machine Learning or equivalent professional experience.<br><br> <br>Role Number: 200166605<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T18:11:38.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 135000,
+    "max_value": 207000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

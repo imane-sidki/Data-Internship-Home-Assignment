@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Azure Data Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>Our Client is looking for an <strong>\"Azure Data Engineer\"</strong>for contract positions. Please review the Job descriptions below and let us know if you areinterested and fit for any of the jobs.</p><p><br></p><p><strong>Please apply at ravinder@vsvwins.com, 510 560 4649 // raghav@vsvwins.com, 302 648 1257</strong></p><p><br></p><p><strong><u>Job Description:</u></strong></p><ul><li><strong>Project Duration</strong>: 12-month contract with a chance to extend</li><li><strong>Project Location:</strong> Richmond, VA (Can be Remote)</li><li>It's a <strong>W2/1099 </strong>Position.</li></ul><p><br></p><p><strong><u>Technical MUST haves:</u></strong></p><ul><li>Pyspark/Python, writing streaming applications into a production Enterprise environment.</li><li>Rest API Design and Development</li><li>Azure Data Bricks, Configuration, Notebooks development, and Delta Tables processing</li><li>SQL in Azure</li><li>Microsoft Azure</li></ul><p>\u2022 Logic App</p><p>\u2022 Function Apps</p><p>\u2022 Resource Management</p><p>\u2022 Agile Delivery Framework</p><ul><li>Proven experience with Agile and Waterfall SDLC methodologies.</li><li>Excellent systems requirement documentation skills</li><li>Proven ability to deliver results.</li></ul><p><br></p><p><strong>Nice to Have Experience:</strong></p><ul><li>Experience with Continuous Integration Continuous Development (CICD) is a plus</li><li>Experience with Test-Driven Development (TDD) is a plus</li></ul><p><br></p><p><strong>Roles and Responsibilities:</strong></p><ul><li>Follows direction set by the ETL Development Lead when developing ETL solutions.</li><li>Works with Systems Analysts in designing, testing, and implementing ETL solutions.</li><li>Works as part of a larger development team that includes other internal and external ETL developers.</li><li>Responsible for the development, testing, and maintenance of ETL solutions.</li><li>Participates in unit testing and data quality efforts within assigned data domain.</li><li>Creates and maintains appropriate documentation.</li><li>Must be able to troubleshoot and identify the root cause of production issues.</li><li>Demonstrate detailed knowledge of legacy systems, Atlas systems, data structures/usage and primary systems interfaces based on appropriately written system specifications.</li></ul><p><br></p><p><strong>If you are interested or have references please apply at ravinder@vsvwins.com, 510 560 4649 // raghav@vsvwins.com, 302 648 1257.</strong></p><p><br></p><p><strong>Regards,</strong></p><p><strong>Ravi Chandel</strong></p><p><strong>VSVWINS INC.</strong></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:24:53.000Z"
+  },
+  "company": {
+    "name": "VSV WINS, INC",
+    "link": "https://www.linkedin.com/company/vsv-wins-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Virginia",
+    "region": "United States",
+    "postal_code": "23038",
+    "street_address": null,
+    "latitude": 37.512905,
+    "longitude": -78.697624
+  }
+}

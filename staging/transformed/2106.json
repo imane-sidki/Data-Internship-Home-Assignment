@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer, Sync",
+    "industry": "Computer & Network Security,Computer Software,Information Technology and Services",
+    "description": "Okta is the leading independent provider of enterprise identity. The Okta Identity Cloud enables organizations to securely connect the right people to the right technologies at the right time. With over 6,500 pre-built integrations to applications and infrastructure providers, Okta customers can easily and securely use the best technologies for their business. Over 7,950 organizations, including 20th Century Fox, JetBlue, Nordstrom, Slack, Teach for America and Twilio, trust Okta to help protect the identities of their workforces and customers<br><br>The vision is to make Okta the de facto provider of the cloud identity and access management, and help customer migrate to cloud based identity and access management solution.<br><br>We are looking for an experienced software engineer to join the Sync engineering team that builds common services for importing and syncing user, device, and entitlement data. These features allow customers the flexibility to link or enhance their business processes with Okta\u2019s identity management product.<br>We are looking for smart, innovative and passionate engineers to join the team and help craft the future of Identity Management in the era of cloud.<br><br>You will share our passion and great pride in elegant solutions and will join an engineering team that strongly believes in designing for scale, rigorous code reviews, automated testing, and an iterative process to build high-quality next generation enterprise software.<br><br>Our elite team is fast, innovative and flexible; with a weekly, agile release cycle and individual ownership. We expect great things from our engineers and reward them with stimulating new projects, emerging technologies and the chance to have significant equity in a company that is changing the cloud computing landscape forever.<br><br><strong><u>Job Duties And Responsibilities<br></u></strong><ul> <li>Work with senior engineering team in major development projects, design and implementation</li> <li>Be a key contributor in the implementation of the sync infrastructure</li> <li>Conduct code reviews, analysis and performance tuning</li> <li>Provide technical leadership and mentorship to more junior engineers</li> <li>Lead and conduct design and code reviews</li> <li>Implement unit and functional tests</li> <li>Interface with Architects, QA, Product Owners, Engineering Services, Tech Ops</li> <br><br></ul><strong><u>Minimum REQUIRED Knowledge, Skills, And Abilities<br></u></strong><ul> <li>4+ years software development experience in an object-oriented language </li> <li>Experience building fast, reliable applications at an enterprise scale</li> <li>Excellent grasp of software engineering principles</li> <li>Deep understanding of infrastructure level technologies: caching, stream processing, resilient architectures</li> <li>Experience working with relational databases, ideally MySQL</li> <br><br></ul><strong><u>Preferred Skills<br></u></strong><ul> <li>Expertise in Java</li> <li>Experience with ORM tools such as Hibernate.</li> <li>Experience working with user data stores such as AD and LDAP </li> <li>Experience leveraging cloud computing services such as AWS</li> <li>Knowledge of network security, encryption, authentication and authorization a plus</li> <br><br></ul><strong><u>Education And Training<br></u></strong><ul> <li>Bachelors or Masters Degree majoring in computer science</li> <br><br></ul>Okta is an Equal Opportunity Employer.<br><br>Okta is rethinking the traditional work environment, providing our employees with the flexibility to be their most creative and successful versions of themselves, no matter where they are located. We enable a flexible approach to work, meaning for roles where it makes sense, you can work from the office, or from home, regardless of where you live. Okta invests in the best technologies and provides flexible benefits and collaborative work environments/experiences, empowering employees to work productively in a setting that best and uniquely suits their needs. Find your place at Okta https://www.okta.com/company/careers/.<br><br>By submitting an application, you agree to the retention of your personal data for consideration for a future position at Okta. More details about Okta\u2019s privacy practices can be found at: https://www.okta.com/privacy-policy.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:15:08.000Z"
+  },
+  "company": {
+    "name": "Okta",
+    "link": "https://www.linkedin.com/company/okta-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 133000,
+    "max_value": 218000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Matthew Wade<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $110,000 - $160,000 per year<br><br><strong>A Bit About Us<br><br></strong>Based in Portland, OR we are fast growing, well-funded startup. We are a SD-WAN provider focused on optimizing access to the Cloud. We are looking to add the talent of a Software Engineering Manager. This person will report to our VP of Engineering and will manage and lead a team of 8 engineers. Our organization believes in servant leadership. We are seeking someone with a deep attitude of service towards co-workers and customers. We also believe in having fun while still pushing ourselves to grow as people.<br><br><strong><br><br><strong>Why join us?<br><br></strong></strong><ul><li> Highly Competitive Base Salary</li><li> Extremely Competitive Equity Package</li><li> Opportunity to make a lasting impact in a burgeoning space<br></li></ul><strong>Job Details<br><br></strong>What you\u2019ll be doing<br><br>As a Site Reliability Engineer you\u2019ll be working with our network operations, support, and development teams to resolve customer issues, build and maintain internal and public-facing infrastructure (hardware and software), and to identify and resolve system issues in a dynamic fast paced environment. We are looking for someone that believes that operations is a software problem and seeks to define prescriptive ways for measuring availability, uptime, outages, toil, etc.<br><br><strong>Responsibilities<br><br></strong>Provide the first line of internal support for the Bigleaf server, OS, and software infrastructure, including triage of software, networking, resource, and security issues<br><br>Build, maintain, and deploy infrastructure for software and hardware systems<br><br>Maintain and extend the Bigleaf development environment including Linux tools, Bamboo, Puppet, Terraform, AWS, Azure and other cloud providers<br><br>Share ownership with developers by using the same tools and techniques across the stack<br><br>Have a formula for balancing accidents and failures against new releases<br><br>Encourage automation and minimize manual systems work to focus on efforts that bring long-term value to the system<br><br><strong>Qualifications<br><br></strong>Bachelor's degree in Computer Science, a related technical field involving software/systems engineering, or equivalent practical experience.<br><br>Experience with designing, analyzing, and troubleshooting large-scale, public-facing, distributed systems.<br><br>Deep understanding of the Unix/Linux operating systems, including kernel networking packet flow<br><br>Strong understanding of network fundamentals, including tunneling (e.g. VPNs)<br><br>Working knowledge of SQL databases<br><br>Ability to work in a fast-paced environment, supporting multiple concurrent projects<br><br>Experience with algorithms and data structures.<br><br>Excellent written and verbal communication skills in a multi-team, collaborative environment<br><br>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T21:15:44.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

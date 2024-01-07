@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Seeking bitcoin technologists. Familiar with bitcoin and lightning networks. Hands on experience with API and event driven architectures using AWS services. Quantum Ledger Database, Lambda, Kinesis, C#.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T06:00:06.000Z"
+  },
+  "company": {
+    "name": "Cuewave",
+    "link": "https://www.linkedin.com/company/cuewave"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Sacramento",
+    "region": null,
+    "postal_code": "94245",
+    "street_address": null,
+    "latitude": 38.580368,
+    "longitude": -121.51381
+  }
+}

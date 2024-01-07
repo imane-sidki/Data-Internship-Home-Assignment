@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Applications)",
+    "industry": "Internet",
+    "description": "<strong>About The Role<br><br></strong>This role is responsible for creating the suite of tools and services that help developers create production quality applications on top of Ray. Productionalizing an application requires many steps including development, debugging, deployment, and monitoring. Applications engineers help design and implement the features that can simplify or automate these steps for our users.<br><br>As a platform that manages hundreds of clusters with thousands of nodes, there are critical pieces of infrastructure and architecture needed to be able to power our platform at scale. Beyond the user-facing features, applications engineers help build out these foundations that keep the platform running smoothly for our users.<br><br>With a taste for good products, a willingness to work with and understand the user base, and technical talent to build high quality software, the applications engineer can help build a delightful experience for our users from new developers learning to use Ray to businesses powering their products on Anyscale.<br><br><strong>As Part Of Your Role You Will<br><br></strong><ul><li>Develop high quality backend business logic or delightful UIs that empower software developers and simplify programming</li><li>Work with a team of leading distributed systems and machine learning experts</li><li>Communicate your work to a broader audience through talks, tutorials, and blog posts</li><li>Help us to build and shape a world class company<br><br></li></ul><strong>What We're Looking For<br><br></strong><ul><li>At least 2 years of full stack, backend, or frontend. </li><li>Familiarity with technologies such as React, Typescript, FastAPI, or SQLAlchemy</li><li>Motivated people who are excited to build tools to power the next generation of cloud applications!<br><br></li></ul><strong>About Anyscale<br><br></strong>Anyscale provides an application development platform for developers to build distributed applications. We\u2019re commercializing a popular open source project called Ray , which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.<br><br>With Ray , we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T17:45:24.000Z"
+  },
+  "company": {
+    "name": "Anyscale",
+    "link": "https://www.linkedin.com/company/joinanyscale"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

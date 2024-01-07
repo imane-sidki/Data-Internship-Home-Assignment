@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "<strong>The Role<br><br></strong>Wpromote is looking for a Senior Data Scientist to join our Product Development team! In this role, you\u2019ll partner cross-functionally with Engineering, Product, and Reporting Solutions to design machine learning workflows and statistical models that extract key insights from troves of marketing data. Your solutions will scale as productized apps used by our industry-leading marketers to unlock new performance opportunities for our clients. You will have the opportunity to challenge the limits of what\u2019s possible with data science and performance marketing, designing novel solutions through Computer Vision, Time Series Analysis, Optimal Experimental Design, Recommendations, etc., using supervised and unsupervised methods including Deep Learning, Bayesian Modeling, and Graph Neural Nets.<br><br><strong>You Will Be<br></strong><ul><ul><li>Working closely with Product Management to identify high impact business problems that can be solved by data science and machine learning methods</li><li>Designing, prototyping, building, and testing</li><li>Developing scalable, efficient, and automated workflows that can analyze large amounts of data from various sources</li><li>Integrating scalable workflows in production as part of a software engineering team</li><li>Maintaining data science and machine learning workflows by fixing bugs or improving the model performance if required</li><li>Articulating complex, technical results and methods to internal stakeholders</li><li>Occasionally join client meetings to understand client data problems and propose innovative solutions</li><li>Proactively bring issues and problems to the attention of the team and propose and implement innovative solutions to solve them.<br><br></li></ul></ul><strong>You Must Have<br></strong><ul><ul><li>Degree in Computer Science, Engineering, Statistics, Economics or any related quantitative discipline preferred</li><li>M.S. +4 years of experience or B.S. + 6 years of relevant experience</li><li>Strong programming skills in Python &amp; SQL</li><li>Demonstrable successes in delivering data-driven products, including being involved in all aspects of the product development life cycle</li><li>A deep understanding of statistical modeling and machine learning techniques</li><li>An understanding of state-of-the-art machine learning algorithms and packages</li><li>Strong working knowledge with large data sets, preferably in the digital marketing domain </li><li>Experience with cloud OLAP database platforms such as BigQuery and Snowflake</li><li>Working experience in developing and deploying to cloud providers such as AWS and Google Cloud Platform</li><li>Strong communication skills, to both technical and non-technical audiences</li><li>Ability to work beyond familiar algorithms - to get out of one\u2019s comfort zone and earnestly seek to integrate the best solutions to business challenges</li><li>Sincere interest in working towards the data-driven future of digital marketing within a fast-growing organization<br><br></li></ul></ul><strong>Nice To Have<br></strong><ul><ul><li>Solid knowledge working with marketing and/or user acquisition data across a variety of industries</li><li>Working experience with data visualization or BI solutions, such as Tableau, Looker, or Google Data Studio</li><li>Work experience within the digital advertising or MarTech field</li></ul></ul><li>This position may be performed remotely anywhere within the United States except CO, OH, HI, AK, NV, WA.</li><li>This position is not eligible for immigration sponsorship<br><br></li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:44:19.000Z"
+  },
+  "company": {
+    "name": "Wpromote",
+    "link": "https://www.linkedin.com/company/wpromote"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

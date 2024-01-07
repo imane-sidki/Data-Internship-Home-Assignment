@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>About Us</strong></p><p>Qualio is a Software-as-a-Service (SaaS) startup that is the first cloud quality management software for the entire Life Sciences ecosystem. Medical device and pharmaceutical companies need a secure and scalable quality management system with the flexibility to support their evolving needs. Qualio meets that challenge by cutting through the complexity to optimize and automate critical quality processes.</p><p>The Qualio team is all-remote, and currently distributed across North America and Europe.</p><p><strong>What is the opportunity?</strong></p><p><br></p><p>We are hiring a Site Reliability Engineer to join our distributed engineering team. The Site Reliability Engineer will be responsible for the availability, performance, and security of all Qualio applications, as well as the tooling used by the engineering teams.</p><p><strong>What will I be doing?</strong></p><p><br></p><p>Site Reliability Engineers at Quailo have a breadth of knowledge encompassing all aspects of service delivery. They develop solutions to enhance, harden and support systems reliability and developer velocity. This can include building and managing deployment pipelines, automated testing, capacity planning, performance analysis, security, monitoring and alerting, chaos engineering and auto remediation.</p><p>Site Reliability Engineers must have a passion for learning and evolving with current technology trends. They strive to innovate and are relentless in their pursuit of a flawless customer experience. They have an \u201cautomate everything\u201d mindset and follow Site Reliability Engineering best practices, helping our company deploy services with incredible speed, consistency and availability.</p><p><strong>Who are you?</strong></p><ul><li>You live and work in a country without visa restrictions</li><li>You have strong written and verbal communication skills (in English)</li><li>You have over 5 years of professional experience</li><li>You are passionate about problem solving and automation</li></ul><p><strong>Responsibilities</strong></p><ul><li>Champion automation to reduce toil and increase developer velocity</li><li>Define and implement availability, performance, and security standards working closely with engineering and business leaders</li><li>Support complex cloud native infrastructure projects and other technology initiatives in support of our business priorities while ensuring standards, frameworks, and security requirements are met</li><li>Engage with development and quality teamsto create, and update policies, standards, and procedures, developing creative solutions, clarifying them when questions arise and tracking risk acceptance</li><li>Assess the needs of a system or team and make a case for prioritization of that work.</li><li>Help define and implement Service Level Objectives and Indicators to ensure highly reliable systems</li></ul><p><strong>Required Skills</strong></p><ul><li>Prior experience with containerization, security processes, standards, and strategies</li><li>Experience with release management, testing, and CI/CD pipelines</li><li>Experience working with AWS services including CloudWatch Events, Lambda, DynamoDB(DDB), Aurora RDS, SNS, SQS, CloudWatch,Elasticache</li><li>Proficiency in relational databases (PostgreSQL is preferred)</li><li>Experience maintaining and administering Elasticsearch, Containers / Docker</li><li>Strong network fundamentals and web/cloud security themes including TLS cert management, security group configuration and VPC management best practices</li><li>Strongexperience with Agile Development in at least one scripting language (Go, python, bash, ruby)</li><li>Kindness. Collaboration skills. Willing to celebrate others</li><li>Strong verbal and written communications skills</li></ul><p><strong>Desired Skills</strong></p><ul><li>Cloud native container management tools: Docker, kubernetes/EKS, service mesh, Ingress controllers</li><li>Experience configuring an ELK stack for log management (splunk)</li><li>Observability/metrics experience (prometheus, grafana)</li><li>config management tool proficiency (Ansible, puppet or other)</li><li>Distributed message bus experience (Kafka, RabbitMQ</li><li>Proxies and load balancing (nginx, HAproxy, ALB/NLB)</li><li>Experience programming with python and building custom lambdas</li></ul><p><strong>Benefits</strong></p><p>In addition to playing an important role in building Qualio, you'll receive:</p><ul><li>Competitive salary</li><li>Flexible holidays</li><li>Unlimited PTO </li><li>Professional development budget</li><li>Working space allowance / home office budget</li><li>Opportunity to make a difference through helping life-saving products to get to market</li></ul><p><br></p><p>If this sounds like you, feel free to apply or reach out to me at ed.ocarroll@qualio.com</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T15:15:05.000Z"
+  },
+  "company": {
+    "name": "Qualio",
+    "link": "https://www.linkedin.com/company/qualiohq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

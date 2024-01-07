@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Statistician)",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "<strong><u>About The Team<br><br></u></strong>Position Summary... What you'll do...<br><br>At Walmart we continuously strive to provide an amazing customer experience with everyday low prices. We do this by constantly experimenting with new features on our website/app, new machine learning models and testing new ideas. Our team owns the Experimentation Platform which provides flexible solutions for designing, launching, and analyzing online experiments, and archiving results. Our platform is widely used by Walmart product managers, data scientists and developers, to experiment new features and new ideas, that makes our customer\u2019s life easier by providing a great experience while shopping at Walmart.<br><br>Our team has a combined experience of big data engineering, large scale distributed micro-services and data scientists, so it\u2019s a great environment to learn and grow in various engineering areas. Online experimentation is one of the hottest areas of research and development and is the most critical component required for any tech company to make data driven business decision. This is a chance for you to learn how it works in Walmart and be a pioneer in this field.<br><br><u>You\u2019ll sweep us off our feet if\u2026<br></u><ul><li>You have a strong analytical and problem-solving skills and have a proven track record of leveraging data to influence business decision and strategy</li><li>You have a solid understanding of statistical techniques like significance testing, power calculations, causal inference, variance estimation, heterogeneous treatment effects.</li><li>You have advanced training in statistics and machine learning</li><li>You have experience with running and analyzing A/B tests</li><li>You are proficient with data analysis programming languages like Python, R</li><li>You can work with large data sets and perform data analysis using SQL</li><li>You can communicate effectively and demonstrate your data analysis using clear data visualization techniques.</li><li>You can work with different teams identify overall success criteria of their experiments.</li><li>You can come up experiment ramp up plans, estimate traffic sizes and calculate experiment duration.</li><li>You are familiar with Optimization techniques like Multi-Armed-Bandit, Thompson Sampling etc.<br></li></ul><u>You\u2019ll make an impact by\u2026<br></u><ul><li>Building statistical and machine learning models to understand experiment results and thus understanding customer behavior</li><li>Designing experiments along with the product teams to make a seamless shopping experience for Walmart customers</li><li>Enhancing our experimentation platform by constantly monitoring our reports, implement statistical best practices, conduct audit and test correctness of the data.</li><li>Evaluating companywide revenue impact due to experimentation</li><li>Partnering with product and technology teams to make sure we are capturing the right metrics</li><li>Collaborating with the data engineering team to create data pipelines.</li><li>Partner with data engineering and data analyst teams to ensure we generate the right data sets in the right format<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Masters or PhD in Statistics/Mathematics/Data Science</li><li>3+ years of experience as data scientist</li><li>Past experience building data solutions and machine learning products</li><li>Experience working on Experimentation (A/B testing)</li><li>Experience with statistical techniques like regression, diff-in-diff analysis, anomaly detection, time series data analysis</li><li>Proficiency in Python/R and SQL</li></ul> Minimum Qualifications...<br><br><em><em>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. <br><br></em></em>Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2<br><br>years' experience in an analytics or related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science,<br><br>Information Technology or related field. Option 3: 4 years' experience in an analytics or related field. Preferred Qualifications...<br><br><em><em>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. <br><br></em></em>Data science, machine learning, optimization models, Master\u2019s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location...5600 AVENIDA ENCINAS, CARLSBAD, CA 92008, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T03:03:22.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77500,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Carlsbad",
+    "region": "CA",
+    "postal_code": "92010",
+    "street_address": null,
+    "latitude": 33.16604,
+    "longitude": -117.33793
+  }
+}

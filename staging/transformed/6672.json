@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Trello",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Atlassian can hire people in any country where we have a legal entity, assuming candidates have eligible working rights and a sufficient timezone overlap with their team. As our offices re-open, Atlassians can choose to work remotely or return to an office, unless it\u2019s necessary for the role to be performed in the office. Interviews and onboarding are conducted virtually, a part of being a distributed-first company. <br><br></strong>As a Site Reliability Engineer at Trello, you\u2019ll work on keeping everything running efficiently as we scale our infrastructure from supporting over 35 million Trello users today towards our goal of 100 million users and maintaining our target of 99.99% uptime.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li>Owning the infrastructure and pragmatically solving problems dealing with complex systems</li><li>Working with developers to support the latest features in development, like Power-Ups, data pipeline improvements, and scalable microservices</li><li>Contributing your insights across the team to help us improve or re-architect existing systems for scale and extensibility</li><li>Contributing to new and existing compliance initiatives<br></li></ul><strong><u>More About You<br></u></strong><ul><li>You've been in the trenches building highly scalable, efficient, and resilient systems</li><li>You prefer lasting solutions, yet know the time and place for a quick hack</li><li>You're excited about scaling the platform using technologies in our stack like MongoDB, Kafka, ElasticSearch, and Redis to handle massive quantities of data and users</li><li>You\u2019re comfortable deploying and monitoring the systems that you\u2019ve built with tools like puppet, terraform, and nagios</li><li>You\u2019re a fast learner and can contribute from day one</li><li>You have an excellent command of written and spoken English<br></li></ul><strong><u>More About Our Team<br><br></u></strong>Our engineers and designers run the show with management existing to support, not dictate. We hire creative people and give them the autonomy to do great work. We're strongly against separations of responsibility and throwing work \"over the wall.\" Our SRE team shares on-call responsibilities with our backend developers.<br><br>Trello is entirely hosted in AWS and is built using node.js, MongoDB, Kafka, Redis, and ElasticSearch. We use Ubuntu, Puppet, Terraform, Nagios, Python, and Fabric to tie it all together.<br><br><strong><u>More About Our Benefits<br><br></u></strong>Whether you work in an office or a distributed team, Atlassian is highly collaborative and yes, fun! To support you at work (and play) we offer some fantastic perks: ample time off to relax and recharge, flexible working options, five paid volunteer days a year for your favourite cause, an annual allowance to support your learning &amp; growth, unique ShipIt days, a company paid trip after five years and lots more.<br><br><strong><u>More About Atlassian<br><br></u></strong>Creating software that empowers everyone from small startups to the who\u2019s who of tech is why we\u2019re here. We build tools like Jira, Confluence, Bitbucket, and Trello to help teams across the world become more nimble, creative, and aligned\u2014collaboration is the heart of every product we dream of at Atlassian. From Amsterdam and Austin, to Sydney and San Francisco, we\u2019re looking for people who want to write the future and who believe that we can accomplish so much more together than apart. At Atlassian, we\u2019re committed to an environment where everyone has the autonomy and freedom to thrive, as well as the support of like-minded colleagues who are motivated by a common goal to: Unleash the potential of every team .<br><br><strong><u>Additional Information<br><br></u></strong>We believe that the unique contributions of all Atlassians is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.<br><br>All your information will be kept confidential according to EEO guidelines.<br><br>If your experience looks a little different from what we\u2019ve identified and you think you can rock the role, we\u2019d love to learn more about you.<br><br>Learn more about Atlassian\u2019s culture, interviewing flow, and hiring process by checking out our Candidate Resource Hub .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T16:27:05.000Z"
+  },
+  "company": {
+    "name": "Atlassian",
+    "link": "https://au.linkedin.com/company/atlassian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 145000,
+    "max_value": 245000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior DevOps Engineer (Kubernetes)",
+    "industry": "",
+    "description": "<p>SalesRabbit is transforming the field sales industry. Our mission is to help field sales reps have the best chance at success. As a DevOps engineer, you\u2019ll work collaboratively within cross-functional delivery teams alongside other engineers, designers, and product managers in building infrastructure and software to help improve field sales. SalesRabbit is looking for a highly motivated and talented Senior DevOps Engineer who is capable of doing high-quality work against technical challenges, while following strong system design and process principles. You are a driver of change and you have yet to meet a technology challenge you cannot resolve. Our team brings a diverse set of technical and cultural backgrounds and we like to think pragmatically in choosing the tools most appropriate for the job at hand.</p><p><br></p><p><strong>About Us</strong></p><ul><li>Here aresome of the ways we bringvalue to field reps: https://www.salesrabbit.com/features </li><li>Our web applications are built primarily using PHP with Lumen and the team is migrating to Elixir</li><li>We have iOS and Android apps that are our primary delivery platforms</li><li>Our production application stack is hosted on AWS</li><li>We use Gitlab for our repos and CI/CD</li><li>We have a mix of distributed and in-office engineers</li></ul><p><br></p><p><strong>Our company core values</strong></p><ul><li>Grit</li><li>Gratitude</li><li>Curiosity</li></ul><p><br></p><p><strong>Our Recruiting Process</strong></p><ul><li>Phone conversation</li><li>1 hour pairing interview</li><li>30 minute skill interview</li><li>30 minute values interview</li><li>Phone conversation with CEO</li></ul><p><br></p><p><strong>Here\u2019s How You Will Make an Impact</strong></p><ul><li>Build and maintain stable infrastructure</li><li>Drive positive infrastructure direction</li><li>Help drive the product direction and achieve a market fit for new products</li><li>Increase our deployment infrastructure robustness</li><li>Address security concerns and keep our infrastructure up-to-date</li></ul><p><br></p><p><strong>About You</strong></p><ul><li>You have at least five years of professional experience creating and deploying software with at least some knowledge of Elixir/Erlang</li><li>You are a problem solver with a passion for simple, clean, and maintainable solutions</li><li>You have experience writing automated tests and appreciate the benefit that tests offer</li><li>You are self-motivated and able to manage yourself</li><li>You agree that concise and effective written and verbal communication is a must for a successful team</li><li>You have experience working on a few mid-to-large-size web applications and Kubernetes application deployments</li><li>You are able to work within our core business hours of 9AM to 2PM MST</li><li>You believe that speaking openly and candidly about problems is how you solve them</li><li>You have experience with Containerization and Serverless Technologies</li><li>You are able to research, architect and drive clean technical solutions</li><li>You have experience operating and developing infrastructure and services in public cloud environments (AWS, GCP, or Azure)</li><li>You have experience with application and service monitoring tools and techniques</li><li>You have excellent communications skills, capable of working with cross functional technical and business teams and varying levels of management, in a professional manner</li><li>You have set up a Kubernetes cluster and deployed an application to it</li></ul><p><br></p><p><strong>Nice to Have</strong></p><ul><li>1+ years of experience with Elixir and knowledge of Phoenix framework.</li><li>Familiarity with [OTP, Mnesia, and clustered Erlang] is highly desirable.</li><li>Experience with SQL databases such as [MySQL, Postgres or SQL Server]</li><li>Experience scaling and sharding databases</li></ul><p><br></p><p><strong>Benefits</strong></p><p>We\u2019ve got great medical/dental/vision/life, 401K matching, and access to all the tools you need to do your job well.</p><p><br></p><p>SalesRabbit is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Applicants will be considered based on their qualifications and without regards to race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:14:49.000Z"
+  },
+  "company": {
+    "name": "SalesRabbit, Inc.",
+    "link": "https://www.linkedin.com/company/sales-rabbit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

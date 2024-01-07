@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Check is a payroll-as-a-service API that lets you embed payroll directly in your vertical SaaS, HR, or time-tracking platform. Our API abstracts away the complexities of running payroll: tax calculation, remittance, and filing, plus the movement of money between companies and employees. This enables companies to easily build fully integrated payroll products to offer to their customers.<br><br>Engineering is the core of Check. We believe payroll can and should be easy-to-use financial software, but getting there requires serious and sustained engineering effort. For our efforts, there is the deep satisfaction that comes from delivering people's paychecks. We are excited to bring on a new software engineer who will have an outsized impact on our systems and business along multiple fronts.<br><br>For this role, we are seeking an individual with strong, full-stack software engineering skills, but also with a curiosity for systems, an entrepreneurial mindset, and high integrity. We believe that someone with this combination will unlock new ideas and solutions for our product and thrive in our team.<br><br><strong>In this role, you will:<br><br></strong><ul> <li>Ship code that calculates, transfers, and files taxes accurately and on time on a daily basis</li> <li>Distill the complexities of payroll into simple APIs for developers to use to build payroll</li> <li>Build frontend and backend components that improve customer integrations</li> <li>Influence the culture, values, and processes of a growing engineering team</li> <li>Communicate ideas and specifications through detailed, precise writing</li> <li>Work with our payroll ops, design, sales, and legal functions</li> <li>Commit on your first day, and deploy code continuously</li> <li>Support developers at customer companies</li> <li>Teach and learn from other engineers</li> <li>Interview prospective candidates</li> <br><br></ul><strong>Many backgrounds could fit this role, but ideal candidates will have:<br><br></strong><ul> <li>3+ years of experience </li> <li>Built and scaled production web applications on the frontend and/or backend</li> <li>Production relational database experience</li> <li>Demonstrated product and design sensibilities</li> <li>Strong software development fundamentals</li> <li>Excellent verbal and written communication</li> <br><br></ul><strong>We use:<br><br></strong><ul> <li>Python (type-annotated) and Django for our API</li> <li>React and TypeScript for our frontends</li> <li>Postgres for our database</li> <li>AWS for our cloud infrastructure</li> <li>GitLab for issue tracking and CI/CD</li> <br><br></ul>Our team is distributed across the US, with hubs in New York City and San Francisco.<br><br>Don't see a role that fits your interests? If you're passionate about working at Check email us at hello@checkhq.com and tell us how you'd like to help.<br><br><em>Check is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Check is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at </em><em>hello@checkhq.com</em><em> with \"accommodations\" in the subject line.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:16:08.000Z"
+  },
+  "company": {
+    "name": "Check",
+    "link": "https://www.linkedin.com/company/check-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

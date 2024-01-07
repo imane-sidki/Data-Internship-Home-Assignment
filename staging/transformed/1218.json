@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Data Products",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We\u2019re working to find new and better ways to help businesses succeed on their own terms\u2014and we\u2019re looking for people like you to help shape tomorrow at Square.<br><br><strong><u>Job Description<br><br></u></strong>Good decision-making is only possible when you have trustworthy and reliable data, along with the right tools and systems to process, analyze, and consume that data. The Data Products Engineering team is tasked with writing and maintaining a suite of self-service data productivity and discovery applications and services integral to Square\u2019s data ecosystem.<br><br><strong><u>As An Engineer On The Data Products Engineering Team, You Will<br><br></u></strong>You are an experienced software engineer, ready to bring your skills towards building (modern / next generation) data solutions.<br><ul><li>Write performant, clean, modern applications and services to improve productivity and customer experience.</li><li>Be self-driven in identifying and documenting feature gaps, and designing and implementing solutions to them.</li><li>Contribute to the monitoring, stability, and security of our existing services.</li><li>Communicate technical designs in writing and in person to all kinds of audiences.</li><li>Understand our partners&apos; needs and assist turning their requests into scalable features.</li><li>Mentor other engineers and help them grow; code reviews, guidance on best practices, leveraging your experience in the field.<br><br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Working proficiency in the English language</li><li>Experience working in large full-stack web applications (2+ years minimum)</li><li>Experience developing in JavaScript/TypeScript, Ruby, Python, Java, or Go</li><li>Experience developing front-end web applications in Ember, React, Vue or other frameworks</li><li>Experience working with relational databases, such as MySQL and PostgreSQL</li><li>Experience with cloud environments, such as AWS and GCP</li><li>Experience with container deployment platforms and tools, such as Kubernetes, Docker, Helm, and Terraform</li><li>Bonus: Experience with (or desire to learn) querying cloud-based data warehouses (Snowflake, Redshift, etc.)</li><li>Bonus: Experience with Airflow<br><br></li></ul><strong><u>Additional Information<br><br></u></strong>At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible.<br><br><strong>Perks<br><br></strong>At Square, we want you to be well and thrive. Our global benefits package includes:<br><ul><li>Healthcare coverage</li><li>Retirement Plans</li><li>Employee Stock Purchase Program</li><li>Wellness perks</li><li>Paid parental leave</li><li>Paid time off</li><li>Learning and Development resources<br><br></li></ul><em>Square, Inc. (NYSE: SQ) builds tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in person, manage their business, and access financing. Individuals use Cash App to spend, send, store, and invest money. And TIDAL is a global music and entertainment platform that expands Square&apos;s purpose of economic empowerment to artists. Square, Inc. has offices in the United States, Canada, Japan, Australia, Ireland, Spain, Norway, and the UK.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:05:30.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 116000,
+    "max_value": 187000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

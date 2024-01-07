@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p>Before you apply for the position, we ask you to try out our mobile app. You can download it from https://newslyme.page.link/Lb4P We believe people who love the app, have a higher probability of wanting to work with us.</p><p>If you can also rate it 5 starts at the store, we would highly appreciate it.</p><p><br></p><p>The ideal candidate's favourite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Analyze raw data: assessing quality, cleansing, structuring for downstream processing</li><li>Design accurate and scalable prediction algorithms</li><li>Collaborate with the engineering team to bring analytical prototypes to production</li><li>Generate actionable insights for business improvements</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or equivalent experience in a quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)</li><li>At least 1 - 2 years of experience in quantitative analytics or data modelling</li><li>Deep understanding of predictive modelling, machine-learning, clustering and classification techniques, and algorithms</li><li>Fluency in a programming language (Python, R, C, C++, Java, SQL)</li><li>Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T20:31:58.000Z"
+  },
+  "company": {
+    "name": "NewslyMeApp",
+    "link": "https://ca.linkedin.com/company/newslymeapp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

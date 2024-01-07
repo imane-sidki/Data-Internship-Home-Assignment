@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Software Engineer, Platform Architecture",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products very quickly. Bring passion and dedication to your job and there's no telling what we can accomplish together. <br><br><br>Do you love crafting elegant solutions to highly complex challenges? Can you intrinsically see the importance of every detail? At Apple, our Platform Architecture group is responsible for connecting our hardware and software into one unified system. Join this team, and you'll collaborate with engineers across Apple to build and deploy forward-looking prototype systems that contribute to the development of our world renowned hardware and software architecture.<br><br><br>You and your team will confirm that every product we make performs exactly as intended. Together, our work will be the reason millions of customers feel that they can trust our devices every single day.<br><br><br>Apple\u2019s Platform Architecture group is seeking a System Software Engineer, who will develop novel technologies for modeling and analyzing large compute systems. You will work with our world leading silicon engineering teams on next generation chips, which end up in the hands of millions of users worldwide.<br><br> <br><strong>Key Qualifications<br></strong> <br>Excellent C/C++ and parallel programming skills required<br><br>Experience developing multi-threaded and multi-process applications required<br><br>Experience developing Python performance analysis tools preferred<br><br>Experience developing performance analysis tools and libraries strongly preferred<br><br>Experience developing embedded software of device drivers strongly preferred<br><br>Experience with SOC interconnect modeling strongly preferred.<br><br> <br><strong>Description<br></strong> <br>Design and develop software components used in a multi-threaded performance simulator<br><br><br>Support various groups (software, architecture, verification, validation) in use of this new technology<br><br><br>Work independently and manage deliverables to different teams<br><br><br>Excellent communication, analytical and documentation skills required<br><br><br>Occasional travel to development groups in the US and overseas.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in CE or CS plus 5 years of relevant experience<br><br> <br>Role Number: 200215679<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:21.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93800,
+    "max_value": 212000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

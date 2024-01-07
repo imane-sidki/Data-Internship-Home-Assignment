@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist-1",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "If you\u2019re passionate about building a better future for individuals, communities, and our country\u2014and you\u2019re committed to working hard to play your part in building that future\u2014consider WGU as the next step in your career.<br><br>Driven by a mission to expand access to higher education through online, competency-based degree programs, WGU is also committed to being a great place to work for a diverse workforce of student-focused professionals. The university has pioneered a new way to learn in the 21st century, one that has received praise from academic, industry, government, and media leaders. Whatever your role, working for WGU gives you a part to play in helping students graduate, creating a better tomorrow for themselves and their families.<br><br><strong><u>Essential Functions And Responsibilities<br></u></strong><ul><li> Identify new data sources that will improve the diversification of university data.</li><li> Deep knowledge of various data sources (government, open source APIs, web scraping, etc.).</li><li> Ability to write and process complex SQL queries.</li><li> Experience extracting meaning data from social networking platforms.</li><li> Basic understanding of regular expressions to extract data from semi-structured and unstructed data sources.</li><li> Understanding of online web scraping to get data from sources that don\u2019t offer API data access.</li><li> Create predictive models leveraging machine learning algorithms.</li><li> Traditional statistical models (logistic regression, classification algorithms, tree models, etc.).</li><li> Machine learning algorithms (neural networks, decision trees, association rules).</li><li> Text mining and natural language processing.</li><li> Experience with very large data sets.</li><li> Background in setting up and maintaining big data processes.</li><li> Experience with Hadoop, Hive, and HBase in the Amazon AWS environment.</li><li> Efficient processing of large amounts of unstructured data.<br></li></ul><strong><u>Knowledge, Skill And Abilities<br><br></u></strong>:<br><ul><li> R Programming</li><li> Scripting language (python, java script)</li><li> SQL Programming</li><li> Business writing and communication<br></li></ul><strong>#AA<br><br></strong><strong>#D&amp;I<br><br></strong>As an equal opportunity employer, WGU recognizes that our strength lies in our people. We are committed to diversity.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:33:26.000Z"
+  },
+  "company": {
+    "name": "Western Governors University",
+    "link": "https://www.linkedin.com/company/western-governors-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

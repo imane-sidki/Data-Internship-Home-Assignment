@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p><strong>Description</strong></p><p><br></p><p>Our client is seeking a Site Reliability Engineer to join one of the fastest-growing and most innovative startups in Atlanta. You\u2019ll work collaboratively with software engineering to deploy and operate our systems, help automate and streamline our operations and processes, build and maintain tools for deployment, monitoring and operations, and troubleshoot and resolve issues in our dev, test and production environments.This job can stuff your resume with the latest buzzwords like big data, machine learning, agile development and cookie pool, but that\u2019s the least important thing about it. This job is hard and, though you may not know it yet, it\u2019s your dream job.</p><p><br></p><p><strong>Top Skills Required:</strong></p><ul><li>1+ years ofAWS Administration (AWS Certified Cloud Practitioner preferred)</li><li>1+ years of codingand scripting (we use Ruby and most of its key frameworks)</li><li>1+ year ofLinux Administration</li><li>Database experience (MongoDB, PostgreSQL, MySQL, Redis)</li><li>Experience with ticketing systems such as Jira or ZenDesk</li><li>Experience scaling a system (clustering, memory leak, bottleneck identification, etc.)</li><li>Strong interpersonal and collaboration skills</li><li>Ability to articulate, defend and evolve an idea</li><li><strong>Nice to Have:</strong>Build/deployment process management (we use GitHub)</li><li>Facebook, Twitter, Pinterest, Instagram, or other 3rd Party API experience</li><li>Experience with large-scale email deliverability, including SPF, DKIM, and DMARC</li><li>Open source contributions</li></ul><p><br></p><p><strong>Culture:</strong></p><ul><li>Casual, start-up environment that promotes personal and professional growth</li></ul><p><br></p><p><strong>Benefits:</strong></p><ul><li>Bonus potential</li><li>Medical/Dental/Vision plans</li><li>Paid parking/MARTA pass or ability to be 100% remote</li><li>Investors and co-founders with a proven track-record of success</li><li>Casual, start-up environment that promotes personal and professional growth</li><li><strong>Location: </strong>100% remote or ability to go into Atlanta office</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T14:41:50.000Z"
+  },
+  "company": {
+    "name": "Elev8 Hire Solutions",
+    "link": "https://www.linkedin.com/company/elev8hire"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

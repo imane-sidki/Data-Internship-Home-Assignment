@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer & Network Security",
+    "description": "<strong><u>About Onelogin<br><br></u></strong>OneLogin, the leader in Unified Access Management, connects people with technology through a simple and secure login, empowering organizations to access the world\u2122. We are headquartered in San Francisco, California. The OneLogin Unified Access Management (UAM) platform is the key to unlocking the apps, devices, and data that drive productivity and facilitate collaboration. OneLogin serves businesses and partners across a multitude of industries, with over 2,500 customers worldwide.<br><br>We are proud that Gartner has named us a Leader in the 2020 Magic Quadrant for Access Management. For more information, visit www.onelogin.com, Blog, Facebook, Twitter, or LinkedIn.<br><br><strong><u>About The Role<br></u></strong><ul><li>Working on intellectually satisfying problems for a sophisticated product solving real problems for our customers</li><li>Enjoying a friendly work environment where you can grow (a lot!)</li><li>Working with highly skilled engineers from around the world</li><li>Building and designing secure, scalable, and reliable microservices in cloud SaaS environment (We use AWS)</li><li>Redesigning or splitting the legacy monolith into more maintainable services</li><li>Thinking out-of-the-box to come up with a solution to problems that do not seem to have one</li><li>Continuously trying new technologies and applying them if they make sense and solve customer problems</li><li>Owning technical design for projects of moderate complexity, and understands the tradeoffs in creating good software in their area</li><li>Designing technical documentation</li><li>Mentoring and supporting people within the team/organization<br></li></ul><strong><u>About You<br></u></strong><ul><li>4+ years of experience writing maintainable efficient code (school, open source contribution or training counts here)</li><li>Security-first mindset</li><li>Empathy for the users of your software</li><li>Experience working in Cloud or other large scalable environments</li><li>Understanding of best practices in RESTful APIs design</li><li>Willingness to speak and be heard while considering different perspectives</li><li>Able to be productive in multiple languages, if you already know Ruby / Rails, Javascript / NodeJS it\u2019s a plus</li><li>Ability to quickly learn and be productive in new technologies</li><li>Knowledge and interest in security, identity, access management, or authentication</li><li>Knowledge of SQL and general database architecture<br></li></ul><em>Legal - eligibility to work in the United States/ other countries (visa\u2019s)<br><br></em><strong><u>What\u2019s In It For You<br></u></strong><ul><li>Join a small, close-knit team with the ability to impact highly visible products already trusted by millions</li><li>Award-winning company culture, strong local leadership, and great career development opportunities</li><li>Competitive salary plus great perks including equity, full insurance (medical, dental, &amp; vision), unlimited time off, and flexible WFH policies<br></li></ul><strong><u>Engineering Achievements<br></u></strong><ul><li>Turbo-charged user data mappings between services by 20x - going from hours for 100k users to minutes</li><li>Boosted platform reliability getting 99.995% able to handle two million requests per minute for a single tenant Hydraboost Blog</li><li>Shipped 4 new API services in the previous year</li><li>Recently launched Smart Hooks - Our exciting new low/no code offering Smart Hooks Blog<br></li></ul>Our core values<br><ul><li>Security first - We make it our #1 priority to protect data and privacy. From the way we work to the technology we provide, security is top of mind</li><li>Customer focused - We design for, listen to and partner with customers to come up with smart solutions that drive business value</li><li>Collaborative - We take bold steps and work together to thrive across boundaries. We drive productivity as we grow as one team</li><li>Accountable - We get things done and take ownership in our work. Showcasing consistent quality and pride to perform at the highest levels</li><li>Creative - We embody creativity in everything we do. We embrace a diversity of ideas. We execute with ingenuity, flexibility, and agility<br></li></ul>Bring your design, collaboration, and problem-solving skills from IT or another profession. We value employees with different backgrounds, education, experience, and perspective and strive to create an inclusive and welcoming work environment.<br><br>OneLogin is proud to provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. If you\u2019d like more information about your EEO rights as an applicant, please email recruitingteam@onelogin.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:00:04.000Z"
+  },
+  "company": {
+    "name": "OneLogin",
+    "link": "https://www.linkedin.com/company/onelogin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

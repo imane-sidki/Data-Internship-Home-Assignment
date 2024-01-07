@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Developer / DevOps Engineer, Infrastructure",
+    "industry": "",
+    "description": "<p>Blueciate Inc is lookin for <strong><u>Senior Developer / DevOps Engineer, Infrastructure</u></strong></p><p><strong><u>US Citizen with Active Secret Clearance.</u></strong></p><p><strong>Customer: DOD</strong></p><p><strong>Location: Herndon, VA</strong></p><p><strong>Duration: Multi Year assignment</strong></p><p></p><p><strong><u>EXPECTATIONS AND TASKS</u></strong></p><p>Because we work on the cutting edge, we need someone who is eager to learn, a creative problem solver, resourceful in getting things to work and productive working independently or collaboratively. In your average week, you will:</p><p>\u2022Work closely with our engineering and operations team to build, integrate, test and deploy SAP Analytics Cloud into our production systems.</p><p>\u2022Collaborate with colleagues to understand new landscape requirements and help to adapt our solution to meet them</p><p>\u2022Develop, test and maintain build system, CI/CD framework and deployment tools</p><p>\u2022Automate and streamline deployment processes</p><p>\u2022Develop and maintain a monitoring system that overlooks our build landscape</p><p>\u2022Lead efforts in automation, continuous deployment, build, and configuration management</p><p>\u2022Assess new technology projects and tools or migrate our environment to new versions to keep up with the rapid pace of change.</p><p>\u2022Establish repeatable process for setup and maintenance of new landscapes in collaboration with the development and operations teams.</p><p></p><p><strong><u>EDUCATION AND QUALIFICATIONS/ SKILLS AND COMPETENCIES</u></strong></p><p>\u20225+ years of relevant work experience</p><p>\u2022Bachelor\u2019s degree, preferably in Computer Science or Engineering</p><p>\u2022Experience building and managing complex build pipelines using tools like Spinnaker, Jenkins</p><p>\u2022Experience with AWS, GCP or Cloud Foundry </p><p>\u2022Strong background in Linux/Unix Administration</p><p>\u2022Experience in writing software in languages such as Java, Python, Go, JavaScript, C++ or similar</p><p>\u2022Experience with containerization technologies such as Docker, docker-compose in a production environment. Experience maintaining applications in virtualized environments</p><p>\u2022Experience with Source control such as GIT</p><p>\u2022Ability to work well in a team as well as independently and have a positive, self-motivated can-do attitude</p><p><strong><u>Bonus if you have experience with:</u></strong></p><p>\u2022Infrastructure software tools such as Terraform, Ansible, and Packer</p><p>\u2022Building containerized applications using Kubernetes, Docker</p><p>\u2022Building software that must scale to thousands of users concurrently</p><p>\u2022Experience with monitoring solutions such as Zabbix, Prometheus, Grafana</p><p></p><p><strong><u>WORK EXPERIENCE</u></strong></p><p>5+ years of relevant work experience developing web applications (can include internship or co-op experience)</p><p><br></p><p><strong>Amber K. (Business HR)</strong></p><p>INFO@blueciate.com</p><p>972-607-9081</p><p>www.blueciate.com</p><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-08T03:12:19.000Z"
+  },
+  "company": {
+    "name": "Blueciate",
+    "link": "https://www.linkedin.com/company/blueciate-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Herndon",
+    "region": "VA",
+    "postal_code": "22092",
+    "street_address": null,
+    "latitude": 38.96973,
+    "longitude": -77.38387
+  }
+}

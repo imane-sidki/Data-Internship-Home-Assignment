@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux DevOps Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Apple Pay is transforming the industry in payments, transit and identity, and we\u2019re aggressively focusing on the customer\u2019s digital wallet experience. Our scale and security demands create unique opportunities for innovative and creative solutions which contribute to millions of customer\u2019s daily interactions.<br><br> <br><strong>Key Qualifications<br></strong> <br>Build, automate and support mission critical, highly secure and highly available large scale infrastructure.<br><br>Linux systems administration experience (RHEL or CentOS or similar).<br><br>In depth understanding of OS, systems security, encryption, Linux kernel tuning and debugging, and networking stack and interfaces.<br><br>Configuration Automation - automation cookbooks and test suites for Chef, Puppet or Ansible.<br><br>Excellent coding or scripting skills (Python, Golang or Bash).<br><br>Cloud technologies: Kubernetes, Docker, and AWS Infrastructure Services.<br><br>Support compute and data infrastructure both in the cloud and on-premise data centers.<br><br>Automate and enforce IT governance, security, compliance and audit standards.<br><br>CI/CD experience with Github, Artifactory and Team City or Jenkins.<br><br>Excellent documentation and verbal communication skills.<br><br> <br><strong>Description<br></strong> <br>The Apple Pay team is looking for an enthusiastic Linux DevOps Engineer to support our rapid growth and expansion. Be a key part of the Infrastructure Engineering team at Apple Pay with a broad impact across product and customer experiences. Gather requirements, build infrastructure and tooling to support Apple Pay product initiatives. Be a conduit for technical expertise in liaising with external Apple Pay partners. Provide technical guidance, solving expertise, and architectural insight to development, quality, and site reliability teams. Solve complex problems using both open-source and in-house tooling to support security and business initiatives. Build applications and tools to reduce barriers, decrease friction and speed up delivery of products. Scale existing technologies (or promote new technologies) to out-pace current growth projections. Evangelize next generation cloud and on-premise products and processes, experiment with their implementation and bring them from concept to production readiness.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS degree in computer science or equivalent field with 4+ years or MS degree with 2+ years experience, or equivalent experience.<br><br> <br><strong>Additional Requirements<br></strong> <br>-  Strong ability and enthusiasm to learn new technologies in a short time.<br><br>-  Prior experience as an SRE, Software Developer, or System Administrator.<br><br>-  Experience with the HashiCorp stack - Nomad, Consul, Vault, Terraform.<br><br>-  Familiarity with data infrastructure: Cassandra, Kafka, Redis, and Elastic Search.<br><br>-  Experience with hybrid cloud technologies \u2013 Pulumi, Terraform.<br><br> <br>Role Number: 200248364<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:43:46.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

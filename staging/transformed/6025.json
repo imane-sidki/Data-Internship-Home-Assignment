@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad (Frontend)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>At Instabase</strong>, we're passionate about building software to advance the state of the art in computing. We've built a fearlessly experimental, customer-obsessed team who are making discoveries to fundamentally change how people build and consume business applications.<br><br>Today, we're partnering with the world's leading companies to transform how they use data and technology. If these challenges excite you, we'd love to hear from you!<br><br><strong>Our Engineering Team</strong> architects the underlying operating system, core services, platform infrastructure, dev toolkits, core algorithms, machine learning models, packaged end-user apps, and app store marketplace. Instabase engineers are excited to solve hard problems for complex organizations and are self-starters from day one.<br><br><strong>Our Tech Stack</strong> is React and Typescript on the frontend. Our product and infrastructure is written in Go, Python, Java, and C++. We operate using the micro-services model and leverage Docker and Kubernetes for our deployments.<br><br><strong>We're hiring across all teams and technical areas! </strong>This includes Frontend, Product/Full-Stack, Systems, Infrastructure, Machine Learning and AI!<br><br>Interested in learning more? Explore the <strong>Instabase</strong> <strong>product</strong> and read about the <strong>Intern experience </strong>here<strong>.</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:10:31.000Z"
+  },
+  "company": {
+    "name": "Instabase",
+    "link": "https://www.linkedin.com/company/instabase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

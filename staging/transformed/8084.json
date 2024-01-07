@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Cognitive Scale is looking for a Senior Site Reliability Engineer to join our team!</strong></p><p><br></p><p><strong> What We Do:</strong></p><p>CognitiveScale is an augmented intelligence pioneer that pairs humans and machines to bring practical, scalable, trusted AI solutions to life.</p><p></p><p>CognitiveScale\u2019s award-winning and proven Cortex software helps customers win with intelligent, transparent, and trusted AI-powered digital systems. Cortex Fabric empowers financial services, digital commerce, and healthcare organizations to radically simplify the development, deployment, and management of their AI systems while Cortex Certifai helps businesses automate the management of AI business risk by answering pressing questions around robustness, explainability, and bias of AI systems. Whether they are personalizing investor, customer, patient, or member experiences, or ensuring digital systems use trustworthy AI, our clients are creating a better future for all.</p><p><br></p><p><strong> Why Us?</strong></p><p>We are headquartered in beautiful Austin, Texas and have offices in London and Hyderabad. CognitiveScale is #1 in AI patents among privately held companies. Our investors include Norwest Venture Partners, Intel Capital, IBM Watson, M12 (Microsoft Ventures), USAA, and Anthem BlueCross BlueShield. We have been recognized by the World Economic Forum, as well as top industry analysts for positively impacting business and society with AI.</p><p><br></p><p><strong> What You\u2019ll Do:</strong></p><p>As a Senior Site Reliability Engineer, you will be responsible for independently handling both small and large deployments, as well as helping to shape and develop our SRE processes and capabilities.</p><p></p><p>You should have demonstrated success in supporting environments that utilize many of the technologies described below and be willing to learn the rest of the technologies in use. You will also be responsible for planning and recommending future technologies in collaboration with the development team.</p><p></p><p><strong> High Level Responsibilities:</strong></p><p>\u25cfSenior member of the SRE team, guiding activities and helping groom the Scrum board</p><p>\u25cfDeploy and manage complex container based systems for our customers as well as internal development teams</p><p>\u25cfDevelopment and maintenance ofautomation, monitoring, and management systems and protocols.</p><p>\u25cfDirect interaction with customers including incident response</p><p>\u25cfMonitor site stability and performance and troubleshoot site issues</p><p>\u25cfScale infrastructure to meet rapidly increasing demand</p><p>\u25cfManage cross-functional requirements working with Engineering, Solutions Services, Customer Success, and other departments</p><p>\u25cfCollaborate with developers to bring new features and services into production</p><p>\u25cfProactively meet standards for information security and compliance, such as HIPAA, ISO, SOX, SSAE 16, etc.</p><p></p><p><strong>Qualifications:</strong></p><p>\u25cf5+ years\u2019 experience in 24x7 production operations, preferably supporting a highly available environment for a SaaS or cloud service provider.</p><p>\u25cfSubstantial experience with programming language like Python, Golang , Shell, or Java</p><p>\u25cfExperience with Linux System administration.</p><p>\u25cfWorking knowledge of centralized configuration tools like ansible</p><p>\u25cfWorking Knowledge of infrastructure as code cinderns (CloudFormation, Terraform)</p><p>\u25cf2+ years of administering cloud infrastructure environments (AWS and/or Azure)</p><p>\u25cf1+ years hands on experience with Kubernetes and container deployed systems</p><p>\u25cfStrong understanding of system, security, and networking concepts and troubleshooting techniques</p><p>\u25cfStrong communications and interpersonal skills</p><p>\u25cfKeen business judgment, focus, and ability to see the \"big picture\"</p><p>\u25cfAbility to present and translate complex information to both internal and external teams in relevant business terms</p><p>\u25cfBachelor\u2019s Degree or higher. Computer Science, Math, or Engineering major is preferable</p><p>\u25cfLight travel may be required once travel restrictions are lifted</p><p>\u25cfAbility to operate in an agile, entrepreneurial start-up environment</p><p></p><p><strong>Location</strong></p><p>This role can be located anywhere in the U.S., although we have a strong preference for Austin-based individuals. We are working fully remotely during the pandemic but anticipate returning to the office in summer of 2021. We plan to adopt a remote first culture which will enable employees the flexibility to work from home, with occasional travel to CogScale offices for meetings, team building events or just to have a quiet place to work.</p><p>If hired, we require all employees that regularly work from the office to be vaccinated against COVID-19, unless a medical or religious accommodation is needed, as determined on a case-by-case basis.</p><p><br></p><p>Please note that visa sponsorship is not available for this position.</p><p></p><p>CognitiveScale is an Equal Opportunity Employer. CognitiveScale does not discriminate against any applicant for employment because of age, gender, sexual orientation, race, religion, national origin, ethnicity, veteran status, or disability.</p><p><br></p><p><strong>Search Firm Representatives Please Read Carefully:</strong></p><p><em>CognitiveScale is not accepting unsolicited assistance from search firms for this employment opportunity. Please: no phone calls or emails. All resumes submitted by search firms to any employee at CognitiveScale via email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of CognitiveScale. No fee will be paid in the event the candidate is hired by CognitiveScale as a result of the referral or through other means.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-13T18:07:47.000Z"
+  },
+  "company": {
+    "name": "CognitiveScale",
+    "link": "https://www.linkedin.com/company/cognitivescale"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

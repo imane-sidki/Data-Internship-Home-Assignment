@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>Microsoft Systems Engineers and Systems Administrators teams can have a wide range of responsibilities. They are responsible for the systems and Infrastructure that run the IT department and organization, as well as serve as an escalation point to the Service Desk (aka Help Desk).</p><p> </p><p><strong><u>Common Responsibilities</u></strong></p><p>Every member of Microsoft Systems Engineers will have Active Directory Experience. It houses all of our user and computer accounts, as well as service accounts. It is also the \u201cbouncer\u201d that checks your password when you attempt to sign into an app or device. It</p><p><br></p><p>Systems Engineers often must build new servers for multiple environments, including the live one that users are using, which is called Production. Lower environments are for testing and they serve different purposes. Some examples of lower environments are Production, Stage, UAT, Dev. Some organizations have many environments, which means a lot of servers to build and maintain. </p><p><br></p><p>Servers have to be maintained to remain functional and secure. We secure servers through multiple and many ways. Some examples are securing servers with Group Policy Objects (GPOs). GPOs are a native function of Active Directory and have broad reach of control of what they can do. Examples would be mapping a printer or file share. Others would be to secure the server. In addition, it is common to secure servers with antivirus. </p><p><br></p><p>Another common way to secure servers and desktop operating systems is to keep up with the latest updates. These updates must be managed and tested before they can be deployed to Production.</p><p><br></p><p>Other responsibilities include, but are not limited to:</p><p>Monitor all systems both on premise and cloud through various monitoring tools. </p><p><br></p><p>Prepare for and configure High Availability. High Availability means that even if one server for a cluster node becomes unresponsive, the application remains available. </p><p><br></p><p>Prepare for and configure Disaster Recovery. Disaster Recovery means that if a system goes down in a larger outage, we can recover through our Disaster Recovery plan to a different site or location.</p><p><br></p><p>Backups and Restores</p><p><br></p><p>Maintain virtualization software. Virtualization software enables the ability to run multiple virtual servers on a single physical server or cluster of physical servers.</p><p><br></p><p> Serve as an escalation point for Service Desk</p><p><br></p><p><strong><u>Common Tools</u></strong></p><p><strong>Active Directory</strong></p><p><strong>Azure Active Directory</strong></p><p><strong>Exchange</strong></p><p><strong>Intune</strong></p><p><strong>Monitoring software, ex. Systems Center Operations Manager (SCOM)</strong></p><p><strong>Office 365</strong></p><p><strong>SharePoint</strong></p><p><strong>VMware</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:50:21.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 57300,
+    "max_value": 76300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

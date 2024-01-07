@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Trust",
+    "industry": "Hospitality,Internet,Leisure, Travel & Tourism",
+    "description": "Airbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. It takes a unified team committed to our core values to achieve this goal. Airbnb's various functions embody the company's innovative spirit and our fast-moving team is committed to leading as a 21st century company.<br><br><strong><u>Trust Engineering At Airbnb<br><br></u></strong>Everyone at Airbnb thinks about trust, but our team obsesses over it daily. At the core of trust is safety, and thus we spend a significant amount of our time and energy keeping the community safe. The Trust Organization is responsible for protecting our community and platform from fraud while also ensuring our hosts, guests, homes, and experiences meet our high standards. We constantly work to fight against online fraud (such as chargebacks, compromised accounts, spam and scam in messages, fake inventory, etc.) as well as offline fraud (theft, property damage, personal safety, etc.). We also work on onboarding and screening of users, and think about complex topics like identity and reputation to ensure that every interaction with Airbnb helps build trust in us and our community. Trust Engineering is responsible for the technology vision and development of a complex stack that runs on every key interaction on the platform.<br><br>We\u2019re looking for a seasoned Engineer to join our Foundational Modeling team that is responsible for a Machine Learning Platform, a core capability that enables the Trust product teams to build machine learning solutions to stop bad actors from doing bad things on Airbnb.<br><br><strong><u>What Does Being An Machine Learning Engineer Look Like<br><br></u></strong>As a Machine Learning Engineer, you help keep Airbnb users safe by working across diverse teams and systems to enable sophisticated safety strategies. You are eager to understand complex systems top to bottom and thrive working across technologies and codebases. Your contributions take a variety of shapes:<br><ul><li>Develop reusable, highly differentiating and high-performing machine learning algorithms/frameworks/tools to enable Trust product teams to build, productionize, and operate best-in-class machine learning solutions that keep Airbnb community safe</li><li>Develop scalable, reliable data pipelines and feature store that are reused by multiple machine learning use cases to generate and manage high quality data sets</li><li>Build cutting edge machine learning models that are used as building blocks to create intelligent solutions that detect risks on Airbnb platform or help humans make decisions </li><li>Work with cross-functional teams with design, product, data science, and research partners to drive engineering decisions<br></li></ul><strong><u>Who Are We Looking For<br></u></strong><ul><li>7+ years industry experience</li><li>Strong coding skills in Scala / Python / Java</li><li>Deep understanding of machine learning algorithms and best practices</li><li>Strong industry experience in architectural patterns of large, data-driven applications, API design, and data modeling</li><li>Experience with one or more of these technologies: Docker, Kubernetes, Spark, Airflow (or equivalent), Tensorflow, PyTorch, Kafka (or equivalent), data warehouse (eg. Hive)</li><li>Experience or desire to work collaboratively with cross-functional teams in design, product, data science, operations, and research</li><li>Industry experience building and productionization of machine learning models in Fraud Detection and Customer Support is a big plus</li><li>Industry experience building end-to-end machine learning infrastructure is a big plus<br></li></ul><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Airbnb",
+    "link": "https://www.linkedin.com/company/airbnb"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

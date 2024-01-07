@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>About The Role<br><br></u></strong>The data team is looking for a data analyst who is interested in leading the effort to promote a data-driven culture at Clover. We are looking for a detail-oriented problem solver who has a track record of strategically building data visualization tools and conducting in-depth analyses for an executive audience. In addition, our ideal candidate will be passionate about systematically finding creative approaches to most effectively bridge the gap between data and decision makers.<br><br><strong><u>Responsibilities<br><br></u></strong>Serve as a bridge between decision-makers and the data needed to provide actionable insights<br><ul><li> Collaborate with product, engineering, and operational teams to proactively gather requirements, develop metrics, instrument features, and deploy monitoring tools to measure product performance</li><li> Design, develop, own, and maintain ETL/ELT data flows across a constellation of data sources and systems</li><li> Use Python libraries (matplotib, seaborn) and business intelligence tools (Tableau, Sigma) to create data visualizations that enable teams to make data-driven decisions quickly and easily</li><li> Conduct in-depth analyses using statistical techniques to uncover insights into the factors that drive product performance</li><li> Lead efforts to improve data literacy and fluency within the company by contributing to data warehouse development, technical documentation, and training teams to become self-sufficient in data exploration and analysis<br></li></ul><strong><u>Requirements<br></u></strong><ul><li> Minimum 3 years\u2019 experience in the following:</li><li> Extensive industry experience providing analytical services to executive-level stakeholders of varying technical backgrounds</li><li> Hands-on experience building and iterating on self-serve, data visualization tools</li><li> Working knowledge or experience in data collection, transformation, and storage from various sources including relational databases, APIs, logs, and unstructured files</li><li> Strong self-starter who can create and lead new projects from scratch with minimal guidance, oversight, or resources</li><li> Collaborative, team player who can thrive in a fast-paced environment with quickly changing, ambiguous requirements</li><li> Proficiency in Python and SQL<br></li></ul>Nice to have<br><ul><li> Masters\u2019 degree in a quantitative discipline: computer science, applied mathematics, statistics, operations research, information systems, engineering, economics, social sciences, or equivalent</li><li> Experience implementing one or more or of the following techniques: A/B testing, regression analysis, non-parametric models, time series analysis, experimental design, survival analysis, clustering, natural language processing, or neural networks</li><li> Industry experience developing cloud-based data warehouse solutions</li><li> Experience with technologies such as Kafka, Docker, Kubernetes, and Spark <br></li></ul>To support the total well-being of our associates, Fiserv takes a broad approach to our benefits. We offer a comprehensive benefits package that provides flexibility and affordability with a variety of medical, dental, vision, life insurance and disability options.<br><br>We are #FISVProud of our benefits and well-being programs. Our commitment to wellness, wellness education, preventive services and fitness activities are designed to meet you where you are.<br><br>Join the Fintech and SaaS revolution that is helping small businesses grow faster and get the technology and insights previously available only to the \u201cbig guys.\u201d At Clover, you will be part of an entrepreneurial team working in a fast-paced and high growth environment, with the benefits of a parent company, Fiserv, a global leader in Fintech and payments enabling innovative financial services experiences that are in step with the way people live and work today.<br><br>Clover delivers the leading Point of Sale system with an elegant end-to-end solution that incorporates beautiful devices, cloud-based POS software, payments processing, platform API\u2019s for third-party developers, and an ecosystem with over 220 apps. The Clover platform delivers solutions in a scalable and modular fashion that powers tiny merchants through large football stadiums, supporting millions of transactions daily. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily. We are looking for self-starters with a passion for technology who want to help us impact millions of merchants' lives one transaction at a time.<br><br>We welcome and encourage diversity in our workforce. Fiserv is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran<br><br>Explore the possibilities of a career with Fiserv and Find Your Forward with us.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Clover Network, Inc.",
+    "link": "https://www.linkedin.com/company/clovernetwork"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

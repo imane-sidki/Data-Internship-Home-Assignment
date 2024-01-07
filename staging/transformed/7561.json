@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Big Data Engineer",
+    "industry": "",
+    "description": "<p><strong>Big Data Engineer</strong></p><p><br></p><p><strong>About Us</strong></p><p><br></p><p>At Wevision, we build services, data platform, AI and machine learning-based optimization engines toautomate the whole software development process. Our tenet is to build a strong tech team to deliver E2E solutions covering tech areas ranging from research, big data, micro services to data applications with front-end tools.Come join our team at Wevision, a fast-growing startup dedicated to building AI and machine learning-based optimization engines to automate software development and implementation.</p><p><br></p><p><strong>Responsibilities </strong></p><p><br></p><ul><li>Design, architect, develop, scale, and improve our data platform and its services</li><li>Implement large-scale high-throughput solutions using on-premise and cloud technologies such as Kafka, Spark on Hadoop/Hive/S3, AWS Lambda, Terraform, Kubernetes, etc.</li><li>Participate in novel solutions to challenging technical problems, introduce new technologies to our data platform and its services</li><li>Diagnose and debug issues in development, staging and production environments</li><li>Collaborate with product/program managers, software developers and analysts in an open, creative environment</li></ul><p></p><p><strong>Below is the expected technical skills, experiences etc:</strong></p><p><br></p><ul><li>Strong programming (Scala/Java) and shell scripting skills</li><li>Experience with batch processing technologies like Apache Spark</li><li>Ability to explore and analyze datasets using SQL</li><li>Experience in Software Development Lifecycle and its activities</li></ul><p><br></p><p><strong>Some Nice-to-haves:</strong></p><p><br></p><ul><li>Experience with real-time processing technologies like Apache Spark/Flink</li><li>Experience with and/or knowledge of CI/CD pipelines</li></ul><p><br></p><p>Job type: Full time, Contact</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:32:13.000Z"
+  },
+  "company": {
+    "name": "WeVision LLC",
+    "link": "https://www.linkedin.com/company/wevision-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

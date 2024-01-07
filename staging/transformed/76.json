@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Motion Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The CoreMotion Motion &amp; Interaction team has created innovative ways for users to interact with their devices through motion. When you play games by simply moving your devices, use the compass to find your way, or track your workouts on an Apple Watch, it\u2019s the work of engineers and scientists on this team. Join CoreMotion and work with the people who have created the sensor fusion technologies and motion gestures that power games, augmented reality, health, fitness and numerous other features on Apple\u2019s devices.<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong C++ coding skills (3+ years) <br><br>Solid understanding of algorithm design and data structures <br><br>Strong and intuitive understanding of object-oriented designs <br><br>Experience delivering production code for embedded or real-time systems<br><br>Effective communication skills, written and verbal, and attention to detail<br><br> <br><strong>Description<br></strong> <br>In this position, you will be working on motion sensing-related software driving sensor fusion and interactive technologies. Most importantly, you will help ship interactive features that impact millions of users on a daily basis. Roles and responsibilities include designing, implementing and maintaining APIs and algorithms for iOS, watchOS, tvOS, macOS and embedded systems, optimizing implementations for power, memory and performance, and close coordination with multi-disciplinary teams across the company.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor's or Master\u2019s degree in Computer Science, EECS, or equivalent experience.<br><br> <br><strong>Additional Requirements<br></strong> <br>Familiarity with Objective-C or Swift is a plus.<br><br> <br>Role Number: 200257878<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:01:42.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Defense & Space",
+    "description": "<p>This is an opportunity to work at a world-famous, federally funded research &amp; development organization with a great culture.</p><p>They have a need of a <strong>Software Engineer </strong>to provide support to the software team in implementing and integrating python-based analysis capabilities for resiliency testbed along with angular web front ends.</p><p><br></p><p><strong>Key Points:</strong></p><ul><li><strong>Title:Software Engineer</strong></li><li><strong>Location:</strong>Lexington, MA (Greater Boston)</li><li><strong>Job Type: W2 Contract</strong></li></ul><p><br></p><p><strong>Position Scope/Job Functions</strong></p><ul><li>Develop <strong>Python-based analysis capabilities</strong> for resiliency testbed: This includes ingesting and processing experimental data from the Testbed and producing value and insights using statistical and <strong>ML-based techniques</strong>.</li><li>Develop <strong>Angular web front ends</strong>: Develop web app front ends in Angular that communicates with various backend technologies and APIs.</li><li>Infrastructure <strong>Automation with Docker, Ansible and Terraform</strong>: This includes developing automation for configuration and deployment of the software services to <strong>AWS and ESX</strong> environments using <strong>containers and Ansible</strong>, and including infrastructure configuration with Terraform. This task also includes using automation to secure and harden deployed services.</li><li><strong>Java-based applications for data processing and adaptation</strong>: Develop Java applications primarily focused on ingesting, adapting, and normalizing data for downstream analytics. Secondary tasks include developing <strong>Springboot-based Java microservices</strong>.</li><li>Also perform related <strong>testing, and compose, compile, and maintain documentation</strong> for users and administrators. </li><li>A secondary role will be to assist the development team in the planning and execution of effective agile software development practices. </li><li>Must be able to communicate, collaborate and work effectively within our RST team.</li><li>The software developer must have a willingness to take on new technologies and work in areas and take on responsibilities that they are not necessarily an expert in.</li></ul><p><br></p><p><br></p><p><strong>Skills: Required</strong></p><ul><li>Experience developing non-trivial applications using <strong>Python, Java, Angular, JSON, Protobufs, Maven,</strong> Agile software development, source code version control systems (i.e., git &amp; Github).</li><li>Experience developing deployment pipelines using <strong>Docker, Ansible, and Terraform</strong>.</li><li>Experience securing and hardening deployed services using Ansible.</li><li>Experience with <strong>Elastic Stack, Apache NIFI</strong>.</li><li><strong>Unit testing and integration testing</strong>.</li><li>Developing, debugging, and executing software in a <strong>Windows and Linux environment</strong>.</li><li>Producing, editing, and maintaining documentation aimed at users and other developers.</li><li>Experience with <strong>ActiveMQ, Kafka,</strong> and other middleware and messaging platforms.</li></ul><p><br></p><p><strong>Education:</strong>Bachelor\u2019s degreewith 5+years of relevant work experience.</p><p></p><p>Work Authorization:<strong>US Citizenship</strong>is required.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:39:58.000Z"
+  },
+  "company": {
+    "name": "Minuteman Group LLC",
+    "link": "https://www.linkedin.com/company/minuteman-group-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lexington",
+    "region": "MA",
+    "postal_code": "02420",
+    "street_address": null,
+    "latitude": 42.44817,
+    "longitude": -71.224724
+  }
+}

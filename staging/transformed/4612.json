@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer - DevOps",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "NVIDIA is the leading artificial intelligence computing company and paving the way with innovations in self-driving cars, machine learning, supercomputing, gaming and visualization. NVIDIA gives automakers, research institutions, cloud providers, large companies and start-ups the power and flexibility to develop and deploy breakthrough artificial intelligence systems. We are an enthusiastic and dedicated SRE team serving the forefront of the latest science and technology trends. Working together with the development team, we provide a private on-site cloud solution that enables the rest of the organization to quickly release high-quality software. Are you passionate about infrastructure and looking for complex meaningful issues?<br><br>Are you ready to run the next generation of cloud services, design and code innovative solutions that address the needs of a whole organization? Then we are excited to have a motivated person like you!<br><br><strong><u>What You'll Be Doing<br></u></strong><ul><li>As a Site Reliability Engineering / System SW Engineer, you will work with the broader AI platform and Engineering teams to provide scalable and robust service oriented infrastructure automation, monitoring and analytics solutions for Nvidia's internal private R&amp;D cloud.</li><li>Own the whole life cycle of new features, from requirements gathering, to design documentation, validation and deployment.</li><li>Provide customer support on a rotation basis.</li><li>The cloud is a self-reservation system for bare-metal machines, where engineers can reserve machines ahead of time for development &amp; debugging purposes. The solution includes a web portal, REST APIs, a command-line client, and a micro-service architecture backend.<br></li></ul><strong><u>What We Need To See<br></u></strong><ul><li>Bachelor's degree (or equivalent experience)</li><li>8+ years of experience</li><li>Background in automating and handling large-scale distributed system software deployments in a cloud environment.</li><li>Experience designing and implementing CI/CD back-end services.</li><li>Strong programming skills in Go. Python proficiency.</li><li>Excellent debugging and troubleshooting skills.</li><li>Architect, Design, Implement and Operate High-performance computing clusters</li><li>Ability to maintain platform SLAs through accurate resolutions.</li><li>Strong cloud management foundation.</li><li>Proven record of delivering solutions using Agile process and methodologies.</li><li>Outstanding teammate who can collaborate and influence in a multifaceted environment.</li><li>Excellent interpersonal, and written communication skills.<br></li></ul><strong><u>Ways To Stand Out From The Crowd<br></u></strong><ul><li>You have reached Jenkins\u2019 limits and creatively worked around them.</li><li>Be a full stack, user experience oriented, developer.</li><li>Unit testing and benchmarking are an integral part of your code.</li><li>Good working experience of Kubernetes and AWS cloud internals.</li><li>End to end Monitoring across Infrastructure and Applications for Metrics, Alerts, Logs using tools such as Prometheus and others</li><li>Ability to reason and choose the best possible algorithm to meet scaling and availability challenges.</li><li>Decompose complex requirements into simple tasks and reuse available solutions to implement most of those.</li><li>Ability to design simple and reliable systems that can work without much support.<br></li></ul>NVIDIA is widely considered to be one of the technology world\u2019s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!<br><br>NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:50:37.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

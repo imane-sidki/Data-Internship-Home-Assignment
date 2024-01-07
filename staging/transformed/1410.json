@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist/Engineer - 37041",
+    "industry": "Defense & Space",
+    "description": "<strong><u>Job Description<br><br></u></strong>Enlighten, an Alion Company is looking for a Data Scientist/Engineer to join our team. The Data Scientist/Engineer will establish and implement end-to-end proof of concepts for leading edge analytic and data mining systems. This work may include modifying data during the ETL process, exploring new datasets to understand the data and derive value, and generating analytics with complementary dashboards and visualizations. They will be responsible for the creation of innovative methodologies for extracting key parameters from big data coming from various sensors.<br><br><strong><u>Security Clearance<br></u></strong><ul><li>A current TS/SCI (Top Secret) level U.S. Government clearance is required and therefore all candidates must be a U.S. Citizen. <br></li></ul><strong><u>Required Skills<br><br></u></strong><em>Candidates must have most of the following required skills:<br></em><ul><li>B.S. degree in Computer Science, Electrical Engineering, Statistics, Operations Research, Applied Math, or equivalent fields</li><li>Must have 5+ years of Data Scientist or equivalent experience working with data (Software Engineering, Database Design, etc.)</li><li>Must have a software development background in order to prototype custom analytics/tooling</li><li>Practical experience with data analysis and exploration, especially with diverse data sets</li><li>Experience in streaming and/or batch analytics (e.g. Kafka, Spark, Flink, Storm, MapReduce, Hadoop)</li><li>Architect and work closely with other team members to develop scalable cloud-based data analytic solutions</li><li>Familiar with scalable distributed data processing, management, and visualization tools (e.g. Hadoop, ELK, Kafka, Accumulo, graph databases, etc.).</li><li>Capable of applying the latest technologies and methodologies in machine learning, data mining, and predictive analytics to correlate disparate datasets and events, and derive value.</li><li>Has a proven ability to learn quickly and works well both independently as well as in a team setting</li><li>Other duties as assigned.<br></li></ul><strong><u>Desired Skills<br></u></strong><ul><li>Experience with containers (e.g. Docker, Kubernetes)</li><li>Experience with DoD data types and current DoD Data Strategies</li><li>CJ *NF<br></li></ul>Security Clearance: Top Secret/Sensitive Comp Info<br><br>Telework - Limited",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Alion Science and Technology",
+    "link": "https://www.linkedin.com/company/alionscience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95100,
+    "max_value": 152000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Linthicum Heights",
+    "region": "MD",
+    "postal_code": "21090",
+    "street_address": null,
+    "latitude": 39.195045,
+    "longitude": -76.68526
+  }
+}

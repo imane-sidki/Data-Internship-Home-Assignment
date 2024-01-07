@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "Job Summary:<br><br>The Walt Disney Company's Media &amp; Entertainment Distribution (DMED) is a new, global business segment for The Walt Disney Company with the mission of providing consumers around the world access to the content they want most, on the latest platforms, at a time of rapidly-evolving consumer habits. Combining the Company's direct-to-consumer streaming services \u2013 ESPN+, the Disney+ streaming service and its ownership stake in Hulu -- alongside Disney's international media businesses, DMED aligns cutting-edge technology with world-class content and beloved brands to expand the Company's global footprint and deliver highly-personalized entertainment experiences to diverse consumers around the world.<br><br>Would you like to be part of the interdisciplinary team providing vital insights into the rapidly evolving media landscape for Disney\u2019s suite of television networks (ABC, ESPN, Freeform, FX, National Geographic, Disney Channel, etc.)?<br><br>As a Data Scientist at Disney Media &amp; Entertainment Distribution, you\u2019d put your talent to use developing and improving predictive models providing insight into advertising across the digital TV networks. You\u2019d join our Digital Forecasting &amp; Reporting team, whose mission is to develop accurate and interpretable digital ad sales inventory forecasts to optimize revenue and provide unified insights on engagement across the DMED portfolio. We highly value statistical modeling approaches, but also balance traditional data science methods with financial modeling practices and business expertise \u2013 merging the science with the art!<br><br>This position currently reports to Manager, Digital Analytics.<br><br>Responsibilities:<br><br><ul><li>Design and develop new predictive models leveraging statistical and machine learning methods to measure and project a user\u2019s engagement with the Disney platforms</li><li>Dig into the drivers of change when interpreting forecasts and build visualizations/interfaces to share results with business stakeholders in an easily digestible, sustainable, and automated manner</li><li>Ensure data is as clean as possible and a reliable source of truth, escalating anomalies and developing workarounds where needed</li><li>Drive innovation by exploring new statistical techniques and brainstorming ways to optimize the existing forecast infrastructure and make processes even better</li><li>Apply Agile principles via participating in standups, sprint planning, writing business requirements documents, and retrospectives</li><li>Collaborate with data engineers, developers, and business analysts</li><li>Design, develop, or improve new user-friendly web applications supporting data science products, contributing to our vision for a \u201cone-stop shop\u201d forecasting interface</li><li>Develop and deploy testing hypotheses and analyze results, providing the necessary analytical rigor to ensure data quality, consistency, repeatability, and accuracy of insights</li><li>Participate in an \u201cOpen Source\u201d learning environment where sharing, documenting, teaching, and collaborating with others is the culture<br><br></li></ul><strong>Basic Qualifications:<br><br></strong><ul><li>High proficiency in SQL and Python (e.g. pandas, numpy, scikit-learn) for data analysis;</li><li>Experience designing and implementing predictive models (generalized linear models, time series, etc.);</li><li>Experience working with Git;</li><li>Proven sense of responsibility and effective project ownership \u2013 you have an aptitude for troubleshooting complex problems with creative solutions;</li><li>Communication skills \u2013 you\u2019re able to shift between technical and non-technical terminology depending on the audience;</li><li>Natural curiosity - you enjoy digging deeper to find the big picture and are open to learning new technologies;</li><li>User/Client Oriented \u2013 you have strong interpersonal skills, building relationships across teams and functions to earn trust and advance business goals;</li><li>Comfort with messy data and flexibility in dynamic environments.<br><br></li></ul>Preferred Qualifications:<br><br><ul><li>Experience using web frameworks (Django) and JavaScript libraries (ReactJS, JQuery) to build professional frontend and backend web applications focused on user experience;</li><li>Experience with ETL, data pipeline management, and cloud infrastructure for managing large amounts of data (e.g. AWS, PySpark, Snowflake, Airflow);</li><li>Experience with data visualization tools (e.g. Tableau);</li><li>Experience implementing Docker containers<br><br></li></ul>865894BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-09T08:35:50.000Z"
+  },
+  "company": {
+    "name": "The Walt Disney Company",
+    "link": "https://www.linkedin.com/company/the-walt-disney-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

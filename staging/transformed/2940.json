@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p>The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Analyze raw data: assessing quality, cleansing, structuring for downstream processing</li><li>Design accurate and scalable prediction algorithms</li><li>Collaborate with the engineering team to bring analytical prototypes to production</li><li>Generate actionable insights for business improvements</li><li>Develop company A/B testing framework and test model quality.</li></ul><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or equivalent experience in a quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)</li><li>Experience using statistical computer languages (Python &amp; SLQ) to manipulate data and draw insights from large data sets.</li><li>6+ months of A/B Testing</li><li>Experience utilizing visualization tools to take advantage of the growing volume of available information (Power BI preferred)</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-06T18:09:40.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Seattle Area",
+    "region": null,
+    "postal_code": "98109",
+    "street_address": null,
+    "latitude": 47.591396,
+    "longitude": -122.33279
+  }
+}

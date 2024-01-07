@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Capital Markets,Computer Software,Financial Services",
+    "description": "<strong><u>Who We Are<br><br></u></strong>Maven is building the university of the future - empowering the world's creators to offer cohort-based courses directly to their audiences. Courses on Maven have community at their core, focus on active learning, and are available anywhere in the world.<br><br>Our team has raised $25 million from incredible investors including Andreessen Horowitz, First Round, Naval, and Arlan Hamilton, and we've launched sold-out courses with instructors like Li Jin, Anthony Pompliano, Lenny Rachitsky, and Sahil Lavingia.<br><br>We're the leading player in a massive and growing market, but are still early enough for you to make a big impact. Join us!<br><br>The Role<br><br>You will be one of the first 10 engineers at the company, owning features end-to-end, becoming an expert on parts of our product, and building the platform that powers the best cohort-based-courses on the market.<br><br><strong>You Will:</strong> <ul><li>Be one of the first 10 engineers on our team</li><li>Own features end-to-end:</li><ul><li>e.g. payments, emails, live sessions, community, analytics, internal tools</li></ul><li>Collaborate with engineers, designers, and others across the team</li><li>Work full-stack with Typescript, React, Next.js, Python, FastAPI, Postgres, and AWS (Aurora, ECS, Elasticache), Github Actions, &amp; Vercel.</li><li>Be an influential part of building a world-class online learning platform <br><br></li></ul><strong>You Have:</strong> <ul><li>Shipped features in production apps with real users</li><li>Experience with full-stack development:</li><ul><li>Javascript/Typescript frontend frameworks (preferably React - open to other technologies such as Angular, Vue, Redux) </li><li>API development on the backend (preferably Python - open to other technologies such as Ruby, Go, PHP, Java)</li></ul><li>Judgement around when to do something quickly, and when to build for the long term</li><li>Product instincts, and a keen eye for why users want what they want</li><li>A desire to strengthen those around you<br><br></li></ul>If you don't meet these criteria but are still excited about Maven, reach out anyway - we'd love to hear from you.<br><br><strong>Our Culture:<br><br></strong>We're growing quickly but we're still a startup, and you'll have the opportunity to shape how we work. So far we've looked for teammates who:<br><ul><li>Are hungry to learn, and can give and receive ego-free feedback</li><li>Take pride in doing great work, and in helping others do the same</li><li>Value clear thinking and open communication</li><li>Don't just solve problems - they seek them out, take ownership of the solution, and see it through from idea to execution</li><li>Are willing to throw away ideas, and are optimistic enough to keep hunting for new ones</li><li>Think 80/20 and focus on getting the right stuff done, not the most stuff possible<br><br></li></ul>Come Build With Us<br><br>We're a fully remote company with employees in New York, Toronto, Austin, the Bay Area, and beyond. Anyone within 1 hour of US time zones is welcome.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T01:27:00.000Z"
+  },
+  "company": {
+    "name": "Maven",
+    "link": "https://www.linkedin.com/company/maven-hq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

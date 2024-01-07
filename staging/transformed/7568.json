@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Frontend Developer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>ShortList Recruitment are working with a Nationwide Real Estate company in the Austin area who are looking to bring in a Software Engineer to help their continued growth. This developer would get the ability to enhance their current platform by adapting existing features and creating new ones to solve technical issues. </p><p></p><p>Tasks </p><ul><li>Work effectively with a team of 8 other Backend/Frontend Developers and QA's to build an amazing software product</li><li>Build software primarily using ReactJS (or Angular)</li><li>Work and communicate effectively in a team environment</li><li>Thoughtful in code reviews with the ability to contribute and the desire to learn</li></ul><p><br></p><p>Desired Skills and Experience </p><ul><li>5+ years of software development experience</li><li>Experience with HTML5, CSS, JavaScript, and object-oriented programming languages </li><li>Experience with ReactJS, or AngularJS is required </li><li>Experience with RESTful APIs</li><li>Experience with Unit Testing is a plus</li><li>Experience with Azure Cloud is a plus </li></ul><p></p><p>This position would be paying a Competitive Salary plus a fantastic benefits package. The ideal candidate is located in Austin, TX.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:33:51.000Z"
+  },
+  "company": {
+    "name": "ShortList Recruitment Limited",
+    "link": "https://uk.linkedin.com/company/shortlist-recruitment-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Remote eventually will have to relocate to Denver, CO or Memphis, TN<br><br>Position will be temporarily remote from home until AHS returns to office.<br><br>CandidatesMUSTbe located in the Memphis, TN area OR Denver, CO area.<br><br><strong><u>Quick Notes From Interview<br><br></u></strong>George Stragand - Manager of the team<br><ul><li>Newer to AHS - just started 2 1/2 weeks ago</li><li>Lives in colorado</li></ul> 6 currently on the team and looking to double size<br><br>Gitlab used a lot<br><br>On call every once in a while and rotates through each team member<br><br>A lot of work within the cloud<br><br><strong><u>He Asked About Security Experience<br><br></u></strong>What is the owasp top 10 and which would you go after first?<br><br><strong><u>What He Would Like To See<br><br></u></strong>Heavy focus on the networking stuff<br><br>VPC<br><br>Networking<br><br>Routing is a bigger deal<br><br>Unicorn- someone with servicemesh experience Hashicorp is one<br><br><strong>Istio - they're currently using <br><br></strong><strong>Anthos - they're currently using</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T08:25:24.000Z"
+  },
+  "company": {
+    "name": "Saxon Global, Inc.",
+    "link": "https://www.linkedin.com/company/saxonglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Memphis",
+    "region": "TN",
+    "postal_code": "38111",
+    "street_address": null,
+    "latitude": 35.14338,
+    "longitude": -90.05214
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Cloud Operations Engineer/ Site Reliability Engineer (Remote, USA)",
+    "industry": "Information Technology and Services,Computer Software,Computer Networking",
+    "description": "<strong><u>Company Description<br><br></u></strong>ActiveVideo is a Silicon Valley company that harnesses the power of the cloud to accelerate multi-platform television experiences and is the developer of AppCloud and CloudTV, cloud-based software virtualization platforms that enables service providers, content aggregators and CE manufacturers to deliver the latest TV experiences to millions of set-tops and connected devices. We are based in San Jose, CA, with an office in Hilversum, the Netherlands.<br><br><strong><u>Job Description<br><br></u></strong>As a Cloud Operations Engineer at ActiveVideo you will use leading edge technologies to build, deploy, operate, and maintain configuration management and orchestration routines to deliver and scale applications and services in virtualized environments and in the cloud as part of a small, geographically distributed Cloud Operations team. We are committed to delivering best-in-class system uptime and operations observability through automation and instrumentation.<br><br>This is a key technical role within the Cloud Platform and Operations organization that interfaces closely with the Cloud Infrastructure, Development teams, Product and Customer Engagement teams. The ideal candidate is a self-starter with a strong focus on collaboration, automation, continuous improvement, and an innovative mindset that will lead to operational efficiencies, and increased compliance. The candidate must have a track-record of managing live productions environments with strict availability targets and extensive experience building automation to support continuous software releases.<br><ul><li>Deliver configuration management and orchestration routines to deploy and scale applications and services in AWS, running a microservice architecture on Kubernetes; operating and maintaining these systems in production and critical user facing environments. </li><li>Support product development teams in the delivery of continuous integration, continuous deployment, providing templates and patterns to follow, to ensure code produced by product development teams is deployed and scaled.</li><li>Perform root cause analysis for production issues whether the root cause is in infrastructure, environment, configuration, application, or deployment routines; understand when to escalate to product development teams; remediate root causes and implement preventative actions.</li><li>Participate in on-call rotation and afterhours maintenance when necessary, respond to major incidents, and participate in bridge calls in support of initiatives and incident response.</li><li>Actively collaborate with the product, development teams and QA teams to build automated testing and monitoring of deployments, implementing and utilizing different deployment methodologies, such as canary or blue green.</li><li>Revamp and continuously optimize application release cycles as production environments and product suite scales.</li><li>Participate in Change Management activities which include reviews, approvals, rollback plans, and live operations transition.</li><li>Applying automation where possible to reduce manual and repetitive tasks.</li><li>Architect and implement monitoring, reporting, alerting, and centralized dashboarding solutions for proactive event detection to increase uptime and application performance and reduce failures.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> 6 + years of experience as a SRE operating a Public Cloud platform</li><li> 3+ years experience working with configuration management and orchestration technologies such as Cloud Formation, Ansible or comparable</li><li>Experience managing and launching cloud-native applications in Docker containers with Kubernetes orchestration using Helm.</li><li>Extensive knowledge of troubleshooting in a Linux and Kubernetes environment using tools like Splunk, PRTG, DataDog, New Relic, etc.</li><li>Experience launching multiple deployment strategies in live production environments.</li><li>Knowledge of application performance and monitoring</li><li>Knowledge of cloud infrastructure principles including infrastructure as code</li><li>In-depth knowledge of CI/CD tools and methodologies, examples Bamboo, Jenkins, Artifactory or similar.</li><li>Proficiency in Python, bash or other programming language.</li><li>Ability to quickly learn new and existing technologies.</li><li>Ability to work in fast paced and dynamic environment.</li><li>Strong written and verbal communication skills</li><li>AWS Associate Certification<br></li></ul><strong>Travel and Location Requirements:<br></strong><ul><li> Ability to travel to ActiveVideo locations on occasion<br></li></ul>Additional Information<br><br>You\u2019ll become part of a team consisting of strong, delivery-minded technologists. The culture is highly informal and our structure flat. This enables our employees to be flexible and to research their ideas. And of course, we offer a competitive package with competitive salaries, medical, dental, vision, life, 401(k), and PTO starting at 15 days for the first year of service.<br><br>We&apos;re an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "ActiveVideo",
+    "link": "https://www.linkedin.com/company/activevideo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Miami",
+    "region": "FL",
+    "postal_code": "33299",
+    "street_address": null,
+    "latitude": 25.775084,
+    "longitude": -80.1947
+  }
+}

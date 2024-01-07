@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "<p><strong>Client- Established Financial organization</strong></p><p><strong>Title: Site Reliability Engineer - Kubernetes.</strong></p><p><strong>Length: Direct hire</strong></p><p><strong>Location: Jersey City, NJ or Dallas, TX. Hybrid 2-3 days office, rest WFH.</strong></p><p><br></p><p><br></p><p><strong>SUMMARY:</strong></p><p>We are looking for a Container migration SRE, who understands the enterprise containers in Docker Swarm to advanced Kubernetes platforms (OpenShift, Tanzu) deployments and has prior experience with container migrations and deployments. The container migration SRE will bring in Kubernetes deployment with software engineering SRE standard methodologies. This role will be instrumental in continuing our Container First strategy delivery, bringing expertise with, development, and implementation of container migration projects.</p><p><br></p><p><strong>YOUR PRIMARY RESPONSIBILITIES:</strong></p><ul><li>Lead the container platform ecosystem</li><li>Cluster capacity management and provisioning through automation of underlying hosts.</li><li>Understanding the infrastructure components (server, network, storage, firewall, load balancer etc) required for Kubernetes platform, Infrastructure As a Code(IaC).</li><li>[Developer Differentiator]</li><li>Experience with a modern application software language; especially a systems programming language (Go, Python)</li><li>Understanding of architectural patterns; Microservices are important, but experience with other patterns helpful</li><li>Practitioner of version control; experience with different branching strategies (and understands why GitFlow is not a good choice for CI/CD and enterprise development teams)</li><li>Understands and uses unit and functional testing; ideally advocates tests up front (advocates tests for moving faster)</li><li>Experience defining delivery pipelines; demonstrable work in automation and observability (Bonus points for experience using GitOps for deployment)</li><li>Understand K8s resiliency patterns (HPA, self-healing)</li><li>Understands container image optimization</li></ul><p><br></p><p><strong>QUALIFICATIONS:</strong></p><ul><li>Minimum of 6 years of related experience</li><li>Bachelor's degree required</li><li>Kubernetes and/or Tanzu or OpenShift Container Platform.</li><li>Kubernetes and Python</li><li>Expertise in Tanzu Solutions As A Service Offerings</li><li>Experience delivering infrastructure as code using CI/CD practices</li><li>Proven track record of applying technology to tackle business problems.</li><li>Experience with migrate/onboard application onto Kubernetes</li><li>AWS associate certifications or higher preferred</li></ul><p>RedHat certifications in Linux and OpenShift administration preferred</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T15:13:13.000Z"
+  },
+  "company": {
+    "name": "HireTalent - Diversity Staffing &amp; Recruiting Firm",
+    "link": "https://www.linkedin.com/company/hiretalent_"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

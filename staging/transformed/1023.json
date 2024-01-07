@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Insurance",
+    "description": "<strong><u>Company Description<br><br></u></strong>Derex Technologies Inc specializes in providing IT consulting, staffing solutions and software services. Globally headquartered in Harrison New Jersey since 1996 Derex delivers the highest quality technology professionals and an array of customized IT talent solutions designed to improve productivity and drive results to global clients throughout North America.<br><br>With over two decades of unparalleled experience, Derex provides supports to its clientele, across such industries as Systems Integration, Banking and Finance, Telecommunications, Pharmaceutical and Life Sciences, Energy, Healthcare, Technology, Transportation, and local and federal Government agencies.<br><br><strong><u>Job Description<br><br></u></strong>As a Data Engineer III, you will be responsible for designing, maintaining, and optimizing large-scale automated ELT processes. Working actively with analysts and customer teams specializing in enterprise data warehousing, you will leverage industry-standard data orchestration tools as well as in-house proprietary scheduling and automation tools to create efficient and reliable ELT jobs which support product offerings and data warehousing needs for our customers. As we incorporate more cloud technologies into our processes, you will be at the forefront of exploring and defining best practices and helping us transition our products to be more scalable.<br><br><strong><u>Qualifications<br></u></strong><ul><li>Taking end-to-end ownership of data pipelines and custom solutions for our clients </li><li>Coordinating with the systems, core, CX, and analytics teams to build and maintain data products and custom solutions for our clients </li><li>Designing and writing automated scripts to preprocess terabytes of data from our partners/clients </li><li>Designing and writing new enterprise-scale ELT/ETL workflows from scratch in Python using Airflow, Docker, AWS, etc. </li><li>Modifying/redesigning legacy ELT/ETL processes to leverage cutting-edge open source and proprietary technologies </li><li>Ensuring quality, reliability and uptime for critical automated processes </li><li>Migrating our products and processes into the cloud while drastically reducing our in-house data center footprint. Required Skills: </li><li>At least 5-8 years in a Data Engineering role/similar programming in Python with exposure to Docker </li><li>Ability to work independently </li><li>Proficient in SQL </li><li>Prior experience managing a small team in an Engineering role.</li><li>Exposure to ETL/ELT pipeline automation </li><li>Knowledge of Apache Airflow </li><li>Exposure to basic database concepts </li><li> Preferred Skills: </li><li>Good understanding of Data Engineering, NoSQL databases and database design, distributed systems and/or information retrieval </li><li>Work with SaaS products </li><li>DBA experience </li><li>Ability to plan and collect requirements for projects, and interact with the analyst and data science teams <br></li></ul>Additional Information<br><br>All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Derex Technologies Inc",
+    "link": "https://www.linkedin.com/company/derex-technologies-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88400,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

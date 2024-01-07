@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Cloud Infrastructure (ACI) team builds and provides systems that power many of Apple\u2019s customer facing services (like iCloud, iTunes, Siri, Maps). We provide infrastructure primitives that enable teams across Apple to build services that our customers love.<br><br><br>Our team is building a low latency distributed storage block storage system, which will be made available to workloads running on ACI\u2019s private-cloud infrastructure. As a general purpose \u201cdisk\u201d service, we need to support workloads ranging from databases and ML/analytics frameworks to orchestration of large scale containerized and virtualized jobs.<br><br> <br><strong>Key Qualifications<br></strong> <br>Problem solving skills using foundational data structures and distributed system concepts<br><br>Coding skills in languages like Rust, C++, C, Go, Java or C# <br><br>2 - 15+ years of professional software development experience<br><br>Strong ownership and track record of delivering results<br><br>Excellent verbal and written communication skills<br><br>Preferred: Proficiency in Rust<br><br>Preferred: Experience in the bottom layers of the storage software stack (Filesystem, Block Device, SSD)<br><br>Preferred: Experience with high-performance asynchronous IO systems programming<br><br> <br><strong>Description<br></strong> <br>Engineers on this team will have the rare opportunity to work on storage device optimized low-level storage, large-scale distributed systems, and high performance IO stacks operating at mission critical levels of availability and durability. Each component is being built using first principles from the ground up in order to unlock optimization opportunities at every layer of the stack.<br><br><br>We are looking for collaborative, curious and pragmatic Software Engineers to be part of this innovative team. You will have the opportunity to shape the product\u2019s features and its architecture as it scales orders of magnitude. Being a part of Apple\u2019s Cloud Infrastructure organization opens the door to exert cross-functional influence and make larger organizational impact.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in Computer Science or Equivalent work experience.<br><br> <br>Role Number: 200275619<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T15:02:55.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 186000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

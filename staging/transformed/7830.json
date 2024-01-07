@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Device Services is the backbone for sale and activation of devices including iPhone, iPads, Apple watch, Apple TV etc. Additionally, Device Services also protects Apple devices when it\u2019s lost and is driving the eSIM revolution. With new smart HomeKit enabled devices, working with different partners for their onboarding and activation needs is another crucial project being handled by the team. <br><br><br>A successful candidate will have experience in being a Full Stack Developer who has supported their applications operationally. The SRE will be identifying and developing solutions for advanced and robust monitoring, and reducing manual effort by automations<br><br> <br><strong>Key Qualifications<br></strong> <br>Full stack development \u2013 JDK8+ preferred with spring boot, Rest APIs, multithreaded, multiprocessing applications, Angular <br><br>Diagnosing and resolving problems in high-throughput applications, excellent communication, and documentation skills.  <br><br>Experience with one or more APM tools and log monitoring tools like AppDynamics, Splunk, Nagios etc <br><br>Exposure to *nix environments including some shell script development and basic command execution <br><br>Strong understanding of database principles and working knowledge in distributed storage and infrastructural solutions preferably Oracle, Cassandra.<br><br> <br><strong>Description<br></strong> <br>The successful candidate will be highly self-motivated with a passion for excellence, quality and detail. The SRE would also be working with various support, development, QE teams to understand the gaps in existing product architecture, monitoring, verifications processes and will try to bridge those gaps by building solutions or making change in process. Lastly, a proven track record and expertise in debugging and root causing issues with an instinct to automate repetitive tasks.<br><br><br>\u2022Passion for quality and automation, an ability to understand complex systems and a desire to constantly make things better. <br><br>\u2022Constantly developing and improving on existing solutions used by the team to improve the throughput and reduce manual work.<br><br>\u2022You will be developing and maintaining scripts/products used for environment monitoring and task automation (Java, Perl, Shell, Python, Ruby, etc.) <br><br>\u2022Deploy, support and monitor new platforms and application stacks <br><br>\u2022Set priorities and work efficiently in a fast-paced environment  <br><br>\u2022Explore and evaluate new technologies and solutions to push the capabilities forward, getting ahead of customers\u2019 needs, innovate and continually improve  <br><br>\u2022Strong interpersonal skills and ability to work effectively across multiple business and technical teams  <br><br>\u2022Demonstrate ability to deliver results on time with high quality<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in engineering, computer science or other technical disciplines plus 3 years of related experience<br><br> <br><strong>Additional Requirements<br></strong> <br>Understanding of security standards, policies, and cryptography.<br><br>Network troubleshooting of routing policies, proxies, firewalls, load balancers configurations <br><br>Experience with container management and micro-services architectures such as Docker in cloud and on-premises infrastructure.<br><br>Good understanding of incident and problem management<br><br> <br>Role Number: 200284605<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T14:25:03.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80000,
+    "max_value": 156000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "<p><strong>Requirements</strong></p><ul><li>Master's Degree in Applied Mathematics, Physics, Computer Science, Statistics or related technical field</li><li>8-10years</li><li>Healthcare experience preferred.</li></ul><p><br></p><p><strong>Skills, Abilities, Experience</strong></p><ul><li>Advanced knowledge in data science tools (Python, R, Linux, etc.)</li><li>Advanced SQL skills (MS SQL Server, Snowflake, etc.)</li><li>Advanced Microsoft Excel knowledge</li><li>Proficiency in data visualization tools (Domo, Tableau, Power BI, etc.)</li><li>Effective communication skills</li><li>Forward-thinking, curious, creative</li><li>Able to lead people or projects</li><li>Aware of current marketplace trends</li><li>Able to collect and analyze complex information, problem solve and make decisions</li><li>Strong skills in inspiring the win-win-win</li><li>Able to work independently</li></ul><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T16:12:00.000Z"
+  },
+  "company": {
+    "name": "Peer Consulting Resources Inc.",
+    "link": "https://www.linkedin.com/company/peer-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

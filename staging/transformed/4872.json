@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer (R&amp;D)",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Site Reliability Engineers are responsible for ensuring that our platform is stable and healthy. We break down barriers by fostering developer ownership and empowering developers. We support them by building creative and robust solutions to operations problems. We use our background as generalists to work closely with product development teams from the early stages of design all the way through identifying and resolving production issues. We see the big picture. We help create and enforce standards while facilitating an agile and learning culture. We use SRE principals such as blameless postmortems and operational load caps to ensure we\u2019re constantly improving our knowledge and maintaining a good quality of life. Overall, we\u2019re passionate about automation, learning and participating in dynamic day to day work.<br><br>Site Reliability is about combining development and operations knowledge and skills to help make the organization better. Whether you have a development background and are interested in learning more about operations or are a DevOps/Systems Engineer who is interested in developing internal tools - Cvent SRE can benefit from your skillsets. Ultimately, we are looking for passionate people who love learning and technology.<br><br>We use a wide variety of technologies and avoid getting locked into a single path. If we find something that works better than what we have, we always are open to trying it out.<br><br><strong>Here is a taste of the technologies you\u2019ll get to work with:<br></strong><ul><li>AWS (EC2 / ECS / Lambda / RDS / S3 / Route53 / DynamoDB)</li><li>Docker</li><li>Java, .Net, Ruby</li><li>Linux, Windows</li><li>PostgreSQL, SQLServer</li><li>Kafka / CouchBase / CouchMobile</li><li>Chef, Puppet</li><li>Datomic</li><li>Consul</li><li>Terraform, CloudFormation</li><li>Jenkins</li><li>ReactNative</li><li>Native iOS and Android<br></li></ul><strong><u>What You Will Be Doing<br><br></u></strong>As a Lead/Principal Site Reliability Engineer, you will use your advanced development and operations knowledge to identify and prioritize issues. Find universal solutions to common problems and mentor and support junior staff.<br><ul><li>Enlighten, Enable and Empower a fast-growing set of multi-disciplinary teams, across multiple applications and locations.</li><li>Tackle complex development, automation, and business process problems.</li><li>Champion Cvent standards and best practices.</li><li>Ensure the scalability, performance, and resilience of our suite of products.</li><li>Work with the development and product team of a new application to establish the right monitoring and alerting strategy.</li><li>Work with a new acquisition's DevOps team to cross-pollinate best practices, educate and close gaps in Cvent standards.</li><li>Develop build, test and deployment automation that seamlessly targets multiple on-premises and AWS regions.</li><li>Help a dev team working on a legacy code base to realize zero-down-time deployments.</li><li> Give back by working on and contributing to Open Source projects: https://github.com/cvent</li><li>Automate all the things!<br></li></ul><strong><u>What You Need For This Position<br><br></u></strong>We believe that passion and willingness to learn outweigh any list of skills, however having experience in some of the areas below would help you hit the ground running and show that you can be successful as an SRE at Cvent.<br><ul><li>Object-Oriented Software development in Java, Scala, etc.</li><li>CI Server administration and support (Jenkins)</li><li>Configuration automation using Chef or Puppet.</li><li>Building tools and scripting frameworks from scratch</li><li>Solid Windows and Linux administration skills.</li><li>Working with APM, monitoring, and logging tools (New Relic, DataDog, Splunk)</li><li>Project management tools like Jira, Trello.</li><li>NoSQL (etc., Couchbase, Cassandra).</li><li>SQL databases (MSSQL, PostgreSQL, etc.).</li><li>Message Queues (RabbitMQ).</li><li>Scripting languages like Ruby, Groovy, Bash, PowerShell, or Python.</li><li>Bachelor's or master\u2019s degree in a technical field required<br></li></ul><em>At Cvent we celebrate, support and are committed to creating a diverse and inclusive environment. We are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or any other legally protected characteristics. Cvent maintains a drug-free workplace<br><br>EEO[/AA]/Minorities/Females/Disabled/Veterans<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:41:46.000Z"
+  },
+  "company": {
+    "name": "Cvent",
+    "link": "https://www.linkedin.com/company/cvent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 98000,
+    "max_value": 165000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oregon",
+    "region": "United States",
+    "postal_code": "97350",
+    "street_address": null,
+    "latitude": 43.938683,
+    "longitude": -120.558105
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Back End",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "This position is within our Applications Engineering organization, which is responsible for building Information Systems to support Tesla's rapid growth while providing amazing customer experience. The organization builds applications &amp; systems that bring our amazing Vehicles &amp; Energy products to customers. Some of the core functions include CRM, e-commerce, financial transactions, ERP &amp; manufacturing.<br><br>Digital Products Engineering, under the umbrella of Applications Engineering, builds our customer facing www.tesla.com that help our customers across 60+ countries understand our products, place and track the order status until delivery/install. The team also builds native and kiosk applications for our retail stores. In the backend, this team builds systems to manage our customer data, optimize schedule of service centers &amp; installation crews and several core platforms (Document Management, Adaptive Surveys, API Gateways etc.)<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Design, development and implementation of applications for Tesla customers on features like referrals (Loot Box), service center appointment management and support content</li><li>Use .net framework, .net core and MS SQL technology stack</li><li>Design software architecture based on business requirements, strategy and priorities</li><li>Promote software engineering best practices via code reviews, building tools and documentation</li><li>Be nimble and react quickly to changing business conditions</li><li>Leverage your existing skills while learning and implementing new, open source technologies as Tesla grows</li><li>Work with product managers, content producers, QA engineers and release engineers to own your solution from development to production <br></li></ul><strong><u>Requirements<br><br></u></strong><strong>Must have<br></strong><ul><li>BS in Computer Science or equivalent discipline</li><li>Some experience with the .NET platform </li><li>Experience in MS SQL Server is required and good knowledge in query optimization</li><li>Expert knowledge of REST APIs</li><li>Good unit testing and integration testing practices</li><li>Experience with message queue architecture <br></li></ul><strong>Good to have<br></strong><ul><li>Exposure to Go, PHP, Java and other open source technologies</li><li>Experience with Docker and Kubernetes</li><li>Agile/SCRUM Software Development Process experience</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T08:15:48.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

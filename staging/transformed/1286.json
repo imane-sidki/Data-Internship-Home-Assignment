@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Medical Devices,Computer Software,Hospital & Health Care",
+    "description": "<strong><u>Company Description<br><br></u></strong>LVIS is a leader in cutting-edge neural information analysis technologies that can decode brain networks and find cures for neurological diseases. LVIS owns patented technologies and our team includes leaders with strong expertise in neuroscience and engineering from Stanford University. LVIS has been selected to be a member of the Stanford StartX community and the NVIDIA inception program. We have an international team with our headquarter located in Palo Alto, California, USA and we have an office in Gangnam, Seoul, South Korea. We are looking for talented individuals to join us in transforming the neurology health care industry.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Develop, experiment, and verify deep learning models using medical signal and image data.</li> <li>Analyze, process, and augment unrefined medical signal and image data.</li> <li>Communicate and collaborate with team members including physicians in the development of machine learning models.</li> <br><br></ul><strong><u>Basic Qualifications<br><br></u></strong><strong>Requirements<br></strong><ul> <li>Familiar with machine learning algorithms and deep neural networks. Experience with academic / industrial deep learning projects (course work not included).</li> <li>3+ years of experience with one or more deep neural network frameworks (e.g. Tensorflow, Keras, Pytorch, etc.).</li> <li>Strong programming skills in Python.</li> <li>MS or higher degree in Computer Science, Electrical Engineering, BioEngineering, or similar technical fields.</li> <li>Interest in biomedical machine learning problems.</li> <li>Basic English communication skills.</li> <br><br></ul><strong><u>Preferred Qualifications<br></u></strong><ul> <li>Experiences in neural, medical signal and image processing.</li> <li>Experience with one or more neuroscience study software.</li> <li>Experience in deployment of deep neural network for web applications.</li> <li>5+ years of experience in deep learning and/or Masters or Ph.D degree in related technical discipline.</li> <li>Publication in machine learning conferences/journals.</li> <br></ul>Other Information<br><ul> <li>Job type Full-time.</li> <li>U.S. citizens, green card holders, and those authorized to work in the U.S. for any employer will be considered.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T03:27:42.000Z"
+  },
+  "company": {
+    "name": "LVIS Corporation",
+    "link": "https://www.linkedin.com/company/lvis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

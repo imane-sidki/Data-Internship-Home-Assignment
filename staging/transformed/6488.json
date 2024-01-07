@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "(USA) Staff Software Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "<strong><u>Position Summary... What You'll Do...<br><br></u></strong>Here at Walmart, we\u2019re driven by an intellectual curiosity that keeps us on the cutting-edge of user design and a seamless customer experience. We\u2019re intrigued by the opportunity to engineer the most optimal approach that drives conversions and generates consumer loyalty across every touchpoint of the digital journey.<br><br>As a Staff Software Engineer, you\u2019ll spend your days translating requirements into solutions, writing code, collaborating with cross-functional teams and providing us with the insights necessary to think beyond the status quo. You\u2019ll oversee small project teams consisting of other engineers who will look to you as a trusted advisor, a subject matter expert who provides guidance and the right tools to get the job done.<br><ul><li> Work closely with engineering managers, tech leads, software engineers, product managers and business teams to architect technology solutions to meet the business and technology vision.</li><li> Lead the technical architecture across multiple scrum teams to ensure compliance to the target architecture. Work with the teams to ensure there is no deviation from the architecture vision</li><li> Participate in the discovery phase of complex cross functional projects to come up with creative solutions to highly complex problems, work on high level design covering cross functional systems</li><li> Follow the engineering best practices and deliver \"open source\" like quality code.</li><li> Improve technology agility using Service Oriented Architecture, Micro services, Behavior driven development, Machine learning, CI/CD, every day code push to production etc. Implement highly scalable micro services with low latency and high throughput.</li><li> Analyzes, designs, programs, debugs, and modifies software in medium-to-large-scale projects.</li><li> Provides high level design artifacts based on R &amp; D, code development and maintain new features/components for item logistics/eligibilities in global ecommerce backend platform.</li><li> Participates in planning meetings.</li><li> Reviews and evaluates designs and project activities for compliance with applications design and development guidelines and standards; provides tangible feedback to improve product quality and mitigate failure risk.</li><li> Develops Java and spring based microservices, CICD pipelines and infrastructure automation.</li><li> Completes documentation and procedures for installation and maintenance. May interact with users to define system requirements and/or necessary modifications.</li><li> Designs enhancements, updates, and programming changes for portions and subsystems of end-user applications software running on local, networked, and Internet- based platforms.</li><li> Writes and executes complete testing plans, protocols, and documentation for assigned portion of application; identifies and debugs, and creates solutions for issues with code and integration into application architecture.</li><li> Builds big data solutions using Java, kafka messaging, apache spark, solr and Cassandra no sql using cloud based deployment strategy.</li><li> Debugs and monitors application health and technical issues using Grafana, Splunk, Dynatrace and Logmon.</li><li> Strives for continuous improvement in efficiency.<br></li></ul><strong><u>Minimum Qualifications...<br><br></u></strong><em><em>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. <br><br></em></em>Bachelor\u2019s degree in Computer Science and 4 years\u2019 experience in software engineering or related field OR 6 years\u2019 experience in software<br><br><strong><u>Engineering Or Related Field. Preferred Qualifications...<br><br></u></strong><em><em>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. <br><br></em></em>Master\u2019s degree in Computer Science or related field and 3 years' experience in software engineering Primary Location...840 W CALIFORNIA AVE, SUNNYVALE, CA 94086-4828, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:32:30.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

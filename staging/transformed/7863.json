@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>Our Client is a leader in building software that drives their customer's business, for enterprises and software product companies with software at the core of their transformation.</p><p></p><p>We have an urgent need for Sr. Site Reliability Engineer for one of their large engagements. Please share the updated resume with contact information if you would like to Evaluate.</p><p><br></p><p><strong>Role: Sr. Site Reliability Engineer</strong></p><p><strong>Location: Remote/Houston, TX</strong></p><p><strong>Hire Type: Full Time/Permanent</strong></p><p><br></p><p><strong>Job Profile Summary</strong></p><p>As a Senior Site Reliability Engineer, you will be a part of the Operations team based in Houston, Texas, and responsible for the Incident, Event Management and Configuration process. You will be working with your incident management team to assess the severity of reported incidents, identify relevant service owners, participate, initiate and lead incident management and daily review calls with relevant parties, communicate the progress of the incidents via relevant communication channels, provide technical recommendations, suggest preventive and corrective actions, ensure proper closure of those incidents and continuous auditing and improvements to Incident and Event Management process.Using data learned from those incidents you will drive further improvements into our automation, monitoring, and processes to proactively identify and resolve critical incidents.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Ability to effectively verbalize, document, communicate and facilitate the identification, handling, status reporting, solution options and alternatives, change the implementation of various critical incidents and problems reactively and proactively identified in the IT environment, and effectively bring them to resolution and/or closure.</li><li>Participate in capacity management of core systems and services, application analysis and performance and security tuning. Provide operational support of systems and build automation to remediate and address the root cause; with the goal of automating response to all non-exceptional service conditions.</li><li>Diagnostics &amp; Monitoring: Instrumenting the complete application architecture to provide real user and system performance data to provide insight into the root cause of all application bottlenecks, enable real-time visibility to reduce risk exposure.</li><li>Provide enterprise-wide application, database, network support in a mature enterprise environment, and cloud infrastructure design experience preferred.</li><li>Triage issues as they arise, create strategies for long-term permanent fixes to critical production incidents.</li><li>Maintain documentation, build tooling, and create alerts to both identify and address infrastructure reliability.</li><li>Understand the ecosystem and provide technical recommendations on major incident calls and post-incident reviews.</li><li>Work closely with Service Owners to deliver a clear, concise picture of incidents and the short-term remediation applied; ensure problem prevention methods and mitigation strategies are continually applied to improve application availability and make recommendations on long-term solutions.</li><li>Effectively document business cases, solution strategies, event and configuration processes, procedures, and knowledge articles associated with implementing fixes and solutions to existing or predicted IT incidents and problems.</li><li>Participate in routine root cause analysis and problem review meetings and provide recommendations to service owners to improve service availability.</li><li>Work with Support Knowledge Managers to build the team knowledge database.</li><li>Train and mentor the Incident Management team to effectively perform the job during the shift.</li><li>Ability to work scheduled shifts including mornings, weekends, and nights or participate in an on-call roster.</li></ul><p></p><p><strong>Experience/Qualifications</strong></p><ul><li>Bachelor\u2019s degree in Computer Science, Computer Information Systems, Management Information Systems</li><li><strong>5+ years of experience in a technical operations role, a systems analysis and support role or a DevOps role</strong></li><li><strong>2+ years of experience and strong working knowledge in Amazon Web Services or similar cloud infrastructure platforms (Azure, Google Cloud, etc).</strong></li><li><strong>2+ years of experience in performance monitoring &amp; diagnostic tools (e.g Data Dog, Dynatrace, Splunk, New Relic, Nagios, etc)</strong></li><li>Technical knowledge and experience on working with Windows/Linux environments, SQL, Active Directory, Scripting, etc.</li><li>Network troubleshooting knowledge including LAN/WAN, DHCP, TCP/IP, Firewalls, and Routing</li><li>Proven track record supporting large scale environments and applications</li><li>Superior English language and communication skills - both written and verbal.</li><li>Skills with the ability to articulate technical solutions for both technical and non-technical audiences.</li><li>Ability to direct cross-functional resources through incident closure with proper RCA and through the problem management lifecycl</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T19:46:32.000Z"
+  },
+  "company": {
+    "name": "Digitive",
+    "link": "https://www.linkedin.com/company/digitivellc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

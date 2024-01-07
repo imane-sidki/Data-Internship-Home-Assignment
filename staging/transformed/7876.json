@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p>Scale is a tech-driven direct-to-consumer company that builds and deploys next-generation CPG brands in the beauty, health and wellness industries. Through our proprietary eCommerce and digital marketing engine, Scale transforms consumers\u2019 end-to-end online shopping experience while increasing brand loyalty and retention. Scale\u2019s growing portfolio of five brands and 100+ products helps hundreds of thousands of people live healthier lives.</p><p><br></p><p><br></p><p>We are searching for a Site Reliability Engineer to join our growing Engineering team. You will design, build, and maintain internally critical systems which integrate with various open source and closed source tools. This position will be accountable for the overall reliability of services running in our cloud production environments. The successful candidate will have a deep understanding of systems engineering and automation, including configuration management, containerization, and scripting.</p><p><br></p><p><br></p><p><strong>Sample Responsibilities</strong></p><p><br></p><ul><li>Develop, configure, and deploy tools for cloud based systems and services</li><li>Deliver high quality, scalable, and resilient solutions that are documented and well-tested</li><li>Identify opportunities and implement solutions to further automate platform builds and processes</li><li>Build strong technical rapport with other cross functional teams while being the subject matter expert to lead projects in an Agile environment</li><li>Containerize new and legacy applications</li><li>Enhance, modify or debug developer code as needed</li></ul><p><br></p><p><strong>Requirements:</strong></p><p><br></p><ul><li>2-5+ years of DevOps/SRE experience in a tech forward environment</li><li>Demonstrated innovative contributions in system architecture</li><li>Experienced with highly scaled out, consumer-focused services and platforms, primarily focused on core infrastructure and software delivery</li><li>Experience building deployment automation within AWS-hosted services and infrastructure</li><li>Experience with scripting languages such as Python, GoLang, Javascript</li><li>Solid understanding of containerization and orchestration technologies such as Docker, Kubernetes, or ECS</li><li>Expert knowledge of automation and best practices related to CI/CS pipelines and associated tools such as Jenkins, Bamboo, etc.</li></ul><p><br></p><p><strong>Why You Should Join Scale:</strong></p><p><br></p><p>We are passionate about harnessing technology to drive business results. We collect and process large amounts of data to inform business decisions on a daily basis. As part of our Engineering team, the SRE has the unique opportunity to help drive innovation and technical excellence into all aspects of our proprietary platform.</p><p>This is a newly created position within a growing tech start up and an excellent opportunity to take the next step in your career.</p><p><br></p><p><strong>What We Offer:</strong></p><p><br></p><ul><li>Work from home + Monthly WFH stipend</li><li>Competitive Salary Commensurate with Years of Experience</li><li>Excellent Medical, dental, vision and life insurance</li><li>401K match</li><li>Gym Membership</li><li>Generous Paid time off</li></ul><li></li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T02:34:38.000Z"
+  },
+  "company": {
+    "name": "Scale Media",
+    "link": "https://www.linkedin.com/company/scalemedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

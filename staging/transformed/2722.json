@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong>Who's Clearcover?<br></strong>Clearcover is the smarter car insurance company. We use powerful technology to offer everyday drivers better coverage for less money. We're proud to be one of the fastest growing startups in Chicago, and we're currently looking to add a few more extraordinary people to our team.<br><br><strong>What is a Site Reliability Engineer? <br></strong>Clearcover is looking for an energetic, experienced, and highly motivated Site Reliability Engineer (SRE) to join our team. SREs build, maintain, and monitor the platform that powers Clearcover's API products, applications, and machine-learning applications. We work every day to improve our build automation, strengthen our AWS and Kubernetes infrastructure, shift left on security and quality, and improve our reliability. The Site Reliability Engineer (SRE) role is an integral part of our Product and Technology organization, and requires a passion for technology and cloud architecture. Pragmatic and driven, you thrive in collaborative environments with high degrees of autonomy. If you're an expert generalist with an appetite for a variety of projects, a yen for automation and a zeal for driving out toil, we'd love to talk to you!<br><br><strong>What will you do?<br><br></strong><ul> <li>Develop, deploy, and operate our secure AWS infrastructure (EKS, S3, EC2, RDS, Lambda, etc).</li> <li>Ensure the high availability, resiliency, performance, business continuity and compliance capabilities of our cloud services.</li> <li>Build dashboards and alerting to monitor our apps and infrastructure</li> <li>Define standards for our containerized environments and Kubernetes clusters</li> <li>Work with our engineering teams to deploy and operate cloud services.</li> <li>Help develop and operate our build automation and continuous delivery systems.</li> <li>Participate in an on-call rotation, drive incident resolution and improve platform resiliency.</li> <br></ul><strong>What do you need?<br><br></strong><ul> <li>Experience with cloud IaaS offerings in AWS (strongly preferred), GCP, or Azure.</li> <li>Experience with automation/configuration management using Terraform, Ansible, or similar solutions.</li> <li>Experience with Kubernetes (strongly preferred) or other container orchestration platforms.</li> <li>Experience with continuous integration/deployment tools such as Jenkins.</li> <li>Experience with operational monitoring tools, such as Datadog, CloudWatch, Sumo Logic, and Prometheus.</li> <li>Proficient in Linux tools and shell scripting or other Linux automation </li> <li>An interest in designing, analyzing and troubleshooting large-scale distributed systems.</li> <li>Well-versed with the entire software development lifecycle, devops, and SRE practices.</li> <br></ul><strong>Nice to haves?<br><br></strong><ul> <li>Experience with automated unit and integration testing of infrastructure code</li> <li>Experience with container security</li> <li>Experience in one or more languages such as Python, Go, Ruby, or JavaScript</li> <br></ul><strong>What's in it for you?<br><br></strong><ul> <li>Unlimited PTO, we hire adults</li> <li>Equity for all employees, so you own a piece of the pie too</li> <li>Dental and Vision, we've got you covered 100%</li> <li>Medical, we cover the vast majority of your premiums to make the cost of you and your family's coverage affordable. Plus, we contribute to your HSA and HRA (cha-ching)</li> <li>We invest in your future by contributing 3% of your salary to a 401(K), even if you don't</li> <li>Come to work pre-taxed through our FSA commuter benefits</li> <li>and yes, we have unlimited LaCroix, beer, snacks and the occasional ice cream social (for once we're back in the office) </li> <br><br></ul>Clearcover is an Equal Opportunity Employer (EOE) that welcomes and encourages all applicants to apply regardless of age, race, color, religion, sex, sexual orientation, gender identify and/or expression, national origin, disability, veteran status, marital or parental status, ancestry, citizenship status, pregnancy or other reasons prohibited by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:12:47.000Z"
+  },
+  "company": {
+    "name": "Clearcover",
+    "link": "https://www.linkedin.com/company/clearcover-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97500,
+    "max_value": 212700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps / Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong>Description</strong></p><p><br></p><p>At Planning Center, we build powerful web and mobile applications for churches. Each of our eight products has a dedicated team of designers and developers committed to refining and expanding that product in response to real customer needs. Our customers include over 90 of the 100 largest churches in the country, and tens of thousands of small community churches. We strive to make day-to-day operations easier for all of them.</p><p>We\u2019re a development driven company, founded and led by a developer. Over half our staff are either devs or designers who code! We are constantly trying to improve our practices and we are looking for a Platform/Site Reliability engineer to help us.</p><p><br></p><p><strong>About the work</strong></p><p><br></p><p>We are heavily incorporated in the AWS ecosystem.</p><p><br></p><p>Our core infrastructure technologies include Aurora (MySQL), Redis, Memcached, Elasticsearch, DynamoDB, Docker, ECS, EC2, Lambda, S3, SNS, CloudFormation, and Datadog. At the application layer it includes Ruby on Rails and React.</p><p><br></p><p>Some tasks you could be working on?</p><p><br></p><ul><li>Increasing our alert coverage and creating informative dashboards in Datadog</li><li>Analyzing query performance in Aurora and recommending improvements</li><li>Creating new developer tools to help streamline our processes</li><li>Deploy a service to ECS or Lambda</li><li>Produce and maintain documentation on installations, incidents, and procedures</li><li>Help with log collection and analysis</li><li>Troubleshoot application performance issues</li></ul><p><br></p><p>We run an on-call rotation so you will have to feel comfortable with participating in the rotation once you're up to speed on things. Our schedule is approximately 1 week on, 6 weeks off.</p><p><br></p><p><strong>About you</strong></p><p><br></p><p>We are looking for experienced candidates only for this role.</p><p><br></p><p>You may be a good fit if you have:</p><ul><li>Professional experience doing this work as at least a portion of your job</li><li>At least some familiarity with the technologies in our hosting stack (but you don't need to be an expert in all of them)</li><li>Experience with relational databases</li><li>Experience working in the UNIX environment</li><li>A basic understanding of networking concepts</li><li>At least some programming experience</li></ul><p><br></p><p>We are looking for candidates that excel in self direction, and enjoy seeing projects through to completion.</p><p><br></p><p>If some of our stack will be new to you, don't let that stop you. Technology changes fast and we are always interested in people who can learn new technologies!</p><p><br></p><p>While not required, this would help you stand out:</p><ul><li>Capable of writing or editing Ruby and/or Go applications</li><li>Familiar with Datadog APM and Monitoring</li></ul><p><br></p><p><strong>Requirements</strong></p><p><br></p><ol><li>Live and eligible to work in the United States.</li><li>Must be willing to travel four times each year to connect with the rest of the team in person (not during a pandemic).</li></ol><p><br></p><p><strong>Benefits</strong></p><p><br></p><p>We love our people and want this to be the best place for them to work. In addition to a competitive salary (starting between<em>$110,400 - $147,200</em>depending on expertise), we offer:</p><ul><li>Full health, dental, and vision coverage</li><li>Company contribution to a 401(k)</li><li>Mobile phone stipend</li><li>Co-working stipend</li><li>Health stipend for counseling or a gym membership</li><li>Charitable giving match</li><li>Paid maternity, paternity, or bonding leave</li><li>Paid vacation and holidays</li><li>Paid Fridays off in the summer</li><li>Continual education allowance for books, videos, or conferences</li></ul><p><br></p><p>Gear</p><p><br></p><p>We'll provide all the things you need to get your job done. That includes a laptop, monitor, standing desk, and chair.</p><p><br></p><p>Work from Anywhere in the USA</p><p><br></p><p>We are dedicated to hiring the best talent available; part of working at Planning Center is the option to work remote! We fly our remote team into the office once every quarter, so you can enjoy the nice California weather and connect with the rest of the team (75% of which is remote).</p><p><br></p><p>If you've applied in the past, feel free to apply again!</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T04:28:08.000Z"
+  },
+  "company": {
+    "name": "Planning Center",
+    "link": "https://www.linkedin.com/company/planningcenter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

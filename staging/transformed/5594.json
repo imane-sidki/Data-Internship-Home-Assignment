@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Internet",
+    "description": "<p><strong>Data Science Engineer</strong>@ Marin Software</p><p>Location:- US (applications from remote within the US considered)</p><p><br></p><p><strong>Summary</strong></p><p><br></p><p>At Marin Software, we enjoy intense mathematics and computer science challenges and approach these problems with creativity and teamwork.Although we are an established company, we operate with startup-style agility and are growing.We are a company that believes in building a product for the long-term, and creating a company that can grow as the market matures.</p><p><br></p><p>Optimizing ad targeting and performance starts with having the right data, and the Big Data engineering team makes it happen. Combining thousands of reports from Google, Facebook, Bing, and other publishers, millions of click events per day from our in-house performance tracking system and customer reporting systems, and 3+ billion advertising campaign objects, we power our proprietary bidding systems and financial models to maximize value and return for our customers.</p><p><br></p><p>Marin runs on a dedicated 100+ node petabyte-scale cluster.We are in an active search for a Lead Data Science Engineer to join our data science and optimization engineering team to bring real world experience of data analysis and machine learning techniques on vast datasets.</p><p>Research areas include time-series and market-sensitivity forecasting, causal experimentation, predictive regression, clustering, and constrained optimization.</p><p><br></p><p>In these areas, we apply techniques in statistics, natural-language, machine-learning, and deep-learning. Frameworks include: Scikit-learn, Spark MlLib, LightGBM, XGBoost, TF-IDF, GLoVe, spaCy</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Work on all aspects of our ML-enabled solutions: requirements, design, delivery, and support</li><li>This includes problem definition, data acquisition, data exploration and visualization, feature engineering, experimenting with ML algorithms, evaluating and comparing metrics, deploying the models and iteratively improving the solution</li><li>Build scalable, stable, and efficient processes to collect, manipulate, present, and analyze large datasets for production</li><li>Improve the performance of enterprise-scale predictive models through feature engineering, feature selection, tuning amongst other methods</li><li>Design, code, validate, automate, and scale software in a collaborative environment.This job requires programming, this is not an analyst job.</li><li>Work as part of a cross-functional team (product management, software developers and quality engineers)</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>2+ years relevant work experience</li><li>Coding experience in Scala/Spark</li><li>Experience in statistical programming (Matlab, R, or Python)</li><li>Industry experience with data analytics projects involving machine learning/optimization, data pipelines, in production</li><li>Industry experience working with or developing distributed systems, especially distributed data stores a plus (Spark, HBase, Presto)</li><li>BS/MS/Ph.D. in Computer Science/Mathematics/Statistics or other quantitative discipline</li><li>At least 4hours time overlap with US</li><li>Strong communication skills</li></ul><p><br></p><p><strong>About Marin Software</strong></p><p>An ally to online marketers, Marin Software delivers the leading independent multichannel digital advertising platform. Our open solution unites search and social to connect our advertisers with customers wherever they are. This synergy\u2014plus the insight and efficiency we bring to advertising\u2014wins more customers, revenue, and ROI for the world\u2019s top brands. Every day Advertisers and agencies use Marin to manage billions of dollars in annualized ad spend. Visit marinsoftware.com for more information.</p><p><br></p><p><em>Marin Software embraces diversity and is proud to be an equal opportunity employer. As part of our commitment to diversifying our workforce, we do not discriminate on the basis of age, race, sex, gender, gender identity, color, religion, national origin, sexual orientation, marital status, citizenship, veteran status, or disability status, and we operate in compliance with the San Francisco Fair Chance Ordinance.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T15:06:24.000Z"
+  },
+  "company": {
+    "name": "Marin Software",
+    "link": "https://www.linkedin.com/company/marinsoftware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

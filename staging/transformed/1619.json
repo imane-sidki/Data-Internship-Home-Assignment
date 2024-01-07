@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p>Responsibilities</p><p>\u00b7Identify valuable data sources and automate collection processes</p><p>\u00b7Undertake preprocessing of structured and unstructured data</p><p>\u00b7Analyze large amounts of information to discover trends and patterns</p><p>\u00b7Build predictive models and machine-learning algorithms</p><p>\u00b7Combine models through ensemble modeling</p><p>\u00b7Present information using data visualization techniques</p><p>\u00b7Propose solutions and strategies to business challenges</p><p>\u00b7Collaborate with engineering and product development teams</p><p>Requirements</p><p>\u00b7Proven experience as a Data Scientist orData Analyst</p><p>\u00b7Experience in data mining</p><p>\u00b7Understanding of machine-learning and operations research</p><p>\u00b7Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset</p><p>\u00b7Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)</p><p>\u00b7Analytical mind and business acumen</p><p>\u00b7Strong math skills (e.g. statistics, algebra)</p><p>\u00b7Problem-solving aptitude</p><p>\u00b7Excellent communication and presentation skills</p><p>\u00b7BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T17:44:33.000Z"
+  },
+  "company": {
+    "name": "Cognizant",
+    "link": "https://www.linkedin.com/company/cognizant"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hartford",
+    "region": "CT",
+    "postal_code": "06156",
+    "street_address": null,
+    "latitude": 41.765774,
+    "longitude": -72.673355
+  }
+}

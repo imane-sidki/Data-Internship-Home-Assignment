@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "<strong><u>Position Summary... What You'll Do...<br><br></u></strong>Data Scientist, Machine Learning<br><br>Sunnyvale<br><br>The Merchant Data Science team researches and develops algorithms that power our core areas like pricing, assortment optimization, replenishment, store layout, etc. We work at enormous scale (millions of items x thousands of stores x dozens of variations) to deliver great products at great prices to our customers.<br><br>You will be working closely with other data scientists, machine learning engineers, operations research scientists, data engineers within the team as well collaborate with product managers, software engineers and analysts from partner teams to deliver data products that aim to simplify and streamline our store operations. We work with various techniques from machine learning (classical machine learning, deep learning, reinforcement learning), operations research, causal inference and statistics. Our work has been published in top tier conferences such as KDD and INFORMS.<br><br>What we are looking for<br><ul><li>Ph.D./M.S. in a quantitative discipline (Computer Science, Statistics, Operations Research, Mathematics, etc.)</li><li>Expertise in one or more areas among: Machine Learning \u2013 Classical methods / Deep Learning / Reinforcement Learning, Causal Inference, Statistics.</li><li>Experience with leading data science projects from conception to production.</li><li>Strong software development skills in languages such as Python, Scala or Java.</li><li>Experience with distributed systems and tools such Spark, Hadoop, etc.</li><li>Ability to communicate your results from deeply technical to non-technical audiences.</li><li>Ability to influence and collaborate with cross functional leaders in Engineering, Product, Analytics, etc.<br></li></ul>Nice to have but not required<br><ul><li>Published work in top tier journals and conferences (KDD, INFORMS, Neurips, ICML, WWW).<br></li></ul>The above information has been designed to indicate the general nature and level of work performed in the role.\u202f It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.\u202f\u202f<br><br><strong><u>Minimum Qualifications...<br><br></u></strong><em><em>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. <br><br></em></em>Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2<br><br>years' experience in an analytics or related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science,<br><br>Information Technology or related field. Option 3: 4 years' experience in an analytics or related field. Preferred Qualifications...<br><br><em><em>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. <br><br></em></em>Data science, machine learning, optimization models, Master\u2019s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location...840 W CALIFORNIA AVE, SUNNYVALE, CA 94086-4828, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T01:56:10.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88400,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

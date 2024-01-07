@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Job Description<br><br></u></strong>Title: Site Reliability Engineer<br><br>Location: Beaverton, Oregon (97008) / Remote Option<br><br>Employment Type: Direct Hire (no c2c or sponsorship available)<br><br><strong><u>Job Description<br><br></u></strong>EdgeLink is looking for a Site Reliability Engineer (SRE) to join an expanding team focused on connecting business to cloud applications and environments. From a skills perspective we are targeting most of the following:<br><ul><li>Bachelor' s degree or equivalent practical experience</li><li>Experience supporting development environments that include Linux tools, Bamboo, Puppet, Terraform, AWS, and Azure</li><li>Deep understanding of the Unix/Linux operating systems, including kernel networking packet flow</li><li>Strong understanding of network fundamentals, including tunneling</li><li>Working knowledge of SQL databases</li><li>Experience with algorithms and data structures are a nice to have<br></li></ul>Edgelink would like to thank all applicants, however only those who qualify for an interview will be contacted.<br><br>EdgeLink is an equal opportunity employer.<br><br>Job Requirements<br><br>SRE, DevOps, Site Reliability, CI/CD, Cloud, Azure, AWS, Linux, Bamboo, Puppet, Terraform, Unix, Networking, Tunneling, SQL, Database, Algorithm, Data Structure, VPN<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:12:38.000Z"
+  },
+  "company": {
+    "name": "EdgeLink",
+    "link": "https://www.linkedin.com/company/edgelink"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

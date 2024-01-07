@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer - Data Engineering",
+    "industry": "Mental Health Care",
+    "description": "<p><strong>Who is Mindstrong?</strong></p><p><br></p><p>Mindstrong is a research-driven, consumer-focused mental healthcare company creating a new virtual Mindstrong is a human-centered technology company, focused on optimizing the consumer experience for receiving and providing best-in-class mental healthcare across the illness and demographic spectrum. We are actively deploying a new learning behavioral health system, which relies on rapid innovations in low- burden measurement science and coordinated care delivery, focused on helping individuals living with a serious mental illness (SMI) live their fullest lives. Our services are offered to people with an SMI through active partnerships with several nationwide health insurance payers.</p><p><br></p><p>We\u2019re setting out to radically simplify mental healthcare for those living with a serious mental illness. Join us on this important journey!</p><p><br></p><p><strong>What is the Staff Software Engineer - Data Engineering Role?</strong></p><p><br></p><p>We are seeking a talented and experienced Staff Software Engineer - Data Engineering to help lead our data engineering efforts.</p><p><br></p><p><strong>What you'll be doing:</strong></p><p><br></p><ul><li>Architect and implement scalable solutions to ingest data from a variety of sources and prepare it for use by our machine learning and analytics applications.</li><li>Make architectural and technology decisions to support data infrastructure requirements</li><li>Work closely with our Data Science and Data Analytics teams using/providing data from the data warehouse</li></ul><p><br></p><p><strong>Who you are:</strong></p><p><br></p><ul><li>You feel good about your work knowing that what you do will affect the lives of millions of people around the world</li><li>Entrepreneurial and eager to thrive in a startup environment</li><li>Strong communicator (oral and written)</li><li>A good person, highly ethical and accepting of others</li></ul><p><br></p><p><strong>Your background and skills:</strong></p><p><br></p><ul><li>6+ years of relevant industry experience in Data Engineering working with large scale data driven systems.</li><li>Provide technical leadership to a small to medium sized team of engineers and working alongside them to define and advance our project goals</li><li>Proficient in Python</li><li>Strong knowledge of relational databases and query authoring (SQL)</li><li>Experience designing and deploying high performance data processing systems with reliable data validation, monitoring and logging practices</li><li>Experience in database design and development and familiarity and/or working experience designing Data Warehouses</li><li>Rigor in high code quality, automated testing, and other engineering best practices</li><li>Outstanding communication and interpersonal skills and detail oriented</li><li>Experience in ad-hoc data analysis, solution design, reporting &amp; dashboard development</li><li>Experience building data platforms from scratch for data consumption across a variety of use cases (e.g. reporting, data visualization, data science, ML etc.) desirable</li></ul><p><br></p><p><strong>Preferred Qualifications:</strong></p><p><br></p><ul><li>Experience in healthcare data</li><li>Working experience in cloud infrastructure like AWS and its services</li><li>Experience with Airflow data pipeline framework</li><li>Experience with Data Lake technologies like Delta and Databricks</li><li>Experience and working knowledge with Big Data frameworks like Spark, AWS Athena is a plus</li></ul><p><br></p><p><strong>Competitive Benefits:</strong></p><p><br></p><ul><li>Remote work! While we have offices in the Bay Area and would love to see you in person, we\u2019re a flexible first company - work where you do your best work.</li><li>A robust healthcare package, including Medical, Dental, and Vision plans, plus more!</li><li>Wellness programs designed to help you stay financially, emotionally, and physically healthy!</li><li>Savings through a company sponsored 401k plan</li><li>We take self-care personally, we offer 11 paid holidays + Flexible PTO so you can create balance between work and play</li><li>Flexible schedules - we\u2019re all over the U.S., so we can flex schedules easily with core hours to ensure solid collaboration time and flex beyond that</li></ul><p><br></p><p><br></p><p><em>Mindstrong is proud to be an Equal Employment Opportunity employer that celebrates diversity. We are committed to providing equal employment opportunities to all employees and applicants. All individuals seeking employment at Mindstrong are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other characteristic protected by federal, state, or local laws. This policy applies to all terms and conditions of employment. Mindstrong also strives for a safe and robust workplace and prohibits harassment of any kind. If you have a disability or special need that requires accommodation for interviewing, please let us know by emailing us at recruiting@mindstronghealth.com.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:13:46.000Z"
+  },
+  "company": {
+    "name": "Mindstrong ",
+    "link": "https://www.linkedin.com/company/mindstrong"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

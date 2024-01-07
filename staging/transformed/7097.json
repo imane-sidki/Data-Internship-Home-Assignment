@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Hospital & Health Care",
+    "description": "<p><strong>**This position may be based in Santa Ana, CA or our NEW Austin, TX office that will be opening later this year! Flexible hybrid work schedule!*</strong></p><p><br></p><p>SureCo is a <strong>PURPOSE</strong> driven company that\u2019s dedicated to disrupting our broken healthcare system. We\u2019re 100% focused on driving down the cost of healthcare and improving the quality of care for all of us. SureCo and its subsidiaries and partners are at the forefront of health care change in the U.S. Serving patients, consumers, and enterprises. We focus on innovative technologies, new care paradigms, all focused on aligning our incentives with our customers. Established in 2016 we\u2019ve grown from 10 to over 100 (and counting) Sureconians \u2013 what we call our awesome team members!</p><p></p><p>If you are looking for a company focused on making real change, high-energy, and team-driven performance, then you\u2019ve found it here at SureCo! Our people are inspiring and are inspired by what we do, who we get to do it with, and who we do it for.</p><p></p><p>\u2022<strong>We\u2019re Idealists</strong>\u2013 Who says healthcare can\u2019t have heroes?</p><p>\u2022<strong>We Put People First</strong>\u2013 They\u2019re not just customers. They\u2019re our collaborators in creating more human healthcare.</p><p>\u2022<strong>We Simplify</strong>\u2013 Healthcare should cure headaches. Not create them.</p><p>\u2022<strong>We Disrupt</strong>\u2013 This isn\u2019t healthcare as usual. Forget status quo, welcome to the era of Engaged Healthcare.</p><p></p><p><strong>How Will YOU Make an Impact?</strong></p><p></p><p>As a<strong>Data Engineer</strong>, you will own and lead SureCo\u2019s Data Platform. You will have the opportunity to oversee custom data platform to support our web, mobile application, and large-scale business intelligence solutions within the healthcare and health insurance space. You will work closely with our analytics and engineering teams to implement solutions to answer complex questions and drive business decisions.</p><p><strong></strong></p><p><strong>Take the team to the next level and continue to develop your leadership skills with our endless growth opportunities!</strong></p><p><br></p><p><br></p><p><strong><u>Key contributions will include:</u></strong></p><ul><li>Architect, review, and implement Database schema for Health care mobile and web applications in Postgres SQL.</li><li>Develop modern data architectural approaches for business intelligence reporting and analytics, including that for machine learning models and data science, ensuring effectiveness, scalability, and reliability.</li><li>Design, develop, implement, and optimize ELT processes that merge data from disparate sources into Snowflake for consumption by data analysts and scientists, business owners, and decisions makers.</li><li>Detect data quality issues, identify their root causes, implement fixes, and design data audits to capture issues.</li><li>Distill technical requirements into the product development and operational process via continuous collaboration with product, engineering, and analytics team members.</li><li>Influence and collaborate with all levels of stakeholders including analysts, developers, and business users.</li><li>Gather and build canned and ad hoc reports using Reporting and visualization tools like Power BI/AWS QuickSight.</li><li>Implement security best-practices and other compliance requirements.</li><li>Able to anticipate problems and proactively develop appropriate solutions for our Data team.</li></ul><p><br></p><p><strong><u>Requirements</u></strong></p><ul><li>BS degree in Computer Science / Computer Engineering or related field.</li><li>5+ years of relevant work experience</li><li>Strong problem solving and coding skills in SQL/Python.</li><li>Experience working with a variety of ETL platforms (FiveTran, AWS Glue, or Matillion)</li><li>Experience with Snowflake, PostgresSQL, MSSQL, and NOSQL.</li><li>Experience with Airflow/Prefect.</li><li>Experience with Amazon SageMaker and ECS/EKS is a plus.</li><li>Hands-on leadership, influence, and development of all things data services</li><li>Hands on experience with AWS.</li><li>Advanced knowledge with database design (RDBMS?&amp; NoSQL)</li><li>Scrum / Agile working environment preferred</li><li>Advanced knowledge in Python and Snowflake</li><li>Experience with CI/CD including CI/CD for database development</li><li>Excellent interpersonal, communication, initiative, teamwork and problem-solving skills</li></ul><p><br></p><p><strong><u>WHY SURECO?</u></strong></p><ul><li>Work-life balance and hybrid work schedule!</li><li>Ability to make a difference to the Healthcare industry</li><li>Medical, Vision, Dental</li><li>Annual allowance and reimbursement for employee health-related expenses</li><li>401k \u2013 Company Match, Dollar for Dollar up to 3%</li><li>Generous Paid Time Off, Paid Holidays, and Company Paid Ancillary benefits (Basic Life, Short-term and Long-term disability insurance)</li><li>Company Covered Telemedicine and Virtual Visits for employees</li><li>Employee Assistance Program</li><li>Casual Dress Attire</li><li>Monthly celebrations and team events</li><li>Concierge Services such as Beneficiary Assist, Travel/ID Protection, College Tuition Rewards, and much more</li><li>Great culture where you work with the founders and key stakeholders in a relaxed, but innovative atmosphere</li></ul><p></p><p>SureCo is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law and will not be discriminated against on the basis of disability.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:10:07.000Z"
+  },
+  "company": {
+    "name": "SureCo",
+    "link": "https://www.linkedin.com/company/sureco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

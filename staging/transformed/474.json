@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Machine Learning",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Amazon\u2019s location and predictive routing inputs play a crucial role in our vehicle routing problems and other critical applications for Amazon , Prime Now, and other Amazon businesses. As part of the Last Mile Science &amp; Technology organization, you\u2019ll partner closely with other scientists and engineers in a collegial environment with a clear path to business impact. We have an exciting problem area to improve the maps, geocodes, and routing inputs used in Last Mile planning and navigation by leveraging machine learning and deep learning techniques, and are actively looking to hire scientists to lead this area. Successful candidates will have breadth in applying machine learning to solve industry problems, the ability to map models into production-worthy code, the communication skills necessary to explain complex technical approaches to a variety of stakeholders and customers, and the excitement to take iterative approaches to tackle big, long term problems.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> Master\u2019s degree (or Bachelors degree or 5+ years of experience) in a quantitative discipline such as Statistics, Mathematics, Data Science, Business Analytics, Economics, Finance, Engineering, or Computer Science</li><li> 2+ years of experience working as a data scientist or a similar role involving data extraction, analysis, statistical modeling, and communication</li><li> 2+ years of experience using data querying languages (e.g. SQL, Hadoop/Hive)</li><li> MS in Computer Science, Mathematics, Statistics, or other quantitative field with exposure to statistical modeling and machine learning</li><li> 6+ years of applying machine learning for solving real-world problems in industry</li><li> Proficiency in Python and/or Java</li><li> Proficiency with at least one machine learning or statistical modeling library (R, Matlab, Scikit-learn)</li><li> Past delivery of large-scale ML solutions for complex business problems</li><li> Outstanding written and verbal communication skills<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Publications in ML conferences or journals</li><li> Experience in geospatial domain<br></li></ul>#lastmile<br>Amazon is an Equal Opportunity-Affirmative Action Employer - Female/Minority/Disability/Veteran/Gender Identity/Sexual Orientation<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1608408",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-25T09:28:15.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

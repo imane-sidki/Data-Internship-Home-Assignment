@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "FRL Tools Software Engineer",
+    "industry": "Internet",
+    "description": "Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.<br><br>Come invent the future. At Facebook Reality Labs, software development is vital to turbocharging our scientific explorations and generating viable paths to the consumer products people will use for decades to come \u2014 products that will literally give people super powers. If you're a C/C++ tools developer and a high-level scripting master with a love for improving the lives of your fellow software engineers, you'll thrive in our collaborative environment. Join a world-class team of pioneers experimenting with breakthrough technology. Step into the adventure of a lifetime, as we make science fiction real and change the world.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Work side by side with research software engineers to understand their software tool pain points, prioritize solutions and create the systems and tools that turbocharge their work</li><li>Build software, tools, infrastructure, documentation, and other systems that enable research scientists to be more effective and efficient</li><li>Coordinate with a large set of internal infrastructure and tool teams across the lab and across Facebook to evaluate and integrate with existing systems</li><li>Educate researchers and other team members on software engineering best practices, tips and techniques</li><li>Write clean readable code, debug complex problems that span systems, prioritize ruthlessly and get things done with a high level of efficiency<br></li></ul><strong>Minimum Qualification<br></strong><ul><li>BS degree in Computer Science or related field</li><li>5+ years experience creating tools used by other software professionals, such as compilers, version control systems, build systems, code editors or linters</li><li>3+ years C/C++ experience, including C++11 (and up) features and principles</li><li>3+ years experience with one or more high level scripting languages such as Python, JavaScript, Perl, or PowerShell</li><li>3+ years experience administering, extending, integrating and maintaining build systems such as MSBuild, CMake or Buck</li><li>3+ years experience administering, extending, integrating and maintaining continuous integration systems such as Jenkins or Bamboo</li><li>3+ years experience administering version control systems such as Git, Perforce, Mercurial or SVN<br></li></ul><strong><u>Preferred Qualification<br></u></strong><ul><li>Experience in Windows or Linux system administration</li><li>Experience in Windows or Linux shell scripting</li><li>Experience in GitHub and GitHub Enterprise</li><li>Experience in Facebook infrastructure systems</li><li>Experience in Web programming<br></li></ul>Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:14:35.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

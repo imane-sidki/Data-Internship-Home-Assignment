@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Node.js)",
+    "industry": "Entertainment",
+    "description": "<p>NBCUniversal's Operations &amp; Technology, Media Engineering group is responsible for the design, implementation, and operation of services key to the processing and delivery of content for NBCUniversal\u2019s consumer-facing digital products and experiences. Our group of product managers, software engineers, software quality engineers, and operations folks are based in New York City Area, Los Angeles, Belarus and points in between.</p><p><br></p><p>We are looking for an experienced <strong>Node.js</strong> software engineer with a broad background to participate in the ongoing development of a very large microservices-based system. We have a very collaborative environment and a distributed team and we need an experienced engineer who can influence and educate their fellow technologists. We are a mature Agile/Scrum shop and work in two-week sprints.</p><p><br></p><p>The <strong>Senior Software Engineer</strong> will:</p><p>\u2022 Develop highly scalable services following a microservice architecture.</p><p>\u2022 Design, develop and deliver software on progressive and growing platforms, primarily using <strong>AWS, Lambda and Node.js.</strong></p><p>\u2022 Implement and troubleshoot, suggest necessary features and identifying enhancement opportunities.</p><p>\u2022 Complete tasks as part of an agile team and adapt to dynamic business requirements.</p><p>\u2022 Closely partner with other Software Engineers and Software Quality Engineers and engage in team efforts.</p><p>\u2022 Work with architecture and engineering teams to produce high-quality technology solutions.</p><p><br></p><p><strong>Qualifications/requirements:</strong></p><p>\u2022 Must have a bachelor's degree in computer science or equivalent work experience.</p><p>\u2022 Must have <strong>5+ years</strong> of experience in the field.</p><p>\u2022 Must have hands-on experience building serverless applications using <strong>AWS, Lambda and Node.js </strong>using best practices.</p><p>\u2022 Must have hands-on experience with AWS cloud infrastructure as well as different AWS services such as <strong>Lambda, SQS, SNS, Kinesis, DynamoDB, Elasticsearch, API Gateway, CloudFormation</strong></p><p>\u2022 Must have hands-on experience with <strong>NoSQL</strong> databases as well as with relational databases.</p><p>\u2022 Must have hands-on experience building low latency and high throughput transactional services with continuous integration and automation testing.</p><p>\u2022 Must have experience leading software development teams that have automated QA testing in an Agile/Scrum setting.</p><p>\u2022 Must have experience collaborating and contributing insights to solution design, ensuring success of the product and adherence to enterprise architecture principles.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:03:50.000Z"
+  },
+  "company": {
+    "name": "NBCUniversal Media, LLC",
+    "link": "https://www.linkedin.com/company/nbcuniversal-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92500,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood Cliffs",
+    "region": "NJ",
+    "postal_code": "07632",
+    "street_address": null,
+    "latitude": 40.880516,
+    "longitude": -73.951256
+  }
+}

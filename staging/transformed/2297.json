@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Projects The Candidate Will Be Working On<br></u></strong><ul><li>Provide support for production AWS cloud environments for a state government customer.<br></li></ul><strong><u>Ideal Background<br></u></strong><ul><li>Healthcare is a plus, but the ideal background is several years experience working in AWS supporting production workloads.<br></li></ul><strong><u>Team And Team Size<br></u></strong><ul><li>Current team is 8 members with a mixture of people being on and offshore. All the team members are DevOps engineers that are supporting the production environments. <br></li></ul><strong><u>Top Responsibilities<br></u></strong><ul><li>Work closely with the product support teams to be able to troubleshoot production issues.</li><li>Be able to deploy new releases or hotfixes to a Linux environment</li><li>Able to create new automation jobs to assist with common tasks.</li><li>Be able to manage an Oracle database so that new scripts can be run against it as well as perform ad-hoc queries</li><li>Ability to manage users/role on AD, Oracle Database, Operating System</li><li>Ability to triage infrastructure issues on Prod.</li><li>Support all production services (o EC2, EBS, S3, EFS, Cloudfront, WAF, ALB, SecretsManager,Cloudtrail, Cloudwatch, DynamoDb, Redis, SQS, SES, SNS, IAM, Inspector, Gaurdduty, Workspaces, Certificate Manager, DIrectory Services, Lambda, AWS Batch, Step Function, VPC, SG, NACL, Disaster Recovery, KMS, Oracle)<br></li></ul><strong><u>Skills/attributes Required<br></u></strong><ul><li>Linux hands on, comfortable with command line (3+ years)</li><li>AWS management (3+ years)</li><li>Oracle (2+ years)<br></li></ul><strong><u>Skills/attributes Preferred<br></u></strong><ul><li>The more experience with AWS setting up and managing services the better.<br></li></ul><strong><u>Working Time<br></u></strong><ul><li>Ability to work night shifts would be ideal.<br></li></ul><strong><u>Interview Process<br></u></strong><ul><li>How many rounds? 2 - 1 technical, 1 manager</li><li>Video, phone, or in person? Video/phone</li><li>How technical will the interviews be? Very<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:01:13.000Z"
+  },
+  "company": {
+    "name": "Horizontal Talent",
+    "link": "https://www.linkedin.com/company/horizontal-talent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

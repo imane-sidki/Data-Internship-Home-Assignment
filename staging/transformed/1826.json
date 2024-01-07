@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III, Core Data, SQL Language Layer",
+    "industry": "Information Services,Internet",
+    "description": "Note: By applying to this position you will have an opportunity to share your preferred working location for this position from the following: <strong>Sunnyvale, CA, USA; Kirkland, WA, USA<br><br></strong>Minimum qualifications:<br><ul> <li>Bachelor\u2019s degree or equivalent practical experience.</li> <li>2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.</li> <li>2 years of experience with data structures or algorithms in either an academic or industry setting.</li> <li>Experience with SQL/databases.</li> <br><br></ul>Preferred qualifications:<br><ul> <li>Master's degree or PhD in Computer Science or related technical field.</li> <li>2 years of experience building and developing large-scale infrastructure, distributed systems or networks, and/or experience with compute technologies, storage, and/or hardware architecture. </li> <li>Experience developing accessible technologies.</li> <li>Industry experience working with database internals such as query languages and features.</li> <li>Knowledge of one or more of the following: grammars, parsers, and compilers.</li> <li>Knowledge of SQL and its semantics.</li> <br><br></ul><strong><u>About The Job<br><br></u></strong>Google\u2019s Core team builds the technical foundation behind Google\u2019s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google\u2019s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.<br><br>In this role, you will be involved with both defining Google's unified Structured Query Language (SQL) dialect, as well as implementing shared code libraries that are used for conforming database engines, including BigQuery, Cloud Spanner, F1 Query, Procella, and more. These shared libraries are used for parsing, semantic validation, type checking and coercion, and function definition/matching (among others). You will help develop a simple query engine for evaluating SQL queries and expressions, which is also used for conformance testing. You will maintain a rich testing framework to ensure engine compliance to the language specifications. You'll also be responsible for the open source ZetaSQL releases.<br><br><strong><u>Responsibilities<br><br></u></strong><ul> <li>Review and author new language specifications.</li> <li>Revise language specifications to address business and product needs.</li> <li>Participate in cross-project roadmap planning to ensure Google's SQL language meets the needs of all users and products across Google, including customer-facing cloud products.</li> <li>Build and enhance the SQL parsing and semantic resolution libraries, evaluation engine, compliance and test frameworks, and SQL-related tooling.</li> <li>Build and enhance programming language support (Java, Go, etc.) and contribute to the continued open sourcing process for ZetaSQL.</li> <br><br></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:08:13.000Z"
+  },
+  "company": {
+    "name": "Google",
+    "link": "https://www.linkedin.com/company/google"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

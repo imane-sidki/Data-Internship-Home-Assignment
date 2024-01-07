@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Research,Computer Software,Biotechnology",
+    "description": "This is a fully <strong>Remote and Work From Home (WFH)</strong> opportunity within the US<br><br>Science 37 is accelerating the research and development of breakthrough biomedical treatments by bringing clinical trials to patients' homes. Backed by venture investors such as Glynn Capital, Google Ventures, Redmile Group, dRx Capital and Lux Capital, we are revolutionizing the clinical trial industry one patient at a time. To help us achieve our goal, we are seeking a <strong>Site Reliability Engineer (SRE) </strong> eager to make an impact within a mission-driven organization.<br><br>We count on our SREs to empower our users with a rich feature set, high availability, and stellar performance level to pursue their missions. We are looking for a self driven engineer to help scale our growing presence. You have likely been an application software engineer in the past and have gained a deep understanding of infrastructure and operations, or have been a systems administrator with extensive experience across technologies who has spent the last few years learning modern automation and cloud native infrastructure skills. You must enjoy working alongside system architects and software engineers to maintain and improve a highly available, highly scalable SaaS platform.<br><br><strong><u>Duties Include But Are Not Limited To<br></u></strong><ul><li> Run the production environment by monitoring availability and taking a holistic view of system health </li><li> Make monitoring and alerting alert on symptoms and not on outages </li><li> Improve reliability, quality, and time to market of our software </li><li> Measure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs and innovating to continually improve </li><li> Partner with development teams to improve services through rigorous testing and release procedures </li><li> Review code and pull requests to ensure architectural standards and code quality are maintained across repos </li><li> Debug and fix production issues across services and levels of the stack </li><li> Deploy the code into production environment </li><li> Understand the market and our customers\u2019 needs </li><li> Responsible for knowledge share </li><li> Foster and maintain a work environment that supports being kind, useful, and awesome <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> Bachelor's degree in Computer Science or other highly technical, scientific discipline </li><li> 3-5+ years of proven experience working in a DevOps or SRE environment </li><li> 3-5+ years of hands on experience deploying and/ or supporting highly distributed multi-tiered systems as scale </li><li> 5+ years of application software development </li><li> Hands on experience with public cloud environments, preferably AWS. Certifications a plus </li><li> Ability to program (structured and OO) with one or more high level languages. Such as Java, C/C++, Python, PHP, JavaScript and Ruby </li><li> A proactive approach to spotting problems, areas for improvement and performance bottlenecks <br></li></ul><strong><u>Skills/ Competencies<br></u></strong><ul><li> Experience managing systems using infrastructure as code tools (Terraform, Chef, Ansible) </li><li> Demonstrated ability to utilize modern monitoring tools (New Relic, Splunk, DataDog) </li><li> Ability to triage, execute root cause analysis and be decisive under pressure </li><li> Proficient communication skills with an ability to reach both technical and non-technical audience </li><li> Ability to mentor and train less experienced team members </li><li> Coding experience beyond simple scripts </li><li> Proficiency with CI/CD tools <br></li></ul><strong><u>Capabilities<br></u></strong><ul><li> Ability to communicate in English (both verbal and written)<br></li></ul><strong>DIRECT REPORTS<br><br></strong>No direct reports<br><br>Science 37 values the well-being of its employees and aims to provide team members with everything they need to succeed.<br><br>Submit your resume to apply!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:17:49.000Z"
+  },
+  "company": {
+    "name": "Science 37",
+    "link": "https://www.linkedin.com/company/science-37"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

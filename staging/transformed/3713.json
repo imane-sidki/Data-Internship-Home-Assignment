@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (New Grad)",
+    "industry": "Internet",
+    "description": "<strong>About Anyscale<br><br></strong>Anyscale provides an application development platform for developers to build distributed applications. We\u2019re commercializing a popular open source project called Ray , which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Our goal is to build a standardized platform for distributed computing. Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan, and the four of them have co-founded Anyscale. The company raised a $20.6M Series A and a $40M Series B funding from Andreessen Horowitz (a16z), NEA, Foundation Capital, Intel Capital, Ant Financial, Amplify Partners, 11.2 Capital, and The House Fund.<br><br>With Ray , we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we are building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system so that users can rapidly build sophisticated applications. Help us build the future of software development.<br><br>We are looking for passionate, motivated people who are excited to build tools to power the next generation of cloud applications.<br><br>We are hiring strong software engineers for a variety of roles. Examples include:<br><br>Distributed systems<br><br>Machine learning<br><br>Frontend<br><br>Observability<br><br>Production serving<br><br>Ecosystem<br><br>C++<br><br>Reinforcement Learning<br><br><strong>As Part Of Your Role You Will<br><br></strong><ul><li>Develop high quality software to empower software developers and simplify programming</li><li>Work with a team of leading distributed systems and machine learning experts</li><li>Communicate your work to a broader audience through talks, tutorials, and blog posts</li><li>Help us to build and shape a world class company<br><br></li></ul>Must be willing to work onsite in our office.<br><br>We are excited to build a diverse team and encourage all to apply!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T17:45:23.000Z"
+  },
+  "company": {
+    "name": "Anyscale",
+    "link": "https://www.linkedin.com/company/joinanyscale"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

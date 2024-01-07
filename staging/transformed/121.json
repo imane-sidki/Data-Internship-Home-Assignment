@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer for Construction Robotics \u2013 full stack",
+    "industry": "",
+    "description": "<p><strong>Come help us change the way we build our world</strong></p><p><br></p><p><strong>If you are a software engineer curious about the physical world around you and interested in impacting one of the world\u2019s largest industries with the digital tools you build, then Toggle may be the place for you.</strong></p><p><br></p><p>We are a construction robotics company building software and automation solutions for the world\u2019s most ubiquitous building material: reinforced concrete. Our initial focus is on bringing automation systems to the fabrication and assembly of rebar (steel reinforcement). Rebar and reinforced concrete are the fundamental building blocks for cities and infrastructure. They are materials you\u2019ll find on 100% of construction sites whether for housing, hospitals, bridges or power plants. As our world becomes increasingly urbanized (both at home and abroad) and we transition to renewable energy, the way we work with this critical building material needs to evolve to meet growing and increasingly complex construction demand.</p><p><br></p><p>As a member of the software team you will work closely with our Director of Software Engineering, robotics and software engineers, to help architect and build the software platform that will power our factory and robotic systems. This is a unique opportunity to contribute to the development of new technology for the construction industry in the early stage (Series A) of an advanced manufacturing and robotics company. We are building a complete software workflow and physical manufacturing system to transform one of the most difficult materials in construction into a digitally fabricated product.</p><p><br></p><p><strong>What You\u2019ll Do</strong></p><ul><li>Architect, design and develop internal and customer facing software tools that directly drive our business</li><li>Help curate the software technology decisions for a business that will heavily rely on software to scale, operate, and grow</li><li>Build the software systems that support:</li><li>Intake and processing of architectural and engineering plans</li><li>2D and 3D modeling of rebar assemblies</li><li>Robotic motion planning and industrial machinery interfacing</li><li>Commerce and logistics</li><li>UI/UX for all of these systems</li><li>Integrate with third-party APIs and cloud-based services</li></ul><p><br></p><p><strong>About You</strong></p><ul><li>3-5 years of professional software development experience preferred</li><li>Solid Computer Science and system design fundamentals</li><li>Experience architecting, writing and maintaining web applications</li><li>You thrive on being involved in all aspects of a feature development (backend and frontend)</li><li>You're fluent with modern web development technologies and have a good feel for the strengths and weaknesses of different tools</li><li>You value the craft of software engineering, while pragmatic and efficient when it comes to shipping features</li><li>A proven record of development and ownership through the full product life cycle</li><li>A product centric approach that prioritizes our customers\u2019 experience in the design and development process</li><li>A creative, collaborative and open minded team player with strong listening and communications skills</li><li>A bias toward simplicity and reliability in everything you build</li></ul><p><br></p><p><strong>Nice to Haves</strong></p><ul><li>Experience with Go</li><li>Experience with relational databases: optimizations, trade-offs, design patterns</li><li>Experience with Typescript</li><li>Experience with React or other frontend UI frameworks</li><li>Experience with WebGL</li><li>Experience with git (or other version control system) and CI/CD pipelines</li><li>Experience with robotics, manufacturing, enterprise commerce or logistics</li></ul><p><br></p><p><strong>Current Technology stack</strong></p><ul><li>Backend: Go, Postgres, Redis, Docker, JSON-RPC</li><li>Frontend: React &amp; TypeScript, TailwindCSS, Snowpack/Webpack</li></ul><p><br></p><p><strong>Toggle is a multidisciplinary company and we value diverse talent and perspectives.</strong></p><p><br></p><p>We believe our advantage comes from both the depth and breadth of experience and backgrounds of our team. We bring together industry veterans and outsiders, technicians and designers, and software with hardware trade craft and business. If you can add a new skill set, discipline, background or perspective to our team we are excited to hear from you!</p><p><br></p><p><em>We are an equal-opportunity employer, and don\u2019t discriminate based on gender, race, ethnicity, orientation, creed, or other trait. We support and encourage candidates of all backgrounds to apply.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:26:49.000Z"
+  },
+  "company": {
+    "name": "Toggle Industries",
+    "link": "https://www.linkedin.com/company/toggle-industries"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

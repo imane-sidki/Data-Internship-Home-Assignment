@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DATA - Sr. Data Engineer",
+    "industry": "Information Technology and Services,Computer Hardware",
+    "description": "The Senior Data Engineer will work in a truly Agile environment, with a local and virtual team of engineers, and play a key role in providing the end-to-end data engineering solutions to support key business initiatives.<br><br>The ideal candidate has deep expertise in the design, creation, management, and business use of large datasets, across a variety of data platforms, with excellent business and interpersonal skills to be able to work with business owners to understand data requirements, and to build ETL to ingest the data. The candidate should be an authority at crafting, implementing, and operating stable, scalable, low-cost solutions to flow data from production systems into the data lake.<br><br>As a Senior Data Engineer, you will develop new data engineering patterns, extend or migrate existing data pipelines. You will be responsible for designing and implementing the complex ETL pipelines, building other BI solutions to support the rapidly growing and dynamic business demand for data and have an immediate influence on day-to-day decision making.<br><br><strong><u>Job Qualifications<br><br></u></strong>This position requires a Bachelor's Degree in Data Analytics, Computer Science or a related technical field, and 5+ years of meaningful employment experience.<br><ul><li> 5+ years of relevant work experience in data engineering, ETL, Data Modeling, and Data Architecture.</li><li> Expert-level skills in writing and optimizing SQL.</li><li> Experience with data technologies \u2013 in particular with Azure Data Factory.</li><li> Proficiency in the scripting languages \u2013 JavaScript, Python, or similar.<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T02:37:46.000Z"
+  },
+  "company": {
+    "name": "Addison Group",
+    "link": "https://www.linkedin.com/company/addisongroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91800,
+    "max_value": 162000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

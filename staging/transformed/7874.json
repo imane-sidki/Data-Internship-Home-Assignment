@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>**C2C or Sponsorship is<u>NOT</u>available for this position**</p><p><br></p><p>Job Title:Sr. Site Reliability Engineer (SRE)</p><p>Job Type:Permanent/Direct Hire</p><p>Job Location:Marietta, GA - The client is still working remote, but will eventually move to a hybrid work schedule. Candidates based in Atlanta are preferred.</p><p></p><p>Target years of Experience:4+ years of engineering experience</p><p><br></p><p>Top 3-5 Skillsets:</p><ul><li>Experience with AWS (The client is migrating to AWS right now).</li><li>Senior level Linux administration experience</li><li>Programming experience with Bash, Python, Ruby, Go, Java, or C/C++</li><li>Experience building CI/CD &amp; deployment pipelines</li></ul><p><br></p><p><u>Preferred:</u></p><ul><li>Kubernetes experience</li></ul><p><br></p><p>What this job is:</p><p>Building automation of:</p><ul><li>Infrastructure</li><li>Configuration</li><li>Deployment of infrastructure</li><li>Build/Test/Deploy/Release of code</li></ul><ol><li>Maintain log shipping best practices, including tagging, tracing, alerting and analysis tools.</li><li>Maintain monitoring and observe of applications and systems.</li><li>Deploy and maintain healthy, performance, compliant platforms (Linux, dependencies, application servers, database).</li><li>Build and maintain pipelines for CI, CD and deployment.</li><li>Writing Infrastructure as code (Terraform)</li></ol><p><br></p><p><u>Tech Stack:</u>Linux, Chef, Puppet, Terraform, Jenkins, AWS.</p><p><br></p><p><u>Team Dynamics:</u>Agile environment. TDD, Collaborative team environment.</p><p><br></p><p>**C2C or Sponsorship is Not available for this position**</p><p><br></p><p><em>Equal Opportunity Employer/Veterans/Disabled</em></p><p><em>To read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.modis.com/en-us/candidate-privacy/</em></p><p><em>The Company will consider qualified applicants with arrest and conviction records.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T20:19:49.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Marietta",
+    "region": "GA",
+    "postal_code": "30066",
+    "street_address": null,
+    "latitude": 33.952305,
+    "longitude": -84.54905
+  }
+}

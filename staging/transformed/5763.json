@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer  - Remote Position",
+    "industry": "Construction",
+    "description": "<p>As a Data Engineer, you will work in coordination with the VP of Digital Transformation and the Director of Business Intelligence as our organization moves to implement new CRM, ERP, and Field Service Management (FSM) systems and a new Data Warehouse. This is a highly technical position. The primary responsibility will be to work with the Director of Business Intelligence on design and implementation of application and data integrations between enterprise applications. Design and implementation decisions will be determined by establishing the appropriate data architecture for our needs. After the implementation of the new systems, future tasks will consist of developing insightful and predictive modeling and reporting of data.<br></p><p>Integration<br></p><ul><li>Developing <span>data/system architectures and </span>technical integrations between the selected ERP system and other business solutions (CRM, HC, Payroll, MRP, Company Forecasting, Field Service Management (FSM)). Use of an iPaaS or custom programming will be needed.</li><li>Develop other technical automations such as task scheduled events, triggered events, custom data entry forms and usage of the Microsoft Power Platform</li><li>Troubleshoot data issues</li><li>Ensure a high level of data availability</li></ul><p>Data Administration<br></p><ul><li>Ability to configure and manage large relational data sets (SQL and other DBs)</li><li>OLTP/OLAP/ETL</li><li>Skilled in standard data warehouse /data lake platforms (Snowflake, Azure)</li><li>Azure subscriptions and resource configuration and management</li><li>Interpret and transform data from data warehouse to other applications</li><li>Develop BI reports which represent meaningful and insightful data</li><li>Develop application architecture and relational diagrams between data storage, applications, custom end-points</li><li>Monitor and audit data flow between databases and other applications</li><li>Work with project managers to meet business requirements for project completion</li></ul><p><strong>What we're looking for in you<br></strong></p><ul><li>5+ years of full stack development experience</li><li>5+ years of data warehouse administration experience</li><li>5+ years of data structures and data analytics experience</li><li>5+ years of familiarity with SQL server or other database platforms</li><li>3+ years of experience diagnosing and resolving business process issues and problems.</li><li>3+ years of knowledge of at least one ERP system (CMIC, COINS OA, IFS, SAP, MS Dynamics, etc.)</li><li>Data Analysis and modeling experience</li><li>SQL Server knowledge/experience</li><li>Programming (Java, Python C#) knowledge/experience</li><li>Web service consumption knowledge/experience</li><li>API usage knowledge</li><li>Microsoft power platform knowledge/experience</li><li>Azure Resources and Azure SQL administration knowledge/experience</li></ul><p><strong>Your life at Harris<br></strong></p><p>As one of the country's leading mechanical contractors, Harris offers you the best of both worlds: the stability, resources and opportunities of a national company, and the team culture, creative spirit and customer loyalty of a local business. If you thrive on variety and new challenges, we want to meet you!<br></p><p>From stadiums to manufacturing facilities, power plants to hospitals, concert halls to classrooms, we handle projects of all sizes and complexity from multiple regional locations across the country.<br></p><p><strong>Harris Benefits<br></strong></p><p>Visit our Careers Page for additional details:https://www.harriscompany.com/careers/employee-benefits-at-a-glance<br></p>Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities<br>The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor\u2019s legal duty to furnish information. 41 CFR 60-1.35(c)",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:27:10.000Z"
+  },
+  "company": {
+    "name": "Harris",
+    "link": "https://www.linkedin.com/company/harriscompany"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

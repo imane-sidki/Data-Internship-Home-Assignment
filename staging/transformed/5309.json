@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software engineer - Perception",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple is looking for software engineers to develop and deploy Perception technologies for autonomous systems. You will work on a hardware/software product enabled by the systems you build.<br><br> <br><strong>Key Qualifications<br></strong> <br>C++. You write clean, well-tested code. You\u2019re passionate about code efficiency and correctness.<br><br>Experience working with production software. <br><br>You are able to understand and contribute to high-quality software for a complex system.<br><br>Experience implementing numerical algorithms (preferably in HPC environment).<br><br>Proficient understanding of algorithms and data structures.<br><br>Excellent communication skills. You collaborate optimally with other teams and communicate clearly about your work.<br><br> <br><strong>Description<br></strong> <br>WHAT YOU\u2019LL DO<br><br>-  Take groundbreaking perception models from the lab to a critical system.<br><br>-  Work with machine learning teams to harden models for deployment.<br><br>-  Implement optimized algorithms that perform within platform constraints.<br><br>-  Develop and support tools that accelerate development and deployment.<br><br>-  Ownership for design, development, deployment and test.<br><br>WORKING WITH THE TEAM <br><br>- You\u2019ll join a fantastic team of hardworking engineers and researchers with deep experience in robotics, machine learning, and software engineering. We hope you are passionate about the values that drive us:<br><br>-  Passion for the mission: We\u2019re here to make something great. We seek whatever work is right for the product and strive for the best possible results.<br><br>-  Modesty: The right answer is more meaningful than being right. We search for solutions as a team and value clear-eyed feedback.<br><br>-  Lean habits: You can\u2019t grow without limits. Time constraints and big goals inspire us to sharpen our focus and learn to make phenomenal decisions.<br><br><br><br>OTHER SKILLS WE LIKE TO SEE<br><br>-  Experience with Python programming.<br><br>-  Experience with Parallel (tbb / OpenMP) and/or GPGPU programming.<br><br>-  Strong 3D math and linear algebra skills.<br><br>-  Familiarity with cloud development (e.g., AWS, Spark, SQL and databases).<br><br>-  Familiarity with optimization of neural networks for deployment.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelors or Masters degree in Computer Science or equivalent professional experience.<br><br> <br>Role Number: 200169360<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:36:45.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

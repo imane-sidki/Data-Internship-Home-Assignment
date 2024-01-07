@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, GQMA",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<p>Software Engineer, GQMA</p><p>Austin, Texas</p><p>Base Salary: $150,000- 250,000</p><p>Bonus: $50- 100k</p><p><br></p><p>Our company is a technology-driven, diversified principal trading firm. We trade our own capital at our own risk, across a broad range of asset classes, instruments, and strategies, in financial markets around the world. As the markets have evolved over the past 25 years, so has our company \u2013 maximizing opportunities to include real estate, crypto assets, and venture capital. With over 1000 employees at our Chicago headquarters and offices around the world, we work together to solve complex problems, challenge consensus and deliver meaningful results. It\u2019s a place of high expectations, deep curiosity, and thoughtful collaboration.</p><p><br></p><p>Our company is looking for an exceptional Software Engineer with expertise in designing, building, and supporting financial applications and distributed services targeting Front Office users, Risk Management, and Operations. You will be joining a team responsible for providing models and analytics to the company\u2019s businesses firm-wide and will be instrumental in helping define and implement the services and tools used for pricing, risk management, PnL, and scenario analysis. Your work will be used throughout the organization on a daily basis by traders, risk managers, and back-office analysts. Come join our fast-moving team as we build the next generation of firm-wide services.</p><p><br></p><p>To qualify for this role, you:</p><ul><li>Have 3+ years of experience working in a software engineering role</li><li>Can demonstrate hands-on proficiency with at least one of the following languages: C#, C++, Python, Java</li><li>Have a strong educational background with a degree in Computer Science, Engineering, Physics or Mathematics</li><li>Have experience defining API\u2019s via HTTP or GRPC</li><li>Have experience with database development, SQL or NoSQL</li><li>Have experience developing, deploying, and supporting distributed services</li><li>Are able to provide live support of distributed software solutions responsible for the generation of risk and PnL numbers for multiple businesses in different geographical locations</li><li>Are comfortable with Windows and Linux (Red Hat, Ubuntu) environments</li><li>Have strong communication and collaboration skills with the ability to work within a multidisciplinary team that includes traders, software engineers, and quants</li><li>Have a proven track record of working independently with minimal oversight and driving projects and initiatives to completion</li></ul><p><br></p><p>Bonus points if you have:</p><ul><li>Experience working closely with Front Office (trading, research) at a major financial institution</li><li>Knowledge of Fixed Income products and Interest Rate derivatives (including Risk, PnL attribution, scenario analysis, etc.)</li><li>Working proficiency with C++, Python, JavaScript</li><li>Familiarity with common IR derivatives models (Yield Curves, Option Pricing, SABR, etc.)</li><li>Understanding of the fundamentals of financial derivatives and models used to price them</li><li>Experience developing web-based UIs</li><li>Experience with observability and debugging tools (Splunk, Grafana, gdb, windbg)</li><li>Experience writing batch and shell scripts</li><li>Experience with statistical analysis and working with large datasets provided in relational or key-value databases</li><li>Experience with data presentation and visualization</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:40:59.000Z"
+  },
+  "company": {
+    "name": "Quantitative Systems",
+    "link": "https://www.linkedin.com/company/quantitative-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

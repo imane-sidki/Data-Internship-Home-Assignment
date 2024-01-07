@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p>Mada is a startup powering inspired shopping experiences. Our A.I.-based marketplace app, The Mada App, uses proprietary technology to recommend personalized and shoppable outfits for each user. Dubbed \u201cTinder for Outfits,\u201d the app curates millions of products from thousands of brands and retailers, like Bloomingdale's, Shopbop, Urban Outfitters, and more, to revolutionize the way Gen Z shops. Now, we are working with some of the world\u2019s largest brands on a new venture, and are looking for an uber-talented data scientist to join our team to help us push the boundaries of what\u2019s possible for product recommendation.</p><p><br></p><p><strong>Major responsibilities include:</strong></p><p><br></p><ul><li>Build and deploy ML models and applications in the cloud</li><li>Maintain and improve existing ML models and applications</li><li>Diagnosing and resolving bugs and issues promptly</li><li>Create ETL pipelines to/from various types of data structures</li><li>Research and validate new approaches to ML for use within our apps and interfaces</li><li>Interface closely with our product, tech and other teams</li><li>Create project plans for and estimate level of effort for ML initiatives</li><li>Participate in full group project planning and sales engineering meetings</li><li>Automate analytics and business intelligence reporting</li></ul><p><br></p><p><strong>Required Experience:</strong></p><ul><li>Bachelor\u2019s degree in Computer Science, Machine Learning, Statistics, Mathematics, etc.) or equivalent</li><li>3+ years of industry experience in an ML engineer or data scientist role building ML models or hands on experience developing deep learning models</li><li>Experience writing Python and SQL</li><li>Experience with computer vision</li><li>Experience creating ETL pipelines</li><li>Experience in deploying models to production environments at scale behind an API</li><li>Experience handling very large size datasets (tens of gigabytes)</li><li>Ability to break down problems and create solutions in an organized and clear manner</li><li>Clear written and verbal communicator to technical and non-technical audiences</li><li>Strong business acumen, empathy for customer needs</li><li>Experience working remotely, self-motivated</li></ul><p><br></p><p><strong>Our ideal superstar:</strong></p><ul><li>Impeccable communication and interpersonal skills</li><li>Thrives in a fast-paced and constantly changing environment</li><li>Expert in creative problem solving</li><li>Outgoing, friendly</li><li>Extremely organized (Marie Kondo level)</li><li>Handles pressure in a cool calm and collected manner</li><li>Entrepreneurial, self-starter, independent, doesn\u2019t require hand holding</li></ul><p></p><p>If this sounds like you, please send your resume and a quick video introducing yourself and explaining why you\u2019d be a great fit for the role to careers@themadaapp.com</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T19:36:23.000Z"
+  },
+  "company": {
+    "name": "Mada",
+    "link": "https://www.linkedin.com/company/the-mada-app"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

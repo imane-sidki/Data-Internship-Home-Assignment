@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer & Network Security",
+    "description": "<strong><u>About The Role<br><br></u></strong>Imperva\u2019s Infrastructure and Cloud team is looking for a highly technical Sr. Site Reliability Engineer to drive innovation, scale, and create operational excellence for the Imperva globally distributed network. As an SRE in the ICO organization, you approach solving, supporting, and optimizing the infrastructure programmatically. You will work to improve the overall availability, reliability, performance, and security of the infrastructure for Imperva\u2019s customers.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Establish metrics for data-driven decisions to help increase availability, reliability, and velocity </li><li> Apply SRE core tenets of measurement (SLI/SLO/SLA), eliminate toil, and reliability modeling </li><li> Build and maintain, and evolve SLO and SLI network/system/application baselines </li><li> Provide go/no go preplanning, verification/validation, and review of existing and new product/services </li><li> Proactively analyze data and test the integrity of network/systems to ensure production applications and services are operating optimally </li><li> Work with internal and external customers as needed to troubleshoot and resolve business affecting issues </li><li> Escalations, incident response, RCA, and blameless postmortem </li><li> Participate in 24x7 on-call rotation <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> 8+ years of professional experience within a cloud/web/CDN scale infrastructure </li><li> Experience programming in any combination of Python, Go, C/C++, Rust </li><li> Expert knowledge of Linux systems, network programming and protocols TCP, UDP, DNS, TLS/SSL, HTTP </li><li> Experience with BGP and Anycast routing is a plus </li><li> Experience with DevOps principles and concepts such as Infrastructure as Code (Ansible/Saltstack), CI/CD (Gitlab, Jenkins, Git), monitoring and visualization (Prometheus, Grafana) </li><li> Experience with big data technologies such as NoSQL/RDBMS, Redis, ElasticSearch, Kafka </li><li> Experience with containers and container management (Docker, Kubernetes) is a plus </li><li> Experience analyzing and building data telemetry, modeling, pipelines, UI visualization </li><li> Experience in developing software, troubleshooting, and monitoring large scale distributed systems </li><li> Implement software engineering best practices/standards and software development life cycle </li><li> Working knowledge and experience of Agile software development methodologies </li><li> Outstanding collaboration and communication, and documentation skills with a proven ability to work cross-functionally to establish and meet OKRs </li><li> BS/MS in computer science, engineering, or a related technical discipline or equivalent experience <br></li></ul><strong><u>Our Company<br><br></u></strong>Imperva is the cybersecurity leader whose mission is to help organizations protect their data and all paths to it. Customers around the world trust Imperva to protect their applications, data and websites from cyber attacks. With an integrated approach combining edge, application security and data security, Imperva protects companies through all stages of their digital journey. Imperva Research Labs and our global intelligence community enable Imperva to stay ahead of the threat landscape and seamlessly integrate the latest security, privacy and compliance expertise into our solutions. Learn more on the Imperva website or company blog , and follow Imperva on LinkedIn and Twitter .<br><br><strong><u>Benefits<br><br></u></strong>IImperva offers a competitive compensation package that includes base salary, medical, flexible time off and more. It\u2019s an exciting time to work in cybersecurity. Learn about Imperva products and services at www.imperva.com and career opportunities at www.imperva.com/careers<br><br><strong><u>Legal Notice<br><br></u></strong>Imperva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, ancestry, pregnancy, age, sexual orientation, gender identity, marital status, protected veteran status, medical condition or disability, or any other characteristic protected by law.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T21:53:33.000Z"
+  },
+  "company": {
+    "name": "Imperva",
+    "link": "https://www.linkedin.com/company/imperva"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

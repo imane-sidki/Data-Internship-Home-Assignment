@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "New Grad Software Engineer, Backend",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Circle is a global financial technology firm that enables businesses of all sizes to harness the power of digital currency and public blockchains for payments, commerce and financial applications worldwide. Circle platforms and products provide a suite of internet-native financial services for payments, treasury infrastructure and capital formation. Circle is also a principal developer of USD Coin (USDC), which has become the fastest growing dollar digital currency in the world. USDC has grown to over 30 billion in circulation and supported over $1.2+ trillion in transactions in the past year. Circle's payments and treasury infrastructure services available through the Circle Account and APIs helps bridge the legacy financial system and digital currency and blockchain based finance. Circle's SeedInvest service brings internet-native fundraising and capital formation to startups and growth companies. Combined, Circle's suite of services helps companies to participate in a more open, global and inclusive financial system.<br><br><strong>What you'll be part of:<br><br></strong>With the mission \"To raise global economic prosperity through the frictionless exchange of financial value,\" Circle was founded on the belief that the internet, blockchains and digital currency will rewire the global economic system, creating a fundamentally more open, inclusive, efficient and integrated world economy. We envision a global economy where people and businesses everywhere can more freely connect and transact with each other with new technologies for digital money and internet-native finance. We believe such a system can raise prosperity for people and companies everywhere. Our mission is powered by the values we espouse and which we expect all Circlers to respect. We are Multistakeholder, serving the needs of our customers, our shareholders, our employees and families, our local communities and our world. Furthermore, we are also Mindful, Driven by Excellence, and High Integrity.<br><br><strong>Engineering at Circle:<br><br></strong>In 2020, Circle unveiled Circle APIs: a set of solutions and smarter technology to help businesses accept payments in a more global, scalable and efficient alternative to traditional banking rails (spoiler: we're using USD Coin under the hood).<br><br>Over the next 12 months, we're going to rapidly grow our API customer base and enable even more businesses to easily integrate and benefit from the breakthrough of programmable money on the internet.<br><br>If you're data-driven, interested in building something meaningful and would love to work in an entrepreneurial environment, we can't wait to hear from you.<br><br>You will aspire to our four core values:<br><ul><li>Multistakeholder - you have dedication and commitment to our customers, shareholders, employees and families and local communities.</li><li>Mindful - you seek to be respectful, an active listener and to pay attention to detail. </li><li>Driven by Excellence - you are driven by our mission and our passion for customer success which means you relentlessly pursue excellence, that you do not tolerate mediocrity and you work intensely to achieve your goals. </li><li>High Integrity - you seek open and honest communication, and you hold yourself to very high moral and ethical standards. You reject manipulation, dishonesty and intolerance.<br><br></li></ul><strong>Here is our team hierarchy for individual contributors:<br><br></strong>Principal Software Engineer (V)<br><br>Staff Software Engineer (IV)<br><br>Senior Software Engineer (III)<br><br>Software Engineer (II)<br><br>Software Engineer (I)<br><br><strong>What you'll be responsible for:<br><br></strong>As a Software Engineer on the Circle Platform Services team, you will build scalable microservices that are responsible for reliable and secure APIs that transfer value &amp; assets across all blockchain protocols (think Bitcoin and Ethereum, for example) as well as traditional banking protocols (think credit cards, bank transfers etc).<br><br><strong>What you'll bring to Circle (not all required):<br></strong><ul><li>1+ years of professional software development experience (including internships) in object oriented languages like Java and Go.</li><li>Experience with payment systems like credit cards and bank transfers</li><li>A broad understanding of API design and REST principles</li><li>Experience with Cloud Services (AWS, Google Cloud, Microsoft Azure, etc)</li><li>Experience with SQL databases and designing schemas</li><li>Experience in the deployment of production-quality, scalable software</li><li>A focus on coding standards and code quality -- a desire to have great test coverage to enable continuous delivery</li><li>Excellent communication skills, able to collaborate with remote teams, share ideas and present concepts effectively</li><li>Self-starter, you enjoy moving at a fast pace, shipping software that improves the user experience and constantly improving your work with little supervision</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-07T23:17:22.000Z"
+  },
+  "company": {
+    "name": "Circle",
+    "link": "https://www.linkedin.com/company/circle-internet-financial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Development Engineer in Test - System SW",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "At Sonos, we want to create the ultimate listening experience for our customers, and connect them to the content they want, where they want it. As part of the Sonos team, you\u2019ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do to the best work of their lives.<br><br>As a Sr SDET for the System Software team, you will be responsible for leading validation efforts of low level software during early stages of new product development in a fast paced, dynamic environment. You will work closely with the development team to ensure new products and features have not regressed the existing product line. Prospective candidates will be hands on leaders who will drive design and develop test automation to run on and off target. This will require collaboration with your partners in Development and Quality to help define and execute the test strategies in order to deliver high quality products. In addition, you will work with teams of industry-leading innovators across acoustics, mechanical engineering, software engineering, hardware engineering, and user experience. If you love music, solving challenging problems and delivering high-quality products, we want to talk with you!<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li> Engineer new automated frameworks to support on target API testing </li><li> Drive and document test strategies, design edge cases, and conduct manual and automated Linux kernel testing </li><li> Act as primary point of contact for validation of software needed for early hardware bring up </li><li> Review requirements, behavior specifications, and design documents to begin test development early and uncover issues prior to implementation </li><li> Constantly perform gap analysis to ensure good test coverage, assess and provide proactive advice or solutions </li><li> Investigate logs and triage bugs to determine root cause and establish prioritization of any issues discovered during manual and/or automated testing that runs in a CI environment </li><li> Mentor other members of the team to expand their technical competencies and to adapt the best software engineering practices <br><br></li></ul><strong><u>Basic Qualifications<br><br></u></strong><strong>What You\u2019ll Need<br></strong><ul><li> Bachelor's Degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience </li><li> 3+ years of experience in Linux kernel or embedded development or test </li><li> Strong knowledge of Linux in both user and kernel space. </li><li> Hands on experience with GDB or any other debugging mechanisms for white box testing </li><li> Experience in reading schematics and being able to develop automated tests using external hardware </li><li> Experience programming in an object orientated language such as Python or C++ </li><li> Reading level proficiency in C <br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Familiarity with low level communication protocols like I 2 C, PCIe, and USB </li><li> Experience designing and running GIT leveraging CI/CD pipelines </li><li> Experience with Jira, Jenkins, and Ansible </li><li> Familiarity with Pytest</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T17:14:59.000Z"
+  },
+  "company": {
+    "name": "Sonos, Inc.",
+    "link": "https://www.linkedin.com/company/sonos-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

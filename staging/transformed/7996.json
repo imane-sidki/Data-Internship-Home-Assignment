@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Insurance",
+    "description": "<strong>Description<br><br></strong>Woodruff Sawyer is one of the largest independent insurance brokerage and consulting firms in the nation and serves as the broker for thousands of companies ranging from growing start-ups to multinational corporations.<br><br>As a part of the Woodruff Sawyer Team, you will be helping to shape technology for our vast network of agents and internal teams.<br><br><strong>Job Description<br><br></strong>The SQL Server Analyst/DBA will be responsible for the implementation, configuration, maintenance, and performance of critical SQL Server RDBMS systems, to ensure the availability and consistent performance of our corporate applications. This is a \u201chands-on\u201d position requiring solid technical skills, as well as excellent interpersonal and communication skills.<br><br>The successful candidate will be responsible for the development and sustainment of the SQL Server Warehouse, ensuring its operational readiness (security, health and performance), executing data loads, and performing data modeling in support of multiple development teams. The data warehouse supports an enterprise application suite of program management tools. Must be capable of working independently and collaboratively.<br><br><strong>Responsibilities<br><br></strong><ul><li>Working with key business partners to understand business priorities, identify strategic initiatives, and develop effective and timely analytic solutions</li><li>Manage SQL Server databases through multiple product lifecycle environments, from development to mission-critical production systems.</li><li>Configure and maintain database servers and processes, including monitoring of system health and performance, to ensure high levels of performance, availability, and security.</li><li>Apply data modeling techniques to ensure development and implementation support efforts meet integration and performance expectations</li><li>Independently analyze, solve, and correct issues in real time, providing problem resolution end-to-end.</li><li>Refine and automate regular processes, track issues, and document changes</li><li>Assist developers with complex query tuning and schema refinement.</li><li>Provide 24x7 support for critical production systems.</li><li>Perform scheduled maintenance and support release deployment activities after hours.</li><li>Share domain and technical expertise, providing technical mentorship and cross-training to other peers and team members.<br><br></li></ul><strong>Skills And Qualifications<br><br></strong><ul><li>5+ years MS SQL Server Administration experience required</li><li>Demonstrated ability to communicate effectively with all levels of an organization, both technical and non-technical team members</li><li>Excellent interpersonal skills including verbal and written communication, teamwork, and issue resolution</li><li>Experience with Performance Tuning and Optimization (PTO), using native monitoring and troubleshooting tools</li><li>Proficient in SQL for use in business analysis and testing efforts</li><li>Entity Relationship modeling, metadata systems, data quality tools and techniques</li><li>ETL Experience with SSIS</li><li>Reporting Services (SSRS) and having Power BI is add advantage</li><li>Experience with backups, restores and recovery models</li><li>Knowledge of High Availability (HA) and Disaster Recovery (DR) options for SQL Server</li><li>Experience working with Windows server, including Active Directory</li><li>Excellent written and verbal communication</li><li>Flexible, team player, \u201cget-it-done\u201d personality</li><li>Ability to organize and plan work independently</li><li>Ability to work in a rapidly changing environment</li><li>Ability to multi-task and context-switch effectively between different activities and teams</li><li>MCTS, MCITP, and/or MVP certifications a plus</li><li>Insurance Industry Experience preferred.</li><li>Uses judgement to form conclusions that may challenge conventional wisdom, and focuses on the crux of issues to identify high leverage intervention points and strategies</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:49:19.000Z"
+  },
+  "company": {
+    "name": "Woodruff Sawyer",
+    "link": "https://www.linkedin.com/company/woodruff-sawyer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sacramento",
+    "region": "CA",
+    "postal_code": "95820",
+    "street_address": null,
+    "latitude": 38.576935,
+    "longitude": -121.49495
+  }
+}

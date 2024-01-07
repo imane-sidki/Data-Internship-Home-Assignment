@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Publishing,Online Media,Media Production",
+    "description": "<p>Forbes believes in the power of entrepreneurial capitalism and uses it on various platforms to ignite the conversations that drive systemic change in business, culture and society. We celebrate success and are committed to using our megaphone to drive diversity, equity and inclusion. We are the world\u2019s biggest business media brand and we consistently place in the top 20 of the most-popular sites in the United States, in good company with brands like Netflix, Apple and Google. In short, we have a big platform and we use it responsibly.</p><p><br></p><p>As a data scientist at Forbes on the Business Intelligence team, you\u2019ll have the opportunity to work on a variety of unique and interesting challenges. You'll be part of a highly effective team, who are leveraging data science to advance our business and drive revenue growth.</p><p><br></p><p>Responsibilities:</p><ul><li>Own the development of new and existing machine learning models with a focus on increasing revenue and helping the site understand it\u2019s users and competitors</li><li>Research and develop solutions to varied and complex business problems that touch all areas of data science (regression, classification, forecasting, nlp, clustering, etc.)</li><li>Some current areas of focus include text classification, recommendations, audience segmentation, multi-touch attribution and churn</li><li>Perform data mining on large structured and unstructured datasets to uncover insights</li><li>Continuously improve your skills and knowledge through classes and independent research</li></ul><p><br></p><p>What You Bring:</p><ul><li>1-2 years experience as a data scientist (preferably in the publishing industry)</li><li>MS, in computer science, applied mathematics or other quantitative/computational discipline from a top Western university</li><li>1-2 years experience with Python &amp; SQL</li><li>1-2 years relevant work experience with popular machine learning open source libraries (pandas, numpy, sklearn, Tensorflow/Keras, etc.), APIs, cloud computing (Google Cloud Platform preferred), databases (BigQuery preferred), Web Analytics (Google Analytics 360 preferred)</li><li>Solid understanding of traditional machine learning techniques, feature engineering and data cleansing/analysis</li><li>Real-world experience with natural language processing, regression, classification, clustering and time series forecasting. Familiarity with deep learning approaches a plus</li><li>Demonstrated problem solving skills and ability to present complex problems clearly</li><li>Experience creating data products</li><li>Experience presenting findings to internal stakeholders at different levels</li><li>Knowledge of data visualization tools (i.e.matplotlib, plotly)</li><li>Project Management experience a plus</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T14:37:45.000Z"
+  },
+  "company": {
+    "name": "Forbes",
+    "link": "https://www.linkedin.com/company/forbes-magazine"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

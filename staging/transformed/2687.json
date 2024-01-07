@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Internet,Staffing and Recruiting",
+    "description": "<strong>GoDaddy is empowering everyday entrepreneurs around the world by providing all of the help and tools to succeed online. GoDaddy is the place people come to name their idea, build a professional website, attract customers, sell their products and services, and manage their work. Our mission is to give our customers the tools, insights and the people to transform their ideas and personal initiative into success. To learn more about the company, visit www.GoDaddy.com.<br><br></strong><strong>Location: <br><br></strong>Your manager is in Maine, but you can work remotely or near a GoDaddy office. This position is not eligible to be performed in Alaska, Colorado, Mississippi, North Dakota, or the Virgin Islands.<br><br><strong><u>What You'll Get To Do...<br><br></u></strong>This team is responsible for ensuring our various environments meet or exceed our Availability SLAs, ensures patching compliance is maintained, scales and builds new features &amp; tools, as well as performs technical troubleshooting to address operational issues that arise.<br><br>We have hundreds of services running on thousands of both physical and virtual hosts within our own data centers as well as external cloud providers on 6 continents. Keeping the lights on with such a nimble team requires a particular skillset and mentality, as well as a passion for automation and excellence!<br><br><strong>In this role, you will:<br></strong><ul> <li>Run and maintain both on-prem and AWS workloads.</li> <li>Automate common operational tasks, such as patching.</li> <li>Interface with teams to provide operational assistance and perfection.</li> <li>Define monitoring and visibility standards and drive the approach to adoption.</li> <li>Provide on-call support for our customers operational needs.</li> <li>Be a technical leader for teams across GoDaddy, often championing best practices.</li> <li>Work with a broad spectrum of people who have a wide set of skills at varying depths.</li> <br><br></ul><strong><u>Your Experience Should Include...<br></u></strong><ul> <li>Extensive Linux experience</li> <li>Knowledge of and experience with visibility tools such as Nagios, Sensu, Icinga2, Cloudwatch, and Elastic.</li> <li>Knowledge of and experience with configuration management tools such as Salt, Chef, Ansible, and Puppet.</li> <li>Scripting in a variety of languages, such as Bash, Perl, Python, Go, PHP, or Ruby.</li> <li>Knowledge of AWS offerings such as EC2, S3, ElasticSearch, etc.)</li> <li>Experience working with configuration as code, with tools like AWS CDK, Sceptre, Hashicorp Terraform, etc.</li> <li>Having operational experience with large, distributed fleets of servers.</li> <li>Experience in developing/maintaining applications and services.</li> <li>Experience working with networking concepts such as VLANs, network segregation, the OSI model, and others.</li> <br></ul><strong>You might also have...<br></strong><ul> <li>Project management experience</li> <li>Windows experience/knowledge</li> <li>Knowing and understanding agile methodologies/ceremonies</li> <li>Experience/understanding of security standard methodologies and tooling</li> <br></ul><strong>We've got your back... </strong>Enjoy our many benefits (My Wallet), including paid time off, 401k, equity grants and parental leave. Join one of our employee resource groups (Culture). Continue to have a side hustle, if you have one (we love entrepreneurs, remember?). Most importantly, come as you are and make your own way.<br><br><strong>About us... </strong>GoDaddy is empowering everyday entrepreneurs around the world by providing all of the help and tools to succeed online. GoDaddy is the place people come to name their idea, build a professional website, attract customers, sell their products and services, and manage their work. Our mission is to give our customers the tools, insights and the people to transform their ideas and personal initiative into success. To learn more about the company, visit About Us (https://aboutus.godaddy.net/about-us/overview/default.aspx.)<br><br><em>GoDaddy is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, ethnicity, national origin, citizenship, religion, creed, sex, sexual orientation, gender, gender identity or expression (including against any individual that is transitioning, has transitioned, or is perceived to be transitioning), marital status or civil partnership/union status, physical or mental disability, medical condition, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. GoDaddy will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements.<br><br></em>If you need help completing an application for a position with GoDaddy, please reach out to our Recruiting Team at myrecruiter@godaddy.com.<br><br><strong>GoDaddy doesn't accept unsolicited resumes from recruiters or employment agencies.</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:14:32.000Z"
+  },
+  "company": {
+    "name": "GoDaddy",
+    "link": "https://www.linkedin.com/company/godaddy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

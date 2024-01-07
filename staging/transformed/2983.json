@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Site Reliability Engineer, Observability",
+    "industry": "Computer Software,Internet,Information Technology and Services",
+    "description": "<strong>WHAT IS BOX?<br><br></strong>Box is the market leader for Cloud Content Management. Our mission is to power how the world works together. Box is partnering with enterprise organizations to accelerate their digital transformation by creating a single platform for secure content management, collaboration and workflow. We have an amazing opportunity to further establish ourselves as leaders in the space, and we need strong advocates to help us achieve that goal.<br><br>By joining Box, you will have the unique opportunity to help capture a majority of this developing market and define what content management looks like for the digital enterprise. Today, Box powers over 99,000 businesses, including 70% of the Fortune 500 who trust Box to manage their content in the cloud.<br><br><strong>WHY BOX NEEDS YOU <br><br></strong>The Observability Platforms team provides an end-to-end experience enabling Box engineers by leveraging frameworks, tools, APIs and visualizations to better understand the behavior of features, services, and infrastructure they own and maintain. The team also helps educate product, infrastructure, and systems teams on how to appropriately monitor features and services they own, provide visualizations for monitoring distributed systems, give guidance for reducing operational overhead, and supports the delivery of unmatched availability to our customers.<br><br>We need a Sr. SRE with the experience of having designed, operated, and implemented Observability frameworks at a very large scale, and well versed in the operation of scaled architectures. You should have deep operational knowledge of distributed systems and how to avoid limitations through innovative design.<br><br><strong>WHY BOX NEEDS YOU <br><br></strong>The main focus of the Observability Team is to build frameworks and systems that can manage the performance of Box systems while scaling to billions of events per second. Additionally, we are responsible to standardize observability across engineering teams, drive designs for high performing services and foster great observability practices. We build, scale, and operate low-latency, high-throughput data systems that power high resiliency of Box Systems. You will help us execute on this vision and ensure that Box continues to ship scalable services that can hold against the high-performance expectation from our customers.<br><br>We are looking for big thinkers and innovators who have experience working with scalable distributed systems and have a passion for high performance and reliability. We are a small team with big ambitions that values impact and is not afraid of huge, gnarly problems. If this excites you, come join us!<br><br><strong><u>What You'll Do<br></u></strong><ul> <li>You're going to have the unique opportunity to build, improve, and support our Observability (o11y) platform. You will get to work with cutting-edge technologies that are defining the future of Box's cloud platforms. You will have visibility and impact across all of Engineering. </li> <li>Provide o11y products like ELK, Splunk, Sensu, Prometheus, AppDynamics, Dynatrace, etc. to engineering teams for centralized logging, APM tooling, monitoring and alerting, and distributed tracing.</li> <li>You'll collaborate with other engineers on the team to foster solid engineering principles and represent our engineering values</li> <li>As a senior member of the team, you'll use both technical and relational skills to lead large scale projects to completion</li> <li>Scale the infrastructure responsible for telemetry frameworks used throughout Box's infrastructure, cloud services, and products to capture, transport, store and analyze the telemetry data. Scale the observability infrastructure to support petabytes of logs and billions of metric data points daily.</li> <li>You'll collaborate, influence and drive for improvement across scrum teams</li> <li>You'll provide additional support &amp; perform various pocs on new projects, frameworks for Observability</li> <li>Define and educate platform consumers on observability best practices from a SRE perspective.</li> <li>Participate in deep technical design discussions within your team, across partner teams, and ensure that we\u2019re building the right systems.</li> <br><br></ul><strong><u>Who You Are<br></u></strong><ul> <li>You take an SRE-centric approach to everything you build/manage, ensuring reliability, availability and security</li> <li>You act like an owner and strive to do work you're proud of, both technically and in your team interactions</li> <li>You are a self-starter and a strong supporter of self service and automation within OaaS (Observability as a service)</li> <li>Deep knowledge of OS system fundamentals (linux) &amp; core internet technologies, including TCP/IP, DNS, NAT, SDN</li> <li>Proven production service troubleshooting skills that span applications, systems and network within a primarily Linux environment</li> <li>Solid understanding of infrastructure automation tools (Puppet, Ansible, or the like)</li> <li>Experience in using industry standard DevOps CI/CD frameworks (Jenkins/Spinnaker, or the like) </li> <li>Solid experience in building automations, frameworks preferably with Python and Go</li> <li>Experience in running containerized services in Private/Public Cloud (GCP, AWS)</li> <li>Experience in building, managing metrics and data driven observability platforms and peripherals</li> <li>Experience in managing OaaS (Observability as a a service) is a plus</li> <li>You have a fair understanding of technologies like Elasticsearch, Apache Storm or other DAG technologies, and streaming technologies like Kafka (pub/sub, or Kinesis).</li> <li>You have built distributed, high-throughput and low-latency systems with a strong focus on availability, resilience, and durability.</li> <br><br></ul><strong><u>Benefits<br></u></strong><ul> <li>Visit this webpage to check out all of our exciting benefits https //join.collectivehealth.com/box<br></li> <br></ul><strong>EQUAL OPPORTUNITY<br><br></strong>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Box",
+    "link": "https://www.linkedin.com/company/box"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

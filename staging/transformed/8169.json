@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer ",
+    "industry": "Computer Software,Design",
+    "description": "<p><strong>Software Engineer</strong></p><p><br></p><p><strong> </strong>As a Software Engineer, you\u2019ll help develop the next generation platform that will support all our products. You\u2019ll share your skills, innovation, and experience with a team of talented engineers, guiding the way on software design and best practices and helping to solve some of our most challenging technical problems. You\u2019ll find yourself able to stretch and grow in almost any direction you choose, while building a data analytics experience that will delight users and directly impact the bottom line. Along the way, you\u2019ll be working with friendly people who are as passionate about software as you are.</p><p><br></p><p>If the following sounds like you, we want to talk:</p><ul><li>You\u2019re a great programmer, highly skilled in frontend and backend development using technologies like React and NodeJS</li><li>You know TypeScript or another strongly typed language</li><li> You\u2019re passionate about clean code. You understand that the code you write today will need to be read by developers in the future.</li><li>You can roll up your sleeves supporting the development of deployment pipelines using tools like Kubernetes, Docker &amp; Gitlab CI/CD</li><li>You are a coach and mentor to other developers, a thought leader in code reviews and software design.</li><li>You\u2019re passionate about building great experiences that delight customers and are self-motivated to get it done.</li><li>You believe in automated testing \u2013 if it doesn\u2019t have tests, it isn\u2019t done. </li><li> You believe in taking ownership of what you build \u2013 if it breaks, you fix it.</li><li> You\u2019re a great collaborator, and a lifelong learner.</li></ul><p><br></p><p><strong>Required Skills:</strong></p><ul><li> 3+ years of experience as a professional software engineer</li><li>Automated testing experience using React Testing Library, Jest or similar</li><li>Experience developing RESTful APIs</li><li>Demonstrated ability to translate business requirements into technical solutions.</li><li>Excellent written and verbal communication as well as listening skills.</li><li>Excellent problem-solving skills.</li><li>Demonstrated ability to write clean code and higher-level software design patterns</li><li>Ability to learn quickly and work independently with minimal direction and guidance.</li><li>Ability to quickly identify and acquire information necessary for solving problems.</li></ul><p> </p><p><strong>Valued Skills:</strong></p><ul><li>Cloud container experience with Docker and Kubernetes</li><li>Comfort working in a distributed, collaborative, agile environment</li><li>Experience working with deployment technologies such as Gitlab CI, ArgoCD, AWS or similar</li></ul><p><br></p><p><strong>Benefits:</strong></p><ul><li>100% company-paid medical, dental and vision</li><li>Health plans that cover your family and pets</li><li>Company matched 401k</li><li>Employee Stock Purchase Plan (ESPP)</li><li>Paid time off: 3 weeks-vacation, 6 sick days, 11 holidays, 3 floating holidays, 2 wellbeing days and 20 hours of volunteer time.</li><li>100% paid parental leave</li><li>100% paid fertility care, fertility preservation, in vitro fertilization, surrogacy, adoption and more.</li><li>Tuition Reimbursement</li><li>Wellness programs with up to $300 fitness reimbursement annually</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T22:50:24.000Z"
+  },
+  "company": {
+    "name": "Interactive Resources - iR",
+    "link": "https://www.linkedin.com/company/interactive-resources---ir"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

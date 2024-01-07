@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Instrument Software",
+    "industry": "Computer Software,Research,Biotechnology",
+    "description": "<strong>PacBio Mission Statement: Enabling the promise of genomics to better human health. <br><br></strong>We create the world's most advanced sequencing technologies. Our single-molecule solutions reveal the full potential of the genome in the pursuit of better health.<br><br><strong><u>Job Summary<br><br></u></strong>Want to become a key player in creating the next generation of DNA sequencers? Join the Instrument Control Software (ICS) team at PacBio: we're responsible for runtime control operations in all our sequencing instruments. ICS manages operational hardware, including robots, lasers, optics, electromechanical devices, and environmental modules to conduct DNA sequencing experiments on the instrument. We are looking for an experienced software engineer to develop and deliver new features in our currently marketed sequencers as well as work on development of next-generation products.<br><br><strong><u>Responsibilities And Duties<br></u></strong><ul><li>Design and code across the entire software stack in our DNA sequencers</li><li>Collaborate with engineers, scientists, and program managers to deliver robust product solutions</li><li>Communicate and document designs using behavioral and structural diagrams</li><li>Write and fix automated unit and functional tests</li><li>Perform root-cause analysis and debug complex software systems <br></li></ul>All listed tasks and responsibilities are deemed as essential functions to this position; however, business conditions may require reasonable accommodations for additional tasks and responsibilities.<br><br><strong><u>Qualifications And Skills<br></u></strong><ul><li>Bachelors and/or Masters in Computer Science, Engineering, or other related discipline, or equivalent, with 3+ years related experience or equivalent </li><li>Experience writing and delivering product software</li><li>Excellent coding skills and fluency in managed runtime environments, such as .NET or Java </li><li>Excellent interpersonal, verbal, and written communication skills to be able to effectively interact with mechanical, electronic, quality, and manufacturing engineers <br></li></ul><strong>Preferred Qualifications:\u202f </strong> <ul><li>Knowledge of or experience with:</li><ul><li>C# and Python</li><li>.NET Core</li><li>Diagnostic equipment or services in the life sciences industry</li><li>Device interfacing, e.g., robot, laser, motion control, sensors<br></li></ul></ul><strong><u>Personal And Professional Attributes<br></u></strong><ul><li>You believe in quality code and an agile software process with an emphasis on automated testing </li><li>You are self-motivated with a growth mindset</li><li>You thrive in a culture of diversity and inclusivity, where individual perspectives are valued<br></li></ul>\u202f<br><br>All qualified applicants will receive consideration for employment without regard to race, sex, color, religion, national origin, protected veteran status, or on the basis of disability, gender identity, and sexual orientation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:06:25.000Z"
+  },
+  "company": {
+    "name": "Pacific Biosciences",
+    "link": "https://www.linkedin.com/company/pacific-biosciences"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

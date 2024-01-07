@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer II - Customer Platform",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "<strong><u>About The Role<br><br></u></strong>Engages with stakeholders across teams to lead the development and maintenance of backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.<br><br><strong><u>About The Team<br><br></u></strong>The Customer Platform team is seeking a Senior Backend Engineer II with experience building high scale services and platforms, as well as experience working with customer systems and data modeling. As an engineer on the Customer Platform team, you'll be responsible for designing, data modeling and developing the next-generation customer platform for Uber which has 1M+ QPS.<br><br>You have to be partners with stakeholders and leads team efforts to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.<br><br><strong><u>Minimum Qualifications<br></u></strong><ul><li>PhD or equivalent in Computer Science, Engineering, Mathematics or related field AND 2-years full-time Software Engineering work experience OR 5-years full-time Software Engineering work experience, WHICH INCLUDES 3-years total technical software engineering experience in one or more of the following areas:</li><li>Programming language (e.g. C, C++, Java, Python, or Go)</li><li>Note the 3-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated. <br></li></ul><strong><u>Required<br><br></u></strong><strong>Technical skills:<br></strong><ul><li>Distributed systems<br></li></ul><strong><u>Preferred<br></u></strong><ul><li>Product engineering</li><li>Scalability engineering<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:22:29.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 167000,
+    "max_value": 225000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pacifica",
+    "region": "CA",
+    "postal_code": "94045",
+    "street_address": null,
+    "latitude": 37.613724,
+    "longitude": -122.48571
+  }
+}

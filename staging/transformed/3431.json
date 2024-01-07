@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>This is an amazing opportunity to join a rapidly growing company that offers great benefits and growth opportunities.</p><p><br></p><p><strong>Minimum Qualifications:</strong></p><ul><li>3+ years of experience developing and applying deeplearningmodels </li><li>1+ year programming experience with Python and Pythonmachinelearningframeworks (e.g., TensorFlow, PyTorch, Sklearn, NLTK)</li></ul><p><br></p><p><strong>Nice If You Have:</strong></p><ul><li>Graduate degree or publication record in a relevant field</li><li>Strong knowledge of CS fundamentals (compilation, assembly / low-level programming, operating systems, etc.)</li><li>Familiarity with common approaches in NLP (word embeddings, language models, sequence-to-sequence models, syntax parsing, etc.)</li><li>Applied research experience</li></ul><p><strong>Clearance / US Citizen:</strong></p><ul><li>Active DoD Secret security clearance required</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T19:47:13.000Z"
+  },
+  "company": {
+    "name": "StevenDouglas",
+    "link": "https://www.linkedin.com/company/stevendouglashq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Semiconductors,Telecommunications,Medical Devices",
+    "description": "<strong><u>Duties<br><br></u></strong><strong>Job Description:<br></strong><ul><li>You will join the department of AI/Client within Research Biology.</li><li>You will collaborate with scientists working on different areas of machine learning and the life sciences.</li><li>You will closely collaborate with machine learning scientists, computational chemists and bioinformaticians across departments in the organization.</li><li>You will develop and deploy deep learning methods for representation learning of small molecules and prediction of chemical properties.</li><li>The work will also involve software development, infrastructure and hardware optimizations, data pipelining, and innovations to implement robust AI solutions for real world use cases.<br></li></ul><strong><u>Skills<br></u></strong><ul><li>Demonstrated experience with deep learning frameworks and models (PyTorch is preferred).</li><li>Proficient in Python.</li><li>Demonstrated experience in software development, GPU acceleration, model optimization and scaling for multiple server nodes.</li><li>Excellent communication and collaboration skills.<br></li></ul><strong><u>Education<br></u></strong><ul><li>MSc or PhD degree in a quantitative field (e.g. Computer Science, Computational Chemistry, Machine Learning, Statistics, Mathematics, Physics).</li><li>Industry experience as data scientist or Client engineer in a healthcare company.</li><li>Experience in deep learning for graph-based and/or sequence-based data.</li><li>Experience in deep learning for small molecules.</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T08:18:44.000Z"
+  },
+  "company": {
+    "name": "PamTen Inc",
+    "link": "https://www.linkedin.com/company/pamteninc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "South San Francisco",
+    "region": "CA",
+    "postal_code": "94083",
+    "street_address": null,
+    "latitude": 37.65568,
+    "longitude": -122.41248
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are growing rapidly and we are looking for a Machine Learning Engineer to help us analyze data and create and deploy tools utilizing both high-level ML models and deep learning methods and approaches. We leverage these tools to create bots that learn how to navigate and explore mobile apps. These bots can be tuned to hunt for OS crashes/software bugs, check the app for usability issues, or simply learn how to use the app like a normal human user would. We are looking for creative-thinking AI experts that can help us innovate the world of testing with the latest advances in AI.<br><br>Job Responsibilities<br><ul><li>Designing new classification models and augmenting classification features that can help improve our existing machine learning models.</li><li>Designing and implementing data collection pipelines.</li><li>Modeling techniques and fine-tuning parameters for reinforcement learning agents.</li><li>Designing and developing service-based ML/AI platform to power the core platform as it scales to meet our rapidly growing customer base.</li><li>Keeping up with the latest advancements in ML/AI with frequent discussions and collaborations.<br></li></ul>Job Requirements<br><ul><li>MS in Computer Science, Computer Engineering, or equivalent experience, or PhD in a STEM field.</li><li>Proficiency in Python including familiarity with Matplotlib, NumPy, pandas, scikit-learn, and TensorFlow or PyTorch libraries.</li><li>A vast knowledge of Machine Learning algorithms and the ability to apply them appropriately and in the correct contexts.</li><li>3+ years experience building large scale ML or data pipeline systems.</li><li>Ability to balance priorities and execute projects to completion while either working alone or within a team<br></li></ul>Nice to Haves<br><ul><li>Experience with cloud computing platforms, such as AWS, GCP, or Azure.</li><li>Experience building, deploying, and monitoring services using a microservices architecture.</li><li>Experience in Quality Assurance as a tester, QA engineer, automation engineer, or similar role.</li><li>Experience with CI/CD tools such as TeamCity and Concourse.<br><br></li></ul><strong>Test.AI is an Equal Opportunity Employer <br></strong><ul><li>Test.ai provides Equal Employment Opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</li><li>We celebrate diversity and are committed to creating an inclusive environment for all employees.<br></li></ul>Powered by JazzHR<br><br>fBIU9DVfet",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-19T07:51:57.000Z"
+  },
+  "company": {
+    "name": "test.ai",
+    "link": "https://www.linkedin.com/company/test.ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99400,
+    "max_value": 217000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

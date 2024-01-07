@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Civil Engineering",
+    "description": "<strong><u>Peraton Overview<br><br></u></strong><strong>Peraton Labs<br><br></strong>Peraton Labs generates transformative applied research to fuel solutions for our customers unique challenges. We are a self-sustaining research center within Peraton that provides applied research and engineering to enable government agencies, utilities and commercial enterprises to fully exploit the future of communications, analytics and cyber security.<br><br><strong>Peraton<br><br></strong>Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the worlds leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the cant be done, solving the most daunting challenges facing our customers.<br><br>We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.<br><br>As a government contractor, Peraton abides by the following provision<br><br><strong>Pay Transparency Nondiscrimination Provision<br><br></strong>The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of the other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractors legal duty to furnish information. 41 CFR 60-1.35(c).<br><br><strong><u>Responsibilities<br><br></u></strong>Peraton has an exciting opportunity for a Machine Learning Software Engineer to aid on the development of machine learning models and the software that is needed for the training and deployment of these machine learning model. In addition, the qualified candidate will engineer both structure and unstructured data that will be fed to and taken from the machine learning models. Because the qualified candidate will be working closely with the Data Scientist, the candidate must have general understanding of machine learning. This position is located onsite at Picatinny Arsenal, NJ.<br><br><strong><u>Qualifications<br></u></strong><ul><li>Bachelor's Degree in Physics, Mathematics, Electrical, Computer, or Software Engineering</li><li>3 -5 years experience developing machine learning models in areas such as classification from video, object detection and classification, and reinforcement learning.</li><li>Experience with machine learning algorithms such as Neural Networks, Boosting algorithms, Decision Trees, etc.</li><li>Software development experience in Python and/or C++ Experience in software design and development Experience with TensorFlow and other machine learning libraries</li><li>Broad knowledge in current machine learning techniques and ability to adapt novel techniques to research questions<br></li></ul><strong><u>Preferred Skills<br></u></strong><ul><li>Familiarity with reinforcement learning and computer vision techniques would be a plus</li><li>Good Communication and Presentation skills are a plus.</li><li>Experience with Linux is highly desirable.<br></li></ul><em><strong> The successful candidate must be a U.S. Citizen and possess and be able to maintain a DOD Secret Security Clearance as a qualification and condition for employment.</strong></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T16:01:50.000Z"
+  },
+  "company": {
+    "name": "Peraton Labs",
+    "link": "https://www.linkedin.com/company/perspectalabs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wharton",
+    "region": "NJ",
+    "postal_code": "07885",
+    "street_address": null,
+    "latitude": 40.90535,
+    "longitude": -74.57993
+  }
+}

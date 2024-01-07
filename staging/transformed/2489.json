@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p><strong>Data Scientist</strong></p><p><strong>Location -California</strong></p><p><br></p><p><br></p><p><strong>Requirements</strong></p><p><br></p><p>Strong knowledge of Python and general software development skills (source code management, debugging, testing, deployment, etc.).</p><p>Strong understanding of text pre-processing and normalization techniques, such as tokenization, and POS tagging.</p><p>Ability to design NLP pipelines to meet customer requirements</p><p>Familiarity with different approaches for training entity tagging models (e.g. CRF, RNN, CNN, Transformer).</p><p>Experience with asynchronous programming is a plus.</p><p>Familiarity with deep learning frameworks such as Tensorflow and Pytorch a plus.</p><p>Familiarity with computer vision deep learning algorithms a plus (CNN, RCNN)</p><p>BS, MS and/or PhD in Mathematics, Physics, etc.</p><p>Interested candidates kindly mail their resume at career@kalongens.com</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T07:51:31.000Z"
+  },
+  "company": {
+    "name": "KalonGens",
+    "link": "https://www.linkedin.com/company/kalongens"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

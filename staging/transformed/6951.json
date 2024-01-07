@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Intern",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Summer 2022 College Internship<br><br>Developers at MIM Software work alongside industry experts and leading clinicians across the world. We solve complicated problems in innovative teams and gain a solid clinical perspective on medical imaging and the departments that use it while on-the-job. We\u2019re looking for passionate interns with great communication skills who can excel in our flexible, highly team-centered work environment.<br><br>AREAS OF FOCUS<br><br>MIM - Our flagship software platform, based around a Java core, uses techniques such as image deformation, image segmentation, and statistical analysis to solve the problems faced by today\u2019s medical professionals. If you\u2019re interested in creating elegant software solutions to difficult, real-world problems at lightning speed, MIM is for you \u2014 no prior medical knowledge required.<br><br>MIMcloud - Medical images need to get from Point A to Point B. That\u2019s where MIMcloud comes in. MIMcloud engineers apply web technologies like Google App Engine, GWT, Bootstrap, HTML, CSS, and JavaScript to break down the borders between institutions, doctors, and patients, all while maintaining security, privacy, and usability.<br><br>MIMsoftware.com - More than just marketing, our front-facing website is our primary method of customer engagement for support and training. Built on the Play! Framework and utilizing Java, Scala, and Twirl with a PostgreSQL backend, MIMsoftware.com is the virtual window into the world of MIM.<br><br>CORE - MIM Software moves too fast to settle for hiring consultants and purchasing ERP systems. Our business runs on CORE, our in-house system to manage our sales, support, product development, and regulatory-compliant testing. Running on MariaDB, Ruby on Rails, and great ideas from all over the company, CORE development is fast, flexible, and fun.<br><br>Web Clinical Data Solutions - Our next-gen suite of tools to unite clinical data for uses beyond image processing, such as analytics, peer review, and decision support. These tools are web deployed using the Play! Framework for Java, Scala Twirl templates, a PostgreSQL database, and Docker containers as the hosting environment, with a rich UI built using Bootstrap, React.js, and Typescript.<br><br>Algorithms Research - Medical image processing takes research and development. By working alongside the scientists on our Algorithms Research Team, software engineers on the team research new technologies, implement prototypes, and build tools and infrastructure for large-scale data analysis.<br><br><strong> What You'll Do <br></strong><ul><li>Develop complex algorithms for image analysis and business logic Improve user experience </li><li>Work within specifications to meet project objectives in a timely manner </li><li>Communicate with peers and customers </li><li>Work with project team members under an agile development process </li><li>Adhere to quality and design control procedures specific to the medical device market</li></ul>WHAT YOU'LL NEED:<br><ul><li>Pursuing a bachelor\u2019s or master\u2019s degree in one of the following majors: computer science, computer engineering, mathematics, biomedical engineering, electrical engineering, or physics </li><li>Required skills include general problem-solving, strong analytical thinking, and an aptitude for math and science</li><li>Experience with technologies we use preferred but not required</li></ul>TECHNOLOGIES WE USE<br><br>Ruby on Rails\u00ae<br><ul><li> MariaDB\u00ae</li><li> JavaScript</li><li> Java\u2122</li><li> Google Web Toolkit\u2122</li><li> Google App Engine\u2122</li><li> MongoDB</li><li> Apple\u00ae iOS</li><li> OpenCL</li><li> Python\u2122</li><li> Tensorflow</li><li> Docker</li><li> MATLAB</li><li> CUDA</li></ul>",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-31T17:08:51.000Z"
+  },
+  "company": {
+    "name": "MIM Software Inc.",
+    "link": "https://www.linkedin.com/company/mim-software-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beachwood",
+    "region": "OH",
+    "postal_code": "44122",
+    "street_address": null,
+    "latitude": 41.479305,
+    "longitude": -81.49784
+  }
+}

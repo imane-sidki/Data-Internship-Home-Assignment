@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Insurance,Health, Wellness and Fitness,Information Technology and Services",
+    "description": "<p>Our health system is broken, and it\u2019s a huge problem. Costs are rising out of control while the patient experience gets worse. To make big improvements, we need innovative solutions that make great care available at affordable levels. At Sana, we are passionate about fixing this problem.</p><p><br></p><p>To do this, we have built a new kind of health plan from scratch for employers and their employees. Our customers can offer rich benefits to attract and retain top talent while paying less than traditional plans. Sana uses proprietary technology to cut out waste and a novel financing structure that gives companies money back when claims are low, saving up to 20% on total costs.</p><p><br></p><p>Sana is looking for a Senior Site Reliability Engineer (SRE) to join our small but growing team. As a successful candidate, you will lead, define, and initiate our site reliability initiative. If you are somebody who loves to build systems that scale, can help bridge the gap between product development and operations, and also has experience providing visibility into mission-critical services while automating insight we would love to talk with you! Your daily responsibilities will include working cross-functionally to ensure our systems are reliable, scalable, and available. You will spend time identifying and solving mission-critical problems, improving developer productivity, and providing solutions that help ensure they do not reoccur.</p><p><br></p><p>We are building a distributed engineering team and encourage all applicants to apply, regardless of location. </p><p></p><p><br></p><p><strong>What you will do</strong></p><ul><li>Partner with our product development team to help ensure availability, performance, maintainability, and security of our systems</li><li>Work closely with our Director of Information Security on relevant issues including disaster recovery, incident response, and change management of our software systems</li><li>Develop and/or implement visualization tools providing insight into the health of our systems and infrastructure uptime</li><li>Collaborate with product and engineering team to propose features and solutions that help to address recurring internal as well as customer issues</li><li>Engage in software performance analysis, stress testing, and capacity planning with software engineers, while enhancing SLO\u2019s</li><li>Help to refine on-call policies, monitor systems for vulnerabilities and potential incidents</li><li>Advise and improve our Continuous Integration and Delivery (CI/CD) pipeline while contributing to projects and architectural discussions</li></ul><p><br></p><p><strong>About you</strong></p><ul><li>Minimum of 5 years relevant, hands-on professional experience</li><li>Experienced technologist and effective communicator of complex ideas and topics</li><li>You believe that nothing is complete unless it\u2019s not being measured and monitored</li><li>You have a strong team and collaboration mindset</li><li>Experience in AWS cloud services environments</li><li>Facile using infrastructure as a service (Iaas) and platform as a service (PaaS)</li><li>Comfortable with custom release software that leverages tooling (git, CircleCI, custom scripts, Docker)</li><li>Relevant software development experience, capable of blending an SRE and development mindset</li></ul><p><br></p><p><strong>Nice to Have</strong></p><ul><li>Have worked in a regulated industry such as healthcare</li><li>AWS Cloud certification(s)</li></ul><p><br></p><p><strong>Tech we use</strong></p><ul><li>AWS</li><li>Redshift</li><li>Postgres</li><li>Mode</li><li>Rails</li><li>React</li><li>Docker</li><li>Elasticsearch</li><li>Git</li></ul><p><br></p><p><strong><u>About Sana</u></strong></p><p>Sana is a modern health plan solution for small and medium businesses. We use a more efficient financing structure and integrated technology solutions to cut out wasteful spending and get members access to better quality care at lower cost. Founded in 2017, we are an experienced team of engineers, designers and health system operators. We have the financial backing of Silicon Valley venture firms and innovative reinsurance partners. If you are excited about building something new and being a part of fixing our broken healthcare system from the inside, please reach out!</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:08:45.000Z"
+  },
+  "company": {
+    "name": "Sana",
+    "link": "https://www.linkedin.com/company/sana-benefits"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

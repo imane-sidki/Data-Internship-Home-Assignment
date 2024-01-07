@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Linux",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We\u2019re working to find new and better ways to help businesses succeed on their own terms\u2014and we\u2019re looking for people like you to help shape tomorrow at Square.<br><br><strong><u>Job Description<br><br></u></strong>The Client Platform Engineering team owns the management of the devices Squares use every day to develop remarkable solutions. This platform includes the laptops, desktops, and mobile devices used by Squares, as well as the services that allow us to onboard new Squares, and to keep those devices healthy, and secure.<br><br>You will help build platform automation, configuration management, and service administration. You have a knowledge of LinuxOS toolsets, and has proven experience managing the life cycle of employee device fleets. You will collaborate within your team, and peer teams, contributing code, discussing design decisions, and developing new tooling. There will be autonomy to oversee projects from end to end which includes: architecting solutions, writing and presenting peer-reviewed design documents, and overseeing the deployment and support of all platform services.<br><br><strong><u>You Will<br></u></strong><ul><li>Develop strategies and code on client LinuxOS endpoints in laptop, desktop, and virtual form.</li><li>Work with enterprise and open source software using the Python language.</li><li>Architect and debug deployments of operating system upgrades, security patches, and software updates within a CI workflow using Jenkins or Github Actions.</li><li>Analyze system metrics to identify and address problematic machines.</li><li>Partner with Infrastructure teams to build and deploy client platform services.</li><li>Create and deploy Chocolatey packages, with proper testing and slow roll out to a fleet of thousands of endpoints.</li><li>Work with security teams to keep Squares safe.</li><li>Use Configuration Management to enforce state on diverse device platforms, including cloud and virtual.</li><li>Securely transmit heartbeat data to reporting services. </li><li>Participate in code and change management reviews.</li><li>Work in an Agile environment focusing on bi-weekly sprints that lead to project-based work completion (OKR&apos;s).<br><br></li></ul><strong><u>You Have<br><br></u></strong><strong>Qualifications<br></strong><ul><li>3-5+ years experience working in a professional IT Engineering environment.</li><li>Experience with at least one high-level programming language (e.g. Python, Ruby, Go, or Swift)</li><li>Experience managing and communicating the deployment of changes to production environments.</li><li>A security mindset and experience using open source and enterprise tooling.</li><li>Independently developed solutions and made technical recommendations, applying automation.</li><li>Led conversations in engineering designs, deployment strategies, and daily operation with peers and collaborators across Square.</li><li>Working knowledge of the following technologies: Git, Salt, Azure, MDM, Osquery, CI/CD, Zero-Trust Networking, Docker, Cloud Infrastructure.<br><br></li></ul><strong><u>Additional Information<br><br></u></strong>At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible.<br><br><strong>Perks<br><br></strong>At Square, we want you to be well and thrive. Our global benefits package includes:<br><ul><li>Healthcare coverage</li><li>Retirement Plans</li><li>Employee Stock Purchase Program</li><li>Wellness perks</li><li>Paid parental leave</li><li>Paid time off</li><li>Learning and Development resources<br><br></li></ul><em>Square, Inc. (NYSE: SQ) builds tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in person, manage their business, and access financing. Individuals use Cash App to spend, send, store, and invest money. And TIDAL is a global music and entertainment platform that expands Square&apos;s purpose of economic empowerment to artists. Square, Inc. has offices in the United States, Canada, Japan, Australia, Ireland, Spain, Norway, and the UK.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T18:20:53.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 143000,
+    "max_value": 247000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

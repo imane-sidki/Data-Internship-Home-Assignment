@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Internet,Online Media,Information Technology and Services",
+    "description": "<p><strong>Who Is TikTok?</strong></p><p><br></p><p>TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo. </p><p><br></p><p><strong>Who You Would Work With:</strong></p><p><br></p><p>TikTok is one of the fastest-growing apps globally, and we\u2019re looking for Machine Learning Engineers to join our Ads Core team to support that growth and help us empower creators, connect people, and explore possibilities. </p><p><br></p><p>Our Ads Core team is a platform team that develops state-of-art Ads technologies, including ranking, retrieval, targeting, bidding, auction, etc., for the Ads system that empowers billion-dollar business. </p><p><br></p><p>Personalized online advertising is a major revenue source for Internet companies nowadays. It is one of the most attractive fields in the Internet industry for top talents interested in solving exciting technical challenges, e.g., increasing monetization efficiency, improving Ads experience for users, and bringing a better return on investment (ROI) for advertisers. </p><p><br></p><p><strong>What Would You Do: </strong></p><p><br></p><p>\u2022 Build highly scalable machine learning systems/models to improve ads ranking quality. Relevant model types include but are not limited to predicted user negative feedback model, predicted user survey model and predicted user retention model. </p><p><br></p><p>\u2022 Explore, develop and experiment with new features to improve model accuracy. \u2022 Understand ads platform objectives and take full advantage of modern machine learning to improve ads relevance, quality, and quantity delivered to end-users. </p><p><br></p><p>\u2022 Develop core systems and algorithms, including ads query understanding, ads targeting, ads ranking, model serving reliability, etc.</p><p><br></p><p><strong>What You'll Need: </strong></p><p><br></p><p>\u2022 BS/MS degree in Computer Science, Computer Engineering, or other relevant majors. </p><p><br></p><p>\u2022 Solid programming skills, proficient in C/C++ and Python. </p><p><br></p><p>\u2022 Familiar with basic data structure and algorithms.  </p><p><br></p><p>\u2022 Have essential knowledge and skills in statistics. </p><p><br></p><p>\u2022 Familiar with architecture and implementation of at least one mainstream machine learning programming framework (TensorFlow/Pytorch/MXNet), familiar with its architecture and implementation mechanism.</p><p><br></p><p><strong>Bonus Points If You Have:</strong></p><p><br></p><p>\u2022 Good understanding in one of the following domains: ads bidding &amp; auction, ads quality control, and online advertising systems (familiar with one or more of these terms: CPC/CPM, CTR/CVR, Ranking /Targeting, Conversion/Budget, Campaign/Creative, Demand/Inventory, DSP/RTB). </p><p><br></p><p>\u2022 Experience in resource management and task scheduling with large scale distributed software (such as Spark and TensorFlow). </p><p><br></p><p>TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. </p><p><br></p><p>At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T16:11:28.000Z"
+  },
+  "company": {
+    "name": "TikTok",
+    "link": "https://www.linkedin.com/company/tiktok"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

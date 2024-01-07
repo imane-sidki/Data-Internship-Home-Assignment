@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Quality Assurance / Test",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Description<br><br></u></strong>Open Systems International, Inc. (OSI) www.osii.com is a fast-paced, growing, high technology company, headquartered in Medina, Minnesota. As a world leader in the Operations Technology (OT) field, OSI develops and supplies state-of-the-art energy management, optimization and control software solutions to energy utility companies worldwide.<br><br><strong><u>In This Position You Will Have The Following Responsibilities<br><br></u></strong>In this position you will focus on system verification of software produced by our Development group using manual and automated testing. All of this is done using the latest technologies in a fast-paced, collaborative environment at our forward-looking company. Specific on-the-job training will be provided.<br><ul><li>Use manual and automated test procedures to identify high-impact problems.</li><li>Assist in the creation and execution of resolution plans.</li><li>Author, execute and maintain test procedures, automated test scripts and code.</li><li>Design, develop, implement and improve various test methodologies, plans and test automation.</li><li>Review defect descriptions, requirements, and designs to incorporate into test plans.</li><li>Maintain customer test environments to replicate real-world test scenarios.<br></li></ul><strong><u>Requirements<br><br></u></strong><strong>Minimum<br></strong><ul><li>Bachelor's degree in Computer Science, Software Engineering or related technical field.</li><li>Proficient with Linux, Windows, UNIX environments.</li><li>System Administration experience (small system or personal networks is okay).</li><li>Understanding of manual and automated testing best practices.</li><li>High level scripting skills (Python, Perl, Shell scripting).</li><li>Understanding of Configuration Management.</li><li>Proficient in a source control system (CVS, Subversion, Git, etc.).</li><li>Innate desires to automate, monitor and continually improve everything in sight.<br></li></ul><strong><u>Preferred<br></u></strong><ul><li>Master's degree in Computer Science, Software Engineering or related technical field.</li><li>Experience with different database technologies (SQL, Cassandra, MongoDB).</li><li>Knowledge of tool building and automation.</li><li>Capability to maintain Windows/Linux/UNIX Servers.</li><li>Experience in server virtualization, especially VMWare and VSphere.</li><li>General networking skills (Layer 2 &amp; 3 switches, TCP/IP, SNMP, etc.).<br></li></ul><strong><u>Benefits<br><br></u></strong>OSI offers a comprehensive benefit package including health, dental, life and disability insurance, 401(k) matching, bonuses, profit sharing and a generous amount of paid time off and paid holidays. Additional perks include casual dress code, flexible work hours, free beverages, employee events, onsite fitness center, exciting travel opportunities, employee referral bonus programs, and monthly birthday and anniversary celebrations. Check out our <strong>Life at OSI </strong>Facebook page to see more.<br><br>As an employee of OSI you will have access to cutting edge technologies in a fun, professional, positive and dynamic work environment. We have excellent opportunities for growth and development.<br><br>Discover your future. Discover OSI.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T12:52:13.000Z"
+  },
+  "company": {
+    "name": "Open Systems International",
+    "link": "https://www.linkedin.com/company/open-systems-international"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65700,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Medina",
+    "region": "MN",
+    "postal_code": "55340",
+    "street_address": null,
+    "latitude": 45.01901,
+    "longitude": -93.58608
+  }
+}

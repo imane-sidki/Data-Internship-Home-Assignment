@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services",
+    "description": "<p>The <strong>Data Scientist</strong> is responsible for providing data, analysis, statistical modeling, and machine learning capabilities to inform key business initiatives. This role will deliver models to optimize marketing spend, create personalized engagement, drive product, customer, and operations analytics for both our tax preparation and wealth management businesses.</p><p><br></p><p>    <strong>ESSENTIAL DUTIES AND RESPONSIBILITIES</strong></p><p>  </p><p>Major responsibilities of the position are listed below.To perform the job successfully, the individual must be able to execute each essential duty satisfactorily. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p><ul><li>Develop statistical models to include LTV, lead scoring, segmentation, and churn to drive FP / Client engagement, retention and marketing spend optimization</li><li>Partner closely with Marketing, Product, BD, Growth and Operations teams to deliver analytical models / solutions aligned with business priorities </li><li>Build foundational analytics using modern data science techniques, machine learning and NLP</li><li>Support design and execution of A/B testing and experimentation</li><li>Perform end to end statistical modeling with a high level of accuracy:</li><li>Assembling and cleansing of data for modeling purposes.</li><li>Write and interpret complex SQL queries.</li><li>Model selection, build and testing</li><li>Partner with Data Engineering team to automate and deploy machine learning models.</li><li>Summarize and report key analytical findings and recommendations in both oral and written form to various technical and non-technical teams</li><li>Forward thinking mindset to continually evolve and drive predictive capabilities to inform key business decisions and drive action</li></ul><p>\u00b7Other job duties as defined.</p><p></p><p><strong>Education and Experience</strong></p><p>  </p><ul><li>Bachelor\u2019s degree in a quantitative discipline (e.g. business, statistics, economics, physics, engineering); Master\u2019s degree preferred. </li><li>Minimum of 2-5 years hands-on experience in analysis and modeling of large complex datasets; Wealth management or financial services experience preferred </li><li>Fluency in SQL and experience with Big Data</li><li>Expertise in a programming language (Python, R, SQL) for statistical analysis.</li><li>Expertise with statistical modeling techniques such as regression, classification, hypothesis testing and unsupervised learning</li><li>Hands-on experience with optimization, data mining or machine learning</li><li>Strong Excel and data visualization skills</li><li>Ability not just to retrieve and present data, but to draw conclusions and make recommendations</li><li>Experience working for a technology or internet company</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T15:20:26.000Z"
+  },
+  "company": {
+    "name": "Blucora",
+    "link": "https://www.linkedin.com/company/blucora"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

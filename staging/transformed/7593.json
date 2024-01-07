@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist, Analytics",
+    "industry": "Computer Software",
+    "description": "<p><strong>This position is open to remote applicants.</strong></p><p><br></p><p>WHAT YOU WILL DO</p><p>\u00b7 Wrangle and analyze large data sets from multiple data sources, including our internal data mesh, third party vendors, and customer feeds</p><p>\u00b7 Provide insights to help business, product, and engineering leaders understand customer needs, trends in malware and malicious/anomalous behaviors, and user and system behaviors</p><p>\u00b7 Find actionable strategic insights in the data, create reports and presentations to summarize findings, and partner with product managers and executives to inform and influence strategic decisions</p><p>\u00b7 Work with product and expert teams to define and evaluate key product metrics</p><p>\u00b7 Build, operationalize, and automate analytics assessments and reports using SQL and Python within a cloud-based infrastructure</p><p>\u00b7 Act as a leader across analytics efforts in BB\u2019s cybersecurity division, fostering best practices for analytics and data (efficiency, robustness, integrity, quality, standardization, automation, etc) across all internal analytics, engineering, and product teams</p><p><br></p><p>QUALIFICATIONS</p><p>\u00b7 Master\u2019s degree in Mathematics, Statistics, Computer Science, or other quantitative field</p><p>-7 years of experience with a Bachelor or 5+ years with a Masters, of experience in data analytics or related quantitative role (2+ years with a PhD)</p><p>\u00b7 Expertise in SQL and development experience with Python</p><p>\u00b7 Experience working with large data sets using distributed computing tools (Hadoop, Hive, Spark, etc) in a cloud environment</p><p>\u00b7 Deep understanding of statistical methods and applications (hypothesis testing, probability, regression, experimentation)</p><p>\u00b7 Great verbal and written communication skills and the ability to communicate the results of analyses to both technical and non-technical audiences</p><p>\u00b7 Strong skills in problem solving, organization, and critical thinking</p><p><br></p><p>ABOVE AND BEYOND</p><p>\u00b7 Doctorate in Mathematics, Statistics, Computer Science, or other quantitative field</p><p>\u00b7 Experience employing machine learning algorithms (e.g., time series, clustering, anomaly detection, etc) on real world problems</p><p>\u00b7 Mentoring experience within an analytical environment</p><p>\u00b7 Experience in cybersecurity</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:39:08.000Z"
+  },
+  "company": {
+    "name": "BlackBerry",
+    "link": "https://ca.linkedin.com/company/blackberry"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

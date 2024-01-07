@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Retail",
+    "description": "<p><strong>POSITION SUMMARY</strong></p><p>Kroger\u2019s Health &amp; Wellness organization has an open fulltime position for Senior Site Reliability Engineer.Kroger Health &amp; Wellness is one of America\u2019s leading retail healthcare organization, with 2,300 pharmacies and 11 specialty pharmacies, and 200 clinics.Candidates care deeply about the technical side of operations and making sure that everything is running smoothly for over 22,000 healthcare professionals and 13 million customers.Our vision is to help people live healthier lives.</p><p><br></p><p>The Senior Site Reliability Engineer is responsible for ensuring operations for infrastructure and application solutions are reliable and sustainable by incorporating automation towards installation and configuration of entire technology stack as well as the deployment of code throughout the development life cycle.The engineer is passionate about full stack visibility, a broad knowledge in application, databases, servers, virtualization, networking and requires extensive automation. The engineer will be responsible for all aspects of environment planning including: capacity management, monitoring, scalability, auditing, disaster recovery, and interoperability. The role is responsible for assisting with design and implementation of new technologies to replace legacy systems and processes.Bring your passion and dedication to work with an amazing team to quickly turn ideas into great product.</p><p><br></p><p><strong>ROLE DESCRIPTION</strong></p><ul><li>Develop tools to identify reliability risks, monitor application growth and triage production issues.</li><li>Coordinate with infrastructure and platform teams on regular maintenance, improve availability, scalability, and performance of the environment.</li><li>Collaborate with product teams and work cross-functionally with IT and vendors to implement the infrastructure required to support application use cases.</li><li>Actively engage with internal teams to develop tooling, framework to drive full observability and automation of the environment.</li><li>Ensure adherence to architecture standards and roadmaps.</li><li>Design and successfully implement overall infrastructure / middleware components per project with infrastructure teams, ensuring that overall solution is designed to meet SLA (performance and up-time), DR, and scalability needs required by the solution.</li><li>Ensure that post-production operational processes / deliverables are well designed and implemented prior to the project moving into the solution support phase.</li><li>Define and create operational procedures, processes, and scripts.</li><li>Assist in the evaluation, selection, and implementation of new technologies with infrastructure teams to ensure adherence to architecture guidelines for new technology introduction.</li><li>Evaluate vendor technical and support capabilities.</li><li>Provide technical leadership on establishing standards and guidelines.</li><li>Design, manage, and govern capacity across all technical stacks of the application or system including cloud environments.</li><li>Configure and monitor cloud infrastructure and services as it pertains to the application's hardware and business processes.</li><li>Facilitate collaboration between development and operations teams throughout the application lifecycle.</li><li>Partner with Corporate Information Security to ensure all security policies and audit inquiries are addressed.</li><li>Coordinate and align all other technology teams to ensure operational delivery processes are governed and monitored to expedite issue remediation</li></ul><p></p><p><strong>REQUIREMENTS</strong></p><ul><li>3 to 5 years of experience designing and implement CI/CD automations, performance tuning, and scaling applications.</li><li>3 to 5 years of experience with open-source technologies and cloud services preferably Azure</li><li>Excellent working knowledge of IT systems environments \u2013 operating systems, networking, applications, platforms, and databases.</li><li>Experience with test-driven development, releases management, Agile methodologies, Unix, Linus, Apache, Java, Perl, or PHP.</li><li>Familiarity with common database technologies MS SQL Service, PostGreSQL, or Oracle (preferred)</li><li>Experience with configuration management system (Puppet, Chef, CFEngine, etc.)</li><li>Knowledge of development methodologies (Agile, Kanban, Scrum) across various technologies.</li><li>Ability to work in an environment that follows ITIL processes and procedures</li><li>Experience with continuous integration methodologies and tools (TeamCity, GitLab, Jenkins)</li><li>Experience with one or more general purpose programming languages including but not limited to: Python, JavaScript, Java, C/C++, C#, or Go.</li><li>Self-motivated individual that possesses excellent time management and organizational skills</li><li>Strong sense of personal responsibility and accountability for delivering high quality work, both personally and at a team level.</li><li>Collaborate with various team members to secure data (HIPPA, PI, and PCI)</li><li>Great communication skills as this will be facing internal/external users.</li><li>Excellent written and verbal communication skills</li></ul><p><br></p><p><strong>MINIMUM QUALIFICATION/EDUCATION</strong></p><ul><li>B.S. or M.S. in Computer Science, Software Engineering, or comparable</li><li>5+ years of experience in administrative management of technical teams and/ or extended staff</li><li>2+ years of experience in technical support and troubleshooting of multiple systems including:cloud native applications, interface engines, J2EE applications and complex distributed systems.</li><li>2+ years of experience supporting a Cloud application, preferably Azure</li><li>Comfortable managing team members with different skill sets and technical areas of focus and expertise.</li></ul><p></p><p><strong>BONUS POINTS</strong></p><ul><li>Microsoft Azure Certification</li><li>Experience in retail or healthcare industries</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T14:01:35.000Z"
+  },
+  "company": {
+    "name": "Kroger",
+    "link": "https://www.linkedin.com/company/kroger"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

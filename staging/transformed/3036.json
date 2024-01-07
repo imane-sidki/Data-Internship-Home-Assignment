@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Detailed Job description:<br><br>\u00a0<br><br>Title: Software Engineer<br><br>Location: Santa Clara, CA 95051 (Remote)<br><br>Duration: 6 Months (Possible Extension)<br><br>\u00a0<br><br>Job Description:<br><br>Join us in this innovative, solutions-oriented environment and you'll take leadership of the development and design of product, process and technological advancements. You'll have lots of opportunity to research new technology, transform concepts and strategies into structured projects and make key technical decisions.<br><br>\u00a0<br><br>Design products and specifies the components that make up the products. Designs and develops products, components, processes, and systems using broad engineering concepts and research techniques. Document research and design specifications. Solves complex and high impact design and development problems including customer application issue of varying scope and complexity. Uses product and customer applications knowledge to determine, define, develop and validate design concepts and methods. May facilitate transition of product design and enhancements to full production/delivery. May lead product definition/system design for complex features or coordinate a small group in feature development and integration.<br><br>\u00a0<br><br>Key Responsibilities<br><br>Client is developing a range of innovative, enterprise and cloud-based software products for the design, analysis and interpretation of genetic data. As a future Senior Software Engineer in our team, we expect you to:<br><br>Maintain, strengthen and improve our Enterprise and Core SaaS Platforms for genomics design and data analysis.<br><br>Lead and drive the technical design and development of new Components, Services & Applications.<br><br>Take ownership in getting code to production and a hands-on approach in troubleshooting when necessary.<br><br>Research, recommend, develop, and implement improvements across the software stack in a pro-active manner.<br><br>Maintain and share expertise in multiple technologies that are used in our software products.<br><br>Reduce broad concepts, business strategies into structured projects.<br><br>Lead the design/delivery of new product/process/service technology advancements; is the key technical contributor.<br><br>Solve complex, high impact design/development problems.<br><br>\u00a0<br><br>Requirements<br><br>Bachelor or Master degree in Computer Science, Software Engineering or similar through experience.<br><br>At least 8 years of relevant experience, preferentially working with Enterprise or Software as a Service products.<br><br>You\u2019re a self-starter, capable of working autonomously and pro-actively. You have a problem-solving attitude, have experience with writing technical documentation, and are able to clearly communicate in English.<br><br>You write high-quality code and always take scalability, robustness and reusability into account when designing software components.<br><br>A solid understanding of Object-Oriented Design and the ability to select the right tool for the job.<br><br>Since we use JavaScript, AngularJS, Java and Python extensively throughout our applications, a proven track record with any of them is considered a big plus.<br><br>An eye for a cohesive user interface, understanding of design principles, usability and experience with the visualization of complex data.\u00a0\u00a0\u00a0<br><br>A knack for decomposition and knowledge of the principles behind service-oriented architecture and/or microservices using REST APIs or RPC frameworks.<br><br>Experience with relational databases such as Oracle, PostgreSQL, knowledge of the benefits for non-relational databases (Elasticsearch, etc.).<br><br>An idea of what the building blocks are of distributed systems (such as queues and message brokers).<br><br>Familiarity with the core tenets of the public cloud: Object Storage, and experience with Amazon Web Services (Amazon S3, EC2).<br><br>Good understanding of Agile practices.<br><br>You have a positive attitude and look for opportunities to collaborate, both within your team, but also within the broader organization. You appreciate a fun and diverse working environment.<br><br>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-07T00:59:06.000Z"
+  },
+  "company": {
+    "name": "LanceSoft, Inc.",
+    "link": "https://www.linkedin.com/company/lancesoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

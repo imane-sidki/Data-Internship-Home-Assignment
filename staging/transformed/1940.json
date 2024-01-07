@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - Data Science Platforms &amp; Infrastructure",
+    "industry": "Financial Services",
+    "description": "Panjiva is a data-driven technology company that uses machine learning to provide powerful search, analysis, and visualization of billions of shipping records from nearly every country in the world. More than 3,000 customers in over 100 countries, ranging from Fortune 500 companies and startups to government agencies and hedge funds, rely on our platform for supply chain intelligence. In global trade, better insight means better decision making and stronger connections between companies and governments across the globe.<br><br>Recognizing Panjiva\u2019s cutting-edge technology, S&amp;P Global acquired Panjiva in 2018. This acquisition has grown our resources, dramatically expanded our access to data, and accelerated our growth plans.<br><br>People are Panjiva\u2019s greatest strength \u2013 join our engineering team as we map out a key part of the world economy!<br><br><strong><u>Job Description<br><br></u></strong>As a data engineer on our team, you will play a key role in developing our next-generation data science infrastructure and underlying core technologies. You will work with Panjiva\u2019s world-class data scientists, analysts, and engineers to create products that solve important real-world business problems in a collaborative, fast-paced, and fun environment.<br><br>You\u2019ll work closely with our data science team to develop new platforms, infrastructure, and tools that will allow for machine learning applications at production scale over ever-growing datasets.<br><br>You\u2019ll design and leverage distributed computing technologies, data schemas, and APIs to construct data science pipelines. In addition, you\u2019ll be expected to participate in augmenting our infrastructure to seamlessly integrate new data sets through constant R&amp;D of the technologies and systems we use.<br><br>Join us in building the next generation of products as we continue to deliver valuable and actionable insights to decision-makers in the $15 trillion global trade industry.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Architect and implement distributed systems that perform complex transformations, processing, and analysis over very large scale datasets</li><li>Develop processes to monitor and automate detection of quality regressions in raw data or in the output of Panjiva\u2019s machine learning models</li><li>Working with our data scientists to turn large-scale messy, diverse, and often unstructured data into a source of meaningful insights for our customers</li><li>Optimizing slow-running database queries and data pipelines</li><li>Helping enhance our search engine, capable of running sophisticated user queries quickly and efficiently</li><li>Building internal tools and backend services to enable our data scientists and product engineers to improve efficiency<br><br></li></ul><strong><u>Compensation/Benefits Information<br><br></u></strong>S&amp;P Global states that the anticipated base salary range for this position is $91,500 to $190,100. Base salary ranges may vary by geographic location.<br><br>This role is eligible to receive S&amp;P Global benefits. For more information on the benefits we provide to our employees, visit <em>https://www.spgbenefitessentials.com/newhires</em><em>.<br><br></em><strong><u>Qualifications<br></u></strong><ul><li>B.S., M.S., or Ph.D. in Computer Science (or a related field) or equivalent work experience</li><li>3+ years of experience working with data-at-scale in a production environment</li><li>Experience designing and implementing large-scale, distributed systems</li><li>Experience in multi-threaded software development (or <em>some </em>form of parallelism)</li><li>Significant performance engineering experience (e.g., profiling slow code, understanding complicated query plans, etc.)</li><li>Solid understanding of core algorithms and data structures, including the ability to select (and apply) the optimal ones to computationally expensive operations over data-at-scale</li><li>Strong understanding of relational databases and proficiency with SQL</li><li>Deep knowledge of at least one scripting language (e.g., Python, Ruby, JavaScript)</li><li>Deep knowledge of at least one compiled language (e.g., Scala, C++, Java, Go)</li><li>Experience developing software on Linux-based operating systems</li><li>Experience with distributed version control systems<br><br></li></ul><strong>Nice-to-Haves<br></strong><ul><li>Familiarity with relational database <em>internals</em> (especially PostgreSQL)</li><li>Proficiency with cloud computing platforms, specifically AWS</li><li>Working knowledge of probability &amp; statistics</li><li>Contributions to open-source software</li><li>Experience building customer-centric products<br><br></li></ul><strong>Grade</strong> (<em>relevant for internal applicants only</em>): 11<br><br>S&amp;P Global is an equal opportunity employer committed to making all employment decisions without regard to race/ethnicity, sex, pregnancy, gender identity or expression, color, creed, religion, national origin, age, disability, marital status (including domestic partnerships and civil unions), sexual orientation, military veteran status, unemployment status, or any other basis prohibited by federal, state or local law. Only electronic job submissions will be considered for employment.<br><br>If you need an accommodation during the application process due to a disability, please send an email to: <strong>EEO.Compliance@spglobal.com</strong> and your request will be forwarded to the appropriate person.<br><br>The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.<br><br>20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority \u2013 Ratings - (Strategic Workforce Planning)<br><br><strong>Job ID:</strong> 257140<br><strong>Posted On:</strong> 2021-03-25<br><strong>Location:</strong> Cambridge, Massachusetts, United States",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:42:37.000Z"
+  },
+  "company": {
+    "name": "S&amp;P Global Market Intelligence",
+    "link": "https://www.linkedin.com/company/s&amp;p-global-market-intelligence"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlottesville",
+    "region": "VA",
+    "postal_code": "22902",
+    "street_address": null,
+    "latitude": 38.031048,
+    "longitude": -78.47416
+  }
+}

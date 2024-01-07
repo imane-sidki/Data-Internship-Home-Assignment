@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Our Company<br><br></u></strong>Changing the world through digital experiences is what Adobe\u2019s all about. We give everyone\u2014from emerging artists to global brands\u2014everything they need to design and deliver exceptional digital experiences! We\u2019re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.<br><br>We\u2019re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!<br><br><strong>The Challenge<br><br></strong>Adobe Stock team is looking for an exceptional Site Reliability Engineer (SRE) to support the innovation we are bringing to the market through microservice and continuous integration/continuous deployment processes. We provide designers and businesses access to hundreds of millions high-quality, curated, royalty-free photos, videos, vectors, illustrations, templates, and 3D assets, for all their creative project needs. Adobe Stock is both a highly interactive web site and as well as integrated right into Adobe\u2019s desktop and mobile apps providing search, browse, and purchase integration. We are a team with the excitement and energy of a startup, but the resources of a large software company committed to providing outstanding value to its customers!<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Build and run large-scale, highly distributed, fault-tolerant systems</li><li>Develop tools and automated solutions in support of hosted services</li><li>Handle and resolve issues raised in the production environment</li><li>Tackle performance, reliability, and scalability issues</li><li>Collaborate with application engineers and train developers as needed<br></li></ul><strong><u>What You Need To Succeed<br></u></strong><ul><li>This SRE position requires strong technical skills, excellent communications and problem-solving skills, and the ability to engage and work well with other teams</li><li>The ideal candidate will have skills and experience operating and supporting Internet hosted applications and protocols</li><li>Build on industry leading infrastructure tools and technologies such as Terraform, Chef, AWS to create tailored solutions solving results-oriented problems at scale<br></li></ul><strong><u>Must Have<br></u></strong><ul><li>BSc in Computer Science or equivalent</li><li>5+ years programming experience with web technologies, infrastructure automation</li><li>Knowledge of the best engineering practices around building high performance, reliable and scalable Web Services</li><li>Experience in administration and automation of Linux Servers, both in cloud and in data centers</li><li>Ability to dig deep, debug and solve problems on distributed systems</li><li>Git proficiency</li><li>Willingness to be part of a team on-call rotation</li><li>Previous experience as a lead or in management, a plus.<br></li></ul><strong><u>Technologies We Use<br></u></strong><ul><li>Amazon Web Services</li><li>New Relic, DataDog, Nagios</li><li>Terraform, Chef</li><li>Python, PHP, bash, Ruby</li><li>Jenkins</li><li>Splunk</li><li>PostgreSQL, ElasticSearch</li><li>NGINX, HAProxy<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T22:01:52.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services,Marketing and Advertising",
+    "description": "<strong><u>Company Description<br><br></u></strong>Epsilon is the leader in outcome-based marketing. We enable marketing that\u2019s built on proof, not promises. Through Epsilon PeopleCloud, the marketing platform for personalizing consumer journeys with performance transparency, Epsilon helps marketers anticipate, activate and prove measurable business outcomes. Powered by CORE ID\u00ae, the most accurate and stable identity management platform representing 200+ million people, Epsilon\u2019s award-winning data and technology is rooted in privacy by design and underpinned by powerful AI. With more than 50 years of experience in personalization and performance working with the world\u2019s top brands, agencies and publishers, Epsilon is a trusted partner leading CRM, digital media, loyalty and email programs. Positioned at the core of Publicis Groupe, Epsilon is a global company with over 8,000 employees in over 40 offices around the world. For more information, visit epsilon.com. Follow us on Twitter at @EpsilonMktg.<br><br><strong><u>Job Description<br><br></u></strong>As a Site Reliability Engineer, you\u2019d proactively monitor and improve end-to-end system performance, identifying deficiencies and potential failures throughout our infrastructure. You will build deep, end-to-end knowledge of the complexity of our platform and continuously create improvements and automation to enhance durability, performance, and maintainability of the platform. You are central to the automation of everything at Epsilon.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Using Full Stack methodologies, develop and maintain scalable alerting, ticketing, and logging tools for debugging and monitoring</li><li>Proactively monitor events, investigate issues, analyze solutions, and drive problems through to resolution using a wide variety of Ops tools and monitoring platforms to gain knowledge, understanding, and enable persistent monitoring of system availability, performance, and capacity</li><li>Maintain our monitoring systems and develop new metrics/monitoring dashboards as additional coverage events become necessary</li><li>Provide support to maintain a high availability environment <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Bachelor\u2019s degree in Computer Science or related field</li><li>Experience with Python, JavaScript, React, Java</li><li>Good understanding of Linux, Bash and shell scripting</li><li>Knowledge of and experience with network stack, protocols, network management and monitoring tools</li><li>Experience with automation tools Puppet, Chef, Docker, Jenkins and/or Ansible</li><li>Knowledge of Docker for container orchestration</li><li>Experience with SQL</li><li>Ability to work collaboratively in a fast-paced environment</li><li>Experience working with Agile methodologies, preferably SCRUM.</li><li>Excited by Big Data technologies and interested in integrating statistics and analytics to make our systems perform even better<br></li></ul><strong><u>Additional Information<br><br></u></strong><strong>Great People, Deserve Great Benefits<br><br></strong>We know that we have some of the brightest and most talented associates in the world, and we believe in rewarding them accordingly. If you work here, expect competitive pay, comprehensive health coverage, and endless opportunities to advance your career.<br><br>Epsilon is an Equal Opportunity Employer. Epsilon\u2019s policy is not to discriminate against any applicant or employee based on actual or perceived race, age, sex or gender (including pregnancy), marital status, national origin, ancestry, citizenship status, mental or physical disability, religion, creed, color, sexual orientation, gender identity or expression (including transgender status), veteran status, genetic information, or any other characteristic protected by applicable federal, state or local law. Epsilon also prohibits harassment of applicants and employees based on any of these protected categories.<br><br>Epsilon will provide accommodations to applicants needing accommodations to complete the application process.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T18:19:25.000Z"
+  },
+  "company": {
+    "name": "Epsilon",
+    "link": "https://www.linkedin.com/company/epsilon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

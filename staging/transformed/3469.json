@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer(Entry level)",
+    "industry": "Information Technology and Services",
+    "description": "<p>The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.\u00a0</p><p>\u00a0</p><strong>Responsibilities</strong><ul><li>Develop quality software and web applications </li><li>Analyze and maintain existing software applications </li><li>Design highly scalable, testable code </li><li>Discover and fix programming bugs</li></ul><p><strong><br></strong></p><p><strong>Qualifications</strong></p><p><ul><li>Bachelor's degree or equivalent experience in Computer Science or related field </li><li>Development experience with programming languages </li><li>SQL database or relational database skills</li></ul></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T15:50:51.000Z"
+  },
+  "company": {
+    "name": "Tata Consultancy Services",
+    "link": "https://in.linkedin.com/company/tata-consultancy-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62100,
+    "max_value": 77000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wisconsin",
+    "region": "United States",
+    "postal_code": "54943",
+    "street_address": null,
+    "latitude": 44.639957,
+    "longitude": -89.73298
+  }
+}

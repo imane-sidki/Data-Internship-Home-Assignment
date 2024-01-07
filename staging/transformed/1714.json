@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<p><br><br><br><br>THIS IS A REMOTE POSITION<br><br><p>At SailPoint, we do things differently. We understand that a fun-loving work environment can be highly motivating and productive. When smart people work on intriguing problems, and they enjoy coming to work each day, they accomplish great things together.\u00a0 With that philosophy, we\u2019ve assembled the best identity team in the world that is passionate about the power of identity.<br><br><p>As the fastest-growing, independent identity and access management (IAM) provider, SailPoint helps hundreds of global organizations securely and effectively deliver and manage user access from any device to data and applications residing in the data center, on mobile devices, and in the cloud.<br><br><p>The company\u2019s innovative product portfolio offers customers an integrated set of core services including identity governance, provisioning, and access management delivered on-premises or from the cloud (IAM-as-a-service).<br><br><p>The Cloud Governance team in SailPoint is seeking well-rounded backend or full stack engineers who are passionate about building and delivering reliable, scalable microservices for enterprise-grade, multi-tenant SaaS products.\u00a0 You will be part of a growing agile team that is building modern components and services to power the next generation of Cloud Governance suite of applications. You\u2019ll work in a team that is passionate about continuous improvement and agility in a fast-paced environment. Besides working on a tech stack that includes Go, Python, ReactJS, GraphDB, SQL and NoSQL datastores, Messaging technologies, Docker and Kubernetes, you\u2019ll prototype new design ideas, adopt new technologies and drive them to adoption and deployment in production.<br><br><p>Responsibilities<br><br><ul><li>Design, implement and deliver efficient, maintainable, robust microservices.</li><li>Adopt an iterative approach to designing and implementing features based on product requirements.</li><li>Work in an agile environment to collaborate with peers on designs, technical refinements, code reviews, testing and customer issues.</li><li>Design, develop/ adopt testing frameworks and implement test plans to improve code quality and facilitate continuous delivery.</li><li>Devise monitoring capabilities to analyze various aspects of application performance and provide robust end-user experience</li></ul><p>Requirements<br><br><ul><li>5+ years of professional software development experience with progressively increasing responsibilities</li><li>Solid understanding of object oriented principles/ design patterns with relevant experience in Go/ Java/ C++.</li><li>Experience building microservices and knowledge of microservice design patterns.</li><li>Experience in implementing and using RESTful APIs for an API-first application architecture</li><li>Experience in using SQL or NoSQL databases in a multi-tenant SaaS application</li><li>Great communication skills</li></ul><p>Preferred<br><br><ul><li>Front-end programming experience with ReactJS.</li><li>Experience with AWS/ Azure</li><li>Experience with Continuous Delivery/ Continuous Integration</li><li>Experience with messaging technologies and event-driven design</li><li>Experience with Docker, Kubernetes, ArgoCD</li></ul><p>Compensation and benefits<br><br><ul><li>Experience a Small-company Atmosphere with Big-company Benefits</li><li>Competitive pay, 401(k) with match and comprehensive medical, dental and vision plans</li><li>Recharge your batteries with a flexible vacation policy and paid holidays</li><li>Fantastic career growth opportunities in a fast-paced, high-growth environment.</li><li>Enjoy a healthy work-life balance with flexible hours, family-friendly company events and charitable work</li></ul><p><br><br><p>SailPoint is an equal opportunity employer and we welcome everyone to our team. \u00a0All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.<br><br></p></p></p></p></p></p></p></p></p></p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:06:51.000Z"
+  },
+  "company": {
+    "name": "SailPoint",
+    "link": "https://www.linkedin.com/company/sailpoint-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

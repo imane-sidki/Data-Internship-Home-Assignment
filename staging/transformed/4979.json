@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "NET Full Stack Developer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>** Eligibility to work in the U.S. without sponsorship (current or future) required</strong></p><p><br></p><p><strong>AUSTIN, TX or PENSACOLA, FL</strong></p><p><br></p><p><strong>As a Software Engineer, You will:</strong></p><p>Build new applications with a consistent framework to insure testability and maintainability.</p><ul><li>Work collaboratively with developers and product owners to decompose requirements into actionable tasks and insure timely features delivery.</li><li>Create technical design specifications and work with QA to align understanding of requirements in user stories and to develop system test plans.</li><li>Design and implement proof of concepts/components when required.</li></ul><p><br></p><p><strong>What You'll Need:</strong></p><ul><li>Bachelor's or Master\u2019s degree in Computer Science or related field.</li><li>Strong understanding of software design patterns, data structures, and algorithms.</li><li><strong>4+ years of tracking experience developing enterprise level systems using C# and .NET Framework.</strong></li><li><strong>2+ years of front-end MVVM development experience in WPF.</strong> Experience with MVVM frameworks such as Prism or Caliburn Micro. Knowledge of UI toolkits such as DevExpress, Infragistics, Telerik is a plus.</li><li><strong>2+ years of SQL and relational database design or experience developing .NET applications with an RDBMS</strong></li><li>Good understanding of SOLID principles and how to develop clean, object-oriented, error-tolerant code using TDD and a unit testing framework such as MSTest, NUnit, or XUnit.</li><li>Experience working with Agile/Scrum methodologies.</li><li>Experience with source control tools such as Git.</li><li>Demonstrate a degree of creativity and problem-solving skills.</li><li>Excellent communications skills - facilitation, negotiation.</li><li>Good team player, hungry and self-starter that can work well in a team environment, proactive issue resolution with a positive attitude.</li><li>Have passion for learning new technologies and enhancing existing skills.</li></ul><p><br></p><p><strong>Preferred:</strong></p><ul><li>Experience with continuous integration, build processes and deployment tools like Azure DevOps, Jenkins, Teamcity, Octopus Deploy, docker/containers, etc.</li><li>Familiar with SQL Server Reporting Services (SSRS)</li><li>Experience with Windows Communication Foundation (WCF) or gRPCis a plus</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:53:38.000Z"
+  },
+  "company": {
+    "name": "Olson Resources",
+    "link": "https://www.linkedin.com/company/olsonresources"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

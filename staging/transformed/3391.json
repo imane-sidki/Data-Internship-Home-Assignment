@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p>TITLE: Data Scientist/Machine Learning Engineer</p><p>LOCATION: Remote</p><p>Duration: 8 months+ extensions</p><p><br></p><p><strong>                       ***********Must be eligible to work on W2****************</strong></p><p><br></p><p>Ideal Qualifications:</p><ul><li>5+ Python software development for composition and modularity, debugging and following tracebacks</li><li>Strong stats background and concepts including hypothesis testing, correlation, R squared, P-value</li><li>Experience with Pandas, NumPy, SciPy, Pytorch</li><li>Tensorflow functional API, deep learning</li><li>Mathematics of machine learning- linear algebra, multivariable calculus</li><li>SQL querying</li><li>Hyperparameter optimization, regularizing regression models</li></ul><p><br></p><p><strong>Nice to Have</strong></p><ul><li>Masters HIGHLY preferred!!</li><li>Ecommerce experience</li></ul><p><br></p><p><strong>Responsibilities include:</strong></p><ul><li>Analyze large data sets by quantifying the data quality, identifying particular patterns, and visualizing results</li><li>Understand business problems and identify the right data sets and ML/Statistical approach to produce the desired outcomes</li><li>Adapt to account for changes and be able to propose alternative approaches</li><li>Ideate and develop analytics and modeling solutions cross-functionally to build customized, long-term, and sustainable solutions</li><li>Provide critical thought leadership and enhance organizational capabilities</li><li>Own machine learning pipelines end-to-end</li><li>Write production-grade machine learning code using standard engineering practices and deploy models to production</li><li>Improve codebase and lead/participate in code reviews with Research Scientists and Data Scientists</li><li>Help non-engineers develop their engineering skills</li><li>Mentor junior team members and contribute to a culture where everyone is valued</li></ul><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-13T15:45:25.000Z"
+  },
+  "company": {
+    "name": "DataEdge",
+    "link": "https://www.linkedin.com/company/dataedgeusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Illinois",
+    "region": "United States",
+    "postal_code": "61709",
+    "street_address": null,
+    "latitude": 40.12414,
+    "longitude": -89.14863
+  }
+}

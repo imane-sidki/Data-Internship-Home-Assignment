@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services",
+    "description": "<p>Want to work at the forefront of a fast-growing and award winning fintech company? With an incredible team and partners looking for innovative results, we\u2019ve doubled in size our first year and doubled the asset classes we serve in our second. As a cloud-based company, we transitioned seamlessly into a socially-distanced workforce in recent months, and with a pace that hasn\u2019t slowed, we\u2019re still hiring and are currently on the lookout for smart and collaborative talent to join our remotely connected team.</p><p><br></p><p><strong>Job Description</strong></p><p>As a SIMON Client Engineer, you will be just as comfortable designing large-scale distributed systems as you are building relationships with our clients to understand the systems they\u2019ll need to grow their business. We arelooking for exceptional developers who are product-driven and are excited to work directly with clients to make SIMON integral to their day-to-day lives. You will become the technical face of the firm for our clients, comfortable working with everyone from C-level executives to developers.</p><p><br></p><p><strong>How You Will Fulfill Your Potential</strong></p><ul><li>Work directly with clients and collaborate across teams to serve as the technical architect for new client projects</li><li>Use open-source technologies like Scala, Akka, Postgres and Kinesis to build elegant APIs that clients will love</li><li>Have a deep understanding of our business and work closely with our Sales and Product teams to drive new initiatives</li><li><br></li></ul><p><strong>What We're Looking For</strong></p><ul><li>Degree in Computer Science or related field</li><li>Excellent interpersonal skills and experience working directly with clients</li><li>Self-starter, creative problem solver and not afraid of tackling big challenges</li><li>Curiosity and willingness to learn about financial products and markets</li><li>Experience building APIs for large scale applications</li><li><br></li></ul><p>We offer a competitive salary and benefits, the chance to work with a curated team of top-notch, highly creative talent, and a fun and agile work environment with many perks in the heart of New York City\u2019s Chelsea district, but are operating remotely through at least summer 2021.</p><p><br></p><p><strong>Meet SIMON</strong></p><p>SIMON Markets is a fast-growing and award-winning FinTech company, on the lookout for smart, collaborative talent to join our team.</p><p><br></p><p>Originally founded within Goldman Sachs, SIMON Markets LLC spun-out in December 2018 under the shared ownership and direction of seven leading financial institutions. Our team works to build transparency around complex, risk-managed financial products by way of a single, modern platform. Our platform provides financial advisors with access to dynamic education, a multi-offering Marketplace, and powerful analytics that hasn\u2019t before been available.</p><p>By combining state-of-the art technology with the leadership of niche industry experts and an agile start-up mentality, SIMON is well-positioned to reshape our industry. We are leading the way in a space we helped create, we are passionate about pushing boundaries, and we are growing like crazy.</p><p><br></p><p>No matter which part of the team you join, there is something interesting to work on.Our front-end team is building out our web and mobile presence using React, Redux, and Webpack along with some very sophisticated data visualizations.Our back-end team is using Scala, Akka, Postgres and other open-source technologies to build a micro-services architecture that can scale to handle our ambitious roadmap. Our quantitative engineering team is researching and building novel financial strategies to widen our competitive advantage. Our dev-ops team is creating a development and production environment with Docker and Kubernetes to keep us nimble.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T18:27:02.000Z"
+  },
+  "company": {
+    "name": "SIMON Markets LLC",
+    "link": "https://www.linkedin.com/company/simon-markets-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

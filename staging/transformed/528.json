@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>Software Development Engineer I<br><br></strong><strong><u>About Us, But We\u2019ll Be Brief<br><br></u></strong>Experian is the world\u2019s leading global information services company, unlocking the power of data to create more opportunities for consumers, businesses and society. We are thrilled to share that <strong>FORTUNE has named Experian one of the 100 Best Companies to work for</strong>. In addition, for the last five years we\u2019ve been named in the <strong>100 \u201cWorld\u2019s Most Innovative Companies\u201d by Forbes Magazine</strong>.<br><br>If you\u2019re excited about solving complex challenges and enjoy learning new skills in an ever changing web application, we\u2019d love to hear from you! Join our like-minded people and make your footprint in building our next cutting edge web application. You must be well rounded, self-motivated, and enjoy fast paced development cycles.<br><br><strong><u>What You\u2019ll Be Doing<br></u></strong><ul><li>Participate in Front-End engineering team\u2019s agile ceremonies</li><li>Active role in technical improvement projects.</li><li>Work with the technical lead on new UX designs.</li><li>Team player in the quality and stability of the frontend codebase.</li><li>Collaborate with other team members and stakeholders.</li><li>Develop and maintain user-facing features.</li><li>Be active in the developer community.<br></li></ul><strong><u>What Your Background Looks Like<br></u></strong><ul><li>Able work in a fast-paced environment primarily using the latest front-end development practices.</li><li>Understanding of JavaScript, HTML5, CSS3 and Angular</li><li>Basic knowledge of single page application design and development</li><li>Strong computer science fundamentals, including algorithms, data structures, and design patterns</li><li>Familiar with the DOM and asynchronous event-programming models</li><li>Understanding of responsive design, web standards and UI/UX best practice<br></li></ul><strong><u>Bonus Skills<br></u></strong><ul><li>Active collaboration in open-source communities</li><li>Experience with CSS pre-processors such as Sass, Less or Stylus </li><li>Experience with node development workflows (npm, gulp, etc.) </li><li>Experience with data visualization APIs and JSON (Highcharts, D3, Google Charts, etc.)</li><li>Previous Mobile (web and/or native) development experience a plus</li><li>Financial Services experience is a plus<br></li></ul><strong><u>Education<br></u></strong><ul><li>Degree in computer science or related field<br></li></ul><strong>Perks<br></strong><ul><li>During this pandemic, all Experian employees are working remotely. Once it\u2019s safe to do so, we\u2019ll slowly return to our offices however we are in no rush to do this. The safety of our employees is of utmost importance.</li><li>3 weeks of vacation to start, five sick days and two volunteer days (plus eleven paid holidays) </li><li>Competitive pay and comprehensive benefits package, with a bonus target of 10% </li><li>Flexible work schedule and relaxed dress code <br></li></ul><em>Experian is proud to be an Equal Opportunity and Affirmative Action employer. Our goal is to create a thriving, inclusive and diverse team where people love their work and love working together. We believe that diversity, equity and inclusion is essential to our purpose of creating a better tomorrow. We value the uniqueness of every individual and want you to bring your whole, authentic self to work. For us, this is </em><strong><em>The Power of YOU</em></strong> <em>and it ensures that we live what we believe.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-07T23:57:37.000Z"
+  },
+  "company": {
+    "name": "Experian",
+    "link": "https://www.linkedin.com/company/experian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 57700,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

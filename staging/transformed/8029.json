@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Hardware,Computer Software",
+    "description": "<strong>About Gridware<br><br></strong>Gridware\u2019s mission is to create a future where suburban wildfires are a thing of the past. We provide a truly full-stack (hardware + firmware + software) solution for real-time monitoring of America's power distribution grid. The system centers around low-cost hardware platforms that are easily and permanently deployed to power poles. The platform detects and predicts faults that ignite wildfires, expedites repairs during power outages, and helps utilities demonstrate risk reduction to regulators through comprehensive asset health profiles.<br><br>Gridware\u2019s technology is designed to unlock essential values for other adjacent verticals. Our unique positioning allows us to solve some of the world\u2019s most burning challenges -- from helping policy makers make data-driven infrastructure decisions to helping farmers overcome micro-climate challenges. While others turn a blind eye to these aged and highly-regulated industries, we at Gridware believe it\u2019s our duty to find win-for-all scenarios that lead to a prosperous future for coming generations.<br><br>Gridware is a privately-held company with funding from major investors such as Y Combinator, True Ventures, and Fifty Years, as well as the California Energy Commission. Spun out of the Citris Foundry at UC Berkeley, we now operate in Walnut Creek, California.<br><br>We\u2019re looking for a Data Scientist to join our growing team.<br><br>Roles &amp; Responsibilities<br><ul><li>Work with engineering team to design and execute physical experiments that inform product direction</li><li>Formulate key data analysis questions and quantitative theses from product development goals</li><li>Build data pipelines and data engineering tools to facilitate efficient analysis efforts</li><li>Thrive in a tightly-integrated, lightning-paced team of high-energy and deeply committed individuals<br><br></li></ul><strong>Requirements<br></strong><ul><li>Great understanding of statistics, experiment/research design, signal processing, and machine learning fundamentals </li><li>Fluency in Python, pandas, numpy, scipy, or equivalent tools for use in data analysis </li><li>Experience with exploratory data analysis to unearth patterns, anomalies, and draw conclusions from both experimental and real world observations</li><li>Experience turning analysis insights into production-quality data pipelines and inference systems<br><br></li></ul><strong>Benefits<br><br></strong>Our employees enjoy working in a mission-driven environment to save lives and create a future without wildfires. Beyond that, we offer competitive benefits that help them to thrive and grow. These benefits include:<br><ul><li>An attractive salary with bonus plan</li><li>Health insurance plan</li><li>Flexible working hours</li><li>Stock option plan<br><br></li></ul>Gridware is an equal opportunity employer. We want applicants of diverse backgrounds and hire without regard to color, gender, religion, national origin, citizenship, disability, age, sexual orientation, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-29T08:30:43.000Z"
+  },
+  "company": {
+    "name": "Gridware",
+    "link": "https://www.linkedin.com/company/gridwareinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Walnut Creek",
+    "region": "CA",
+    "postal_code": "94596",
+    "street_address": null,
+    "latitude": 37.90176,
+    "longitude": -122.06192
+  }
+}

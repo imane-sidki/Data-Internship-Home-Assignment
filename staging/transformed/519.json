@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong>Summary<br><br></strong>Hulu is looking for a motivated Software Engineer to join the Growth Life Engineering team.<br><br>The Growth Lifecycle engineering group is responsible for orchestrating the customer flow and integrating with various other backend services during signups for Disney+, ESPN+, and Hulu. We own and support many tier-1 services that need to be highly available in all regions.<br><br>We are a fast-paced and fast-growing team, where you will have influence over the technical direction and architecture for the services and tools built by the team. You will also have an opportunity to learn about the international landscape and challenges in the area of billing, payments, subscriptions, offers, and promotions as our streaming services launch around the world over the next few years.<br><br><strong><u>What You\u2019ll Do<br><br></u></strong><ul><li>Design and implement tier-1 microservices in Java and/or Scala.</li><li>Implement asynchronous processes to run in the cloud for various data transformation operations.</li><li>Work on tech design for various initiatives and projects as per business needs.</li><li>Be involved in code reviews and architecture reviews for team members.</li><li>Participate in Agile methodology and SCRUM processes such as Sprint Planning, Backlog grooming, Daily Standups, and Retrospectives with the team.</li><li>Provide on-call support for critical services on a rotational basis.</li><li>Own features/functionality and deliver projects end-to-end with high quality and robust architecture.</li><li>Communicate and work with multi-functional business partners.</li><li>Ramp up on new domains and technologies.<br><br></li></ul><strong><u>What To Bring<br><br></u></strong><ul><li>Experience in backend server-side development</li><li>Knowledge of at least one object-oriented language.</li><li>Experience working with cloud providers.</li><li>Familiarity with databases (SQL and no-SQL)</li><li>Experience investigating technical components and taking ownership of feature development.</li></ul> oTtuffwP",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T16:41:46.000Z"
+  },
+  "company": {
+    "name": "Hulu",
+    "link": "https://www.linkedin.com/company/hulu"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 193000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

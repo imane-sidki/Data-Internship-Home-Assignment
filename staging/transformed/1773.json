@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Marketing and Advertising,Consumer Goods,Retail",
+    "description": "<em>Are you ready to combine your passion for an active lifestyle with a meaningful and multifaceted career in the cycling industry? At Specialized, our teammates are encouraged to explore roles in a variety of functions throughout their careers. We value curiosity, a desire to try new things, and an eagerness to learn about all aspects of the business. No matter where you begin with the company, you get to decide where you want to go whether it\u2019s marketing, finance, product development, sales, or an international assignment. Join us in making the world a better place through the power of bicycles and build your dream career at the same time!<br><br></em><strong><u>Summary<br><br></u></strong>At Specialized, data is essential in modernizing our business. From delivering best-in-class physical product to developing a world-class rider experience, data engineers at Specialized build data pipelines that efficiently and reliably move data across systems to power this modernization.<br><br>Specialized is seeking a motivated and talented Data Engineer to join our Data Engineering Team in our Boulder, CO office. This role, reporting to the Data and Analytics Team, will be responsible for understanding business analytics needs and requirements and then turning those requirements into optimized and highly available data pipelines to be used throughout the business to facilitate deeper analysis and reporting. The role will focus on expanding our data warehouse and data pipelines through use of our ELT stack. To be successful in this role, applicants must be comfortable working with a variety of stakeholders and learning on the job. Data engineering experience and strong communication skills are a must. In this role, you will be exposed to a wide variety of cloud-based best-of-breed technologies and help accelerate the growth of analytics at a leading brand in the outdoor industry.<br><br><strong><u>Essential Skills<br></u></strong><ul><li>Highly organized, ability to stay on track and meet deadlines in a fast-paced work environment with competing priorities</li><li>Demonstrated experience in designing and developing reliable and scalable ELT/ETL pipelines from the ground up and maintaining/supporting existing systems</li><li>Empower technical and non-technical internal customers to drive their own analytics and reporting through written and verbal communication skills</li><li>Experience with enterprise level RDBMS and an expert in SQL</li><li>Understanding of data models and data warehouse concepts</li><li>Proficiency in programming/scripting languages (Python/R)</li><li>Demonstrated passion for analyzing and understanding complex data sets<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Ability to work with unstructured data</li><li>Understanding of statistical data analysis, modelling, and machine learning</li><li>Proficiency in visualization tools such as Tableau or Power BI</li><li>Previous experience with modern public cloud-based data stack, including AWS, Snowflake, Matillion, Tableau<br></li></ul><strong>Tell Me More<br></strong><ul><li>Salary Range: $78K-$90K USD plus Bonus DOE*</li><li>Based in Boulder, CO</li><li>Competitive health benefits, 401K, plus additional perks including a competitive employee discount</li><li>Dog friendly offices<br></li></ul>In accordance with the Colorado Equal Pay for Equal Work Act, the approximate annual base compensation range is listed above. The actual offer, reflecting the total compensation package and benefits, will be determined by a number of factors including the applicant's experience, knowledge, skills, and abilities, as well as internal equity.<br><br>We want to increase representation of all races, genders, and body types in the cycling industry and are committed to building a diverse and inclusive workforce where all people thrive. We encourage everyone \u2013 especially those from marginalized groups \u2013 to apply to our job postings and help us earn the position as the rider\u2019s brand of choice. We are always looking for creative, innovative, and passionate people who are eager to contribute to our mission of pedaling the planet forward. Regardless of your qualifications, if you are ready to make a difference, please apply and let us know how you can make an impact at Specialized!<br><br>See what we are up to on LinkedIn, Instagram, and most importantly, our #DogsofSpecialized.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:27:24.000Z"
+  },
+  "company": {
+    "name": "Specialized Bicycle Components",
+    "link": "https://www.linkedin.com/company/specialized-bicycle-components"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81100,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

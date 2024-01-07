@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "AppZen is the leader in Finance AI software. Our patented software is the only autonomous spend software to understand financial transactions and enable automatic decisions based on finance policies. Using AI deep learning, semantic analysis, and computer vision, AppZen accurately processes intelligence from thousands of data sources and images to better understand financial transactions and empower business decisions. AppZen has saved customers more than $500M and increased efficiency by 90 percent by eliminating 1M hours of manual work. Over 1,000 enterprises use AppZen for autonomous expense and accounts payable processes, reduced expenditures and real-time insights into business spend trends.<br><br><strong><u>Description<br><br></u></strong>We are looking for a Senior Data Scientist, who has experience building deep learning computer vision and NLP models to extract key fields from invoices, both structured and unstructured text. In 2021 we will be accelerating the delivery of AI first aps platform and new AI applications for our customers. We value our diversity of perspectives, and share a passion for improving the experiences for our customers.<br><br><strong><u>We Are Looking For You If<br></u></strong><ul><li>You have 5+ years of non internship professional data science experience </li><li>You have programming experience with Python</li><li>You have experience designing predictive paradigms using complex mathematical concepts</li><li>You have a masters degree in Operations Research, Computer Science or related </li><li>You have strong fundamental knowledge of Computer Science in algorithm design, problem solving and complexity analysis<br></li></ul><strong><u>Bonus Points For<br></u></strong><ul><li>Experience deep learning computer vision and NLP models to extract key fields from invoices</li><li>Experience running parallel computations in distributed frameworks, including Tensorflow, Keras and Python</li><li>Experience using Kubernetes in microservice framework</li><li>Experience in communicating with users, other technical teams, and senior management to collect requirements, describe software product features, technical designs and product strategy</li><li>Experience influencing software engineers best practice within your team<br></li></ul><strong>We are an equal opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit and business need. <br><br></strong>We are equal opportunity employer and value diversity All employment is decided on the basis of qualifications, merit and business need.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:41:49.000Z"
+  },
+  "company": {
+    "name": "AppZen",
+    "link": "https://www.linkedin.com/company/appzen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

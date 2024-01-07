@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Blockchain Infrastructure",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>About Kraken<br><br></strong>Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. In our first decade, Kraken has risen to become one of the largest, most successful and respected crypto exchanges in the world.<br><br>We are changing the way the world thinks about finance and our range of successful products are playing a critical role in the mainstream adoption of crypto assets. We continue to trail-blaze into new territory with the introduction of Kraken Bank, providing a more seamless integration between crypto and the traditional financial system. This makes us the first crypto company (ever) to be awarded a U.S. state banking charter.<br><br>Our diverse group of 2,000+ Krakenites are distributed all over the world, united by a shared passion for delighting customers, upholding crypto values and achieving our meaningful mission. We attract people who push themselves to improve, are radically transparent and think differently in order to unlock their potential.<br><br>Crypto is a rapidly evolving industry and we\u2019re just getting started. We\u2019re growing fast and you're invited to join the revolution!<br><br><strong>About The Role<br><br></strong>This role is remote.<br><br>Our Engineering team is having a blast while delivering the most sophisticated crypto-trading platform out there. Help us continue to define and lead the industry.<br><br><strong>Responsibilities<br><br></strong><ul><ul><li>Build, improve, maintain, and upgrade clusters of dozens of blockchain daemons/consensus nodes in a scalable and highly redundant fashion</li><li>Deploy testnet &amp; mainnet blockchain daemons/consensus nodes, monitor proactively for performance bottlenecks and unusual behavior, optimize performance in production</li><li>Develop systems for rolling out patches/updates/infrastructure in an automated fashion</li><li>Provide blockchain as a service to the crypto gateway engineering team</li><li>Implement robust metrics and monitoring of blockchain infrastructure</li><li>Write good quality policies, procedures and technical documentation</li><li>Nurture security awareness in the organization, produce material to support this, and relate this to the current threat landscape<br><br></li></ul></ul><strong>Requirements<br><br></strong><ul><ul><li>3+ years of experience in dev-ops</li><li>Code (or script) in at least one modern application development or utility language;</li><li>Experience operating Kubernetes</li><li>Experience with administrating Linux systems and with configuration management (Ansible, Terraform, Docker)</li><li>Experience with cloud platform services and tooling (GCP, AWS)</li><li>Experience with metrics collection and monitoring</li><li>Working understanding of TCP/IP network stack</li><li>Online availability for unforeseen remotely-fixable issues</li><li>Self-motivated &amp; self-organized</li><li>Use Source Code Management and Document Management Systems to organize business function tasks and publish relevant material;</li><li>Understand DNS, SSL/ TLS, and how traffic on IP networks establishes end-to-end security and trust.</li><li>Desire to make the best trading platform out there</li><li>Strong passion for Bitcoin and other cryptocurrencies</li><li>Fluent English language skills is required<br><br></li></ul></ul>Location Tagging: #US #EU<br><br>We\u2019re powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives.<br><br>Check out all our open roles at https://www.kraken.com/careers . We\u2019re excited to see what you\u2019re made of.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:36:24.000Z"
+  },
+  "company": {
+    "name": "Kraken Digital Asset Exchange",
+    "link": "https://www.linkedin.com/company/krakenfx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

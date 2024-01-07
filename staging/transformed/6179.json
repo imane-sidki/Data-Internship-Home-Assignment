@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Full-stack",
+    "industry": "Biotechnology,Hospital & Health Care,Pharmaceuticals",
+    "description": "<strong>The Position<br><br></strong>Senior Software Engineer - Full-stack<br><br>Locations: USA, Canada (possibility of working remotely)<br><br>At Genentech/Roche, we are passionate about transforming patients\u2019 lives and we are fearless in both decision and action. We do this today to build a better tomorrow. However, to do so well, we need you! Your uniqueness is the only way we could transform to become more agile, better networked, and better equipped to deal with the challenges and opportunities of an increasingly complex world.<br><br>As a Full-stack Software Engineer you will work on an agile team developing and maintaining Python back-ends and Javascript front-ends. You will work closely with other Data and Software engineers to build and maintain analytics dashboards and apps. You will work closely with the data science team to build and maintain data science pipelines. To succeed in this role, you must have considerable experience writing production-ready code in Python and Javascript. You should be a Self-starter able to make progress without much direction.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li> Develop and maintain front-end SPAs (Quasar/Vue.js) </li><li> Create data visualizations (echarts/apexcharts/etc) </li><li> Develop and maintain RESTful JSON apis (FastAPI) </li><li> Develop and maintain scalable data pipelines </li><li> Consume RESTful apis </li><li> Understand and maintain data schemas and architectures </li><li> Understand and architect ETL processes </li><li> Deploy data science models as microservices </li><li> Synthesize requirements from non-technical stakeholders </li><li> Work closely with data governance and technology practice areas </li><li> Work on agile teams (Scrum/Kanban) <br></li></ul><strong><u>Qualifications, Skills &amp; Knowledge<br></u></strong><ul><li> At least 7+ years of relevant experience as a Software Engineer </li><li> Python (FastAPI, Pandas preferred) </li><li> Javascript (Quasar/Vue.js), CSS, HTML </li><li> Good knowledge of and experience with UI/UX best practices </li><li> Git/Github (branches, code reviews, pull requests) </li><li> RDBMS/NoSQL (MySQL preferred) </li><li> Docker </li><li> Plotly/Dash experience preferred </li><li> AWS experience preferred (lambda/glue/s3) </li></ul> <strong>Who We Are<br><br></strong>Genentech, a member of the Roche group and founder of the biotechnology industry, is dedicated to pursuing groundbreaking science to discover and develop medicines for people with serious and life-threatening diseases. To solve the world's most complex health challenges, we ask bigger questions that challenge our industry and the boundaries of science to transform society. Our transformational discoveries include the first targeted antibody for cancer and the first medicine for primary progressive multiple sclerosis.<br><br>Diversity and Inclusion (D&amp;I) are critical to the success of our company and our impact on society. We believe that by championing diversity of background, thought and experience, we can foster a sense of belonging and provide an environment where every employee feels valued, included, and able to contribute their best for the patients we serve. We\u2019re focused on attracting, retaining, developing and advancing our people to their full potential by rewarding bold ways of thinking and integrating inclusive behaviors into every aspect of our work.<br><br>The next step is yours. To apply today, click on the \"Apply for this job\" button.<br><br>Genentech is an equal opportunity employer &amp; prohibits unlawful discrimination based on race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, disability, marital &amp; veteran status. For more information about equal employment opportunity, visit our Genentech Careers page .<br><br><strong>Job Facts</strong> <strong>JOB FUNCTION<br><br></strong><strong><u>Digitalisation / Data / Insights COMPANY/DIVISION<br><br></u></strong><strong>SCHEDULE<br><br></strong>Full time <strong>JOB TYPE<br><br></strong>Regular",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:24:25.000Z"
+  },
+  "company": {
+    "name": "Genentech",
+    "link": "https://www.linkedin.com/company/genentech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 124000,
+    "max_value": 173000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "South San Francisco",
+    "region": "CA",
+    "postal_code": "94083",
+    "street_address": null,
+    "latitude": 37.65568,
+    "longitude": -122.41248
+  }
+}

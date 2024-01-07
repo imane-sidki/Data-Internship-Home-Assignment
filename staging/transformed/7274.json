@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Full Job Description</strong></p><p>Savi is a leading financial technology startup based in DC that is working to solve the student debt crisis. Our mission is to help the 46+ million student loan borrowers better understand their debt, find federal forgiveness programs, and enroll. We're looking for people who have the desire to build meaningful products and the drive to do great work as part of a team. Savi has been featured in the New York Times, TIME, and Inc., and recently the company completed our Series A funding round. Our clients include Fortune 500 companies, financial institutions, and the nation\u2019s largest membership groups, who use our platform to help their employees and members better manage their student loans and save money.</p><p><br></p><p>Ideal candidates are proactive, accountable people focused on continuous learning and growth to push themselves and our business forward. We offer a competitive salary, benefits, and a generous telework policy.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Own features through all phases of the software development cycle.</li><li>Build monitoring, reporting, and dashboard tools for internal stakeholders.</li><li>Contribute and improve APIs that will be consumed internally and by strategic business partners.</li><li>Build custom web applications and/or microsites from design through deployment.</li><li>Use a number of technologies/languages not limited to: React, PHP, Laravel, Python, MySQL, AWS.</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Experience with backend web frameworks like Django, Express, or Laravel.</li><li>Working knowledge of a front-end JS framework like React, Angular, or Vue.</li><li>Skilled with markup languages like HTML and CSS.</li><li>Experience with version control systems like Git.</li><li>Love tools, technologies, and frameworks, but are first and foremost pragmatic.</li><li>Willing to wear many hats and collaborate with technical and non-technical team members.</li></ul><p><br></p><p><em>Savi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Savi complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</em></p><p><br></p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T19:07:16.000Z"
+  },
+  "company": {
+    "name": "Savi",
+    "link": "https://www.linkedin.com/company/bysavi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "MSP Network Engineer",
+    "industry": "Internet",
+    "description": "Description:<br><p>We are hiring within our MSP (Managed Services Provider) Infrastructure team. As a MSP Network Engineer, you will be responsible for following established network designs, configuring and deploying networking technologies, addressing network support issues, and performing network maintenance tasks for both Intermax Networks and our MSP clientele. <br><br></p><p><br><br><br></p><p><strong>Roles and responsibilities</strong> <br><br></p><ul><li>Install, configure and maintain IT infrastructure for MSP clients including firewalls, switches, and wireless access points  </li><li>Network and Firewall administration supporting implementation of security policies and remediating conflicts </li><li>Coordination with system and application owners, schedule and apply rule changes, test and validate </li><li>Ensure system availability and reliability </li><li>Provide Level-2/3 support and troubleshooting to resolve issues </li><li>Working with third-party providers to keep the networks running efficiently </li></ul>.<br><br>Requirements:<br><ul><li>2+ years of experience in Routing and Network Engineering </li><li>Knowledge of infrastructure equipment and design to include firewalls, switches, Wireless Access Points and other networking technologies. </li><li>Ability to work well both individually and in a team </li><li>Proven hands-on experience </li><li>Excellent communication skills </li><li>WatchGuard and/or Ubiquiti product line experience a plus </li><li>Networking certifications such as WatchGuard, Cisco, Ubiquiti or CompTIA Network+ a plus.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:53:52.000Z"
+  },
+  "company": {
+    "name": "Intermax Networks",
+    "link": "https://www.linkedin.com/company/intermaxnetworks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Coeur d'Alene",
+    "region": "ID",
+    "postal_code": "83814",
+    "street_address": null,
+    "latitude": 47.673344,
+    "longitude": -116.77382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (Computer Vision))",
+    "industry": "",
+    "description": "<p>Machine Learning Engineer @ TrueFootage</p><p>TrueFootage is looking for a machine learning engineer that is motivated to transform an industry. TrueFootage is a real estate data and analytics company looking to bring the next level of efficiency to the real estate transaction process by superior quality of information, accuracy, and automation. We take pride in every detail in the process and heavily believe in continuous learning, consistent improvement, and getting results.</p><p><br></p><p><strong>The Team</strong></p><p>You would be a core member of the machine learning team at the company, we are looking for someone who can work through tough ambiguous problems, is comfortable with discriminative and generative techniques, is relentless about predictive accuracy, leads by example, can crank on a codebase, and is relentless about pleasing their customers and users.</p><p><br></p><p><strong>What you will work on</strong></p><p>You will own the development, deployment, and management of all of our algorithms that power the company from basic tagging and classification to complex geometry and computer vision.</p><ul><li>Lead the development and enhancement of custom machine learning algorithms focusing on graph theory, complex geometry, and computer vision</li><li>Lead the development of complex data pipelines to support production models and algorithms</li><li>Lead the development of our labeling and annotation strategies</li><li>Develop algorithms and techniques that can deploy into production with a focus on driving simplicity and ease of use to our end users</li><li>Develop a working understanding of the business and what the end users are trying to accomplish and how that translates into math and algorithms</li></ul><p><br></p><p><strong>Who we are looking for</strong></p><p>We are looking for a machine learning engineer who wants to own the development of algorithms that power an entire company</p><ul><li>Strong knowledge of custom model and algorithm development beyond running and modifying examples online</li><li>Strong understanding of generative vs discriminative methods and when to use each</li><li>Strong knowledge of computer vision, neural network variations, complex geometry and graph theory, data labeling and annotation strategies</li><li>Strong knowledge of predictive accuracy and what drives variations in model errors</li><li>Strong knowledge of distributed systems and accelerated compute infrastructures (GPU, TPU)</li><li>Strong understanding of software development principles and best practices</li><li>Strong knowledge of model training runtime and performance optimizations</li><li>Strong knowledge of Python and R programming</li><li>Strong knowledge of Tensorflow, Keras</li><li>Strong knowledge of C++/C/Golang</li><li>Strong understanding of data visualization techniques in 2D and 3D spaces</li><li>You are great in ambiguous situations and prefer it to be that way</li><li>You are willing to take responsibility for you work and have a heightened sense of ownership</li><li>You iterate quickly, believe in constant and consistent improvement, and continuous learning.</li><li>Excellent communication skills and take pride in your ability to communicate and distill complex topics into succinct explanations.</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-07T21:35:17.000Z"
+  },
+  "company": {
+    "name": "True Footage",
+    "link": "https://www.linkedin.com/company/true-footage"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

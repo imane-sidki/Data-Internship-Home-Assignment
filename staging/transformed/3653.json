@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist/Machine Learning Engineer",
+    "industry": "Food & Beverages,Retail",
+    "description": "<p><strong>TITLE: Data Scientist/Machine Learning Engineer</strong></p><p><strong>LOCATION: Remote</strong></p><p><strong>Duration: 6-12 month to perm</strong></p><p><br></p><p></p><p><strong>MUST HAVES:</strong></p><ul><li>5+ Python software development for composition and modularity, debugging and following tracebacks</li><li>Strong stats background and concepts including hypothesis testing, correlation, R squared, P-value</li><li>Experience with Pandas, NumPy, SciPy, Pytorch</li><li>Tensorflow functional API, deep learning</li><li>Mathematics of machine learning- linear algebra, multivariable calculus</li><li>SQL querying</li><li>Hyperparameter optimization, regularizing regression models</li></ul><p><br></p><p><strong>PLUSSES:</strong></p><ul><li>Masters or PhD- HIGHLY preferred!!</li><li>Ecommerce experience</li></ul><p></p><p><strong>DAY TO DAY:</strong></p><p>A company is looking for a Data Scientist/Machine Learning Engineer to sit remotely within the US.We follow industry standard practices for managing, collaboration, deployment and testing.We deploy and interact with resources on AWS.</p><p>Responsibilities include:</p><p>\u2022 Analyze large data sets by quantifying the data quality, identifying particular patterns, and visualizing results</p><p>\u2022 Understand business problems and identify the right data sets and ML/Statistical approach to produce the desired outcomes</p><p>\u2022 Adapt to account for changes and be able to propose alternative approaches</p><p>\u2022 Ideate and develop analytics and modeling solutions cross-functionally to build customized, long-term, and sustainable solutions</p><p>\u2022 Provide critical thought leadership and enhance organizational capabilities</p><p>\u2022 Own machine learning pipelines end-to-end</p><p>\u2022 Write production-grade machine learning code using standard engineering practices and deploy models to production</p><p>\u2022 Improve codebase and lead/participate in code reviews with Research Scientists and Data Scientists</p><p>\u2022 Help non-engineers develop their engineering skills</p><ul><li>\u2022 Mentor junior team members and contribute to a culture where everyone is valued</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T23:55:25.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

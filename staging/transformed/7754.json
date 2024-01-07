@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p>Sumner &amp; Scottare looking to recruit a number ofData Scientiststo join a fast growing FinTech start up focussing on bringing down data barriers.</p><p><br></p><p>One of the most valuable kinds of data today is in the financial sector. Financial data plays a key role across many industry verticals. However, it has notoriously been locked behind regulatory barriers and a lack of format standards. Our clients first product is an API that makes financial transactions accessible with minimal engineering overhead to both humans and machine-learning models in a scalable and privacy-preserving way.</p><p><br></p><p>They</p><p>- are allergic to over-engineering.</p><p>- are anarchists at heart and like to hack around the status quo.</p><p>- are radically honest and appreciate challenging one another, rather than giving out \u201cpats on the back\u201d. </p><p>- are willing to learn and adapt quickly to new situations and requirements. Languages, frameworks, libraries, compilers, etc. are just tools for a job. A new problem might need a new tool. If it doesn\u2019t exist yet, we will build it.</p><p>- have a sense of humor (well, we think we do).</p><p><br></p><p>As an early member of their data science team, you will help</p><p>- push the limits of what can be done with data.</p><p>- build the team and drive the direction of the company.</p><p>- shape our product and culture.</p><p>- experience the direct impact of what you build on hundreds of millions of people\u2019s financial lives.</p><p><br></p><p>The following are required</p><p>- the tools: Python, Pandas, Matplotlib, scikit-learn, etc.</p><p>- Spark, SQL and fundamental database operations.</p><p>- recognized open-source contributions and/or top performance in data competitions (Kaggle, Numerai, etc.).</p><p>- fluency in statistics and probability.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T13:56:25.000Z"
+  },
+  "company": {
+    "name": "Sumner &amp; Scott",
+    "link": "https://www.linkedin.com/company/sumner-&amp;-scott"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

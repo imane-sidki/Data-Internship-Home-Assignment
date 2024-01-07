@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AppD Site Reliability Engineer",
+    "industry": "Computer & Network Security,Computer Software",
+    "description": "<p>What You\u2019ll Do</p><p><br></p><p>AppDynamics's devops engineers are passionate about continuously improving both what we deliver and how we deliver our product to customers. As a Software DevOps Engineer for Secure Applications group, you will:</p><ul><li>Manage, administer and monitor deployments in AWS/Kubernetes to support the workloads, scale and services.</li><li>Perform deployment, configuration changes, and integration testing of the workload and services</li><li>Support the services and workloads by participating in down time handling and on-call rotation</li><li>Ability to debug infrastructure/services/workloads and provide failure/root cause analysis</li><li>Develop automation tools to monitor/improve the quality of the service/infrastructure</li></ul><p><br></p><p>Who You\u2019ll Work With</p><p><br></p><p>AppDynamics is the Application Intelligence company. With AppDynamics, enterprises have real-time insights into application performance, user performance and business performance, so they can move faster in an increasingly sophisticated, application driven world. Our integrated suite of products is built on our innovative, enterprise-grade App iQ Platform that enables our customers to make faster decisions that enhance customer engagement and improve operational and business performance.</p><p>Cisco Secure Application is an industry-first application security solution that marries security and performance insights to drastically simplify vulnerability management and protect the businesses from cyberattacks. Check out this team video:</p><p><br></p><p>https://www.youtube.com/watch?v=HBpRHVadVRU</p><p><br></p><p>Who You Are</p><p><br></p><p>We are looking for an experienced engineer with strong understanding of developing and deploying SaaS software at scale. Important requirements include:</p><ul><li>7+ years experience deploying scalable, distributed applications and services.</li><li>Knowledge of continuous deployment into a modern container based environment with frameworks like Docker, Kubernetes, and Helm.</li><li>Software and product development experience in cloud computing or distributed systems on Linux and UNIX based systems.</li><li>Sound knowledge of data structures, algorithms and other computer science basics.</li><li>Experience with Agile software development methodologies is helpful.</li></ul><p><br></p><p>We connect everything: people, processes, data, and things. We innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. And we do it in style with unique personalities who aren\u2019t afraid to change the way the world works, lives, plays and learns.</p><p><br></p><p>We are leaders with vision, tech enthusiasts, pop culture aficionados, and we even have a few purple haired rock stars. We celebrate the creativity and diversity that fuels our innovation. We are optimists and we are doers. Recently we have won the #1 employer in the World award.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T13:57:13.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

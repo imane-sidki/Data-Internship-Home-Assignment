@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Multiple positions </p><p>Sunnyvale, CA or Austin, TX</p><p>SRE with/Without KAFKA</p><p><br></p><p><strong><u>Job Description</u></strong></p><p>- SRE Ops - Very good inUnix, Jenkins and Scripting - Groove / shell / python</p><p>- Should be proficient in creating Work Flows in Jenkins and Ansible playbacks</p><p>- Excellent Analytical, Troubleshooting and problem solving skills</p><p>- Very good in DevOps process and troubleshooting Issues</p><p>- Experience in Production Deployment and On-Call Support.</p><p>- Experience in solving problems and working with a team to resolve large scale production issues.</p><p>- Good to have knowledge in Ansible</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-03T01:11:59.000Z"
+  },
+  "company": {
+    "name": "Wipro",
+    "link": "https://in.linkedin.com/company/wipro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85400,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

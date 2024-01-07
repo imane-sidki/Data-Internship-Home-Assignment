@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Key projects:</strong></p><p>\u2022As a Senior Site Reliability Engineer, you will be responsible for the day-to-day maintenance, operational support, and reliability of Internet-based and in-store systems.</p><p>\u2022On an on\u00adgoing basis, this position will help identify root causes of operational issues and partner with other team members to drive resolution.</p><p><br></p><p><br></p><p><strong>Daily Responsibilities:</strong></p><p>\u2022Provide break/fix, customer support, and communication to product teams</p><p>\u2022Create and manage Service Level Indicators (SLIs), and Service Level Objectives (SLOs) using New Relic, and Splunk</p><p>\u2022 Resolve performance bottlenecks using data from monitoring tools, and profiling utilities like dotTrace, dotMemory, and PerfView</p><p>\u2022Manage configuration of monitoring, and alerting in New Relic, Splunk, and Pager Duty</p><p>\u2022Implement OS, and application changes as needed using Chef and Jenkins</p><p>\u2022Create and maintain system, process, and training documentation</p><p>\u2022 Drive root cause analysis and post-mortem as needed</p><p>\u2022Conduct monthly OS patching and deploy OS, application, and infrastructure changes</p><p><br></p><p><br></p><p><strong>Qualifications:</strong></p><p>\u20224-6+ years supporting external, customer-facing web services for a large site</p><p>\u20224-6+ years installing, configuring, and troubleshooting Windows-based systems and services using IIS and MSSQL</p><p>\u2022 2-3+ years using Chef to manage servers in Windows environment</p><p>\u20222-3+ years using Splunk, New Relic, and Pager Duty in a large, customer-facing environment</p><p>\u20222-3+ years managing VIPs, pools, and members on F5 Big IP</p><p>\u2022Outstanding troubleshooting, attention to detail, written and spoken communication skills.</p><p>\u2022Experience defining and using Service Level Indicators (SLIs), and Service Level Objectives (SLOs)</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-07T18:15:44.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

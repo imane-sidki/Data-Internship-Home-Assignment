@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology,Pharmaceuticals,Research",
+    "description": "<p><strong>The Company </strong></p><p><br></p><p>Our client is a digital drug discovery company whose mission is to develop leading Machine Learning technology to serve customers and corporate partners in the healthcare, life sciences, biopharmaceutical, diagnostics, and precision medicine industries.</p><p><br></p><p>The team, which has grown steadily since its founding in 2016, is distributed and based around New York, Boston, and Toronto. The ML platform has been engineered to provide solutions and services focused on the large-scale predictive analytics of complex biomedical data across preclinical discovery.</p><p><br></p><p><strong>The Role </strong></p><p><br></p><p>As a Data Scientist focusing on imaging, you will work alongside expert Data Scientists to expand the image processing capabilities for the in vivo phenotyping platform based on embryonic zebrafish. You will also contribute to Data Science projects in genomics, clinical outcomes analysis, and chemoinformatics. Specifically, you will: </p><p></p><ul><li>Expand the Python-based image and video processing framework, using quantitative analysis and computer vision techniques to identify specific characteristics in embryonic zebrafish</li><li>Work with the Data Science team and the VP of Research to expand the capabilities of the ML framework, and address needs that arise for client projects across preclinical drug discovery</li><li>Actively participate in feedback sessions to help guide the development of the ML platform</li></ul><p><br></p><p><br></p><p><strong>You need </strong></p><p><br></p><ul><li>Expert knowledge of image processing (PhD degree preferred)</li><li>Knowledge of tools, concepts, and methodologies of analytics and machine learning</li><li>Skilled in the use of Python</li><li>Experience in dealing with high dimensional data (e.g. data fusion, feature transformation, feature selection)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T07:54:49.000Z"
+  },
+  "company": {
+    "name": "Vivid Technology ",
+    "link": "https://uk.linkedin.com/company/vivid-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

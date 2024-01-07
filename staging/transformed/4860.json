@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Associate (Production support  PaaS)",
+    "industry": "Financial Services",
+    "description": "Job Description:<br><p><strong>Job Title: </strong>Site Reliability Engineer (SRE)<br></p><p><strong>Corporate Title: </strong>Associate<br></p><p><strong>Location: </strong>Cary, NC<br></p><p><strong>Overview <br></strong></p><p>Site Reliability Engineer (SRE) sits within Application Integration Platforms (AIP). The AIP mission is to build the commercial, technical, architectural, and operational frameworks that will allow Deutsche Bank to operate successfully and securely. PaaS is the strategic application-hosting platform of the Bank and hosts more than 50% of Bank's workloads. As a part of the team, you will be responsible for the delivery of on-premises and public-cloud based PaaS using third party vendor solutions that leverage Docker and Kubernetes. You will also provide on-demand access to technology services needed to build, host and manage bank applications using a variety of infrastructure solutions.<br></p><p><strong>What We Offer You:<br></strong></p><ul><li><p>We offer competitive health and wellness benefits, empowering you to value life in and out of the office<br></p></li><li><p>An environment that encourages networking and collaboration across functions and businesses<br></p></li><li><p>Conveniently located nature trails, accessible year-round<br></p></li></ul><p> Hear from our people and look inside our office: <u>DB@The Muse<br></u></p><p><strong>Your Key Responsibilities:<br></strong></p><ul><li><p>Production support of PaaS infrastructure which includes incident, change, and problem management with a focus on maintaining the security and stability of the platform<br></p></li><li><p>Collaborate with engineering, site reliability engineering (SRE) teams to host containerized workloads using the above technologies in the standardized, governed, and bank-approved manner<br></p></li><li><p>Work closely with various vendors and internal teams, to ensure compliance with technology roadmap and security requirements on application, infrastructure, and operating system level<br></p></li><li><p>Enhanced operational activities with trouble shooting and resolving issues requiring system functional knowledge and advanced knowledge of the underlying technologies being supported<br></p></li></ul><p><strong>Your Skills and Experience:<br></strong></p><ul><li><p>In-depth working experience with Linux containers, Ansible-like <span class=\"WIK2\">configuration/automation</span> tools, and OpenShift technologies; experience with monitoring stack like Grafana and Prometheus will be handy in daily activities<br></p></li><li><p>Exposure to middleware technologies like WebLogic, JBoss, and Tomcat is preferred<br></p></li><li><p>Work experience in operations and infrastructure models with strong troubleshooting skills including basic networking knowledge; in-depth knowledge and experience with ITIL process is required to perform business as usual (BAU) activities<br></p></li><li><p>Experience with Google Cloud Platform desired<br></p></li><li><p>Good communication skills are required to collaborate with engineering and applications teams at various stages<br></p></li></ul><p> <br></p><p><strong>For external candidates:</strong> Please note, we are unable to consider external candidates who require sponsorship for work visas for this position. Please continue to review the Deutsche Bank Careers website for other opportunities. <br></p><p>Our values define the working environment we strive to create - diverse, supportive and welcoming of different views. We embrace a culture reflecting a variety of perspectives, insights and backgrounds to drive innovation. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.<br></p><p>We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.<br></p><p>Click here to find out more about our diversity and inclusion policy and initiatives.</p><p><br>We are an Equal Opportunity Employer - Veterans/Disabled and other protected categories. Click these links to view the following notices: EEO is the Law poster and supplement; Employee Rights and Responsibilities under the Family and Medical Leave Act; Employee Polygraph Protection Act and Pay Transparency Nondiscrimination Provision.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T20:43:55.000Z"
+  },
+  "company": {
+    "name": "Deutsche Bank",
+    "link": "https://de.linkedin.com/company/deutsche-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cary",
+    "region": "NC",
+    "postal_code": "27511",
+    "street_address": null,
+    "latitude": 35.791473,
+    "longitude": -78.78114
+  }
+}

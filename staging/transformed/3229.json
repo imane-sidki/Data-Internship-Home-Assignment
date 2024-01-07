@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Recent Grad",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>About Datadog<br><br></u></strong>We're on a mission to build the best monitoring platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale\u2014trillions of data points per day\u2014providing always-on alerting, metrics visualization, logs, and application tracing for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.<br><br>Students can sign up anytime for a free Datadog Pro account!<br><br><strong><u>The Opportunity<br><br></u></strong>We\u2019re looking for recent graduates to join us to help collect, aggregate, visualize, and analyze extremely high-scale metrics, logs, and application data. You'll join one of Datadog's software teams and work alongside other engineers to help solve complex problems. Whether you are writing a new integration, building data pipelines, or working with the open source community, our interns are key contributors to our product. This role will be based in our New York or Boston offices.<br><br><strong><u>In This Role You Will<br><br></u></strong>Solve a scaling bottleneck in a critical service, deploy a new feature to production and progressively roll it out with feature flags, and investigate and fix a production issue from a service your team owns. You will also create a way to optimize a service to handle more traffic and in partnership, with your team, planning the most important projects to work on next.<br><br><strong><u>Requirements<br></u></strong><ul><li>You are in the process of receiving/have a degree in Computer Science, Software Engineering, or a related field</li><li>You are targeting a 2022 full-time start date</li><li>You are comfortable coding in one or more languages</li><li>You value code simplicity and performance</li><li>You have worked as a software engineering intern or have related industry experience</li><li>You want to work in a fast-paced environment that values its employees and customers</li><li>You are a self-starter who enjoys partnering with other engineers and solving difficult problems<br></li></ul><strong><u>Bonus Points<br></u></strong><ul><li>You have worked at high scale with systems like Redis, Cassandra, or Kafka</li><li>You wrote your own data pipelines once or twice before</li><li>You have significant experience with Go or Python<br></li></ul><strong><u>Why You Should Apply<br></u></strong><ul><li>Mentorship opportunities with team members, leadership, and beyond</li><li>Continuous career and professional development opportunities</li><li>Training to develop an in-depth understanding of our product and space</li><li>Relocation stipend and travel benefits</li><li>Intern cohort and monthly company social events</li><li>Networking opportunities with across all teams at Datadog</li><li>Unlimited snacks &amp; drinks in our office</li><li>Catered Lunches on Monday, Wednesday, and Friday</li><li>Commuter benefits</li><li>Beautiful offices in convenient locations with amazing views<br></li></ul>As the COVID-19 crisis continues to change globally, our hiring plans will change with it. We are following current company safety guidelines with the goal to hire team members who will work within one of our offices (NYC, Boston, Paris) once it\u2019s safe to do so. We will update all applicants with the appropriate changes when necessary.<br><br><strong><u>Equal Opportunity At Datadog<br><br></u></strong>Datadog is an Affirmative Action and Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.<br><br><strong><u>Your Privacy<br><br></u></strong>Any information you submit to Datadog as part of your application will be processed in accordance with Datadog\u2019s Applicant and Candidate Privacy Notice.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T23:42:47.000Z"
+  },
+  "company": {
+    "name": "Datadog",
+    "link": "https://www.linkedin.com/company/datadog"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95200,
+    "max_value": 167000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

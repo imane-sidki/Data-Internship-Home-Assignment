@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Internet",
+    "description": "Replicated is the modern way to ship multi-prem software. Replicated helps software vendors quickly and easily deploy their applications to any customer using a single architecture.<br><br>The Replicated platform provides all of the tools needed to operationalize and scale the distribution of Kubernetes applications into any enterprise environment. Those tools include Kubernetes-native versions of release channels, customer license management, automated troubleshooting, and a nextgen end-customer admin experience.<br><br>Replicated is committed to cultivating an efficient, respectful workplace. We know that innovation thrives on teams where diverse points of view come together to solve hard problems in ways that are just now possible. As such, we explicitly seek people that bring diverse life experiences, diverse educational backgrounds, diverse cultures, and diverse work experiences.<br><br>We are fully remote and plan to stay that way! Most roles are open in any state in the US. We're open to candidates in Canada and the UK also.<br><br>Replicated is looking for a Site Reliability Engineer to help us improve the automation and resiliency of our software infrastructure. We build tools to help other software developers deliver private on-premises versions of their software to enterprise customers. These tools include automated cluster-installers, container image registries, automated troubleshooting collectors, vendor dashboards, and microservices to connect them all. We run our Kubernetes infrastructure in the public cloud, and have invested heavily in automation, and are looking to expand that investment with additional cloud-native tools and automation.<br><br>The culture at Replicated is entrepreneurial, fast-paced, and engineering oriented. We value cutting-edge technology and aim to get the most out of emerging open source standards. Our engineering team is working every day to solve complex problems and develop world-class software. You will work with the core engineering team to continuously improve the observability and reliability of the services we deploy. This role is perfect for someone who has developed some technical depth in a few areas, and is eager to get a lot deeper (particularly with Kubernetes).<br><br><em>What you'll be doing:<br></em><ul><li>Manage the Replicated software infrastructure and the Kubernetes clusters it runs on</li><li>Improve the observability and resiliency of our systems</li><li>Write code and help support new services, products, and features</li><li>Help Replicated customers solve challenging problems with their applications and the clusters they're deploying to</li><li>Occasional on-call support<br></li></ul><em>What you bring to the role:<br></em><ul><li>1+ years experience as a developer, site reliability engineer, or devops engineer</li><li>Strong command of at least 1 programming language</li><li>Experience with Linux systems administration</li><li>Excellent technical communication skills</li><li>Passion for software engineering and automation</li><li>Excellent collaboration skills<br></li></ul><em>Nice to haves:<br></em><ul><li>Experience with Kubernetes, Docker, and containers</li><li>Experience with Terraform, Ansible, Cloudformation, Saltstack, Puppet, Chef, or other infrastructure automation tools.</li><li>Experience with CNCF tools</li><li>Contributions to open source projects or involvement with OSS communities</li><li>Development experience in Go, Typescript, bash, Node, Javascript, Python<br></li></ul>Not sure you meet 100% of our qualifications? Please apply anyway!<br><br>We invest in our team and love candidates who are eager to learn and grow. We have a fantastic team of highly collaborative individuals who enjoy learning, growing, and mentoring others.<br><br><u><strong>OUR VALUES<br><br></strong></u><strong>Curious.</strong> We are driven by a passion for solving hard problems and propelled by a shared desire to continuously learn.<br><br><strong>Trailblazing.</strong> We have the confidence to pursue new avenues and the courage to zig when so many others zag.<br><br><strong>Humble.</strong> We are proud of our accomplishments but understand that we haven't solved every problem, yet. We're on a journey of discovery and improvement.<br><br><strong>Dedicated. </strong>We take the long view when it comes to how we treat each other, how we treat our customers, and how we build our technology.<br><br><strong>Trusting and trusted. </strong>We inherently trust each other and believe in empowerment and autonomy so people can bring and do their best.<br><br><strong>Inclusive. </strong>We strive for diversity and inclusiveness because we know that being diverse and inclusive helps people, companies and communities thrive.<br><br><strong>Care personally.</strong> We know each member of our team is valuable and deserving of our active listening, understanding, and support.<br><br><strong><u>Benefits<br><br></u></strong>We offer strong benefits to help you stay healthy and productive:<br><ul><li>Health/Dental/Vision</li><li>Life/AD&amp;D</li><li>LTD/STD</li><li>FSA</li><li>401K</li><li>Partner perk programs</li><li>Generous time off, we expect you to take a minimum of 3 weeks of per year</li><li>Laptop+accessories you need to get set up</li><li>Generous home office set up allowance or co-working space allowance - up to $10,000 per year!</li><li>Curiosity Budget to help you keep learning and growing!<br></li></ul>Replicated is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We encourage applicants of all backgrounds and we work to make sure that all team members have an equal opportunity to succeed.<br><br><em>We do not accept unsolicited assistance from any headhunters or recruitment firms for any of our job openings. All resumes or profiles submitted by search firms to any employee at Replicated in any form without a valid, signed search agreement in place for the specific position will be deemed the sole property of Replicated. No fee will be paid in the event the candidate is hired by Replicated as a result of the unsolicited referral.<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:22:23.000Z"
+  },
+  "company": {
+    "name": "Replicated",
+    "link": "https://www.linkedin.com/company/replicated"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

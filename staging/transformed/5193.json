@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE) - Cloud Technologies",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple Cloud Technologies is centralized organization to enable 3rd party cloud access and adoption across Apple. You will partner with developers, system and site reliability engineers and adopters to understand their challenges, work through their issues and provide solutions that can be adopted widely.  The ideal candidate is someone with a proven track record, sound technical knowledge and skills in delivering large scale complex software solutions deployed on 3rd party cloud (e.g. AWS, GCP).<br><br><br>This role will be responsible for designing, building, running, and monitoring public cloud infrastructure to support a variety of mission critical services. This is a highly technical, hands-on role that requires expertise supporting systems at enterprise scale. The candidate will deliver innovative solutions in key areas:<br><br><br>Engineering - Continuously optimize secure, scalable and performant security tools and service.<br><br><br>Reliability - Drive fault detection and correction, performance and uptime at global scale.<br><br><br>Monitoring - Instrument systems to gain visibility and understanding of how they are performing at any time<br><br><br>Automation and orchestration to enable <br><br>    * Accelerated infrastructure, application and software configuration deployment<br><br>    * Automated response to alerts or indicators of performance issues<br><br>    * Infrastructure as code<br><br> <br><strong>Key Qualifications<br></strong> <br>5+ years of experience in Software Engineering and Systems Engineering to manage operations.<br><br>Experience supporting infrastructure and services in public and private cloud environments (AWS, GCP, OpenStack).<br><br>Proficient with various programming languages such as Python/Java/Ruby/Perl/Go/Makefile for building automation or integration with APIs.<br><br>Experience with common formats such as JSON, YAML and compression utilities.<br><br>Expertise with monitoring or log aggregation tools (Prometheus, Grafana, Splunk, ELK)<br><br>Expertise in key SRE Skills (Scalability, Reliability and Observability).<br><br>Familiarity with CI/CD tools and deployment processes.<br><br>Solid understanding and experience with centralized configuration management, coordination and provisioning technologies, such as Ansible, Chef, Puppet.<br><br>Experience implementing and working with open source frameworks.<br><br>Excellent communication skills, must be capable of working with cross functional technical and business teams and varying levels of management.<br><br>Understanding of Agile methodologies like Scrum and be able to work in fast-paced environment.<br><br>Strong project management skills, including excellent presentation skills,<br><br>Must be capable of writing detailed solution specifications, diagrams, best practices/standards documentation, operating procedures, test plans/test reports.<br><br>Solid understanding Linux/Unix system internals, including kernel tuning.<br><br>Failure Testing and Chaos Engineering.<br><br>Working knowledge of network protocols and network based services, including routing and network load balancing.<br><br>Experience with virtualization technologies.<br><br>Solid understanding of storage systems, including network filesystems.<br><br>Experience building and supporting containerized applications on various platforms like GKE, EKS, ECS.<br><br> <br><strong>Description<br></strong> <br>Be part of an engineering team scaling the core cloud platform for thousands of applications in a secure manner, focusing on automation of operations and high availability. <br><br><br>You will be a proactive hands-on engineer automating operations, improve platform features and observability and strategist in key design and architecture initiatives with a broad knowledge in cloud and operational excellence. <br><br><br>Responsibilities include:<br><br><br>* Engineer and support cloud platform IaaS and PaaS services.<br><br><br>* Partner with application teams to provision scalable workloads reliably across distributed compute resources.<br><br><br>* Provide engineering and operational support for distributed systems and network based information security tools, including for configuration management and provisioning.<br><br><br>* Implement and maintain security controls.<br><br><br>* Work closely with development teams to understand application performance and behavior patterns to proactively monitor, tune and correct issues before they occur.<br><br><br>* Identify opportunities to improve security tooling reliability, performance and security.<br><br><br>* Develop tools and automation to eliminate manual and repetitive efforts.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor of Science in Computer Science or equivalent experience 4+ years<br><br> <br>Role Number: 200259685<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T14:28:28.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80000,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

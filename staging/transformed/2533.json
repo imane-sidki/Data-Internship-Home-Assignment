@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>About NetApp</strong></p><p>NetAppis a Fortune 500 company that believes in the transformative power of data \u2013 to expand customer touchpoints, to foster greater innovation, and to optimize operations. We are designed for simplicity, focused on data protection, and open to enriching customer solutions for on premise and/or cloud environments. We\u2019ve built a Data Fabric for a data-driven world \u2013 to simplify and integrate data management across the resources that are best for the business. We bring enterprise-grade data services customers rely on into the cloud, and the simple flexibility of cloud into the data center. And we do it with industry-leading solutions that work across diverse environments and the world\u2019s biggest hyper-scale cloud providers.</p><p></p><p>At NetApp, we fully embrace and advance a diverse, inclusive workforce with a culture of belonging that enables our employees to bring their whole selves to do their life\u2019s best work.</p><p></p><p><strong>Who do we look for?\u202f</strong></p><p>Are you a continuous learner who wants to join an empowered team of forward-thinking, smart, dedicated technologists that approaches every problem with fresh eyes? If you answered yes, you may be who NetApp is looking for!</p><p>We recognize that not everyone fits neatly into any checklist, but below are some of the skills and experience we think will help make you successful in this role. If you don\u2019t match everything on this\u202flist, but\u202fare excited about the opportunity and think you could contribute, we\u2019d love to hear from you.</p><p></p><p><strong>Job Description</strong></p><ul><li>Participate in product design, development, verification, troubleshooting, and delivery of a system or major subsystems</li><li>Collaborate with team members on designing and implementing software with a focus on simplicity, reliability, and manageability using C++</li><li>Write unit and automated integration tests</li><li>Participate in technical discussions within the team and with other groups within the Business Unit</li><li>Receive guidance and mentoring on assigned tasks from senior engineers, managers, and technical team</li><li>Participate in virtual and cloud environments</li><li>Contributeinthe area of certificates, encryption, key management or other security related areas.</li></ul><p><strong>Job Requirements</strong></p><ul><li>Experience with multiple programming languages is a plus</li><li>Proficiency in C, C++, and/or Python</li><li>Experience with Linux/FreeBSD development.</li><li>Understanding of multi-threaded &amp; multi process environments</li><li>Familiarity with TCP/IP protocols and networking applications development</li><li>Possess\u202fexceptional\u202fwritten and verbal communication skills</li><li>Strong aptitude for learning new technologies</li><li>Ability to work on a diverse team</li></ul><p><strong>Education and Experience</strong></p><ul><li>Less than 3\u202fyears of software development experience</li><li>A Bachelor of Science degree in Computer Science or equivalent(December 2021 graduates encouraged to apply)</li><li>Passion for writing and testing high quality code</li><li>Broad knowledge of computer science fundamentals</li><li>Projects, professional experience, or coursework related to operating systems, computer architecture, multi-threading, data structures &amp;\u202falgorithms</li></ul><p></p><p><em>\u201cAt NetApp, we fully embrace and advance a diverse, inclusive global workforce with a culture of belonging that leverages the backgrounds and perspectives of all employees, customers, partners, and communities to foster a higher performing organization.\u201d \u2013 George Kurian, CEO</em></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:38:18.000Z"
+  },
+  "company": {
+    "name": "NetApp",
+    "link": "https://www.linkedin.com/company/netapp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92600,
+    "max_value": 132000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

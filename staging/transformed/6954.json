@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Software Engineer",
+    "industry": "Hospital & Health Care,Information Technology and Services",
+    "description": "<p>We are looking for a Backend Software Engineer to join our Integrations team. Offering $30/hr. on a 6-month Contract (w/ ability for perm conversion).</p><p><br></p><p>Minimum Qualifications:</p><p><br></p><p>Bachelor\u2019s degree in Computer Science, Computer Engineering, or related field</p><p>Proficiency with software development</p><p>Familiarity with agile principles like continuous build, test, integration, and deployment</p><p><br></p><p>Preferred Qualifications:</p><p><br></p><p>2+ years\u2019 experience as a member of a software development team</p><p>Skilled knowledge and experience developing and maintaining data communication systems and architecture</p><p>Ability to develop and troubleshoot data flow processes, translation maps</p><p>Knowledge of Web Services, RESTful API development</p><p>Experience with GoLang or another programming language</p><p>Experience with cloud development with AWS, Azure, or other cloud providers is a plus</p><p>Knowledge of relational databases, PostgreSQL or other relational</p><p>Experience with Docker and development of containerized applications</p><p>Familiarity with FHIR and healthcare interoperability standards is a plus</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T14:09:16.000Z"
+  },
+  "company": {
+    "name": "Revolution Technologies",
+    "link": "https://www.linkedin.com/company/revolution-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Melbourne",
+    "region": "FL",
+    "postal_code": "32902",
+    "street_address": null,
+    "latitude": 28.079931,
+    "longitude": -80.603516
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud DevOps Engineer",
+    "industry": "Computer & Network Security",
+    "description": "<p>The<strong> Cloud DevOpsEngineer</strong>will be working with the engineering team and focusing on AWS/Azure/GCP/OCI infrastructure and automation.A key part of the role is championing and leading infrastructure as code. The other major role is developing and maintaining the Python scripts to support the automation jobs.The Engineer will work closely with Dev/QA team to support our SaaS product base upon the public cloud platform.</p><p><br></p><p><strong>Duties &amp; Responsibilities:</strong></p><ul><li>Design cloud infrastructure that is secure, scalable, and highly available on AWS</li><li>Work collaboratively with software engineering to define infrastructure and deployment requirements</li><li>Provision, configure and maintain AWS/Azure/GCP/OCI cloud infrastructure defined as code</li><li>Ensure configuration and compliance with configuration management tools</li><li>Administer and troubleshoot Linux based systems</li><li>Troubleshoot problems across a wide array of services and functional areas</li><li>Build and maintain operational tools for deployment, monitoring, and analysis of AWS/Azure/GCP/OCI infrastructure and systems</li><li>Develop and maintain the infrastructure-related Python tools.</li><li>Work with developers to develop business-level Python tools. </li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>At least 3-5 years of experience building and maintaining AWS infrastructure (VPC, EC2, Security Groups, IAM, ECS, CodeDeploy, CloudFront, S3)</li><li>Strong understanding of how to secure AWS environments and meet compliance requirements</li><li>Hands-on experience deploying and managing infrastructure with Terraform</li><li>Hands-on experience developing with Python.</li><li>Solid foundation of networking and Linux administration</li><li>Experience with Docker, GitHub, Jenkins, ELK anddeploying applications on AWS</li><li>Ability to learn/use a wide variety of open source technologies and tools</li><li>Strong bias for action and ownership</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T00:01:32.000Z"
+  },
+  "company": {
+    "name": "Fortinet",
+    "link": "https://www.linkedin.com/company/fortinet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

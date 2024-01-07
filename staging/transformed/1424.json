@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Data Scientist",
+    "industry": "Marketing and Advertising,Internet,Consumer Goods",
+    "description": "Have you ever wanted to disrupt a $70bn industry and be a key member of a fully integrated consumer and business facing marketing company which is supported by a supply chain that stretches from the US to Europe and across the Southern Hemisphere? Do you fancy a deep-dive into the intricate details of research and machine learning while maintaining the nimbleness of a data-driven, digital company? Are you keen to help a young, fast-growing company continue to evolve into a world-class, employer of choice? Well, then, come say hi!<br><br>Firstleaf/Penrose Hill is looking for a Jr. Data Scientist to report directly to our Principal Research and Machine Learning. In this multi-faceted role you will provide support for all Data Science needs at Firstleaf including internal and external facing products. You will also contribute to critical data analytics and the creation of algorithms and models to empower data-driven decision making.<br><br>A few examples will illustrate some of your challenges<br><ul> <li>Work with FOSS/GC/MS wine chemistry data to create descriptive Machine Learning models and identify novel compounds and assist in maintaining the wine chemistry dataset</li> <li>Creation of model performance and status dashboards both internal and external to the Research and Machine Learning Department including Statistical Modeling/Process Control</li> <li>Research and computational experimental design to identify key products and optimizations</li> <li>Contribute to external visibility for the Research and Machine Learning Department both internally to Firstleaf and externally to customers (Blogs, Press Releases, Technical Documentation)</li> <br><br></ul><strong><u>Requirements<br><br></u></strong><li>Jupyter, Pandas, Numpy, Scikit-learn, Matplotlib, SciPy</li><li>Supervised and unsupervised regression and classification models</li><li>Data cleaning, distribution analyses, and visualization</li><li>Statistics</li><li>Python and SQL</li><li>Revision control (Git and Github)</li><li>Scientific approach to problem solving with good documentation practices</li><li>Ability to answer questions using data science and communicate key findings to stakeholders; proficiency in technical communication</li><li>Product oriented data science processes</li><li>Experience with Mass Spectroscopy and Gas Chromatography operations and data analysis<br><br></li><u><strong>Benefits<br><br></strong></u>Working with the world's best wine company isn't enough?<br><br>Seriously though, we offer remote work*, and a location agnostic philosophy added to a very flexible work schedule. Unlimited vacation time. Further, we offer a truly competitive compensation package with bonus and stock options grants, plus choices with medical, dental and vision coverage, as well as flexible spending accounts. life insurance, 401(k), employee assistance program, discounted pet insurance. And to top it off a monthly wine credit with our wine club, Firstleaf.<br><br><li>Work location is flexible if approved by the Company except that the position may not be performed remotely from Colorado.</li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T03:40:07.000Z"
+  },
+  "company": {
+    "name": "Penrose Hill",
+    "link": "https://www.linkedin.com/company/penrose-hill"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

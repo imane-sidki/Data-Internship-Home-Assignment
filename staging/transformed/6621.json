@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Skills equiv. to 6-10 years in comparable position. Responsible for applications development in an enterprise architecture environment within .net framework using C#. Must be able to apply SDLC concepts and have a proven track record of delivering solid, robust applications. Must have a good understanding of Object Oriented Programming concepts, have experience working on distributed platforms (Windows preferred or UNIX) and have experience in a .net framework enterprise architecture environment. Knowledge of Rational Unified Process methodology, Agile or other iterative development methodologies is a plus. Must have strong interpersonal, analytical, problem solving and organizational skills, and the ability to independently work as a contributing member in a high-paced and focused team.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T21:22:18.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85044",
+    "street_address": null,
+    "latitude": 33.33322,
+    "longitude": -111.98758
+  }
+}

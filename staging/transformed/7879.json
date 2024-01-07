@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p>The Site Reliability Engineering team at Workday maintains the reliability and availability of our customer environments. The team builds and crafts solutions to scale our day to day operations and support Workday customers!. We are a fast paced and diverse team located across the globe.</p><p><br></p><p><strong>About the Team</strong></p><ul><li>In this role, you must think about our customers (both internal and external), delivering quickly on a wide range of daily tasks - from environment provisioning, performance monitoring, environment troubleshooting, ad-hoc walk ups and automation efforts; while creating transparency of work being performed.</li><li>This position requires a good understanding of Linux systems in a Production Environment as you will be part of a team that is directly responsible for writing and maintaining scripts (bash, ruby, python) that support the environment provision process.</li><li>About You</li><li>About You</li><li>You understand moving fast is key for the company and ensuring our Workday Service is available 24/7/365 requires on-call participation, careful maintenance planning of changes, detailed runbooks - documentation, collaboration and team due diligence around the 100's configuration tasks that we perform daily!. If the work performed is manually repeated often, you find a way to automate the task. More so, you deliver!</li></ul><p><br></p><p><strong>Basic Qualifications: </strong></p><p><br></p><ul><li>3-5+ years of Environment Operations experience</li><li><strong>MUST</strong> have, Experience running and maintaining a 24x7 Internet-oriented production environment, preferably across multiple data centers.</li><li><strong>Must</strong> have BS or MS degree in Computer Science, Engineering, or related technical field, or equivalent experience</li><li>Experience deploying and operating: Apache Tomcat and HTTPd, MySQL, Cape Clear ESB, Subversion, Java web applications.</li><li>Proven expertise on Linux: SSH and Tunnels are your only means to gain server access. You can debug with the best of 'em using command line basics like \"top, sar, tcpdump, iptables dmesg\" to name a few.</li><li>Experience with many tool sets: Chef, Puppet, OSSEC, SPLUNK, SOLAS, Bladelogic, Ansible, JIRA, Confluence</li></ul><p><br></p><p><strong>Other Qualifications</strong></p><p><br></p><ul><li>Strong understanding of enterprise level thinking on a few levels; documentation, runbooks, root cause analysis, capacity-trending, bug fixes and scripting</li><li>Secret passion about monitoring. When false positives show up on your radar you quickly address it. Your inner wish list is to \"make monitoring phenomenal again\".</li><li>Can balance multiple tasks, make the right business decisions and tackle problems while under pressure, and prioritize and organize effectively.</li><li>Able to work some nights and weekends is required as part of the on-call support and production update rotation.</li><li>Experience with (CentOS, SunOS, Solaris/Linux/DevOps) is a plus.</li></ul><p><br></p><p>*LI-RS</p><p><br></p><p>https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Site-Reliability-Engineer_JR-50672</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T16:42:26.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Law Enforcement,Computer Networking,Information Technology and Services",
+    "description": "<p><strong>HOW TO APPLY</strong></p><p><strong></strong></p><p>To apply for this position, please click the \u201cEasy Apply\u201d button. Applications submitted without a resume will not be accepted.</p><p><strong></strong></p><p><strong></strong></p><p><strong>JOB DESCRIPTION</strong></p><p><strong></strong></p><p>The FBI\u2019s Applications and Data Division is looking for dedicated technologists to help us face some of the nation\u2019s toughest challenges. As a Site Reliability Engineer, your focus will be on ensuring maximum availability, reliability, security and performance for digital experiences by discovering and solving problems before they threaten mission-critical applications. You will apply your combined engineering and software development experience and skills to drive best practices, patterns and architectures to maximize the availability, reliability and stability of platforms, processing and delivery of systems. If helping the FBI stay ahead of threats by delivering on the potential of software and data sounds like the right fit for you, join our mission.</p><p></p><p></p><p><strong>SALARY LEVEL</strong></p><p></p><ul><li>Salary is commensurate to experience and location.</li></ul><p><strong></strong></p><p><strong></strong></p><p><strong>KEY REQUIREMENTS</strong></p><p><br></p><ul><li>Must be a U.S. citizen.</li><li>Must be able to obtain a Top Secret Clearance.</li><li>Meet the FBI\u2019s Employment Eligibility requirements.</li><li>Must be in compliance with the FBI Employment Drug Policy.</li><li>Must never have been convicted of a felony.</li></ul><p><strong></strong></p><p><strong></strong></p><p><strong>EDUCATION AND EXPERIENTIAL REQUIREMENTS</strong></p><p><strong></strong></p><p><strong>Education</strong></p><p><strong></strong></p><ul><li>All candidates must have a bachelor\u2019s degree or higher from a U.S.-accredited college or university.</li></ul><p><strong></strong></p><p><strong>All degrees must be verified by submitting college transcripts.</strong></p><p></p><p><strong>Specialized Experience</strong></p><p><strong></strong></p><ul><li>Experience reporting and communicating high-value metrics to leadership.</li><li>Understanding of how site reliability influences users.</li><li>Strong knowledge of data-center infrastructure and cloud platforms in working directly with the infrastructure and application teams.</li><li>Experience configuring and managing Software Defined Networks (SDNs).</li><li>Familiarity with Apache Web Server, Apache Tomcat, Eclipse Jetty, Java, content delivery network tools or similar software.</li><li>Experience with log management systems such as Splunk.</li><li>Experience with automated configuration management tools, including software such as Puppet, Ansible or Chef.</li><li>Working knowledge of automation and orchestration to enable continuous integration and continuous deployment of applications and infrastructure.</li><li>Experience with networking and networking protocols, including the use of routers, switches, firewalls and load balancers, as well as TCP/IP, the OSI Model and network analysis tools.</li><li>Experience in troubleshooting infrastructure problems and working with a team to resolve large-scale production issues.</li><li>Experience instrumenting and monitoring systems to gain visibility and understanding of how systems are performing.</li><li>Experience with agile methodologies, performance engineering and automation tools.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T16:35:08.000Z"
+  },
+  "company": {
+    "name": "Federal Bureau of Investigation (FBI)",
+    "link": "https://www.linkedin.com/company/fbi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Huntsville-Decatur-Albertville Area",
+    "region": null,
+    "postal_code": "35809",
+    "street_address": null,
+    "latitude": 34.708153,
+    "longitude": -86.59986
+  }
+}

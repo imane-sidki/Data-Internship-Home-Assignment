@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<strong>An analytics based professional services company located in NYC is looking to bring on a Senior Machine Learning Engineer for a large scale, end to end project! 100% remote!<br><br></strong>This Jobot Job is hosted by Christine McNamara<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $130,000 - $150,000 per year<br><br><strong>A Bit About Us<br><br></strong>A global organization dedicated to partnering with companies across multiple industries is looking to expand their data and analytics team by bringing on a Machine Learning Engineer. The role will involve working for one of their most prestigious clients and will have a heavy emphasis on Tensorflow and Kubernetes. If you are a data scientist that enjoys working end to end and the ability to see your work impact an entire industry- this is the role for you!<br><br><strong><br><br><strong>Why join us?<br><br></strong></strong><ul><li>Competitive base salaries</li><li>Annual performance bonuses</li><li>401k with company match</li><li>Work from home flexibility</li><li>Generous PTO and paid sick leave</li><li>Medical, dental, vision insurance</li><li>Training and career development<br></li></ul><strong>Job Details<br><br></strong><strong>Responsibilities<br></strong><ul><li> Design &amp; build data pipelines and production level ML infrastructure, using tools such as TFX, Kubernetes, Kubeflow Pipelines, TensorFlow</li><li> Work with data engineering teams to iterate upon the pipelines that feed the data science models</li><li> Deploy ML models under the constraints of scalability, correctness and maintainability.</li><li> Work with large big data sources, focusing on efficient data creation and feature engineering</li><li> Drive work on creating a state of the art codebase and machine learning lifecycle infrastructure</li><li> Contribute to the team through mentorship, technical methods, improvements in how we work<br></li></ul><strong>Qualifications<br></strong><ul><li> Masters or Bachelor's degree in Computer Science (or) math heavy degrees from top-tier universities with strong record of achievement</li><li> Deep knowledge of statistical methods and machine learning with special emphasis on deep learning algorithms.</li><li> 3+ Years of experience in algorithms, machine learning, data science (or) statistics</li><li> Experience solving problems using Machine Learning Frameworks(e.g. PyTorch, TensorFlow)</li><li> Experience with Big Query; Comfortable with writing complex SQL queries for data retrieval &amp; transformation</li><li> Proficient in Python / Pyspark.</li><li> Prior experience in management consulting and/or analytics based consulting is a plus<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T21:12:42.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

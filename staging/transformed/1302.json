@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (TX)",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "<strong><u>Description<br><br></u></strong>Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning and AI. Our business value and leadership has been recognized by various market research firms, including Forrester and Gartner.<br><br><strong><u>As Part Of This Job, You Will Be Responsible For<br><br></u></strong>We are looking for a Machine Learning Engineers for our team.<br><ul><li>Providing solutions for the deployment, execution, validation, monitoring, and improvement of data science solutions.</li><li>Creating high performance and scalable Machine Learning systems </li><li>Building reusable production data pipelines for machine learning models</li><li>Writing production quality code and libraries that can be packaged as containers, installed and deployed<br></li></ul><strong><u>Requirements<br></u></strong><ul><li> Demonstrate up-to-date knowledge in software engineering practices and provides solutions for the development, implementation and scaling, execution, validation, monitoring, and improvement of data science solutions</li><li>Collaborate with Data Engineers and Data Scientist to build data and model pipelines and help in running machine learning tests and experiments</li><li>Manage the infrastructure and data pipelines needed to bring ML solution to production</li><li>Demonstrate end-to-end understanding of applications (including, but not limited to, the machine learning algorithms) being created and maintain scalable machine learning solutions in production </li><li> Abstracts complexity of production for machine learning through the use of containers</li><li>Troubleshoots production machine learning model issues, including recommendations for retrain, re-validate, and improvements</li><li>3-5 years of experience with Big Data Projects using multiple types of structured and unstructured data</li><li>Ability to work with a global team, playing a key role in communicating problem context to the remote teams</li><li>Excellent communication and team work skills</li><li>Bachelor's degree or higher in computer science or related <br></li></ul><strong><u>Additional Skills Required<br></u></strong><ul><li>Technologies used would include Python (multiple versions), Spark, Hadoop, Docker, with an emphasis on good coding practices in a continuous integration context, model evaluation, and experimental design </li><li>Test driven development (prefer py.test / nose), experience with Cloud environments</li><li>Proficiency in statistical tools, relational databases &amp; expertise in programming languages like Python/SQL is desired<br></li></ul><strong><u>Benefits<br><br></u></strong>Significant career development opportunities exist as the company grows. The position offers a unique opportunity to be part of a small, challenging, and entrepreneurial environment, with a high degree of individual responsibility.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T16:33:01.000Z"
+  },
+  "company": {
+    "name": "Tiger Analytics",
+    "link": "https://www.linkedin.com/company/tiger-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

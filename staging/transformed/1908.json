@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "<strong>Job Description<br><br></strong><strong>The Role<br><br></strong>As a Software Engineer on the Client team, you'll get the opportunity to develop your skills and collaborate across Fidelity teams in a lively and dynamic environment. Working closely with our technical leads you will build secure, scalable, and resilient cloud-based microservices. Using modern Java frameworks, you'll help craft and implement REST API clients and services, exchange asynchronous messages between services and use SQL databases to manage data. You'll also write automated unit and integration tests, package software using containers, coordinate builds using continuous integration pipelines and prepare your services for deployment to AWS!<br><br><strong>The Expertise And Skills You Bring<br></strong><ul><li>Bachelor\u2019s degree in computer science or related field required</li><li>2 years experience in core Java technologies and frameworks like Spring Boot</li><li>Knowledge of database technologies and ability to write SQL</li><li>Experience building and deploying applications using continuous integration pipelines and automated deployment tools such as Jenkins</li><li>Unit and integration test automation using JUnit</li><li>Hardworking and open to learning new tools and developing with the latest technologies and frameworks</li><li>Can work well in a small, agile team in a very collaborative environment where your ideas are welcome</li><li>Proven analytical, communication, and organizational skills<br><br></li></ul><strong>The Team<br><br></strong>Fidelity Digital Assets, a Fidelity Investments Company, is developing a full-service enterprise-grade platform for storing, trading, and servicing digital assets, such as Bitcoin and Ethereum.<br><br>Fidelity Digital Assets adopts a results-oriented culture and startup attitude while serving as one of the most innovative business units within Fidelity Investments. Our global, diverse team of 130+ forward-thinking professionals lead with agility and creativity to build solutions that bridge the gap between traditional institutional investors and their exposure to digital assets. The firm\u2019s tenure and experience across multiple business lines present our employees with outstanding access to knowledge, technology, and resources that help the team reshape the future of finance.<br><br>Within Fidelity Digital Assets, the Client Engineering team is responsible for the development of backend services to manage client onboarding, account information, entitlements, and authorization services. The team writes code in Java and uses technologies such as Spring Boot, Docker, PostgreSQL, and SQS.<br><br><strong>Certifications<br><br></strong>Company Overview<br><br>At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: <em>to strengthen the financial well-being of our clients</em>. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients\u2019 money.<br><br>Join Us<br><br>At Fidelity, you\u2019ll find endless opportunities to build a meaningful career that positively impacts peoples\u2019 lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don\u2019t need a finance background to succeed at Fidelity\u2014we offer a range of opportunities for learning and growth so you can build the career you\u2019ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.<br><br>We invite you to <strong>Find Your Fidelity</strong> at fidelitycareers.com.<br><br>Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.<br><br>Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:27:22.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Durham",
+    "region": "NC",
+    "postal_code": "27717",
+    "street_address": null,
+    "latitude": 35.99695,
+    "longitude": -78.899025
+  }
+}

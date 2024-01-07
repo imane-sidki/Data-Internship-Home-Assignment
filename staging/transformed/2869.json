@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - Machine Learning",
+    "industry": "Retail",
+    "description": "<p><strong><u>Who We Are:</u></strong></p><p>Saks is a world-renowned luxury ecommerce destination. The company\u2019s unique approach combines a focus on the digital customer experience with a strong connection to a network of extraordinary stores that extends that seamless experience into the real world.</p><p>On its website and app, Saks offers an unparalleled selection of curated merchandise across fashion for women and men, beauty, jewelry, home d\u00e9cor and more. In addition to the shopping experience, customers come to Saks for inspiring editorial content, access to digital stylists, lifestyle experiences and other world-class services. The company is currently in the midst of a dramatic expansion, driven by significant enhancements to its platforms and offerings, with the goal of becoming the preeminent destination for luxury internationally.</p><p><br></p><p><strong><u>Position Description:</u></strong></p><p>With close to $1B in annual revenue and $500M of new investment, we are looking for multiple DevOps Engineers to help us double revenue and provide the best customer experience anywhere in luxury online shopping.</p><p>We get excited if you love to dive in and solve any problem on the way to serving customers and optimizing our business. We have opportunities in search, recommendations, email, machine vision, fraud prevention, logistics, pricing, forecasting, causal analysis, and more. You will be working in a state-of-the-art environment where clickstream data, search data, and most other data is at your fingertips in an all-new data warehouse. The technologies that we use include Snowflake, Salesforce Einstein, and PyTorch.</p><p></p><p><strong><u>Responsibilities:</u></strong></p><ul><li>Build real time, state of the art data pipelines to support machine learning use cases</li><li>Architect machine learning infrastructure to ensure models are build to be scalable, reusable and</li><li>Identify new data relevant to solve business problems and bring them into our Snowflake environment.</li><li>Design and architect data pipelines and flows from different sources</li><li>Create new or modify existing data pipelines</li><li>Partner with different stakeholders to troubleshoot and investigate any data issues</li><li>Make sure quality of the data and data processes meet the company standard</li><li>Work with leaders across the organization to understand and build simple data solutions to complex problems</li><li>Understand luxury online retail and identify opportunities to optimize and to apply ML</li><li>Train and deploy state of the art deep learning and other predictive models.</li><li>Productionize models in APIs and in direct interfaces with production systems.</li><li>Do everything with world-class quality.</li></ul><p></p><p><strong><u>Who You Are:</u></strong></p><ul><li>Master's degree in computer science or other quantitative area required</li><li>Four or more years of data engineering experience</li><li>Experience building high availability, low latency, and high throughput systems</li></ul><p><strong><u>You Also Have:</u></strong></p><ul><li>Excellent communication and interpersonal skills</li><li>Strong interest in e-commerce and strong desire to have a commercial impact</li><li>Experience in e-commerce or retail</li><li>Experience collaborating closely with a distributed, international team</li></ul><p><br></p><p><br></p><p><strong><em>Thank you for your interest with Saks. We look forward to reviewing your application.</em></strong></p><p><em></em></p><p><em>Saks provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Saks complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</em></p><p><br></p><p><em>Saks welcomes all applicants for this position. Should you be individually selected to participate in an assessment or selection process, accommodations are available upon request in relation to the materials or processes to be used.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T18:54:06.000Z"
+  },
+  "company": {
+    "name": "Saks Fifth Avenue",
+    "link": "https://www.linkedin.com/company/saksfifthave"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 98700,
+    "max_value": 183000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

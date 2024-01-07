@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services",
+    "description": "<strong>About QOMPLX<br><br></strong>Developer of enterprise operating system designed to support the development and management of decision platforms in virtually any business domain. The company's system delivers customers advanced detection and monitoring, adaptive response, and risk optimization capabilities against advanced attackers, enabling clients to quickly and easily integrate all of the disparate data sources across the enterprise into a unified analytics infrastructure to make better decisions.<br><br><strong>Job Summary<br><br></strong>Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other QOMPLX production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and codebase. We specialize in technical domains including networking, the Linux kernel, and specialized operational areas including scaling, algorithms, and distributed systems. You will ensure that QOMPLX's services, both internally-critical and customer-facing, meet or exceed user\u2019s expectations of reliability and uptime. You will work closely with our team of Platform and Product engineers to develop/deliver scalable solutions. You will also be working with Technical Architects, Product and Engineering Leaders to ensure stability and identify critical improvements.<br><br><strong>Requirements:<br></strong><ul><li>Run and stabilize QOMPLX\u2019s production services that support critical SaaS Infrastructure and services.</li><li>Monitor, maintain and help scale services that are integrated into SaaS and Product platforms leveraging monitoring and observability systems.</li><li>Manage end-to-end availability, performance of critical services and build automation to prevent problem recurrence.</li><li>Add, tune and maintain alert configurations and documentation as needed.</li><li>Design and build advanced automated operational and deployment frameworks alongside tooling and infrastructure to help engineering teams measure and increase their velocity.</li><li>Cultivate full-team participation in high quality, thoughtful software.</li><li>Participate in on-call/production support.</li><li>Work cross-functionally with engineering teams to generate scalable solutions while operating within customer and regulatory expectations</li><li>Work with engineering teams to better address needs and enable more effective and efficient developer throughput.</li><li>Develop metrics and performance indicators to track operational, security, and infrastructure effectiveness drive improvements</li><li>Participate in roadmap and sprint planning, execution, and retrospectives.<br><br></li></ul><strong>Qualifications:<br></strong><ul><li>5+ years experience as an SRE</li><li>You have experience engineering and supporting production services in a modern, containerized cloud environment</li><li>Proficiency with one or more scripting languages such as Javascript, Python, Ruby and/or Perl</li><li>Experience administering DC/OS or Kubernetes based microservices, web servers (nginx), and databases (MySql, Postgres, MongoDB ; Desirable - Redis, Cassandra)</li><li>Experience architecting high scalability/availability systems and running them at scale within AWS</li><li>Possess excellent analytical skills, technical aptitude and a proven ability to consistently solve complex problems</li><li>Have an ability to engage effectively with business and technical teams</li><li>Strong interpersonal skills as well as strong problem-solving and analytical skills</li><li>Maintain code quality across multiple environments</li><li>Strong experience with AWS technologies such as EKS, ELB, RDS, S3/EBS/Glacier and VPC</li><li>Proficiency with Docker containerization and administration.</li><li>Proficiency with Linux systems and administration</li><li>Experience with Terraform</li><li>Strong understanding of networking, routing, and security concepts</li><li>Experience deploying and administering integrated relational and non-relational database components within a production ecosystem</li><li>Proficiency in writing build and deployment automations</li><li>Proficient with monitoring tools and concepts</li><li>Experience with development tools such as Git</li><li>Experience with continuous integration frameworks such as Jenkins</li><li>Experience/Knowledge of Kafka, RabbitMQ, Nginx, and Redis<br><br></li></ul><strong>Technologies You\u2019ll Use:<br><br></strong>DC/OS, Kubernetes, Nginx, AWS, HybridCloud, Jenkins, Git, Docker, Kafka, Prometheus, Kibana, Elasticsearch, Grafana, Postgres<br><br><strong>Compensation/Benefits:<br></strong><ul><li>Competitive salary</li><li>Full range of benefits, including 401(k) and medical, dental &amp; vision coverage</li><li>Flexible \u201cPersonal Time Off (PTO)\u201d plan and 10+ paid holidays per year<br><br></li></ul><strong>Contact Us:<br></strong><ul><li>Apple for this role at https://www.qomplx.com/careers/</li><li>Please include a cover letter and your current resume with all inquires</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T19:25:30.000Z"
+  },
+  "company": {
+    "name": "QOMPLX",
+    "link": "https://www.linkedin.com/company/qomplx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tysons Corner",
+    "region": "VA",
+    "postal_code": "22030",
+    "street_address": null,
+    "latitude": 38.912,
+    "longitude": -77.22755
+  }
+}

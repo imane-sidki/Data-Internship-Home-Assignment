@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "https://www.range.co/careers/backend-engineer",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T14:50:27.000Z"
+  },
+  "company": {
+    "name": "Range",
+    "link": "https://www.linkedin.com/company/range-co"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Berkeley",
+    "region": "CA",
+    "postal_code": "94702",
+    "street_address": null,
+    "latitude": 37.869057,
+    "longitude": -122.27046
+  }
+}

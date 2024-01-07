@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "",
+    "description": "Atom is a mobile first, social ticketing platform that has re-imagined the movie experience from the ground up. We\u2019ve simplified everything from when you decide you want to see a movie to when the lights go down and the previews start. We\u2019re a team of bright, driven, and experienced developers, product designers, and movie lovers and we use data to improve the way our products work and theaters operate. We\u2019re backed by influential movie studios including Disney, Fox, and Lionsgate, and we\u2019re bringing innovative industry-first features to market such as dynamic pricing and pre-ordering concessions. Sound like fun? Come join our team!<br><br>As an engineer at Atom, you will be working with a group of highly motivated software developers who thrive on solving challenging problems with innovative solutions. We build large-scale distributed software systems in Scala, Java, Python and other languages. You will work with virtually all of the functional organizations across Atom - including Product, Marketing and Operations. We're a new team with many challenging problems waiting to be solved. Come help solve these problems with us.<br><br>We are a scrappy, well-funded and fast paced company looking to change the way people experience movies.<br><br><strong> Requirements <br></strong><ul><li>A Degree in Computer Science or a related field.</li><li>3+ years of experience in Software development. Preferably in back end engineering maintaining high traffic services</li><li>Strong Computer Science fundamentals and software development best practices</li><li>Strong Experience with AWS related technologies</li><li>Strong proficiency in at least two programming languages like Java, Scala, Python, Go or NodeJS</li><li>Experience in building horizontally scalable, available and secure RESTful services in a Microservices environment</li><li>Ability to thrive in a fast-paced, dynamic and ambiguous environment where continuous innovation is the norm</li><li>A willingness to roll up your sleeves and do whatever is necessary, despite challenges and obstacles</li><li>Played part in delivering big-data or high-volume production systems</li><li>This role does not include any sponsorship and that authorization to work in the US is a pre-condition to employment</li></ul>Nice to have<br><ul><li>Experience working with Play Framework and Scala</li><li>Demonstrated ability to thrive in startup environment</li><li>Passion for technology, learning and movies</li></ul>Here's what you'll do<br><ul><li>Architect, implement and maintain top quality software solutions, delivered on time and subjected to high volume of irregular and spiky traffic</li><li>Produce bullet-proof code that is robust, efficient and maintainable</li><li>Continually challenge what exists and explore what should be changed to best meet evolving business and market needs</li><li>Become an effective member of an on-call rotation for services owned by the team</li><li>Drive advanced algorithms and architecture design, execute and deliver technology innovation</li><li>Continually improve our services and technology stack</li></ul>About Atom Tickets<br><br>Atom Tickets changes the way people go to the movies with its revolutionary social movie ticketing app and website. Over 20,000 screens across the U.S. (AMC Theatres, Cinemark Theatres, Showcase Cinemas, etc) use Atom Tickets. The app's socially driven interface allows movie lovers to search for films instantly, invite friends, and buy concessions. Voted 2021 Best Small Companies to Work For in Los Angeles by Built in LA.<br><br>Atom Tickets is an equal opportunity employer. All aspects of employment, including hiring decisions, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state or local law - not only because it is the law, but also because we believe an inclusive and diverse workplace drives innovation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T14:38:41.000Z"
+  },
+  "company": {
+    "name": "Atom Tickets",
+    "link": "https://www.linkedin.com/company/atom-tickets"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postal_code": "90403",
+    "street_address": null,
+    "latitude": 34.010933,
+    "longitude": -118.491516
+  }
+}

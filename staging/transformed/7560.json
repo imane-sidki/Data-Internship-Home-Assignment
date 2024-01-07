@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AWS Data Engineer",
+    "industry": "Information Technology and Services,Computer & Network Security,Information Services",
+    "description": "<p><strong>AWS Data Developer</strong></p><p><strong>Location: McLean; VA (Fortune 500 client)</strong></p><p><strong><u>2 Days ONSITE after Pandemic</u></strong></p><p><strong>12 Months Contract</strong></p><p><br></p><p><strong><u>AWS Data Developer</u></strong></p><ul><li>We are migrating the legacy based platform into cloud Solution (Hadoop to AWS migration). Refactoring the Compute into AWS where we have Kubernetes container based solutions.</li><li>5+ years of experience in software development including design, coding, testing, and support</li><li>3+ years of Cloud infrastructure experience working with one or more of the following Amazon Web Services (AWS) Cloud services: EC2, EMR, ECS, S3, SNS, SQS, Cloud Formation, Cloud watch, Lambda</li><li>Hands-on experiences with Python and PySpark</li></ul><ol><li>Hadoop and AWS - must have hands-on experience with development, not administration.</li><li>Python is a must have with Spark/PySpark.</li><li>Kubernetes knowledge is nice to have</li></ol>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:31:26.000Z"
+  },
+  "company": {
+    "name": "Technology Ventures",
+    "link": "https://www.linkedin.com/company/technology-ventures"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

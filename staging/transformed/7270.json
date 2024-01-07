@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, great ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. <br><br><br>Are you passionate about building massively scalable services that surprise and delight? Do you have a natural curiosity for learning new technologies? If you answered yes to both questions, the Apple Pay Server engineering team wants to hear from you.<br><br> <br><strong>Key Qualifications<br></strong> <br>Significant experience (5+ years) in designing, implementing &amp; supporting highly scalable systems and services in Java, Scala and/or other JVM-based languages.<br><br>Experience with SQL, NoSQL or NewSQL technologies<br><br>Self-starter with strong customer and product focus<br><br>Able to communicate thoughtfully, using problem-solving skills and a learning mentality to build long-term relationships<br><br> <br><strong>Description<br></strong> <br>Apple Pay brought mobile payment to millions of customers and it\u2019s just the beginning. We are looking for engineers who are equally comfortable working at the bits and bytes level and crafting state of the art objected-oriented web-services. Imagine the freedom of a startup but with the funding and focus of the most valuable company in the world. <br><br><br>Job duties include the following: <br><br><br>-  Architect and implement new features for Apple Pay <br><br>-  Write bullet-proof Java code (thread-safe, performant, object-oriented, and inherently testable) <br><br>-  Work directly with the business team to collaborate on current and future initiatives <br><br>-  Work directly with the iOS client team on feature definition and development <br><br>-  Design specifications and protocols to tackle novel problems <br><br>-  Support ongoing development efforts <br><br>-  Work on overall team\u2019s efforts to fix bugs and diagnose existing issues <br><br>-  Embrace test-driven development <br><br>-  Unit tests are not optional on this team<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS degree in computer science or equivalent field plus 3-4 years software development experience or MS degree plus 1-2 years software development experience, or equivalent<br><br> <br><strong>Additional Requirements<br></strong> <br>Any of the following is an advantage: <br><br><br>Cryptography<br><br>JavaCard<br><br>EMV Payments<br><br>HSMs<br><br>Fintech experience <br><br>Payments experience<br><br> <br>Role Number: 200265160<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:24:35.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62600,
+    "max_value": 86400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Financial Services",
+    "description": "<p>Selby Jennings is working with a Dallas based investment manager on an incredibly exciting opportunity. They are looking to bring on ML/Data Engineers with a focus on Natural Language Processing and building ML algorithms.</p><p><br></p><p>You'd be one of the first hires in their Data Innovation and Insights team giving you the opportunity to take ownership and make a tangible impact on the firm. Further details to come upon your application.</p><p><br></p><p>What you have:</p><ul><li>1-5 years of experience</li><li>Strong programming experience in Python </li><li>Extensive experience in Natural Language Processing</li><li>Knowledge of regressions, classification algorithms, decision trees, random forests, and neural networks</li><li>Data scrubbing/cleaning experience</li><li>Knowledge of data streaming, Tensorflow, Spark, Kafka, and AWS are nice to have</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T22:12:13.000Z"
+  },
+  "company": {
+    "name": "Selby Jennings",
+    "link": "https://uk.linkedin.com/company/selby-jennings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

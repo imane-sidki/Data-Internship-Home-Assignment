@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer II",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "The Azure Edge + Platform Engineering System (AE+P ES) organization is responsible for running one of the largest scale engineering systems in the industry. Our services support the secure development and release of some of the most widely used products in the world.<br><br>The Artifact Services (AS) Team is responsible for managing storage, access, and retention of content produced in AE+P ES through large scale, highly reliable services. These services bridge the gap between producers and consumers of content, and are responsible for managing the content for its lifecycle. We are a diverse, agile team focused on delivering quality cloud based, scalable solutions in a thoughtful and flexible way. Come work on modernizing one of the largest scale engineering systems in the industry!<br><br><strong><u>Responsibilities<br><br></u></strong>This position is for someone that:<br><ul><li>Is interested in improving critical development and release scenarios</li><li>Wants to work on a highly collaborative, diverse, and agile team focused on delivering reliable cloud based, scalable solutions</li><li>Wants to work in a thoughtful and flexible environment that is constantly adapting to better enable effective delivery <br><br></li></ul><strong><u>Qualifications<br><br></u></strong>Required Qualifications:<br><ul><li>Proficiency in compiled languages such as C#, C++, or Java and scripting languages such as PowerShell, Python, or Bash</li><li>Familiarity with both cloud infrastructure such as Azure or AWS, and bare-metal hardware infrastructure</li><li>Familiarity with telemetry systems and querying languages such as Azure or AWS Data Lake, Azure Data Explorer, Apache Spark, or Splunk</li><li>Familiarity with debugging OS and hardware issues</li><li>Solid design and coding skills</li><li>BS or MS in computer science, related degree, or equivalent experience<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>4+ years of hands-on experience developing and managing services in a development, operations, and site reliability engineering role </li><li>Ability to both lead and collaborate within and across teams effectively</li><li>Experience creating, developing, delivering, deploying, and maintaining online services, especially architectures at scale</li><li>Experience with using telemetry to understand customer usage patterns as well as to diagnose and drive improvements to production services</li><li>Experience with debugging OS and hardware issues to diagnose and drive solutions to issues impacting production services<br><br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T05:20:44.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

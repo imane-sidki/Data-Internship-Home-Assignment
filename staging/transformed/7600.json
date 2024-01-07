@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p><strong>We\u2019d love to hear from you if you are looking for a tech company with the following:</strong></p><ul><li><strong>Huge market</strong>($800 billion market size), we are building the first AI-powered super app to help people own a car;</li><li>Open,<strong>transparent</strong>,merit-based culture;</li><li>Hyper growth -<strong>10X </strong>revenue growth in 2020;</li><li>Best user experience:<strong>#1 ranked app</strong>in the insurance comparison category;</li><li>Strong leadership: from Amazon, Microsoft, Facebook, Nvidia, Alibaba, etc. and rockstar colleagues;</li><li>A series C with<strong>$130M+total financing</strong>, backed by top VCs such as Y-Combinator, Goodwater, SV Angel, Funders Club, and Bow Capital, etc.</li></ul><p><br></p><p><strong>About jerry.ai:</strong></p><p>Jerry is the first Super App for car owners to help them save money on all their car expenses (insurance, loans, repairs, etc). Having builtthe#1 ranked appandthe fastest growing appin the insurance comparison category, we are tackling other areas of car ownership and looking for engineering talents to join us in expanding our product offerings. Headquartered in Silicon Valley, CA, we have offices in the U.S., China, and Canada.</p><p><br></p><p><strong>A few examples of the exciting projects that we are working on:</strong></p><ul><li>Create a smart prediction engine for customer\u2019s insurance coverage needs</li><li>Build predictive models on customer purchase behavior based on a large data set</li><li>Use telematics tracking to build customer driving risk profile</li></ul><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Analyze large amounts of data to discover trends and patterns, solve a wide array of challenging problems using different analytical and statistical approaches.</li><li>Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products.</li><li>Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends.</li><li>Partner with relevant teams (e.g. product, engineering, and marketing) to build better models, solve problems and identify trends and opportunities from both a market and user perspective.</li><li>SQL and MapReduce job tuning to improve data processing performance.</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>Bachelors/Masters Degree with 4+ years (or PhD with 2+ years) of experience working within an analytical role.</li><li>Strong SQL skills. Able to write algorithms needed for modeling and prediction that deals with advanced data structures.</li><li>Experience solving analytical problems using quantitative approaches.</li><li>Follow Data Science literature and advancements. The most successful candidates possess the ability to apply cutting edge advancements in data science methodologies to relevant business problems.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:24:17.000Z"
+  },
+  "company": {
+    "name": "Jerry",
+    "link": "https://www.linkedin.com/company/jerryinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

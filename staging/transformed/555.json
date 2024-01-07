@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Publishing,Computer Software,Online Media",
+    "description": "<p><strong>Job Summary </strong>| <em>Major goals and objectives.</em></p><p>Meredith Corporation seeks an experienced, detail-oriented <strong>SDET II</strong> to join our Consumer Engineering team. As a trusted partner to the developers, product owners and project managers, you will ensure that devotees of Meredith\u2019s iconic brands \u2013 including People, AllRecipes.com, InStyle, Martha Stewart Living, Better Homes &amp; Gardens, and dozens more \u2013 are engaged and delighted by our web sites.</p><p><br></p><p>The <strong>Software Development Engineer in Test II </strong>(SDET II) helps deliver the quality and performance of large scale, big data, custom hardware multi-platform software products that includes; web, API, micro service and mobile application interfaces. Incumbents in this position are experienced, hands on and self-motivated engineer who can work collaboratively in a continuous integration environment. This role involves working closely with Software Developers that includes leveraging shift-left methods to understand a complex domain and product. The SDET II focuses on contributing to the development of automated Functional Integration tests and end-to-end tests through open-source test frameworks for overall system testing within an Agile environment. This position typically works under limited supervision and direction. Incumbents of this position will regularly exercise discretionary and decision-making authority.</p><ul><li>Tests API, web, micro service and mobile based applications that reference large and complex back-end systems</li><li>Creates and maintains automated test cases, executes test suites, reviews and diagnoses reported bugs, and ensures overall system quality prior to a customer release</li><li>Designs, develops, maintains, and troubleshoots automated suites of tests through continuous integration for value added feedback</li><li>Works with the engineering teams to derive testing requirements throughout the development cycle</li><li>Reproduces, debugs, and isolates problems and verify fixes</li><li>Works closely with software developers to create software artifacts including test plans, test cases, test procedures and test reports</li><li>Works cross functional areas with internal partner engineering teams in a disciplined agile environment</li><li>Estimates own testing tasks and works productively with minimum supervision while showing excellent team attitude.</li></ul><p><br></p><p><strong>Essential Job Functions</strong></p><p><strong>Accountabilities, Actions and Expected Measurable Results</strong></p><p><strong>35%</strong>Designs, develops, maintains, and troubleshoots automated suites of tests through continuous integration for value added feedback</p><p><strong>35%</strong>Define testable user stories and acceptance criteria and to resolve any defects that may arise.</p><p><strong>15%</strong>Prepare and present test reports to include status and coverage</p><p><strong>10%</strong>Reproduces, debugs, and isolates problems and verify fixes</p><p><strong>5%</strong>Actively collaborate with stakeholders to clarify requirements and define test cases</p><p><strong>100%</strong></p><p><br></p><p><strong>Minimum Qualifications and Job Requirements </strong>| <em>All must be met to be considered.</em></p><p>Education:</p><ul><li>Four-year college degree in Software Engineering, Computer Science or related technical discipline such as Science or Engineering.</li></ul><p><br></p><p>Experience:</p><ul><li>6 years of experience, preferably in either a Software Development Engineer or (SDET) Software Development Engineer in Test role</li><li>Must have an understanding and ability to develop code in Java, Python, PHP or C++</li><li>Strong experience in API testing</li><li>Strong experience with XML, Databases and SQL</li><li>Hands-on experience with Linux, Windows and/or mobile devices.</li><li>Must have strong analytical and problem-solving skills as well as the ability to analyze complete problems in large systems.</li><li>Experience with Test processes, open-source test frameworks, test design strategies, writing test cases, and automating tests in Java with frameworks like JUnit/TestNG, Selenium, JMeter and Appium is preferred</li><li>Experience with Jenkins or other continuous integration systems</li><li>Experience with tools &amp; applications such as JIRA, Confluence, Bitbucket, Git and Artifactory/Maven</li><li>Must have previous experience with requirements, defect, functional, and performance management systems</li></ul><p><br></p><p>Specific Knowledge, Skills and Abilities:</p><ul><li>Ability to develop automated test for a set of stories</li><li>Ability to apply creative solutions to automate the application and/or a service</li><li>Utilize a variety of testing tools and able to use existing framework</li><li>Demonstrates exemplary teamwork and maintains the respect of others.</li><li>Demonstrates a strong drive and intellectual curiosity to investigate complex technical issues</li><li>Ability to collaborate effectively with all team members and with cross-functional teams</li><li>Utilizes a variety of testing tools and able to instruct others on their use.</li><li>Ability to switch context quickly and easily.</li><li>Must be detail oriented, analytical and creative thinker with passion for quality and test automation</li></ul><p>% Travel Required <em>(Approximate)</em>: 0%</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T20:57:37.000Z"
+  },
+  "company": {
+    "name": "Meredith Corporation",
+    "link": "https://www.linkedin.com/company/meredith"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

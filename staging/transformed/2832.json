@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "At Tremor Video, we help advertisers deliver impactful brand stories across all screens through the power of innovative video technology combined with advanced audience data and captivating creative content. As one of the largest and most innovative video advertising companies, our offerings span the rapidly evolving realms of Connected TV (CTV), cross-screen video and programmatic media. Tremor Video is a Tremor International Company.<br><br><strong>Where in the Tremorverse will I be working?</strong><strong>\u202f<br></strong>We're seeking a Data Scientist to join our Engineering team. As the Data Scientist, you have a passion for big data and enjoys applying a variety of data science skills such as statistical modeling, machine learning to real-world problems, and realizing practical products and features.<br><br>Currently our teams are working remotely, however once it is safe to do so this role will be based in the<strong> New York City office </strong>for some of the week.<br><br><strong><u>What You'll Be Doing<br></u></strong><ul> <li>Responsible for the optimization of technologies that are the foundation components of our platform</li> <li>Work closely with engineering and product team in the design and implementation of data-driven algorithms that enhance the performance of our system</li> <li>Work with substantial amounts of data and support scientific experiments to improve and validate the performance of algorithm</li> <li>Conduct Hypothesis Testing (Qualitative Research)</li> <li>Support teammates in developing and using machine-learning techniques, visualizations, and statistical analysis to gain insight into various data sets \u2013 some of which are readily available, and some of which we create and curate ourselves</li> <li>Help guide teams in researching, designing, simulating, and/or prototyping new algorithmic product features according to business needs</li> <li>Create and Deploy Machine Learning (ML) Models and algorithms to solve business needs</li> <li>Write codes (Python) for the product and deploy in the production environment</li> <li>Validate data and models</li> <br><br></ul><strong><u>Who You Are<br></u></strong><ul> <li>Master/Ph.D. in a quantitative field such as Computer Science, Math, Statistics, or a related discipline</li> <li>4+ years experience in Machine Learning, Data Science, Computer Science, or similar fields</li> <li>Previous experience working in the areas of statistics, machine learning, mathematical optimization, predictive modeling</li> <li>Proven experience coding in Python and SQL</li> <br></ul>Preferred Qualifications:<br><ul> <li>Familiarity with bandit algorithms, mathematical optimization, sequential hypothesis testing</li> <li>Understanding of programming concepts and deploying data science solutions</li> <li>Experience with big data modeling work: Spark</li> <li>Communicate concisely and persuasively with engineers and product managers</li> <li>Relevant ad-tech experience</li> <br></ul>Here at Tremor, we like to think outside the box, so if you don't tick every one of these- don't worry! We would rather see your application than risk missing out on your potential. We also know our strength comes from our differences and varied life experiences, so we are committed to the value of diversity and inclusion in all its forms.<br><br><strong>What if I have any questions before I apply?<br></strong>All applications need to be submitted online, however to discuss any adjustments you may require ahead of submitting your application, please email atran@tremorinternational.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:14:19.000Z"
+  },
+  "company": {
+    "name": "Tremor Video",
+    "link": "https://www.linkedin.com/company/tremor-video"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

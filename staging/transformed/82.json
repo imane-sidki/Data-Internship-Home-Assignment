@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The team is looking for a skilled and motivated engineer that wants to be part of a team that will drive the development of all new Home and Audio products. The ideal candidate would be a skilled SW generalist with a great investigative attitude and strong sense of curiosity. Previous experience in working on large scale projects is a great plus as well as having a full understanding of the overall system. In addition, experience on product lifecycle from conception through shipping is required. Specifically, his/her responsibilities will span from writing and debugging SW specific to a product (communication services, drivers, UI etc) to efficiently integrate general platform services provided by other teams.<br><br> <br><strong>Key Qualifications<br></strong> <br>You will have more than 7+ years hands on experience on integration of medium/large projects based on a full OS: Linux, Android, or BSD. <br><br>You will be proficient in C and C++ with both kernel and user space programming. <br><br>Strong experience in debugging complex systems fundamental. <br><br>Experience in large scale production support is a plus. Ability to easily and quickly move between different areas is a big plus. <br><br>Experience working on cross functional projects between Engineering, QA, operations would be a huge plus. <br><br>May require some travel to china for factory support.<br><br> <br><strong>Description<br></strong> <br>This is a highly technical role. The Product Development will directly maintain a number of product specific services such as UI, Power management tuning, system control and drivers but the team is fundamentally responsible for the overall SW running on a product and the successful integration of the full device. This team will work with a large number of Engineering teams (HW and SW) and QA to analyze global failures and act as first responders as well as own the full lifecycle of a product.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/CS/EE/CE or relevant work experience<br><br> <br>Role Number: 200248125<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T19:59:21.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82100,
+    "max_value": 178100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Culver City",
+    "region": "CA",
+    "postal_code": "90232",
+    "street_address": null,
+    "latitude": 34.0225,
+    "longitude": -118.39429
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong><u>The Role<br><br></u></strong>We are looking for a highly motivated software engineer specializing in server-side web development that is also comfortable working with the entire stack (front-end and infrastructure). You will join a small, expert team building server-side and front-end software for the systems that support sales and service for both vehicle and energy products. You will also be working on developer tools improve productivity and empower developers across the company. The ideal candidate will have a passion for building world-class software and a track record of success creating highly and scalable software systems. You will need strong software engineering skills, excellent interpersonal communication, and experience accepting and giving meaningful feedback on technical designs and pull requests.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Participate in requirements gathering, technical specification, and the design and development of complex software projects</li><li> Work with product managers, content producers, QA engineers and release engineers to own your solution from development to production</li><li> Contribute to software architecture design, development of software applications, and integration into enterprise systems</li><li> Design software architecture based on business requirements, strategy and priorities</li><li> Promote software engineering best practices via example, participation in code reviews, building tools, and documentation</li><li> Be nimble and react quickly to changing business conditions and priorities</li><li> Leverage your existing skills while learning and implementing new technologies</li><li> Interact with teams of engineers from multiple disciplines</li><li> Participate in on-call rotation for the team\u2019s mission critical applications<br></li></ul><strong><u>Requirements<br></u></strong><ul><li> BS/MS in Computer Science or equivalent experience and evidence of exceptional ability</li><li> 2+ years of working experience</li><li> Experience in .NET Framework, .NET Core, package management, and dependency injection</li><li> Database experience (MySQL, Postgres, SQL Server) and good knowledge in query optimization</li><li> Experience with distributed architectures and REST APIs</li><li> Good unit testing and integration testing practices</li><li> Agile/SCRUM Software Development Process experience</li><li> Exposure to Go, Node, NPM and other open source technologies</li><li> Experience with continuous integration and continuous delivery</li><li> Experience with Docker and Kubernetes</li><li> Working knowledge of continuous deployment, feature toggles, logging, metrics, monitoring, and alerting</li><li> Excellent interpersonal communication skills</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T04:12:49.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64900,
+    "max_value": 89000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Draper",
+    "region": "UT",
+    "postal_code": "84020",
+    "street_address": null,
+    "latitude": 40.52505,
+    "longitude": -111.864204
+  }
+}

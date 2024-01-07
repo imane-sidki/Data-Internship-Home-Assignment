@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer 5",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong>Oracle Service Cloud is an industry-leading Cloud-based Web, Social, and Contact Center Solution. We serve eight million customers and two billion transactions per month. We boast of some of the largest companies like LinkedIn and American Express as our customers. The Oracle RightNow Cloud Service development team is looking for a high-energy, team-oriented individual to join this highly skilled and motivated team in driving the design and build of an exciting additional offering.<br><br>For more information about Oracle Service Cloud please see: https://www.oracle.com/applications/customer-experience/<br><br><strong><u>Essential Skills, Knowledge, Abilities, And Background<br></u></strong><ul><li>BS or MS in Computer Science or related fields</li><li>Seasoned software developer with 6+ in software development and proficient in C/C++ or similar/related technologies and can write high-quality code.</li><li>Ready to work in a fast-changing environment, can deal with ambiguity, and willing to raise the bar</li><li>Strong analytical and programming skills</li><li>Experience developing for and testing REST or SOAP APIs.</li><li>Ability to lead/drive smaller work items or larger projects through to completion and consistently meet milestones and deadlines for the team</li><li>Write automated unit and acceptance tests and champion TDD and ATDD best practices</li><li>Participate in design and code reviews</li><li>Work closely with other Scrum teams when implementing features spanning multiple teams<br></li></ul><strong><u>Desired Skills, Knowledge, Abilities, And Background<br></u></strong><ul><li>Extensive experience with MySQL or another relational database.</li><li>Strong written and oral communication skills, including the ability to convey technical concepts to non-technical individuals.</li><li>Demonstrated ability to complete a project through a development process, including requirements gathering and detailed design</li><li>Web Services paradigms like REST/SOAP</li><li>Experience using memory debugging tools</li><li>Experience working on large software products with metadata-driven elements</li><li>Working knowledge of PHP or other basic scripting languages</li><li>Development skills with UNIX software (shell, make, gdb, etc.)</li><li>Experience working with large-scale systems</li><li>Experience with Cloud Computing, SaaS, Acceptance Testing tools, Continuous Delivery, CRM applications, Agile development</li><li>Technical lead experience on a project or team</li><li>Experience with Kafka</li><li>Experience with Microservices development</li><li>Developing applications or services using Java<br></li></ul>Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.<br><br>As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. Define specifications for significant new projects and specify, design and develop software according to those specifications. You will perform professional software development tasks associated with the developing, designing and debugging of software applications or operating systems.<br><br>Provide leadership and expertise in the development of new products/services/processes, frequently operating at the leading edge of technology. Recommends and justifies major changes to existing products/services/processes. BS or MS degree or equivalent experience relevant to functional area. 8 or more years of software engineering or related experience.<br><br><strong><u>About Us<br><br></u></strong>Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It\u2019s when everyone\u2019s voice is heard and valued, that we are inspired to go beyond what\u2019s been done before. That\u2019s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.<br><br>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:43:15.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bozeman",
+    "region": "MT",
+    "postal_code": "59718",
+    "street_address": null,
+    "latitude": 45.679295,
+    "longitude": -111.04661
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Company Overview: <br><br></strong>At Identity Automation, we understand the unique challenges that educators, faculty, students, and even parents face. That\u2019s why we created RapidIdentity, an identity and access management (IAM) platform, used by hundreds of school districts, colleges, and universities to provide secure and agile online access that digitally connects students to their learning environment. By putting the unique identities of both educators and students at the heart of the learning process, RapidIdentity helps academic institutions unlock their potential and provide a safer, more personalized learning experience.<br><br><strong>About the Role:<br><br></strong>Our Site Reliability Engineers (SREs) empower our users with a rich feature set, high availability, and stellar performance level to pursue their missions. As we expand our customer deployments, we are currently seeking an experienced SRE to deliver insights from massive scale data in real time. Specifically, we are searching for someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a cross-functional team to develop real-world solutions and positive user experiences at every interaction.<br><br><strong>Responsibilities:<br></strong><ul><li>Run the production environment by monitoring availability and taking a holistic view of system health</li><li>Build software and systems to manage platform infrastructure and applications</li><li>Improve reliability, quality, and time-to-market of our suite of software solutions</li><li>Measure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating to continually improve</li><li>Provide primary operational support and engineering for multiple large distributed software applications</li><li>Gather and analyze metrics from both operating systems and applications to assist in performance tuning and fault finding</li><li>Partner with development teams to improve services through rigorous testing and release procedures</li><li>Participate in system design consulting, platform management, and capacity planning</li><li>Create sustainable systems and services through automation and uplifts</li><li>Balance feature development speed and reliability with well-defined service level objectives <br><br></li></ul><strong>Qualifications:<br></strong><ul><li>Bachelor\u2019s degree in computer science or other highly technical, scientific discipline</li><li>Ability to program (structured and OO) with one or more high level languages, such as Python, Java, C/C++, Ruby, and JavaScript</li><li>Hands-on experience with containerization orchestration technologies like Kubernetes</li><li>Hands-on experience with Amazon Web Services technologies like EC2, S3, EFS/EBS, RDS, VPC, CloudWatch, networking, security</li><li>Hands-on experience managing Linux servers</li><li>A proactive approach to spotting problems, areas for improvement, and performance bottlenecks<br><br></li></ul><strong>Preferred Qualifications:<br></strong><ul><li>Previous success in technical engineering</li><li>Coding experience beyond simple scripts<br></li></ul>Powered by JazzHR<br><br>kWgHu04H6d",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T07:12:12.000Z"
+  },
+  "company": {
+    "name": "Identity Automation",
+    "link": "https://www.linkedin.com/company/identity-automation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

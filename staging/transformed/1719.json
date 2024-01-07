@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "<strong><u>Position Summary... What You'll Do...<br><br></u></strong>As a Software Engineer II on the Global Workforce Management tech team, you will help develop the future of workforce tools. You will be joining an amazing team of engineers developing cloud-based micro-services using NodeJS and Java. The systems and platforms you will contribute to will have significant impact across all retail sectors becoming the next generation of workforce management. Working with business partners you will champion development/architectural best-practices rapidly scaling the platform across international marketplaces in a fun, collaborative, fast-paced environment.<br><br>What you\u2019ll do\u2026<br><ul><li>Partner with several teams to develop technical components and deploying micro-services and event-based systems to public/private cloud environments across the globe.</li><li>Collaborate with other software engineers on the various layers of infrastructure for our applications using your experience with NodeJS, Java, Spring, and Docker.</li><li>Thrive in a fast-moving team writing solid, scalable, quality, reusable code. </li><li>Apply software development practices such as CI/CD, TDD, Scrum, Agile</li><li>Develop innovation strategies, processes, and best practices</li><li>1+ years developing API\u2019s, event-based workflow, micro-services with NodeJS and Java</li><li>Experience with Azure cloud architecture, DevOps (CI/CD, High-Availability, Auto-Scaling) and IaC/IaaS</li><li>Experience working with Docker, Kubernetes, and NoSql</li><li>Strong logging and Quality experience implementing automated testing platforms and unit tests</li><li>Proficient in Git, Jira, SCRUM<br></li></ul>Benefits &amp; Perks<br><br>Beyond competitive pay, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.<br><br>Equal Opportunity Employer<br><br>Walmart, Inc. is an Equal Opportunity Employer \u2013 By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing diversity- unique styles, experiences, identities, ideas, and opinions \u2013 while being inclusive of all people.<br><br><strong><u>About Global Tech<br><br></u></strong>Imagine working in an environment where one line of code can make life easier for hundreds of millions of people and put a smile on their face. That\u2019s what we do at Walmart Global Tech. We\u2019re a team of 15,000+ software engineers, data scientists and service professionals within Walmart, the world\u2019s largest retailer, delivering innovations that improve how our customers shop and empower our 2.2 million associates. To others, innovation looks like an app, service, or some code, but Walmart has always been about people. People are why we innovate, and people power our innovations. Being human-led is our true disruption.<br><br><strong><u>Minimum Qualifications...<br><br></u></strong><em><em>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. <br><br></em></em>Bachelor\u2019s degree in Computer Science and 1 years\u2019 experience in software engineering or related field OR 3 years\u2019 experience in software engineering or related field. Preferred Qualifications...<br><br><em><em>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. <br><br></em></em>Primary Location...805 SE MOBERLY LN, BENTONVILLE, AR 72712, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:09:59.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65000,
+    "max_value": 105000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bentonville",
+    "region": "AR",
+    "postal_code": "72716",
+    "street_address": null,
+    "latitude": 36.37187,
+    "longitude": -94.20272
+  }
+}

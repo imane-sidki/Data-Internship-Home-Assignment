@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Data Connectivity team (Full Stack)",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br><br></em><strong> Job Category </strong>Products and Technology<strong> Job Details <br><br></strong>The Data Connectivity team at Tableau manages the connectivity layer, which enables connections to various data sources and the ability to import that data into Tableau. Our team consists of individuals from diverse backgrounds with several years of experience at well-known tech companies.<br><br>We follow a lightweight agile process with reduced meetings for scrum/sprint planning so each individual is responsible for managing their workload. Our team is fast-paced and has an incredible work-life balance. We try to ensure that folks take advantage of our unlimited vacation policy.<br><br>We are building the next-generation connectivity framework using a modern tech stack and are looking for excellent problem solvers who will thrive in our fast-paced environment.<br><br><strong><u>About The Role<br><br></u></strong>As a Full Stack Engineer on the Data Connectivity team, you will be leading, building, and owning backend services, connectors, SDK, CLI, and various other components of the new architecture. You will work closely with folks across the organization to deliver high-impact features. You will gain insights into how the connectivity layer works with hundreds of databases and SaaS products.<br><br>We strive for a high standard of engineering quality while solving unique scalability challenges and delivering delightful experiences. You will be working on a highly visible product that was a result of a recent hackathon.<br><br>Tableau hires company builders; employees are expected to be on the constant lookout for the best talent to bring on board, helping Tableau continue to build one of the best companies in the world.<br><br><strong><u>You Are<br></u></strong><ul><li>Fluent in the Javascript/Typescript/NodeJS ecosystem</li><li>Comfortable driving features end-to-end and choosing the right tools &amp; libraries for the job</li><li>Able to tackle complex engineering problems and deliver results</li><li>Solid understanding of REST APIs and good intuition designing customer-facing APIs</li><li>Creative self-starter, excited to solve ambiguous and challenging problems</li><li>Enjoy working with the latest tech and are motivated to learn and teach others</li><li>Comfortable with design patterns, data structures, algorithms, and system design </li></ul><strong>Key responsibilities<br></strong><ul><li>Work with the team on product architecture and drive the implementation</li><li>Build high quality, well-tested components with developer experience and customers in mind</li><li>Understand the existing architecture and make improvements to the new system</li><li>Manage your sprint work items</li><li>Author design docs and drive design reviews with the broader team</li><li>Other duties as assigned </li></ul><strong>Technologies we use<br></strong><ul><li>Modern Javascript / Typescript</li><li>NodeJS / Electron</li><li>React / Jest / Parcel</li><li>Other projects use C++ / C# / Java / Python </li></ul><strong>Bonus<br></strong><ul><li>Experience working with Typescript and React</li><li>You have developed and shipped customer-facing SDK / APIs</li><li>Attention to detail and developer experience</li><li>Experience decomposing a large monolith into microservices</li><li>Comfortable working on new technologies</li><li>Experience with plugin architectures</li><li>Familiar building distributed systems</li><li>You love to participate in hackathons!<br></li></ul><strong> Accommodations <br><br></strong>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br><br><strong> Posting Statement <br><br></strong>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br><br><u>Salesforce.com</u> and <u>Salesforce.org</u> are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. <u>Salesforce.com</u> and <u>Salesforce.org</u> do not accept unsolicited headhunter and agency resumes. <u>Salesforce.com</u> and <u>Salesforce.org</u> will not pay any third-party agency or company that does not have a signed agreement with <u>Salesforce.com</u> or <u>Salesforce.org</u> .<br><br>Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:36:35.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

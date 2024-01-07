@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Banking",
+    "description": "<strong><u>Description<br><br></u></strong>Your role as Principal of Software Engineering is to work with engineering teams and architecture to produce high-quality technology solutions. You will be given the autonomy to lead, design and develop innovative solutions to some of the biggest technical issues facing the banking industry. As Principal, you will serve as a peer-leader tasked with pursuing cutting-edge initiatives and solutions. The breadth of Citizens operations ensures a diversity of projects as the bank pivots towards innovation and customer experience.<br><br><strong><u>The Principal Software Engineer Will Be Responsible For<br></u></strong><ul><li>Participating in an environment rapidly transforming to the Agile methodology, adhering to best practices and collaborating effectively with your team mates.</li><li>Collaborating and contributing insight to solution design ideation, ensuring both the success of the product and adherence to enterprise architecture principles.</li><li>Designing, modifying, developing and implementing software solutions. Building modern, architecturally sound components, tools and applications to meet mission-driven strategic business goals.</li><li>Infusing quality of service characteristics, such as scalability, manageability and maintainability, into distributed service-based framework to create or expand business or technical capabilities. </li><li>Employing industry best practices to evaluate, correct and prevent vulnerabilities during the software development process. </li><li>Serving as a peer-leader, encouraging a culture of innovation and accountability while adhering to Agile best practices.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>8+ years of hands-on software development, with proven experience in developing and supporting commercial software products which were sold to non-technical customers in vertical markets</li><li>Demonstrated ability to lead and mentor software engineers</li><li>5+ years of experience in technical lead role. </li><li>Mastery of multiple programming languages, including at least one front end framework (Angular/React/Vue), such as Python3, Java, JavaScript and C++.</li><li>AWS/AZURE/GCP/Private/Hybrid cloud experience, including managing sensitive assets</li><li>Linux and open source architecture experience.</li><li>Experience with CICD pipeline (CircleCI, Jenkins, or equivalent)</li><li>Strong communication (both oral and written) and interpersonal skills</li><li>Cloud certifications such as AWS Solutions Architect</li><li>Experience with building applications and deployment in scalable environment using Docker and Kubernetes.</li><li>Experience with building micro-services and deployment in containerized environment. </li><li>Experience with dependency injection frameworks (Spring, CDI, Docker, etc).</li><li>Understanding of security concepts and tooling including but not limited to PKI, Cryptography, along with how those apply to web concepts (HTTP(S), SSL/TLS, certificates etc)<br></li></ul><strong><u>Desired Qualifications<br></u></strong><ul><li>3+ years of experience in the financial services industry, developing solutions for consumer banking, portfolio management, trading, compliance or wealth management</li><li>Understanding of the banking industry, specifically the functions of custodial and consumer banking, debt collections, fraud prevention and loan servicing.</li><li>Experience with Apache, Lucene, Memcache, RAbbitMQ and NoSQL<br></li></ul><strong>Education and Certifications<br></strong><ul><li>Required: Bachelor's degree in Software Engineering, Computer Science, Engineering, Mathematics or related discipline</li><li>Preferred: Master's degree in Software Engineering, Computer Science or related discipline<br></li></ul><strong>Why Work for Us<br><br></strong>At Citizens, you'll find a customer-centric culture built around helping our customers and giving back to our local communities. When you join our team, you are part of a supportive and collaborative workforce, with access to training and tools to accelerate your potential and maximize your career growth.<br><br><strong>Equal Employment Opportunity<br><br></strong>Citizens, its parent, subsidiaries, and related companies provide equal employment and advancement opportunities to all colleagues and applicants for employment without regard to age, ancestry, color, citizenship, physical or mental disability or perceived disability, ethnicity, gender, gender identity or expression, genetic information, genetic characteristic, marital or domestic partner status, victim of domestic violence, family status/parenthood, medical condition, military or veteran status, national origin, pregnancy/childbirth/lactation, colleague\u2019s or a dependent\u2019s reproductive health decision making, race, religion, sex, sexual orientation, or any other category protected by federal, state and/or local laws.<br><br>Equal Employment and Opportunity Employer/Disabled/Veteran<br><br><em>Citizens is a brand name of Citizens Bank, N.A. and each of its respective affiliates.</em> 216187-4<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:32:29.000Z"
+  },
+  "company": {
+    "name": "Citizens",
+    "link": "https://www.linkedin.com/company/citizens-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning / Signal Processing Engineer (Fully Remote)",
+    "industry": "",
+    "description": "<p><strong>Who We Are</strong></p><p><br></p><p>AmberBox is the industry leader in gunshot detection and response technology. We help Fortune 100 corporations, schools, hospitals, government departments and airports protect their staff and visitors from the threat of workplace violence, automating the emergency response process in an incident. AmberBox is a Silicon Valley VC-backed, rapidly scaling company, and we are looking for individuals that share our vision and experimentative approach.</p><p><br></p><p><br></p><p><strong>About The Job</strong></p><p><br></p><p>As a Machine Learning / Signal Processing Engineer, you will be responsible for researching and developing algorithms capable of accurately detecting gunshots from audio and visual queues. This is an important part of how we detect and respond to emergency incidents.</p><p><br></p><p><strong>Skills/experience:</strong></p><p><br></p><p>- Signal processing background (familiar with FFTs, DFTs and DTFTs, also FIR and IIR filters)</p><p>- Neural Network experience (DNN, CNN, RNN)</p><p>- Python</p><p>- Must have an appetite for live testing the system!</p><p><br></p><p><strong>Nice to have:</strong></p><p><br></p><p>- Speech recognition experience</p><p>- C/C++</p><p>- Experience working with/building Linux.</p><p>- Statistical pattern processing background (Wiener filters, Support Vector Machines)</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T15:56:22.000Z"
+  },
+  "company": {
+    "name": "AmberBox Gunshot Detection",
+    "link": "https://www.linkedin.com/company/ambrbox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

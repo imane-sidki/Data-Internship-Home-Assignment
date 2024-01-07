@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Remote ",
+    "industry": "Information Technology and Services",
+    "description": "<p>Job Description</p><p><strong><u>Job Summary:</u></strong></p><p><strong>InSight is a cutting-edge AI enablement platform that applies industry leading ML tools, including custom models, to classify and extract entities from unstructured content (Document Images, Audio and Video files, other data files and sources).</strong></p><p><br></p><p><strong>The ML Engineer is responsible for the development/deployment of Machine Learning models and other data processing algorithms for new and existing customer implementations into Insight.</strong></p><p><br></p><p><strong>The ML engineer works closely with multiple internal Iron Mountain teams to develop tech driven implementation solutions, create/enhance tools for performance improvement.</strong></p><p><br></p><p><strong><u>Essential Job Responsibilities:</u></strong></p><ul><li>Develop and deploy machine learning solution to perform classification and entity extraction of various forms of digital content (Images, Audio/video, and other digital file formats).</li><li>Work with project managers, solution architects and other ML engineers to deliver ML solutions into Iron Mountain Insight Platform.</li><li>Perform feasibility analysis and deliver PoCs for various customer requirements associated to the processing of digital content.</li><li>Applying effective visualization tools to make descriptive analysis and results intuitive and informative to the team and customers.</li></ul><p><br></p><p><strong><u>Functional Knowledge Skills &amp; Competencies:</u></strong></p><p><strong>Education:</strong> Bachelor or Master's degree in Computer Engineering, Computer Science (Master degree preferred)</p><p><br></p><p><strong>Skills: </strong></p><ul><li>3 years of professional experience in Python programming.</li><li>Minimum of 2 years of experience on Machine Learning and AI techniques.</li><li>Experience of cloud technologies and solutions - GCP Preferred.</li><li>Some experience with docker container and microservice deployment</li><li>Ability to multitask and prioritize issues in a complex environment.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T13:36:44.000Z"
+  },
+  "company": {
+    "name": "Iron Mountain",
+    "link": "https://www.linkedin.com/company/iron-mountain"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

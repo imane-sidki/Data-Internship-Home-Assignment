@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Apple Media Products",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Media Products Engineering team is one of the most exciting examples of Apple\u2019s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple\u2019s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries<br><br><br>These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. <br><br><br>Thanks to Apple\u2019s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple\u2019s privacy policy, one of Apple\u2019s core values. Although services are a bigger part of Apple\u2019s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.<br><br> <br><strong>Key Qualifications<br></strong> <br>At least 5 years experience in a professional programming position with Java and similar languages.<br><br>Strong understanding of building micro-services using REST-style APIs.<br><br>In-depth knowledge of database systems and domain modeling techniques.<br><br>Confidence with both SQL databases like Oracle and NoSQL databases like Cassandra.<br><br>JSON, Protobuf serialization and gRPC.<br><br>Experience deploying software on elastic platforms such as Kubernetes, EC2, etc.<br><br>Enjoys fixing/improving things and finding solutions to difficult problems.<br><br>Strong belief in automation and tooling as a critical part of the software lifecycle.<br><br>Strong written and oral communication skills.<br><br> <br><strong>Description<br></strong> <br>As an Engineer on the AMP Asset Infrastructure team, you'll support the content processing pipelines and asset management for all of Apple's digital content including apps, music, movies, and books on the App Store and iTunes Store. We manage the life cycle of Apple\u2019s digital assets and are responsible for maintaining secure access to them across both new and legacy applications. <br><br><br>As a member of our team, you will collaborate with multiple engineering teams, business operations, production support, site reliability engineering, quality assurance, and other infrastructure teams. You will develop the next generation of asset management systems and and work with our partner teams to migrate legacy systems onto your new platforms. We will be seamlessly migrating live data and content while maintaining the service quality Apple customers expect.<br><br><br>Our team is geographically diverse. We\u2019re looking for someone whose \"people skills\" complement their coding skills, someone who likes improving things as much as building things, and someone who is passionate about discovering new ways to accelerate the rate at which we can improve our products.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelors or Masters degree in Computer Science or equivalent.<br><br> <br>Role Number: 200139307<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:15:30.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 153000,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

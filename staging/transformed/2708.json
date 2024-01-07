@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Kubernetes",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>Skills: Kubernetes, OpenShift Container Platform, Infrastructure As a Code(IaC), Python, Docker<br><br></strong>Experience level: Associate<br><br>Experience required: 6 Years<br><br>Education level: Bachelor\u2019s degree<br><br>Job function: Information Technology<br><br>Relocation assistance: Limited assistance<br><br><strong>Location : Dallas TX or Jersey City, NJ <br><br></strong><strong>MUST HAVE<br><br></strong>Container migration<br><br>Docker<br><br>Kubernetes<br><br>Infrastructure As a Code(IaC).<br><br><strong><u>Summary<br><br></u></strong>We are looking for a Container migration SRE, who understands the enterprise containers in Docker Swarm to advanced Kubernetes platforms (OpenShift, Tanzu) deployments and has prior experience with container migrations and deployments. The container migration SRE will bring in Kubernetes deployment with software engineering SRE standard methodologies. This role will be instrumental in continuing our Container First strategy delivery, bringing expertise with, development, and implementation of container migration projects.<br><br><strong><u>Your Primary Responsibilities<br><br></u></strong>Lead the container platform ecosystem<br><br>Cluster capacity management and provisioning through automation of underlying hosts.<br><br>Understanding the infrastructure components (server, network, storage, firewall, load balancer etc) required for Kubernetes platform, Infrastructure As a Code(IaC).<br><br>[Developer Differentiator]<br><br>Experience with a modern application software language; especially a systems programming language (Go, Python)<br><br>Understanding of architectural patterns; Microservices are important, but experience with other patterns helpful<br><br>Practitioner of version control; experience with different branching strategies (and understands why GitFlow is not a good choice for CI/CD and enterprise development teams)<br><br>Understands and uses unit and functional testing; ideally advocates tests up front (advocates tests for moving faster)<br><br>Experience defining delivery pipelines; demonstrable work in automation and observability (Bonus points for experience using GitOps for deployment)<br><br>Understand K8s resiliency patterns (HPA, self-healing)<br><br>Understands container image optimization<br><br><strong>Qualifications:<br><br></strong><strong><u>Minimum Of 6 Years Of Related Experience<br><br></u></strong>Bachelor's degree required<br><br>Kubernetes and/or Tanzu or OpenShift Container Platform.<br><br>Kubernetes and Python<br><br>Expertise in Tanzu Solutions As A Service Offerings<br><br>Experience delivering infrastructure as code using CI/CD practices<br><br>Proven track record of applying technology to tackle business problems.<br><br>Experience with migrate/onboard application onto Kubernetes<br><br>AWS associate certifications or higher preferred<br><br>RedHat certifications in Linux and OpenShift administration preferred<br><br>Powered by JazzHR<br><br>R23zQzu3lM",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T07:01:17.000Z"
+  },
+  "company": {
+    "name": "MetaOption LLC",
+    "link": "https://www.linkedin.com/company/metaoption"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "InCloudCounsel is seeking a <strong>Machine Learning Engineer</strong> to help our rapidly growing team deliver automatic negotiation with computable contracts. If you are a data or ML professional looking for a company that is financially-healthy, rapidly scaling, and impacting the trajectory of an industry, we would love to get to know you!<br><br>InCloudCounsel is an industry leader in modernizing routine legal processes. Our global team works with many of the world's leading companies to offer robust end-to-end contract processing and obligation management solutions that combine cutting edge technology, deep industry expertise, and a world-class roster of legal professionals.<br><br>The Machine Learning Engineer will report directly to our <strong>Director of Machine Learning</strong> and the package includes a competitive base salary, equity, and full benefits. The preferred locations for this role are <strong>San Francisco, Los Angeles, Seattle, Austin, New York, Denver, Philadelphia, Miami, Chicago, </strong>or<strong> Mexico City</strong>.*<br><ul><li>Until further notice, all InCloudCounsel employees are working remotely from home.<br></li></ul><strong><u>What You'll Do<br></u></strong><ul><li>Collaborate with our product team to build ML-enabled tools that help our end users work with increased accuracy while simultaneously driving down the cost associated with processing routine legal contracts</li><li>Work cross-functionally to understand the structure and anatomy of critical legal documents and apply this anatomy to develop legal intelligence and automation</li><li>Train and optimize machine learning models using a variety of tools and frameworks</li><li>Build tools and frameworks to train, store, serve, and analyze machine learning models </li><li>Work with our data infrastructure team to help build and maintain data systems (we run on Heroku and AWS)<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Experience: 4+ years of industry work experience</li><li>Relevant programming experience: excellent knowledge of Python for data analysis, data processing, and server programming. We use numpy, pandas, spacy, NLTK, scikit-learn, pytorch, tensorflow, keras, and many other libraries. This is our preferred tech stack, but if you have comparable experience in a different stack that's fine too.</li><li>Applied science skills: relevant experience with machine learning, natural language processing, neural networks, computational linguistics, knowledge graphs, or taxonomies</li><li>Domain expertise: experience with text classification, key-phrase extraction, question answering, word embeddings, representation learning, neural machine translation, language modeling, text summarization, text generation, and/or knowledge graphs is a plus</li><li>Proficiency with data technology: strong skill set and experience using modern data technologies (SQL, Snowflake, Postgres, Spark, Dask, Pandas)<br></li></ul><strong>About the team: </strong>We're all about freedom. InCloudCounsel is on a mission to free companies from outdated legal processes and corporate lawyers from outdated work models. We're a group of former Big Law lawyers, business professionals, and engineers working together to modernize the legal industry. The people behind developing our product, servicing our customers and lawyer partners, and driving our business operations are dynamic individuals who have also achieved the freedom to do what's important to them - they're musicians, dancers, photographers, sailors, surfers, world travelers, home flippers, and animal lovers - and our freedom inspires us to free others.<br><br><strong><u>Benefits<br></u></strong><ul><li>Medical, dental, and vision insurance</li><li>401K, pre-tax benefits</li><li>Parental leave</li><li>Generous vacation policy</li><li>Annual professional development stipend</li><li>Remote work flexibility<br></li></ul>In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.<br><br><strong>NOTE to External Agencies: We are not accepting any blind submissions or resumes from recruitment agencies. Any resumes sent to a member of InCloudCounsel will NOT be accepted or considered as a submission.</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:39:59.000Z"
+  },
+  "company": {
+    "name": "InCloudCounsel",
+    "link": "https://www.linkedin.com/company/incloudcounsel"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

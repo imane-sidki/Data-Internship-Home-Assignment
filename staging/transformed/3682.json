@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Renewables & Environment",
+    "description": "<p><strong>About Us</strong></p><p>We are a fast-growing stealth startup located in San Jose, CA.Our company has developed a breakthrough technology to custom design and manufacture 3D graphene and other carbon materials.Graphene has the promise to transform many industries as this carbon-based material is over 100 times stronger than steel, flexible, transparent, a great thermal conductor and the most conductive material that we know exists.The list of possible applications is expansive, including transparent touch displays, IoT sensors, game-changing battery electrodes, semiconductors, innovative composite materials and solar panels - just to name a few.</p><p></p><p>Our leadership team is seasoned in leading startups from an early stage to multi-billion-dollar companies. Our development teams have extensive experience in successfully launching products from conception to production. As validation that we are on the forefront of this coming transformation, we have acquired multiple revenue producing commercial and government contracts and recently closed a large round of funding and have opened a new production facility in San Jose to scale our production and accelerate our growth in key product development areas. </p><p></p><p></p><p><strong>Data Scientist</strong></p><p>The data scientist will specialize in sensor data analytics associated with the development of IoT sensors for commercial and government applications. We are looking for a candidate with a strong background in statistical analysis and signal processing to lead the development of a custom machine learning algorithm for real-world applications.This position requires an in-depth knowledge of machine (deep) learning on spatiotemporal datasets. The candidate should have a track record of success in different sensor-related projects and have a desire to work on challenging real-world problems to make a positive impact in the world.A few selected examples of work include processing high-dimensional graphene sensor data, integration of distributed sensor networks, and anomaly detection in an energy storage system using streaming sensor data.Expertise in edge machine learning is highly desired.</p><p></p><p></p><p><strong>Job Responsibilities</strong></p><ul><li>Assimilate different data files from different sensor types.</li><li>Implement data pre-processing techniques and feature-extraction methods.</li><li>Develop high-dimensional data visualization tools.</li><li>Organize and maintain sensor library and develop signal processing and machine learning algorithms.</li><li>Implement machine learning algorithms on distributed sensor network.</li><li>Contribute to the sensor development efforts by creating, modifying, evaluating, and validating data analytics for 3D graphene sensors and the resulting products.</li><li>Work in a cross-functional team environment to ensure the successful integration of the company\u2019s unique sensing materials to the sensing solutions.</li></ul><p></p><p><strong>Qualifications</strong></p><ul><li>Bachelor\u2019s degree in electrical engineering, computer science, or a related field of study.</li><li>Expertise in signal processing techniques.</li><li>Experience with statistical data analysis software and predictive algorithms (e.g., Python, R, MATLAB, etc.).</li><li>Familiar with machine learning and deep learning model development (e.g., scikit-learn, Tensorflow, Keras, and Pytorch).</li><li>Strong presentation and communication skills.</li><li>Experience and success in new product introduction through the entire product life cycle (e.g., concept, design, prototype, and production) are preferred.</li><li>Excellent critical analysis and reasoning skills.</li><li>Flexible to effectively manage and execute multiple projects and priorities simultaneously.</li></ul><p></p><p><strong>Benefits</strong></p><ul><li>Medical, dental, and vision insurance</li><li>401K</li><li>PTO</li><li>Competitive salary with opportunity for career growth</li><li>Employee stock option plans</li><li>Employee relocation assistance program</li></ul><p></p><p>We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, age, status as a protected veteran, or status as a qualified individual with disability. EEO Employer/Vet/Disabled.</p><p></p><p>Principals only; third party or agency submitted candidates will not be considered.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T18:34:04.000Z"
+  },
+  "company": {
+    "name": "Stealth Startup",
+    "link": "https://www.linkedin.com/company/stealth-startup-51"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88800,
+    "max_value": 120000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Description<br><br></u></strong><em>Position at Diligent Corporation<br><br></em><strong><u>The Company<br><br></u></strong>Diligent is the world\u2019s largest GRC SaaS provider, serving nearly 1 million users from 25,000 organizations around the world. Our software enables holistic and informed conversations about governance, risk and compliance and ensures CEOs, CFOs and the board have an integrated view of audit, risk, information security, ethics and compliance from across the organization.<br><br>Our world-changing idea is to bring technology, insights and confidence to leaders so they can build more effective, equitable, and successful organizations \u2013 and create lasting, positive impact on the world. We seek to empower organizations to be better for their stakeholders and communities, for their customers and employees, for their bottom line.<br><br>Headquartered in New York, Diligent also has offices in Washington D.C., London, Galway, Budapest, Vancouver, Bengaluru, Munich, and Sydney.<br><br><strong><u>Position Overview<br><br></u></strong>Diligent is looking for a Site Reliability Engineer, Delivery Automation. You will be responsible for system availability, infrastructure, and process automation. Your focus will be to reduce toil by measuring repetitive, manual tasks, and automating them where possible. Strong communication skills will be required as you will be working with multiple development teams to implement more efficient and reliable procedures. The ideal candidate will someone that is always looking to eliminate manual Customer Service requests.<br><br><strong>You Are<br></strong><ul><li> A team player with excellent communication and collaboration skills.</li><li> Always ready to learn and experiment on leading/innovative technologies.</li><li> Not afraid of change and passionate about process improvement.</li><li> Someone who cares about reliability, availability, security, and wants to develop autonomous solutions.<br></li></ul><strong><u>Key Responsibilities<br></u></strong><ul><li> Design, code, test, and deliver software and procedures to eliminate toil.</li><li> Define automated playbook that integrates with ServiceNow and our incident management systems.</li><li> Producing documents that outline the incident resolution process and the runbook requirements for the incident resolution workflow.</li><li> Leading incident response efforts.</li><li> Deploying new infrastructure with automation.</li><li> Defining and measuring SLIs, SLO and SLA.</li><li> Improving application performance and availability via log and metric analysis and anomaly detection.<br></li></ul><strong><u>Required Experience/Skills<br></u></strong><ul><li>Software Engineering, SRE, or DevOps experience.</li><li>Knowledge of configuration management, release automation, and orchestration technologies such as Ansible, Terraform, Octopus, Jenkins, Puppet.</li><li>Good working experience for a wide range of technologies, frameworks, and platforms such as AWS/Azure Cloud, Windows, Linux, and Kubernetes, </li><li>HashiCorp Vault and database management are a plus.</li><li>Hands-on experience with Python, PowerShell, .Net or Go. </li><li>Working knowledge (or willingness to learn) of automating infrastructure components (e.g. routers, load balancers, cloud products, container systems, compute, storage, and networks)</li><li> Participate in architectural sessions and provide solutions to complex problems</li><li>Strong problem solving, analytic, and time management skills. <br></li></ul><strong>FLSA Status: Exempt<br><br></strong>Diligent offers a competitive compensation and benefits package, including health, vision, dental, 401k with a strong match, health club reimbursement and much more.<br><br>We are a drug free workplace, and an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental disability, age, military status, protected veteran status, marital status, registered domestic partner or civil union status, gender (including sex stereotyping and gender identity or expression), medical condition (including, but not limited to, cancer related or HIV/AIDS related), genetic information, or sexual orientation in accordance with applicable federal, state and local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T00:24:16.000Z"
+  },
+  "company": {
+    "name": "Diligent Corporation",
+    "link": "https://www.linkedin.com/company/diligent-board-member-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

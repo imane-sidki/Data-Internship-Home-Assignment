@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - AC Wellness Network LLC",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>AC Wellness Network LLC is a subsidiary of Apple Inc. and is the dedicated management services organization (MSO) for AC Wellness, a dedicated independent medical group that serves Apple Wellness Centers in Santa Clara Valley. Our mission is to deliver the world\u2019s best healthcare experiences for Apple employees. <br><br><br>We\u2019re looking for a problem solver. Someone who takes initiative and will establish our new site reliability engineering position as a top performing role within the MSO. This role will keep the IT passionate about what matters to our clinicians and patients: making sure the platforms and services they rely on are available when they want to use them. This person is responsible for the availability, performance, efficiency, change management, monitoring, emergency response, capacity planning, back-up, and disaster recovery vital to keep our technical ecosystem reliable. This is a new position and an outstanding opportunity to be a key pillar of Apple\u2019s healthcare future. The IT team is seeking a highly motivated individual with a background in Software Reliability Engineering (SRE).<br><br> <br><strong>Key Qualifications<br></strong> <br>3 years in a DevOps or SRE role.<br><br>Firm grasp of at least one modern programming language: Go, Python, Bash, PHP, etc.<br><br>Experience with cloud computing services: AWS or Google Cloud Platform.<br><br>Hands-on experience with infrastructure tooling, for example: Terraform, Cloud Formation, Ansible.<br><br>Experience with container tooling, one of: Kubernetes, Mesosphere, Docker, or Amazon ECS.<br><br>Experience with distributed storage technologies like NFS, HDFS, Ceph, S3.<br><br>Basic understanding of Atlassian products and particularly for Jira and Confluence.<br><br> <br><strong>Description<br></strong> <br>The SRE professional will be involved in new projects, starting from concept to crafting the infrastructure, toolset, and processes needed to deliver it, coordinating their implementation, monitoring the performance of a working system, and adjusting it when necessary. This role also involves creating training materials and training our staff to follow new guidelines and procedures. This person will need to have a detailed problem-solving approach, coupled with a strong sense of ownership and drive.<br><br><br>RESPONSIBILITIES WILL INCLUDE:<br><br><br>-  Taking a holistic view of system health to provide primary operational support for multiple distributed software applications and infrastructure layers. Handling incidents within the ACWN technical ecosystem.<br><br>-  Automating manual tasks such as the provisioning of users in production and test environments.<br><br>-  Collaborating with our service desk, vendors and engineering to get ahead of customer needs and innovate to continually improve.<br><br>-  Participating in the evaluation of infrastructure tools.<br><br>-  Working with AC Wellness engineering and vendors to ensure delivery of the non-functional requirements of availability, performance, security, compliance and maintainability.<br><br>-  Develop tools that improve production monitoring, telemetry, visualization, alerting, observability, workflows and reporting.<br><br>-  Define new designs, architectures, standards and methods for our healthcare ecosystems systems.<br><br>-  Engage in service capacity planning and demand forecasting.<br><br>-  Participate in the on call rotation.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\u2019s degree in software engineering, computer science, computer engineering, or related technical field.<br><br> <br><strong>Additional Requirements<br></strong> <br>A proactive approach to spotting problems, performance, and process bottlenecks and areas for improvement.<br><br>Excellent troubleshooting skills: ability to quickly recognize patterns in failures.<br><br>Self-motivated to improve efficiency and uptime of the entire technical ecosystem.<br><br>Strong written and verbal communication skills.<br><br>Experience with Application Performance Management (APM) solutions is a plus.<br><br>Familiarity of JavaScript extensions like: Node JS, React is preferred.<br><br><br>Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other legally protected characteristics.<br><br> <br>Role Number: 200271861<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-04T14:17:25.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77800,
+    "max_value": 213000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

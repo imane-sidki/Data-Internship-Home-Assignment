@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer (Java) - Remote",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong>Job Description:<br><br></strong>TrueCar envisions a world where car shopping is an uplifting experience. Our shopping experience helps buyers consider choices from every angle, builds confidence in their decisions, and enables every step of the process with tools and information that make car buying easy. Ultimately, TrueCar is helping people in the second largest purchase they will make in their lives. We're removing the complexity out of buying a car, using technology and personalization, to create a one-of-a-kind experience that transforms car buying and ultimately people\u2019s lives.<br><br>Come join the team and help us accomplish our mission. TrueCar maintains a Dynamic Workplace, allowing employees to have their primary workstations at home, with office space in Santa Monica, CA and Austin, TX to be made available to individuals and teams to use as needed. Employees enjoy excellent benefits (health/vision/dental coverage, 401k with contribution matching, equity, etc.) as well as perks like monthly credits for at-home food delivery, internet/mobile phone service coverage, fitness expenses, and Caregiver support.<br><br><strong><strong>About the Team:<br><br></strong></strong><u><strong> TrueCar is seeking to hire Remote Senior Data Engineers. <br><br></strong></u>The Data Engineering team applies subject matter expertise to ingest, analyze, and validate the automotive data required from internal and 3rd party sources. Data engineers are responsible for building and maintaining highly scalable data pipelines to power the website while also providing data for our analytical engine to derive insights in a meaningful fashion.<br><br><strong><strong>About the Job:<br></strong></strong><ul><li> Design and develop efficient and scalable data processing pipelines using big data technologies ( Hadoop, Spark, HBase, Kinesis, MapReduce, etc.) on large scale structured/unstructured data sets for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL/NoSQL. </li><li> Build complex workflows and orchestrate data dependencies. </li><li> Monitor and support data pipelines to honor internal and external SLA\u2019s. </li><li> Work within standard engineering practices (i.e. SCRUM, unit/integration testing, design review, code reviews, continuous integration, etc.) to deliver product features with optimal efficiency for TrueCar customers and clients. </li><li> Closely work with product owners &amp; analysts to understand business and functional requirements and contribute to the design and prioritization discussions. </li><li> Working with a team of engineers where mentorship is valued. </li><li> Ability to learn and adapt to continually evolving technologies in the big data ecosystem. <br><br></li></ul><strong><strong>What Youll Need:<br></strong></strong><ul><li> 5+ years of experience programming in Java. </li><li> 2+ years of experience in Big Data technologies. </li><li> Experience in any of big data technologies: MapReduce, Spark, HBase, </li><li> Proficient in SQL and experience with RDBMS/NoSQL databases. </li><li> Experience working with Cloudera/Hortonworks/EMR distribution in AWS. </li><li> Ability to self-manage tasks and be proactive in working with other teams to accomplish them while taking pride and ownership in their work. </li><li> Team-player with strong collaboration and communication skills, who is able to respond positively to feedback. </li><li> Bachelor degree (or Master) in Computer Science or related engineering field <br><br></li></ul><strong><strong>About TrueCar: <br><br></strong></strong>TrueCar is a leading automotive digital marketplace that enables car buyers to connect to our nationwide network of Certified Dealers. We are building the industry's most personalized and efficient car buying experience as we seek to bring more of the purchasing process online. Consumers who visit our marketplace will find a suite of vehicle discovery tools, price ratings, and market context on new and used cars -- all with a clear view of what's a great deal. When they are ready, TrueCar will enable them to connect with a local Certified Dealer who shares in our belief that truth, transparency, and fairness are the foundation of a great car buying experience. As part of our marketplace, TrueCar powers car-buying programs for over 250 leading brands, including AARP, Sam\u2019s Club, and American Express. Nearly half of all new-car buyers engage with TrueCar powered sites, where they buy smarter and drive happier.<br><br>TrueCar is headquartered in Santa Monica, California, with an office in Austin, Texas.<br><br><br><strong>Location(s):</strong>Santa Monica, CAAustin, TX<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:23:14.000Z"
+  },
+  "company": {
+    "name": "TrueCar, Inc.",
+    "link": "https://www.linkedin.com/company/truecar-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

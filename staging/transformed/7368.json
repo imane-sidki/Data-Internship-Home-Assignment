@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Building Materials,Logistics and Supply Chain",
+    "description": "<p>We are representing a foreign owned, multi-national engineering and manufacturing company in their search for an Associate Data Scientist that will support the Finance Manager as they scale to grow their North American business operations. This is a brand-new position and an opportunity to build it to support the business needs of the Company.</p><p></p><p>The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.</p><p><strong></strong></p><p><strong>Responsibilities</strong></p><ul><li>Analyze raw data: assessing quality, cleansing, structuring for downstream processing</li><li>Use SQL to extract data for tools such as Python and R</li><li>Utilize machine learning tools and predictive analytics to present complex data sets</li><li>Generate actionable insights for business improvements</li></ul><p><strong></strong></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree in a quantitative field (Decision Science, Data Science, Statistics, Mathematics, Computer Science, Finance or Economics)</li><li>At least 1 - 2 years of experience in data science related fields</li><li>Deep understanding of predictive modeling, machine-learning, clustering, and classification techniques</li><li>Experience working with SQL and programming languages like Python and/or R</li><li>Familiarity with Big Data frameworks and visualization tools (Hadoop, Azure and Spark)</li></ul><p><br></p><p>If this is you or someone you know, I'd love to visit with you.  Please send your resume to me at ahildebrand@361services.com.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T14:58:37.000Z"
+  },
+  "company": {
+    "name": "361 Services",
+    "link": "https://www.linkedin.com/company/361-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Broomfield",
+    "region": "CO",
+    "postal_code": "80020",
+    "street_address": null,
+    "latitude": 39.923985,
+    "longitude": -105.08166
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p>GoFormz is a San Diego-based startup leading the mobile data capture industry. We empower businesses to replace paper forms with web and mobile-based digital forms that provide global access to the collected data. We are currently looking for a proactive and proven Site Reliability Engineer to add to our growing team.</p><p><br></p><p>As<strong>Site Reliability Engineer</strong>, you will drive the optimization, efficiency, and reliability of our 100% cloud infrastructure and technologies. The successful candidate will be skilled at navigating and communicating through platform issues in order to calmly and systematically identify root cause and apply remediation steps.</p><p><br></p><p><strong>The Details:</strong></p><ul><li>Work with multiple departments to identify, isolate, and resolve issues impacting the company\u2019s platform performance and uptime</li><li>Monitor, maintain, coordinate and extend the company\u2019s existing production monitoring systems</li><li>Manage on-call rotation schedule, procedures, and performance</li><li>Collaborate on the development of after-incident post mortems</li><li>Develop tools and playbooks to resolve production issues more efficiently and quickly</li><li>Review performance metrics and identify opportunities to improve the end user experience</li></ul><p><br></p><p><strong>The Must Haves:</strong></p><ul><li>Azure Cloud technologies</li><li>Kubernetes</li><li>Azure automation and runbooks</li><li>Azure Monitor &amp; Log Analytics</li><li>Adept with Powershell scripting, automation of complex administrative tasks, automated installation and configuration of software/roles</li><li>Cloud VM management</li><li>Incident problem management and trend analysis experience</li><li>High degree of ownership and accountability</li></ul><p><br></p><p><strong>The Nice to Haves:</strong></p><ul><li>Azure Active Directory</li><li>Raygun Error Logging</li><li>Azure Security Center</li><li>Azure Sentinel</li><li>Experience managing and maintaining code repos, build systems, and CI/CD pipelines</li><li>Can write tooling and code to interact with REST APIs</li><li>SQL/Mongo Administration</li></ul><p><br></p><p><strong>The</strong> <strong>Benefits</strong>:</p><ul><li>We pay well- at or above market!. Plus, you\u2019ll get equity in the company.</li><li>Employee medical and dental paid by the company; you just cover vision.</li><li>4 weeks (160 hours) accrued paid vacation in your first year.</li><li>Options to work from home or from our vibrant office in downtown San Diego where we provide complimentary parking or a monthly MTS pass.</li><li>We care about your physical health. Our office is equipped with automatic sit/stand desks, plus you\u2019ll get a company-paid membership to the Broadway Athletic and Swim Club located in the same building.</li><li>Everyone has the best hardware for doing their particular job. You tell us what that is.</li><li>We have a fantastic team that gets stuff done and is fun to work with!</li><li>The environment is fast-paced, so you will see the results of your work immediately.</li><li>You will have plenty of opportunities to use and learn cutting-edge technologies.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T20:49:51.000Z"
+  },
+  "company": {
+    "name": "GoFormz",
+    "link": "https://www.linkedin.com/company/goformz"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

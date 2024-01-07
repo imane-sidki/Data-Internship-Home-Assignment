@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "DESCRIPTION:             <br>\u2022\tThese contingent workers will work closely with full-time research scientists and software engineers who are leading<br>\u2022\tcomputer vision research projects to ensure that the process runs smoothly, and that data annotation quality remains high to<br>\u2022\ttrain state-of-the-art machine learning models. Duties include:<br>\u2022\tData wrangling: writing data pipelines to upload annotations automatically; running existing ML models on large volumes of<br>\u2022\tdata; ad-hoc data analysis / visualization<br><br>Annotation task and vendor management: <br>\u2022\tcreating data annotation guidelines; curating ideal \u201cgold standard\u201d examples for annotators.<br>\u2022\tmanaging back-and-forth communications with annotators; reviewing annotation quality to identify themes and<br>\u2022\trelaying appropriate feedback to annotation vendors.<br><br>Skills required:<br>\u2022\tSQL, Python, Linux command line (Bash)<br>\u2022\tVery high attention to detail for managing large, complex annotation efforts<br>\u2022\tGood written communication skills to coordinate with annotators and team members<br>\u2022\t2+ years\u2019 work experience, including experience working with customer teams<br><br>Top must-have HARD skills:<br>\u2022\tSQL and Python is a need<br>\u2022\tLinux command line<br><br>Top 3 good-to-have skills:<br>\u2022\tGreat communication<br>\u2022\tUnderstanding of AI models would be great<br><br>Interview Loop/Process<br>\u2022\t2 coding interviews and 1 general interview<br>\u2022\tPDF homework-offline analysis, will submit the answers along with their resume<br>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:14:20.000Z"
+  },
+  "company": {
+    "name": "SGS Consulting",
+    "link": "https://www.linkedin.com/company/sgs-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Internet,Computer Software,Real Estate",
+    "description": "Knock is on a mission to empower people to move freely. The Knock Home Swap\u2122 makes it easy for consumers to buy their new dream home before selling their old one, skipping the hassles of living through repairs and showings, paying only one mortgage at a time, and having home prep covered upfront, so their old house sells for the highest possible price. Knock currently offers the Home Swap in 50 markets and plans to be in over 100 markets by 2023.<br><br>Launched in 2015 by founding team members of Trulia.com, Knock has raised more than $600 million in debt and equity from top-tier investors, including RRE Ventures, Foundry Group, Redpoint, Greycroft, Corazon Capital, Correlation Ventures, Great Oaks Venture Capital and FJ Labs. In 2021, Knock was one of eight companies selected by Second Century Ventures, the strategic investment arm of the National Association of Realtors\u00ae, for its REACH program, which helps technology companies scale across the real estate vertical and its adjacent markets.<br><br><strong>Enjoying Life &amp; Making an Impact<br></strong><ul><li> Knock is a 100% remote, work from home culture and has been since our inception in 2015 </li><li> 100% employee covered medical, dental, &amp; vision premiums </li><li> Unlimited PTO (2 week min. is highly encouraged) + flexible work schedules </li><li> $1,000 each year for professional development </li><li> Salary + Equity. We offer equitable compensation based on market data, your experience &amp; geographic location </li><li> Paid parental leave </li><li> We believe in creating diverse, equitable, and inclusive practices and programs that will further Knock\u2019s commitment to making an impact, learning, putting people first, being open, and courageous <br></li></ul><strong>DevOps(SRE) Engineer:<br><br></strong><strong>We\u2019d love you to bring:<br></strong><ul><li>Experience as a software developer within the SDLC, automating infrastructure provisioning with Terraform</li><li>Software engineering experience with Python or Golang</li><li>Shell scripting expertise in Bash</li><li>Comfort and familiarity with Linux command line tools and OS configuration</li><li>AWS knowledge and experience, especially with core platform products such as IAM and VPC</li><li>Database administration experience with MySQL or Postgres</li><li>Understanding of cloud networking in VPCs</li><li>Docker ecosystem and container orchestration systems such as Amazon ECS or Kubernetes</li><li>Believe in creating diverse, equitable, and inclusive practices and programs that will further Knock\u2019s commitment to making an impact, learning, putting people first, being open, and courageous.</li><li>Have proven success working 100% remote in prior positions &amp; are experienced working with a distributed, national team. </li><li>We encourage you to apply even if you don\u2019t have every listed requirement. <br></li></ul><strong>As a DevOps Engineer you will:<br></strong><ul><li>Set up and maintain cloud infrastructure using Terraform</li><li>Develop scripts and CLIs with Python, Golang, and Bash</li><li>Further ensure the security of our systems and data</li><li>Automate, automate, automate as much work as possible should be scripted and repeatable</li><li>Build dashboards to visualize system performance and health</li><li>Automate security updates across our stack</li><li>Work closely with the engineering team to understand their infrastructure needs and help them provision resources</li><li>Manage and secure access to our production data stores</li><li>Maintain Docker base images</li><li>Work with our Quality team to ensure our code runs up to our high standards</li><li>Develop internal tools, UIs, and APIs as needed<br></li></ul>We are proud to be a distributed company from our founding with employees in 28 states and counting. This is an amazing opportunity to be an integral part of building a multi-billion dollar consumer brand in an industry that is long overdue for a new way of doing things. You will be working with a passionate team that is disrupting the status quo.<br><br>Knock, and its subsidiaries, are committed to creating a diverse, inclusive, and equitable environment and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br><strong>Please no recruitment firm or agency inquiries, you will not receive a reply from us.<br><br></strong><strong>This position is in the continental United States.<br><br></strong><strong>PDF is our preferred format for resumes and any other attachments. Thank you!<br><br></strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T03:32:33.000Z"
+  },
+  "company": {
+    "name": "Knock",
+    "link": "https://www.linkedin.com/company/knock.co"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

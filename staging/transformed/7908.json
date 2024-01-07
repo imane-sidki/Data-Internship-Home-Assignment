@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple is a place where extraordinary people gather to do their best work. Together we create products and experiences people once couldn\u2019t have envisioned \u2014 and now can\u2019t imagine living without. If you\u2019re excited by the idea of making a real impact, a career with Apple might be your ideal job\u2026 Just be prepared to dream big!<br><br><br>The AppleCare Digital team is looking for an outstanding data scientist who is interested in designing, developing and identifying data mining solutions that have direct and measurable impact on AppleCare\u2019s support operations. <br><br><br>AppleCare has tremendous amount of data, and we have just begun exploration of the data in the areas of pattern detection, anomaly detection, predictive modeling, and optimization. The person in this position will work with various online business managers to help identify viable data mining opportunities and implement end-to-end analytical solutions. The role requires both a broad knowledge of data mining algorithms and creativity to invent and customize as appropriate.<br><br><br>This position is located in Austin, Texas.<br><br> <br><strong>Key Qualifications<br></strong> <br>Proven experience in a Data Science role in the areas of Natural Language Processing, Data Mining, Machine Learning (ML), Statistics or related field. Experience crafting, conducting, analyzing, and interpreting experiments and investigations.<br><br>Experience articulating and translating business questions and using analytics and data science techniques to answer those questions.<br><br>Strong understanding of data science algorithms including tree based algorithms, probability networks, association rules, clustering, regression, and neural networks.<br><br>Experience partnering with internal teams to drive results and providing expertise and direction on analytics, data science, experimental design, and measurement.<br><br>Expertise in statistical data analysis such as linear models, multivariate analysis, sampling methods, and causal inference.<br><br>Experience with common data science toolkits, such as R/Python and various data processing and Machine Learning libraries.<br><br>Proficiency in using query languages such as SQL.<br><br>Experience in producing powerful visualizations and dashboards that balance both art and science (using Tableau/D3, etc)<br><br>Strong communication skills and the ability to naturally explain difficult technical topics to everyone from data scientists to engineers, to business partners and leaders.<br><br>Ability and comfort working independently and making key decisions on projects.<br><br> <br><strong>Description<br></strong> <br>Work with internal partners and cross-functional teams to define and refine business and research questions and use analytics, data mining, statistical techniques and ML to address those questions. Conduct end-to-end analyses across all AppleCare touch points, including data gathering from large and complex datasets, and analyses using advanced statistical and ML methods. <br><br><br>- Drive the generation of insights from raw, unstructured data to improve existing features and explore future directions. <br><br>- Identify content, navigation and user experience elements that impact customer satisfaction via deep analysis, A/B testing and multivariate testing approaches.<br><br>Present findings from analytics and research and make recommendations to leadership and cross-functional business partners.<br><br>- Develop extensive knowledge of existing metrics. Create new metrics for performance measurement and advocate for changes to existing metrics where needed.<br><br>- Lead data science &amp; analytics projects through their entire lifecycle, including problem identification, scope management, analytics design, data gathering, data processing, analysis, algorithm design, deployment, measurement, and report generation.<br><br>- Partner with peers to build and prototype analytics pipelines that provide insights at scale.<br><br>- Evangelize adoption of best practices and build greater awareness of common data analysis pitfalls.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Advanced degree (MS or PhD preferred) in a quantitative field such as Data Science, Machine Learning, Statistics, Operations Research, Engineering, Computer Science, Mathematics, Physics, Bioinformatics, Economics or similar<br><br> <br>Role Number: 200295935<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T05:17:56.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

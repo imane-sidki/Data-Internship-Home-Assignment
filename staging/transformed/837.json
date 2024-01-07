@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Data Scientist</strong></p><p><br></p><p>The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.</p><p><br></p><p><strong>Location: </strong>NorthAustin office if you'd like to use it</p><p><strong>Salary:</strong> $120k - $135k</p><p><strong>Visa Status:</strong> US Citizen</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Analyze raw data: assessing quality, cleansing, structuring for downstream processing</li><li>Design accurate and scalable prediction algorithms</li><li>Collaborate with engineering team to bring analytical prototypes to production</li><li>Generate actionable insights for business improvements</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>M.S. in quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)</li><li>At least 1 - 2 years' of experience as a Data Scientist</li><li>Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms</li><li>Fluency in Python</li><li>Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)</li></ul><p><br></p><p>For further details please submit a resume.</p><p><br></p><p>Austin Fraser Inc is acting as an employment business in relation to this advert. As a professional company, we gladly welcome applications from persons of any age and background and do not intend to discriminate with advert text and terminology.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T15:04:41.000Z"
+  },
+  "company": {
+    "name": "Austin Fraser",
+    "link": "https://uk.linkedin.com/company/austin-fraser"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

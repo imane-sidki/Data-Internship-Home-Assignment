@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Logistics and Supply Chain",
+    "description": "<p><strong>Job Title:</strong>Software Engineer in Test</p><p><br></p><p><strong>Location:</strong>Alpharetta, Georgia (Flexible/Hybrid)</p><p><strong>Industry:</strong>Supply Chain</p><p><strong>Terms:</strong>Permanent</p><p><strong>Requirements:</strong>Javascript</p><p><strong>Preferred:</strong></p><ul><li><em>Jest or Jasmin</em></li><li><em>Chai (for assertions)</em></li><li><em>Typescript or JavaScript</em></li><li><em>Visual Studio Code editor</em></li></ul><p><br></p><p><strong><u>SDET Job Summary</u></strong><u>:</u></p><p>Our client is looking for a strong, Software Development Engineer in Test to join its Quality Assurance team. This will be a vital role to the team and the candidate must be self-driven, motivated, and passionate about tackling their next challenge! This role will report to the VP of Solutions and Quality and will have autonomy and decision making responsibilities.</p><p><br></p><p><strong>SDET Job Responsibilities:</strong></p><ul><li>Participate in requirement meetings and project-related meetings to gain a thorough understanding of project goals and objectives</li><li>Analyze project requirements, identifying gaps and ensuring acceptability for test case creation</li><li>Own and develop automated testing tools for our omnichannel suite of solutions</li><li>Utilize automated testing tools for the RESTFUL service tied to marketplace integrations</li><li>Identify specific use cases tied to the individual marketplaces and assist in testing those manually as needed, while working on the longer-term automated solution</li><li>Develop automated acceptance and unit test for the agile team</li><li>Work with Jenkins and CI tools to automate development, building, deployment, and testing</li><li>Be a part of the Scrum team and work closely with product owners to understand the requirements</li><li>Analyze test results from a technical standpoint and provide detailed analysis to technology team</li><li>Test related support for production issue troubleshooting in collaboration with Dev</li><li>Develop all test artifacts required as part of the QA deliverables such as test plans, test scripts, strategy, RTM documents, etc.</li></ul><p><br></p><p><strong>SDET Job Requirements:</strong></p><ul><li>Four-year degree in Computer Science/Engineering preferred</li><li>2+ years experience in software quality testing</li><li>2+ years of Agile Experience</li><li>3 years Java Experience preferred</li><li>Experience in integration platforms preferred</li><li>Detailed knowledge of all aspects of the Software Development Life Cycle including requirements gathering, design, and testing with experience using current testing methodologies and tool</li><li>Working knowledge on JSON and XML messaging</li><li>Experience with Atlassian tools like JIRA, Confluence, and etc.</li><li>Experience developing in agile &amp; with CI tools like GitHub</li><li>Relational database understanding with the ability to query MySQL database to verify the test results</li><li>Exposure/working knowledge with Restful automation tools - JMeter/SoapUI/Other</li><li>Knowledge and understanding of at least one OOP language, scripting language a plus</li><li>Ability to work independently and with a team in a fast-paced and dynamic company environment under tight deadlines</li><li>Excellent analytical and organizational skills with the ability to multitask on multiple projects at one time</li><li>Strong individual initiative and ownership of projects and quality testing tasks</li></ul><p>Plus:</p><ul><li>Jest or Jasmin</li><li>Chai (for assertions)</li><li>Typescript or JavaScript</li><li>Visual Studio Code editor</li></ul><p><br></p><p><strong><u>Job Key Words</u></strong><u>:</u></p><ul><li>SDET, Software Engineer in Test, QA, Javascript</li></ul><p><br></p><p><strong>Frequently Asked Questions:</strong></p><ul><li><strong>Benefits?</strong>Yes, provided the client</li><li><strong>Remote Workers?</strong>Allows for 2-3 days per week remote</li><li><strong>Visa Sponsorship?</strong>Not offered</li><li><strong>Corp-to-Corp?</strong>Not eligible</li></ul><p><br></p><p><strong>How to Apply:</strong></p><p>For immediate attention please apply online.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T20:21:42.000Z"
+  },
+  "company": {
+    "name": "ettain group",
+    "link": "https://www.linkedin.com/company/ettain-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>Description :</p><p><br></p><p><strong>Machine Learning/ML</strong><strong>Engineer </strong></p><p><strong>Location: Remote, Can be Anywhere, Preferably in West Coast or someone who can work in PST</strong></p><p></p><p>\u00b75+ years of industry experience or a PhD + 2 years industry experience in applied Machine learning.</p><p>\u00b7Strong coding skills in Python/Java/Scala or equivalent</p><p>\u00b7Experience with distributed data processing tools like Hive, Spark, Airflow and popular ML frameworks like Tensorflow or Pytorch is preferred</p><p>\u00b7Solid understanding of engineering best practices and complexities of models in production</p><p>\u00b7Experience developing and productionizing machine learning models is a plus</p><p>\u00b7Experience with Docker, Kubernetes, Spark is a plus</p><p>\u00b7Experience with distributed data processing tools like Hive, Spark, Airflow is a plus</p><p>\u00b7Industry experience building end-to-end Machine Learning Infrastructure a bigplus</p><p></p><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T18:32:59.000Z"
+  },
+  "company": {
+    "name": "Cool-Minds LLC",
+    "link": "https://www.linkedin.com/company/cool-mindsllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

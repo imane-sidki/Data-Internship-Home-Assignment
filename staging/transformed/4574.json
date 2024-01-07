@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "Artifact is looking for data scientists and NLP researchers at various skill levels to join our growing team.<br><br><strong><u>Key ML Focus Areas<br></u></strong><ul><li>Natural language processing</li><li>Natural language understanding</li><li>Knowledge Graphs and Graph Neural Networks<br></li></ul><strong><u>What You'll Be Doing</u></strong><ul><li>By using massive amounts of historical and realtime qualitative data, you will help research, develop and automate models for semantic understanding, text similarities, clustering, sentiment and emotion, and expressive summarization.</li><ul><li>One example: Build / Enhance our end-to-end solution that analyzes historical customer conversations and answers user questions as a summarized insight. Beyond answering, allow the user to facet and pivot the data while updating the summary insight dynamically.</li></ul><li>Work with product management and design roles to understand and empathize with end customer needs.</li><li>Build end-to-end ML solutions spanning from data access (SQL) to model endpoint (API / batch service) and deploy to cloud based staging environments (Kubernetes on GCP) by collaborating with software engineers.</li><li>Collaborate with our academic partners and research new ML techniques / enhancements and publish blogs or journal / conference papers.</li><li>Open source code or software that will benefit the larger community of ML practitioners.<br></li></ul><strong><u>Ideal Candidate<br></u></strong><ul><li>Has solid fundamentals in approaching and solving ML / DS problems. Think: \"data source\", \"data lineage\", \"data transformation\", \"data age and relevance\", \"model consumption\", \"post consumption action\" etc.</li><li>Leans towards action and experimentation with a priority towards rapid prototyping.</li><li>Approaches problems from a first principles mindset and question assumptions.</li><li>Has dived deep and spent a good amount of time solving \"one\" ML problem.</li><li>Is naturally curious and willing to take a step to learn something they don\u2019t have experience in.</li><li>Has experience with SQL, Python, NLTK or Spacy or other NLP libraries, PyTorch or JAX or TensorFlow. DGL and data visualization experience is a plus.<br></li></ul><strong><u>Experience Bonus<br></u></strong><ul><li>Masters Degree or PhD in Computational Linguistics, Engineering, Statistics or related field</li><li>Previous experience/education in syntax, semantics and morphology</li><li>Experience with semantic understanding and summarization of short phrases across a heterogenous corpus.</li><li>Experience collaborating with software development teams, data scientists, business intelligence or other technical roles<br></li></ul><strong><u>Company Benefits<br></u></strong><ul><li>No-cost insurance premiums: We cover the cost of your medical, dental, and vision insurance premiums.</li><li>Flexible insurance options: We offer EPO, POS, FSA plans, and HDHP coverage for you to choose from. Everyone\u2019s situation is different.</li><li>401k plan: We want you to be physically, emotionally, and financially secure.</li><li>Corporate expense card: Every employee gets a corporate expense card to use, because you\u2019re an adult. (Unless you\u2019re a child prodigy, and then we\u2019ll talk about it.)</li><li>Brand new equipment: We\u2019ll pay for your work equipment and machines.</li><li>Flexible work environment: We\u2019re a distributed company. We know schedules and environments are different for everyone. We don\u2019t hold office hours, we just trust you\u2019ll make appropriate agreements with your team.</li><li>Monthly activity: Expense up to $100 each month on activities (dinner, movie, skiing, boating, golfing, etc.)</li><li>Office snack: Expense up to $25 each month on snacks for your home office.</li><li>Library card: Expense your Audible Premium membership or spend up to $15 each month on books.</li><li>Cell phone reimbursement: Expense up to $100 each month on your phone bill.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:16:41.000Z"
+  },
+  "company": {
+    "name": "Artifact",
+    "link": "https://www.linkedin.com/company/artifact-insights"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Utah",
+    "region": "United States",
+    "postal_code": "84655",
+    "street_address": null,
+    "latitude": 39.323776,
+    "longitude": -111.67822
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics,Automotive",
+    "description": "<strong><u>Job Description<br><br></u></strong>Bose Corporation is a leading innovator in the field of automotive audio systems and we are successfully extending our market leadership in all areas of automotive audio systems. A key to this success lies in how Bose optimizes the design of each system to the unique electro-acoustic characteristics of each vehicle.<br><br>The successful candidate for this position will join our Automotive Systems Division, Systems Software &amp; Tools Team, developing the tools that enable Bose tuning engineers to deliver incredible, immersive in-cabin audio experiences. The work centers around delivering new features developed within our research teams to our tuning engineers for automotive production.<br><br>This software engineer will develop and support a suite of tools responsible for aspects of audio processing, rendering, and deployment - think of it like our own DAW and plugin set. They will be responsible for the entire development process - requirements gathering, development, testing, and providing tool training and documentation.<br><br><strong><u>Required Skills<br></u></strong><ul><li>Object oriented programming skills </li><li>Basic background in DSP (digital signal processing)</li><li>Experience with MATLAB</li><li>C, C++, C#, or JAVA preferred</li><li>A passion for audio engineering, including acoustics, electronics is a strong plus.</li><li>Candidates should expect and thrive on challenging development schedules.</li><li>Some travel may be expected in this role.<br></li></ul><strong><u>Education<br><br></u></strong>BS/MS degree is required in the field of computer science (preferred), software engineering, or electrical engineering.<br><br>Expected years of experience: 10+ years<br><br>Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665_PrescribedNondiscriminationPostingLanguage_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T17:15:24.000Z"
+  },
+  "company": {
+    "name": "Bose Corporation",
+    "link": "https://www.linkedin.com/company/bose-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75100,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Framingham",
+    "region": "MA",
+    "postal_code": "01703",
+    "street_address": null,
+    "latitude": 42.28156,
+    "longitude": -71.41882
+  }
+}

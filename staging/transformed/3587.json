@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Financial Services,Information Technology and Services",
+    "description": "<p>This leading LendTech has recently secured $25 million in Series A funding and is revolutionizing the previously dysfunctional home buying process in the US. In advancing the company\u2019s internal operations, they are looking for an experienced Site Reliability Engineer to join the core infrastructure team and drive the scale-up of their systems, mentor engineers on DevOps best practices and solve existing problems within the company\u2019s key subscriptions.</p><p><br></p><p>What\u2019s the Challenge?</p><ul><li>Design and build large-scale systems and optimize existing systems for scalability</li><li>Work closely with developers to build and maintain CI/CD workflows on demand</li><li>Be a problem solver that can diagnose and fix operational challenges by optimizing code</li><li>Have a strong sense of ownership and a drive to get the job done regardless of the circumstances</li></ul><p><br></p><p>Technologies:</p><ul><li>AWS \u2013 main core infrastructure</li><li>Infrastructure as Code \u2013 Terraform, Ansible or CloudFormation</li><li>Containers and Orchestration \u2013 ability to run and manage any production workloads in Docker/Kubernetes/ECS</li><li>Experience in programming and automating processes using at least one of the core languages (Python, GoLang, Java, Ruby, Bash)</li></ul><p><br></p><p>Nice to Haves:</p><ul><li>Experience in multiple cloud providers (GCP, Azure, AWS)</li><li>Knowledge of cloud security and networking</li><li>Monitoring \u2013 Prometheus and Grafana</li><li>FinTech, Payments or financial services experience</li><li>Experience using Node.js</li><li>Experience with microservices</li></ul><p><br></p><p>You should apply if you want to join a company at an exciting phase in their growth journey and contribute significantly to the technical choices and see your work have an impact from day 1.</p><p><br></p><p>\ud83c\udf0e Austin</p><p></p><p>\ud83d\udce7 Interested in applying? Please click on the \u2018Easy Apply\u2019 button</p><p></p><p><em>\u26a1 Storm2 is a FinTech recruitment firm with clients across London, Europe, APAC, and North America. To discuss open opportunities or career options, please visit our website www.storm2.com and follow the Storm2 Linked In page for the latest jobs and int</em>el.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T15:24:46.000Z"
+  },
+  "company": {
+    "name": "Storm2",
+    "link": "https://uk.linkedin.com/company/storm2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

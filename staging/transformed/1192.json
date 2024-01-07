@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (TS/SCI)",
+    "industry": "Defense & Space",
+    "description": "<strong><u>Basic Qualifications<br><br></u></strong>Bachelor\u2019s degree in software engineering or a related technical field is required (or equivalent experience), plus a minimum of 10 years of relevant experience; or Master's degree plus a minimum of 8 years of relevant experience; agile experience preferred.<br><br><strong><u>Clearance Requirements<br><br></u></strong>As a Principal Software Engineer, you will:<br><ul><li>Provide leadership to cross functional software development teams </li><li>Lead small technical proposals and contributes to medium sized proposals</li><li>Frequently responsible to lead collaboration activities with senior management and leadership within the company</li><li>Perform software requirements analysis, participate in research, design, develop and test software and tools, to include development of new work products or enhancing existing applications</li><li>Perform technical planning, verification and validation of others work, cost and risk analysis, and supportability and effectiveness analyses for total systems</li><li>Apply the appropriate standards, processes, procedures, and tools throughout the system development life cycle to support the generation of technical engineering products</li><li>Research and analyze data, such as customer design proposals, market trends, state of technology and industry, specifications and manuals to determine feasibility of design or application</li><li>Support and develop our technical culture by being engaged, intellectually curious, friendly, motivated to solve complex problems, and inspired to deliver superior user-centered design</li><li>Participate in internal reviews of software components and systems<br></li></ul><strong><u>Programming Skills<br></u></strong><ul><li>Strong fundamentals in data structures and algorithms</li><li>Solid object oriented programming and software design skills</li><li>Proficient in one of the following: Java, C++, C, or JavaScript (using object oriented techniques)</li><li>Web Services knowledge such as HTML, CSS, JavaScript, React, and Redux<br></li></ul>Candidates should have demonstrated strengths and experience in the following areas:<br><ul><li>Strong leadership skills suitable for recruiting, leading and managing teams of engineers to solve challenging problems</li><li>User Interface development</li><li>Computer science theory (e.g., data structures, algorithms, computational complexity)</li><li>Appreciation for user-centric design</li><li>Full use and understanding of software engineering concepts, principles, and theories</li><li>Effective communication and attention to detail</li><li>Deep exposure to Unix/Linux systems as well as Windows<br></li></ul><strong><u>Other Beneficial Common Programming Patterns/paradigms<br></u></strong><ul><li>Seasoned, experienced professional having a wide range of professional experience</li><li>Experience with version control systems</li><li>Experience leading software teams using Agile methodologies</li><li>Detailed and fully proficient knowledge of technology trends and champions new ideas and product and process improvements</li><li>Concurrent programming and building multi-threaded systems</li><li>Memory and CPU profiling</li><li>Data modeling and writing efficient data access methods</li><li>Experience building large-scale mission-critical applications</li><li>Experience with distributed systems</li><li>Direct-manipulation user interfaces<br></li></ul><strong><u>Preferred Degree Types And Experience<br><br></u></strong>Bachelor's degree in software engineering or a related technical field is required (or equivalent experience), plus a minimum of 8 years of relevant experience; or Master's degree plus a minimum of 6 years of relevant experience.<br><br>Department of Defense Top Secret/SCI security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:47:37.000Z"
+  },
+  "company": {
+    "name": "Resiliency LLC",
+    "link": "https://www.linkedin.com/company/resiliencyllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fairfax",
+    "region": "VA",
+    "postal_code": "22003",
+    "street_address": null,
+    "latitude": 38.847122,
+    "longitude": -77.30631
+  }
+}

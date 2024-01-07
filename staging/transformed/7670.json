@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer: Full Time Opportunities for Students and Recent Graduates",
+    "industry": "Marketing and Advertising,Internet,Financial Services",
+    "description": "Redfin is combining technology and customer service to reinvent the end-to-end experience for buying and selling a home in the consumer\u2019s favor. We are a mission-driven company helping people across North America buy and sell homes, saving them hundreds of millions of dollars in fees, and doing it all with a high customer satisfaction score. With over $75 billion spent every year on real estate commissions, the opportunity is huge and the industry is ripe for change.<br><br>The Applied Machine Learning (AML) group at Redfin works towards redefining real estate in the customer\u2019s favor using machine learning. We work on foundational problems in the real estate space including Recommendations (\u201cWhere should I live\u201d) and Price estimation (\u201cHow much is a home worth\u201d). We have real estate data at a national level and work across various domains in machine learning using large-scale multi-modal property data (documents, images, text, video, 3d scans etc.). AML also owns and maintains end-to-end production-grade large-scale machine learning infrastructure and systems serving hundreds of millions of consumers.<br><br>As a Machine Learning Engineer for the Applied Machine Learning Team, your job is to solve foundational problems in the real estate space using our massive store of market and user data and Machine Learning. You will have the opportunity to design, prototype, and develop customer-facing data products for millions of users, 100+ millions of properties and thousands of agents. You will work with an experienced group of machine learning engineers and researchers with robust research to production culture.<br><br><strong><u>You Should Have<br></u></strong><ul><li> Pursuing a degree in computer science (CS), mathematics, statistics, or a related field within 6 months from graduation or graduated within the last 24 months. </li><li> Experience with Python &amp; SQL, and Machine Learning &amp; Big Data technologies such as Spark, Scikit-learn, pandas etc. </li><li> Knowledge of CS fundamentals, algorithms, and data structures </li><li> Knowledge of deep learning frameworks such as Pytorch, TensorFlow etc. and deep learning architectures (RNNs, CNNs, Transformers etc.) is a bonus. </li><li> Experience dealing with unstructured data (text, image, video, documents) is a bonus </li><li> An entrepreneurial spirit and a strong empathy for the customer experience. </li><li> Strong written and verbal communication skills. <br></li></ul><strong><u>We Offer<br></u></strong><ul><li> An opportunity to be part of a dynamic, growing company where your contributions make a real difference and new ideas are always welcome. </li><li> Amazingly smart and fun teammates to collaborate with and learn from. </li><li> A competitive compensation package with generous benefits. </li><li> A sweet office near South Lake Union with fun perks like free catered lunches! <br></li></ul><strong> Redfin is an equal opportunity employer. <br><br></strong>To ensure the health and safety of our workforce, customers and third parties, Redfin conducts background screening after making conditional offers for employment. All screening is conducted consistent with Equal Employment Opportunity Commission guidance and state and local Fair Chance Act guidance, and Redfin encourages applications from, and fully considers, qualified applicants with criminal record histories.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-02T22:11:01.000Z"
+  },
+  "company": {
+    "name": "Redfin",
+    "link": "https://www.linkedin.com/company/redfin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

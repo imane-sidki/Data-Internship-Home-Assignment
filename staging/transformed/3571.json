@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Recommendation Infrastructure",
+    "industry": "Internet",
+    "description": "<p>TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo.</p><p><br></p><p>Our <strong>Recommendation Architecture</strong> Team is responsible for building up and optimizing the architecture for our recommendation system to provide the most stable and best experience for our TikTok users.</p><p><br></p><p><strong>SREs</strong> in our team keep the systems up and running with the highest level of availability, and create highly automated systems and pipelines.</p><p><br></p><p><strong>What You'll Do</strong></p><p>\u2022 Engage in and improve the whole lifecycle of Recommendation systems \u2014 from system design consulting through to launch reviews, deployment, operation and refinement</p><p>\u2022 Deliver tools/software to improve the reliability and scalability of services, automate operations and improve R&amp;D efficiency</p><p>\u2022 Build availability of large-scale services deployed across global data centers</p><p>\u2022 Plan, manage and optimize cloud resources utilization, ensuring SLA of large-scale clusters</p><p>\u2022 Measure and monitor availability, latency and overall service health</p><p>\u2022 Practice sustainable incident response and postmortems.</p><p><br></p><p><strong>Qualifications</strong></p><p>\u2022 Bachelor's degree or above with at least 2 years of related work experience</p><p>\u2022 Experience in SRE of large-scale systems</p><p>\u2022 Familiar with system operation skills on Linux and network</p><p>\u2022 Experience programming in at least one of the following languages: Python, Perl, Go, or C/C++</p><p>\u2022 Experience in designing, analyzing and troubleshooting large-scale distributed systems</p><p>\u2022 Effective communication skills and a sense of ownership and drive</p><p><br></p><p>TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience. We are passionate about this and hope you are too.</p><p><br></p><p>TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at usrc@tiktok.com.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T09:30:47.000Z"
+  },
+  "company": {
+    "name": "TikTok",
+    "link": "https://www.linkedin.com/company/tiktok"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

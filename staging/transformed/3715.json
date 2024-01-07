@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>As part of the Wild Health Clarity Engineering team, you will be actively involved in building both frontend or backend application features. As part of a team with diverse skill sets, you will have an opportunity to provide your own unique value while also learning from the senior and architectural mentors on the team.</p><p><br></p><p>A candidate will be expected to deliver quality software within spec within a timely manner defined within each sprint. </p><p><br></p><p>Each member of the team should possess a willingness to contribute to an overall team goal by not only producing software for their individual tasks, but also assisting teammates in order to move the entire product forward.</p><p><br></p><p><u>What You Will Enjoy about this Role</u></p><ul><li>Delivering the engineering aspect of a professional software development process that starts from stakeholders and product owners</li><li>Collaborate with different teams to build software that not only operates for a specific vision but also fits within a more holistic purpose</li><li>Work closely with product management when new features are being considered by being an advocate for not impacting the performance or quality of the existing product.</li><li>Participate in technical discussions and communicate your ideas or vision to others. Be challenged by discussing sophisticated problems, open to debates and brainstormings.</li><li>Collaborate with the engineering team to estimate and prioritize tasks</li></ul><p><br></p><p><u>What You Bring To The Role</u></p><ul><li>Interest in building, scaling and operating sophisticated infrastructures.</li><li>Interest in designing well-thought schemas, building efficient client/service layers, and properly using various data structures</li><li>Proficiency in C# .Net Core, Python, RxJS/React, or Node.js</li><li>An ability to adapt to changing situations where new languages, technologies, or other features will be introduced.</li></ul><p><br></p><p><u>Nice To Have</u></p><ul><li>Experience with building RESTful API\u2019s or GraphQL is a plus</li><li>Experience with agile development processes, working in a fast-paced environment with scheduled release planning</li><li>Experience working with advanced Business Analytics tools like Looker, Tableau, or DOMO</li><li>Experience scaling efficient relational database configurations and writing efficient SQL views, stored procedures, and functions.</li></ul><p><br></p><p><u>About Wild Health - Engineering</u></p><p>Wild Health is about optimizing you. We use genomics, blood work, biometrics, micro biome assessment, and a conversation with you to come up with a personalized comprehensive health plan.</p><p><br></p><p>Our goal is to determine the perfect diet, exercise, and supplement plan for each individual patient.</p><p><br></p><p>This is done through an iterative process of evaluating thousands of published papers and building computer models to express those results.</p><p><br></p><p>Clarity is the brand given to the software application that both patients and the Wild Health team use to facilitate this experience. This is a mature ecosystem of various frontend applications, backend applications, databases, event streaming services, and other third party service integrations.</p><p><br></p><p>The team is more than a functional unit, it\u2019s a family. Each member not only cares about the mission of delivering great software but also is invested in the personal growth of each other. Our weekly processes reflect this mission. Retrospective meetings held at the end of each sprint are designed to facilitate communication and care around improving everyone on the team.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T01:32:07.000Z"
+  },
+  "company": {
+    "name": "Wild Health",
+    "link": "https://www.linkedin.com/company/wildhealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lexington",
+    "region": "KY",
+    "postal_code": "40484",
+    "street_address": null,
+    "latitude": 38.046356,
+    "longitude": -84.497025
+  }
+}

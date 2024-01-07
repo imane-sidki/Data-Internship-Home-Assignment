@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p>The Data Scientist will report to the Senior Data Scientist within the University Analytics and Institutional Research department (UAIR) and will assist in the development and responsibilities of an integrated institutional planning office for the University of Arizona. The Data Scientist will serve as a liaison between the University Planning Office and UAIR and will be instrumental in providing statistical and predictive insights to University Senior Leadership to further institutional strategic goals. The scope of the office will be focused on institutional planning surrounding projections years into the future. The data scientist\u2019s concentration will be on developing statistical, predictive, and prescriptive models to help guide the work of the planning office, as well as support the broader data science needs of UAIR. The position will require not only the ability to carry out complex technical data science requirements, but also to communicate and share relevant insights from statistical analysis and modeling.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Develop and implement statistical, machine-learning, and heuristic techniques to create descriptive,diagnostic,predictive, and prescriptive analytics</li><li>Collaborate with experts in various subject areas to get an understanding of underlying business processes, strategies,circumstances,and execution to produce effective statistical and machine-learning models</li><li>Identify opportunities to enhance our current analytical capabilities and develop new analytics products to enhance business insights and functions through expert mathematical, analytical, and computational techniquesand guidance</li><li>Identify approaches to improve accuracy and effectiveness ofexistinganalytical models</li><li>Presentdata-driven,informed, and results-basedconclusions and recommendations to both internal and externalleadership, college, department,and/orproject teams, including tailoring to technical and non-technical audiences</li><li>Create visualizations, dashboards, presentations, and handouts to presentconclusions and results in an intuitive format</li><li>Work with cross-functional teamsin the selectionof appropriate analytical methods, designofexperiments and analytics, verification of data quality and information integrity,interpreting results, documenting processes and assumptions, and suitable presentation method</li><li>Coordinationwith Business Intelligence data engineers, developers, analysts, and architects to ensure integration of functionality and toolsets</li><li>Develop and document data modelling best practices and processes</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Master\u2019sDegree in Mathematics, Statistics, Computer Science, or other related field; AND five years\u2019experience withresearch, statistics, or analytics</li><li>Experience programming and using data analysis software, such as Python or R, in a professional work environment</li><li>One or more years\u2019 experience with a database management language, such asSQL</li><li>Experience using statistical/machine learning modeling techniques such as linear regression, logistic regression, clustering, random forest, gradient boosting, and ensemble modeling</li><li>Strong background in statistical concepts including regression analysis, factoring, clustering, decision trees, and experimental design</li><li>Experience in building, training, scoring, tuning, and maintaining predictive models</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T16:29:20.000Z"
+  },
+  "company": {
+    "name": "University of Arizona",
+    "link": "https://www.linkedin.com/company/uarizona"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Tucson Area",
+    "region": null,
+    "postal_code": "85701",
+    "street_address": null,
+    "latitude": 32.213425,
+    "longitude": -110.92448
+  }
+}

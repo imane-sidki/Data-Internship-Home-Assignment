@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>As a SRE you are a bridge between development and operations by applying a software engineering mindset to infrastructure services.The SRE is focused on the overall reliability and availability of the enterprise cloud and must understand complex enterprise networks, their dependencies, design, and build.The SRE will identify and reduce manual processes and apply industry incident management, change management, and DevOps concepts.You will be part of a small family and have huge impact on their opportunities for growth.</p><p><br></p><p>Job Responsibilities:</p><ul><li>Maintain service stability and reliability by working with internal teams and external vendor partners</li><li>Have a complete understanding of operational tools and concepts, such as alerting, monitoring, logging, and health checks</li><li>Work with and lead other team members by staying informed of industry innovation, knowledge transfer, and develop team members</li><li>Identify opportunities for system improvement and process improvement and partner vendors</li><li>Design, plan, build, and implement monitoring tools that promote visibility, transparency, and early detection in a complex technical environment</li><li>Ability to handle multiple priorities and troubleshoot complex issues quickly and successfully</li><li>Partner with ITSM Sr. Manager on post-incident reviews by putting actions into place to prevent recurring incidents</li><li>Be a technology evangelist for the organization</li><li>Participate in on-call rotation for level 3 support escalations</li></ul><p><br></p><p>Required Qualifications:</p><ul><li>2-3 years of experience on any cloud platform</li><li>Hands on experience of writing code in C#, .net or Java, Heavy SQL, SSRS</li><li>Solid understanding and experience in data structures, algorithms, and software design</li><li>Experience with virtual VPN connectivity, network ports, and firewalls</li><li>Experience in troubleshooting relational databases and distributed platforms</li><li>Highly skilled in identifying performance bottlenecks, identifying abnormal system behavior, and resolving root cause of service issues</li><li>Experience in Incident Management and ITIL Service Operations</li><li>Must be able to work in a collaborative cross-functional team environment</li><li>Strong interpersonal skills</li><li>Understanding of the CI/CD lifecycle</li><li>Working knowledge of source control systems such as git</li></ul><p><br></p><p>Preferred Qualifications:</p><ul><li>AWS Certification as Cloud Practitioner, Architect Associate, Developer Associate</li><li>Experience working with globally distributed teams</li><li>Enjoys mentoring and guiding teammates</li><li>Experience working with healthcare technologies</li><li>ITIL Foundations certification</li></ul><p><br></p><p>We are looking for someone who is local to the Lynchburg, VA metro ideally and may consider remote candidates.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T13:37:46.000Z"
+  },
+  "company": {
+    "name": "Charter Solutions",
+    "link": "https://www.linkedin.com/company/charter-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lynchburg",
+    "region": "VA",
+    "postal_code": "24503",
+    "street_address": null,
+    "latitude": 37.414345,
+    "longitude": -79.1432
+  }
+}

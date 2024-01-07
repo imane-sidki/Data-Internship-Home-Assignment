@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Leisure, Travel & Tourism,Hospitality",
+    "description": "<p><strong>Opportunity</strong></p><p>The Machine Learning Engineer is responsible for designing and developing pipeline applications that run complex data science workflows delivering value to Alto\u2019s customers. You\u2019ll be on a team with Data Scientists producing innovative solutions that drive Alto.</p><p><br></p><p>Your job includes producing technical design artifacts, developing and testing application, service, and component code, supporting the testing, change and release, and production operation of the code in partnership with the other development teams. Responsible for ensuring alignment to the enterprise architecture standards, industry standards, and best practices when designing or changing applications.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Develop native mobile applications, web portals, and integration services using modern technology platforms and frameworks, specifically Kubernetes, Istio, Google Cloud Platform, Serverless Functions, and Machine Learning</li><li>Participate in design, development and deployment transition of APIs and/or microservices to integrate across multiple new and existing mobile and web applications</li><li>Provide input and guidance on architecture, design patterns, platform, and tools evaluation, selection, and implementation</li><li>Provide technical leadership and collaborate with other team members across engineering, DevOps, product, customer support, operations, and others</li></ul><p><br></p><p><strong>Background &amp; Experience</strong></p><ul><li>5+ years experience building enterprise-class applications</li><li>5+ years experience writing applications in Java, Python or NodeJS</li><li>Previous experience launching and maintaining Machine Learning workflows</li><li>Previous experience with Kubeflow and similar technologies</li><li>Strong algorithm fundamentals</li><li>Experience building well-tested applications</li><li>Experience with APIs and microservice patterns using Kubernetes</li><li>Experience with modern relational and non-relational database platforms</li><li>Experience with Git (and Git-Flow patterns)</li><li>Excellent communication skills, a positive attitude, and self-motivated</li><li>Ability to operate in an agile, entrepreneurial start-up environment</li></ul><p><br></p><p><strong>Company Background</strong></p><p>Alto is an early-stage, high-growth, consumer company on a mission to redefine personal mobility. With a differentiated approach to the rideshare market, Alto is offering a safer, more premium experience to passengers and a sustainable living wage to drivers. Featured in CNN, LATimes, Dallas Business Journal, and more, Alto has established itself as a disruptive leader within the transportation category.</p><p><br></p><p>Alto currently operates in Dallas, Houston, and Los Angeles.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T15:39:59.000Z"
+  },
+  "company": {
+    "name": "Alto",
+    "link": "https://www.linkedin.com/company/ridealto"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, 2021 New Grad",
+    "industry": "",
+    "description": "<p><strong>We\u2019d love to hear from you if you are looking for a tech company with the following:</strong></p><ul><li><strong>Huge market</strong>($800 billion market size), we are building the first AI-powered super app to help people owning a car;</li><li><strong>Open, transparent</strong>, merit-based culture;</li><li>Hyper growth -<strong>10X revenue growth in 2020</strong>;</li><li>Best user experience:<strong>#1 ranked app</strong>in the insurance comparison category;</li><li>Strong leadership: from Amazon, Microsoft, Facebook, Nvidia, Alibaba, etc. and rockstar colleagues;</li><li>Approaching series C with<strong>$100M+</strong>total financing, backed by top VCs such as Y-Combinator, Goodwater, SV Angel, Funders Club, and Bow Capital, etc.</li></ul><p></p><p><strong>About jerry.ai:</strong></p><p>Jerry.ai is building the <strong>first SUPER app</strong> for your car that helps people optimize the cost and experience of owning a car (making ownership easy &amp; affordable). Having built the #1 ranked app and <strong>the fastest growth app</strong> in the insurance comparison category, we are tackling other areas of car ownership and looking for engineering talents to join us in expanding our product offerings. Headquartered in Silicon Valley, CA, we have offices in the U.S., China, and Canada.</p><p><strong></strong></p><p><strong>A few examples of the exciting projects that we are working on:</strong></p><ul><li>Create a smart prediction engine for customer\u2019s insurance coverage needs</li><li>Build predictive models on customer purchase behavior based on a large data set</li><li>Use telematics tracking to build customer driving risk profile</li></ul><p></p><p><strong>About YOU:</strong></p><ul><li>You love tackling convoluted problems and coming up with clean, stable solutions that scale.</li><li>You have a genuine passion for designing and implementing elegant software solutions.</li><li>You are intimately familiar (and up to date) with development ecosystem and make sound decisions when choosing the right tool or library for the job.</li><li>You will contribute across the entire product stack, as well as collectively oversee the integrity of the codebase.</li></ul><p></p><p><strong>A few more specifics about YOU:</strong></p><ul><li>1 + years of full-time software development experience.</li><li>B.S. degree in Computer Science or related discipline.</li><li>Strong software development fundamentals (data structures, algorithms, etc.).</li><li>Proficient with modern web application development with knowledge of JS ecosystems and open source web frameworks (e.g. NodeJS / React / GraphQL / PostgreSQL / Redshift / Redis / Kubernetes).</li><li>Knowledge of good practices, preferred design patterns, and writing idiomatic Javascript code.</li><li>Solid understanding of performance implications and scalability of code.</li><li>Keenness for writing good, meaningful tests and maintaining thorough test coverage.</li><li>Experience with large, complex codebases and know how to maintain them.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T23:07:15.000Z"
+  },
+  "company": {
+    "name": "Jerry",
+    "link": "https://www.linkedin.com/company/jerryinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services,Information Technology and Services",
+    "description": "<strong><u>About Us<br><br></u></strong>At Quadpay, a Zip company (ASX: Z1P), we give millions of savvy shoppers the freedom and flexibility to pay anywhere with our leading Buy Now, Pay Later platform.<br><br>We\u2019re here to do things differently. We are a fairer, digital alternative to the broken credit card model, giving consumers the freedom to split any purchase into 4 instalments over 6 weeks, with zero interest or hidden fees. We also help merchants and businesses to grow by offering them best\u2013in\u2013class products that improve conversion, increase basket sizes and delight their customers.<br><br>Our values are at the heart of everything we do. They form our Mamba mentality - how we\u2019re better than yesterday, and are used to create game-changing experiences for our customers and our people.<br><br>We\u2019re a high-growth team with endless opportunities as we scale. Come and join the sQuad.<br><br><strong><u>About The Role<br><br></u></strong>Hint: How would you describe the purpose of the role in one paragraph? What are the core responsibilities or outcomes of the role, and who will they be most frequently working with?<br><br>As a Data Scientist in our Risk team, you will leverage your creative and critical thinking skills to develop best in class models that have meaningful impact to the firm. These models will support our credit and fraud risk, customer experience, acquisition and customer management teams.<br><br><strong><u>You\u2019ll Also<br><br></u></strong>Hint: Try to keep it around 8-10 bullet points, and order them with the most important and regular outcomes first. Lead with an action word like build, lead, own, create, and try to avoid obvious or mundane tasks like \u2018Attend meetings\u2019 or \u2018Complete your timesheets\u2019.<br><ul><li> Build (develop/test/validate) statistical/ML models, optimization solutions, inference techniques to solve complex problems and communicate ideas to internal stakeholders.</li><li> Extract and explore data, validate data integrity, perform ad hoc analysis, evaluate new data sources to improve models.</li><li> Maintain robust documentation of approach and techniques used; including objectives, assumptions, performance, weaknesses and limitations.</li><li> Be ready to adapt to new tools/libraries/technologies/platforms.</li><li> Actively partner with engineers to validate &amp; deploy scalable solutions.</li><li> Collaborate to gather insight from partners across the organization.</li><li> Further develop expertise in statistical learning through self-study, project exposure and guidance of senior team members.</li><li> Research new models, algorithms and features to improve model performance.<br></li></ul><strong><u>About You<br><br></u></strong>To help us level up, you\u2019ll bring:<br><br>Hint: What are the key skills, experience and attributes required to perform the role? Try to keep it around 8-10 bullet points, and order them with the most important first.<br><ul><li> Avoid generic statements like \u2018Excellent communication skills\u2019 and only include qualifications or certifications if absolutely essential.<br></li></ul>Degree in quantitative/statistics related fields (CS, Math, Engineering, Statistics, Economics, Econometrics, etc.). Graduate degree preferred.<br><ul><li> 2+ years of relevant Data Science building and implementing models in production for at least one of the following: classification, regression, clustering, reinforcement learning, dimensionality reduction.</li><li> Strong coding skills (such as R, Python, or Scala). Adept Python ML stack and analytics/ visualization tools (SQL, Pandas, Tableau, Plotly or equivalent).Practical experience using Spark a plus.</li><li> Knowledge of statistics, optimization techniques and attribution methodologies.</li><li> Self-driven with an aptitude for independent research &amp; problem solving.</li><li> Ability to multi-task in a fast-paced environment is essential.</li><li> Experience with agile development practices and Git.</li><li> Our values in your DNA: Customer First, Own It, Stronger Together and Change the Game<br></li></ul><strong>What does success look like?<br><br></strong>Hint: What are the metrics, KPI\u2019s and measurable outcomes we expect of this role?<br><br>The additional hires should allow more models released to production, quicker iteration and broader coverage of addressing business problems through statistical methods. KPIs correspond to extra revenue generated/costs saved from releases(Data Discovery -&gt; Recommendations -&gt; Financial value). The role is also meant to support compliance, documentation and knowledge sharing in regards to model governance &amp; review.<br><br>We\u2019re looking for someone who always finds new boundaries to cross - a future member of the sQuad who will obsess over excellence and make constant improvements for our customers. We\u2019ve removed the red tape here to get things done quickly, so if you see a problem, own the solution. You've gotta hustle at Quadpay!<br><br>If you only meet some of the requirements for this role, that's okay. We value a diverse range of backgrounds and ideas and believe this is fundamental for our future success. So, if you have the curiosity to learn and the willingness to teach what you know, we'd love to hear from you.<br><br>We pride ourselves on creating an inclusive workplace that provides equal opportunities to all persons regardless of their age, cultural background, sexual orientation, gender identity and expression, disability, veteran status, or anything else.<br><br><strong>Benefits @ Quadpay<br></strong><ul><li> Flexible working culture</li><li> Share incentive programs</li><li> Generous paid parental leave</li><li> 100% employer covered insurance</li><li> Fun team with high-growth hustle</li><li> Company-sponsored 401k program</li><li> Commuter benefits program<br></li></ul>Join us on our mission to be the first payment choice, everywhere and every day.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T06:53:24.000Z"
+  },
+  "company": {
+    "name": "Zip Co",
+    "link": "https://au.linkedin.com/company/zip-co-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

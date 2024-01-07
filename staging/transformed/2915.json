@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Education Management",
+    "description": "<strong><u>Overview<br><br></u></strong>PowerSchool\u00ae is the SIS leader, serving as the hub of educational ecosystems for over 40 million users. PowerSchool\u2019s products allow stakeholders to manage school processes and data, manage and monitor the special education process, and provides registration module for K-12 organizations. PowerSchool embraces a secure, open architecture and provides an extensive set of APIs that customers control to enable their schools to have the industry\u2019s best integrations.<br><br><strong><u>Responsibilities<br><br></u></strong>Essential duties andresponsibilities include the following.Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br><ul><li>Investigate and resolve issues reported for a large web application following best practices such as authoring or updating unit tests, writing maintainable code, applying established patterns and algorithms.</li><li>Analyze performance and develop improvements to performance of web application.</li><li>Assist with security updates to web application</li><li></li><li>Perform upgrades to 3rd party libraries and tools used by the web application</li><li>Implement new web application software features and products following best practices such as authoring of unit tests, writing maintainable code, applying established patterns and algorithms</li><li>Specialize in client or server-side web application development as a member of a project team. Preference for familiarity with the full technical stack.</li><li>Develop software to support internal initiatives, tools, update framework and application functionality</li><li>Work as part of an Agile SCRUM team in the planning, scoping, estimation and execution of technical solutions</li><li>Work within a wide range of new and legacy code and technologies in a mature codebase<br><br></li></ul><strong><u>Qualifications<br><br></u></strong>To be considered for and to perform this job successfully, an individual must be able to perform each essential duty and responsibility satisfactorily. The requirements listed below are representative of the knowledge, skill and/or ability required.<br><br><strong><u>Qualifications Include<br></u></strong><ul><li>Bachelor\u2019s degree in Computer Science or Information Technologies required or 3-5 years of experience</li><li>Experience with AngularJS and REST APIs, preferred</li><li>Strong knowledge o fcurrent web client technologies including demonstrable proficiency with HTML, CSS, JavaScript, ReactJS, jQuery, client MVC</li><li>Strong knowledgeof Java, Spring (IoC), Hibernate, JPA, JAX-RS and/or.net</li><li>Proficient in SQL, Oracle experience a plus</li><li>Experience with CI/CD preferred</li><li>Familiar with OWASP threats and mitigation techniques</li><li>Strong written and verbal communication skills</li><li>Ability to work with current software design principles and concepts such as patterns, algorithms, data structures, dependency injection, MV**, SOA, n-tier architecture</li><li>Ability to problem-solve, multitask and reprioritize tasks<br><br></li></ul><strong> EEO Commitment <br><br></strong>PowerSchool is committed to a diverse and inclusive workplace. PowerSchool is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. Our inclusive culture empowers PowerSchoolers to deliver the best results for our customers. We not only celebrate the diversity of our workforce, we celebrate the diverse ways we work. If you have a disability and need an accommodation regarding our recruiting process, please let us know by emailing accommodations@powerschool.com .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T22:06:45.000Z"
+  },
+  "company": {
+    "name": "PowerSchool",
+    "link": "https://www.linkedin.com/company/powerschool-group-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Folsom",
+    "region": "CA",
+    "postal_code": "95763",
+    "street_address": null,
+    "latitude": 38.681324,
+    "longitude": -121.163734
+  }
+}

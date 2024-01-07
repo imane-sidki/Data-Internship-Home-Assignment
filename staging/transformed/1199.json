@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer for Training Systems",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Description<br><br></u></strong><strong><u>Job Description:<br><br></u></strong>Leidos currently has an immediate opening for a Scientific Computing Software Engineer/Team Lead, supporting multiple US Navy programs located at Manassas, VA. Leidos\u2019 High Fidelity Simulation Business Area is responsible for architecting and implementing large-scale System of Systems solutions in support of world class simulation, training, and analysis products for the US Navy. This position requires US citizenship and the ability to obtain an active DoD Secret clearance.<br><br>You will develop sophisticated, real-time, software to enhance the fidelity of training and simulation systems. You will also be responsible for leading a very cohesive team of high performing software developers. The work may include developing numerical models, sonar system simulation/stimulation software, data visualization software, message passing and data distribution software, and/or trainer command and control software. This code is used in a variety of naval training and simulation systems. All software is developed in a Linux environment, and written primarily in C++, Java, and Python, utilizing various software packages (boost, NumPy, and MPI). Software development will include requirements analysis, designing, coding, unit testing, integration testing, and verification and validation testing. Work will include the development of new code and the maintenance and extension of existing code. A background in physics or mathematics is useful to implement physics-based enhancements to the training and simulation systems. Our team employs an agile development approach.<br><br>Travel is required to trainer sites at various naval bases, and will account for less than 10% of the job.<br><br><strong><u>Required Experience<br></u></strong><ul><li> US Citizenship and ability to obtain a DoD Secret security clearance.</li><li> Must have 8+ years of experience developing software in C++, Java, or related languages.</li><li> Must have a strong working knowledge of tools and libraries available for the Linux operating system, and be familiar with sound software engineering principles and methodologies.</li><li> Must have past experience with, and demonstrate the skills and capabilities to successfully execute the duties and responsibilities of this position</li><li>Requires BS degree and 8 \u2013 12 years of prior relevant experience or Masters with 6 \u2013 10 years of prior relevant experience. May possess a Doctorate in technical domain.<br></li></ul><strong><u>Desired Experience<br></u></strong><ul><li> Advanced degree, continuing education in computer science, and/or advanced math/physics background.</li><li> Cluster computing, signal processing, real-time software, numerical simulation software, multi-threaded, multi-processor software, data visualization software, underwater acoustic modeling, or familiarity with sonar systems.</li><li> Experience with Agile development and Atlassian products.</li><li> Experience using DevSecOps methods (Continuous Integration, Continuous Delivery) and tools (Jenkins, Docker).</li><li> Past team lead experience.<br></li></ul><strong><u>External Referral Bonus<br><br></u></strong>Eligible<br><br><u><strong>External Referral Bonus $:<br></strong></u>$3,000<br><br><strong><u>Potential For Telework<br><br></u></strong>No<br><br><strong><u>Clearance Level Required<br><br></u></strong>Secret<br><br><strong><u>Travel<br><br></u></strong>Yes, 10% of the time",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:18:57.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Manassas",
+    "region": "VA",
+    "postal_code": "20108",
+    "street_address": null,
+    "latitude": 38.75077,
+    "longitude": -77.47509
+  }
+}

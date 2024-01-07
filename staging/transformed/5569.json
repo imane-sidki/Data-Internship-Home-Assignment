@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Cloud Automation Engineer",
+    "industry": "Financial Services,Retail",
+    "description": "<strong><u>What You'll Do...<br><br></u></strong><strong>Job Summary:<br><br></strong>Do you have a passion for Cloud technologies and Automation? The Lead Cloud Automation Engineer works closely with architects, application development and cloud delivery teams to develop and maintain automation and self-service solutions that support H&amp;R Block application teams. This position uses state of the art tools, languages, coding standards and best practices to develop new features and capabilities. You will be challenged to continuously improve our automation and self-service capabilities through innovation in order to simplify and improve the developer experience.<br><br><strong>About the Job:<br><br></strong><ul><li>Serve as Azure technology lead, thought leader and technology expert for H&amp;R Block</li><li>Lead Team providing technical expertise to design, develop and maintain automation platforms responsible for delivering cloud infrastructure that is scalable, highly available, and fault tolerant on Microsoft Azure Cloud</li><li>Lead efforts to design and implement self-service cloud offerings using Terraform Enterprise, working closely with App/Dev teams to accelerate the adoption of new MS Azure Cloud features and services</li><li>Implement Architecture and Security standards through automation to ensure cloud infrastructure adheres to approved design patterns and security posture</li><li>Serve as a thought leader incorporating DevOps practices for automation of application installation, code deployment, configuration, and ongoing support tasks</li><li>Positively and proactively lead and influence the team providing coaching and mentorship to junior members.<br></li></ul><strong>Benefits: <br><br></strong><ul><li>Unlimited vacation and sick day policy</li><li>Competitive salary, 401(k) and bonus plan.</li><li>Opportunity for career development in a fast-paced, progressive company</li><li>Team volunteering events and off-site outings</li><li>Game rooms with pool tables, ping pong, foosball</li><li>Onsite Cafeteria and Fitness Center</li><li>Downtown location in the Power and Light District<br></li></ul><strong><u>What You'll Bring To The Team...<br><br></u></strong><strong>Qualifications:<br><br></strong><ul><li>Bachelor's degree in Computer Science, Information Technology, or related field, or the equivalent through a combination of education and work experience</li><li>Experience in object-oriented software design and development</li><li>Experience working in an Agile/SCRUM software development team</li><li>10+ Years development/architecture experience</li><li>7+ Years Cloud Orchestration and Automation experience - Azure (Preferred), AWS or GCP</li><li>5+ Years experience in languages and infrastructure such as Terraform, Go, Python, C, C++, and scripting<br></li></ul><strong>It would be even better if you also had...<br><br></strong><strong>Desired Experience:<br><br></strong><ul><li>Experience coaching and mentoring a team in large enterprise environments</li><li>Experience with cloud based serverless, storage and developer tools technologies</li><li>Familiar with build and deployment automation</li><li>Comfortable programing against an API</li><li>Implementing Pipelines for infrastructure automation</li><li>Understanding of GitOps principles for configuration management<br></li></ul><strong><u>About H&amp;R Block...<br><br></u></strong>We\u2019re here to live our purpose\u2014to provide help and inspire confidence in our clients and communities everywhere. We take our work personally, because we know what it represents: Families and homes. Livelihoods and lives.<br><br>We\u2019ve been true to that purpose since brothers Henry and Richard Bloch founded our company in 1955. Since then, we\u2019ve grown to approximately 12,000 tax offices throughout the United States and around the world. When you join our team, you\u2019ll add to the momentum of a forward-thinking company\u2014one that defined an industry and is now leading its transformation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:15:46.000Z"
+  },
+  "company": {
+    "name": "H&amp;R Block",
+    "link": "https://www.linkedin.com/company/h&amp;r-block"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

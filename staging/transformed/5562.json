@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Specialist, Embedded Security Software Engineer",
+    "industry": "Information Technology and Services,Defense & Space,Computer Software",
+    "description": "L3Harris is dedicated to recruiting and developing diverse, high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers\u2019 mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.<br><br>L3Harris Technologies is an agile global aerospace and defense technology innovator, delivering end-to-end solutions that meet customers\u2019 mission-critical needs. The company provides advanced defense and commercial technologies across air, land, sea, space and cyber domains. L3Harris has approximately $18 billion in annual revenue and 48,000 employees, with customers in more than 100 countries.<br><br><strong><u>Description<br><br></u></strong><strong>Job Title: Senior Specialist, Embedded Security Software Engineer C++<br><br></strong><strong>Job Location: USA-UT-Salt Lake City<br><br></strong><strong>Job Code: CS20211908-67901<br><br></strong>We are seeking an Embedded Software Engineer - C++ with a background and experience in embedded real-time software development. This position requires an individual to support existing, new and next generation military communications applications. An engineer in this position is responsible for providing responses to bid and proposals, deriving software requirements, creating designs and adding features to current designs and developing applications implementing these requirements.<br><br><strong><u>Qualifications<br><br></u></strong>Bachelor\u2019s degree in Computer Science, Computer Engineering, Software Engineering, or Electrical Engineering<br><br>6+ years embedded software engineering experience<br><ul><li> Configuring and patching U-boot and Linux for an embedded system</li><li> Configuring the root file system for an embedded system</li><li> Linux device trees</li><li> Linux boot process on an embedded system</li><li> BASH scripting</li><li> Significant C++ experience<br></li></ul><strong><u>Preferred Skills<br></u></strong><ul><li> Experience or familiarity in</li><li> PetaLinux</li><li> Yocto</li><li> VxWorks</li><li> Linux driver development</li><li> Buildroot</li><li> jffs2, UBI, and ubifs</li><li> Busybox</li><li> Board bring-up / JTAG</li><li> Experience debugging hardware</li><li> Design and implement software for embedded devices from requirements to production using C and C++ in a cross compiled environment</li><li> Assess third party and open source software license documentation</li><li> Familiarity with code revision management tools such as Git/Bitbucket/Clearcase.</li><li> DoD SECRET security clearance or be qualified to obtain one<br></li></ul>Please be aware many of our positions require the ability to obtain a security clearance. Security clearances may only be granted to U.S. citizens. In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information.<br><br>By submitting your r\u00e9sum\u00e9 for this position, you understand and agree that L3Harris Technologies may share your r\u00e9sum\u00e9, as well as any other related personal information or documentation you provide, with its subsidiaries and affiliated companies for the purpose of considering you for other available positions.<br><br>L3Harris Technologies is proud to be an Affirmative Action/Equal Opportunity Employer. L3Harris is committed to treating all employees and applicants for employment with respect and dignity and maintaining a workplace that is free from unlawful discrimination. All applicants will be considered for employment without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, characteristic or membership in any other group protected by federal, state or local laws. L3Harris maintains a drug-free workplace and performs pre-employment substance abuse testing and background checks, where permitted by law.<br><br>L3Harris Technologies is an E-Verify Employer. Please click here for the E-Verify Poster in English or Spanish. For information regarding your Right To Work, please click here for English or Spanish.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:44:38.000Z"
+  },
+  "company": {
+    "name": "L3Harris Technologies",
+    "link": "https://www.linkedin.com/company/l3harris-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

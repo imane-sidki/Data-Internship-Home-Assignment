@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer (AWS/PySpark)",
+    "industry": "",
+    "description": "<p><strong>Job Title:: Data Engineer (AWS/PySpark)</strong></p><p><strong> Job Location:: Malvern, PA</strong></p><p><strong>Job Type:: Full time</strong></p><p><strong></strong></p><p><strong>Must have - AWS cloud platform using PySpark on EMR Glue ETL </strong></p><p><strong></strong></p><p><strong></strong></p><p>1 Experience in building large scale batch and data pipelines with data processing frameworks in AWS cloud platform using PySpark on EMR Glue ETL </p><p>2 Deep experience in developing data processing data manipulation tasks using such as reading data from external sources merge data perform data enrichment and load in to target data destinations </p><p>3 Proficiency with Big Data processing technologies Hadoop Hive or Databricks </p><p>4 Experience in deployment and operationalizing the code using CI CD tools Bitbucket and Bamboo </p><p>5 Experience with SQL and relational databases </p><p>6 Strong AWS cloud computing experience Extensive experience in Lambda S3 EMR Redshift</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T14:37:49.000Z"
+  },
+  "company": {
+    "name": "Ambrosia Infotech Ltd.",
+    "link": "https://www.linkedin.com/company/ambrosia-infotech-ltd."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

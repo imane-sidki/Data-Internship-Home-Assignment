@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>Years of Experience </strong> 7 years<br><br><strong>Education Requirements </strong> Bachelor\u2019s Degree<br><br><strong>Position Description </strong> CI/CD Engineer is responsible for the set-up, maintenance, and ongoing development of continuous build/integration infrastructure.<br><br><strong><u>Requirements<br><br></u></strong><strong>Responsibilities <br></strong><ul> <li>Create and maintain fully automated CI build processes for multiple environments</li> <li>Write build and deployment scripts</li> <li>Support CI/CD tools integration/ operations/ change management, and maintenance</li> <li>Support full automation of CI/Testing</li> <li>Develop policies, standards, guidelines, governance and related guidance for both CI/CD operations and for work of developers</li> <li>On-board/ train and support developers from source control, through build automation, merge resolution, CI, test automation, deployment based on tools usage and policies, standards</li> <li>Enable DevOps by moving code from Dev/Test to Staging and Production. Troubleshoot issues along the CI/CD pipeline</li> <li>Good understanding of Quality Control and Test Automation in Agile-based Continuous Integration environments</li> <br><br></ul><strong><u>Required Skills<br></u></strong><ul> <li>3-5 years of experience building DevSecOps pipelines for implementing CI/CD for cloud applications.</li> <li>Possess deep expertise in scripting languages like Bash, Python and Groovy and are very skilled in troubleshooting deployment issues on AWS.</li> <li>Have minimum 3 years of experience managing resources on AWS.</li> <li>Possess deep expertise in many tools from the DevSecOps tool chain.</li> <li>Working knowledge of fundamental Linux systems administration.</li> <li>Working knowledge of fundamental Windows Systems administration. </li> <li> <strong>Certifications </strong><strong> AWS Solutions Architect (Associate) or Developer (Associate)</strong> </li> <li>Must be able to obtain a public trust security clearance</li> <br><br></ul><strong><u>Preferred Skills<br></u></strong><ul><li>Previous experience with VA and working on VA legacy systems for Education Service<br><br></li></ul><strong><u>Soft Skills<br></u></strong><ul> <li> <strong>Organizational Skills </strong> Can plan and prioritize work. Follows tasks to their logical conclusion and makes sure that everything has been done to the right standard. Good attention to detail.</li> <li> <strong>Team Work </strong> Able to enthuse and maintain project interest. Comfortable working both individually and as part of a team. Prepared to challenge ideas within a group in a constructive way. </li> <li> <strong>Communications </strong> Ability to communicate clearly and efficiently to team members and clients, verbally and in writing. Able to present ideas in a variety of ways depending upon audience and context. Excellent active listening skills.</li> <li> <strong>Quantitative Management </strong> Ability to determine process measures and track to determine process effectiveness and efficiency. </li> <li> <strong>Results oriented</strong> Able to drive things forward regardless of personal interest in the task.</li> <br><br></ul><u><strong>Benefits<br><br></strong></u>SES provides a competitive salary and the following benefits<br><ul> <li>Medical</li> <li>Dental</li> <li>Vision</li> <li>AD&amp;D</li> <li>STD</li> <li>LTD</li> <li>Company paid Life Insurance</li> <li>401k with employer contribution</li> <li>Paid Time Off</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:59:48.000Z"
+  },
+  "company": {
+    "name": "SES Corporation",
+    "link": "https://www.linkedin.com/company/ses-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chantilly",
+    "region": "VA",
+    "postal_code": "22022",
+    "street_address": null,
+    "latitude": 38.888687,
+    "longitude": -77.417496
+  }
+}

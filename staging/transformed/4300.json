@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Strategic Data Solutions",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming outstanding products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.<br><br><br>Apple's Strategic Data Solutions (SDS) team is looking for a talented individual who is passionate about crafting, implementing, and operating analytical solutions that have direct and measurable impact to Apple and its customers.<br><br><br>As an SDS data scientist, you will employ predictive modeling and statistical analysis techniques to build end-to-end solutions for improving security, fraud prevention, and operational efficiency across the company, from manufacturing to fulfillment to apps and services.<br><br><br>Apple's dedication to customer privacy, the adversarial nature of fraud, and the enormous scale of the business present exciting challenges to traditional machine learning and data science techniques. On this team, you will push the limits of existing data science methods while delivering tangible business value.<br><br><br>This position is located in Austin, TX.<br><br> <br><strong>Key Qualifications<br></strong> <br>Practical experience with and theoretical understanding of algorithms for classification, regression, clustering, and anomaly detection<br><br>Working knowledge of relational databases, including SQL, and large-scale distributed systems such as Hadoop and Spark<br><br>Ability to implement data science pipelines and applications in a general programming language such as Python, Scala, or Java<br><br>Ability to comprehend and debug complex systems integrations spanning toolchains and teams<br><br>Ability to extract meaningful business insights from data and identify the stories behind the patterns<br><br>Excellent presentation skills, distilling complex analysis and concepts into concise business-focused takeaways<br><br>Creativity to engineer novel features and signals, and to push beyond current tools and approaches<br><br> <br><strong>Description<br></strong> <br>\u2022 Engage with business teams to find opportunities, understand requirements, and translate those requirements into technical solutions<br><br>\u2022 Design data science approach, applying tried-and-true techniques or developing custom algorithms as needed by the business problem<br><br>\u2022 Collaborate with data engineers and platform architects to implement robust production real-time and batch decisioning solutions<br><br>\u2022 Ensure operational and business metric health by monitoring production decision points<br><br>\u2022 Investigate adversarial trends, identify behavior patterns, and respond with agile logic changes<br><br>\u2022 Communicate results of analyses to business partners and executives<br><br>\u2022 Research new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team<br><br> <br><strong>Education &amp; Experience<br></strong> <br>\u2022 Ph.D. in Computer Science, Machine Learning, Statistics, Operations Research or related field; or<br><br>\u2022 Ph.D. in Math, Engineering, Economics, or hard science with data science fellowship; or<br><br>\u2022 M.S. in related field with 3+ years experience applying data science to real business problems<br><br> <br>Role Number: 200237900<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:26:17.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

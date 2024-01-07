@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p>Position:Site Reliability Engineer</p><p>Location: Remote till Covid, Weehawken, NJ</p><p>Type of job: Contract</p><p><br></p><p><br></p><p>JOB Description</p><p><br></p><p><br></p><ul><li>location: the initially remote post that Weehawken US once situation normalize.</li></ul><p></p><p></p><p></p><p>Primary skills for a newSRE:</p><p></p><ul><li>Linux administration</li><li>Bash shell scripting</li><li>Experience with Azure or another cloud provider</li><li>Docker and Kubernetes</li><li>Experience with Application performance monitoring tools.</li><li>Experience with any languages for querying log data \u2013 search processing language (Splunk), Kusto (Azure), Kibana query language (Elasticsearch)</li><li>SQL</li><li>Understanding ofSREconcepts.</li><li>Git</li></ul><p></p><p></p><p>Additional skills:</p><ul><li>Python</li><li>Infrastructure as code (Terraform, Puppet, Chef or Ansible)</li><li>DevOps build automation and CI/CD (Gerrit, Maven, Jenkins, Nexus, Artifactory, Selenium)</li></ul><p></p><p><br></p><p><br></p><p><br></p><p>Thanks</p><p>Ashwini</p><p>4085569096</p><p>ashwini@tsourceinc.net</p><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-16T17:16:49.000Z"
+  },
+  "company": {
+    "name": "TechSource Inc.",
+    "link": "https://www.linkedin.com/company/tsourceinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Weehawken",
+    "region": "NJ",
+    "postal_code": "07086",
+    "street_address": null,
+    "latitude": 40.770782,
+    "longitude": -74.01762
+  }
+}

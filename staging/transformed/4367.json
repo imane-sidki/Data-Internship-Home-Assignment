@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - SQL and Python - Remote Flexibility",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Beacon Hill Technologies, is seeking the following. Apply via Dice today!<br><br>Our client in the Greater Philadelphia, PA is looking for a Data Engineer to join their team. This is a permanent role by way of contract to hire. This role will be 2 days on site and 3 days remote per week. This is an opportunity to join a growing and evolving company. Position Description Design and develop data pipelines using Python, Kafka, Snowflake and AWS technologies Assemble large, complex data sets that meet functional non-functional business requirements Identify, design, and implement internal process improvements automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc. Work with stakeholders including the Marketing, CRM, Finance, Operations, Product, and Development teams to assist with data-related technical issues and support their data infrastructure needs Develop repeatable and scalable data quality audits Hands on coding role Required Skills Bachelor's Degree in Software Engineering, Computer Science, MIS or related field 3+ years' experience with Python programming 3+ years' experience with AWS Services (Need all 3 S3, Lambda, Fargate) 2+ years Advanced SQL knowledge Experience working with relational databases, query authoring Experience writing advanced SQL queries with multi-table joins, group functions, subqueries, set operations, functions, stored procedures Experience with Git Experience with Docker and Unix environments Experience with queue and data streaming technologies (one of the following Kafka, Kinesis, SQS, RabbitMQ) Experience with Infrastructure as Code (Terraform, CloudFormation, Serverless) Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement Strong understanding of data modeling and data warehousing principles Excellent documentation and general organization of ongoing tasks, including the ability to evaluate and question business rules Beacon Hill is an Equal Opportunity Employer that values the strength diversity brings to the workplace. Individuals with Disabilities and Protected Veterans are encouraged to apply. Company Profile Beacon Hill Technologies, a premier National Information Technology Staffing Group, provides world class technology talent across all industries utilizing a complete suite of staffing services. Beacon Hill Technologies' dedicated team of recruiting and staffing experts consistently delivers quality IT professionals to solve our customers' technical and business needs. Beacon Hill Technologies covers a broad spectrum of IT positions, including Project Management and Business Analysis, ProgrammingDevelopment, Database, Infrastructure, Quality Assurance, ProductionSupport and ERP roles. Learn more about Beacon Hill Staffing Group and our specialty divisions, Beacon Hill Associates, Beacon Hill Financial, Beacon Hill HR, Beacon Hill Legal, Beacon Hill Life Sciences and Beacon Hill Technologies by visiting www.beaconhillstaffing.com httpwww.beaconhillstaffing.com . We look forward to working with you. Beacon Hill. Employing the Future",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:00:24.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wilmington",
+    "region": "DE",
+    "postal_code": "19806",
+    "street_address": null,
+    "latitude": 39.74443,
+    "longitude": -75.5451
+  }
+}

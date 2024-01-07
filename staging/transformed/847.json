@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<ul><li><strong>Bachelors degree and higher</strong></li><li><strong>Core DS &amp; ML Model skill set</strong></li><li><strong>AWS Cloud Preferred</strong></li><li><strong>Python Programming along with Flask (or similar to Flask modules)</strong></li><li><strong>Be able to share &amp; showcase gitHub code if they have any</strong></li><li><strong>Be ableto create and deploy models and create webApps or something else where business users will know how to use these models for their business purpose</strong></li><li><strong>Shiny with R capabilities (Optional)</strong></li><li><strong>Supply Chain management experience (Optional, but good to have)</strong></li><li><strong>CI/CD,gitHub/BitBucket,Jenkins</strong></li><li><strong>SQL skillet</strong></li></ul><p><strong>Experience should be : 5+</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T02:11:52.000Z"
+  },
+  "company": {
+    "name": "my own company",
+    "link": "https://uk.linkedin.com/company/my-own-company_6"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Position Summary<br><br></strong>Our teams are building the future that deliver advanced BIG-IP application delivery and security services to customers around the world. We are passionate about using Agile development and DevOps principles to build a modern, automation ready system that scales to meet and exceed customer expectations. This Software Engineer role is one of the key positions to help ship our next generation BIG-IP Software.!<br><br>You will be part of our global team which focus on DevOps automation tool chain with very clear focus on customer delivery.Your key areas of focus will be end to end automation using CI/CD pipeline, help define release strategy, build and maintain test harnesses, build reporting workflow for integration and quality efforts etc..<br><br><strong><u>Primary Responsibilities<br></u></strong><ul><li>Design, develop and implement software integrations based on requirements</li><li>Troubleshoot production issues and coordinate with development team to streamline code deployment</li><li>Build Automation infrastructure in Python/Java for high-end network appliances and virtual products</li><li>Keep abreast of new technologies, potential business partners</li><li>Proactively identifying and resolving key technical issues<br><br></li></ul><strong><u>Knowledge, Skills And Experience<br></u></strong><ul><li>Knowledge of CI/CD and project management tools (e.g. Git, Jenkins, Jira, Confluence, Bugzilla, etc.)</li><li>Automation development using any scripting language such Python/Ruby/Bash/Java/JS etc..</li><li>Understand System Testing and Building Automation Tools</li><li>Understanding of container and cloud technologies (e.g. Kubernetes, Docker, etc.)</li><li>Must be self-directed, detail-oriented and have excellent written &amp; verbal communication skills</li><li>BA/BS in computer science or related field required; or equivalent combination of education and experience</li></ul> The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.<strong>Phishing Alert<br></strong>Please note that F5 only contacts candidates through F5 email address (ending with @f5.com) or auto email notification from Yello/Workday (ending with f5.com or @myworkday.com).<br><strong>Equal Employment Opportunity<br></strong>It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability,marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws.This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. Reasonable accommodation is available for qualified individuals with disabilities, upon request.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:16:25.000Z"
+  },
+  "company": {
+    "name": "F5",
+    "link": "https://www.linkedin.com/company/f5"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

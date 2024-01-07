@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software QA Engineer",
+    "industry": "",
+    "description": "<p>The Senior QA Engineer sets quality standards and builds customer fulfillment by ensuring that Coinstar software performs as specified. This position delivers outstanding results in the area of Quality Assurance (QA) through the design, creation, and delivery of intricate test cases in collaboration with business partners and various members of the Technology organization.</p><p><br></p><p><strong>What you'll do:</strong></p><ul><li>Execute end-to-end test strategies against server-based systems that provide services to Coinstar Kiosks running embedded systems.</li><li>Collaborate with project teams to decompose requirements and ensure total coverage, translating specifications into test design, high-level plan, and test cases, with traceability throughout.</li><li>Participate in and potentially drive project evaluations and daily stand-ups, sharing status on achievements and defects, as well as detailing in test tools and any other required reporting.</li><li>Responsible for the full lifecycle of the test phase of a project, from kick-off to production readiness, including estimation and execution of regression, functional, and automated testing.</li><li>Replicate and understand production issues in test environments to help inform solutions.</li><li>Motivate, coach, and mentor team members on standard methodologies and alignment to policy, including acting as a point of escalation for more junior members.</li><li>Contribute to content and continuous improvement of QA metrics.</li><li>Remain current with emerging technologies, influencing the future Coinstar landscape.</li><li>Role model Coinstar proficiencies, holding self and others accountable.</li></ul><p><br></p><p><strong>Education &amp; Experience </strong></p><ul><li>High school degree required; college degree preferred.</li><li>8+ years of software Quality Assurance engineering. </li><li>Testing on Software as a service (SaaS) and embedded systems.</li><li>Testing on various platforms: websites, client-server applications, and backend web services.</li><li>Agile project management tools like Jira and Rally.</li><li>Working with test harnesses, test automation tools, and industry standard CI/CD tools.</li><li>Testing in cloud-based solutions like AWS and Azure.</li><li>Testing embedded systems or consumer electronic devices a huge plus.</li></ul><p><br></p><p><strong>Knowledge, Skills &amp; Abilities </strong></p><ul><li>Familiarity with a major programming language. C# preferred, C++, Java, Python, Ruby are preferred.</li><li>Familiarity with Bitbucket, Visual Studio, Team City, TFS, Test Manager are a plus</li><li>Familiarity with testing tools such as TestComplete, TestStudio, Rational Robot </li><li>Familiarity with automation test frameworks such as Selenium, TestNG, Karate, Cucumber </li><li>Outstanding analytical and problem-solving skills, fixing complex configuration issues.</li><li>High degree of comfort working with fluid requirements and constraints.</li></ul><p><br></p><p>We believe that continued good health, financial security and work-life balance are important. We offer a complete, progressive benefits package including an outstanding healthcare plan, 401k match (immediately vested), generous paid time-off, paid parental and adoption leave, corporate matched giving, and more. In addition, we have a casual and flexible work environment with work from home options. </p><p><br></p><p><strong>EEO Statement</strong></p><p>We are Coinstar because of our people. We value and embrace their unique and diverse talents, perspectives and experiences and strive to build an environment where each individual can bring their best self to work. We are an Equal Opportunity Employer. Coinstar will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed, please contact our Human Resources team via AskHR@coinstar.com. We believe diversity and inclusion makes us a better, more innovative and successful company, and we seek to recruit and retain a diverse talent pool. Even if you do not meet every qualification, we encourage you to apply.</p><p>This job description is not intended to be all-inclusive. Other responsibilities may be assigned to meet the ongoing needs of the organization.</p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:19:37.000Z"
+  },
+  "company": {
+    "name": "Coinstar",
+    "link": "https://www.linkedin.com/company/coinstar"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

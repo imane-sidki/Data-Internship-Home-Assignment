@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (100% Remote)",
+    "industry": "Management Consulting",
+    "description": "<p>As a<strong>Site Reliability Engineer</strong>, you will be part developer, part operations, all continuous integration and delivery expert; you will be integral to the design, set up, automation, and maintenance of our entire integration and delivery pipeline. The ideal candidate should have a deep software development background married with effective intercommunication skills to promote compromise with developers, support engineers, customers, and senior management.They will be embedded within the development teams, working with our clients and other engineers and developers gathering requirements, architecting and communicating an end-to-end, automated CI/CD pipeline.</p><p></p><p><strong>Responsibilities:</strong></p><ul><li>Create and maintain ansible automation scripts for essential tools, services, and configurations.</li><li>Create automation frameworks and write automation scripts for moving code through the SDLC process, including testing scripts</li><li>Seek and explore opportunities to automate all operational activities.</li><li>Design, develop and deploy automation solutions to enable self service capabilities for end users.</li><li>Write robust frontend and backend API automation tests.</li><li>Design and develop automated solutions across several services and systems in a cross-functional, agile environment.</li></ul><p><strong>Knowledge and Skills:</strong></p><ul><li>Strong ansible and AWS Cloud Development Kit and CloudFormation Template development skills.</li><li>Advanced automated script design, coding, debugging, and maintenance skills (using bash, python, etc).</li><li>Strong experience in CI/CD toolsets (e.g. AWS Code Pipeline/Code Build, Jenkins, GitLab, etc).</li><li>Patience and tolerance for when things just go wrong.</li><li>Skilled and disciplined to work remote with a distributed team.</li><li>Excellent communications skills (written, verbal, &amp; virtual).</li><li>Strong drive, self-motivated, logical, and detail-oriented.</li><li>Passion for new technologies, software &amp; processes.</li><li>Ability to multi-task in a fast-paced environment with multiple deadlines is essential.</li><li>Other tools: Packer, Docker, Selenium, ReadyAPI (SoapUI Pro, LoadUI Pro, ServiceV Pro)</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:43:12.000Z"
+  },
+  "company": {
+    "name": "Take2 Consulting, LLC",
+    "link": "https://www.linkedin.com/company/take2-consulting-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tysons Corner",
+    "region": "VA",
+    "postal_code": "22030",
+    "street_address": null,
+    "latitude": 38.912,
+    "longitude": -77.22755
+  }
+}

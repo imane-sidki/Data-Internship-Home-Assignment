@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr Software Engineer",
+    "industry": "",
+    "description": "<p>Experience needed: 0-5 years</p><p>Its an in office position south Indianapolis, Indiana area, relocation is required, starting salaries is negotiable, were willing train up if necessary. Our tech stack is React, Node, Python, Postgresql, &amp; React Native.</p><p>You would be working on database intake systems improving query performance &amp; building charts, various user interfaces for clients &amp; staff to interact with our weather data. Other work may include rebuilding our legacy website, upgrading maintaining our application, &amp; building up our API, &amp; more. This is a full stack position you may be required to learn languages &amp; tools you have never used before. This is an on call position if a bug comes up you must be available to drop everything &amp; fix it if necessary.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T16:06:23.000Z"
+  },
+  "company": {
+    "name": "BAMWX LLC",
+    "link": "https://www.linkedin.com/company/bam-chase-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwood",
+    "region": "IN",
+    "postal_code": "46142",
+    "street_address": null,
+    "latitude": 39.613575,
+    "longitude": -86.117874
+  }
+}

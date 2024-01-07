@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "You Lead the Way. We\u2019ve Got Your Back.<br><br>At American Express, we know that with the right backing, people and businesses have the power to progress in incredible ways. Whether we\u2019re supporting our customers\u2019 financial confidence to move ahead, taking commerce to new heights, or encouraging people to explore the world, our colleagues are constantly redefining what\u2019s possible - and we\u2019re proud to back each other every step of the way. When you join #TeamAmex, you become part of a diverse community of over 60,000 colleagues, all with a common goal to deliver an exceptional customer experience every day.<br><br>American Express Technology is looking for a Software Engineer I to join a dynamic and innovative development team. Our team builds multi-functional, rich global credit authorizations solutions, critical to the core of American Express\u2019 business. The team uses the Agile methodology for project delivery and operates in a fast paced business environment. From integrating with American Express Network partners, such as international banks, to developing highly available solutions and serving internal and external customers there will always be new and unpredictable challenges in this environment.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Build, deploy, and manage solutions for company-wide infrastructure challenges.</li><li>Ensure high availability for underlying platforms and infrastructure for application use.</li><li>Provide the tooling and guidance for engineering teams to monitor their service availability against pre-determined SLOs.</li><li>Monitoring and alerting of our production environment.</li><li>Identify, evaluate, and recommend opportunities for automation. All automated processes should be maintainable, simple, and leverage a CI/CD pipeline release process, where possible.</li><li>Collaborate with other software engineers around patterns and practices for highly available, fault tolerant and resilient applications.</li><li>3-5 years\u2019 experience of Linux Operating Systems, with strong background in troubleshooting</li><li>1-3 years Cloud experience; IaaS and PaaS for on-prem and/or public clouds (EKS, GKE, AKS)</li><li>At least 1 year Production experience of native Kubernetes or related enterprise container platforms such as Open Shift</li><li>Knowledge of Public Cloud Governance frameworks, architectures, configurations, services, and solutions with AWS or GCP</li><li>Strong automation skills in Linux including bash, python, and shell</li><li>Experience with Infrastructure as Code (Terraform, Ansible, Git)</li><li>Experience with modern source control repositories (e g Git) and DevOps toolsets (Jenkins/ Ansible etc) and familiarity with Agile/ Scrum methodologies</li><li>Experience with cloud-native and microservice architectures and an understanding of design principles for scalability, performance, and reliability</li><li>Experience with distributed systems, asynchronous messaging, and networking protocols</li><li>Experience with open source applications, frameworks, and libraries<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Capable of establishing and communicating technical practices for large organizations</li><li>First-hand experience designing highly available platforms and practices for large organizations</li><li>Experience managing infrastructure at large scale (i.e. hundreds or thousands of nodes)</li><li>Understanding of regulated environments and compliance standards</li><li>Team-driven software development experience (ie. git workflows, agile software practices, etc.)</li><li>Experience designing and implementing APIs for (REST, GRPC, etc.)</li><li>Hands-on experience designing, implementing, and consuming standardized APIs (REST, GRPC, etc.)<br></li></ul><strong>Employment eligibility to work with American Express in the U.S. is required as the company will not pursue visa sponsorship for these positions. <br><br></strong><strong>American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, age, or any other status protected by law.</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T02:13:47.000Z"
+  },
+  "company": {
+    "name": "American Express",
+    "link": "https://www.linkedin.com/company/american-express"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

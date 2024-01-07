@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet",
+    "description": "<p>This is a 6-month contract role, with potential extension up to two years.</p><p><br></p><p>Job Responsibilities:</p><p>- Develop user-facing features while taking an active role in designing and improving the UX for Assistant Studio</p><p>- Build new features and maintain tools for the Assistant Studio - Model Factory, including tools and services for training data management, model training, inference etc.</p><p>- Collaborate with other engineers to improve the efficiency and usability of existing tools</p><p><br></p><p>Skills Must Have:</p><p>- 3+ years' of Full Stack web development experience</p><p>- Experience with web applications and large scale front end development</p><p>- Proficient with programming languages like HTML, CSS, JavaScript, and PHP</p><p>- Experience with modern JavaScript libraries and frameworks like React and Redux</p><p>- Experience with git or other source control</p><p>- Strong motivation and product sense</p><p>- Verbal and written communication skills, problem solving skills, customer service and interpersonal skills.</p><p>- Ability to work independently and manage one\u2019s time.</p><p>- Ability to troubleshoot issues and make system changes as needed to resolve issue.</p><p><br></p><p>Nice to Have:</p><p>- Experience in Python is a plus</p><p>- Experience and interest in NPL is a plus</p><p><br></p><p>Education/Experience:</p><p>Bachelor's degree in computer science, software engineering, information system or relevant field required.</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-02T17:42:15.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

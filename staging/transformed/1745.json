@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "We\u2019re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you\u2019re a high performer who\u2019s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self. You know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when the whole team crosses together.<br><br>Alteryx is revolutionizing data analytics by providing a complete end to end, self-service platform that allows users to get from business questions to business answers at incredible speeds. Why work for just any analytics company? At Alteryx, we are explorers, dreamers and innovators. We\u2019re on a journey to build the best analytics platform in the world, but we can\u2019t do it without people like you, leading the way. Forget the stereotypical tech companies of the past. Embrace the unconventional, exercise your imagination and help alter the future with Alteryx.<br><br><strong><u>Overview<br><br></u></strong>Alteryx supports many different data connections ranging from local file types to data sources in the cloud and the list will continue to grow. The Data Connectors team is responsible for the full integration of data connections, which involves the implementation of user interfaces and back-end processing using 3rd party libraries. The ideal candidate will have experience in maintaining and modernizing, as well as the curiosity and drive to work within a large, complex system using a variety of programming languages and technologies, all while ensuring security and quality best practices. Your work will be customer facing and have a significant impact on the user experience of a product used and loved by many people in a variety of industries.<br><br><strong><u>Position Details<br></u></strong><ul><li>Participate in the architecture, design, and implementation of back-end features using C++, C#, Lua, and Python.</li><li>Assist in providing maintenance changes for our existing products as required.</li><li>Ensure the long-term quality of the code you develop by equally contributing tests at all levels of the testing pyramid.</li><li>Provide meaningful, quality-focused feedback through code reviews.</li><li>Practice defensive programming techniques.</li><li>Communicate frequently with product management, user experience, and other development teams to coordinate work efforts.<br></li></ul><strong><u>Required Skills<br></u></strong><ul><li>3+ years\u2019 experience with C++.Automated testing experiencing using QUnit, Selenium, Pytest, Catch 2.0, or other testing frameworks.</li><li>Experience working with relational and NoSQL databases and query languages.</li><li>Demonstrated professional expertise in understanding and implementing OO design patterns.</li><li>Demonstrated ability to translate business requirements into technical solutions.</li><li>Excellent written and verbal communication as well as listening skills.</li><li>Excellent problem-solving skills.</li><li>Ability to learn quickly and work independently with minimal direction and guidance.</li><li>Ability to quickly identify and acquire information necessary for solving problems.<br></li></ul><strong><u>Valued Skills<br></u></strong><ul><li>Experience with Python a plus</li><li>Experience developing applications with a database service (e.g. SQL Server, Oracle, AWS, etc.)</li><li>Integrating third-party tools and components into applications.</li><li>Experience with C# and .NET framework.</li><li>Comfort working in a collaborative, agile environment.</li><li>Experience using GitLab or equivalent SCM.</li><li>Familiarity with cloud computing and/or distributed computing systems.</li><li>Experience developing for Windows and Linux.</li><li>Code quality coverage analysis and reporting tools (e.g. SonarQube, Gcov, Bullseye, etc.)<br></li></ul><strong><u>Compensation<br><br></u></strong>Alteryx is committed to fair and equitable compensation practices. The salary range for this role in Broomfield, CO is $88,400 - $150,300. Compensation will ultimately be in line with the location in which the position is filled. Final compensation for this role will be determined by various factors such as a candidate\u2019s relevant work experience, skills, certifications, and geographic location. This role is eligible for variable compensation including bonus and stock grants.<br><br>Find yourself checking a lot of these boxes but doubting whether you should apply? At Alteryx, we support a growth mindset for our associates through all stages of their careers. If you meet some of the requirements and you share our values, we encourage you to apply. As part of our ongoing commitment to a diverse, equitable, and inclusive workplace, we\u2019re invested in building teams with a wide variety of backgrounds, identities, and experiences .<br><br><strong><u>Benefits &amp; Perks<br><br></u></strong>Alteryx has amazing benefits for all Associates which can be viewed here .<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:18:43.000Z"
+  },
+  "company": {
+    "name": "Alteryx",
+    "link": "https://www.linkedin.com/company/alteryx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Broomfield",
+    "region": "CO",
+    "postal_code": "80020",
+    "street_address": null,
+    "latitude": 39.923985,
+    "longitude": -105.08166
+  }
+}

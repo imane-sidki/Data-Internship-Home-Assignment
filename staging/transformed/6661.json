@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Vehicle Engineering",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "The Role<br><br>Tesla\u2019s Vehicle Engineering team is currently seeking a site reliability engineer (SRE) to focus on improving our in-house manufacturing and supply chain computer vision platform. This role will contribute to many of our other purpose-built applications that automate and improve the process of designing, building, and delivering Tesla products, globally.<br><br>Tesla\u2019s Vehicle Engineering team, in general, owns the centralized technical aspects of our multi-continent Gigafactory network and product line. The systems we work on include Tesla\u2019s most important programs, such as Cybertruck, cell production, Robotaxi, and new factories. The software team is responsible for making these systems and operations every bit as intelligent and dynamic as the products themselves.<br><br>As a member of the Supply Chain and Ops Automation team (SCOA), you will lead our efforts to deploy software in Texas, Berlin, and beyond. We are currently looking for an experienced SRE to scale our infrastructure to multiple datacenters, while<br><br>improving our existing CI pipeline, CD flow, git-ops, and other devops-related tasks on our high-availability and data-intensive applications. In SCOA, engineers have the<br><br>ownership freedom to push forward their recommendations, experiment, and ultimately<br><br>drive new technology into the production line to positively impact the company and our customers.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Derive functional (application) and non-functional (availability, performance, security, and maintainability, cost) requirements for global deployments and scaling needs </li><li>Collaborate with stakeholders across regions to understand deployment requirements </li><li>Deliver on deployment requirements with proactive monitoring tools and dashboards </li><li>Maintain existing infrastructure deployed both on AWS and private Kubernetes clusters </li><li>Recommend latest ops best practices, with a focus on automation </li><li>Write technical documentation and runbooks <br></li></ul><strong><u>Requirements<br></u></strong><ul><li>BS in Computer Science/related field, or equivalent industry experience </li><li>Fluency with tools for orchestration in AWS or a private cloud, especially with Kubernetes, using tools like Terraform, Ansible, ArgoCD, and Docker </li><li>Demonstrated ability to respond to production outages and implement long-term fixes </li><li>Familiarity with of machine-to-machine communication concepts, i.e., TCP/IP, web sockets, and RPC </li><li>Understanding of when to use and how to set up message brokers, e.g., Kafka and AWS Kinesis </li><li>Ability to choose the right storage system, e.g., relational DBs (AWS RDS for Postgres, CockroachDB), cache (Redis, Elastic Search), S3 (public and private clouds), time-series DBs (InfluxDB, Prometheus) based on the application need </li><li>Relevant experience with the Go/Python/JS or other programming languages <br></li></ul><em>Employee Benefits <br></em><ul><li>As a full time Tesla employee you will receive full benefits from day 1 for you and your dependents. </li><li>Kaiser and UnitedHealthcare PPO and HSA plans (including infertility coverage)</li><li>3 medical plan choices with $0 paycheck contribution </li><li>Vision &amp; dental plans (including orthodontic coverage)</li><li>Company paid Life, AD&amp;D, short-term and long-term disability </li><li>401(k), Employee Stock Purchase Plans, and other financial benefits </li><li>Employee Assistance Program, Paid Time Off, and Paid Holidays</li><li>Back-up childcare and employee discounts</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T21:30:43.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Machine Learning &amp; AI",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Descript is powered by state-of-the-art Deep Learning technology, lowering the barrier to entry for content creation. Our vision is to build the next generation platform to enable easy and fast creation of audio and video content powered by cutting-edge AI. Building a revolutionary way to record, transcribe, edit and mix spoken audio and video comes with a series of unique challenges and requires solving hard and complex problems. This team has pioneered text-based media editing through tools like Overdub and Studio Sound.<br><br>As a member of this team you will:<br><ul> <li>Own the ML infrastructure and production pipelines to bring the magic of AI to the end users</li> <li>Collaborate with the engineering team to bring AI services to life</li> <li>Provide guidance on the performance trade-offs of Deep Learning models in production to the rest of the organization</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Ability to write flawless, readable and maintainable code in Python. Experience with Go is a plus.</li> <li>Familiarity with gRPC and Deep Learning model deployments</li> <li>Experience in design, development and maintenance of tools for ML data and modeling pipelines, including big data processing, model training and evaluation, continuous integration and development, model quality monitoring and analytics</li> <li>Previous experience with developing machine learning infrastructure or experience in using GPUs</li> <li>Strong analytical skills and a real passion for efficiency of the data and modeling process</li> <li>Familiarity with deep learning frameworks (e.g. Tensorflow, PyTorch)</li> <li>Preferred: Experience with on-device deployment of the deep learning models</li> <li>Preferred: Ability to deal well with ambiguous problems, and proceed with good judgement</li> <li>Preferred: Knowledge and experience with Google Cloud Platform and Kubernetes</li> <br><br></ul><strong><u>About Descript<br><br></u></strong>Descript is building the next generation of tools for communicating with video and audio. We are a team of 40 (planning to double in 2021) \u2014 with a proven CEO and the backing of some of the world's greatest investors (Andreessen Horowitz, Redpoint Ventures, Spark Capital). Descript HQ is in San Francisco, and our AI research team, Lyrebird, is based in Montreal.<br><br>Descript is the special company that's in possession of both product market fit and the raw materials (passionate user community, great product, large market) for growth, but is still early enough that each new employee has a measurable influence on the direction of the company.<br><br>As a small startup, Descript relies on employees who thrive in an environment where they are regularly called upon to translate high level goals into day-to-day priorities, and are regularly presented with technical and business challenges that extend beyond their comfort zone.<br><br>Benefits include a generous healthcare package, catered lunches, and unlimited vacation time. We currently have offices in San Francisco and Montreal, and are open to folks working between PST and EST time zones. Whether you love WFH or can't wait to get back to being in person, we're interested in offering an environment that works for you.<br><br>Descript is an equal opportunity workplace\u2014we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. We believe in actively building a team rich in diverse backgrounds, experiences, and opinions to better allow our employees, products, and community to thrive.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:23:21.000Z"
+  },
+  "company": {
+    "name": "Descript",
+    "link": "https://www.linkedin.com/company/descript"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 86100,
+    "max_value": 187000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

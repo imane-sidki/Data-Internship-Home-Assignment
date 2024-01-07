@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Hospital & Health Care",
+    "description": "R1 RCM Inc. is a leading provider of technology-enabled revenue cycle management services which transform and solve challenges across health systems, hospitals and physician practices. Headquartered in Chicago, R1\u00ae is a publicly-traded organization with employees throughout the US and international locations.<br><br>Our mission is to be the one trusted partner to manage revenue, so providers and patients can focus on what matters most. Our priority is to always do what is best for our clients, patients and each other. With our proven and scalable operating model, we complement a healthcare organization\u2019s infrastructure, quickly driving sustainable improvements to net patient revenue and cash flows while reducing operating costs and enhancing the patient experience.<br><br>The Machine Learning Engineer will support the development and delivery of machine learning-based solutions to further this goal at scale. This person will be working with a team of Data Engineers and Data Scientists to turn healthcare data into actionable insights and predictions to power a next-generational Revenue Cycle and enhance our Product offering.<br><br>In this role, the successful candidate will have a strong background in machine learning, enjoy applying theory to develop real-world applications and have a passion for using technology to improve the healthcare ecosystem.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Work cross-functionally with product owners, data scientists, and other engineers to build and evolve our machine learning portfolio.</li> <li>Architect, document, develop and implement data science/machine learning algorithms &amp; solutions to enhance R1\u2019s Products and Operations.</li> <li>Productionize machine learning algorithms and pipelines at scale and support integration with other R1 Products via APIs.</li> <li>Participate in the full software development cycle: design, develop, QA, deploy, experiment, and analyze.</li> <br><br></ul><strong><u>Required Qualifications<br></u></strong><ul> <li>Bachelor\u2019s degree in Computer Science, Math, Statistics, Engineering, or other related technical field (or equivalent experience).</li> <li>Strong knowledge of Python &amp; SQL programming, OOP concepts, design patterns, version control and database systems.</li> <li>Ability to use programming language to implement entire lifecycle of machine learning.</li> <li>Some professional or academic experience in data science, data engineering, machine learning, and API-based solution architecture.</li> <li>Professional or academic experience with data science libraries like NumPy, SciPy, Pandas, Scikit-Learn, MLlib etc.</li> <li>Professional or academic experience in implementing and optimizing deep learning models using frameworks like Tensorflow, Pytorch etc.</li> <li>Practical understanding of core ML/Statistics/CS principles.</li> <li>Strong communication skills to own and share strategy, findings and key results across both technical and business stakeholders.</li> <br><br></ul><strong><u>Desired Qualifications<br></u></strong><ul> <li>Practical knowledge of NLP concepts, libraries &amp; toolkits like NLTK, SpaCy, Apache OpenNLP etc. </li> <li>Experience with healthcare and/or revenue cycle management applications</li> <li>Knowledge of the healthcare data and integration standards (e.g. EDI, FHIR, HL7)</li> <li>Experience with Cloud computing infrastructure like Azure, AWS, or GCP etc.</li> <br></ul>Working in an evolving healthcare setting, we use our shared expertise to deliver innovative solutions. Our fast-growing team has opportunities to learn and grow through rewarding interactions, collaboration and the freedom to explore professional interests.<br><br>Our associates are given valuable opportunities to contribute, to innovate and create meaningful work that makes an impact in the communities we serve around the world. We also offer a culture of excellence that drives customer success and improves patient care. We believe in giving back to the community and offer a competitive benefits package. To learn more, visit: R1RCM.com.<br><br>R1 RCM Inc. (\u201cthe Company\u201d) is committed to the principles of equal employment opportunity. The Company\u2019s practices and employment decisions, including those regarding recruitment, hiring, assignment, promotion, compensation, benefits, training, discipline, and termination shall not be based on any person\u2019s age, color, national origin, citizenship status, physical or mental disability, medical condition, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status or any other characteristic protected by federal, state or local law. Furthermore, the Company is committed to providing a workplace free from harassment based on any of the foregoing protected categories.<br><br>If you are an individual with a disability and require a reasonable accommodation to complete any part of the job application process, please contact us at 312-496-7709 for assistance.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T17:06:33.000Z"
+  },
+  "company": {
+    "name": "R1 RCM",
+    "link": "https://www.linkedin.com/company/r1-rcm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

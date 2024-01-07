@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "There is a lot that goes into building an Integrated Ministry Platform and Logos Bible Software. We are looking for a Site Reliability Engineer who can help us grow our Microsoft Azure cloud infrastructure. Join us as we make revolutionary technology for administration and discipleship for churches all over the world.<br><br><strong><u>Requirements<br><br></u></strong>What we are looking for<br><ul> <li>3+ years of Azure experience or equivalent Amazon AWS, Google Cloud, etc.</li> <li>3+ years of Windows Server experience (WS2016 and WS2019)</li> <li>Linux experience in a mixed environment</li> <li>Coding or scripting experience (PowerShell, Python, etc.) and a developer\u2019s mindset towards system administration (always looking to automate manual tasks)</li> <li>Experience working with server automation (Puppet, Ansible, Chef, Teraform, etc.)</li> <li>Basic familiarity with Networking, DNS, SSL certificates</li> <li>Passion and vision for helping software developers tune and scale applications</li> <br></ul>Responsible for<br><ul> <li>Configuring infrastructure systems to provide load balancing, application firewalls, reverse proxying, and related services.</li> <li>Implementing and maintaining systems that monitor networks, server health, and application performance.</li> <li>Striving to deliver high availability and data redundancy throughout our platform.</li> <li>Participating in our on-call rotation (typically 1 week out of 4)</li> <br><br></ul><u><strong>Benefits<br></strong></u><ul> <li>Unlimited vacation time</li> <li>Health insurance plan</li> <li>401(k) retirement plan with employer matching</li> <li>Free beverages and espresso</li> <li>Remote Friendly!</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T03:50:44.000Z"
+  },
+  "company": {
+    "name": "Faithlife",
+    "link": "https://www.linkedin.com/company/faithlife"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellingham",
+    "region": "WA",
+    "postal_code": "98226",
+    "street_address": null,
+    "latitude": 48.754898,
+    "longitude": -122.47812
+  }
+}

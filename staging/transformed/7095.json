@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer I",
+    "industry": "Internet,Information Technology and Services",
+    "description": "<strong><u>About Us<br><br></u></strong>Careem is the internet platform for the greater Middle East region. A pioneer of the region's ride-hailing economy, Careem is expanding services across its platform to become the region's everyday Super App. Careem's mission is to simplify and improve the lives of people and build an awesome organisation that inspires. Established in July 2012, Careem operates in over 100 cities across 13 countries and has created more than one million employment opportunities in the region. Careem became a wholly-owned subsidiary of Uber Technologies, Inc. in January 2020!<br><br><strong><u>About The Role<br><br></u></strong>We are looking for an experienced engineer who will work within the SRE team to take cloud-native technology to the next level within Careem. We need expert, execution-focused engineers to help shape the future of the Careem platform and to help us scale our already sizable effort greatly.<br><br><strong><u>What You\u2019ll Need<br></u></strong><ul><li>2/3+ years of software engineering and/or operations experience</li><li>Experience in architecting, developing, operating and troubleshooting Kubernetes clusters and/or other highly available systems at scale</li><li>Good experience of coding and problem solving in at least one of the following programming languages: Go, Python, Java, Rust, C++</li><li>Experience with Cloud Infrastructure (AWS preferred)</li><li>Experience with infrastructure automation (Infrastructure as Code)</li><li>Strong Unix or Linux background, including topics around network stack and scripting</li><li>Incident response and/or incident management experience is a plus</li><li>Experience on DevOps topics such as monitoring, CI/CD, security is a plus</li><li>Effective communication and collaboration skills: have the ability to drive and promote technical partnerships across teams<br></li></ul><strong>What will keep you busy?<br></strong><ul><li>Work within a lean team in quick iterations on large impactful projects</li><li>Collaborate with teams to deliver an efficient cloud-native platform</li><li>Ensure infrastructure is scalable, responsive, and reliable</li><li>Automate everything with tools and workflows</li><li>Evaluate and select tools and technologies needed for efficient support of the systems</li><li>Keep our solutions cost-effective by improving performance and increasing utilization<br></li></ul><strong>What do we offer you?<br><br></strong>Working in an international environment with colleagues from 70+ nationalities, ownership culture, flexible working hours, unlimited (paid!) holidays and the latest technologies.<br><br>Careem gives equal opportunities. All aspects of ownership including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We celebrate diversity and are committed to creating an inclusive environment for everyone.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T18:37:06.000Z"
+  },
+  "company": {
+    "name": "Careem",
+    "link": "https://ae.linkedin.com/company/careem"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jordan",
+    "region": "PA",
+    "postal_code": "17752",
+    "street_address": null,
+    "latitude": 41.246445,
+    "longitude": -76.53813
+  }
+}

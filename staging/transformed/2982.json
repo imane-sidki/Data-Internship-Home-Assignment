@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Services,Information Technology and Services,Computer Networking",
+    "description": "<p>We are working with the Senior manager of a life sciences company that is looking for a Site Reliability Engineer (SRE) who will be responsible for supporting Linux and Kubernetes based deployments and Google Cloud Platform.</p><p><br></p><p><strong>Qualifications:</strong></p><p><br></p><ul><li>At least 3+ years of experience supporting infrastructure and services in public cloud environments (GCP).</li><li>Demonstrable experience with automation and orchestration to enable</li><li>Accelerated infrastructure, application and software configuration deployment</li><li>Automated response to alerts or indicators of performance issues</li><li>Infrastructure as code</li><li>Reliability \u2013 driving fault detection and correction, performance and uptime at a global scale</li><li>Observability \u2013 instrument systems to gain visibility and understanding of how systems are performing and detecting anomalous behavior</li><li>Deep understanding Linux/Unix system internals</li><li>Working knowledge of network protocols and network based services, including routing, network load balancing and web proxy appliances / applications</li><li>Experience building and supporting containerized application technologies including Docker, kubernetes</li><li>Familiarity with CI/CD tools and deployment processes, GitLab a strong preference</li><li>Proficient with various programming languages such as Python/Java/Go for building automation or integration with APIs</li><li>Passion for eliminating repetitive manual processes using automation, including a focus on writing detailed solution specifications, best practices/standards documentation, operating procedures, run books, etc.</li><li>Hands-on experience with Kafka, Active MQ, IBM MQ, Amazon RDS, Amazon Auroroa desirable.</li><li>Excellent interpersonal skills, should be capable of working with cross functional technical and business teams and varying levels of management</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T20:15:13.000Z"
+  },
+  "company": {
+    "name": "The Bachrach Group",
+    "link": "https://www.linkedin.com/company/the-bachrach-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

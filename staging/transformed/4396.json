@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer - AI Platform",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "<strong><u>About The Role<br><br></u></strong>Engages with stakeholders across teams to lead the development and maintenance of backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.<br><br><strong><u>About The Team<br><br></u></strong><em>If you have production experience at scale and you want more exposure to Machine Learning at scale, then we are the team for you. We are a team within the Uber AI Platform (better known as Uber Michelangelo) that is paving the way for Data-centric ML. We pioneered the use of the Uber ML Feature Store as a fundamental building block of the ML lifecycle across the industry - which powers models at Uber for training and serving at millions of QPS with very low latencies. Our ongoing mission is to develop MLOps infrastructure and tools to create high quality features and labels for use in machine models, with the goal of fully automating the lifecycle of feature engineering at Uber and beyond. We work closely with Data Science and Machine Learning teams across Uber to develop algorithms and tooling for sharing, discovery, computation, selection, transformation and monitoring of features and embeddings.<br><br></em><strong><u>Minimum Qualifications<br></u></strong><ul><li>PhD or equivalent in Computer Science, Engineering, Mathematics or related field AND 2-years full-time Software Engineering work experience OR 5-years full-time Software Engineering work experience, WHICH INCLUDES 3-years total technical software engineering experience in one or more of the following areas:</li><li>Programming language (e.g. C, C++, Java, Python, or Go)</li><li>Note the 3-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The years of specialized experience are not necessarily in addition to the years of Education &amp; full-time work experience indicated. <br></li></ul><strong><u>Required<br><br></u></strong><strong>Technical skills:<br></strong><ul><li>Distributed systems<br></li></ul><strong><u>Preferred<br></u></strong><ul><li>Production experience with low-latency microservices at scale in distributed cloud environments</li><li>Production experience with scalable data processing at scale in distributed cloud environments</li><li>Production experience with feature Engineering Lifecycle in ML systems</li><li>Production experience with applying Information Theory concepts in building scalable feature selection algorithms</li><li>Experience with building feature embeddings from high dimensional feature sets</li><li>Demonstrated use of ML techniques in Personalization or Recommendation Systems</li><li>Production experience with product engineering</li><li>Production experience with scalable engineering at scale in distributed cloud environments<br></li></ul>At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!<br><br>We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let\u2019s move the world forward, together!<br><br>Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.<br><br>If you have a disability or special need that requires accommodation, please let us know by completing this form.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:04:00.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 167000,
+    "max_value": 225000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

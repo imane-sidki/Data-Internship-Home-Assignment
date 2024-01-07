@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Your Opportunity<br><br>We are looking for a skilled engineer with disciplines that incorporate aspects of software systems engineering and operations. We are combining these skills to come up with better ways of managing and operating applications.<br><br>What you are good at<br><ul><li>Evangelize SRE mindset and solve problems through systematization.</li><li>Identify opportunities to build innovative tools and solve unique operations problems on a large enterprise and mission critical applications</li><li>Create scripts to automate operational tasks &amp; incorporate the solutions into infrastructure</li><li>Triage alerts &amp; diagnose/resolve critical issues, manage implementation of changes</li><li>Develop tools, frameworks, and instrumentation to validate and increase rollout success for applications.</li><li>Coordinate capacity planning </li><li>Develop CI/CD orchestration systems to reduce friction for software delivery to production.</li><li>Real-Time troubleshooting of mission critical application workflows and incorporate feedback to product development.</li><li>Participate in on call support<br></li></ul>What you have<br><br><strong><u>Required Skills<br></u></strong><ul><li>8-10 years of experience with enterprise level administration and support</li><li>8-10 years of experience in writing automation scripts, building application dashboards for proactive monitoring, setting up Alerts for early determination of the issues</li><li>8-10 years of experience practicing SDLC (Software Development Lifecycle) practice, process improvements</li><li>Hands on enterprise systems administration, monitoring, and deployment activities</li><li>Experience with Windows 2012/2016 hosted via Virtual Machine</li><li>Knowledge of IP networking including DNS, DHCP, firewalls, IP routing, etc.</li><li>Familiarity with large scale distributed systems and high-availability architectures</li><li>Linux and Windows system administration, troubleshooting, and tuning</li><li>Development experience in one or more or programming languages such as .Net, Powershell, Java, Python, Bash</li><li>Knowledge of one or more of SQL, NoSQL databases</li><li>Knowledge of one or more of Message Brokers such as Solace, RabbitMQ, IBM MQ</li><li>Working knowledge of Splunk, AppDynamics or similar tools </li><li>Bachelor's degree in Computer Science or related discipline<br><br></li></ul><strong><u>Helpful Skills<br></u></strong><ul><li>Financial services industry experience</li><li>Agile methodologies<br><br></li></ul><strong><u>Personal Skills<br></u></strong><ul><li>Strong customer orientation with an affinity to proactively own, communicate, and follow-through projects and issues</li><li>Extreme sense of ownership to resolve problems in a distributed environment</li><li>Gritty resolve to dig deeper into technical issues in a complex trading eco-system</li><li>A self-starter with the ability and confidence to independently resolve issues and bring results back to the team<br><br></li></ul>Why work for us?<br><br>Own Your Tomorrow embodies everything we do! We are committed to helping our employees ignite their potential and achieve their dreams. Our employees get to play a central role in reinventing a multi-trillion-dollar industry, creating a better, more modern way to build and manage wealth.<br><br>Benefits: A competitive and flexible package designed to empower you for today and tomorrow. We offer a competitive and flexible package designed to help you make the most of your life at work and at home\u2014today and in the future. Explore further.<br><br>Schwab is committed to building a diverse and inclusive workplace where everyone feels valued. As an Equal Opportunity Employer, our policy is to provide equal employment opportunities to all employees and applicants without regard to any status that is protected by law. Please click here to see the policy.<br><br>Schwab is an affirmative action employer, focused on advancing women, racial and ethnic minorities, veterans, and individuals with disabilities in the workplace. If you have a disability and require reasonable accommodations in the application process, contact Human Resources at applicantaccessibility@schwab.com or call 800-275-1281.<br><br>TD Ameritrade, a subsidiary of Charles Schwab, is an Equal Opportunity Employer. At TD Ameritrade we believe People Matter. We value diversity and believe that it goes beyond all protected classes, thoughts, ideas, and perspectives.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Charles Schwab",
+    "link": "https://www.linkedin.com/company/charles-schwab"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 94600,
+    "max_value": 189000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

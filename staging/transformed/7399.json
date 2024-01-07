@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "The Company<br><br>Miso Robotics is transforming the restaurant industry and making a real impact on the world. We've developed a robotic kitchen assistant, Flippy, that can perform a variety of kitchen tasks including flipping burgers and running the deep fryer. Our product is a robotic arm on a rail that fits into existing kitchens along existing cook lines and is designed to work with existing equipment alongside kitchen workers. Under the hood, Flippy relies on our platform which combines deep learning and other computer vision technologies with optimization-based scheduling and nonlinear control to adapt quickly to a variety of kitchen workflows, while achieving graceful and efficient motion.<br><br>The challenge of bringing robotics into commercial kitchens requires many disciplines to come together. The compositions of teams at Miso Robotics reflect this multidisciplinary nature of our work. We have built a world-class team and we are looking for more exceptional people to join us. If you believe, like we do, that the future of the kitchen involves robotics and artificial intelligence (HINT: It definitely does) and if you want to count yourself among the handful of lucky people who've found themselves with the opportunity to solve this problem, then Miso Robotics might be the right place for you!<br><br>The Role<br><br>In the Site Reliability Engineer role, you will be responsible for bridging the gap between products, operations and developers through automation, tools and methodologies. You will work closely with our software engineering team to design, define, execute, monitor and manage our cloud infrastructure to meet company needs. The team is still growing, so the responsibilities will be wide and varied. The primary responsibilities of this role are automating and orchestrating builds, implementing infrastructure, and managing configuration in a cloud first environment. Additionally, the role will include maintaining on-prem and legacy devices with an emphasis on Linux servers, Virtual Machines, and Cisco Meraki switches.<br><br>What You\u2019ll Do<br><br><strong><u>In This Role, You Will<br></u></strong><ul><li>Collaborate with developers and operations to automate, build and deploy within Google Cloud Platform utilizing tools such as Docker, Jenkins, Terraform, and other CD tools.</li><li>Collaborate with developers to automate testing using hardware-in-the-loop, virtual environments, Docker, Jenkins and other CI tools.</li><li>Ensure high availability and disaster recovery in place.</li><li>Implement and improve DevOps tools, processes and procedures.</li><li>Share responsibility for network security, usability, and access control.</li><li>Create and maintain infrastructure to meet product and developer needs.</li><li>Manage and improve software versioning and release deployment.</li><li>Create reports and manage metrics for deployed software and infrastructure.</li><li>Build and maintain a scalable infrastructure for deployments and continued business growth.<br></li></ul>Necessary Skills<br><ul><li>Bachelor's degree in Computer Science or another relevant engineering/science field.</li><li>4+ years of experience working in SRE roles for IoT products.</li><li>Expert skills in Docker, Bash, Linux (Ubuntu)</li><li>Expert skills with scripting and automation (Python, Bash)</li><li>Experience in automated builds, tests, and deployments using Git, Jenkins, GCP, CI/CD and configuration management.<br></li></ul><strong><u>Additional Skills To Succeed In This Role<br></u></strong><ul><li>Experience in Agile development and Jira/Confluence workflow.</li><li>Experience in network management of both cloud and on-prem networks, including VPN and routing.</li><li>Excellent understanding of Software Development Life Cycle and versioning.</li><li>Excellent understanding of implementing, using, and deploying SQL databases.</li><li>Experience in autoscaling cloud tools and working with large numbers of servers.</li><li>Strong understanding of security considerations and responses on all fronts.</li><li>Superb oral and written communication skills, including documentation.</li><li>Ability to collaborate effectively within a team and across teams.</li><li>Initiative in recognizing what needs to be done and taking action.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T23:14:07.000Z"
+  },
+  "company": {
+    "name": "Miso Robotics",
+    "link": "https://www.linkedin.com/company/miso-robotics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

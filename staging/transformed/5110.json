@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "<p><strong>Overview</strong></p><p><br></p><p>As a member of our banking client's Data Science team, you\u2019ll be working on the machine learning pipelines that provide actionable intelligence that helps their bankers grow their books of business while working with an ever expanding number of clients. The team aims to accomplish this goal with effective use of technology and data science techniques coupled with genuine curiosity and hands-on understanding of the business that we strive to facilitate.</p><p><br></p><p><strong>Responsibilities</strong></p><p><br></p><p>- Produce intelligence (e.g., predictive models, reports, dashboards) to assist bankers with their clients' needs. You\u2019ll illuminate these needs through in-depth study of the clients\u2019 business with the bank and their interactions with the bankers. You will also apply your intuition and relevant statistical techniques to make inferences and predictions from data.</p><p>- Promote your work and supporting its adoption. You'll be producing and interacting with a lot of artifacts communicated to bankers and executives on a regular basis, as well as collecting feedback and providing governance once they are in production. You will need to think critically about how your output is utilized by its audience. Communicating results to stakeholders in a way that makes them useful will be contingent on your ability to appreciate and assimilate the bankers\u2019 perspective. Success in this regard means being a banker before being a data scientist.</p><p>- Build out the bank's data pipelines. Much of the data is not big, but it is messy and the engineering pipelines are often built concurrently with analysis. Your data wrangling chops will be tested daily.</p><p><br></p><p><strong>Experience</strong></p><p><strong><span class=\"ql-cursor\"></span></strong></p><p>- Grit.</p><p>- Curiosity.</p><p>- Organization.</p><p>- Thoughtfulness.</p><p>- Strong statistical acumen.</p><p>- Experience navigating tight deadlines.</p><p>- Effective oral and written communication.</p><p>- A portfolio of self-directed data projects.</p><p>- A graduate degree in the physical sciences.</p><p>- Several thousand hours of prior coding experience.</p><p>- Ability to identify the key deliverables for initially vague problem statements.</p><p>Hands-on experience with the following technologies would be very helpful:</p><p>- Git</p><p>- Command-line interface on Linux/MacOS</p><p>- Databases (e.g., SQL Server, Snowflake, MongoDB)</p><p>- Python (e.g., SciPy stack, Statsmodels, PySpark, Tensorflow)</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T18:13:41.000Z"
+  },
+  "company": {
+    "name": "Addastaff Consulting Incorporated",
+    "link": "https://www.linkedin.com/company/addastaff-consulting-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

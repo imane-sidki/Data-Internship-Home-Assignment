@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer Lead - Remote",
+    "industry": "Information Technology and Services,Computer Software,Information Services",
+    "description": "<p><strong><u>Details are as follows:</u></strong></p><p><strong>Job position: Site Reliability Engineer Lead</strong></p><p><strong> </strong>Location : Remote</p><p>Duration: 12 months+ [Long term]</p><p>Immediate Interview/ Start</p><p><br></p><p> <strong><u>**Please NOTE: We have positions open in CANADA and US both **</u></strong></p><p><br></p><ul><li>10+ years Total IT experience.</li><li><strong>Healthcare experience is required </strong></li><li><strong>Experience of at least 5 years within an Enterprise SRE configuration (Mandatory)</strong></li><li>L2 L3 Productions support</li><li>Blue Green deployment</li><li><strong>Managed on site and off site resources</strong></li><li><strong>AWS: 4 years (Mandatory)-</strong> AWS Cost Optimization, Developing applications in an AWS environment &amp; Terraform.</li><li>Debugging production issues: 4+ years (Mandatory). Python: 2-3 years (Mandatory) - DJango, Celery.</li><li>Good to have: AWS Certified.</li><li><strong>Experience in with development technology stack-Docker, Python, Django, Celery, Postgres</strong>. </li><li><strong>AWS serverless technologies (Lambda, Cognito, API Gateway, Step Functions, AppSync)</strong></li><li>Experience in operational technology stack (Uwsgi, Nginx, RabbitMQ, Elasticsearch, Redis). </li><li>Experience with automation tools- Salt, Vagrant, Packer. </li><li>Experience with metrics and orchestration tools-Jenkins, NewRelic, Datadog, Loggly.</li><li>He/ She needs to be the best buddy of Key IT Stakeholders and sponsors.</li></ul><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T14:45:34.000Z"
+  },
+  "company": {
+    "name": "Saicon",
+    "link": "https://www.linkedin.com/company/saicon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

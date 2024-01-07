@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "VMware Engineers (1 senior, 1 mid)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Take2 Consulting, is seeking the following. Apply via Dice today!<br><br>Remote for time being Potential for 1-2 days onsite in future, or potential for remote long term This program supports the largest Data Center in the Southeast US with 2 campuses and 700+ critical applications across 4000 virtual servers. They have HP Blade enclosures with HitachiAzure Cloud AWS running. The team is made up of over 80 people in a matrixed environment under the virtual hosting team. 2 VMware resources (1 Senior ndash min 5+years and 1 Mid-level) Plan, test, and execute VMware vCenter, ESXi, and NSX upgrades Design and testing for new solutions such as AVS Day to day problem resolution for VMware products and configuration management Management of VMware SRM and VRNI Develop migration solutions between various VMware environments Monitoring and balancing capacity within the VMware environment Generate and manage distributed firewall rules for high systems through NSX Develop automation leveraging Jenkins, GIT, and Powershell to support teams within ISB including virtual hosting, consolidated web deployments, and application services Windows management Automation of VM builds in both VMware and Azure Help support existing Azure and AWS virtual machine deployments Support for a small Microsoft Hyper-V environment Manage VMware Horizon desktop solution for lab users",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T22:05:12.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

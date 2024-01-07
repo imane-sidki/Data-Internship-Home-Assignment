@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The SSP team is looking for an exceptional software engineer to help foster a vibrant ecosystem for machine learning development tools. In this highly collaborative role, you will be at the center of multiple efforts to make machine learning an accessible and powerful tool for all developers. <br><br><br>We are looking for applied machine learning engineers with a passion for developing  the infrastructure to use ML algorithms seamlessly. You will create ML infrastructure used across Apple, that power magical experiences for millions of Apple users and developers.<br><br> <br><strong>Key Qualifications<br></strong> <br>2+ years of experience developing ML frameworks and software solutions in industry or academia.<br><br>Experience using modern machine learning frameworks like TensorFlow or PyTorch. <br><br>Experience with modern IR for ML workloads (MLIR).<br><br>Strong fundamentals in problem solving and algorithm design<br><br>Passion for software architecture, API and development tool design<br><br>Ability to write flawless, readable and maintainable code in C++<br><br>Strong communication skills, and ability to present deep technical ideas to audience with different skillsets.<br><br>Collaborative team player who can work well across multiple teams and organizations.<br><br>Understanding of compiler development <br><br>Understanding of hardware acceleration for ML workloads<br><br> <br><strong>Description<br></strong> <br>Responsibilities include:<br><br><br>Developing machine learning infrastructure that will be used by product teams for developing, evaluating and deploying machine learning models. <br><br> Develop and maintain large code base by writing readable, modular and well tested code.<br><br> Providing technical support to product and algorithm teams on the best practices for developing efficient machine learning models, and analyzing failure cases.<br><br>Interacting with high level ML framework such as CoreML.<br><br>Interacting with the compiler for Apple proprietary Neural Engine Accelerator to expose / enable new features of the Neural Engine Accelerator.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Masters's degree or higher in Computer Science or equivalent field.<br><br> <br>Role Number: 200257391<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T08:18:09.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 111000,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

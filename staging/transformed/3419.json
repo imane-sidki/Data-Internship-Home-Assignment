@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Transportation/Trucking/Railroad,Warehousing",
+    "description": "At Iron Mountain we protect what our customers value most, from the everyday to the extraordinary, while helping them bridge the physical and digital world. Our people have the opportunity to bring their creativity to a workplace that thrives on change. Here, you will be part of a team that doesn\u2019t just embrace what\u2019s exceptional. It creates exceptional.<br><br><strong><u>Job Summary<br><br></u></strong>InSight is a cutting-edge AI enablement platform that applies industry leading ML tools, including custom models, to classify and extract entities from unstructured content (Document Images, Audio and Video files, other data files and sources).<br><br>The ML Engineer is responsible for the development/deployment of Machine Learning models and other data processing algorithms for new and existing customer implementations into Insight.<br><br>The ML engineer works closely with multiple internal Iron Mountain teams to develop tech driven implementation solutions, create/enhance tools for performance improvement.<br><br><strong><u>Essential Job Responsibilities<br></u></strong><ul><li>Develop and deploy machine learning solution to perform classification and entity extraction of various forms of digital content (Images, Audio/video, and other digital file formats).</li><li>Work with project managers, solution architects and other ML engineers to deliver ML solutions into Iron Mountain Insight Platform.</li><li>Perform feasibility analysis and deliver PoCs for various customer requirements associated to the processing of digital content.</li><li>Applying effective visualization tools to make descriptive analysis and results intuitive and informative to the team and customers.<br></li></ul><strong><u>Functional Knowledge Skills &amp; Competencies<br><br></u></strong><strong>Education:</strong> Bachelor or Master's degree in Computer Engineering, Computer Science (Master degree preferred)<br><br><strong><u>Skills<br></u></strong><ul><li>Professional experience in Python programming.</li><li>Understanding on Machine Learning and AI techniques.</li><li>Experience of cloud technologies and solutions - GCP Preferred.</li><li>Familiar with docker container and microservice deployment</li><li>Ability to multi-task and prioritize issues in a complex environment.<br></li></ul>Category: Information Technology Group<br><br>Iron Mountain is committed to a policy of equal employment opportunity. We recruit and hire applicants without regard to race, color, religion, sex (including pregnancy), national origin, disability, age, sexual orientation, veteran status, genetic information, gender identity, gender expression, or any other factor prohibited by law.<br><br>To view the Equal Employment Opportunity is the Law posters and the supplement, as well as the Pay Transparency Policy Statement, CLICK HERE<br><br><strong>Requisition:</strong> J0031366",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Iron Mountain",
+    "link": "https://www.linkedin.com/company/iron-mountain"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

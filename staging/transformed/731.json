@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Python Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "Tectonic is a leading technology and business services company serving mid-sized business to enterprise customers with a focus on Insight to Action automation in the cloud. Insight to Action is the intersection of big data, analytics, marketing automation, and CRM that provides an integrated approach to automating customer interaction<br><br>We are seeking a Python Data Engineer with the training and curiosity to make big-data discoveries, build the resources necessary to enable those discoveries, to be responsible for coordinating activities.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li> Build/own client\u2019s data pipelines</li> <li> Build data processing/analytics tools for research and trading</li> <li> Partner with Traders, Quants, Researchers, and Data Scientists to solve their critical data problems </li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li> 2+ years of experience in Data/Software Engineering, Data Science, or a related field </li> <li> Solid understanding of computer science fundamentals, data structures, algorithms, distributed systems, etc.</li> <li> Strong programming background with Python ideally</li> <li> Experience with Big Data/Data Pipelining technologies (ex Spark, Airflow, Kafka, etc.)</li> <li> Strong problem solving and communication skills</li> <li> Interest in working in a fast-paced/high-impact environment</li> <br><br></ul><u><strong>Benefits<br></strong></u><ul> <li>Health Care Plan (Medical, Dental &amp; Vision)</li> <li>Retirement Plan (401k, IRA)</li> <li>Life Insurance (Basic, Voluntary &amp; AD&amp;D)</li> <li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li> <li>Family Leave (Maternity, Paternity)</li> <li>Short Term &amp; Long Term Disability</li> <li>Training &amp; Development</li> <li>Work From Home</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T03:22:06.000Z"
+  },
+  "company": {
+    "name": "Tectonic, an insight2action technology services company",
+    "link": "https://www.linkedin.com/company/tectonic-insight-to-action"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood",
+    "region": "CO",
+    "postal_code": "80110",
+    "street_address": null,
+    "latitude": 39.649437,
+    "longitude": -104.98891
+  }
+}

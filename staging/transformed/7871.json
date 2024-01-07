@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Biotechnology",
+    "description": "<p><strong>WHO WE'RE LOOKING FOR</strong></p><p>We build culture one hire at a time. Our constant pursuit of a better<em>tomorrow</em>starts with talking to you.</p><p>Our goal is simple. We want to build great teams: the kind of teams people want to be a part of, and the kind of teams TMRW can\u2019t live without. Great teams do things individuals could never dream of. And they have more fun doing it.</p><p>We want to learn more about you and the kind of team culture you can help us create. We\u2019re interested in who you are and what you can do. We\u2019re even more interested in who you can partner with, learn from, teach, and inspire.</p><p>We\u2019re looking for curious learners, passionate problem-solvers, and trusted teammates who bring that extra dose of contagious energy.</p><p><br></p><p><strong>THE OPPORTUNITY AT HAND</strong></p><p>The TMRW Life Science Site Reliability Engineer will be responsible for supporting TMRW\u2019s cloud infrastructure and services. You will be responsible for supporting Linux and Kubernetes based deployments and Google Cloud. You\u2019ll be faced with a variety of challenges and provided opportunities for learning and growth.</p><p></p><p><strong>OUR EXPECTATIONS OF YOU</strong></p><ul><li>You\u2019ll write and maintain helm charts and help maintain the CI/CD pipeline</li><li>You\u2019ll help manage resources in TMRW\u2019s cloud infrastructure including virtual machines, cloud databases, message queues, and Kubernetes clusters</li><li>You\u2019ll assist with monitoring using Prometheus, Elasticsearch, Icinga, and other tools</li><li>You\u2019ll assist in documenting procedures for our information technology infrastructure, and keep abreast of new technological developments, including security vulnerabilities</li><li>You\u2019ll perform daily system monitoring, problem determination, and resolution, and manage performance tuning, upgrades, and maintenance</li><li>You\u2019ll write tooling to reduce toil and automate repetitive tasks</li><li>You\u2019ll help develop runbooks in order to meet TMRW\u2019s SLOs</li><li>You\u2019ll do meaningful work that will have a positive impact on the world</li></ul><p></p><p><strong>WHAT YOU'LL NEED TO SUCCEED</strong></p><ul><li>You have a Bachelor\u2019s Degree or equivalent experience</li><li>You have 3+ years of practical experience supporting Kubernetes</li><li>You have 7+ years of practical experience supporting Linux</li><li>You have 3+ years of practical experience with cloud-based infrastructure</li><li>You have demonstrated experience writing code in bash, golang, or python</li><li>You have experience with monitoring tools such as Prometheus and Elasticsearch</li><li>You have experience configuring and maintaining CI/CD pipelines as well as with gitops practices for managing infrastructure</li><li>You\u2019re an excellent communicator and consider yourself to be highly organized</li><li>Familiarity with Java, HIPAA, Icinga, SaltStack, Google Cloud, Terraform or Gitlab is a plus</li><li>You\u2019re naturally curious with a strong desire to learn</li></ul><p></p><p><strong>WHO WE ARE</strong></p><p>TMRW safeguards the world\u2019s most precious cells for life. The TMRW platform revolutionizes the management, identification, and storage of fertility cells, replacing the manual and analog methods that have remained largely unchanged since IVF was first used in animal husbandry more than 50 years ago.</p><p></p><p>Developed in partnership with leading fertility doctors and embryologists, TMRW\u2019s technology will play a central role in the conception of tens of millions of people in the coming years by reducing the risk of loss or misidentification of the priceless cells used in IVF. Our automation eliminates error-prone manual tasks in the embryology lab, allowing embryologists to focus on the most skilled and technical aspects of their work.</p><p></p><p>The TMRW team includes many of the world\u2019s most celebrated pioneers in clinical medicine, reproductive biology, embryology, and cryogenic biobanking who have synthesized their collective knowledge, vision, and experience in the development of the TMRW platform. We\u2019ve brought together a diverse, cross-disciplinary team to achieve our mission \u2014 and we\u2019re always looking for more innovators to join us in creating a better tomorrow.</p><p></p><p>At TMRW we know that cultivating diversity and fostering an inclusive work environment is critical to our impact and success. We offer equal opportunity employment and create an environment where no individual is advantaged or disadvantaged because of their background.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T00:32:50.000Z"
+  },
+  "company": {
+    "name": "TMRW Life Sciences",
+    "link": "https://www.linkedin.com/company/tmrw-life-sciences-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

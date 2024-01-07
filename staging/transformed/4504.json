@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Graduate",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Mechanical or Industrial Engineering",
+    "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.<br><br><strong>SOFTWARE ENGINEER, NEW GRADUATE<br><br></strong>Are you a computer science/computer engineering student graduating in fall 2021 or summer 2022 looking for full-time employment after graduation? Software engineers at SpaceX develop the code that can launch rockets and spacecraft, optimize a satellite constellation capable of delivering internet almost anywhere on earth, or allow us to manufacture advanced hardware quickly and reliably. You will get the opportunity to work on everything from large-scale web applications to tiny embedded computing platforms. You will build tech stacks on C#/MVC4/EF/MSSQL via REST to Javascript/Knockout/Handlebars/LESS, C++/Embedded Linux, Python, LabVIEW\u2026 which all together enables us to build, launch, and monitor some of the world's most advanced technologies.<br><br>Full-time employment is available with a variety of engineering teams across all company programs including Dragon, Falcon, Satellites, Starlink, and Starship at Brownsville, TX; Cape Canaveral, FL; Hawthorne (Los Angeles), CA; McGregor (Waco), TX; and Redmond (Seattle), WA. No matter the team or program you will come in and make an impact right away, working on creative solutions to real aerospace challenges.<br><br><strong>RESPONSIBILITIES:<br></strong><ul><li>Develop highly reliable and available software systems</li><li>Participate in architecture, design, and code reviews</li><li>Develop prototypes to prove out key design concepts and quantify technical constraints</li><li>Collaborate with other engineers to plan and organize the development of our products</li><li>Own all aspects of software engineering and product development<br></li></ul><strong>BASIC QUALIFICATIONS:<br></strong><ul><li>Bachelor's degree in computer science, engineering, physics, math, or science discipline</li><li>Development experience in an object-oriented programming language (i.e. C, C++, Python, .Net)<br></li></ul><strong>PREFERRED SKILLS AND EXPERIENCE:<br></strong><ul><li>Developed, debugged and deployed software that has been used in real world applications/projects</li><li>Creative approach to problem solving, exceptional analytical skills and engineering fundamentals</li><li>Strong skills in debugging, performance optimization, and unit testing</li><li>Excellent communication skills both written and verbal</li><li>Ability to work effectively in a dynamic environment with changing needs and requirements</li><li>Deep understanding of testing, continuous integration, build, deployment &amp; continuous monitoring</li><li>Full stack development experience<br></li></ul><strong>ADDITIONAL REQUIREMENTS:<br></strong><ul><li>Extended hours and weekend work may be required to support critical project and mission milestones<br></li></ul><strong>ITAR REQUIREMENTS:<br></strong><ul><li>To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here. <br></li></ul>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.<br><br>Applicants wishing to view a copy of SpaceX's Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the Human Resources Department at (310) 363-6000.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:03:43.000Z"
+  },
+  "company": {
+    "name": "SpaceX",
+    "link": "https://www.linkedin.com/company/spacex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hawthorne",
+    "region": "CA",
+    "postal_code": "90251",
+    "street_address": null,
+    "latitude": 33.916424,
+    "longitude": -118.35028
+  }
+}

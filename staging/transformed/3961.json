@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Java)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>About The Role<br><br></u></strong>We are looking for a Senior Software Engineer to build the highly available and heavy traffic fault tolerant applications using Java, Spring and Spring Boot technologies. You'll get to work with cutting-edge technologies like Kubernetes, Docker, and AWS, and will help design and build a next-generation platform to advance the lending industry.<br><br>Our software engineering team is rapidly growing and looking for Senior Software Engineers to be part of a fast paced, high-energy team. We want people who take their craft seriously, have a passion for building great solutions, and enjoy working with a team of like minded individuals.<br><br>If you are an experienced engineer who loves solving complex business problems and believes planning, hard work, teamwork and quality is what it takes to succeed, then this is the job for you.<br><br>What You'll Do<br><ul><li>Primary contributor to the analysis, design, and development of Finicity\u2019s most strategic and complex API projects, utilizing broad industry awareness and Java development expertise</li><li>Codes, tests, debugs, and documents fault tolerant, maintainable, and scalable API solutions; enhances existing code to ensure that production systems continue to meet user needs.</li><li>Implements complicated systems and software components, in compliance with Agile and Services Oriented Architecture standards, utilizing expertise in the Java programming language and related development frameworks, REST principles, and MySQL.</li><li>Participates in discussions with stakeholders about high-level concepts and/or desired technology solutions, utilizing expertise to recommend options to meet business needs.</li><li>Identifies and resolves system operating problems in collaboration with Operations in order to provide business continuity and optimal service to end users.</li><li>Maintains an expert-level understanding of Java application development best practices, tools, and programming techniques. Keeps current with new developments in the financial technology industry and may lead development of departmental standards and methodologies.</li><li>Provides guidance and training to all levels of software engineers in order to improve productivity and efficacy of the team</li><li>Uses extensive experience and specialized software development knowledge to plan and accomplish necessary project tasks, may provide consultation on a variety of complex software development projects and is considered to be a top-level specialist</li><li>Works with external software suppliers to coordinate software integration and resolution of problems.<br></li></ul>What You'll Need to Be Successful<br><ul><li>Bachelor's Degree in Computer Science or closely a related field (e.g., Information Systems, Software Engineering)</li><li>5+ years of experience in software development and Agile practices throughout the entire development lifecycle using Java and related frameworks</li><li>3+ years of experience with Spring and Spring Boot technologies</li><li>Extensive knowledge about APIs, RESTful services that integrate with other data providers using Spring MVC</li><li>Extensive experience with ORM Frameworks such as Hibernate and JPA</li><li>Extensive experience with one of the databases such as MySQL, Mongo or Oracle</li><li>Experience implementing test-driven development with JUnit and Mocking frameworks</li><li>Nice to have the understanding of cloud applications using microservices and scalable cloud infrastructure on AWS, GCP or equivalent</li><li>Nice to have the understanding of containers and orchestration with tools such as: Docker, Kubernetes.</li><li>Excellent Problem solving skills including debugging and troubleshooting</li><li>Insatiable desire to learn and improve<br></li></ul><strong>About Finicity:<br><br></strong><em>Finicity, a Mastercard company, helps individuals, families, and organizations make smarter financial decisions through safe and secure access to fast, high-quality data. Our trusted and proven open banking platform empowers consumers to easily connect their financial data to the apps they choose, transforming the way we experience money for everything from budgeting and payments to investing and lending.<br><br></em><em>Through market-leading data connections, Finicity partners with influential financial institutions and disruptive fintech providers alike to give consumers a leg up in a complicated financial world, helping to improve financial literacy, expand financial inclusion, and ultimately lead to better outcomes. Finicity is headquartered in Salt Lake City, Utah.<br><br></em><strong>Finicity provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.<br><br></strong>Powered by JazzHR<br><br>byIld5KIEf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:10:28.000Z"
+  },
+  "company": {
+    "name": "Finicity, a Mastercard Company",
+    "link": "https://www.linkedin.com/company/finicity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

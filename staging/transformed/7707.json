@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Are you looking to join a ground-floor startup where your work makes an immediate impact?</p><p><br></p><p>Do you want to be a part of a dynamic team with diverse backgrounds improving benefit offerings and the experience for employees?</p><p><br></p><p>Do you want to be a part of the discussion and impact decisions that shape the future of the company you work for?</p><p><br></p><p>Our ideal candidate is a self-motivated problem solver who thrives in an open and collaborative environment. You enjoy supporting and developing an application that will re-invent itself as and scale with market adaptation.</p><p></p><p><strong>Day to Day Responsibilities</strong></p><ul><li>Writing clean, high-quality, high-performance, maintainable code</li><li>Develop and support software including applications, database integration, interfaces, and new functionality enhancements</li><li>Design robust, secure, and scalable features</li><li>Coordinate cross-functionally to insure project meets business objectives and compliance standards</li><li>Support, test, and deployment of new products and features</li><li>Participate in code reviews</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree in Computer Science (or related field) Extensive Experience in software engineering considered in lieu of degree.</li><li>2+ years of Ruby on Rails development experience</li><li>Experience working with relational databases, MySQL preferred</li><li>Expertise in front end technologies (e.g., JavaScript, CSS, HTML, and JQuery)</li><li>Experience with Agile or Scrum software development methodologies</li><li>An analytical mind in addition to a problem-solving attitude</li><li>Ability to multi-task, organize, and prioritize work</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:01:05.000Z"
+  },
+  "company": {
+    "name": "benefitbay\u2122",
+    "link": "https://www.linkedin.com/company/benefitbay"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

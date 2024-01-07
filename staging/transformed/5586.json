@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Remote)",
+    "industry": "Marketing and Advertising",
+    "description": "<p>Data Scientist, Remote</p><p><br></p><p>Engineers at VDX.tv develop the next-generation products powering a scalable ad tech platform which enables advertisers across the globe to reach out to their consumers and deliver effective, engaging advertising. We are looking for engineers who are passionate about solving challenges of large-scale system design, artificial intelligence, information retrieval, massive data pipelines, UI design, richmedia frameworks, data insights, optimization and targeting strategies. </p><p><br></p><p>We are looking to hire a Data Scientist for our Machine Learning team. The mission of the machine learning team is to develop campaign optimization, price optimization, conversion optimization, identity resolution and geo indexing algorithms, models to help achieve advertiser goals, automate campaign management and improve ROI.</p><p><br></p><p>Responsibilities</p><ul><li>The position requires one to work on complex technical projects with peers in an innovative and fast-paced environment.</li><li>Play an individual contributor role with high accountability, positive impact in small teams and work well both as an individual contributor and as part of the team.</li><li>Work on algorithms and systems that power the AD platform.</li><li>Develop predictive behavioral models.</li><li>Develop algorithms for identity resolution.</li><li>Develop geo indexing algorithms.</li><li>Work on massive semi-structured, time series and graph datasets.</li><li>Mentor peers, maintain documentation, share knowledge and help build a great team.</li></ul><p></p><p>Required Skills</p><ul><li>Excellent problem solving skills with a strong foundation in Statistics, Computer Science including core data structures, algorithms.</li><li>Be able to develop hypothesis and test with experimentation.</li><li>Experience with building real time and batch processing components.</li><li>Experience with development in SQL, python.</li><li>Proven ability to work as an independent member of a distributed team.</li></ul><p></p><p></p><p>Desired Skills</p><ul><li>Familiarity with advertising industry and real time bidding systems.</li><li>Familiarity with geo spatial data processing.</li><li>Experience in building systems with time travel, simulation capabilities.</li><li>Experience with development and deployment in Java, Scala.</li></ul><p><br></p><p>Qualifications: </p><ul><li>At least 2 years of hands-on experience as an Individual contributor responsible for developing and supporting software. Degree in quantitative science or PhD preferred.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T23:29:25.000Z"
+  },
+  "company": {
+    "name": "VDX.tv",
+    "link": "https://www.linkedin.com/company/vdx-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Emeryville",
+    "region": "CA",
+    "postal_code": "94608",
+    "street_address": null,
+    "latitude": 37.8312,
+    "longitude": -122.28581
+  }
+}

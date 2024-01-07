@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Backend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Parsable aims to improve the lives and experiences of frontline industrial workers by connecting them to the people, information, systems and machines needed to do their best work. Companies like Heineken, Grupo Bimbo (largest bakery in the world), Suntory, LafargeHolcim, and Corteva Agriscience rely on Parsable\u2019s mobile-first platform, Connected Worker\u00ae, to empower their workers with modern digital tools that improve productivity, quality, safety, and sustainability at scale.<br><br><strong>ROLE<br><br></strong>Do you like the idea of a highly-available, well-designed architecture? Are you interested in solving complex large scale problems? We\u2019re hiring a Senior Backend Engineer with deep experience developing complex, highly scalable solutions embracing a customer first attitude. You\u2019ll play a major role in designing and implementing backend services that interact with many different types of devices and an increasingly large number of users. The ideal candidate is well-versed in more than one language and framework and has experience building backend services composed of lots of moving parts that interface via APIs and SDKs. The current Parsable backend tech stack includes Node.js (Typescript), Go, Postgres, MongoDB, Kafka.<br><br><strong>This role is remote and must be located in the following States: AZ, CA, CT, FL, GA, IA, ID, IN, IL, MA, MD, MI, MN, MO, NC, NH, NJ, NY, PA, SC, TN, TX, VA, VT, WA, WI and Washington, DC or in British Columbia, Canada.<br><br></strong><strong>RESPONSIBILITIES<br><br></strong><ul><li>Collaborate with Designers, Product Managers, Dev Ops, Frontend Engineers and Quality Engineers to deliver enterprise-grade products and systems</li><li>Contribute to building next generation microservices both net new and breaking off from an existing monolith service</li><li>Deliver features and enhancements to Parsable Products that are secure, well-tested, and performant</li><li>Improve test coverage in our end-to-end, integration and unit test suites<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>6+ years professional experience in backend web software engineering, preferably SaaS</li><li>Mastery of Node.js (Typescript) and Go (developing services, developing unit and integration testing)</li><li>Docker or other containerization technologies experience</li><li>RESTful API design and implementation, best practices in web security, cross-browser compatibility issues</li><li>Jenkins Cl pipelines and automation experience</li><li>Experience diagnosing, repairing and preventing performance and optimization issues</li><li>Git use in a professional / workplace environment </li><li>Positive, solution-oriented mindset</li><li>Effective communication skills ie: regularly achieve peer consensus, provide clear status updates, etc.</li><li>Intellectually curious with a background using data to measure and explore how to evolve our technology <br></li></ul>BONUS<br><ul><li>Working knowledge of MongoDB (atlas or DocumentDB)</li><li>Experience writing event driven architecture</li><li>Fluent with SAML, OIDC, and other authentication schemes</li><li>Experience working with Thrift, GRPC, Websockets</li><li>Remote team work experience</li><li>Peak performance tech start up experience<br></li></ul>At Parsable we have a clear vision: Build an inclusive and diverse organization in which differences are respected and valued. By facilitating dialogue, education, community service and improving internal policies, we're creating a connected community in which everyone is accepted as their best, most authentic self. Parsable is committed to creating an employee population which reflects our customers and our communities. We are proud to be an equal opportunity employer.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:19:02.000Z"
+  },
+  "company": {
+    "name": "Parsable",
+    "link": "https://www.linkedin.com/company/parsable"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

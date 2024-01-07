@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer 3",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>About The Team<br><br></u></strong><strong>Job Description<br><br></strong>Do you love pursuing complex technical concepts and crafting automated solutions to orchestrate them? Our team designs, develops, and supports systems for automating and orchestrating the provisioning, configuration, and lifecycle management of complex, user-defined virtualized systems and network environments. By providing our users powerful, streamlined interfaces, we empower them to accomplish more with less time and effort.<br><br><strong><u>About The Role<br><br></u></strong>We\u2019re looking for a JavaScript developer to join our development team to assist in implementing, debugging, and supporting new, creative features. Our goal is to bolster the ability for our users to move configuration objects between BIG-IP deployments, and to manage reproducible systems and network environments.<br><br>The ideal candidate will have a passion for creating elegant, functional code and that is fluent in the BIG-IP control plane, it\u2019s UX concepts and current design patterns.<br><br><strong><u>What You\u2019ll Be Doing<br></u></strong><ul><li>Collaborate with team members to implement, and document new features</li><li>Provide creative ideas to improve our products and technology</li><li>Identify bugs and write tests to maintain code quality standards</li><li>Attend code reviews to ensure code quality</li><li>Respond to questions and problem reports from end users</li><li>Utilize internal processes and procedures<br></li></ul><strong><u>What We Look For<br></u></strong><ul><li>Deep knowledge of continuous integration, testing, and deployment strategies and current tooling</li><li>Knowledge of backend JavaScript API / web services development in node.js</li><li>Ability to write effective tests for JavaScript applications and services</li><li>Comfortable in a Linux shell and working knowledge of git</li><li>Excellent communication and interpersonal skills</li><li>Duties require the ability to utilize a computer, communicate over the telephone, and read printed material.<br></li></ul><strong>How do you qualify?<br></strong><ul><li>Requires 5+ years of related experience with a bachelor's degree in a technical field: or equivalent experience<br></li></ul><strong><u>Nice-to-Haves<br></u></strong><ul><li>Familiarity with Python</li><li>Familiarity with network technologies and protocols</li><li>Experience working with BIG-IP configuration and orchestration</li></ul> The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.<strong>Phishing Alert<br><br></strong>Please note that F5 only contacts candidates through F5 email address (ending with @f5.com) or auto email notification from Yello/Workday (ending with f5.com or @myworkday.com).<br><br><strong>Equal Employment Opportunity<br><br></strong>It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability,marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws.This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. Reasonable accommodation is available for qualified individuals with disabilities, upon request.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:29:32.000Z"
+  },
+  "company": {
+    "name": "F5",
+    "link": "https://www.linkedin.com/company/f5"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

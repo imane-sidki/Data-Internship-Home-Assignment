@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": " Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services,Financial Services,Banking",
+    "description": "<p><strong>Job Title: Sr. Site Reliability Engineer</strong></p><p><strong>Duration: Contract to Hire</strong></p><p><strong>Location: Remote/</strong><strong>St. Louis , MO</strong></p><p></p><p><strong>About Our Client</strong>: Our Client is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations. Combining unmatched experience and specialized skills across more than 40 industries and all business functions \u2013 underpinned by the world\u2019s largest delivery network \u2013 Our Client works at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With approximately 425,000 people serving clients in more than 120 countries, Our Client drives innovation to improve the way the world works and lives</p><p><br></p><p><strong>Job Description:</strong></p><ul><li>Site Reliability Engineering (SRE) is a discipline that combines software and systems engineering for building and running large-scale, distributed, fault-tolerant systems. SRE ensures that internal and external services meet or exceed reliability and performance expectations while adhering to engineering principles.</li><li>BS degree in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent job experience required</li><li>GCP experience required</li><li>Proficiency with continuous integration and continuous delivery tooling and practices</li><li>Experience in languages such as Python, Ruby, Bash, Java, Go, Perl, JavaScript and/or node.js</li><li>System administration skills, including automation and orchestration of Linux/Windows using Chef, Puppet, Ansible, Salt Stack and/or containers (Docker, Kubernetes, etc.)</li></ul><p><br></p><p><strong>About ASK</strong>: ASK Consulting is an award-winning technology and professional services recruiting firm servicing Fortune 500 organizations nationally. With 5 nationwide offices, two global delivery centers, and employees in 42 states-ASK Consulting connects people with amazing opportunities</p><p><br></p><p><strong><span class=\"ql-cursor\"></span>ASK Consulting is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all associates.</strong></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-06T18:00:24.000Z"
+  },
+  "company": {
+    "name": "ASK Consulting",
+    "link": "https://www.linkedin.com/company/ask-consulting-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

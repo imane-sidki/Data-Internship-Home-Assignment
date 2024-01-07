@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>The Company<br><br></u></strong>Metropolis is an AI and computer vision start-up building the technological and real estate infrastructure to facilitate the future of mobility.<br><br><strong>Your opportunity <br><br></strong>This is your opportunity to join early and build something remarkable at the intersection of technology, mobility, and real estate. We are reimagining the parking experience today but developing an ecosystem to support all forms of mobility tomorrow; and if you have a passion for transforming the urban landscape to more intelligently facilitate EV charging, last mile transport, autonomous vehicles, and even electric vertical take-off and landing (eVTOL), please consider joining us.<br><br><strong>Our team<br><br></strong>The Company is led by an experienced executive team with diverse backgrounds, including a successful LA-based tech founder, a technical leader from eHarmony and DogVacay, and senior professionals from major global financial services firms and the world's leading mobility companies; our first-class engineering talent joins us from Facebook, Palantir, Bird, Factual, Honey, Canoo, and others.<br><br>We approach life with wonder and curiosity. We're inventors, skeptics and, at times, have been called crazy. We challenge one another with passion, from principle and with respect. But above all, we are relentless in our drive to build a collaborative, diverse, and inclusive culture.<br><br><strong>The role<br><br></strong>Metropolis is seeking a Machine Learning Engineer to lead the development of our computer vision algorithms that would be used to power our mobility services. Reporting to the Director of Machine Learning, you will be responsible for the development, deployment and ongoing optimization of the models that would be at the core of our platform. The models you build will need to detect objects, track its direction of motion and more, and do all that in near-real time. This is a challenging opportunity because the models you build will need to be optimized for different conditions like indoors and outdoors, lighting, weather and field of view. If you have a background in sensors and computer vision, and are interested in mobility, autonomous vehicles, computer vision or machine learning, this is the ideal opportunity for you.<br><br>When you join Metropolis, you'll join a team of world-class product leaders and engineers, building an ecosystem of technologies at the intersection of parking, mobility, and real estate. Our goal is to build an inclusive culture where everyone has a voice and the best idea wins. You will play a key role in building and maintaining this culture as our organization grows.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li>Work with the Director of Machine Learning to train and optimize the Metropolis computer vision algorithms.</li><li>Collaborate with the application development team to integrate the computer vision models with the existing backend systems.</li><li>Work with analytics engineers, application developers and third-party resources to analyze the efficacy of the models.</li><li>Work with the Product team to understand the complex business rules and figure out how to optimize the ML-generated output to satisfy those requirements.</li><li>Problem solve, think big, and explore divergent concepts/ideas while understanding how to converge and build iteratively towards the goals of the Machine Learning team.</li><li>Inspire the entire team (including your cross-functional) partners by bringing new ideas to the table.</li><li>Help with hiring and onboarding of engineers to the Machine Learning team.<br></li></ul><strong><u>Requirements And Qualifications<br></u></strong><ul><li>3+ years experience on modern software design, development, version control, refactoring and testing</li><li>Demonstrated experience implementing machine learning software, specifically computer vision detection algorithms like RCNN, SSD, YOLO, ResNet, DenseNet, etc</li><li>2+ years experience on deep learning framework, TensorFlow/PyTorch/MxNet</li><li>3+ years experience with computer vision algorithms, image processing, feature extraction, tracking algorithms with OpenCV</li><li>2+ years experience with product/services parallel computing, accelerator architecture, CUDA, CUDNN, TensorRT libraries</li><li>1+ year experience with distributed/scalable systems infrastructure to operate algorithms as a software product</li><li>1+ year experience with large scale datasets, data pipeline, databases tools/libraries</li><li>Excited about working in a fast-paced, dynamic startup environment.<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Attractive compensation and generous benefits package (100% Medical, 50% Vision and 50% Dental)</li><li>Company 401(k) match up to 6% of salary</li><li>Paid company snacks and after-hour meals</li><li>Unlimited Paid Time Off (PTO)</li><li>Gym reimbursement program</li><li>529 savings plan</li><li>Commuter benefits</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:48:51.000Z"
+  },
+  "company": {
+    "name": "Metropolis",
+    "link": "https://www.linkedin.com/company/metropolisio"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

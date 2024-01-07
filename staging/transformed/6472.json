@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer (Remote)",
+    "industry": "Computer Software,Accounting",
+    "description": "<p>Being a best-in-class SaaS Company, we understand that bringing in new ideas and innovative technology is mission-critical. At BlackLine we are always working with new, cutting-edge technology that encourages our teams to learn something new and expand their creativity and technical skillset that will accelerate their careers.</p><p><br></p><p><strong>Make Your Mark:</strong></p><p><strong></strong></p><p>BlackLine empowers our team members to be change agents and is always seeking new and innovative ways to solve problems. We are experiencing rapid growth and looking for passionate and talented people to join our team.</p><p><br></p><p>The Staff DevOps Engineer will work as part of a highly collaborative team on developing and maintaining automated build and deployment systems. Recommend process improvements to ensure system scalability and reliability. Assist in developing and implementing various tools and scripts and perform deployments and patches per the needs of the business.You will research, test new technologies, collaborate with other teams throughout Engineering and other organizations within BlackLine, defining and implementing new solutions, and drive innovation.</p><p><br></p><p><strong>You\u2019ll Get To:</strong></p><p>\u00b7Ensure high availability of a SaaS platform that is built primarily around Microsoft .NET tools and technologies.</p><p>\u00b7Work with development teams on transitioning to a Continuous Delivery process with automated build, test, and deployment.</p><p>\u00b7Create and maintain software build and deployment pipelines using Jenkins and PowerShell.</p><p>\u00b7Automate server provisioning using Chef and Ruby.</p><p>\u00b7Perform software releases to production and other client-facing environments.</p><p>\u00b7Debug and resolve application and middleware issues.</p><p>\u00b7Collaborate with development and other technology teams on requirements definition, capacity planning, and process refinement.</p><p>\u00b7Use data from a variety of performance and health management tools to deliver a continuous assessment of application performance and reliability.</p><p>\u00b7Adhere to existing operational processes and maintain operational documentation.</p><p>\u00b7Monitor industry trends. Research, design, develop and implement solutions for fault tolerance, performance, and capacity management.</p><p>\u00b7Participate in architecture design of complex SaaS solutions with developers.</p><p>\u00b7Contribute knowledge, skills, and personal qualities to a dedicated team of top engineers solving real-life problems in a bleeding-edge, high-performance, and high-traffic environment.</p><p><strong></strong></p><p><strong>What You\u2019ll Bring: </strong></p><p><br></p><ul><li>BS or MS in Computer Science (or equivalent diploma and/or certifications) with 5-7 years related experience.</li><li>Familiarity with Continuous Integration and Delivery including experience with tools such as Jenkins or Team City.</li><li>Hands-on experience with a Distributed Version Control System such as Git or Mercurial.</li><li>Advanced knowledge of at least of the following programming languages: C#, Visual Basic, PowerShell, Java.</li><li>Expertise with common Microsoft .NET build package and deployment tools and such as MSBuild, MSDeploy, and NuGet.</li><li>Demonstrated history of developing or operating production web applications and a solid understanding of HTTP(S), HTML, JavaScript, CSS, and XML.</li><li>Experience scripting provisioning of servers, applications, and/or infrastructure in a production environment at scale.</li><li>Experience with Containers and Orchestration tools for On-premise and cloud Ex- Docker, Kubernetes, OpenShift, etc.</li><li>Knowledge of software development best practices and SDLC.</li><li>Experience deploying high availability systems and software.</li><li>Experience with troubleshooting distributed web applications in a production environment.</li><li>Advanced level knowledge of IIS and Windows Server.</li><li>Advanced level knowledge of SQL</li><li>Experience with a subset of: RabbitMQ, Memcached, Redis, Microservices, Consul, Vagrant</li><li>Experience with infrastructure as a code and platform as a service.</li><li>Experience with configuration management tools Ex Chef, Ansible, Puppet.</li></ul><p></p><p><strong><u>Thrive At BlackLine Because You Are Joining:</u></strong></p><p><br></p><p>\u00b7A technology-based company with a sense of adventure and a vision for the future. Every door at BlackLine is open. Just bring your brains, your problem-solving skills, and be part of a winning team at the world's most trusted name in Finance Automation!</p><p>\u00b7A culture that is kind, open, and accepting. It\u2019s a place where people can embrace what makes them unique, and the mix of cultural backgrounds and varying interests cultivates diverse thoughts and perspectives.</p><p>\u00b7A company that believes in providing the best possible service to its clients, and that starts with offering amazing perks to its employees. These perks include 100% coverage for healthcare, vision, and dental, 401(k) matching, ESPP, food, drinks, games, and so much more!</p><p>\u00b7A culture where BlackLiners\u2019 continued growth and learning is empowered.BlackLine offers a wide variety of professional development seminars and inclusive affinity groups to celebrate and support our diversity.</p><p></p><p></p><p>BlackLine is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity or expression, race, age, religious creed, national origin, physical or mental disability, ancestry, color, marital status, sexual orientation, military or veteran status, status as a victim of domestic violence, sexual assault or stalking, medical condition, genetic information, or any other protected class or category recognized by applicable equal employment opportunity or other similar laws.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:37:57.000Z"
+  },
+  "company": {
+    "name": "BlackLine",
+    "link": "https://www.linkedin.com/company/blackline"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

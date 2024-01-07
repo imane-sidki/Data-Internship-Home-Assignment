@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Full Stack Engineer",
+    "industry": "Information Technology and Services,Computer Software,Staffing and Recruiting",
+    "description": "Full-Stack Software Engineer<br><br>Dedham MA - Hybrid<br><br>Full-time<br><br>Senior Full Stack Software Engineer will contribute to the design and build of software architecture and product suite and must have an understanding of large-scale, real-time integrations with external systems and user facing applications. Please send an update resume to Chris McMillan at cmcmillan@alexandertg.com<br><br><strong><u>The Role<br></u></strong><ul><li> A hands-on contributor for the development of full application stack and bring best practices to coding, performance, release, testing and automation.</li><li> Utilize cloud-native architectures to deliver resilient, high-availability services</li><li> Work on definition and execution of security standards and compliance<br></li></ul><strong><u>Requirements<br></u></strong><ul><li> 5+ year of full-stack scale web application development</li><li> 2+ of architecture exp.</li><li> AWS experience</li><li> Must have React.js experience</li><li> Experience with Python, JavaScript, Node.js</li><li> Built scalable RESTful APIs with a framework i.e. Django, Falcon, Flask, Spring Boot</li><li> Experience with SQL and relational databases (Aurura DB/MySQL)<br></li></ul>Please send an updated resume to Chris McMillan at cmcmillan@alexandertg.com<br><br>*MONATG*<br><br>ATG456<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:16:36.000Z"
+  },
+  "company": {
+    "name": "Alexander Technology Group",
+    "link": "https://www.linkedin.com/company/alexander-technology-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dedham",
+    "region": "MA",
+    "postal_code": "02026",
+    "street_address": null,
+    "latitude": 42.246567,
+    "longitude": -71.17429
+  }
+}

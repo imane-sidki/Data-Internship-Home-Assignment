@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Position Title: Software Engineer<br><br><strong><u>Position Description<br><br></u></strong>Tapjoy is seeking a Software Engineer who will work closely with Data Scientists, Data Engineers and Ad Server Engineering teams to help productionize, scale and support Tapjoy's Optimization platform. We are looking for someone with experience working with vast amounts of data, service scaling and low-latency applications.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Design and create a robust Data Processing Platform with high throughput </li><li>Research and innovate on Big Data platform stack (Spark, Kafka, Aerospike/CouchBase and many others)<br></li></ul><strong><u>Core Competencies<br></u></strong><ul><li>Strong Computer Science fundamentals, including knowledge on data structure, algorithm and object-oriented design</li><li>Is self-directed and self-driven Is results-oriented with a high emphasis on \"on-time\" delivery of projects and features</li><li>Values collaboration with various teams and stakeholders</li><li>Communicates often and well about potential roadblocks and tradeoffs between performance and complexity<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>B.S. or M.S. in Computer Science 2 years of Software Engineering experience </li><li>Strong knowledge of data structures, SQL, software design patterns and algorithms (i.e., indexing, hash tables, joins, aggregation) </li><li>Knowledge of low-latency, high-throughput services </li><li>Experience with big data platforms (e.g. Hadoop or Spark) </li><li>Prefer someone who understands and experiences with ETL processes and concepts </li><li>Prefer someone who understands general machine learning concepts </li><li>Experience with advertising industry is a big plus<br></li></ul>Tapjoy is a leading mobile advertising and app monetization company. Our platform empowers advertisers to connect with over 1 billion monthly active users through value exchange advertising that drives awareness, engagement, and the metrics that matter most to their overall growth. Meanwhile, companies such as Scopely, Glu, Ludia, and many of the Top 200 grossing app publishers trust our platform to monetize their content, grow their audiences, and reward their users. Founded in 2007 and headquartered in San Francisco, Tapjoy is a global organization with offices in Santa Barbara, Boston, London, Beijing, Tokyo, and Seoul.<br><br>Tapjoy is an equal opportunity employer. We believe that diversity and inclusion lead to stronger, more innovative teams and better business results; we want to draw from the broadest talent pool possible and encourage qualified applicants. Tapjoy does not discriminate on the basis of sex, race, ethnicity, color, age, sexual orientation, gender (including identity and expression), disability (mental or physical), religion, national origin, citizenship, marital status, military or veteran status, or any other protected classification protected by applicable law; we will provide reasonable accommodations for qualified individuals with disabilities, and pursuant to applicable fair chance ordinances, we will consider for employment qualified applicants with arrest and conviction records.<br><br>For more information, please visit www.tapjoy.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T04:03:28.000Z"
+  },
+  "company": {
+    "name": "Tapjoy",
+    "link": "https://www.linkedin.com/company/tapjoy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

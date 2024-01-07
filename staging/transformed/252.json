@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "Information Technology and Services,Insurance",
+    "description": "<p><strong>Sorry, No Corp to Corp available with this opportunity.</strong></p><p><br></p><p><strong>Machine Learning Data Engineer</strong></p><p>Join our team, work with us, work on challenging Machine Learning and AI projects with the goal to improve the everyday life of client\u2019s members. You will collaborate with data scientist, analyst, business, and IT teams to design, implement, and deploy Machine Learning and AI services using Python, PySpark, Azure services, Databricks, Terraform, and other open-source software. Develop plans, designs, code, and documentation, and to perform code reviews, testing, and debugging. You will embrace and enforce best practices in our data science community with automated, repeatable data pipelines.</p><p>Some examples of how we add capabilities to Machine Learning Platform include:</p><ul><li>Creating templates for data scientists, embracing leading-</li><li>edge modeling techniques</li><li>Establishing a Feature Store with tens of thousands of features available to use in predictive models.</li><li>Defining monitoring, auditing, data lineage, and dependency tracking for data pipelines to improve quality.</li><li>Integrating ethical AI bias monitoring and drift analysis into modelling processing</li><li>Standardizing the definitions of clinical, financial, and actuarial features for use across the business</li></ul><p><strong>Some of the tools we use:</strong></p><ul><li>Python, PySpark, Azure Databricks</li><li>Azure Data Factory, Azure DevOps, Azure KubernetesService, CosmosDB, AppInsights, Kafka, Pulsar</li><li>Terraform</li><li>Open-source ML software, like SciKit Learn, SparkML, TensorFlow, Horovod, Petastorm</li></ul><p></p><p><strong>Job Description</strong></p><ul><li>Build and deploy ML models on Azure, using best practices in security, and Azure services.</li><li>Understand best practices for effective predictive models, including cluster management and algorithms, and evangelize with Data Scientists.</li><li>Thrive in a fast-paced agile environment, closely interacting with business analysts, software engineers, machine learning scientists, data engineers, and data scientists.</li><li>Put together production templates, review, and test ML code, and deploy it to Production.</li></ul><p></p><p><strong>Role Essentials</strong></p><ul><li>BS in Computer Science or related field</li><li>3+ years of experience working on cloud platforms \u2013 Azure strongly preferred.</li><li>5+ years of experience with Machine Learning and AI</li><li>5+ years of software development experience, with significant Python experience</li><li>Solid knowledge of data structures and algorithms</li><li>Experience in production environments (ideally enterprise level). Directly responsible for creating production jobs.</li><li>Ability to learn new technologies and comprehend unfamiliar data domains and business processes quickly.</li></ul><p></p><p><strong>Role Desirables</strong></p><ul><li>Open-source contributions and portfolio of shipped code at GitHub</li><li>Experience with Azure, particularly Azure Data Factory (ADF), Spark, Git, and other software engineering tools.</li><li>Experience working with data scientists to streamline code, implement reliable production processes to score models, and/or building scalable, efficient processes to derive new data.</li><li>Familiar with healthcare applications, terminologies, and data</li><li>Passion projects with ML/AI/NLP, for example Kaggle competitions and Hackathons</li></ul><p></p><p><strong>Role Bonus</strong></p><ul><li>Working multiple tools together on the Azure platform (Databricks, ADF, AppInsights and other monitoring/logging tools) to deploy to production.</li><li>Experience in an enterprise production environment where they have hardened, refactored, or otherwise improved upon the training code from Data Scientists.</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-08T14:26:40.000Z"
+  },
+  "company": {
+    "name": "Strategic Systems Inc",
+    "link": "https://www.linkedin.com/company/strategic-systems-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Platform Security Engineer (Data Security)",
+    "industry": "Computer Software,Computer & Network Security,Information Technology and Services",
+    "description": "Awesome tech is made by awesome people. And we\u2019re always looking for new team members who bring the energy, passion, commitment, and collaboration that has made Auth0 the great company it is today.<br><br>So what do we exactly build? Auth0 is an authentication and authorization platform designed by developers for developers. Basically, we make companies\u2019 login boxes safe, secure, and seamless for anyone logging in. Our mission is to secure the world\u2019s identities so innovators can innovate. But it\u2019s a big mission that requires a lot of teamwork.<br><br>Words, code, or people, whatever your skill, there\u2019s a place for you here<br><br>Auth0 is looking for a <strong>Senior Platform Security Engineer</strong> to join the Platform Security team to work directly with our engineering partners to build Auth0\u2019s future data platform. Successful candidates will have a passion for building reliable and scalable distributed systems, a technical background, hands-on experience in developing data platforms and infrastructure, a solid understanding of data security issues, strong threat modeling experience, and the ability to collaborate with others to drive initiatives forward. In this role, you will have the opportunity to significantly contribute to making Auth0's future data platform secure by design.<br><br>This role can be based from a remote office anywhere in the US or CAN.<br><br><strong>What You Will Do<br><br></strong><ul><li> Collaborate with Security, Engineering and Data teams to incorporate strong security controls, apply security best practices in our development life cycle, and mitigate risks and security vulnerabilities. </li><li> Promote and drive the implementation of a data security architecture that supports Engineering\u2019s goals and deliverables, through strategy, design, requirements, and code. </li><li> Contribute to defining the n+1 cloud infrastructure maturity level and help to achieve goals that get us there. </li><li> Implement technical prototypes to understand new technologies as well as identify and manage risks for projects in active development. </li><li> Contribute to improving Auth0's data security patterns, security controls and best practices. </li><li> Mentor team members and engineers on security best practices, and develop the next generation of technical security leaders <br><br></li></ul>What You Bring<br><br><ul><li> 5+ years security engineer experience </li><li> Strong experience with AWS data analytics services and security controls, and preferably hands-on experience with Azure. </li><li> Experience with MongoDB, PostgreSQL, Kafka </li><li> Passion for building secure, reliable and scalable distributed systems in collaboration with multiple teams. </li><li> Excellence at creating clarity and alignment for technical initiatives. </li><li> Ability to lead and resolve company-wide technical discussions. </li><li> Experience with data warehouses, star and snowflake schemas, ETL automation, BI Visualization, and cloud-based data management tools </li><li> Proficiency in Golang, Python, Java. </li><li> Familiarity with Hadoop, Hive, Spark, Airflow, Snowflake, Druid and related technologies </li><li> Experience with implementing security controls for data governance laws such as HIPAA, SOC2, PCI, and GDPR </li><li> Knowledge of containerization, CI/CD pipeline, and orchestration with Kubernetes <br><br></li></ul>Auth0 makes the internet safer by safeguarding billions of login transactions each month.<br><br>Our team is spread across more than 35 countries and we are proud to continually be recognized as a great place to work . Culture is critical to us, and we are transparent about our vision and principles . We practice N+1&gt;N which applies to everything from our people to how we iterate our tech; we believe in one team, one score; and we give a shit about everything we do.<br><br>Research shows that candidates from underrepresented backgrounds often don\u2019t apply unless they meet all the job criteria. We aren\u2019t looking for someone who ticks every single box on a page; we\u2019re looking for lifelong learners and people who can make us better with their unique experiences. If you think you\u2019d be a great fit, then please get in touch to tell us about yourself.<br><br>Auth0, recently acquired by Okta, is an Equal Employment Opportunity employer. Auth0 conducts all employment-related activities without regard to race, religion, color, national origin, age, sex, marital status, sexual orientation, disability, citizenship status, genetics, or status as a Vietnam-era special disabled and other covered veteran status, or any other characteristic protected by law. Auth0 participates in E-Verify and will confirm work authorization for candidates residing in the United States.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:53:40.000Z"
+  },
+  "company": {
+    "name": "Auth0",
+    "link": "https://www.linkedin.com/company/auth0"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

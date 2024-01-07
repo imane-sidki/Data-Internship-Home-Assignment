@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Internet",
+    "description": "Our client is rethinking the way that code is written. They are well-funded and a team of early<br><br>Today, most people write code by sitting at a desk, memorizing a syntax that varies with different tools, and pushing buttons. And, doing so for long periods of time is known to cause physical pain. We'd know\u2014our client created the company after developing repetitive strain injuries (think carpal tunnel), common among people who use computers all day, that made typing incredibly painful. We're building a future where everyone can write code with the highest-bandwidth input mechanism we have: our voice.<br><br>Our mission: make programming more efficient and accessible to everyone. <strong>Our client would require you to be able to be at the office in San Francisco, CA.<br><br></strong><strong><u>The Role &amp; Responsibilities<br><br></u></strong>We're looking for machine learning engineers excited to apply the latest in ASR and NLP to code and build on our speech-to-code platform.<br><br>Here's a sample of projects you'd be able to work on from day 1:<br><ul><li>Architect transformer-based neural networks to model both code and natural English.</li><li>Apply state of the art speech recognition techniques to our dataset to optimize the accuracy and performance of the product.</li><li>Build on our training pipeline, which includes automatic labeling and seamless backtesting.</li><li>Use semantic parsing techniques to enable deep understanding of user intent.</li><li>Support a wide range of speakers and environments through techniques like speaker identification and noise suppression.<br></li></ul><strong>Our ML Stack<br></strong><ul><li>Our speech-to-code engine uses state of the art deep learning served using a containerized, gRPC streaming service written in C++ for maximum performance. We've also developed our own models trained specifically for programming.</li><li>Our offline training and annotation pipelines are written using Python and PyTorch.</li><li>Whenever possible, we contribute back to the open-source community.<br></li></ul><strong>Join Our Team!<br></strong><ul><li>Maintain a Growth Mindset</li><ul><li>We welcome hard technical challenges, and in solving them, we're continually learning from each other. We're always trying to improve ourselves and show determination in solving problems</li></ul><li>Take Initiative</li><ul><li>We're building a team where everyone can freely contribute and discuss ideas. We value thinking beyond just the immediate scope of what we're working on and proposing new, sometimes crazy, ideas</li></ul><li>Communicate Directly</li><ul><li>As a small team, direct, respectful communication is critical to our success. We aim to create an environment where everyone can vocalize their ideas and meaningfully collaborate on solutions</li></ul><li>Go the Extra Mile</li><ul><li>Sometimes, spending an extra 5 minutes on a code refactor now can save someone else 5 hours down the line. We strive to maintain a high quality bar to keep our iteration speed high</li></ul></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T01:54:01.000Z"
+  },
+  "company": {
+    "name": "Recruiting from Scratch",
+    "link": "https://www.linkedin.com/company/recruiting-from-scratch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

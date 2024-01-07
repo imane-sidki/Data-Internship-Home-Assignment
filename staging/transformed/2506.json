@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Financial Services,Insurance",
+    "description": "<p><strong>Job: Machine Learning Artificial Intelligence Engineer </strong></p><p><strong>Location: Pleasanton CA </strong></p><p><strong>Only open for W2 Contract NO C2C</strong></p><p><br></p><p><strong>Must Haves:</strong></p><ul><li>Machine Learning, Deep Learning, NLP</li><li>TensorFlow, Scipy, PyTorch, OpenCV, OCR</li><li>Numpy, SKlearn, Pandas</li><li>Python, Spark, Hive, SQL</li><li>Productionize model.</li></ul><p></p><p>DELIVERABLES OR TASKS:</p><ul><li>The tasks for the AI/ML Engineer include, but are not limited to, the following:</li><li>Provide technical leadership, develop vision, gather requirements and translate client user requirements into technical architecture.</li><li>Design, build and scale Machine Learning systems across multiple domains.</li><li>Design and implement NLP algorithms</li><li>Design and implement an integrated Big Data platform and analytics solution </li><li>Design and implement data collectors to collect and transport data to the Big Data Platform.</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T14:21:52.000Z"
+  },
+  "company": {
+    "name": "Compunnel Staffing",
+    "link": "https://www.linkedin.com/company/compunnel-software-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

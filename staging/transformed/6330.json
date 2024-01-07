@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend (New York or San Francisco)",
+    "industry": "Marketing and Advertising,Computer Software,Financial Services",
+    "description": "The Mom Project is excited to partner with our client, Instabase, located in NYC, SF, and Menlo Park, CA! They are looking for a talented Software Engineer to join their team.<br><br><strong>They're</strong> passionate about building software to advance the state of the art in computing. They've built a fearlessly experimental, customer-obsessed team who are making discoveries to fundamentally change how people build and consume business applications. Today, they are partnering with the world\u2019s leading companies to transform how they use data and technology. If these challenges excite you, they would love to hear from you!<br><br><strong>Their Engineering Team</strong> architects the underlying operating system, core services, platform infrastructure, dev toolkits, core algorithms, machine learning models, packaged end-user apps, and app store marketplace. The engineers are excited to solve hard problems for complex organizations and are self-starters from day one.<br><br><strong>As a Backend Software Engineer</strong>, you will be responsible for designing and developing their platform and tools for document understanding. You\u2019ll work on the applications used by their customers and internal application engineers to solve complex structured data extraction problems. This will involve work across a variety of disciplines from backend web application development to hosting and deploying machine learning models to developing a language and execution engine around structured data extraction. You\u2019ll work closely with algorithm and machine learning engineers to integrate algorithms into our document understanding platform.<br><br>Their backend systems are written primarily in Python and deployed using Docker and Kubernetes on cloud services.<br><br><strong><u>What You'll Do<br></u></strong><ul><li>You will architect and implement complex technical projects for document extraction</li><li>You will work closely with frontend engineers on the team to provide the backend APIs required for our applications</li><li>You will work closely with other engineers to understand and rapidly test state-of-the-art algorithms for document understanding</li><li>You will help develop engineering best practices from code architecture to testing<br></li></ul><strong><u>This Role Requires Knowledge In The Following<br></u></strong><ul><li>BS in CS or equivalent field of study preferred</li><li>Minimum 1 year experience as a software engineer</li><li>Experience architecting backend software systems</li><li>Experience with machine learning systems or data pipelines is a plus</li><li>Web fundamentals: APIs, REST, servers<br></li></ul><strong>They are an equal opportunity employer and values diversity in all forms. They do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability, or any other unlawful factor. They also complies with local laws, including the San Francisco Fair Chance Ordinance.</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T00:36:01.000Z"
+  },
+  "company": {
+    "name": "The Mom Project",
+    "link": "https://www.linkedin.com/company/the-mom-project"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

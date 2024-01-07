@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Title </strong>- Machine Learning Engineer</p><p><strong>Type </strong>- Fulltime</p><p><strong>Location </strong>- San Francisco, California, United States</p><p><br></p><p>We are seeking a Machine Learning Software Engineer to become an integral part of our team! You will be responsible for creating and modifying software or specialized programs.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Analyze user needs and develop software solutions</li><li>Work with project manager or product owner to meet specification needs</li><li>Recommend software upgrades to optimize operational efficiency</li><li>Collaborate with other developers to design and optimize code</li><li>Document all programming tasks and procedures</li><li>Perform routine software maintenance</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li><strong>Previous experience in software development, computer engineering, or other related fields</strong></li><li><strong>3+ years working experience with:</strong></li><li><strong>Python applied to SaaS/Enterprise Data-pipeline/classification projects</strong></li><li>Relational database technologies: Postgres/SQL Alchemy (preferably thru AWS-RDS)</li><li>Text/document processing &amp; machine learning technologies: NLP, Tensor Flow/PyTorch, Recurrent Neural Networks (RNN), Computational linguistics experience, Clustering, Decision tree learning and their real-world advantages/drawbacks.</li><li>Document processing: Document format Conversion, meta-data Extraction, content Classification, &amp; content Summarization</li><li>Agile software development: JIRA (SCRUM, PR/Code reviews, unit tests)</li><li>Bachelor\u2019s Degree in Computer Science/related discipline, or equivalent work experience</li><li>Bonus points for commercial experience working on any of the following:</li><li>Search ranking, relevance and optimization: Elasticsearch</li><li>Containerization + Container Orchestration</li><li>Workflow scalable infrastructure: Celery/RabbitMQ, Airflow</li><li>DevOps via AWS: AWS Sagemaker, AWS-ECS, AWS-EKS, CloudWatch</li><li>NoSQL: Any document-oriented database</li><li>Continuous integration, Automated testing</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T12:58:42.000Z"
+  },
+  "company": {
+    "name": "Avesta Computer Services",
+    "link": "https://www.linkedin.com/company/avesta-computer-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong><em>Our team is currently remote through the summer, however this role will be based in Columbus with flexible working conditions once we return.</em></strong></p><p><em></em></p><p>For most, having reliable personal transportation is crucial for economic progression. However, while the process of buying a vehicle has gotten easier for many, the experience hasn't improved for the 1 in 5 Americans with less than perfect credit.</p><p><br></p><p>Beep is changing the way our nation's most underserved population finances and buys vehicles. This role will work directly with Engineering, Design, and Product to build a new kind of online car financing and buying experience.</p><p><br></p><p><strong>The role</strong></p><p>As a Software Engineer at Beep, you will use the latest technologies to build an e-commerce platform for vehicles, operational tools, and a data platform to drive our systems. You\u2019ll collaborate with a distributed team to design complex solutions and are comfortable with ambiguity. We\u2019re specifically looking for someone with front-end expertise to help us build a scalable front-end architecture and to optimize our the user experience.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Implement web interfaces/applications using Angular, XHTML, CSS, and JavaScript</li><li>Lead the front end development efforts by instituting best practices and ensuring front end code quality across the team.</li><li>Work closely with the entire product team to define feature specifications and build the next generation of products</li><li>Complete and test medium to large features (each with many tasks) independently without guidance</li><li>Proactively identify and drive changes as needed for assigned codebase, product area and/or systems</li></ul><p><br></p><p><strong>What you need</strong></p><p>Minimal Qualification</p><ul><li>3+ years of relevant professional software engineering experience</li><li>Have built and launched delightful, scalable products with designers, other devs, and product managers</li><li>Expertise in Angular/typescript and HTML/CSS in a production environment</li><li>Experience integrating with APIs</li><li>Experience with AWS, Bitbucket, and GitKnowledge of back-end web technologies such as JavaScript</li><li>Experience writing front-end test coverage (jest for unit, cypress for e2e) and an understanding of NoSQL databases (we're using MongoDB) are a plus</li></ul><p><br></p><p>Preferred Qualification</p><ul><li>B.S. or M.S. Computer Science or related field</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T00:15:46.000Z"
+  },
+  "company": {
+    "name": "Beep",
+    "link": "https://www.linkedin.com/company/beep-auto"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "Ohio Metropolitan Area",
+    "postal_code": "43206",
+    "street_address": null,
+    "latitude": 39.978302,
+    "longitude": -82.99313
+  }
+}

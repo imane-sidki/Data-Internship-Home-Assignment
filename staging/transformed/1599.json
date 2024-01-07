@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><em>Help shape the next generation of ecommerce for the next generation of consumer.<br><br></em></strong><strong>Technology @ StockX:<br><br></strong>Our Technology Team is on a mission to build the next generation e-commerce platform for the next generation customer. We build world-class, innovative experiences and products that give our users access to the world\u2019s most-coveted products and unlock economic opportunity by turning reselling into a business for anyone. Our team uses cutting edge technologies that handle massive scale globally. We\u2019re an internet-native, cloud-native company from day 1 - you won\u2019t find legacy technology here. If you\u2019re a curious leader who loves solving problems, wearing multiple hats, and learning new things, join us!<br><br><strong><u>What You'll Do<br></u></strong><ul><li>Design, build, and evolve microservices used by StockX web and mobile applications</li><li>Collaborate with front-end and back-end engineers to build scalable services</li><li>Write quality code and world class documentation which can be used as the example for the company. </li><li>Debug and monitor production systems.</li><li>Work effectively in an agile development process</li><li>Constantly evolve the platform to identify bottlenecks in both runtime and development time aspects of the platform and improve them.</li><li>Work with Product, UX, and Design to build a world-class microservices and workflow engine.<br></li></ul><strong><u>About You<br></u></strong><ul><li>Minimum of 2 years of relevant experience.</li><li>Expert in Java programming language or similar Object-Oriented language.</li><li>Exceptional skill in solving complex problems by use of right data structure and algorithms. In-depth understanding of various Data Structure and Algorithms are expected. </li><li>Experience in working with various data storage eco systems - Relational databases, No-SQL databases and Caching systems. </li><li>Some exposure in using design patterns to solve design problems.<br></li></ul><strong><u>About Us<br><br></u></strong>Our global platform offers unprecedented access to current culture while our data-driven, bid-ask model provides buyers with the real-time visibility to know they\u2019re getting a fair price. And, unlike other ecommerce sites, StockX hand-checks every purchase (20,000+ daily trades) at one of our regional authentication centers.<br><br>StockX\u2019s special formula has rocketed the company to a multibillion dollar valuation, with 10M+ lifetime trades on the platform<em>\u2014</em>more than half of those coming in the last year. And we\u2019re just getting started.<br><br><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-04T20:17:11.000Z"
+  },
+  "company": {
+    "name": "StockX",
+    "link": "https://www.linkedin.com/company/stockx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80000,
+    "max_value": 174400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are witnessing a massive shift of consumer presence from offline to online. With it, there is a need for technologies that enable online businesses to thrive. Bolt is at the center of this universe leading the next generation of ecommerce, having created a best-in-class buying experience from checkout to fraud detection, payments and more. With our help, retailers can successfully compete with the online retail giants that have the means to invest in technology.<br><br>The Data Platform team works closely with all teams and cross-functional partners (including product, engineering, and data analysts) to build a foundational data stack powering business analytics.<br><br>We are looking for someone to play a mission-critical role in designing and building the machine models (fraud detection, categorization, recommendation, personalization, price analysis, etc) that powers Bolt. This should someone with experience, creativity, and passion for producing world-class technology. Companies and consumers alike will rely heavily on what you build, and you\u2019ll have a ton of trust and responsibility. If challenges excite you, and you\u2019re ready for a large one, let us know.<br><br>Check out our Engineering Blog !<br><br><strong><u>You Will<br></u></strong><ul><li>Build production ready machine learning models; your models will be the engine that powers all online commerce through Bolt</li><li>Conduct data analysis to determine which policies we adopt and help inform strategic growth</li><li>Build machine learning infrastructure, data pipelines and production ready services to serve live traffic</li><li>Work with other teams at Bolt to engineer new features for models or new product features that help improve Bolt business<br></li></ul><strong><u>About You<br></u></strong><ul><li>Passion to improve e-commerce businesses</li><li>Strong communication skills in a cross-functional team</li><li>Unrelenting focus on impact</li><li>Bachelor's degree in relevant technical discipline (or equivalent experience)</li><li>Software Engineering background in a team-oriented software development environment</li><li>4+ years of machine learning experience</li><li>Mastery of a scientific computing language (R or Python) and SQL; experience with data analysis and statistics<br></li></ul><strong><u>Our Stack<br></u></strong><ul><li>AWS Lambda for data ingestion and Kinesis Firehose to transport them into S3</li><li>Step functions and Lambdas to coordinate workflows</li><li>AWS Redshift as the data warehouse + Spark on EMR for doing ETL</li><li>Terraform for maintaining infra</li><li>Jenkins &amp; CircleCI for build pipelines</li><li>Postgres RDS is our application database</li><li>Our code base is primarily in Golang &amp; Typescript. However, our data bits are mostly in Python.<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Competitive Pay</li><li>Flexible PTO</li><li>Retirement plans</li><li>Cell phone reimbursement</li><li>Wifi reimbursement</li><li>Comprehensive health coverage: Medical, dental and vision</li><li>Monthly wellness stipend</li><li>Paid parental leave</li><li>Monthly (virtual) team events<br></li></ul>Bolt is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. If you have a disability or special need that requires accommodation, please let us know<br><br>Check out our Engineering Blog !",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T04:14:24.000Z"
+  },
+  "company": {
+    "name": "Bolt",
+    "link": "https://www.linkedin.com/company/bolt-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

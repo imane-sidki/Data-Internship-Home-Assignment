@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Platform Engineer",
+    "industry": "Hospitality",
+    "description": "<strong><u>Avero Overview<br><br></u></strong>Created by hospitality operators for hospitality operators, Avero is the trusted technology partner for the hospitality industry. We empower 40,000+ hospitality professionals with the answers they need to transform their businesses and their lives, getting them out of the back office and into the kitchen with their staff, onto the floor with their guests, and at home with their families. We are a remote-first company with headquarters in New York City.<br><br><strong><u>Position Overview<br><br></u></strong>Avero is looking for a Data Platform Engineer who will be responsible for working within an engineering team to implement against Avero\u2019s point-of-sale integrations and data ingestion infrastructure. You will help foster a highly collaborative and quality-focused engineering culture that addresses the complex technical challenges of a large-scale data ingestion platform. This is a 100% remote role.<br><br><strong><u>Who You Are<br></u></strong><ul><li>An enthusiast of all things data: data modeling, data structures, data storage and retrieval, and ETL pipelines.</li><li>An adaptable engineer is able to wear different hats other than that of a developer such as QA engineer, tech support, and DevOps.</li><li>A software engineer who enjoys problem-solving in a collaborative environment.</li><li>An outstanding communicator who can effectively share knowledge with technical and non-technical stakeholders.</li><li>A motivated individual who isn\u2019t afraid to dive into problems and contribute.<br></li></ul><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Contribute to Avero\u2019s data ingestion architecture, including our point-of-sale integrations and the pipelines that load and transform that data into the Avero data standard for use in our reporting and analytics SaaS offering.</li><li>Design, implement and maintain scalable data ingestion pipelines.</li><li>Work within an agile engineering team to create and execute technical solutions to achieve business goals.</li><li>Understand Avero\u2019s software architecture and work with technical leadership to deliver solutions within that framework.</li><li>Provide input into your team\u2019s roadmap, milestones, and goals</li><li>Follow and help refine best practices for your team and the broader engineering organization</li><li>Foster a culture of accountability on your team as they deliver against their roadmap</li><li>Work with technical leadership within your team and the broader organization to grow your technical expertise</li><li>Occasionally share in on-call duties to support our production infrastructure<br></li></ul><strong><u>What You\u2019ll Need</u></strong><ul><li>3-5 years of software development experience.</li><li>A strong commitment to collaboration in a remote-first engineering organization.</li><li>Excellent verbal and written communication skills.</li><li>Experience working within remote or geographically distributed teams is preferable.</li><li>Experience designing, implementing, and maintaining data extraction, transformation, and load pipelines are preferable.</li><li>You don\u2019t need to be an expert in everything but should have significant overlap with our existing technology stack. We can help you ramp up where there are gaps. Our key technology areas include:</li><ul><li>SQL - we use Postgres and Oracle.</li><li>NoSQL - we use MongoDB.</li><li>Backend system technologies - we use Java, Node.js, GraphQL, gRPC, and more.</li><li>Cloud infrastructure and containerization technologies - we use AWS, Terraform, and Docker.<br></li></ul></ul><strong><u>Why You\u2019ll Love Working Here<br></u></strong><ul><li>Competitive compensation, coupled with an emphasis on work/life balance.</li><li>Employer-sponsored benefits package including Health, Dental, and Vision insurance.</li><li>Health Savings Account with contributions from Avero quarterly! </li><li>Medical and Dependent Care Flexible Spending Accounts.</li><li>Company Paid Disability, Life Insurance, and AD&amp;D.</li><li>Commuter Benefits (for those in NYC!)</li><li>401k and Company Match.</li><li>Parental Leave.</li><li>ClassPass Discounts.</li><li>Equity in the company \u2013 all employees have a stake in our growth!<br></li></ul><strong><u>Disclaimer<br><br></u></strong>The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not to be construed as an exhaustive list of all responsibilities, duties, and skills required of employees so classified. All employees may be required to perform duties outside of their normal responsibilities from time to time, as needed.<br><br>Please note that we are only able to hire permanent residents (green card holders) or U.S. citizens at this time.<br><br>Avero is an equal opportunity employer. We embrace humans of every background, appearance, race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, and disability status. If this role would make you excited to come to work every day, please apply! We look forward to connecting.<br><br><strong><u>About Averoinc.com<br><br></u></strong>Created by hospitality operators for hospitality operators, Avero is the trusted technology partner for the hospitality industry. We empower 40,000+ hospitality professionals with the answers they need to transform their businesses and their lives, getting them out of the back office and into the kitchen with their staff, onto the floor with their guests, and at home with their families. We are a remote-first company with headquarters in New York City.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:39:39.000Z"
+  },
+  "company": {
+    "name": "Avero",
+    "link": "https://www.linkedin.com/company/avero"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

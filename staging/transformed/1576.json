@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Internet,Marketing and Advertising",
+    "description": "<strong><u>About Us<br><br></u></strong><em>Realtor.com</em><em>\u00ae, a leading online destination for real estate services, has acquired Avail. This role will align with the Avail team, the newest addition to the </em><em>realtor.com\u00ae</em><em> network. Avail offers a software platform with a complete set of tools, guidance, and best in class educational content providing landlords with everything they need to be confident and professional.<br><br></em><strong>The Role<br></strong>At <strong>Avail (Part of The Realtor.com Network)</strong> we are looking for a production support software engineer that loves to solve problems and has a passion for full stack web development. Avail is counted on by landlords and tenants around the country and as a production support engineer you will be making an immediate impact by improving the overall experience of our users. In your role you'll be tasked with solving critical customer problems by assisting with customer support technical escalations and working with our QA team to identify, triage, and fix the root cause of any reported bug.<br><br><strong>What will you do?<br><br></strong><strong><u>Responsibilities<br></u></strong><ul> <li>Work with our Customer Support team to solve customer questions or issues that are escalated to the \"tech team\"</li> <li>Work with QA and Product team members to scope and implement solutions that fix the symptoms and the root causes of application issues</li> <li>Communicate clearly and with Customer Support to provide frequent updates on any issues impacting end users</li> <li>Work with our QA team lead to build out our production support processes as we scale the team and user base</li> <li>Continually look for opportunities to better instrument our application to improve debugging and production support abilities</li> <li>Work with Engineering team stakeholders to monitor application health through defined KPIs</li> <br><br></ul><strong>What will you bring?<br><br></strong><strong><u>Requirements<br></u></strong><ul> <li>2+ years of software engineering experience</li> <li>1+ years of experience in at least one of the following: Ruby, Rails, JavaScript, React</li> <li>Strong knowledge of relational database architectures like Postgresql</li> <li>Strong written and verbal communication skills</li> <li>Positive attitude, intellectual curiosity, and strong work ethic</li> <br><br></ul><strong><u>Nice To Haves<br></u></strong><ul> <li>Full stack development experience</li> <li>Previous experience in a production support engineering capacity</li> <br></ul><em>This is a full-time position that we prefer to be based in any one of NewsCorp's office locations (Chicago, NY, Santa Clara, LA, Austin, etc). Fully remote/virtual will be considered for the right candidate.<br><br></em><strong><u>About Realtor.com<br><br></u></strong>At realtor.com\u00ae, we believe that everyone deserves a home of their own. We\u2019re a community of nearly 2,000 employees that work hard to ensure that from the moment someone starts dreaming about a new home, to the moment they walk in the door and beyond, we\u2019re there to lend a helping hand. Every month, 70 million people trust us with their journey home by visiting our site and mobile apps, and we\u2019d love to have you join our team to help.<br><br>We\u2019ve got great offices across Canada and the US and lots of sweet jobs to choose from, so we\u2019re hoping you\u2019ll join us on our journey to make home buying and selling easier, and more rewarding for everyone.<br><br>Let\u2019s make a difference, together. For Real.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T05:29:06.000Z"
+  },
+  "company": {
+    "name": "Realtor.com",
+    "link": "https://www.linkedin.com/company/realtor-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 137000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

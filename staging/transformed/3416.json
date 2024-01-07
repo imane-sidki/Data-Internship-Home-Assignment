@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p>The Data Scientist will join the LexisNexis Risk Solutions US Connected Car Team developing and supporting the analytics products for the Automotive Original Equipment Manufacturers (\"OEMs\") Market, as well as Telematics data solutions for insurance carriers.</p><p><br></p><p><strong><u>KEY RESPONSIBILITIES</u></strong></p><p><br></p><ul><li>Develop analytics products and statistical models using Telematics Data</li><li>Interpret business plays to recommend (and execute) an analytic plan to supervisor and/or client.</li><li>Follow modeling best practices and provide feedback on ways to enhance current practices.</li><li>Provide technical support and be a resource to internal and external modelers.</li><li>Conduct analysis and performance reports in support of existing and new customer sales.</li><li>Summarize and communicate conclusions and solutions to analytic and non-analytic stakeholders.</li><li>Work with Product Management and Technology team closely on product implementation</li><li>Other duties as assigned.</li></ul><p><br></p><p><strong><u>QUALIFICATIONS</u></strong></p><p><br></p><ul><li>Bachelor\u2019s degree in computer science, mathematics, statistics or quantitative methods (or equivalent years\u2019 experience) . Master's Degree preferred.</li><li>2+ years demonstrated applied modeling and analytics experience in applicable industry.</li></ul><p><br></p><p><strong><u>TECHNICAL SKILLS</u></strong></p><p><br></p><ul><li>Strong understanding of statistical methods applied to data analysis</li><li>User of SAS, R, Python or equivalent analytic software.</li><li>Understanding of various statistical methodologies including linear regression, logistic regression, and other advanced analytic techniques.</li><li>Fluency with Excel, PowerPoint and Word.</li><li>Strong oral and written communication skills, including the ability to describe analytical results to non-statistical audiences</li><li>Experience processing large data sets.</li><li>Experience matching/merging multiple data sets</li><li>Comfortable working in a fast-paced environment.</li></ul><li></li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T14:29:49.000Z"
+  },
+  "company": {
+    "name": "LexisNexis Risk Solutions",
+    "link": "https://www.linkedin.com/company/lexisnexis-risk-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 97200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

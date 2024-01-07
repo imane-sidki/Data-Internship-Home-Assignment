@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Banking,Financial Services",
+    "description": "<strong>Data Scientist <br></strong>New York<br><br>As Barclays Data Scientist you will build, implement and execute statistical models, supporting the VP / Impairment, specifically building and implementing models (PD, EAD, LGD) for IFRS 9, and other regulatory and financial programs.<br><br>Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We've helped millions of individuals and businesses thrive, creating financial and digital solutions that the world now takes for granted. An important and growing presence in the USA, we offer careers providing endless opportunity.<br><br><strong>What will you be doing?<br><br></strong><ul><li> You will develop predictive models, statistical analyses, optimization procedures, monitoring processes, data quality analyses, and score implementations supporting regulatory and impairment model. This should be done in accordance with Barclays standards, policies and procedures.</li><li> Shepherd models through the internal validation process with the Internal Validation Unit (IVU).</li><li> Implement models in python based Barclays MEF and MES production environments</li><li> Participate in overall project design and delivery with QA\u2019s other functional teams and end-clients.</li><li> Produce robust documentation to ensure replicability of results and fulfil Barclays governance requirements.</li><li> Provide support for audits of model development and implementation, by both internal and external auditors<br><br></li></ul><strong><strong>What We\u2019re Looking For<br><br></strong></strong><ul><li> Post graduate university degree in quantitative discipline required (ex. Statistics, Operations Research, Economics, Computer Science, Engineering). Graduate studies, Masters or PhD required.</li><li> Extensive knowledge of data analysis, theory and statistical techniques (such as linear or nonlinear models, logistic regression, machine learning, macroeconomic forecast, decision trees, cluster analysis and neural networks etc.)</li><li> Experience building regulatory, Impairment (IFRS9) models for credit cards and unsecured lending.</li><li> Strong (at least 3 years) Python, Hive, SAS and SQL programming skills. Python experience preferred.</li><li> An ability to produce reports and interrogate systems to produce analysis and resolve discrepancies/queries. Strong analytical, technical and/or statistical skills with proven ability to process large datasets into meaningful information.<br><br></li></ul><strong>Skills That Will Help You In The Role<br><br></strong><ul><li> Analytical skills \u2013 Knowledge of data &amp; analytics. Ability to work independently on analytical tasks.</li><li> Team work - Ability to work with and in cross-functional teams and virtual teams across locations.</li><li> Conceptual thinking \u2013 Ability to think strategically about analytics and their value to the organization.</li><li> Communication-Ability to think quickly &amp; relay information to technical and non-technical audiences.<br><br></li></ul><strong>Where will you be working?<br><br></strong>Barclays\u2019 U.S. headquarters is located at 745 Seventh Avenue in New York, NY. At Barclays, we offer you an engaging and challenging environment, giving you the opportunity to make the most of your unique set of skills. We also have an extensive range of learning and development initiatives designed to support you both personally and professionally.<br><br>Interested and want to know more about Barclays? Visit home.barclays/who-we-are/ for more details.<br><br>90291673",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T05:17:01.000Z"
+  },
+  "company": {
+    "name": "Barclays",
+    "link": "https://uk.linkedin.com/company/barclays-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95600,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

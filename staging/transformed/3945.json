@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (BackEnd)",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Telepathy Labs</strong></p><p>We believe it is passion which drives us. Our technology revolves around this core philosophy. Innovation, creativity and a passion for ever-improving performance drive our company and our people forward. With the ambition to disrupt the current enterprise landscape with integrating AI into legacy businesses, we started with an incredible team with global talents in the US, Europe, and Asia. We are moving extremely fast and are looking for talents like you to join us.</p><p><br></p><p><strong>Job Description:</strong></p><p>TL is looking for exceptional Software Engineer to join us in building state-of-the-art voice based conversational AI for enterprise. You will be involved in the evolution of the company\u2019s Innovation Centre\u2019s process based on industry best practices, providing best-in-class software architecture, and following coding best practices, methodologies, processes and concepts. You should be proficient in writing elegant, readable and well-documented code.</p><p><br></p><p><strong>Job Requirements:</strong></p><ul><li>Bachelor\u2019s degree in Computer Science or related field or extensive experience and aptitude in software engineering.</li><li>3 or more years\u2019 application development and delivery experience</li><li>Experience with cloud based development and/or UNIX/LINUX environment</li><li>Knowledge of relational databases and SQL</li><li>Understanding of the software development cycle and agile development practice</li><li>Solid understanding of OOP</li><li>Understanding of web technology stack</li><li>Strong analytical skills and well-versed in problem solving skills</li><li>Good communication skills</li></ul><p><br></p><p><strong>Desirable:</strong></p><ul><li><strong>Experience with </strong>Back-end technologies using C#, ASP.NET, Web API</li><li>Experience with containerized environments in a production setting (Docker Swarm, Kubernetes)</li><li>Experience with real-time messaging (AMQP, TibRV, Solace) and/or stream processing platforms (Kafka) and REST API/gRPC</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:17:53.000Z"
+  },
+  "company": {
+    "name": "Telepathy Labs",
+    "link": "https://www.linkedin.com/company/telepathy-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

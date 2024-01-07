@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Team Name<br><br></u></strong>IT \u2013 Site Reliability Engineering<br><br><strong><u>Job Title<br><br></u></strong>Site Reliability Engineer<br><br><strong><u>Requisition ID<br><br></u></strong>R002142<br><br><strong><u>Job Description<br><br></u></strong>At Blizzard Entertainment, our Site Reliability Engineers (SREs) use systems expertise combined with software engineering patterns to help define, create, and support the architecture, build systems, orchestration, and operations of services across the business. The role is comprised of talented engineers that are focused on evangelizing reliability-as-a-feature through monitoring, service-level objectives, automation, everything-as-code, and testing.<br><br>Blizzard's games and platforms reach a global audience of passionate gamers. The scale is massive and the challenges are very real, but wise application of technology is the answer to keep it all running reliably with minimal oversight. Our Site Reliability Engineers are at the heart of this work, working directly with the engineering teams from idea to launch to deliver the most epic (and reliable!) experiences... ever.<br><br>As an SRE at Blizzard, you may find yourself...<br><ul><li>Being part of an on-call rotation to assist finding a resolution during incidents</li><li>Hosting blameless postmortems to share learnings, discover gaps, embrace transparency, and improve reliability across our services</li><li>Building positive and collaborative relationships across the company</li><li>Employing your systems knowledge to triage problems and tune resource usage</li><li>Championing automation to reduce toil and increase development velocity</li><li>Helping define and instrument Service-Level Objectives to ensure epic player experiences</li><li>Leveraging Configuration Management to build and maintain consistency across services</li><li>Building Terraform configs to manage infrastructure in public and private clouds</li><li>Supporting and improving build pipelines with Jenkins, Argo, and/or Spinnaker</li><li>Adopting Containers and Kubernetes for new and existing services</li><li>Applying everything-as-code methodologies across configuration, infrastructure, orchestration, and elsewhere <br></li></ul>You may succeed in this role if you...<br><ul><li>Love to solve novel and exciting problems</li><li>Dislike solving the same problems over-and-over- so you automate or eliminate them</li><li>Are inspired to make everyone's job easier by improving workflows</li><li>Are comfortable digging through metrics, logs, and whatever else is available to triage and fix an incident at any time</li><li>Strive to be better, smarter, and faster tomorrow than you are today</li><li>Enjoy trying new technologies to improve what we're doing today</li><li>Are okay using older technologies that may not be perfect, but are good enough and low maintenance</li><li>Naturally spread the philosophies and practices of DevOps to others</li><li>Like to collaborate with others to solve problems, share knowledge, and provide feedback</li><li>Can self-assess the needs of a system or team, and make a case to prioritize that work</li><li>Relish working with software, network, cloud, and systems engineers to solve problems across all tiers of the stack</li><li>Help your peers succeed as much as you can <br></li></ul>Types of projects you may work on...<br><ul><li>Managing services and infrastructure supporting Blizzard's incredible platforms and games</li><li>Defining the future of running services for our platforms and games with Kubernetes</li><li>Supporting our massive global data platforms across multiple clouds</li><li>Performing and improving service migrations from one cloud/data center to another </li><li>Working closely with our incubation teams to help define how future products should operate</li><li>Integrating monitoring and logging with systems to improve observability and enable Service-Level Objectives</li><li>Designing and executing stress tests to validate scale expectations vs reality <br></li></ul>Areas of Expertise for an SRE at Blizzard<br><br><strong><u>Below Is a Non-exhaustive List Of Technologies SREs May Be Exposed To<br><br></u></strong>SREs at Blizzard are expected to become experts in the technologies used by the teams they are working with.<br><ul><li>Service-Level Objectives (SLI, SLO, SLA, Error Budget, Burn Rate)</li><li>Distributed Systems (architectures, micro-services, high-availability, elections)</li><li>Configuration Management (Puppet, Hiera, Terraform, Terragrunt, Ansible)</li><li>Container Computing (Docker, Kubernetes, Service Mesh)</li><li>Cloud Services and Architecture (AWS, GCP, OpenStack)</li><li>Distributed Message Bus (RabbitMQ, Kafka)</li><li>Proxies and Load Balancing (Nginx, HAProxy, Envoy)</li><li>Monitoring (Prometheus, Kibana, Grafana, Elasticsearch, Datadog)</li><li>Logging (Splunk, SysLog, ELK Stack, Linux Journal, grep)</li><li>Source Control (GitHub Enterprise, Perforce)</li><li>CI/CD (Jenkins, Argo, Spinnaker)</li><li>Linux (bash, debugging, tuning)</li><li>Networking (triaging, packet loss, routing)</li><li>Programming (Python, Go, C#, C++, Shell, PowerShell)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-10T20:26:47.000Z"
+  },
+  "company": {
+    "name": "Blizzard Entertainment",
+    "link": "https://www.linkedin.com/company/blizzard-entertainment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75400,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

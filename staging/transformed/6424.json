@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Wireless Protocol Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Capgemini Engineering combines, under one brand, a unique set of strengths from across the Capgemini Group: the world leading engineering and R&amp;D services of Altran \u2013 acquired by Capgemini in 2020 \u2013 and Capgemini\u2019s digital manufacturing expertise. With broad industry knowledge and cutting-edge technologies in digital and software, Capgemini Engineering supports the convergence of the physical and digital worlds. Combined with the capabilities of the rest of the Group, it helps clients to accelerate their journey towards Intelligent Industry.Capgemini Engineering has more than 52,000 engineer and scientist team members in over 30 countries across sectors including aeronautics, automotive, railways, communications, energy, life sciences, semiconductors, software &amp; internet, space &amp; defense, and consumer products.</p><p><br></p><p><strong>Job Title: Wireless Protocol Engineer</strong></p><p><strong>Type: FTE</strong></p><p><br></p><p><strong>Location:Redmond, WA</strong></p><p><br></p><p><strong>Job Description:</strong></p><p>\u00b7CreatingProtocoltest scenarios ( UMTS+LTE)across all theprocedurethat comply to 3GPP and Carrier requirements</p><p>\u00b7Able to identify theKPIs that make sense for product to definebest user  experienceandfigure out methods to measure the KPIs</p><p>\u00b7Identifying critical scenariosthat impact user experienceon cellular services , map such scenarios to modem procedure, design the test cases on network simulatorstest and optimize the modem or OS platform </p><p>\u00b7Debug latencies in various layers in protocol stack, Hardware interface (such as USB/PCIe ) that could impact power and performance</p><p>\u00b7IdentifyingtheKPIs that will impact the power and performance and define test methods to uncover the issues.Define details test plans and approach for testing, developing test tools to achieve the same. </p><p>\u00b7Windows User mode and kernel mode driver knowledge for networking devices ( Wi-Fi, LTE)</p><p>\u00b7Plan the test approach and scope, write test cases, execute test cases, record and manage defects</p><p>\u00b7communicate issues with greater detail and help development teams to easily understand fix issues faster or assess the level of risk</p><p>Preferably candidates who moved from Modem level to Drivers side experience. </p><p>Hands on work experience is at device side, Understanding on modem protocol, Performance testing. </p><p>And also Windows based system products is a must to have.</p><p></p><p><strong>Main objective</strong> of this team is to work on <strong>LTE modem</strong> &amp; <strong>Windows driver integration</strong> and support issues reported from field, during certification and new surface launches etc.</p><p></p><p><strong>The key skill set expected for these roles</strong></p><p>-LTE protocol knowledge and bug/fixes experience</p><p>-WDM/drivers experience in developing/fixing issues in USB, PCIe etc.</p><p>-PC/Mobile system debug knowledge with JTAG and test equipment</p><p><br></p><p>This company is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:12:16.000Z"
+  },
+  "company": {
+    "name": "Capgemini Engineering",
+    "link": "https://fr.linkedin.com/company/capgemini-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

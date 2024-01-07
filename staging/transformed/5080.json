@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<br><p><strong>THIS IS AN INTERNSHIP ROLE!</strong></p><p><br></p><p><strong>Who we are</strong></p><p>At Paravijjyan we are working to build a platform that would help people do mindfulness practices whenever and wherever they want just by using their mobile phones. We have already AI recognition systems that would predict your accuracy while doing yoga better than a physical trainer that too at the comfort of your own home. We have several other features including Astrology , Meditation and diet recommendation(just by clicking a snap!).</p><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Strong hands-on development experience with Python.</li><li>Experience working with Firebase.</li><li>Experience with Tensorflow.</li><li>Working knowledge of Git, Continuous Integration, and other supporting systems</li><li>Ability to work in an agile work environment where team members are remote.</li></ul><p></p><p><strong>Nice to have</strong></p><ul><li>Experience using Posenet/BlazePose/similar models.</li><li>Experience applying machine learning for Gesture and Real-time detection.</li><li>Experience using Flutter.</li></ul><p><br></p><p><strong>Perks</strong></p><ul><li>Learn and work with like-minded people</li><li>Letter of Recommendation</li><li>Opportunity to turn Full time!</li></ul>",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-20T19:04:38.000Z"
+  },
+  "company": {
+    "name": "Paravijjyan",
+    "link": "https://www.linkedin.com/company/paravijjyan"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning/Reinforcement Learning Software Engineer (Engineer Software 3) - 2633",
+    "industry": "Information Technology and Services,Defense & Space,Computer Software",
+    "description": "A division of Huntington Ingalls Industries<br><ul><li><strong>Defense &amp; Federal Solutions<br></strong><ul><li>Defense &amp; Federal Solutions, a business group within Huntington Ingalls Industries\u2019 Technical Solutions division, helps solve tough national security challenges for the Department of Defense, the intelligence community and federal civilian agencies. Our expert capabilities include intelligence, surveillance and reconnaissance (ISR), and cyber; secure enterprise IT engineering and operations; military training and simulation; logistics management and integrated product support; and fleet maintenance, modernization, repair and sustainment.<br><br></li></ul></li></ul><strong><u>Job Description<br><br></u></strong>HII-Technical Solutions Division (HII-TSD) is currently seeking a Software Developer/Engineer with expertise in artificial intelligence/machine learning (AI/ML) efforts; specifically focused on Reinforcement Learning.<br><br>The project this role will support is a rapid development and deployment effort to develop counter UAS (CUAS) technology for a critical US Department of Defense customer. We are looking for a multi-skilled software developer to join the team to assist in delivering critical AI/ML/RL enabled solutions. A developer joining the project team will learn about the complex multi-disciplinary mission as well as engage with a highly-skilled engineering team delivering a cutting-edge solution to the end customer.<br><br><strong><u>Essential Job Responsibilities<br></u></strong><ul><li>As part of a small internal team, you will play a key role in the software design, development, testing and support for a counter-UAS tool designed to both automatically react to UAS within range and advise a user which action to take.</li><li>Collaborate with a diverse team of engineers from the company, government customer, and various vendors, working in a dynamic and fast-paced environment to meet evolving requirements.</li><li>Develop reinforcement learning to model behaviors in a Unity engine based simulator. Create and train models capable of evaluating and issuing appropriate course of action recommendations. </li><li>Assist in the development of evaluation metrics to assess the effectiveness of AI/ML algorithms in the presentation of CoA options to the warfighter.</li><li>Designs and develops system architectures and AI/ML models.</li><li>Designs, develops, documents, tests and debugs applications software and systems that contain logical and mathematical solutions.</li><li>Conducts multidisciplinary research and collaborates with equipment designers and/or hardware engineers in the planning, design, development, and utilization of electronic data processing systems for product and commercial software.</li><li>Determines computer user needs; analyzes system capabilities to resolve problems on program intent, output requirements, input data acquisition, programming techniques and controls; prepares operating instructions; designs and develops compilers and assemblers, utility programs, and operating systems. Ensures software standards are met.<br><br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li>5 years relevant experience with Bachelors in related field; 3 years relevant experience with Masters in related field; 0 years relevant experience with PhD or Juris Doctorate in related field; or High School Diploma or equivalent and 9 years relevant experience.</li><li>Experience working as part of a technical engineering team.</li><li>AI/ML experience (specifically Reinforcement Learning)</li><li>Experience with standard machine learning techniques, tools and frameworks (Python and its associated libraries) including but not limited to: pandas, numpy, Tensorflow, keras, Pytorch, Torch, etc.</li><li>Applies extensive technical expertise, and has full knowledge of other related disciplines.</li><li>Able to communicate effectively and clearly present technical approaches and findings.</li><li>Develop technical solutions to complex problems which require the regular use of ingenuity and creativity.</li><li>Clearance: Must possess a SECRET clearance and be eligible to upgrade to a Top Secret.<br><br><br></li></ul><strong><u>Preferred Requirements<br></u></strong><ul><li> Master\u2019s degree in engineering, computer science, or other related technical field</li><li>Procedural Environment Creation experience</li><li>Experience using Reinforcement Learning with drones/vehicles</li><li>Experience applying Reinforcement Learning in Unity (preferred) or Unreal environments</li><li>Experience developing a Machine Learning (ML) pipeline from data collection to model training to model deployment</li><li>Experience analyzing large scale data from a variety of sources</li><li>Design, validation, and characterization of algorithms and/or systems</li><li>Redis/NoSQL experience</li><li>Geospatial experience</li><li>Version control experience, git preferred</li><li>Experience with UAVs/CUAS</li><li>TS/SCI preferred</li><li>The position is based out of Fairfax, VA or Annapolis Junction, MD office. Telecommuting may be approved for this position.<br><br></li></ul><u><strong>Physical Requirements<br><br></strong></u>Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.<br><br>Huntington Ingalls Industries is America\u2019s largest military shipbuilding company and a provider of professional services to partners in government and industry. For more than a century, HII\u2019s Newport News and Ingalls shipbuilding divisions in Virginia and Mississippi have built more ships in more ship classes than any other U.S. naval shipbuilder. HII\u2019s Technical Solutions division provides a wide range of professional services through its Fleet Support, Mission Driven Innovative Solutions, Nuclear &amp; Environmental, and Oil &amp; Gas groups. Headquartered in Newport News, Virginia, HII employs more than 42,000 people operating both domestically and internationally.<br><br>Huntington Ingalls Industries is an Equal Opportunity/Vets and Disabled Employer. U.S. Citizenship may be required for certain positions.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T04:19:51.000Z"
+  },
+  "company": {
+    "name": "HII Technical Solutions, a division of Huntington Ingalls Industries",
+    "link": "https://www.linkedin.com/company/hii-technical-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fairfax",
+    "region": "VA",
+    "postal_code": "22003",
+    "street_address": null,
+    "latitude": 38.847122,
+    "longitude": -77.30631
+  }
+}

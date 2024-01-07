@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead/Senior Fullstack Software Engineer",
+    "industry": "Computer Software",
+    "description": "<p>Cvent is an exciting, fast-growing tech company that provides industry-leading software to more than 300,000 event professionals and hoteliers around the world. The economic significance of our industry is undeniable: Meetings and events boost the global GDP by more than $1.5 trillion and impact nearly 26 million jobs; and for more than 20 years, Cvent has led the transformation of our industry with our market-leading technology.</p><p></p><p>Senior Software Engineers are responsible for the design and development of the suite of cloud-based software products utilizing cutting-edge tools and technologies.</p><p><br></p><p><strong>What You Will Be Doing:</strong></p><p><br></p><ul><li>Work on Internet scale applications, where performance, reliability, and scalability, are critical design goals \u2013 not after-thoughts.</li><li>Learn the nuts and bolts of Microservices Architecture and build robust RESTful APIs.</li><li>Create beautiful, interactive, and easy-to-use web applications using modern client-side frameworks and libraries.</li><li>Gain experience with different database technologies, ranging from traditional relational to the latest NoSQL products such as Couchbase and Elastic Search.</li><li>AWS for infrastructure, deploying services with ECS and Lambda</li></ul><p><br></p><p><strong>What You Will Need for this Position</strong></p><p><br></p><p><em>The prerequisites for joining our development team are simple. We care more about your attitude and aptitude than the specific tools and technologies you have used in the past. You need to have a strong passion for software development and must take pride in your coding. You should also have great analytical skills and ability to handle complex, modular software development in a collaborative team-based environment.</em></p><p><em><span class=\"ql-cursor\"></span></em></p><ul><li>5+ years of overall development experience which ideally includes working with an object-oriented language (<strong>Java</strong>)</li><li>Experience with using and implementing RESTful APIs.</li><li>Experience with one or more of the following databases: traditional relational database as well as document/NoSQL storage.</li><li>Experience with JavaScript,<strong>React</strong>/Angular/Vue and<strong>Node.js</strong>. We will also welcome proven engineering leaders who are eager to immerse themselves in mastering<strong>Typescript</strong>/JavaScript and our tech stack</li><li>BS, MS or PhD in Computer Science OR related technical discipline.</li><li>Big plus if prior experience with<strong>videoprocessing</strong>,<strong>streaming</strong>and<strong>video-related</strong>cloud services such as<strong>AWS Elemental</strong>&amp;<strong>Amazon IVS</strong></li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:48:14.000Z"
+  },
+  "company": {
+    "name": "Cvent",
+    "link": "https://www.linkedin.com/company/cvent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Georgia",
+    "region": "United States",
+    "postal_code": "31004",
+    "street_address": null,
+    "latitude": 32.64829,
+    "longitude": -83.444374
+  }
+}

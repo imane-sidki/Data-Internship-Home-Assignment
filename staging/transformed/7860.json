@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Internet",
+    "description": "<strong><u>Company Description<br><br></u></strong>Twitter is what\u2019s happening and what people are talking about right now. For us, life&apos;s not about a job, it&apos;s about purpose. We feel real change starts with conversation. Here, your voice matters. Come as you are and together we&apos;ll do what&apos;s right (not what&apos;s easy) to serve the public conversation.<br><br><strong><u>Job Description<br><br></u></strong><strong>Who We Are<br><br></strong>Twitter Site Reliability Engineering (SRE) scales Twitter to serve the public conversation around the globe! We encourage engineering confidence by systematically making services reliable and efficient, and ensuring changes are safe and fast. Our SRE teams embed deeply with development teams, sharing on-call with a focus on up-leveling services and increasing automation.<br><br>Twitter offers engineers the unique opportunity to personally make a noticeable difference at a company that makes a difference in the world. Our team is seeking someone who enjoys coding and is passionate about solving unique challenges in a large-scale distributed environment. We are passionate about systems performance measurement and tuning, and we love to fix complex distributed service issues.<br><br><strong><u>Who You Are<br></u></strong><ul><li>You have a solid understanding of systems and application design, including the operational trade-offs of various designs</li><li>A detailed problem-solving approach with a track record of crafting and debugging distributed systems in production</li><li>You are adaptable and enjoy working with large, complex, and multi-team owned services</li><li>You seek new initiatives on tasks and work well as a member of a remote and distributed team<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>5+ years of SRE or software engineering experience</li><li>Practical knowledge of shell scripting and at least one higher-level language (Python, Go, Ruby, or similar).</li><li>Solid understanding of Linux servers, specifically RHEL/CentOS.</li><li>Detailed understanding of tools, methodologies, and analysis techniques in a distributed systems environment.</li><li>Experience developing infrastructure, configuration, and deployment scripting and automation for large-scale/high complexity services in a microservice environment.</li><li>Experience dealing with large data sets that inform your knowledge around building robust data pipelines and architectures, and tuning Java applications.</li><li>Experience using containerization software such as Mesos, Kubernetes, or Docker </li><li>B.S. in computer science or similar field or equivalent experience</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T20:51:20.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Insurance",
+    "description": "<p><strong>Principal Architect </strong></p><p>Health IQ is a community of engineers who are passionate about building quality software that rewards the health conscious. Our work environment is collaborative and ownership driven, and as a result, we build products that are well-considered and well-architected. Your skillset will grow at Health IQ. You will join a team excited about the problems we solve and the tools they use to solve them.</p><p>What you will be doing:</p><ul><li>Developing new software solutions to improve the efficiencies and observability of the business</li><li>Work with key stakeholders and technical leadership to define solutions to best solve the problem at hand</li><li>Lead development and continuously improve critical subsystems</li><li>Execute the full SDLC including requirements analysis, architecture and design specification, service development, code review, testing and delivery</li></ul><p>Who we're looking for:</p><ul><li>Undergraduate degree in computer science, or related technical field, required; advanced degree preferred</li><li>8+ years of relevant experience</li><li>Technologies</li><li>Frontend: TypeScript/JavaScript, HTML, CSS development and the latest web-frameworks (React, Angular, etc...)</li><li>Backend: Typescript/Node, Ruby, Java, Python or other server-side object-oriented languages. Experience with web frameworks such as Express, Rails, Spring, Django</li><li>Passion for scalability, latency, stability and performance with an innate ability to understand the trade-offs between acceptable offerings and costs</li><li>Self-motivated and self-managed problem solvers able to jump-in to many areas as required</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:21:23.000Z"
+  },
+  "company": {
+    "name": "Health IQ",
+    "link": "https://www.linkedin.com/company/healthiq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Scottsdale",
+    "region": "AZ",
+    "postal_code": "85266",
+    "street_address": null,
+    "latitude": 33.494907,
+    "longitude": -111.92606
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist / Data Analyst ",
+    "industry": "",
+    "description": "<p><span>Description:</span></p><p><br></p><p>DataScientist/DataAnalyst Requirements</p><p><br></p><p>Location: Anywhere in US but wiling to work Pacific hours.</p><p></p><p><br></p><p>\u00b73+ years ofdatascience,dataanalytics, or business intelligence experience</p><p>\u00b7<strong>Strong understanding of SQL( Strong - Strong)</strong></p><p>\u00b7Experience with conductingdataanalysis in<strong>Python and / or R</strong></p><p>\u00b7Experience building clear and easy to understand dashboards and presentations<strong>(Tableau - Strong )</strong></p><p>\u00b7Ability to communicate clearly and effectively to cross functional partners of varying technical levels</p><p>\u00b7Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insights</p><p><strong>Pluses</strong></p><p>\u00b7Familiarity with Superset</p><p>\u00b7Familiarity with running weblab experiments, efficacy studies, or product validation tests</p><p>\u00b7Familiarity with machine learning basics</p><p>\u00b7Familiarity with Airbnb infrastructure, including Airflow, Presto SQL, and Hive SQL</p><p>\u00b7Experience creating and maintainingdatapipelines</p><p>\u00b7Experience supporting engineering product work</p><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-06T17:31:00.000Z"
+  },
+  "company": {
+    "name": "Cool-Minds LLC",
+    "link": "https://www.linkedin.com/company/cool-mindsllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

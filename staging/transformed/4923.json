@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Application Data Loading",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "The Application Data Loading (LunaDb) team builds the internal frameworks powering all data loading in the Asana web application. The team enables Asana engineers to move fast by collaborating with both product teams on how to design new features, and infrastructure teams to ensure the scalability and performance of Asana. We combine the best ideas from other web technologies with our internal graph server, taking into account Asana\u2019s scale and unique product needs.<br><br>Engineers on this team are closely aware of the product we are building and the needs of the teams working directly on new asana features. We find ways to accelerate this while also considering the performance of the application as a whole, and its behavior as a distributed system.<br><br>We\u2019re looking for an experienced software engineer to further improve the power and simplicity of our frameworks. You\u2019ll contribute to extending our powerful in-house graph query language, as well as the APIs which allow our data-intensive application to be highly performant while automatically responding when users make changes. The team balances short term improvements to unblock new features, with large-scale re-imagining of how software is written at the company.<br><br><strong><u>What You\u2019ll Achieve<br></u></strong><ul><li> Produce high-quality design and code which enable new ways for product engineers to build features </li><li> Own particular areas of our frameworks, and actively advocate for how they can be improved </li><li> Solve to novel engineering problems, balancing product performance and engineer velocity </li><li> Evangelize good code and solid engineering and operability practices <br></li></ul><strong><u>About You<br></u></strong><ul><li> 4+ years of software engineering experience, ideally with some experience building APIs, frameworks, or database abstraction layers. </li><li> Excellent communication skills for collaborating with other teams </li><li> Sound judgment when balancing moving quickly with producing quality code and long-term code maintainability <br></li></ul><strong><u>About Us<br><br></u></strong>At Asana, we're building a better way to work, fueled by transparency, inclusion, and technology that is a force for positive change. Asana is a work management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives, so they can move faster and accomplish more with less. For the past 5 years, we've been named a top workplace, including top 10 <strong><u> Great Place to Work </u></strong> Best Small &amp; Medium Workplaces, #1 Fortune Best Workplace in the Bay Area for four years in a row, #8 Fortune Best Workplaces for Women, #14 <strong><u> Glassdoor Best Place to Work </u></strong>, and one of <strong><u> Ireland's Best Workplaces </u></strong>. After spending more than a year physically distanced, we are safely and mindfully returning our global teams to in-person collaboration, incorporating flexibility that adds hybrid elements to our <strong>office-centric culture</strong> . With offices all over the world, we are always looking for curious, collaborative, and mission-driven people to help us enable the world\u2019s teams to work together effortlessly.<br><br>We believe in supporting people to do their best work and thrive, and building a diverse, equitable, and inclusive company is core to our mission. Our goal is to ensure that Asana upholds an inclusive environment where all people feel that they are equally respected and valued, whether they are applying for an open position or working at the company. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, and veteran status.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:29:04.000Z"
+  },
+  "company": {
+    "name": "Asana",
+    "link": "https://www.linkedin.com/company/asana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115000,
+    "max_value": 179000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

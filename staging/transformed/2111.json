@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Aviation & Aerospace,Defense & Space",
+    "description": "Location: Irvine, United States of America<br><br>Thales people architect solutions that enable two-thirds of planes to take off and land safely. We create in-flight entertainment systems that engross 50 million fliers every year and we develop the avionics that control the world\u2019s largest commercial aircrafts. Our simulators train the next generation of pilots for fighter jets, transporters and search and rescue helicopters. And, together, each and every member of our aerospace team makes a difference.<br><br><strong>Thales</strong> is seeking a<strong> Principal Software Engineer</strong> to be based in Irvine, California. The Principal Software Engineer will join our Software organization to lead and drive the development of new features of our next generation InFlight Entertainment and Connectivity (IFEC) product suite. This role will ensure and own software design and implementation in order to meet software requirements defined by system team and software architects. In addition, is responsible to provide estimations of the software development efforts and then with the team to deliver the features on time and within the budget allocated. The candidate must be a proficient technical leader for the software team members and have experience in developing and modifying middleware in charge of multiple interfaces (Ethernet, RS485) and associated functions (Software download). The Principal Software Engineer will work with SW architects and SW developers using Agile methods like Scrum and will also work with Integration &amp; Verification team to identify root causes of remaining issues.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li>Responsible, based on SW architecture definition, for driving design and development of communication services (C++) on server and client Linux and Android based systems.</li><li>Leads the Software components engineers technically by communicating the software design to other Software engineers, providing technical guidance and ensuring development rules are followed.</li><li>Responsible to meet the quality objectives for each software components and to propose to management improvement actions to reduce the technical debt.</li><li>Owns the code reviews process of each code change.</li><li>Must be quality focused in terms of software delivery and adherence to the code maintainability and testability within the phases of software development lifecycle</li><li>Analyze existing designs, propose to management and implement software refactoring</li><li>Create proof-of-concepts as necessary to demonstrate new ideas/technologies</li><li>Ensures that the software team is engaged and work with sense of urgency and accountability</li><li>Ensures that the software team uses efficiently Agile processes and practices based on Scrum. Requires to be self-driven within the context of the sprint commitments</li><li>Ensures that software engineers are increasing their skillset by providing technical feedback, training and tutoring them.</li><li>Responsible for mentoring junior team members as needed<br><br></li></ul><strong><u>Required Skills And Experience<br></u></strong><ul><li>Bachelor Degree in technical discipline- Computer Science, Information System or Engineering</li><li>Minimum 8 to 10 years of experience</li><li>6+ years of experience Agile SW development or embedded software development experience</li><li>OR 8+ years of experience Agile SW development or embedded software development experience</li><li>Experience with and be fluent in C, C++, shell scripting, networking protocols and database management</li><li>Previous expertise in the Linux operating system</li><li>Previous experience working with Object Oriented Programming concepts and design patterns, and abstraction methodology</li><li>Experience in software design and development of Linux-based systems following an industrial process</li><li>Familiar with open source technologies</li><li>Knowledge of the Scrum development process and Continuous Integration practices and tools (e.g. Jenkins, Sonar, GIT, BitBucket, JIRA)</li><li>Knowledge of all phases of software development lifecycle: requirement analysis, design, implementation, code review, testing, and release</li><li>Self-motivated, critical thinker with strong technical background</li><li>Good verbal and written communication skills</li><li>Proficiency in troubleshooting issues during development lifecycle and use necessary tools to measure software quality/performance</li><li>Experience with IFE systems is a plus</li><li>Experience in developing complex Java on the Android and Linux platform is required.</li><li>Good communication skills that will help in the job of leading, and facilitating technical discussions between software developers.<br><br></li></ul><strong><u>Preferred Skills And Experience<br></u></strong><ul><li>Master Degree preferred<br><br></li></ul>Thales champions inclusion and we believe diversity strengthens the fabric of our culture. We are an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law If you need an accommodation or assistance in order to apply for a position with Thales, please contact us at talentacquisition@us.thalesgroup.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:13:49.000Z"
+  },
+  "company": {
+    "name": "Thales",
+    "link": "https://fr.linkedin.com/company/thales"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97300,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Games",
+    "description": "<p>Hi-Rez Studios is hiring a Machine Learning Engineerto work at our studio in Alpharetta, Georgia.</p><p><br></p><p>At Hi-Rez, you will have an opportunity to be part of an innovative environment that embraces new and different ideas. We are a passionate and enthusiastic bunch who love video games. We have incredibly talented individuals who are empowered to create, &amp; challenged to learn. All of this means more opportunities for you to unleash your ingenuity, energy, collaboration, and dedication.</p><p><br></p><p>Come join the creator of the critically acclaimed SMITE, Paladins,and Rogue Company<em></em>as we embark on exciting new online game projects.</p><p><br></p><p><strong>What our ML Engineers do at Hi-Rez Studios:</strong></p><ul><li>Design, develop and maintain machine learning solutions in a Live environment.</li><li>Build, validate, and iterate on models to optimize based on stakeholder goals.</li><li>Identify, find, utilize and create relevant data in relational and non-relational databases.</li><li>Create and utilize data pipelines and distributed computing architecture.</li><li>Effectively communicate with various cohorts with varied technical expertise.</li><li>Meet with internal and external stakeholders to define requirements and goals.</li><li>Operates within the context of generally defined procedures.</li><li>Implements defined tasks of unit / team / projects.</li><li>Supports attainment of some short- and mid-term objectives of assigned unit / team projects.</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>2+ years of experience in one or more of the following: machine learning, big data, and modeling techniques such as Classification, Regression, Clustering, Dimensionality Reduction, Preprocessing, and model selection / ensembling.</li><li>Especially qualified candidates will also have experience in Reinforcement Learning, Deep Learning, and / or Unreal Engine.</li><li>Strong computer science fundamentals including knowledge of data structure and algorithms, computational complexity, and object-oriented / functional programming designs.</li><li>Strong coding and debugging skills in one or more of the following: Python, R, SQL, and respective scientific computing packages.</li><li>Especially qualified candidates will also have experience in C++, SQL, Scala, Java, Julia.</li><li>Exposure to multiple statistical distributions, a clear understanding of linear algebra, multi-dimensional matrix and vector operations, algorithms, and calculus.</li><li>Experience with large amounts of data, especially in a distributed format.</li><li>Interest and ability to dig deeper than the surface of a question in order to fully understand a problem space.</li><li>Ability to independently formulate a hypothesis, define data requirements, and analyze data required.</li><li>Ability to work collaboratively and communicate well with multiple teams outside of the Analytics team.</li><li>Comfortable receiving constructive group criticism and making technical adjustments to meet performance guidelines.</li><li>Excellent work ethic, self-motivated, organized, and able to meet deadlines.</li><li>A passion for data and playing video games.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T11:59:16.000Z"
+  },
+  "company": {
+    "name": "Hi-Rez Studios",
+    "link": "https://www.linkedin.com/company/hi-rez-studios"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

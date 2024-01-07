@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p>We are Prediction Machine, a nascent quantitative trading firm.</p><p><br></p><p>We believe algorithmic portfolio management will undergo dramatic change in the coming years. We are here to be a part of this change. Every reinvention begins with a blank sheet of paper, and a willingness to reason from first principles.</p><p>This is where Prediction Machine enters the picture. Our first move in this direction was a global search for talent. To paraphrase Elon Musk, we are building the team that will build the solution.</p><p><br></p><p>Our goal is to ship investment strategies that outperform because they leverage unusual data, or usual data in an unusual way, and rely on massive computational abilities to make plausible, sample-efficient estimates.</p><p><br></p><p>See more about us at https://www.predmachine.com</p><p><br></p><p><br></p><p>As a quant or a data scientist, you are expected to bring strong experience in building and deploying scalable machine learning algorithms. You will work with a team of motivated individuals on building trading algorithms and strategies, while being responsible for monitoring the health of your deployed algorithms. You will be expected to rigorously test your models for data integrity, statistical significance and numerical stability.</p><p><br></p><p>You are someone with;</p><p>3+ years of experience in Python, SQL, machine learning</p><p>Machine Learning training/inference with GPUs is a plus</p><p>3+ years of experience in data processing libraries like pandas, numpy, scipy and pyAthena</p><p>3+ years of experience in REST APIs, Flask, FastAPI</p><p>2+ years of experience in AWS or any other cloud computing platform</p><p>Prior experience in machine learning with large scale time series/financial/quantitative datasets</p><p>Strong demonstrated experience in deployment grade machine learning</p><p>Prior experience in assessing code quality and building machine learning codebase with proper engineering fundamentals</p><p>Exposure to interdisciplinary collaboration, especially involving domain expertise</p><p>Experience with AWS Athena and Redshift is a plus</p><p>Knowledge of Pyspark or other distributed computing frameworks is a plus</p><p>Strong oral and written communication skills</p><p>Capacity to operate independently and make sense of limited directions, especially capable to identify the underlying unknowns</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T20:40:58.000Z"
+  },
+  "company": {
+    "name": "Prediction Machine LLC",
+    "link": "https://www.linkedin.com/company/prediction-machine"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

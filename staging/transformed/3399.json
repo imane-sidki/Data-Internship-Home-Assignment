@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<br>Hi, <br><br>We are have an opportunity for the below job. We will request you to revert back with your resume. <br><br>Position: Data Scientist<br>Location: Plano TX (Currently Remote \u2013 Will be Onsite until the further announcement.<br>Duration: Long Term<br>Job Description:<br><br>Duties to Perform<br>\u2022\tBuild proof-of-concept models using a prototype infrastructure<br>\u2022\tBring proof-of-concept models into production using prototype infrastructure<br>\u2022\tCommunicate shortcomings or improvements to multi-language API for database interaction<br>\u2022\tBuild proof-of-concept feature engineering batch and streaming jobs <br>\u2022\tCreate and present Powerpoint decks describing work to both technical and non-technical audiences<br>\u2022\tAssist in design and brainstorming sessions for prototype capabilities<br><br>Required Skill & Experience<br>\u2022\tExpert in Azure Cloud (*Machine Learning*: Event Hub/Streaming Analytics, HDI, DB, Azure ML, Azure Log Analytics, Databricks)<br>\u2022\tStrong statistics and machine learning fundamentals<br>\u2022\tDemonstrated experience putting models into real-time production <br>\u2022\tExperience with Python required; R, Scala, and (Java nice to have)<br>\u2022\tExperience with Spark DataFrame and SQL API's required.  Spark streaming/structured streaming are nice to have<br>\u2022\tExperience with Azure Cloud<br>\u2022\tExperience with Databricks(Spark, Delta Lake, MLFlow)<br>\u2022\tExperience with H2O Driverless AI<br>\u2022\tExperience with Kafka/Azure Event Hub<br>\u2022\tStrong Team Player<br>\u2022\tStrong problem-solving skills<br>\u2022\tStrong communication skills and the ability to describe shortcomings in system design<br>\u2022\tA strong desire and ability to learn new tools and technologies.<br>\u2022\tAirflow experience is nice to have<br><br>Technical Environment<br>\u2022\tAzure<br>\u2022\tSQL / Mongo DB<br>\u2022\tPython / Pyspark<br>\u2022\tKafka / EventHub<br>\u2022\tLinux and Shell Scripting<br>\u2022\tPossibly R, Scala and Java<br>\u2022\tDatabricks<br>\u2022\tAzure data production and consumption tools (Event Hub, Azure Functions, Streaming Analytics,<br><br>Regards,<br>Suganya <br><br>What's app :91 9043392040. <br>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-13T13:59:23.000Z"
+  },
+  "company": {
+    "name": "To be disclosed",
+    "link": "https://www.linkedin.com/company/to-be-disclosed"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

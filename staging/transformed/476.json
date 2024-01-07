@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong>Introduction<br></strong>The data science team at iRobot builds models, runs experiments, and conducts analyses to understand our fleet of millions of consumer robots. Our expertise in machine learning, statistical analysis, experimentation, and focus on the customer help us to produce data-driven digital features for robots and users around the world. Join our team as a data scientist with a focus on marketing applications!<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Perform analyses and data mining to better understand our customers and our business, joining data points across multiple sources.</li><li>Develop metrics to track company performance, contribute to data definitions, and write documentation.</li><li>Build models to forecast revenue, understand attribution or LTV, and predict conversion or churn rates.</li><li>Test hypotheses about company performance using appropriate statistical methods.</li><li>Uphold scientific best practices in experimental design and testing.<br><br></li></ul><strong><u>To Be Successful You Will Have<br></u></strong><ul><li>Bachelor\u2019s degree in a STEM field or social sciences \u2013 M.S is a plus!</li><li>At least 1-2 years of relevant job, internship, or co-op experience at a direct-to-consumer brand, marketing agency, or consultancy.</li><li>Proficient in Python (pandas, numpy, sklearn, scipy), SQL, and data visualization (matplotlib, seaborn, or plotly).</li></ul><ul><li>Possess fundamental understanding of machine learning algorithms (e.g. regression, decision trees, time-series analysis, clustering, etc.)</li><li>Savvy in statistical methods and able to select the right test for the situation.</li><li>Can balance business considerations with the need for scientific rigor.</li><li>Customer-focused, with demonstrated experience in the marketing domain.</li><li>Self-motivated and comfortable working in a fast-paced, delivery-focused environment.</li><li>Skilled communicator who can collaborate effectively across multiple teams.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T14:28:22.000Z"
+  },
+  "company": {
+    "name": "iRobot",
+    "link": "https://www.linkedin.com/company/irobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91000,
+    "max_value": 154000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bedford",
+    "region": "MA",
+    "postal_code": "01730",
+    "street_address": null,
+    "latitude": 42.492237,
+    "longitude": -71.279945
+  }
+}

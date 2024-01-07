@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>We are looking to on board a DevOps engineer to help us with deployment pipeline construction. This role will also include provisioning, configuration and management of cloud native resources. The candidate will need to work with core app engineering teams, gather their requirements and help implement them through the deployment pipeline. The candidate is required to have sound knowledge of DevOps, reliability, and security best practices and be able to guide the team on the optimal approach to accomplish their requirements.</p><p></p><p><strong>Location:</strong>NY Area preferred. Remote candidates may be expected to visit NY office periodically (1/2 a quarter) post-COVID relaxations.</p><p><strong>Term</strong>: Contract with option to hire.Starting contract period will be 6 months.</p><p><br></p><p><strong>Required Skills:</strong></p><ul><li>Experience working with CI/CD tools like Jenkins,Ansible, puppet, Drone, Terraform.</li><li>Application secret management and configuration management</li><li>Knowledge of application containerization using Beanstalk, GKE, Docker etc.</li><li>Knowledge of AWS Cloud \u2013 IAM, EC2, RDS, Lambda, Kinesis, Elastic search, CloudWatch, etc.</li><li>Experience in provisioning of cloud resources through CI/CD pipeline</li><li>Setting of application health checks on tools like New Relic, Sumo Logic, Data dog etc.</li><li>Understanding of Virtual VPC setup and networking.</li><li>Excellent communication and stakeholder management skills.</li></ul><p><br></p><p><strong>--</strong></p><p><strong>RiVi Group</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T18:34:44.000Z"
+  },
+  "company": {
+    "name": "RiVi Consulting Group L.L.C",
+    "link": "https://www.linkedin.com/company/rivi-consulting-group-l-l-c"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

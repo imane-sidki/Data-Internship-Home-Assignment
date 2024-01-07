@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "The vision of the Azure Solutions Team in Azure CXP is to empower every Azure customer and Azure service provider with best in class troubleshooting experiences to solve any issue or answer any question they have. This mission requires a highly scalable, reliable, constantly evolving infrastructure, and extensible platforms. We are a platform team that deals in full-stack development to define, implement, and own end-to-end experiences that other teams extend. The experiences are shipped on the Azure Portal and APIs (ARM Troubleshoot resource provider) expose the capabilities to several other portals in all Azure clouds. We support 250+ active developers a month and the solutions that they make on our platform run &gt;30M times a month.<br><br>We are a young, agile, and dynamic team with a startup culture that loves to take on big challenges, solve them and unleash the vibrant developer ecosystem, that we have grown over the years, to write extensions and leverage the solutions we define and implement. This ecosystem is coupled with steady platform adoption by many Microsoft services that is constantly challenging us with customization requests and simplicity demands. As a member of the team, you\u2019d be getting opportunities to deal with these technical challenges on a regular basis and take our platform innovation to next level.<br><br>We are looking for motivated, accomplished, and proven software engineers who are eager to tackle frontend frameworks and innovative ideas to reuse controls that highlight the information from each solution across multiple clients. The candidate will get the opportunity to define, drive, build and manage services ground up with strong fundamentals to help Azure customers have a great troubleshooting experience. We are heavily invested in React in all the clients we support. The candidate is expected to drive horizontal efforts that improve the fundamentals of shipping and running a service across all the sister teams too.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Take Azure Solutions Platform to next level by implementing frameworks and UI patterns to power the next generation of solutions to help Azure customers solve their issues and answer their questions.</li><li>Provide hands-on technical leadership to the software engineering team on architecture, design, and development.</li><li>Must work closely with PMs, designers, and stake holders to understand and manage requirements and resolve conflicts. Balance out the need for customization and the need to keep authoring of solutions whose information the controls would show simple and intuitive.</li><li>Coach team members and help them improve their technical skills.</li><li>Partner with the Engineering Manager and Product Manager to define the roadmap.</li><li>Learn &amp; work effectively in a highly ambiguous, rapidly evolving environment.<br><br></li></ul><strong><u>Qualifications<br><br></u></strong>Basic Qualifications:<br><ul><li>BS or MS degree in Computer Science.</li><li>5+ years of development experience in C++ or C# or Java.</li><li>5+ years of development experience in React and fluent design patterns.</li><li>Strong knowledge of frontend and backend design patterns. Proven track record of developing &amp; managing software services.</li><li>Experience with one or more cloud platforms (e.g., Azure, AWS, GCP).<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Solve problems by leading with deep passion, over obsession, and empathy for customers.</li><li>Excellent communications skills and proven ability to drive large-scale, cross-organizational initiatives.</li><li>Extensive design experience and fluency in design patterns, with attention to security, performance, reliability, scalability, and developer experience.</li><li>Proven ability to deliver innovative and durable solutions for ambiguous problems.</li><li>Familiarity with other technologies like Kafka, Cassandra, Hadoop, Docker, Kubernetes is a bonus.<br><br></li></ul><strong><u>Requirements<br><br></u></strong>These requirements include, but are not limited to the following specialized security screenings<br><br>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.<br><br>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br><br>#azcxp #microsoftatl<br><br>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:04:58.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 150000,
+    "max_value": 182000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

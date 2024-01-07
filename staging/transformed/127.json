@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "<strong>SiteZeus </strong>is hiring a <strong>Machine Learning Engineer</strong> to join our growing product team! Our ideal candidate has a strong background in Azure, scalable Machine Learning solutions, and the Microsoft suite of application development.<br><br>SiteZeus is a location intelligence SaaS platform based out of Tampa, FL and founded in 2013. We are a remote organization focused on company culture, industry changing technology, and employee value. Our customers use SiteZeus to make better decisions about where to build their next physical locations, and how to optimize their investment in existing locations. We empower brands to pick the very best locations by employing the very best people and giving them the tools to succeed.<br><br><strong><u>Responsibilities And Duties<br></u></strong><ul><li>Be the forefront of development of an industry changing product.</li><li>Build machine learning pipelines and deploying scalable models to production environments.</li><li>Implement code for production-grade ML systems in Python or R.</li><li>Produce code that is modular, efficient, scalable, and maintainable.</li><li>Regularly participate in Agile ceremonies including daily scrum, refinement, sprint planning and retrospectives</li><li>Make suggestions for process improvements consistent with our theme of continual process improvement<br><br></li></ul><strong><u>Qualifications And Skills<br></u></strong><ul><li>6+ years of relevant work experience.</li><li>Solid understanding of machine learning models, data analysis, and a variety of supervised and unsupervised learning methods.</li><li>Experience building ML pipelines using cloud-based ML services, such as Azure Machine Learning SDK preferred.</li><li>Experience building ML pipelines that integrate with products based on the Microsoft platform, including .NET, Azure, C#, PowerShell, and related tools preferred.</li><li>Experience building models using deep learning tools preferred.</li><li>Experience applying CNNs, RNNs, LSTMs, and related techniques to computer vision tasks preferred.</li><li>Experience building models with geospatial data, mobile movement data, or street view/satellite imagery preferred.</li><li>Experience working with multi-terabyte scale datasets.</li><li>A Bachelor's degree in Computer Science, Mathematics, Statistics, or another STEM field. Masters or PhD preferred.<br><br></li></ul><strong>Why work at SiteZeus?<br></strong><ul><li>Work from home, from our Tampa office, or hybrid! We operate fully remote.</li><li>Unlimited PTO that we WANT you to use.</li><li>401k, Health, Dental, Legal and loads of awesome traditional benefits.</li><li>Paid parental leave for Mother, Father, or Partner + dedicated nursing room in Tampa HQ.</li><li>Paid monthly community service time.</li><li>Paid company summits (Technology, Sales, Etc).</li><li>Flexible work hours.</li><li>Serious wellness programs to make your work-life balance better than ever.</li><li>Equity gaining opportunities after one year of employment (based on performance).</li><li>Monthly incentive for meeting sales goals (This is in addition to listed compensation).<br><br></li></ul><strong>Hiring Process<br><br></strong>Below is our hiring process for this position. We will reach out or send a rejection notice within 1-3 business days of applying. SiteZeus promises to value your time and professionalism in every step of the process.<br><ul><li>Quick Screening.</li><li>Interview with the Tech Team.</li><li>Interview with the Hiring Manager.</li><li>Final Interview with Executive Leadership<br><br></li></ul><strong>Everything Else<br><br></strong>SiteZeus is proud to be an equal opportunity employer that celebrates diversity, culture, and the human experience. We go above and beyond to ensure that all team members feel comfortable about who they are and the contributions they make to our mission. Our team is highly encouraged to find a balance that allows for optimal fulfillment at work and home.<br><br>All applicants must be legally authorized to work within the United States. All roles may require prolonged periods of sitting at a desk, working on a computer, and corporate communication skills. Further, SiteZeus takes physical health seriously and has processes in place to minimize the spread of Covid-19 at its Tampa HQ. Degree requirements and preferences may be substituted for bonified work history or relevant experience.<br><br>Powered by JazzHR<br><br>FYYlbW8sFF",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T08:40:02.000Z"
+  },
+  "company": {
+    "name": "SiteZeus",
+    "link": "https://www.linkedin.com/company/sitezeus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65900,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

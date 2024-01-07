@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Platform Operations Engineer",
+    "industry": "Broadcast Media,Entertainment,Media Production",
+    "description": "<strong>Responsibilities<br><br></strong>SportsEngine, Inc., an NBC Sports Group company and leading provider of Sport Relationship Management (SRM) software, is hiring a Senior Platform Operations Engineer to join our Platform Operations Team. This role is a unique opportunity to join a team that builds and supports the core infrastructure that runs the SportsEngine Platform services and products. This position spans multiple skill sets, from Software Developer to Web Operations. Our platform-driven approach means defining and standardizing organizational best practices, and then building them into our Kubernetes-based infrastructure platform. This role is open to remote applicants. Applicants in the Minneapolis area have the option of working out of our Minneapolis office space. We strive to have a remote and hybrid friendly work environment, giving our employees the flexibility to choose what works best for them.<br><br>The key responsibilities of the Senior Platform Operations Engineer include;<br><br><ul><li>Ensuring the SportsEngine platform is up and running smoothly while serving a large volume of traffic.</li><li>Using Amazon Web Services to build highly available services for the SportsEngine infrastructure platform built on top of the Amazon Elastic Kubernetes Service.</li><li>Helping to foster a culture of cooperation, coordination and continuous learning within the Platform Operations Team and with other Product Development teams throughout SportsEngine.</li><li>Working closely with the SportsEngine Cyber Security Team to maintain and improve the security of the SportsEngine Platform.</li><li>Contributing to and using our GitHub Pull Request-centered development pipeline as we continuously deliver value to our customers.</li><li>Using tools such as Newrelic and Datadog to monitor the health of the SportsEngine platform.</li><li>Being an advocate for quality code and engineering practices that enable Continuous Delivery.</li><li>Participation in the 24x7 on-call rotation<br><br></li></ul><strong>Qualifications/Requirements<br><br></strong><ul><li>5 or more years of experience in the field of Software Engineering, either;<br><br></li></ul>\u25cb Operating web applications in a Site Reliability Engineering, Web Operations, or Cloud Engineering capacity.<br><br>\u25cb Building web applications as a Software Engineer using Ruby, Javascript, .Net, Python, etc.<br><br><ul><li>A strong foundation in modern coding practices and the ability to write quality, modular, maintainable, secure and testable code.</li><li>A team-oriented attitude and seemingly endless intellectual curiosity.</li><li>Excellent verbal and written communication skills.<br><br></li></ul><strong>Desired Characteristics<br><br></strong><ul><li>Experience with any of the following:<br><br></li></ul>infrastructure as code (Terraform, Chef, Puppet, Ansible,<br><br>or similar), containers (docker, kubernetes), datastores<br><br>(Mysql, Redis, ElasticSearch), or data streaming<br><br>(SNS/SQS, Kinesis).<br><br><ul><li>Experience troubleshooting SAAS based production systems in an incident response capacity.</li><li>Experience in a continuous delivery environment shipping code on a daily basis.</li><li>Bachelor's degree in Computer Science (or equivalent).<br><br></li></ul><strong>Sub-Business<br><br></strong>SportsEngine<br><br><strong>Career Level<br><br></strong>Experienced<br><br><strong>City<br><br></strong>Remote<br><br><strong>State/Province<br><br></strong>Remote<br><br><strong>Country<br><br></strong>United States<br><br><strong>About Us<br><br></strong>NBCUniversal is one of the world\u2019s leading media and entertainment companies in the development, production, and marketing of entertainment, news, and information to a global audience. NBCUniversal owns and operates a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, and world-renowned theme parks.<br><br>NBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. The sports media company consists of NBC Sports, NBC Olympics, NBCSN, Golf Channel, Olympic Channel: Home of Team USA, NBC Sports Regional Networks, NBC Sports Radio and NBC Sports Digital, which includes NBCSports.com, NBCOlympics.com, GolfChannel.com, the digital assets of the NBC Sports Regional Networks, Rotoworld, the NBC Sports Talk franchise, multiple apps, and two transactional sports businesses, GolfNow and SportsEngine. NBC Sports Group possesses an unparalleled collection of television rights agreements, partnering with some of the most prestigious sports properties in the world: the International Olympic Committee and United States Olympic Committee, the NFL, NHL, NASCAR, INDYCAR, PGA TOUR, The R&amp;A, PGA of America, Churchill Downs, Premier League, Tour de France, French Open, and many more.<br><br><strong>Notices<br><br></strong>NBCUniversal\u2019s policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. NBCUniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the City of Los Angeles Fair Chance Initiative For Hiring Ordinance, where applicable.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:25:03.000Z"
+  },
+  "company": {
+    "name": "NBCUniversal",
+    "link": "https://www.linkedin.com/company/nbcuniversal-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

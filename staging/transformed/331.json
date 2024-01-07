@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Performance Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Ice Mortgage Technology is the leading cloud-based platform provider for the mortgage finance industry. Ice Mortgage Technology solutions enable lenders to originate more loans, reduce origination costs, and reduce the time to close, all while ensuring the highest levels of compliance, quality and efficiency. Visit IceMortgageTechnology (to learn more.ICE Mortgage Technology is seeking a Performance Engineer to join the Performance Engineering team. This person would be responsible for ensuring the end to end application performance and capacity of our market leading enterprise cloud solution. Deliver highly available, responsive, scalable and top quality applications/services performance; delighting our customers.ResponsibilitiesWork with Product Management, Product Engineering, Cloud Infrastructure, and Data Engineering teams to find the optimal way to scale applications and the infrastructure.Own end-to-end product performance of all EllieMae applications and services.Support architecture design, assist in defining networking requirements, and help code/debug to deliver high quality product releases.Develop capacity studies to predict infrastructure growth projections in the areas of compute (cpu/memory), storage and network.Perform load and stress analysis of end to end application performance on infrastructure, capacity planning of APIs and key services.Construct complex workloads and data shapes to expose potential bottlenecks in the application or the infrastructure.Innovate solutions to improve performance engineering effectiveness.Play a key role in production incident analysis and troubleshooting. Requirements (Must Have)Bachelor's Degree in Computer Science or equivalent from an accredited college or university.At least 3+ years of experience in performance engineering, capacity panning with in depth knowledge of identifying and debugging application/infrastructure performance problemsExperience with the following:Strong hands on experience in coding &amp; scripting languages such as Java, C#, Perl, Python, Tcl.Software application performance tuning over a visualized system and infrastructure.Debugging, Monitoring, Optimization: Using AppDynamics, Dynatrace, NewRelic, LoadRunner, Webload, JMeter or similar tools.Hands on experience with application code instrumentation (Java or C#) and database profiling.In depth knowledge of database fundamentals and architecture (MS SQL Server, Oracle and MongoDB)Be a thinker, help in finding performance bottlenecks, debug to get RCA and provide/recommend a working solution.Outstanding attention to details and strong communication skillsRequirements (Preferred)Successfully completed AWS or Azure Solutions Architect Associate/Professional certification exam.Good troubleshooting and performance tuning experience with AWS components like Dynamo, Kinesis, Lambda, etc.Knowledge and hands on experience working with distributed caching systems like Hazelcast, Redis, etc.Excellent understanding of how a high transactional system scales the infrastructure load balancers, filers, firewalls. Mortgage Technology is an equal opportunity and affirmative action employer. Women, minorities, people with disabilities, and veterans are encouraged to apply.We do not accept resumes from headhunters, placement agencies, or other suppliers that have not signed a formal agreement with us.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:01:17.000Z"
+  },
+  "company": {
+    "name": "ICE Mortgage Technology",
+    "link": "https://www.linkedin.com/company/icemortgagetechnology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

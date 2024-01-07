@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "<p><strong>About the job</strong></p><p>We are a hyper-growth eCommerce start-up with a mission to bring a smile to people's faces by connecting them to products that bring nourishment, love, memories, connection, nostalgia, and comfort.We've recently closed our Series C funding for $110M and are looking to scale our AI &amp; Data practice. </p><p><br></p><p>We are looking for a top Machine Learning Engineer to join our team in New York. You will be joining a small team of experienced ML engineers and have the opportunity to learn and have a significant impact on mission critical projects. The team is building deep learning models for RecSystems, Personalization, and Search functionality. </p><p><br></p><p><strong>Core Responsibilities</strong></p><ul><li>Collaborate with cross-functional teams of data scientists, data engineers, software engineers, and machine learning engineers. </li><li>Research and implement best-in-class ML approaches to e-commerce problems.</li><li>Develop a deep subject matter expertise of how our marketplace functions across the entire user journey</li><li>Own and iterate upon our various recommendation , personalization, and search engines.</li><li>Oversee end-to-end model lifecycle development</li><li>Deploy ML models into production</li><li>Drive meaningful ROI and impact upon our full funnel acquisition and retention</li></ul><p><br></p><p><strong>Basic Qualifications</strong></p><ul><li>B.S. in a quantitative field i.e. Computer Science, Engineering, Physics, Mathematics, etc. </li><li>1-5 years of experience building production level Machine Learning models </li><li>Excellent programming and debugging skills in Python</li><li><span>Experience with deep learning frameworks &amp; libraries i.e. PyTorch, Tensorflow, etc. </span></li><li>Strong ML background in at least one of the following areas: NLP, Search, recommendation, personalization, ranking/relevance, etc. </li></ul><p><br></p><p><strong>Nice to Have: </strong></p><ul><li>Advanced Degree in a quantitative field (M.S. / Ph.D) </li><li>Direct E-Commerce Experience</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T15:10:54.000Z"
+  },
+  "company": {
+    "name": "Alldus",
+    "link": "https://ie.linkedin.com/company/alldus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

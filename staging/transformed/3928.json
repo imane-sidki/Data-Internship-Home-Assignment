@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Senior Engineer",
+    "industry": "Financial Services",
+    "description": "<strong>You won\u2019t just shape the world of software.<br><br></strong><strong>You\u2019ll shape the world of life, work and play.<br><br></strong>Our Software Engineers not only understand how technology works, but how that technology intersects with the people who count on it every day. Today, innovative ideas, insight and new perspectives are at the core of how we create a more powerful, personal and fulfilling experience for all our customers. So if you\u2019re interested in a career creating breakthrough software and making an impact on an audience of millions, look no further.<br><br><strong>You won\u2019t just keep up, you\u2019ll break new ground. <br><br></strong><strong><u>Here\u2019s Just Some Of What You\u2019ll Be Doing<br><br></u></strong>There are hundreds of opportunities to make your mark on technology and life at American Express.<br><ul><li>Taking your place as a core member of an agile team driving the latest development practices</li><li>Writing code and unit tests, working with API specs and automation</li><li>Identifying opportunities for adopting new technologies</li><li>Leading a team of engineers that delivers knowledge management solutions to businesses worldwide<br></li></ul><strong><u>Qualifications - Internal<br></u></strong><ul><li>BS or MS degree in computer science, computer engineering, or other technical discipline - or equivalent industry experience. </li><li>4-5 years of software development experience\u202f </li><li>4-5 years of operational experience managing and operating mission critical systems\u202fand infrastructure.\u202f </li><li>Extensive experience operating and maintaining mission critical systems applying Site Reliability principles.\u202f </li><li>Strong experience in applications\u202fand infrastructure\u202fwith high throughput and performance.\u202f </li><li>Passionate about meeting key system indicators including SLAs, SLIs, SLOs.\u202f </li><li>Extensive experience in designing and implementing large scale platforms with high resiliency, availability, and reliability.\u202f </li><li>Experience with interfacing, configuring, and troubleshooting docker Container Runtimes and Runtime interfaces (cri-o, containerd, runC, crun, etc.) </li><li>Experience with micro services architectures\u202fand its operational challenges\u202fis preferred.\u202f </li><li>Ability to effectively interpret technical and business objectives and challenges and articulate solutions.\u202f </li><li>Willingness to learn new technologies and exploit them to their optimal potential\u202f </li><li>Enterprise application/framework incident management <br></li></ul>\u202f<br><br>Every member of our team must be able to demonstrate the following technical, functional, leadership and business core competencies, including:\u202f<br><ul><li>Broad knowledge of infrastructure automation technologies like ansible, chef, puppet,\u202fbash,\u202fcontainers.\u202f </li><li>Broad knowledge of CNCF and Kubernetes ecosystem and how to leverage Kubernetes to drive automation and reduce toil.\u202f </li><li>Passionate about\u202fstate-of-the-art\u202fvisibility:\u202fLogging, tracing, Monitoring, alerting, dashboarding, and timeseries metrics.\u202f </li><li>Broad knowledge of infrastructure design, including networking, storage and compute.\u202f </li><li>Programming Languages and Frameworks\u202fRequired: </li><li>Golang, Java, Docker Kubernetes </li><li>Analytical Thinking\u202f <br></li></ul>Employment eligibility to work with American Express in the U.S. is required as the company will not pursue visa sponsorship for these positions<br><br><strong>American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, age, or any other status protected by law.</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T02:10:46.000Z"
+  },
+  "company": {
+    "name": "American Express",
+    "link": "https://www.linkedin.com/company/american-express"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99300,
+    "max_value": 134000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

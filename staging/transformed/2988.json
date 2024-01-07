@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Los Angeles, CA<br><br>Greenlots is unlocking the possibilities of the new electric mobility future by delivering innovative software and services that empowers utilities, cities, communities, and automakers to deploy EV charging infrastructure at scale. Our technology is connecting people to their destinations in a safer, cleaner, and smarter way. Headquartered in Los Angeles, CA, the company\u2019s global footprint spans across three continents with deployments in 13 different countries.<br><br>At Greenlots, we are looking for candidates who want to be a part of something bigger than themselves \u2013 authentic, purpose-driven individuals who believe having a career means making a meaningful impact on our business and the world. We believe in creating and doing \u2018the next right thing\u2019, especially when stepping into new spaces and territories previously unexplored. We are looking for the bold and the courageous, the innovative, and the accountable; those who can quickly translate ideas into meaningful action; and those who have a passion for learning and growing along with us!<br><br>Greenlots is looking for a <strong>Lead Site Reliability Engineer</strong> to join our team. We would like to find a highly engaged engineer who is obsessed with monitoring, observability, code quality and self-healing infrastructures. You should be able to identify, troubleshoot, and resolve issues quickly and develop strategies to ensure our environment never experiences the same problem twice. Responsibilities include capacity planning, performance tuning, and automation/tools development. Expect to spend 50% time focusing software engineering activities and should be eager to approach all code changes using a test-driven development model. As a Site Reliability Engineer, you will have great influence on the way we design and deploy our services and infrastructure across the enterprise. This position will be part of a great team that is developing exciting products and solutions and playing a key part in driving forward the electrification of transportation .<br><br><strong><u>What You Will Do<br></u></strong><ul><li> Apply a \u201ceverything-as-code\u201d philosophy across configuration, infrastructure, orchestration methodologies to ensure our production systems are fault tolerant and resilient. </li><li> Have a mentoring mindset, wil-to participate in live training, and create robust documentation. Work with product development teams to define and implement enhanced monitoring and logging solutions to improve observability and enable Service-Level Objectives to ensure a world class customer experience. </li><li> Participate in ground-up infrastructure design and planning for all future products and services. </li><li> Be part of an on-call rotation and act as incident commander to assist finding a resolution during incidents </li><li> Host blameless postmortems to share learnings, discover gaps, embrace transparency, and improve reliability across our services. </li><li> Design and implement improvements to existing systems after reviewing past incidents and employ your systems knowledge to triage problems and tune resource usage .<br></li></ul><strong><u>Who We\u2019re Looking For<br></u></strong><ul><li> Bachelor\u2019s Degree in Computer Science/ Engineering or equivalent work experience required. </li><li> 15+ years\u2019 experience working as full stack engineer focused on product, feature and/or systems development or equivalent experience. </li><li> 5+ years of experience with AWS. </li><li> Must be comfortable reading and writing in any of the following: Java, Go, C#/C++, Python </li><li> Experience with IAC/CM tools (Terraform, Cloud Formation, Ansible, Chef, Puppet, Salt) </li><li> Well versed with one or more cloud service provider offerings AWS (preferred), Azure, GCP </li><li> Understanding of containers and related technologies such as Docker, Podman, Swarm, Kubernetes in a production environment </li><li> You understand networks, protocols, servers, storage systems, and the Linux operating system. Familiar with common application and system-level health monitoring system (NewRelic, Datadog, etc.) . <br></li></ul><strong><u>What We Offer<br></u></strong><ul><li> A work environment that allows you to work with and learn from some of the best and brightest in this emerging industry. </li><li> The ability to make a difference in a world that needs our technology to help reduce carbon emissions and enable a more sustainable energy future using electric vehicle charging software, services, and infrastructure. </li><li> The freedom to learn, suggest, and implement innovative new ideas, e.g., systems, processes, programs, and technologies. </li><li> Daily ownership of your role in a challenging, high-growth environment. </li><li> A casual work environment and culture that support work life \u2018fit\u2019, enabling you to fit life into your work and work into your life, i.e. flexible scheduling, virtualization options, and a generous holiday package. </li><li> Well-being programs that enable you to thrive, e.g., investment in ergonomics, healthy snacks in the workplace, completely subsidized onsite gym program. </li><li> Competitive pay and benefits programs designed to enable you to thrive inside and outside of work, participation in Greenlots' performance and rewards bonus program. </li><li> Best in class, medical benefits that offer 100% health-care coverage for employees (medical, dental, vision) and a 401K program that support financial well-being. </li><li> Innovative Paid Time Off Program. </li><li> 9/80 Flex Work Schedule. </li><li> A collaborative, progressive headquarter location at the ROW DTLA with fully subsidized onsite parking and access to unique food and beverage experiences (i.e., coffee shops, bars, and restaurants).</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Greenlots",
+    "link": "https://www.linkedin.com/company/greenlots"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

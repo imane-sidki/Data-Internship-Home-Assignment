@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Biotechnology",
+    "description": "<p><strong>SOFTWARE ENGINEER I</strong></p><p></p><p><strong>JOB OVERVIEW</strong></p><p>Software Engineers design and develop custom software, systems, and integrations. Software Engineers work with a team of fellow Software Engineers, QA engineers, and Business Systems Analysts in an Agile/Scrum process to deliver enhanced product value. In addition to writing code, the successful candidate will design technical solutions with IT operations teams, participate in scrum ceremonies, and work with stakeholders to understand workflows and requests. Entry-level engineers will primarily complete tasks assigned to them, but successful engineers with engage their critical thinking skills to improve processes.</p><p></p><p><strong>JOB RESPONSIBILITIES</strong></p><ul><li>Design and develop software according to ticket specifications</li><li>Participate on both sides of code review \u2013 giving and receiving feedback</li><li>Participate in Scrum ceremonies, including backlog grooming, sprint planning, and daily standups</li><li>Meet with stakeholders to understand workflows and help groom tickets</li><li>Monitor process and log information and troubleshoot problems identified</li></ul><p></p><p><strong>JOB REQUIREMENTS</strong></p><ul><li>Bachelor\u2019s in Computer Science or related discipline is recommended, but not required</li><li>Knowledge of object-oriented programming (OOP) in a language like PHP, Python, or Java</li><li>Experience with frontend web development using HTML, CSS, and JavaScript</li><li>Experience with frontend frameworks like ReactJS is a plus</li><li>Basic understanding of relational databases, such as MySQL, PostgreSQL, or MSSQL</li><li>Ability to effectively use version control, including ability to branch and merge in git</li><li>Ability to programmatically read and write a variety of structured and unstructured formats, such as JSON, CSV, and XML</li><li>Experience with production and consumption of web services (ex: REST, SOAP, AMQP) is a plus</li><li>Understanding of Docker containers and cloud technologies is recommended</li></ul><p></p><p><strong>About Us:</strong></p><p>Ambry Genetics Corporation is a CAP-accredited and CLIA-licensed molecular genetics laboratory based in Aliso Viejo, California. We are a genetics-based healthcare company that is dedicated to open scientific exchange so we can work together to understand and treat all human disease faster.</p><p><br></p><p>At Ambry, everyone is welcome. A career at Ambry Genetics is a chance to be part of a dynamic company that aims to improve health by understanding the relationships between genetics and human disease. We earned our reputation as industry leaders by responsibly introducing cutting-edge genetic testing solutions and continually sharing what we learn with the global scientific community.</p><p><br></p><p>At Ambry you will be learning, challenging yourself, and having fun while collaborating with teammates through the open exchange of ideas. We also offer access to gym memberships, onsite food trucks, \u201cLunch and Learns,\u201d and more. Our outstanding benefits program includes medical, dental, vision, 401k, FSA, and generous paid time off (PTO) program. Ambry Genetics is an Equal Opportunity Employer (EOE) and we maintain a drug-free work environment.</p><p>Ambry Genetics is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race (and traits historically associated with race, including, but not limited to hair texture and protective hairstyles such as braids, locks, and twists), color, creed, religion, sex, sexual orientation, gender identity, gender expression (including transgender status), national origin, ancestry, age, marital status or protected veteran status and will not be discriminated against on the basis of disability, protected medical condition as defined by applicable state or local law, genetic information, or any other characteristic protected by applicable federal, state, or local laws and ordinances.</p><p><br></p><p><em>Ambry does not accept unsolicited resumes from individual recruiters, third party recruiting agencies, outside recruiters or firms without an executed contract in place. We are not responsible for any fees related to resumes that are unsolicited or are received by Ambry. Such resumes will be deem</em></p><p></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T22:26:12.000Z"
+  },
+  "company": {
+    "name": "Ambry Genetics",
+    "link": "https://www.linkedin.com/company/ambry-genetics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Aliso Viejo",
+    "region": "CA",
+    "postal_code": "92656",
+    "street_address": null,
+    "latitude": 33.569595,
+    "longitude": -117.72637
+  }
+}

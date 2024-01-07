@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Matlab and Python)",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "<strong><u>About MBRDI<br><br></u></strong>Mercedes-Benz Research &amp; Development India Headquartered in Bengaluru was founded in 1996 as a captive unit to support Daimler\u2019s research, IT and product development activities. We focus on topics ranging from computer-aided design and simulations (CAD, CAE) for powertrain, chassis and exteriors to embedded systems, telematics and developing various IT applications and tools. The satellite office in Pune specializes in interior component designs and IT engineering. It is now one of the largest global R&amp;D centers outside Germany, employing more than 3000 + skilled engineers. It aims to partner closely with suppliers in India for its activities in product development and IT services.<br><br>\"We are an equal opportunity employer and value diversity at our company\".<br><br><strong><u>Job Description<br><br></u></strong>The position presents a unique opportunity to improve and transform the current state of art in the field of Battery Ageing Analytics. The ideal candidate will bear the charter to :<br><ul><li>Work with the battery experts to identify the improvement areas in the current available techniques.</li><li>Provide quality solution design for the identified areas.</li><li>Transform the current state of Battery Ageing techniques using Machine Learning techniques.</li><li>Design methods to handle high volume of Data, data cleansing, processing, efficient storing.</li><li>Accelerate Data science Model Development and Model Management using cloud native solutions.<br></li></ul><strong><u>Skills/Qualifications<br></u></strong><ul><li>Excellent Problem Solving Skills. </li><li>Background in understanding battery electrochemistry is highy desirable.</li><li>Excellent communication skills with ability to present solutions in a clear articulate way to both Senior Management and Staff level.</li><li>Experience with BOTH Matlab and Python IS A MUST.</li><li>Should have experience with working techniques like \u2018Symbolic Regression\u2019.</li><li>Expertise in Machine Learning and Deep Learning using Python.</li><li>Must have demonstrated building high accuracy regression, classification models using statistics based learning or Deep Learning. Experience of working with LSTM, XGBoost, LGBM, ARIMA/ARIMAX is a must.</li><li>Demonstrated ability to work with a variety of Deep Learning frameworks including Tensorflow, Keras, CNTK etc.</li><li>Must have Hands on experience in PySpark (Dataframe and RDDs)</li><li>Must have hands on experience on Databricks, MLFLow, Airflow.</li><li>Have experience in handling data workflow and monitoring big data application</li><li>Good to have Azure knowledge or any cloud experience. <br></li></ul>BE / ME/ M.Tech / M.S<br><br><strong>Organization<br><br></strong>Mercedes-Benz Research and Development India Private Limited",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T22:12:10.000Z"
+  },
+  "company": {
+    "name": "Mercedes-Benz Research and Development India",
+    "link": "https://in.linkedin.com/company/mercedes-benz-research-and-development-india"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Bengaluru",
+    "region": null,
+    "postal_code": "560069",
+    "street_address": null,
+    "latitude": 12.976747,
+    "longitude": 77.57528
+  }
+}

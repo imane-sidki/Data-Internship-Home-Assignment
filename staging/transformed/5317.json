@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Graphics Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Do you love creating elegant solutions to highly complex challenges? Do you intrinsically see the importance in every detail? As part of our Silicon Technologies group, you\u2019ll help design and manufacture our next-generation, high-performance, power-efficient processor, system-on-chip (SoC). You\u2019ll ensure Apple products and services can seamlessly and efficiently handle the tasks that make them beloved by millions. Joining this group means you\u2019ll be responsible for crafting and building the technology that fuels Apple\u2019s devices. Together, you and your team will enable our customers to do all the things they love with their devices. <br><br><br>The Graphics Software Engineer will be responsible for software tasks required for the development and verification of a GPU design.<br><br> <br><strong>Key Qualifications<br></strong> <br>We would like you to have 3+ years with the following skills and experience:<br><br>Deep expertise and knowledge of graphics rendering algorithms<br><br>Experience with GPU APIs, preferably Metal, OpenGL, and / or OpenCL<br><br>Excellent C/C++ programming skills<br><br>Architectural validation and design verification knowledge a plus<br><br>Hardware architecture experience a plus<br><br>Experience with graphics device driver capture a plus<br><br>Experience with scripting, continuous integration systems, automated build and regression systems, web-based programming, database systems<br><br>Strong ability to collaborate with engineering teams under high pressure schedules<br><br> <br><strong>Description<br></strong> <br>As a Graphics Software Engineer, you will engage in the following activities: <br><br>Define, write, and debug GPU architectural, functional, and performance test suites<br><br>We would like you to lead the design and implementation of GPU verification tools and APIs<br><br>Create production quality automated flows for graphics core verification<br><br>Develop C/C++ functional and performance models for hardware verification<br><br>Support GPU hardware teams during model and design bring-up pre / post silicon<br><br>Support GPU software teams during driver bring-up<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS/PhD CE, EE, CS, or related field<br><br> <br>Role Number: 200005890<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:37:41.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

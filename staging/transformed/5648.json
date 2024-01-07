@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Telecommunications",
+    "description": "<strong><u>Description Remote<br><br></u></strong>Data scientists use data and analytical ability to find and interpret rich data sources; manage large amounts of data despite hardware, software, and bandwidth constraints; merge data sources; ensure consistency of data sets; create visualizations to aid in understanding data; build mathematical models using the data; and present and communicate the data insights/findings.<br><br><strong><u>Requirements<br></u></strong><ul><li>Seeking candidates with a strong machine learning and or econometric background, some knowledge of optimization</li><li>Ideal candidate will have more than 2 years of experience with one of R or Python</li><li>Must have post-grad in a numerate discipline and worked for a minimum of 4 years</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-26T15:29:24.000Z"
+  },
+  "company": {
+    "name": "tekHouse",
+    "link": "https://www.linkedin.com/company/tekhousellc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tulsa",
+    "region": "OK",
+    "postal_code": "74116",
+    "street_address": null,
+    "latitude": 36.155327,
+    "longitude": -95.99208
+  }
+}

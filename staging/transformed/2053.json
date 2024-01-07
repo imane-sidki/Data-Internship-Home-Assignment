@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Proactive Intelligence Platform",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Booked a flight and it was magically added to your calendar? Made dinner plans in Messages and got a suggestion to turn on Do Not Disturb before the event? Tried to share a photo and saw the right person suggested just a tap away? The vision for the Proactive Intelligence organization is to improve Apple platforms by better understanding, anticipating, and adapting to user behavior by using machine learning to build great predictive features right into Apple products, used by billions of users worldwide.<br><br> <br><strong>Key Qualifications<br></strong> <br>Ability to write reliable, resilient, performant and well-tested code.<br><br>Good foundation in software design and architecture.<br><br>Prior experience in systems using various data store technologies (blob, NoSQL, and relational).<br><br>Outstanding communication and presentation skills, and an appetite to drive strong multi-functional collaboration.<br><br>Development experience with macOS/iOS using Objective-C or Swift is a plus.<br><br>Experience in ML or Applied Statistics is a plus.<br><br>Experience with web development technologies and scripting languages is a plus.<br><br> <br><strong>Description<br></strong> <br>We are a growing, talented, and motivated team focused on building the platform that powers intelligent features across Apple products. These features make users more efficient by predicting and accelerating the user experience while respecting privacy. We collaborate with many different teams at Apple to build groundbreaking technology. We will consider candidates with exceptional track records, as well as candidates who are early in their careers and exhibit strong potential for growth. If you love building sophisticated software systems, taking on hard problems, and you have a passion for data and data processing systems, then you will enjoy this role. <br><br><br>To succeed in this role, you must be a strong programmer and a creative problem solver who thrives in a fast-paced environment, working across teams and organizations. You will touch various parts of our code base: from optimizing memory and CPU usage to designing APIs, from implementing efficient data structures and minimizing IO to designing solid testable architectures or concurrent systems. You will be able to work on our full stack, ranging from internal tools development, to shipping code that runs on the devices you use every day.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>B.S., M.S., or Ph.D. in Computer Science, Electrical Engineering or equivalent<br><br> <br>Role Number: 200269510<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:46:28.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

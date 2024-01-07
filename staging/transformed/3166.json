@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer (Remote!)",
+    "industry": "",
+    "description": "<p>What you develop matters. At least we think so. </p><p> </p><p>Welcome to Loka, a remote-first Silicon Valley Tech consulting company. We\u2019re focused on AI and Machine Learning solutions \u2013 the kind that support interesting and meaningful advances for humanity. </p><p> </p><p>Our vision is simple: Every innovation ships. We make this happen by working with elite performers like you. We help you grow in ways that fascinate you, so you can launch projects you believe in. We\u2019re fortunate enough to work with mission-driven startups and Fortune 100s worldwide including Marriott, Gatorade, Dyson and Coca-Cola. </p><p> </p><p>If you\u2019re into growing with purpose and working with talented people in a healthy culture, apply now \u2013 we might be looking for you to join our team in the US! </p><br><strong>The Role</strong><ul><li><p>Write production grade Python and SQL ETL code in order to reliably and scalably transform messy customer data into internal format </p></li><li><p>Collaborate with Machine Learning, Data Science, Design, Software Engineering and Business teams to triage data or ETL issues that are causing anomalies </p></li><li><p>Analyze and find issues in the data and work to prioritize and find solutions </p></li><li><p>Build out tests and health checks to ensure quality level of code and data </p></li><li><p>Monitor, analyze and understand the data flowing through our system by adding the necessary visualizations and dashboards </p></li><li><p>Build out, scale up, and deploy our compute platform (running on Azure cloud infrastructure using Kubernetes) and data platform (powered by a combination of traditional databases, data warehouses, and data lakes) that power our recommendation engine and ordering system </p></li><li><p>Implement reusable libraries and abstractions </p></li><li><p>Provide updates, inform blockers and offer guidance to clients </p></li></ul><br><strong>Main Requirements</strong><ul><li><p>[MUST HAVE] Advanced level of Python and SQL </p></li><li><p>Strong problem-solving ability and ability to work through ambiguity and incomplete specifications </p></li><li><p>Dedication to code quality, testing, design processes,automation, and operational excellence </p></li><li><p>Experience wading through, analyzing, and working through large amounts of data; retail and supply-chain data preferred </p></li><li><p>Good communication skills. You should feel comfortable having in-depth technical discussions. </p></li><li><p>(Bonus) Spark and Pandas experience </p></li></ul><br><strong>Benefits</strong><ul><li><p>100% remote-first: We want you to have the flexibility to work where you feel most comfortable and productive </p></li><li><p>Grow with us: 100% of Loka talent are eligible for skills development and certifications </p></li><li><p>People who promote and enjoy a work-life balance and workplace diversity </p></li><li><p>A healthy culture committed to equality with 50/50 women and men leadership </p></li><li><p>The opportunity to pursue what fascinates you for 90 days with something we affectionately call Loka Labs </p></li><li><p>Highly talented work teams with mentorship and constant skill improvement </p></li><li><p>An environment that promotes transparency, communication, creativity and being proactive </p></li><li><p>Ideas valued over hierarchy, allowing you to explore, grow and implement creative solutions</p></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T13:47:41.000Z"
+  },
+  "company": {
+    "name": "Loka, Inc.",
+    "link": "https://www.linkedin.com/company/lokainc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

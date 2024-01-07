@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>JOB DESCRIPTION</strong></p><p><br></p><p><strong>Role : DevOps Engineer.</strong></p><p><br></p><p><strong><u>Key responsibility:</u></strong></p><ul><li>Work experience should include extensive knowledge of Continuous Deployment strategies</li><li>A successful candidate will have excellent analytical and problem-solving skills, strong communication skills, and a motivation to achieve best-in-class results</li><li>Solid understanding of best practices in support of Continuous Deployment including branching strategy, version management, artifact maintenance, configuration management</li><li>Firm grasp of common deployment strategies including blue/green, zero-downtime deployment, traffic shaping, canary and rollback</li><li>Experience designing and building automation solutions</li><li>2+ years experience with some of the following toolsets:</li><li>CI Server \u2013 Jenkins, TeamCity, Concourse CI</li><li>Artifact Repositories \u2013 Artifactory, Nexus</li><li>Source Control \u2013 Git (Github, Bitbucket, GitLab)</li><li>Build Tools \u2013 Team Foundation Server (TFS), MSBuild, Ant, Maven, Gradle</li><li>Cloud Computing Models</li><li>Containerization \u2013 Docker, Kubernetes</li><li>Infrastructure as Sevice \u2013 Ansible, Terraform</li><li>Excellent scripting knowledge and ability to execute through Python, Bash/Shell, PowerShell, Go</li><li>Good understanding of common principals related to computing, networks, firewall, security and authentication</li><li>Ability to work and influence across functional teams with different mind sets, cultures, operating styles and decision-making frameworks</li><li>Outstanding written and verbal communication skills</li><li>Familiarity with Microsoft\u00ae Word &amp; Excel</li><li>Financial industry interest and experience is beneficial</li></ul><p><br></p><p><strong>About Virtusa</strong></p><p>Teamwork, quality of life, professional and personal development: values that Virtusa is proud to embody. When you join us, you join a team of 21,000 people globally that cares about your growth \u2014 one that seeks to provide you with exciting projects, opportunities and work with state of the art technologies throughout your career with us.</p><p>Great minds, great potential: it all comes together at Virtusa. We value collaboration and the team environment of our company, and seek to provide great minds with a dynamic place to nurture new ideas and foster excellence.</p><p>Virtusa was founded on principles of equal opportunity for all, and so does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T13:27:19.000Z"
+  },
+  "company": {
+    "name": "Virtusa",
+    "link": "https://www.linkedin.com/company/virtusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

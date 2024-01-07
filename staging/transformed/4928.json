@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Are You the Right Fit? <br><br></strong>Visual Lease is an industry-leading, comprehensive lease accounting solution that helps customers maintain their lease portfolios and achieve compliance with lease accounting standards. Our talented engineering team delivers new features and applications on top of our SaaS platform on an iterative basis. Visual Lease is looking for an innovative and collaborative software developer to join our fast-growing engineering team. Our cross-functional delivery teams are made up of software engineers, quality engineers, product managers, and usability designers, all working collaboratively to deliver on our roadmap vision.<br><br>As part of a team developing new application features, improvements, and product evolutions, you will work across the application stack to develop UI code, business logic in Microservices, and develop in our relational databases (SQL Server and Aurora PostgreSQL). On a daily basis, you will work side-by-side with cross-functional team members to understand requirements, prepare feature designs, write code in C#/.net and Python, support testing, and ultimately releases into our Cloud environments.<br><ul><li>Woodbridge, NJ Location, but will consider remote candidates in the following states: NJ, NY, WA, TX, SC, NC, PA, NH, MA, IL, GA, CO, AZ, MD, RI, and FL</li><li>Please note that sponsorship is not available for this position<br></li></ul><strong><u>What You Will Do<br><br></u></strong>Participate in the software development process through the entire system life-cycle, including:<br><ul><li>Review roadmap requirements, discuss with stakeholders, and document design plans</li><li>Interprets requirements, develops and tests full-stack application features of medium complexity using Python, C#/.NET &amp; Angular</li><li>Code new features and improvements to the existing features within the platform</li><li>Develop and maintain technical documentation about the developed functionality</li><li>Provide ongoing engineering support to the business by trouble shooting reported problems</li><li>Create and maintain reliable unit tests</li><li>Work closely with development, architecture, product management and quality assurance colleagues to build the expected functionality with quality</li><li>Follow our engineering standards and best practices<br></li></ul><strong><u>Skills &amp; Competencies</u></strong><ul><li>A Bachelor's Degree in Computer Science, Engineering, or related technical discipline</li><li>2-6 years of software engineering work experience</li><li>2+ year of object oriented development experience with C#/.net and/or Python</li><li>Hands on experience with RDBMS like MS SQL Server, PostgreSQL</li><li>Good understanding of data structure and algorithms</li><li>Working experience on Cloud technology like AWS</li><li>Experience with the following is desired:</li><ul><li>ASP.Net / ASP.Net MVC,</li><li>Python, HTML, JavaScript, CSS and jQuery</li><li>Angular or React</li><li>PostgreSQL</li><li>Microservices architecture</li><li>Modern JavaScript frameworks/libraries: Angular &amp; React</li></ul><li>Culturally, the ideal candidate will fit into team if they possess strong collaboration, ownership, and a passion for innovation</li><li>Training, certifications, or experience with AWS, Python, Scrum are valued<br></li></ul><strong> Why Work at Visual Lease? <br><br></strong>We have a passion for simplifying the complex. Our lease accounting and lease administration software helps companies manage, analyze and report on their leased asset portfolios. Loved by more than 800+ major companies worldwide, our cloud-based SaaS platform embeds decades of lease management and financial accounting expertise.<br><br>Over the last two years, our employee base has seen significant growth. Voted one of NJ\u2019s Best Places to Work, we are looking for driven, innovative and passionate team-players to help us continue this journey and bring us to the next level.<br><br>Visual Lease is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law. Visual Lease is a background screening, drug-free workplace. Full-time positions offer a competitive benefits package and salary commensurate with experience.<br><br>www.visuallease.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:24:31.000Z"
+  },
+  "company": {
+    "name": "Visual Lease",
+    "link": "https://www.linkedin.com/company/visual-lease"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

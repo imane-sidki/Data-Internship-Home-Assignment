@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Multiple Positions, US : Remote- $110-170k)",
+    "industry": "",
+    "description": "<p><em>This is a remote, US-based role.</em><strong><em>NOTE: We are hiring multiple positions for the CRE role. This is a heavily customer-facing role. Please see the Operator role for a back-of-house SRE opening.</em></strong></p><p><strong><em></em></strong></p><p><strong>As a Site Reliability Engineer</strong><strong>(SRE),your primary goals will be to provide exceptional value to our clients working across our managed and professional services offerings.</strong></p><p><strong><em></em></strong></p><p><strong>1. Job Description</strong></p><p><strong><em>Fairwinds is seeking an intellectually curious, collaborative, enthusiastic, and flexible engineer to join our team as a Site Reliability Engineer.</em></strong></p><p><strong><em></em></strong></p><p><strong><em>As an SRE at Fairwinds, you\u2019ll work directly with clients to ensure their goals are met through automation, analysis, and infrastructure configuration.Working collaboratively with the other SREs at Fairwinds, your expertise will help our clients succeed with Kubernetes through building robust infrastructure, solving complex problems, maintaining reliable, secure environments, and standing behind our work as a part of our on-call rotation.</em></strong></p><p><strong><em></em></strong></p><p><strong><em>We work with a diverse set of technologies in and around Kubernetes depending on what our clients need. Commonly this includes technologies like:</em></strong></p><ul><li>AWS/GCP/Azure(e.g.Instances, DNS, IAM, cloud networking)</li><li>Kubernetes Ingress/CNI/Service Meshes/Network Policy</li><li>Helm, Terraform, Docker</li><li>Datadog, OpenMetrics, and statsd</li><li>Fairwinds Insights, rbac-manager, and Falco</li><li>CircleCI, Jenkins, and Gitlab for CI/CD</li><li>Go, Python, and bash</li></ul><p></p><p><strong>2. About you...</strong></p><ul><li>You have experience working with Kubernetes in a production environment\u2014 deploying with helm, debugging tough networking problems, optimizing for scale, updating and upgrading to match best practices for security and efficiency.</li><li>You have experience working in one or more of the major cloud providers: AWS, GCP, Azure.</li><li>Youare comfortableworkingdirectly with external clientsto understand fluid requirements and unique use cases.</li><li>You\u2019re a self-motivated and directed individual contributor who is excited about being part of a growing startup.</li><li>You\u2019re interested inKubernetes and cloud-native technologyand have aneagerness to learnand an aptitude for sharing your knowledge with others.</li><li>You know your stuff and are a creative problem solver. You can think your way through complex issues, have a keen eye for details, and possess strong analytical and research skills \u2013 you know how to find answers, and you know when to ask for help.</li><li>You\u2019re organized, communicative, and accountable\u2014you enjoy being on a team and you own your role entirely, while being open to critique, suggestions, and new ideas.</li></ul><p></p><p><strong>3. Why Fairwinds</strong></p><p><strong><em>Fairwinds is on the cutting edge of Kubernetes.We are a\u201cRemoteFirst\u201d organization working U.S. hours, headquartered in Boston, MA.We believe our solutions(SaaS,Managed Service, Professional Services, Training, etc.) enable our customers to succeed with Kubernetes.We want individuals who are excited to bring expertise to clients everyday!</em></strong></p><p><strong><em></em></strong></p><p><strong><em>We are a group of curious and motivated individuals, guided by our values of respect, inclusion, compassion, and kindness.</em></strong></p><p><strong><em></em></strong></p><p><strong><em>Fairwinds is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></strong></p><p><strong><em></em></strong></p><p>Fairwinds' Engineering Leadership Philosophy.</p><p></p><p><strong>Compensation and Benefits:</strong></p><ul><li>Salary range is $110-170K plus bonus</li><li><strong><em>We're hiring across experience bands from mid to senior levels. Salary will be aligned with experience.</em></strong></li><li>Medical - 100% paid by Company</li><li>Dental - 100% paid by Company</li><li>Vision - 100% paid by Company</li><li>Stock options</li><li>Tax Savings Accounts(FSA)</li><li>Life Insurance</li><li>401k</li><li>Unlimited PTO</li><li>Remote-first(USremote hours)</li></ul><li><br></li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T15:21:04.000Z"
+  },
+  "company": {
+    "name": "Fairwinds",
+    "link": "https://www.linkedin.com/company/fairwinds"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

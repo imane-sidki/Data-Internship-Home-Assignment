@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ServiceNow Developer",
+    "industry": "Information Technology and Services,Defense & Space,Computer Software",
+    "description": "Working at Macro Solutions, a leading provider of IT and management consulting services, is an opportunity to collaborate with great people who have a passion for the services they provide to our clients. We are currently looking for a <strong>ServiceNow Developer </strong>to remotely join one of our long term Federal projects in Chantilly, VA . Macro Solutions offers flexible FTE, W2 hourly consultant and Corp to Corp terms.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li>Has professional experience supporting ServiceNow configuration and development, requirements analysis, process execution and evaluation, and integration with other applications.</li><li>Interacts with customers and development team to gather and define requirements.</li><li>Analyzes and studies customer requirements to determine the most effective use of ServiceNow to satisfy their needs.</li><li>Designs, creates, tests, and maintains ServiceNow suites and modules to satisfy customer requirements.</li><li>Follows a formal design process using formal specifications, data flow diagrams, other accepted design techniques and also adheres to laws, standards, and established guidelines for development and delivery of ServiceNow capabilities.</li><li>Develops software using common commercially accepted programming languages (HTML/CSS, JavaScript, etc.) and data models (XML, JSON, CSV, etc.) as required.</li><li>Has administered ServiceNow instances including user creation, interfaces to AD, group creation and maintenance, group permissions, access control lists, global platform settings, notifications, and resource usage.</li><li>Configures ServiceNow to provide visually-pleasing, content rich, user-friendly interfaces with intuitive navigation.</li><li>Assists with developing and maintaining technical documentation to support maintenance and upgrades.</li><li>Provides software process management and configuration management throughout the ServiceNow development lifecycle.</li><li>Performs custom development and 3rd party integrations as required.</li><li>May provide day-to-day management of the technical team to develop, test, maintain, and support effective and efficient ServiceNow configurations.</li><li>Analyzes and troubleshoots complex software problems and provides solutions. Works independently on more complex projects.<br></li></ul><strong>Education + Experience:<br></strong><ul><li>Required ServiceNow Cert (Certified System Administrator or similar), and ITIL Foundation.</li><li>Desired DoD 8570 IAT II or greater.</li><li>BA/BS degree and 8 years of related work experience, or MS with 6 years.</li><li>Current Secret Clearance (or higher) preferred but not required.</li><li>Has implemented at least 3 ServiceNow modules and has a minimum of three years\u2019 experience with ServiceNow.</li><li>Has experience with using and integrating solutions with large-scale relational databases.</li><li>Understands and knowledgeable in system development lifecycle methodologies.</li><li>Integrates new applications with the existing ServiceNow baseline to improve the functionality or design of the system. <br></li></ul>Macro Solutions is a woman-owned IT and management consulting firm that helps government organizations select, implement, integrate and maintain critical business solutions. A relationship company at our core, we pride ourselves on building high-touch, high-trust environments for our clients and partners, at every level of our business. Assessed at CMMI Maturity Level 3 for both Development and Services and ISO 9001:2015 certification, Macro delivers honest, powerful results from the inside, outward.<br><br>Deeply invested in advancing long lasting employee relationships, our distinctive Consultant Care program ensures that our employees are always a priority at every level of the organization and has been integral to our 94% employee retention rate.<br><br>Along with a supportive environment and culture that thrives on dreaming big, getting things done and having fun together, Macro Solutions offers employees a full suite of competitive benefits, including health, dental, 401(k), and paid time off.<br><br>If you would like to learn more about Macro, are interested in joining our team, or would like to learn more about our Consultant Care program visit our website .<br><br>Macro Solutions is an Equal Opportunity Employer.",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-10-05T17:38:37.000Z"
+  },
+  "company": {
+    "name": "Macro Solutions",
+    "link": "https://www.linkedin.com/company/macro-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 58500,
+    "max_value": 75400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chantilly",
+    "region": "VA",
+    "postal_code": "22022",
+    "street_address": null,
+    "latitude": 38.888687,
+    "longitude": -77.417496
+  }
+}

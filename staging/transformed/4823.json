@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Want to help everyday Americans invest and build wealth? Financial inequality is increasing, and too many people are getting left behind. At Stash, we are passionate about democratizing wealth creation through education, advice, and products that help customers achieve greater financial freedom.<br><br>Stash is looking for a Data Scientist with a passion for building reliable, scalable, and performant data systems and software. We look for strategic thinkers and creative problem solvers with a bias for execution and we\u2019ll expect you to contribute code as well as product/feature ideas from the get-go. If you are looking for a culture that encourages ownership, taking calculated risks, being data-driven and that values evidence over ego, this may be the role for you.<br><br><strong>What You\u2019ll Do<br><br></strong><ul><li>Build and maintain scalable data systems and infrastructure that empower our marketing, product and business teams to make better decisions</li><li>Develop ETL pipelines that enhance source data to create more actionable insights</li><li>Work with large datasets to help us better understand our customers and anticipate their needs through distributed computation techniques</li><li>Make rigorous statistical inferences from A/B testing on our product and customer segments</li><li>Normalize our data across institutions and sources using semi-supervised learning<br><br></li></ul><strong>Who We\u2019re Looking For<br><br></strong><ul><li>MS in Computer Science, Statistics, Applied Mathematics, Physics, Engineering or a related field with 3+ years of experience</li><li>3+ years of professional programming work in Python, Scala, Java, or similar</li><li>Experience with Pandas, R, or other statistical modeling frameworks</li><li>An understanding of storing and querying data from Redshift, PostgreSQL, or similar database infrastructures</li><li>Passion to use all aspects of data science, programming, and technology to build the financial advisor of the future</li><li>Experience using machine learning to improve algorithmic systems</li><li>Comfort with distributed computing, specifically Pyspark, AWS EMR, and Airflow</li><li>Knowledge of Looker or similar front end analytics platforms</li><li>Data Engineering and ETL experience is a big plus!<br><br></li></ul>At Stash it is our mission to help everyday Americans invest and build wealth. That includes people of all races, genders, and abilities, so it is important to us to acknowledge and address the issues of inequality in financial services head on.<br><br>Diversity and inclusion are essential to living our values, promoting innovation, and building the best products. Our success is directly related to our employees and we believe that our team should reflect the diversity of the customers that we serve. As an Equal Opportunity Employer, Stash is committed to building an inclusive environment for people of all backgrounds.<br><br>If you require any reasonable accommodations to make your application process more accessible please reach out to recruiting@Stash.com.<br><br><strong>Invest In Yourself<br><br></strong><ul><li>Equity &amp; Stash Accounts [Invest, Retire, Custodial, Bank] </li><li>Flexible PTO </li><li>Learning &amp; Development Fund </li><li>Work from Home Stipends</li><li>Parental Leave [Primary &amp; Secondary]<br><br></li></ul><strong>Recognition<br><br></strong><ul><li>BuiltIn\u2019s Best Places to Work (2019, 2020, 2021) </li><li>Forbes Fintech 50 (2019, 2020, 2021)</li><li>Best Digital Bank, Finovate Awards (2020)</li><li>Tearsheet Challenge Awards, Best Banking Card Product - Stock-Back\u00ae Card, 2020</li><li>LendIt Fintech Innovator of the Year (2019 &amp; 2020)</li><li>No recruiters, please**<br><br></li></ul><em>This position may be performed remotely anywhere within the United States except the State of Colorado.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Stash",
+    "link": "https://www.linkedin.com/company/stashfinancial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

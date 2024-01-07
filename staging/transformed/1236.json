@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Frontend - Remote)",
+    "industry": "Marketing and Advertising,Computer Software,Financial Services",
+    "description": "Full-Time<br><br><strong>Overview<br><br></strong>We\u2019re SmileDirectClub, and we believe everyone deserves a smile they\u2019ll love. We also believe that you deserve a job you\u2019ll love. Good thing you found us, and we found you. At SmileDirectClub, we\u2019re all about empowering transformation. We want people to become more confident in how they look, how they feel, and how they think. So we\u2019re spreading smiles and positivity all over the country.<br><br>It\u2019s no small task. That\u2019s why we\u2019re looking for energetic, passionate, and confident team members who can help turn frowns into life-changing grins. Are you up for it?<br><br>SmileDirectClub is seeking a <strong>Frontend Engineer IV</strong> to join a fast-paced dynamic engineering team working on building the next generation of our website. We need you to help put a smile on our face to the customer. Knowledge of JavaScript and CSS as well as stacks like Node, Vue, and NuxtJS will allow you to create a world class experience for our customers. In joining SmileDirectClub, you will be part of a team that values high performance, open communication, and collaboration!<br><br><strong>Responsibilities<br><br></strong><ul><li> You will be a part of setting a culture of creativity, innovation and excellence. </li><li> Help establish and follow coding standards and best practices for frontend web development. </li><li> Collaborate with a team of frontend engineering professionals working on multiple diverse projects. </li><li> Build technical proof of concepts for emerging requirements. </li><li> Convert technical proofs into working software in a clear and concise fashion. <br><br></li></ul><strong>Qualifications<br><br></strong><ul><li> 3+ years of experience crafting cutting-edge web experiences using JavaScript, CSS, and a common framework such as Vue or React (we use Vue + NuxtJS) </li><li> Cloud experience preferably in Amazon Web Services or Azure. Terraform experience is a plus. </li><li> Test-Driven Development and Domain-Driven Design </li><li> Understanding of SDLC and Agile development methodologies. </li><li> Experience with Git, Continuous Integration and Continuous Delivery mechanisms. </li><li> Experience with a headless CMS such as Contentful <br><br></li></ul><strong>Benefits Of Joining The Club<br><br></strong><ul><li> Medical, Dental and Vision Insurance </li><li> 401K with match </li><li> PTO </li><li> Aligner and Whitening Benefit </li><li> Collaborative work environment and positive culture <br><br></li></ul><strong>Company Profile<br><br></strong>SmileDirectClub was founded on a simple belief: everyone deserves a smile they love. The Company is the first digital brand for straightening your smile, created after the realization that recent trends in 3D printing and telehealth could bring about disruptive change to the invisible aligner market by matching licensed professionals, a quality clear-aligner product, and customers together. By leveraging proprietary, cutting-edge technology, SmileDirectClub, LLC-affiliated dentists are providing greater access of care to consumers who couldn't otherwise afford orthodontic treatment to get a better smile.<br><ul><li> What is SmileDirectClub? Link here. </li><li> What are our customers saying? Link here. </li><li> What is a SmileShop? Link here. </li><li> What is our culture like? Link here. </li><li> How do we celebrate your team members? Link here.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:39:11.000Z"
+  },
+  "company": {
+    "name": "SmileDirectClub",
+    "link": "https://www.linkedin.com/company/smiledirectclub"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68100,
+    "max_value": 147400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

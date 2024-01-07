@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Embedded Systems",
+    "industry": "Defense & Space,Information Technology and Services,Electrical/Electronic Manufacturing",
+    "description": "FMP is seeking Electrical, Computer, Software, and System Engineers to join our Shipboard Electrical Systems software team. The responsibilities of this position involve development of software for embedded systems and associated development tools spanning the entire product life cycle. This includes requirements development, embedded software and firmware design, documentation, qualification and testing, initial deployment, and training.<br><br>Our software applications are used by the Navy to support distributed, high speed embedded controls for a range of advanced nuclear propulsion plant applications. They are developed and fielded on current and future Navy platforms. Software and firmware design work will be performed within the context of a multi-disciplinary team of embedded systems designers and applications engineers. The resulting software and firmware work products, tools and training deliverables will be developed for release to Navy component and system suppliers for integration into propulsion plant systems.<br><br>The selected engineer will be responsible for working within the multi-disciplinary team to complete the development and delivery of system level solutions. Responsibilities include design and implementation of system level software applications, working with system engineers to develop and implement application requirements, working with software test engineers to ensure applications meet their intended design, and development and review of certification documentation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:27:42.000Z"
+  },
+  "company": {
+    "name": "Naval Nuclear Laboratory (FMP)",
+    "link": "https://www.linkedin.com/company/naval-nuclear-laboratory-bmpc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74100,
+    "max_value": 101000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Niskayuna",
+    "region": "NY",
+    "postal_code": "12008",
+    "street_address": null,
+    "latitude": 42.805782,
+    "longitude": -73.896965
+  }
+}

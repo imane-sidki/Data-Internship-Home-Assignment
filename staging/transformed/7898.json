@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Our Company<br><br></u></strong>Changing the world through digital experiences is what Adobe\u2019s all about. We give everyone\u2014from emerging artists to global brands\u2014everything they need to design and deliver exceptional digital experiences! We\u2019re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.<br><br>We\u2019re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!<br><br><strong>The Opportunity <br><br></strong>You will be a member of the Site Reliability Engineering team of the Experience Cloud. We are looking for a Senior Site Reliability Engineer with a software engineering background who is passionate about developing software to help scale monitoring, alerting, provisioning and configuration management. We are a multi-cloud environment (Azure/AWS), are security-focused and are helping customers succeed. This individual should be self-motivated and have a drive for quality.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Provide deep technical troubleshooting for escalated issues that involve Adobe Campaign's most technically complex or large-scale customers.</li><li>Will use troubleshooting, monitoring and reporting tools to analyze the root cause of serious and impactful technical issues and to build stable and sustainable solutions and improvements.</li><li>Work closely with customer care, internal escalation teams, product management, and engineering to seek solutions for customers and drive ownership of tasks toward completion.</li><li>Drive and improve the whole lifecycle of operational readiness - from inception and design, through deployment, operation and refinement</li><li>Develop tools, operational enhancements and automated solutions that enable self-service configuration changes, speed deployments and improve monitoring in support of business-critical customer facing SaaS applications and environments</li><li>Assist our software engineering team to ensure proper monitoring and metrics are being built into the applications before going to production</li><li>Participate in an on-call rotation<br></li></ul><strong><u>What You Need To Succeed<br></u></strong><ul><li>Bachelor\u2019s Degree in Computer Science or equivalent and 5 years of relevant work experience</li><li>Full Stack troubleshooting experience including networking, operating system (Debian, CentOS), Apache, HA Proxy, Nginx, RDBMS</li><li>Experience leveraging monitoring tools such as Splunk, New Relic, Nagios for troubleshooting</li><li>Experience with AWS and/or Azure stack \u2013 particularly in the areas of networking (VPCs, security groups), VMs (EC2), databases (RDS), load balancing (ELB, ALB)</li><li>Excellent information management practices, such as detailed documentation, usage of wikis, and other collaboration tools</li><li>Ability to scope project work, estimate effort and then break down work into sub-tasks</li><li>Experience developing applications in one or more of the following: Python, Java or Go.</li><li>Strong comprehension of continuous integration and continuous deployment methodologies.</li><li>Excellent written and verbal communication skills, demonstrating the ability to effectively convey technical information to both technical and non-technical audiences<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T16:27:20.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 166000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

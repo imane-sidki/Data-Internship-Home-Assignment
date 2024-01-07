@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising",
+    "description": "<strong><u>Company Description<br><br></u></strong>Dentsu is a modern marketing solutions company. Our mission is to help clients navigate, progress, and thrive in a world of change. Businesses rely on our integrated network of agencies and specialized practices to champion meaningful progress through creative, media, commerce, data and technology. Part of Dentsu Group, our global network comprises 66,000 diverse people in 143 countries, who are dedicated to teaming for growth and good. Some of our award-winning agencies include 360i, Carat, dentsumcgarrybowen, DEG, dentsuX, iProspect and Merkle. Follow us on Twitter @DentsuUSA and visit dentsu.com/us.<br><br>We are champions for meaningful progress and we strive to be a force for good\u2014for our people, for our clients, for the industry and for our society. We keep our people at the center, creating space for growth, understanding and learning so they can thrive. We embed diversity, in our mindset, in our solutions and in our teams to empower an inclusive, equitable and culturally fluent environment. Building this culture within our teams makes us better collaborators with each other and with our clients, driving better outcomes for all.<br><br><strong><u>Job Description<br><br></u></strong><strong>Applicants<br></strong><ul><li> \u201cApplicants must be currently authorized to work in the U.S. on a full-time basis. No sponsorship is available for this position.\u201d<br></li></ul><strong>Location to work<br></strong><ul><li>While this position is 100% remote, applicants must be located in the USA. <br></li></ul>As a Software Engineer on our Technology Team, you will help us support and innovate our platforms that support web sites and media operations for major companies. We firmly believe in the DevOps mentality and are looking for Engineers who not only want to build platforms, but also the tooling and systems that allow us to efficiently test and operate them. You can expect to be hands-on in supporting and debugging our systems, and you will also need to understand how our systems are used to ensure we build what the business needs. We are distributed globally and operate as remote-first team. As with all our team members, you\u2019ll be afforded the opportunity to continuously learn, and to practice sharing that expertise with other team members in a variety of structured and informal teaching forums.<br><br><strong><u>Responsibilities<br><br></u></strong>Building, Delivering, and Operating Our Platforms<br><ul><li>Working inside of a team to implement solutions that best meet our users\u2019 needs and will be easy to operate</li><li>Following best practices, leveraging technology and frameworks effectively, and ensuring work fits well into its application/system</li><li>Monitoring our applications and systems and investigating issues that arise</li><li>Understanding the impact your work can have on the health of our systems and acting to minimize risks<br></li></ul>Communicating Inside the Team<br><ul><li>Communicating with Technology Team members to facilitate implementation of your work</li><li>Presenting materials that help advance and inform the team<br></li></ul>Leading by Example<br><ul><li>Working with fellow engineers to cover knowledge gaps and identify solutions to problems</li><li>Demonstrating and modelling proactive and thoughtful identification of issues and opportunities for technical improvements<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>A minimum of two years of experience in software development; demonstrating successful design, build, rollout and ongoing delivery of business-critical consumer-facing applications and data pipelines starting from raw business requirements.</li><li>Successful experience working in an Agile/Scrum environment.</li><li>Experience with languages like Ruby, Python, and JavaScript.</li><li>Professional experience using web application frameworks (Rails, Sinatra, Django, or Flask are ideal, but others are acceptable also) to build high-traffic websites, applications, and services.</li><li>Experience using orchestration frameworks (Airflow is ideal, but others are acceptable also)</li><li>Professional experience with JavaScript libraries for building user interfaces or UI components (React is ideal, but others like Angular and Vue.js are good also)</li><li>Knowledge of pragmatic engineering practices like iterative releases, test-driven development, continuous integration, and the use of version control systems (Git/GitHub is our primary system, but experience with TFS would be helpful too).</li><li>Non-trivial experience with any SQL-based RDBMS (PostgreSQL experience is especially useful).</li><li>Experience with NoSQL data stores (Redis) and asynchronous task processing a plus.</li><li>Experience with digital marketing or advertising a plus.</li><li>Microservices architecture experience is a plus.<br></li></ul><strong><u>Additional Information<br><br></u></strong>Diversity is embedded in who we are and all that we do: our mindset, our solutions, and in our teams to empower an inclusive, equitable environment. We put our people at the center, creating space for growth, understanding and learning so they can thrive. Our differences make us richer and enable stronger relationships with each other and foster greater impact for our clients. We engage with our communities to drive positive social impact by fostering equity and working to create a digital society that works for all. Employees from diverse or underrepresented backgrounds encouraged to apply.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T00:37:49.000Z"
+  },
+  "company": {
+    "name": "dentsu international",
+    "link": "https://uk.linkedin.com/company/dentsuintl"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "<strong>Job Description<br><br></strong><strong>The Role<br><br></strong>Fidelity is looking for a Principal DevOps engineer to join our Enterprise Cybersecurity Customer Protection team! We\u2019re looking for someone who has a passion for technical excellence, who can lead by example, and feels comfortable navigating ambiguity. Hands-on experience building and maintaining CICD pipelines, performing cloud migrations, and automating manual processes is a must! Come be part of a mission-critical team of engineers who are using best-in-class technology, cloud services, and DevOps practices to achieve maximum scalability, stability and resiliency!<br><br><strong>The Expertise And Skills You Bring<br></strong><ul><li>Bachelor's degree</li><li>5-8+ years of experience in a DevOps role</li><li>Strong linux systems administration expertise</li><li>Experience with AWS services such as EKS, EC2, ECS required</li><li>AWS or Kubernetes Certified preferred</li><li>Pipeline automation and orchestration utilizing the following stack or similar:</li><li>GIT, Jenkins, Maven, JUnit, Docker, JMeter, Artifactory, Sonar, Vericode, Kubernetes</li><li>Monitoring automation systems such as Datadog, CloudWatch or Splunk. Datadog preferred.</li><li>Understanding of networking infrastructure and protocols</li><li>Excellent troubleshooting and problem solving</li><li>Integrating modern SaaS solutions and vendors with existing systems and services</li><li>Migrating legacy products to reduce technical debt</li><li>Proven ability to effectively collaborate on a cross-functional agile team</li><li>Willingness to share on-call support rotation with your product team</li><li>Sharing operational expertise in a team aiming for DevOps perfection</li><li>Forever learning and expanding your skillsets to help create a well-rounded team</li><li>Automating yourself out of today\u2019s job so that you can move on to the next big challenge<br><br></li></ul><strong>The Team<br><br></strong>We are Customer Protection. We create the services that protect millions of customers every day! Our teams focus on delivering end-to-end product solutions where stability and security are our highest priority. We are obsessed with simplifying complex problems by automating everything and monitoring the right things.<br><br><strong>Certifications<br><br></strong>Company Overview<br><br>At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: <em>to strengthen the financial well-being of our clients</em>. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients\u2019 money.<br><br>Join Us<br><br>At Fidelity, you\u2019ll find endless opportunities to build a meaningful career that positively impacts peoples\u2019 lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don\u2019t need a finance background to succeed at Fidelity\u2014we offer a range of opportunities for learning and growth so you can build the career you\u2019ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.<br><br>We invite you to <strong>Find Your Fidelity</strong> at fidelitycareers.com.<br><br>Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.<br><br>Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:13:25.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake",
+    "region": "TX",
+    "postal_code": "76299",
+    "street_address": null,
+    "latitude": 32.99391,
+    "longitude": -97.19771
+  }
+}

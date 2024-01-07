@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>About Digicert<br><br></u></strong>DigiCert is the world\u2019s premier provider of high-assurance digital certificates. Since our founding in 2003, we\u2019ve been driven by the idea of finding a better way. A better way to provide authentication on the internet. A better way to tailor solutions to our customers\u2019 needs. A better way to enrich our employees\u2019 lives with opportunities to create the unexpected. Some people just want a job \u2013 others want to transform themselves and the connected world we live in. If you\u2019re the latter, join us in finding better ways to help people believe in their digital interactions.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Document design specifications, installation instructions, and other system-related information.</li> <li>Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.</li> <li>Automate provisioning of the servers and applications stack.</li> <li>Deploy application code in multiple environments and data centers. </li> <li>Maintain and administer computer networks and related computing environments including computer hardware, systems software, applications software, and all configurations.</li> <li>Help design \u2018self-healing\u2019 solutions to help ensure the stability and security of our services</li> <li>Perform data backups and disaster recovery operations.</li> <li>Diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.</li> <li>Operate master consoles to monitor the performance of computer systems and networks, and to coordinate computer network access and use.</li> <li>Strong interpersonal and communication skills. Ability to work across multiple functions and collaborate within a team environment.</li> <li>Innovative and can solve problems with unconventional techniques. Strong ability to think outside of the box.</li> <br><br></ul><strong><u>Required Qualifications<br></u></strong><ul> <li>Bachelors degree in Computer Science or equivalent work experience</li> <li>3+ years of experience in IT or Development Operations related roles</li> <li>1+ years of experience in the Hi-tech industry</li> <li>Experience with Deployment Tools: SALT, CHEF, PUPPET, VMWARE, Docker, Jenkins</li> <li>Experience with Database Environments: AWS, Linux, Windows, MySQL, Casandra</li> <li>Exposure to multiple programming languages</li> <br><br></ul><strong><u>Digicert Benefits<br><br></u></strong>DigiCert offers a competitive benefits package for all of our full-time employees. If you want to know more about them, please reach out to us at Life@digicert.com.<br><br>DigiCert is an Equal Opportunity employer and is committed to diversity in its workforce. In compliance with applicable federal and state laws, DigiCert prohibits discrimination on the basis of race or ethnicity, religion, color, national origin, sex, age, sexual orientation, gender identity/expression, veteran\u2019s status, status as a qualified person with a disability, or genetic information. Individuals from historically underrepresented groups, such as minorities, women, qualified person with disabilities, and protected veterans are strongly encouraged to apply.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:54:28.000Z"
+  },
+  "company": {
+    "name": "DigiCert, Inc.",
+    "link": "https://www.linkedin.com/company/digicert-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Utah",
+    "region": "United States",
+    "postal_code": "84655",
+    "street_address": null,
+    "latitude": 39.323776,
+    "longitude": -111.67822
+  }
+}

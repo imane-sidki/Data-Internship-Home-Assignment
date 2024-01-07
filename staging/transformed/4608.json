@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Monitoring",
+    "industry": "Computer & Network Security,Computer Software,Information Technology and Services",
+    "description": "We are looking for an experienced Site Reliability Engineering (SRE) to join Okta\u2019s Technical Operations (TechOps) Team. At Okta our motto is \"Always On\", and nowhere do we embrace that more than in Technical Operations. We strive to build the most reliable and performant systems on the planet through the skillful use of automation. We've created an integrated system that securely connects any person via any device to the technologies they need to do their most significant work.<br><br>This SRE Monitoring role is ideal for someone who has a love of monitoring and automation technology and enjoys seeing their team grow and succeed. The monitoring team at Okta is instrumental in providing visibility into Okta's large scale production environment and helping our customers high availability.<br><br><strong><u>The Ideal Candidate<br><br></u></strong>Has a track record of working in high-performing teams whilst still being hands-on.<br><ul><li>Has production experience with AWS cloud-based infrastructure.</li><li>Has operated complex custom applications on UNIX/Linux and/or Enterprise Java platforms</li><li>Is passionate about monitoring, observability and actionable alerts at scale.</li><li>Is a champion for automation and leveraging agile software development methodologies </li><li>Has in-depth knowledge of industry standard commercial or open source monitoring tools<br></li></ul><strong><u>Job Duties And Responsibilities<br></u></strong><ul><li>Become a team member of experienced engineers using agile development</li><li>Delivery of monitoring components:</li><ul><li>Collaborate with TPM, architects, and executive management</li><li>Design and code reviews</li><li>Partner with Okta security teams.</li></ul><li>Partner with recruiting to hire staff</li><li>Continuously refine monitoring processes, thresholds, and configuration</li><li>Respond to issues and escalations and participate in a management on-call rotation</li><li>Work closely with our monitoring tool vendors to drive improvement and economies<br></li></ul><strong><u>Minimum REQUIRED Knowledge, Skills, And Abilities<br></u></strong><ul><li>Experience with Amazon Web Services and knowledge of building and configuring AWS services</li><li>Experience with managing Linux Systems in production.</li><li>Proficient in at least one scripting language (Bash, Perl, Ruby, Python)</li><li>Production use of one of the following tools Splunk, Wavefront, Zabbix, ELK, Prometheus or Grafana</li><li>Prior experience in software development, DevOps role, or SRE role<br></li></ul>Okta\u2019s Top 5 Core Leadership Competencies are part of the deeply ingrained principles that guide all of our company\u2019s actions. They also align strongly to our cultural cornerstones, our Okta values: love our customers, empower our people, never stop innovating, act with integrity, and maintain transparency. It\u2019s our expectation that our managers and leaders embody these core competencies:<br><ul><li>Builds Effective Teams: Building strong-identity teams that apply their diverse skills and perspectives to achieve common goals. </li><li>Demonstrates Self-Awareness (EQ): Using a combination of feedback and reflection to gain productive insight into personal strengths and weaknesses.</li><li>Develops Talent: Developing people to meet both their career goals and the organization\u2019s goals.</li><li>Drives Results: Consistently achieving results, even under tough circumstances.</li><li>Strategic Mindset: Seeing ahead to future possibilities and translating them into breakthrough strategies.<br></li></ul>Okta is an Equal Opportunity Employer.<br><br>Okta is rethinking the traditional work environment, providing our employees with the flexibility to be their most creative and successful versions of themselves, no matter where they are located. We enable a flexible approach to work, meaning for roles where it makes sense, you can work from the office, or from home, regardless of where you live. Okta invests in the best technologies and provides flexible benefits and collaborative work environments/experiences, empowering employees to work productively in a setting that best and uniquely suits their needs. Find your place at Okta https://www.okta.com/company/careers/.<br><br>By submitting an application, you agree to the retention of your personal data for consideration for a future position at Okta. More details about Okta\u2019s privacy practices can be found at: https://www.okta.com/privacy-policy.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T04:17:36.000Z"
+  },
+  "company": {
+    "name": "Okta",
+    "link": "https://www.linkedin.com/company/okta-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

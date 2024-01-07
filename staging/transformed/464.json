@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Research,Information Technology and Services",
+    "description": "<p>SGA's Data Analytics (DA) team requires a self-learning Data Scientist, to solve complex analyticsproblems for our US based global Media clients. Our team of60+ Data Engineers + Data scientists already use multiple available open source and licensed tools in the marketto solve complex problems and drive business decisions.</p><p><br></p><p>What you will be responsible for -</p><p>\u2022 Identify valuable data sources and automate collection processes</p><p>\u2022 Work directly with the stakeholders on analytics framework model building, database design, and deployment strategies</p><p>\u2022 Undertake pre-processing of structured and unstructured data</p><p>\u2022 Analyze large amounts of information to discover trends and patterns and present information using data visualization techniques</p><p>\u2022 Apply advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems</p><p>\u2022 Propose analytic solutions and strategies to business challenges</p><p>\u2022 Dive into data, clean it up, and pull-out insights that can be used to improve system performance and present to senior leaders with recommendations on business actions</p><p>\u2022 Develop and test models using appropriate tools and technologies and deploying the same in the production environment using continuous delivery practices</p><p>\u2022 Assist the development team with productization of successful algorithms, ensuring your work continues to drive value at scale</p><p><br></p><p>What you should have -</p><ul><li>5+ years of overall industry experience specifically in data engineeringand analytics</li><li>4+ years of experience building and deploying large scale data processing and analytics pipelines in a production environment</li><li>Broad experience building different types of advanced analytic solutions, including some of the following: time series analysis, cluster analysis, tree-based algorithms, generalized linear models, text analytics, or neural networks</li><li>Strong experience in building data pipelines and analysis processes using Python and PySpark</li><li>Familiaritywith DevOps systems, such as GitLab</li><li>Understanding the concepts of API and their integration with anycoding language</li><li>Database architecture, maintenance and usage of Redshift</li><li>Experience with TB or PB size datasets preferred</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T12:42:05.000Z"
+  },
+  "company": {
+    "name": "SG Analytics",
+    "link": "https://in.linkedin.com/company/sg-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

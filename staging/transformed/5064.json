@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. DevOps Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<p><strong>About the role</strong></p><p>PetDesk is looking for a DevOps Engineer with a strong AWS background to grow and manage infrastructure for its expanding suite of applications and services. As the lead DevOps Engineer, you will spearhead activities that drive the PetDesk platform to meet business requirements for reliability, availability, and incident response. Working in collaboration with the Engineering team, you will help improve development and test environments, security, and deployment processes while creating best practices and tools to empower developers to create and deploy new applications and services.</p><p><br></p><p><strong>Apply if you\u2019re excited to</strong></p><ul><li>Design, deploy, manage, and drive improvements for PetDesk\u2019s cloud applications and services infrastructure.</li><li>Pinpoint the most important areas for automation in the deployment process, recommending and implementing impactful solutions.</li><li>Partner with Software Developers to create robust monitoring, logging, and auditing.</li><li>Continuously build and improve upon infrastructure that is secure, scalable, and highly available.</li><li>Establish patterns and best practices for a rapidly growing SaaS platform and Engineering team.</li></ul><p><br></p><p><strong>About you</strong></p><ul><li>Professional experience as lead or principal contributor in the creation and maintenance of cloud infrastructure for a SaaS software or similar organization.</li><li>Deep knowledge of core AWS products and concepts (IAM, ALB/NLB, Route 53, RDS, EC2, ECS/Fargate, etc.).</li><li>Experience with an AMI management tool such as Packer.</li><li>Developed CI/CD pipelines (e.g. Jenkins, TeamCity, Circle CI).</li><li>Experience following best practices implementing infrastructure as code, leveraging Terraform or Cloudformation</li><li>Implementation of tooling and processes to monitor resources and alert problems.</li><li>Solid comprehension of cloud security fundamentals.</li><li>Preference for candidates with experience deploying .NET applications (.NET Framework, .NET Core, IIS, Docker).</li></ul><p><br></p><p><strong>Benefits &amp; Perks</strong></p><p>PetDesk is a Remote First organization, ensuring our culture, infrastructure, and ecosystem supports team members' participation in critical decisions and information sharing, regardless of location. Benefits and perks include:</p><p><br></p><ul><li>Stock Options</li><li>100% Medical coverage for employees and dependents (most plans)</li><li>Health &amp; Dependent Care Flexible Spending Accounts (FSA)</li><li>Dental &amp; Vision coverage available</li><li>Basic Life and AD&amp;D Insurance</li><li>Short and Long Term Disability</li><li>Flexible Time Off &amp; 15 Paid Annual Holidays</li><li>2% Non Elective 401k Contribution</li><li>Paid Parental Leave</li><li>Pawternity Leave, Pet Adoption Benefit &amp; Subsidized Pet Insurance</li><li>$250 Annual PetDesk Scholarship Stipend for L&amp;D</li><li>Veterinary Medicine Diversity &amp; Inclusion Certificate Program</li></ul><p><br></p><p><strong>About Us</strong></p><p>PetDesk, an industry leader in Veterinary client communication software, has helped over 2,500 veterinary practices streamline business with simple software solutions that help pet parents stay current and pet care providers stay connected. Over 2M pet parents use the trusted PetDesk App to talk to their clinic, and with 5-star ratings across multiple review sites, our belief in robust, customer success plans, keeps our customers focused on delivering animal healthcare.</p><p><br></p><p>Founded in 2013 and headquartered in San Diego, CA, PetDesk secured a Series-B Investment of $12M from Silicon Valley-based Peakspan Capital in Dec. 2018. We value curiosity, vulnerability, joy, and fulfillment - which drive us in our mission to engage pet parents in their pet's health through a deeper relationship with their pet care providers - ultimately delivering on our vision to extend and improve the lives of pets, pet care providers, and the people working here at PetDesk.</p><p><br></p><p>PetDesk has 90+ employees and proudly supports a gender-balanced workforce. PetDesk is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. The more inclusive we are, the better our work will be.</p><p><br></p><p>Please, no external recruiters\u2014candidate profiles submitted from external recruiting agencies will not be considered.</p><p><br></p><p><strong><em>Notice at Collection to Applicants Residing in California</em></strong></p><p>Depending on your location, the California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how your data will be processed as part of the application procedure for application locations is available at thislink. By submitting your application, you are agreeing to our use and processing of your data as required.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:48:26.000Z"
+  },
+  "company": {
+    "name": "PetDesk",
+    "link": "https://www.linkedin.com/company/petdesk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

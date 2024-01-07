@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer - Java Backend Services (US REMOTE)",
+    "industry": "Information Technology and Services",
+    "description": "We are a Series D company that\u2019s on a mission to make hospitals more efficient with data science and machine learning. 110+ health systems and 400+ hospitals, across 40 states, rely on our award-winning products to increase patient access, decrease wait times, and reduce healthcare delivery costs. We have raised more than $250 million from top-tier investors such as Insight Partners and Goldman Sachs. We have been named among the top 100 AI companies in the world.<br>Our backend engineers work with small, close-knit, cross-functional teams to build backend APIs that power our products. They are product engineers - i.e, they work with PM, Design, Data Science, and Frontend engineers to understand customer needs and build simple and delightful user experiences to solve hard problems. The stack is MySQL and Java Play on AWS.<br><strong><em>This position can be performed remotely from anywhere in the US, regardless of any location that might be specified. We have offices in Santa Clara, CA and Charlotte, NC for employees who prefer to work regularly or occasionally from an office.<br></em></strong><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Collaborate with PM, Design and Data Science to understand and solve customer problems with elegant solutions. </li><li>As a lead developer you will help to plan and scope new features, maintain and improve quality within the team, and set the direction for our future architecture.</li><li>Evolve our backend services with new features, enhancements, and bug fixes to increase product value and improve reliability, security and scalability. </li><li>Drive elegant systems design and produce clean, readable, performant code using best practices and guidelines. </li><li>Participate in design reviews, code reviews, on-call rotations, interviews, etc.<br></li></ul><strong><u>What You'll Bring<br></u></strong><ul><li>Bachelor\u2019s Degree in Computer Science, Engineering or equivalent work experience. </li><li>5+ years professional experience building production RESTful web services in Java in cloud environments (AWS preferred, GCP or Azure is also ok). </li><li>Experience as a good generalist systems designer and coder who can come up with well thought out designs for scalable web services / systems and the ability to build them neatly. </li><li>A strong command of Java and the ability to write and champion clear, easy to follow, performant and secure code. </li><li>A robust understanding of database driven RESTful web services and web architectures in general. </li><li>A solid understanding of SQL and MySQL and an ability to write complex, performant, elegant queries. <br></li></ul><strong>BONUS POINTS IF YOU HAVE<br></strong><ul><li>Managerial or Team Lead experience</li><li>Experience working with serverless technologies like AWS lambdas, API Gateways and SQS</li><li>Experience in developing GraphQL APIs</li><li>Experience working with healthcare products<br></li></ul><strong><u>What You\u2019ll Get<br></u></strong><ul><li>Intellectual and emotional satisfaction of solving tough operational problems in healthcare while improving patient access and saving lives!</li><li>Competitive compensation package that includes base salary, annual bonus, and RSUs</li><li>401(k) Match</li><li>Comprehensive healthcare benefits</li><li>Generous Paid Time Off and Parental Leave</li><li>Monthly reimbursement for Skill Building </li><li>Monthly reimbursement for Wellness, Transportation, and/or Home Office</li><li>Education Reimbursement for select courses/programs<br></li></ul>LeanTaaS is an equal opportunity employer committed to promoting an inclusive work environment free of discrimination and harassment. We value diversity, inclusion, and aim to provide a sense of belonging for everyone. All qualified applicants for employment will be considered without regard to race, color, sex, gender identity, gender expression, religion, age, national origin or ancestry, citizenship, physical or mental disability, medical condition, family care status, marital status, domestic partner status, sexual orientation, genetic information, military or veteran status, or any other basis protected by federal, state or local laws. If you require assistance during the application process, please reach out to accommodations@leantaas.com. LeanTaaS will reasonably accommodate qualified individuals with disabilities to the extent required by applicable law.<br>Please note: LeanTaaS is not accepting agency resumes at this time, and we are not responsible for any fees related to unsolicited resumes. Thank you.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:09:29.000Z"
+  },
+  "company": {
+    "name": "LeanTaaS",
+    "link": "https://www.linkedin.com/company/leantaas"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - HBO Max",
+    "industry": "Entertainment",
+    "description": "<strong><u>Company Overview<br><br></u></strong>WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world\u2019s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.<br><br>HBO Max is where storytelling takes center stage and where creatives find a home with the support and resources to do their best work, no matter the genre or format. Whatever the viewer wants to watch is front and center and more of what they crave is easily discovered. It is where our exclusive HBO Max Originals and iconic entertainment brands thrive, with HBO, Warner Bros., DC, Turner Classic Movies, Cartoon Network and more delivering the greatest array of series, movies and specials for audiences of all ages. HBO Max launched in the US in May 2020 and will launch in Latin America and Europe during 2021.<br><br>Join us. Shape your story here.<br><br><strong>The Job<br><br></strong>As a Machine Learning Engineer, you will be part of a talented Machine Learning (ML) group focused on developing innovative machine learning algorithms, scalable ML systems, and HBO Max applications.<br><br>You will focus on developing and deploying engineering systems such as customer life cycle models, audience segmentation systems, personalization and recommender systems, search, experimentation, and content AI solutions to drive user experience and growth.<br><br>You will partner closely with product, engineering, content, marketing, and research stakeholders across WarnerMedia to identify ML opportunities, accelerate AI innovation, and ensure the delivery of impactful solutions for the business.<br><br><strong>The Daily<br></strong><ul><li>Work with data scientists, data engineers to design best-suited, robust, and scalable ML solutions and evaluate the deployed ML model\u2019s effectiveness.</li><li>Write robust production-level and well tested code and engage in code reviews.</li><li>Deploy ML model pipelines, scale through Big Data, optimize performance and automate fail-over.</li><li>Enhance our machine learning infrastructure and framework.</li><li>Collaborate with other MLE teams to promote and contribute to shared services and libraries.</li><li>Design and implement data pipelines and data quality controls.</li><li>Raise the bar on SDLC and CI/CD practices.<br></li></ul><strong><u>The Essentials</u></strong><ul><li>Technical education in Computer Science, Information Science, Engineering, or equivalent experience (Masters degree or higher preferred).</li><li>Has relevant and hands-on experience in Machine Learning Engineering with a track record of building high quality, scalable and robust ML solutions. We will consider exceptional entry level candidates, Industry experience preferred.</li><li>Has experience in incrementally building big data product and production pipelines to support product functionalities, data and analytic functions.</li><li>Flexible and comfortable working in a dynamic team environment with a distributed organization and minimal process.</li><li>Familiarity with the following technologies and frameworks is strongly preferred:</li><ul><li>ML Technologies: Spark, MxNet, TensorFlow, Scikit-Learn</li><li>AWS stack with a specific focus on the following solutions: EMR, Glue, Sagemaker, ECS/EKS, Lambda, CloudWatch</li><li>Data stack: Snowflake, Grafana, SQS/Kafka/Kinesis</li><li>Proficient in Python and OOP languages like Java</li><li>ML model pipelines, orchestration frameworks, micro-services architecture</li></ul><li>Familiarity with data science techniques is a plus.<br></li></ul><strong>The Perks<br></strong><ul><li>Exclusive WarnerMedia events and advance screenings</li><li>Paid time off every year to volunteer for eligible employees</li><li>Access to well-being tools, resources, and freebies</li><li>Access to in-house learning and development resources</li><li>Part of the WarnerMedia family of powerhouse brands<br></li></ul>Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T13:54:21.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 153000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Big Data Engineer (Kafka/Hive)",
+    "industry": "Information Technology and Services,Management Consulting",
+    "description": "***This position is not offering sponsorship at this time. Must be capable of working for any US employer***<br><br>Roles/Responsibilities (5 - 8 day to day candidate\u2019s responsibilities)<br><ul> <li>6+ years of work experience in Bigdata technology and Kafka. </li> <li>Strong Communication, Articulation, Analytical Skills. </li> <li>Ability to handle multiple stakeholders including management</li> <li>Collaborating closely with business users and PMO to review requirements. </li> <li>Develop, recommend and discuss technical designs that meet those requirements.</li> <li>Analyzing, documenting, and performing system configuration and setup as well as integration and system testing.</li> <li>Troubleshooting issues with existing systems and resolve. Ability to work in team environment and client interfacing skills.</li> <li>Unix shell scripting Knowledge and basic idea about unix file system, file transfer protocol (ftp, sftp, ssh, scp etc). Knowledge on firewall, file encryption/decryption etc will be added advantage.</li> <li>Any programming skill such as python or java will be added advantage.</li> <li>Basic Knowledge on any one RDBMS such as Oracle or MySQL, some basic knowledge on data models, theoretical/working knowledge on dimension model and/or entity relationship model, normalization etc.</li> <li>Knowledge on job scheduling such as Cron job or any UI based scheduler.</li> <li>Production job monitoring in Tidal - Verify whether jobs are running as per schedule, are there any long running jobs, failed job, restart, are there any missing data from source, reaching out to source point of contact and publish SLA to downstream teams.</li> <li>Run jobs manually with increased memory parameters if required from Unix command line.</li> <li>Update Chalk page for production support with any job events(documentation) and action to be taken if the same job events occur in future.</li> <li>Shift Handover documentation to next person in support roster. </li> <li>Submit firewall tickets when additional nodes are added, validate them, submit Big data Admin tickets etc using Internal service tracker system to respective teams and follow up to get them resolved.</li> <li>Should be able to work on small enhancements to the existing production process which involves Unix Shell scripting, file handling, data copy from Dev to Prod, Data copy from external sources, encryption, decryption etc. </li> <li>Should be able to understand the existing Hadoop environment, framework to develop and deploy code for any new requirements. </li> <li>Should be able to understand data issues in Prod, analyze the root cause and provide solutions such as full data reload or missing data load within SLA.</li> <li>Good Communication and Interpersonal Skills.</li> <br></ul>Required Qualifications (5 - 8 bullet points on must have skills)<br><ul> <li>Experience with Lean / Agile development methodologies</li> <li>Strong Communication, Articulation, Analytical Skills</li> <li>Ability to handle multiple stakeholders including management</li> <li>Collaborating closely with business users and PMO to review requirements. </li> <li>Develop, recommend and discuss technical designs that meet those requirements.</li> <li>Analyzing, documenting, and performing system configuration and setup as well as integration and system testing.</li> <li>Troubleshooting issues with existing systems and resolve. Ability to work in team environment and client interfacing skills.</li> <br><br></ul>Employee Status : Full Time Employee<br><br>Shift : Day Job<br><br>Travel : No<br><br>Job Posting : Jul 19 2021<br><br><strong><u>About Cognizant<br><br></u></strong>Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 194 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @USJobsCognizant.<br><br>Cognizant is recognized as a Military Friendly Employer and is a coalition member of the Veteran Jobs Mission. Our Cognizant Veterans Network assists Veterans in building and growing a career at Cognizant that allows them to leverage the leadership, loyalty, integrity, and commitment to excellence instilled in them through participation in military service.<br><br>Cognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.<br><br>If you have a disability that requires a reasonable accommodation to search for a job opening or submit an application, please email CareersNA2@cognizant.com with your request and contact information.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:54:46.000Z"
+  },
+  "company": {
+    "name": "Cognizant",
+    "link": "https://www.linkedin.com/company/cognizant"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Biotechnology,Hospital & Health Care,Electrical/Electronic Manufacturing",
+    "description": "<p><strong>Employer</strong></p><p>Our Client is an innovative, value-driven, venture capital-backed biotechnology firm that is pioneering a transformative platform to manufacture cell-based therapies.</p><p></p><p><strong>Overview</strong></p><p>This is a full-time, permanent position working for our client. Our client is an essential and stable business based out of the Greater Boston area. We are seeking a Senior Software Engineer for our client to create interfaces between lab automation systems, instruments, and cloud-based experiment management &amp; data infrastructure. You will also develop cloud-based data storage, retrieval, and processing pipelines. Collaborate with existing Engineers and Scientists to execute automating biological experimentation and analysis.</p><p></p><p></p><p><strong>Qualifications</strong></p><p>\u00b7Experience with Python (5+ years)</p><p>\u00b7Database Experience: SQL and NoSQL</p><p>\u00b7Experience in Schema design, migration, Object-Relational Mapping</p><p>\u00b7Knowledge of cloud-based computing and storage infrastructure</p><p>\u00b7Experience in Restructuring code, Application security, CI/CD</p><p>\u00b7Excellent communication skills</p><p>\u00b7Live in the Greater Boston area or be willing to self-relocate</p><p>\u00b7Must be a Citizen of the US or legal resident of the US</p><p>\u00b7Google Cloud Platform Experience (<em>Nice to have Qualification</em>)</p><p>\u00b7Software deployment through Kubernetes (<em>Nice to have Qualification</em>)</p><p>\u00b7REST API design and development (<em>Nice to have Qualification)</em></p><p>\u00b7Background knowledge in Lab automation, Bioinformatics (<em>Nice to have Qualification</em>)</p><p><br></p><p></p><p>At Qerala, at the heart of our talent acquisition process, profoundly understanding the talent and the organization using science is crucial for an employer-employee relationship. A strange concept: using science for talent acquisition, for industries in science. This core tenet is what Qerala brings to the talent acquisition world. We recognize that there is no foolproof way of recruiting, but having more data that speaks to the heart of employee-employer values can be the difference in what you're experiencing today. We believe getting the right people in the right roles in support of your goals is the most important factor to your business success.</p><p></p><p>This is with a client of Qerala Group LLC. This is a full-time, permanent position. Qerala Group LLC is the search firm retained on their behalf.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:08:14.000Z"
+  },
+  "company": {
+    "name": "Qerala",
+    "link": "https://www.linkedin.com/company/qerala"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

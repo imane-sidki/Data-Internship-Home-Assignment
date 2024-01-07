@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness,Pharmaceuticals,Retail",
+    "description": "<strong><u>Job Summary<br><br></u></strong>Applies advanced data analysis tools and techniques to provide insights and actionable recommendations for the business. Utilizes complex statistical modeling to make predictions about future outcomes and in multiple scenarios. May explain findings to business audience.<br><br><strong><u>Job Responsibilities<br><br></u></strong><li> Responsible for applying advanced data analysis tools and techniques to provide insights and actionable recommendations for the business. Utilizes complex statistical modeling to make predictions about future outcomes and in multiple scenarios.</li><li> Interprets and applies data in complex analyses, and explains findings to business audiences to improve products and processes.</li><li> May support or lead the development of data-related commercial offerings and/or other intellectual property (IP)</li><li> Implements statistical and mathematical analyses to support business resolution making.</li><li> Develops and/or uses algorithms and statistical predictive models and determines analytical approaches and modeling techniques to evaluate scenarios and potential future outcomes.</li><li> Applies analytical rigor and statistical methods to analyze large amounts of data, using advanced statistical techniques such as predictive statistical models, customer profiling, segmentation analysis, survey design and analysis, and data mining.</li><li> Documents projects including business objectives, data gathering and processing, leading approaches, final algorithm, detailed set of results and analytical metrics.</li><li> Develops materials to explain project findings.</li><li> Effectively resolves problems and roadblocks as they occur.</li><li> Interacts with internal and external peers and/or managers to exchange semi-complex information related to assigned activities.</li><li> Prepares and presents interpretation of findings to internal clients.<br><br></li><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor's degree and at least 2 years of experience in quantitative or computational functions; or graduate degree in a quantitative, computational or technical discipline</li><li>Knowledge of SQL</li><li>Experience in data science, advanced analytics, or statistics. Ability to interrogate data, perform analyses, interpret data, and present to business audiences.</li><li>Knowledge of open source data science and statistics packages such as Python, R, Spark, etc.</li><li>Experience establishing and maintaining key relationships with internal (peers, business partners and leadership) and external (business community, clients and vendors) within a matrix organization to ensure quality standards for service.</li><li>Experience analyzing and reporting data in order to identify issues, trends, or exceptions to drive improvement of results and find solutions.</li><li>Willing to travel up to 10% of the time for business purposes (within state and out of state).<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Graduate degree in a quantitative, computational or technical discipline</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Walgreens",
+    "link": "https://www.linkedin.com/company/walgreens"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Deerfield",
+    "region": "IL",
+    "postal_code": "60015",
+    "street_address": null,
+    "latitude": 42.167313,
+    "longitude": -87.84573
+  }
+}

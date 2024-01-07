@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Blackbaud, Inc. is seeking a Software Engineer in Plano, TX.<br><br>Job Duties: Work within our CSR and Grants platforms using the following stack: Angular 1.5, ASP.NET, Web API, MS SQL Server, Nodejs, and NoSQL. Work closely with the QA team to assist in the development and implementation of test plans. Participate in daily stand ups. Implement designs defined by the team lead. Maintain existing applications. Work closely with team leads to identity and eliminate any roadblocks. Work with little direct supervision on implementing designs defined by team or lead. Perform maintenance of existing applications. Work closely with respective team leads to identity and eliminate any roadblocks. Assist in the development and implementation of test plans by working closely with the QA team. Participate in daily stand ups.<br><br>Qualifications: Master\u2019s degree in Computer Science, Computer Information Systems, or a related field of study, and one (1) year of experience as an Application Developer, Software Engineer, or relate role. One (1) year of experience with: Developing applications using Microsoft technology stack, including C#, ASP.NET, Web API, and MVC; Angular 1.5 or later or any MV* JavaScript framework; Building enterprise applications using Microsoft Web Tech stack; Object-oriented programming and design; Building applications on top of MS SQL Server or Postgres; Software development methodologies, including Agile and TDD Exposure; Building cloud-based applications in AWS or Azure Exposure; OR/M tools, including Entity Framework or Dapper; and Nodejs. Alternatively, employer will accept a Bachelor\u2019s degree in Computer Science, Computer Information Systems, or a related field of study, and three (3) years of experience as an Application Developer, Software Engineer, or a related role. Three (3) years\u2019 experience with: Developing applications using Microsoft technology stack, including C#, ASP.NET, Web API, and MVC; Angular 1.5 or later or any MV* JavaScript framework; Building enterprise applications using Microsoft Web Tech stack; Object-oriented programming and design; Building applications on top of MS SQL Server or Postgres; Software development methodologies, including Agile and TDD Exposure; Building cloud-based applications in AWS or Azure Exposure; OR/M tools, including Entity Framework or Dapper; and Nodejs.<br><br>Stay up to date on everything Blackbaud, follow us on Linkedin, Twitter, Instagram, Facebook and YouTube<br><br>Blackbaud is proud to be an equal opportunity employer and is committed to maintaining a diverse and inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.<br><br><em><strong>To all recruitment agencies:</strong> We do not accept unsolicited agency resumes and are not responsible for any fees related to unsolicited resumes.<br><br></em><strong> R0007784</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:31:54.000Z"
+  },
+  "company": {
+    "name": "Blackbaud",
+    "link": "https://www.linkedin.com/company/blackbaud"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66400,
+    "max_value": 95000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

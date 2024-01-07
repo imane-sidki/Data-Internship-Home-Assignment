@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Who We Are <br><br></strong>Founded by veteran business executive, Noosheen Hashemi, and Director of Genomics and Personalized Medicine at Stanford University, Dr. Michael Snyder \u2013 and backed by Silicon Valley luminaries Jerry Yang, Marc Benioff, and Steve Chen \u2013 January AI is the first precision health company that combines heart rate and continuous glucose monitors, sleep and activity tracking, and seamless meal logging, including inferred calorie and fiber consumption drawing from a proprietary atlas of 16m foods, to give you a complete picture of your metabolic well-being and nudge you towards better habits in just 30 days\u2014from predicting which foods you should eat and avoid, to when a brisk walk or overnight fast can bring your blood sugar back into a healthy range.<br><br>Check out our recent coverage in STAT, TechCrunch, New York Times, and VentureBeat.<br><br>At January AI, we believe that every day is January 1st, that every day is a fresh start. We believe that health isn\u2019t a place you reach, but the simple process of doing just a little better than yesterday. We believe that self-improvement is a team sport. That\u2019s why January AI is creating a community of everyday people building their healthy habits, together. January AI is backed, among others, by Marc Benioff, Jerry Yang and Steve Chen, founders of Salesforce, Yahoo! and YouTube. If you\u2019re ready to join our team and help grow this community, please submit your application following the link provided.<br><br>Position Overview<br><br>We are looking for an experienced machine learning (ML) engineer with practical experience utilizing deep learning methods and tools. As part of the machine learning team at January AI, you would be working on various AI initiatives including investigating and implementing models and algorithms to predict biomedical and behavioral quantities from unstructured biomedical and user generated data, and work closely with the engineering team to release ML- features based on your models to the January AI platform. You would collaborate with the product team to influence future roadmaps for ML-driven features on the January AI platform and would apply your ML expertise to develop models that improve our existing ML-driven products.<br><br><strong> Roles And Responsibilities <br></strong><ul><li>Design and implement models using Deep Learning and other machine learning algorithms and techniques</li><li>Leverage deep understanding of modern machine learning techniques to enhance the existing app features</li><li>Develop prototypes for new features/services and deliver reliable machine learning features for deployment</li><li>Manipulate and analyze complex, high-volume, high dimensionality data from multiple sources</li><li>Deliver end-to-end, scalable, performant, and reliable machine learning features in production<br><br></li></ul><strong> Required Qualifications <br></strong><ul><li>Advanced degree (MS, PhD) in computer science, electrical and computer engineering, or other fields related to machine learning) </li><li>2+ years of industry experience or equivalent research experience</li><li>Prolific experience writing deep learning and other machine learning algorithms and workflows in python</li><li>Deep theoretical and practical experience with a number of ML techniques and frameworks such as deep neural networks, RNN, CNN, AE, GAN, Transformers, etc</li><li>Proficiency at coding and debugging workflows written using deep Learning frameworks such as PyTorch, Keras and/or TensorFlow</li><li>Practical experience with software engineering practices (e.g. unit testing, code reviews, design documentation)</li><li>Be driven to deliver impactful consumer-focused solutions</li></ul>Nice to have<br><ul><li>Prior working experience with healthcare, wearable device, and/or human subject data</li><li>Previous work implementing recommender systems in a product<br></li></ul>We'd love to hear from you!<br><br>January is an equal opportunity employer.<br><br>We are a diverse team and are committed to creating an inclusive environment for all employees.<br><br>Our HQ office is located in sunny and beautiful downtown Menlo Park, CA, walking distance to Caltrain and local cafes and restaurants.<br><br>Local or West coast-based candidates preferred.<br><br>Benefits and Perks of working Full-time at January include: Competitive salary and equity packages; 401k with corporate matching; Health, dental, vision, life and AD&amp;D insurance; Commuter benefits.<br><br>We do not accept third-party solicitation for employment.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:30:16.000Z"
+  },
+  "company": {
+    "name": "January AI",
+    "link": "https://www.linkedin.com/company/january-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82900,
+    "max_value": 180500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

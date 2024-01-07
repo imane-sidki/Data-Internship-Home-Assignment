@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Internet,Financial Services,Hospital & Health Care",
+    "description": "Hims &amp; Hers Health, Inc. (better known as Hims &amp; Hers) is a multi-specialty telehealth platform building a virtual front door to the healthcare system. Hims &amp; Hers connects consumers to licensed healthcare professionals, enabling people to access high-quality medical care\u2014from wherever is most convenient\u2014for numerous conditions related to primary care, mental health, sexual health, skincare, and more. Launched in November 2017, the platform also offers thoughtfully created and curated health and wellness products. With products and services available across all 50 states and Washington, D.C., Hims &amp; Hers\u2019 mission is to make it easier for all Americans to access affordable care and treatment for conditions that impact their daily lives. In January 2021, the company was listed on the NYSE at an initial valuation of $1.6 billion and is traded under the ticker symbol \u201cHIMS\u201d. To learn more about our brand and offerings, you can visit forhims.com and forhers.com .<br><br>Hims and Hers is seeking a Software Engineer to help build a fast, reliable, and frictionless telemedicine experience.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Build backend services that power our telehealth platform</li> <li>Brainstorm features with product managers and designers and guide decisions based on your knowledge of the codebase</li> <li>Review code and have your code reviewed</li> <li>Mentor and be mentored by other engineers</li> <li>Actively participate in retrospectives and help drive continuous improvement in our process and culture</li> <br><br></ul><strong><u>Experience And Skills<br></u></strong><ul> <li>Have 2+ years as a software engineer, shipping production code</li> <li>Are proficient at writing distributed services using Java, Kotlin, and/or PostgreSQL</li> <br><br></ul>Hims is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Hims considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T19:20:49.000Z"
+  },
+  "company": {
+    "name": "hims &amp; hers",
+    "link": "https://www.linkedin.com/company/hims-&amp;-hers"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

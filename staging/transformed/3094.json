@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>We\u2019re building fully-electric farm machines for sustainable and regenerative agriculture. We have received a National Science Foundation SBIR grant to do research on computer vision for understanding plant geometry. This is a challenging problem in farm fields where many plants can overlap and occlude one another. We\u2019re looking for a remote software developer to help with building and running the software involved in this research. The grant period is 9 months, but if the project goes well there is a good chance that the work will continue after that.</p><p><br></p><p>Requirements:</p><ul><li>experience with C++</li><li>experience with Python</li><li>experience with image processing and/or computer vision algorithms</li><li>experience with PyTorch and/or TensorFlow</li><li>based in US</li></ul><p><br></p><p>Optional:</p><ul><li>experience with developing and running machine learning models on AWS</li><li>experience with OpenCV</li></ul><p><br></p><p>To apply: please send a resume along with a link to some C++ and/or Python code that you have written.</p><p><br></p><p>Compensation: $117k/year (for 9 months) plus health insurance</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T00:25:00.000Z"
+  },
+  "company": {
+    "name": "Modular Science",
+    "link": "https://www.linkedin.com/company/modular-science"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p>Position Summary :</p><p>This Machine Learning position lies within the newly formed Data Science Optimization team. DSO\u2019s mission is to accelerate the scientific, engineering, and commercial efforts of the 800+ data scientists and engineers in the Analytics &amp; Behavior Change organization through data-driven solution development. You will be working cross-functionally with a diverse multi-disciplinary team of data scientists, data engineers, and machine learning engineers. Each project is ambitious and far reaching, with the potential to become a new internal standard, open source software, and/or differentiating intellectual property. Whether you\u2019re developing a niche package/library to enhance the data science workflow or engineering a highly generalizable machine learning system for the enterprise, know that there are millions of members, customers, and users being directly and indirectly affected by this work.</p><p><br></p><p>The role requires a keen sense of ownership, scrappiness, and initiative. If you have an insatiable curiosity for how things work, enjoy building things, are obsessed with measuring, and are energized by tackling complex problems, then we\u2019d love to work with you.</p><p><br></p><p><strong>Required Qualifications :</strong></p><p>\u2022 Excellent analytical and problem-solving skills.</p><p>\u2022 Highly proficient in Python, SQL, shell scripting, Git.</p><p>\u2022 Substantive experience working with peta-scale data in a cloud environment (GCP, AWS, Azure).</p><p>\u2022 Thorough understanding of machine learning engineering principles such as distributed/parallel computing paradigms and advanced data structures.</p><p>\u2022 Experience building machine learning and ETL/ELT pipelines (Airflow, Kubeflow, Prefect) and deploying them to the cloud.</p><p>\u2022 Thorough understanding of and appreciation for data unit testing.</p><p>\u2022 Experience working with a cloud data warehouse such as BigQuery, Snowflake, or Redshift.</p><p>\u2022 Familiarity with modern libraries for scaling up workloads such as Dask, PyArrow, and Rapids.</p><p>\u2022 Strong collaboration and communication skills within and across teams.</p><p>\u2022 Bachelor's degree or equivalent work experience in Computer Science, Engineering, or related discipline.</p><p><br></p><p><strong>Preferred Qualifications :</strong></p><p>\u2022 Experience developing real-time/streaming data pipelines.</p><p>\u2022 Familiarity with Fivetran, Stitch, DBT, or Dataflow.</p><p>\u2022 Proficiency in C++ or Java.</p><p>\u2022 Interested in mentoring junior team members.</p><p>\u2022 Strong organizational, management, and leadership skills.</p><p>\u2022 Ability to communicate technical ideas and results to non-technical clients in written and verbal form.</p><p>\u2022 Master\u2019s degree or PhD in Computer Science, Engineering, or related discipline.</p><p><br></p><p><strong>Education :</strong></p><p><br></p><ul><li>Master\u2019s degree or PhD preferred.</li><li>Bachelor's degree or equivalent work experience in Computer Science, Engineering, Machine Learning, or related discipline.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T20:03:44.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

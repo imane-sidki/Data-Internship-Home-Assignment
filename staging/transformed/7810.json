@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p>Title: Data Scientist</p><p>Location: Dallas, TX or Atlanta, GA (Post Covid)-remote for now</p><p>Type: Contract &amp; Fulltime</p><p><br></p><p>Job Description:</p><p><br></p><p>1.\tA data scientist for the ML program of AIOps, which uses the FB Prophet forecasting algorithm.</p><p>2.\tThe staff will be involved in analysis of time series data, root cause analysis of anomaly data, maintenance and enhancement of the forecasting techniques as well.</p><p>3.\tAs Prophet is not a typical anomaly detection model, this isn\u2019t giving us the insightful recommendations we need to avoid/ minimize outages- so the expectation is also to be able to propose alternate / improved techniques during the course of regular implementation so that this helps to strengthen our footprint on this track</p><p><br></p><p>Interested please share your updated resume to kishore@kbs-s.com</p><p><br></p><p>Best Regards</p><p>Kishore</p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T12:54:06.000Z"
+  },
+  "company": {
+    "name": "KBS Solutions",
+    "link": "https://www.linkedin.com/company/kbs-tech-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

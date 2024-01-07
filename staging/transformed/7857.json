@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Primary Responsibilities<br></u></strong><ul><li> Develop automation to create and maintain systems in DC and cloud</li><li> Manage access to systems like ipa, knowledge with okta asa will be prefer</li><li> Design and develop tools for system management, monitoring, analysis, etc.</li><li> Experience with monitoring and automation tools further help analyze real time issues.</li><li> Familiar with system hardening and server security best practices</li><li> Working with the Lead Engineer to understand application functionalities and verification requirements; working with Software Engineering to define a scalable real time testing and monitoring strategies</li><li> Lead troubleshooting and monitoring efforts with production/non-production systems.<br></li></ul><strong><u>Knowledge/skills<br></u></strong><ul><li> Programming: Bash Scripting, Python</li><li> Source Control: git</li><li> Build: Jenkins, Pipeline</li><li> OS hardening: cobbler,packer, kickstart</li><li> Security: iptables, firewalld, SSH, TLS, IAM</li><li> Network: tcpdump, ngrep, wireshark</li><li> Systems: Linux: CentOS, Amazon linux</li><li> Cloud skill: AWS, packer, terraform</li><li> Monitoring: Zabbix, Prometheus, Grafana, ELK</li><li> Configuration: Ansible, Terraform</li><li> AWS Services: S3, DynamoDB, RDS, Route53, VPC, cloudfront, etc.</li><li> Common Services: nginx,keepalived, Kubernetes, Bind dns,LVS, ntp,</li><li> Virtualization: KVM<br></li></ul>Ensuring a diverse and inclusive workplace where we learn from each other is core to Zoom\u2019s values. We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records as well as any qualified applicants requiring reasonable accommodations in accordance with the law.<br><br>We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.<br><br>All your information will be kept confidential according to EEO guidelines.<br><br><strong><u>Explore Zoom<br></u></strong><ul><li> Hear from our leadership team </li><li> Browse Awards and Employee Reviews on Comparably </li><li> Visit our Blog </li><li> Zoom with us! </li><li>Find us on social at the links below and on Instagram</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-28T01:50:27.000Z"
+  },
+  "company": {
+    "name": "Zoom",
+    "link": "https://www.linkedin.com/company/zoom-video-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Wello Inc. is looking for an energetic and motivated junior to mid-level Software Engineer to design, code, test, debug, and document software for our current and new innovative products.</p><p></p><p>Duties and Responsibilities:</p><ul><li>Design, develop, test and debug software for Wello products.</li><li>Work in multi-disciplinary group (onshore/offshore) to understand and implement interfaces between various software components.</li><li>Work with internal and external customers to thoroughly understand product requirements and use cases to develop optimal software solutions.</li><li>Support software test, manufacturing, and customer support group to troubleshoot/resolve issues.</li><li>Write software engineering documents such as Software Architecture Document, Detailed Design Document, etc.</li><li>Onsite/Remote hybrid work environment. Candidates must be in DFW. Relocation not provided.</li><li>Individual contributor role. Wello is unable to provide work-visa sponsorship at this time.</li></ul><p></p><p>Basic Qualifications:</p><ul><li>B.S in Computer Science, Electrical Engineering, Software Engineering, or similar discipline.</li><li>2-4 years of experience in software development using C++ and Linux.</li><li>Must have experience and/or strong understanding of SDLC, Object Oriented Programming, UML Modeling, software design patterns and software development best practices.</li><li>Experience in User Interface development (embedded or desktop) required.</li></ul><p></p><p>Preferred Skills and Experience:</p><ul><li>Prior experience with User interface development in QT strongly preferred.</li><li>Experience in developing multi-threaded applications preferred.</li><li>Experience in Medical Device or other highly regulated industry is strongly preferred.</li><li>Experience with GIT source control.</li><li>Experience with communication protocols such as ethernet (TCP/IP, UDP), i2C, USB is a plus.</li><li>Familiarity or some experience with web development (LAMP, MERN stack) is a plus.</li><li>Familiarity with SQL is a plus.</li><li>Experience with bash scripts and Python is a plus.</li><li>Familiarity with Internet of Things (AWS, Azure, Google Cloud, etc) is a plus.</li></ul><p></p><p>About Wello</p><p></p><p>Since 2014, Wello has been on a mission to end the spread of contagious illness and set a new standard in employee health and safety. We provide temperature screening stations, instant badges, and flexible reporting and alerts to lower the risk of COVID-19 and other contagious illnesses in the workplace.</p><p></p><p>Wello is also a great place to work. Our team is passionate about health and safety, and that shows in our workplace and culture. We provide generous compensation packages, including medical, dental, and vision benefits and paid time off to support you in doing your best work. We are dedicated to diversity, and we believe that a variety of backgrounds and perspectives leads to the strongest organizations. We encourage individuals from all races, ethnicities, nationalities, genders, sexual orientations, and abilities to apply.</p><p></p><ul><li>Please apply via LinkedIn or email your resume and cover letter to careers@welloinc.com. We look forward to meeting you!</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:48:10.000Z"
+  },
+  "company": {
+    "name": "Wello Inc.",
+    "link": "https://www.linkedin.com/company/wello-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Addison",
+    "region": "TX",
+    "postal_code": "75001",
+    "street_address": null,
+    "latitude": 32.968605,
+    "longitude": -96.83004
+  }
+}

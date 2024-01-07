@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Intern",
+    "industry": "Computer Hardware,Computer Software,Semiconductors",
+    "description": "Role<br><br>The Software Engineer Intern will aid in gathering new neural network frozen graphs, assembling data sets for each graph, and helping to isolate various blocks within the graphs. As part of these roles, you will be expected to work with machine learning frameworks and associated tools. You will be joining a small team in a dynamic startup environment, where each member is expected to take on a wide range of responsibilities and to learn and grow with the company.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Gather frozen graphs for open-source DNNs and associated data sets</li><li>Modify existing graphical tools to isolate various component sub-graphs</li><li>Aid in \u201clowering\u201d the sub-graphs through our toolchain <br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Pursuing a degree in Computer Engineering or Computer Science</li><li>Illustrates a strong programming background with Python and Javascript</li><li>Proficiency with version control software, such as Git</li><li>Self-driven debugger who loves digging deeper to determine a root cause<br></li></ul>Nice to haves<br><ul><li>Experience with Deep Neural Networks</li><li>Experience with Electron<br></li></ul>Expected Outcomes in 4 months<br><ul><li>Collected 3-5 DNN frozen graphs and associated data sets</li><li>Developed a graphical tool to isolate repeated sub-graphs</li></ul>",
+    "employment_type": "INTERN",
+    "date_posted": "2021-09-04T06:22:09.000Z"
+  },
+  "company": {
+    "name": "quadric.io",
+    "link": "https://www.linkedin.com/company/quadric.io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlingame",
+    "region": "CA",
+    "postal_code": "94012",
+    "street_address": null,
+    "latitude": 37.584194,
+    "longitude": -122.366264
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Reliability Engineer",
+    "industry": "Financial Services,Information Services,Information Technology and Services",
+    "description": "As a Network System Reliability Engineer, you will be part of a team that supports our global data distribution servers. You'll work closely with Software Developers, System &amp; Network Engineers and support teams for planning, implementation and reliability of our global Network infrastructure. Key aspects of this role also include planning for compute capacity, rolling out software and using the latest automation technologies to provide standardized processes and troubleshooting tools to our operation teams. You will work with our partners to ensure that we are aligned with business strategy and best practices.<br><br><strong>We\"ll trust you to:<br></strong><ul><li>Continuously refine processes and procedures with a focus on standardizing the work and shifting it to our operational support teams.</li><li>Contribute to our CI/CD frameworks and pipeline</li><li>Draft process flow charts &amp; procedures, perform capacity planning, and implement changes</li><li>Resolve critical issues</li><li>Enhance our monitoring and alerting solutions<br></li></ul><strong>You\"ll need to have:<br></strong><ul><li>Experience in programming (Python preferred) and a good understanding of software development methodologies, open source systems and familiarity with Git repositories</li><li>Ability to build and maintain Linux systems through automation software (e.g. SALT, CHEF, Jenkins, Ansible)</li><li>Familiarity with NMS protocols, data structures and modeling (YAML, JSON, XML, Netconf/Yang, API, Jinga, SNMP, Syslog)</li><li>Experience with implementing and maintaining SQL databases</li><li>Eagerness to work with a group, share knowledge and contribute<br></li></ul><strong>We\"d love to see:<br></strong><ul><li>Experience with Web frameworks (REACT, Angular, DJANGO)</li><li>Experience using Agile (e.g. Kanban or Scrum)</li><li>Familiarity with monitoring tools such as Splunk, Grafana and packet trace analysis tools (e.g. wireshark)</li><li>Hands on experience with cloud service providers Microsoft Azure, GCP and AWS(EC2, VPC, NLB, CloudWatch)</li><li>3 or more years of computer science experience in the field</li><li>BA/BS in Computer Science, Engineering or related technology field<br></li></ul><strong>Does this sound like you?<br><br></strong>Apply if you think we're a good match. We'll get in touch to let you know what the next steps are.<br><br>Bloomberg is committed to diversity. It drives our innovation. At Bloomberg, you'll have the opportunity to go above and beyond and to take risks. You'll be a part of an organization that is entering new markets, launching new ventures, and pushing boundaries. Our ever-expanding array of technology, data, news, and media services champions innovation and empowers clients -- and offers nearly limitless opportunities for career growth.<br><br>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We bring out the best in each other.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:08:00.000Z"
+  },
+  "company": {
+    "name": "Bloomberg LP",
+    "link": "https://www.linkedin.com/company/bloomberg-lp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

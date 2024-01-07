@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Do you want to work for an Emmy\u00ae Award-winning company? At Audible Magic we are building the most revolutionary media recognition technology and rights management solutions for the global music, movie and television industry. Our customers and partners include some of the largest and most recognized brands in the industry. We win awards because we keep driving to provide better solutions for our customers, solutions that meet the needs of the ever-changing music and entertainment industry. At Audible Magic we believe our customers are paramount, and our reputation and integrity are the foundation of our business.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Manage entire sections of our platform by taking projects from idea to implementation</li> <li>Collaborate closely with our design teams on implementing new features and workflows</li> <li>Build highly reliable and scalable cloud-based applications</li> <li>Clearly communicate status and open issues to team leads and managers</li> <li>Ability to learn on the job and implement new technologies</li> <li>Advocate and evangelist of the micro services architecture and REST API vision</li> <li>Develop and maintain the external developer portal containing reference implementations, swagger-based testing interfaces and articles</li> <li>Drive the containerizing effort of the API artifacts</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Superior communication chops, both verbal and written, including excellent technical writing and interpersonal skills</li> <li>3+ years of relevant software engineering experience.</li> <li>AGILE or iterative development experience</li> <li>Ability to write unit tests (TDD practices) for back-end and front-end services</li> <li>Work effectively under stress, independently, and within a team</li> <li>A devil for the details, able to work well under deadlines in a changing environment and perform multiple tasks effectively and concurrently</li> <br><br></ul><strong><u>Preferred Experience<br></u></strong><ul> <li>3+ years of Object-Oriented Programming (.NET or java)</li> <li>2+ years of Database experience (SQL and NoSQL databases)</li> <li>1+ years of NodeJS experience</li> <li>Basic experience building RESTful web services</li> <li>Basic experience working with Message Queue Systems</li> <li>Basic experience working with XML and JSON formats</li> <br></ul><strong>Added Bonus<br></strong><ul> <li>Experience with AWS or similar cloud computing environments</li> <li>Experience building and managing automated build/test/deployment</li> <li>Experience working with Docker</li> <li>Experience working with Oracle Databases</li> <li>Microservice architectures knowledge </li> <li>Robust knowledge of API software design patterns</li> <br></ul><strong>Education<br><br></strong>Must have a bachelor\u2019s degree (masters\u2019 preferred) in Computer Science, Applied Mathematics, Engineering, or any other technology related field. An equivalent of this educational requirement in working experience is also acceptable.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T02:37:27.000Z"
+  },
+  "company": {
+    "name": "Audible Magic",
+    "link": "https://www.linkedin.com/company/audible-magic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

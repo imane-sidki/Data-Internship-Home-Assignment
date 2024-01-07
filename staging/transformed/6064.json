@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, International Payments",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We\u2019re working to find new and better ways to help businesses succeed on their own terms\u2014and we\u2019re looking for people like you to help shape tomorrow at Square.<br><br><strong><u>Job Description<br><br></u></strong>The Payments Product team manages Square&apos;s flagship product. We are stewards of Square&apos;s largest product, making it possible for any seller to easily take a credit card payments. Our product drives awareness of the Square brand, is Square&apos;s first touch-point with most of our sellers, and fuels the economics of the broader Square ecosystem. Our sellers have evolving needs and expectations, and it is our job to understand who they are and how we can best help them.<br><br>Payments Product&apos;s International Team will launch and grow our payments business in all international markets. We are focused on customizing and localizing our payments offering to tailor the needs and customs of each market. You will work with both our product and go-to-market (GTM) teams to help them make data-based decisions, while reporting into a Senior Manager on the Data Science team. You and your team will prioritize and set product and GTM road maps. Sound like you? Read on.<br><br><strong><u>You Will<br></u></strong><ul><li>Partner with Square&apos;s product, engineering, design, marketing, and finance teams to make decisions using a diverse set of tactics, including statistics, quantitative reasoning, and machine learning.</li><li>Independently research questions related to our most important product experiences and produce recommendations for peers and leadership.</li><li>Design, run, and analyze experiments with the goal of optimizing acquisition, activation, and retention measurements</li><li>Communicate analysis and decisions to peers and leadership in verbal, visual, and written media.</li><li>Build self-service data tools that allow us to monitor the health and performance of our primary business.</li><li>Demonstrate data best practices and be an advocate for a data-driven culture across Square.<br></li></ul><strong><u>You Have<br><br></u></strong><strong>Qualifications<br></strong><ul><li>A degree in Mathematics, Statistics, Computer Science, Economics, or a related quantitative field</li><li>3+ years industry experience in data science roles (with either a growth or product focus)</li><li>Experience designing and analyzing A/B experiments</li><li>Familiarity with ETL development and best practices</li><li>Experience communicating analysis and decisions to peers and leadership in verbal, visual, and written media</li><li>Experience working embedded within a growth or product team</li><li>[Bonus] Experience applying both data-backed heuristics and machine-learning techniques to solve personalization and recommendation problems</li><li>[Bonus] Experience in the payments or FinTech space<br></li></ul><strong><u>Technologies We Use And Teach<br></u></strong><ul><li>SQL (Snowflake, BigQuery), Airflow, and Looker</li><li>Google Cloud Platform and AWS</li><li>Python and R</li><li>Machine learning and statistical modeling frameworks<br></li></ul><strong><u>Additional Information<br><br></u></strong>We\u2019re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Square is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.<br><br>We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.<br><br>Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.<br><br><strong>Perks<br><br></strong>At Square, we want you to be well and thrive. Our global benefits package includes:<br><ul><li>Healthcare coverage</li><li>Retirement Plans</li><li>Employee Stock Purchase Program</li><li>Wellness perks</li><li>Paid parental leave</li><li>Paid time off</li><li>Learning and Development resources<br></li></ul><em>Square, Inc. (NYSE: SQ) builds tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in person, manage their business, and access financing. Individuals use Cash App to spend, send, store, and invest money. And TIDAL is a global music and entertainment platform that expands Square&apos;s purpose of economic empowerment to artists. Square, Inc. has offices in the United States, Canada, Japan, Australia, Ireland, Spain, Norway, and the UK.</em>",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-24T18:24:26.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 116000,
+    "max_value": 198000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

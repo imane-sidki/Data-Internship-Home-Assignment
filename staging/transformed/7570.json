@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Java Developer",
+    "industry": "",
+    "description": "Position Overview:<br><br>Senior Java developer with demonstrable, hands-on, independent, development experience with below listed technology stack.<br><br>\u00b7       Overall, 8 plus years of IT experience in Development and Operations support of Enterprise IT Application Systems, of which 5 Plus years in the capacity as Senior Software Engineer.<br>\u00b7       6 Plus years working in Supply Chain domain Supporting Order Management and Transportation business process, with end to end knowledge of Order life cycle in Wholesale or Retail industries.<br>\u00b7       Experience in independently developing J2EE framework-based applications/services and integrating the same with the latest customer facing technologies including Mobile handheld solutions, involving application of latest authentication protocols such as OAUTH2.<br>\u00b7       This Java Developer demonstrated experience working independently, with minimal supervision to develop, test, and implement Java services (java 8), RDBMS based 3tier applications, using industry standard software development practices, techniques, tools, and frameworks.<br>\u00b7       This java developer will demonstrate strong analytical acumen and will be required to participate in Analysis, Design, of complex business components in Java, deploying to Java EE Application Servers.<br>\u00b7       This senior Java developer should have experience supporting operations, troubleshooting and leading the problem resolution tasks in a fast paced and time sensitive environment.<br>\u00b7       Should have worked on at least 2 large scale business cross functional enterprise projects.<br>\u00b7       Should possess strong written and verbal communication skills. Interact with stakeholders as needed.<br>\u00b7       Demonstrates a positive attitude to get work done. Ready to step out of the box to try new approaches, expand knowledge and experience and keep abreast with the latest technologies and apply the learnings to solve current and emerging challenges.<br><br>Technology Stack experience relevant to the position:<br><br>\u00b7       A Minimum 5+ years of hands-on development experience with the following technologies<br>\u00b7       Java / J2EE (With 2+ years developing using Java 8 +)<br>\u00b7       Hands on development experience with all Java Collections<br>\u00b7       In-memory data structure including Eh-cache<br>\u00b7       multi-Threading<br>\u00b7       Spring Framework 4.3+ version / Spring Boot<br>\u00b7       Hibernate / JPA<br>\u00b7       Maven<br><br>\u00b7       RDBMS - SQL / Oracle 12+<br><br>\u00b7       Web services (Restful & SOAP)<br>\u00b7       3-Tier Architectural frameworks<br>\u00b7       WSO2 API Service manager (Integration & Administration)<br>\u00b7       Message (IBM MQ ) based transaction communication (Both Publish & Subscribe)<br>\u00b7       OAuth2 / Multi-Factor Authentication Security framework<br>\u00b7       Data movement solutions involving file transfer, ETL and event based integrations.<br>\u00b7       UNIX & Linux Operating System<br>\u00b7       Shell Scripting<br>\u00b7       Application Servers (Wildly 16, WebLogic & Tomcat)<br>\u00b7       SVN (Source code repository)<br>\u00b7       Desirable (Not Mandatory) to have at least 2 Plus years working with<br>o   Postgres -DB<br>o   Containerization - Dockers / Kubernetes<br>o   Node-JS<br>o   Cloud<br>o   Python<br>o   Micro Services<br>o   Elastic Search<br><br><br>Nagendra <br>Sr.Recruiter <br>nagendra@extendime.com<br>848-209-0775 ",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:31:21.000Z"
+  },
+  "company": {
+    "name": "Extendime Software Solutions Inc",
+    "link": "https://www.linkedin.com/company/extendime-software-solutions-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

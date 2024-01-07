@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Machinery,Industrial Automation",
+    "description": "<p><strong>Job Description:</strong> Looking for a talented and self-motivated Software Engineer. The ideal candidate will have experience developing and maintaining software in C++ and/or C#, ideally for machine controls and novel electro-mechanical systems.</p><p><br></p><p><strong>Job Duties:</strong></p><ul><li>Design, implement and debug C++ and C# code for machine controls and HMI (GUI), utilities and backend software.</li><li>Design, implement and debug PLC and/or motion controller code.</li><li>Implement test and simulation code. Execute test plans and write test reports.</li><li>Support, maintain, and document software functionality.</li></ul><p><br></p><p><strong>Skills/Qualifications:</strong></p><p><em>Required:</em> </p><ul><li>Object-oriented Design and Development (OOD).</li><li>Experience with C++/C#.</li><li>Experience with Winforms and/or WPF development in Microsoft Visual Studio (or equivalent; Qt/Java).</li><li>Experience with software configuration management and source control systems (e.g. Mercurial or Git).</li><li>Must be able to work in a collaborative environment.</li><li>Strong analytical and communication skills.</li></ul><p><em></em></p><p><em>Strongly Desired:</em> </p><ul><li>Experience with or aptitude towards software that controls and interfaces to hardware (analog and digital I/O).</li><li>Experience or understanding of Database systems, such as Microsoft SQL or similar.</li><li>Familiar with real-time concepts.</li><li>Background in, or solid understanding of Mechatronics and interfacing concepts.</li><li>Experience with additive Manufacturing / 3D Printing.</li></ul><p><strong></strong></p><p><strong>Education/Experience:</strong></p><p><em>Required:</em> </p><ul><li>B.S. degree in Software, Physics, Mechanical, Electrical, or related. 0+ years of experience developing software.</li></ul><p><em>Desired: </em></p><ul><li>M.S. degree preferred</li></ul><p></p><p><strong>Travel:</strong></p><p>The expectation is up to 15%</p><p><strong></strong></p><p><strong>Relocation:</strong></p><p>The relocation package is negotiable.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T16:02:51.000Z"
+  },
+  "company": {
+    "name": "Seurat Technologies",
+    "link": "https://www.linkedin.com/company/seurat-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wilmington",
+    "region": "MA",
+    "postal_code": "01887",
+    "street_address": null,
+    "latitude": 42.558285,
+    "longitude": -71.163826
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Do you want to build solutions to help scientists do more, faster? Join us!<br><br>The Amazon GTM Science team is an innovative organization that exists to propel Amazon HR toward being the most scientific HR organization on earth. The mission of GTM Science is to use Science to assist and measurably improve every talent decision made at Amazon. GTM Science does this by discovering signals in workforce data, infusing intelligence into Amazon\u2019s talent products, and guiding the broader GTM team to pursue high-impact opportunities with tangible returns. This multi-disciplinary approach spans capabilities, including: data engineering, reporting and analytics, research and behavioral sciences, and applied sciences such as economics and machine learning.<br><br>We are seeking a data scientist to help build the tools necessary for our multidisciplinary science teams to scale up their impact. The Research Operations and Services team works backwards from the problems our research face to introduce lightweight tools and processes that help our teams scale. In this role you will identify opportunities to develop tools which can help our science teams scale, enabling them to produce insights more rapidly.<br><br><strong><u>In This Role You Will<br></u></strong><ul><li> Lead the strategy and development of researcher tools focused on data access, cleaning, and standardization</li><li> Identify and formalize internal tools which may benefit researchers across Amazon</li><li> Own the identification, scoping, and development of additional high impact research solutions</li><li> Partner closely with researchers to evaluate the effectiveness of existing tools and work to improve them</li><li> Partner closely with product and tech teams on the integration of our tools and solutions</li><li> Contribute to multi-disciplinary research efforts that guide Amazon\u2019s talent management practices</li></ul><li><br><br></li><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelor's Degree</li><li> 3+ years of experience with data scripting languages (e.g SQL, Python, R etc.) or statistical/mathematical software (e.g. R, SAS, or Matlab)</li><li> 2 years working as a Data Scientist</li><li> 3+ years of experience applying methods and principles to solve applied problems</li><li> 1+ year of experience developing tools to support researchers</li><li> Proficiency with Python and experience developing packages and/or libraries</li><li> Proficiency with SQL<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Proficiency with R</li><li> Experience setting up end to end data pipeline</li><li> Experience using APIs to access data</li><li> Experience using AWS tools (Redshift, AWS Sage Maker, etc) for data science</li><li> Experience developing ML models</li><li> Experience with research design in large organizational settings<br></li></ul>Job can be located in either Seattle, WA or Arlington, VA<br><br>Amazon is an Equal Opportunity Employer \u2013 Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1654298",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T01:11:00.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

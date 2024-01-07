@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Hospital & Health Care",
+    "description": "<p><strong>Description</strong></p><p>CirrusMD is a text-first enterprise solution that connects people with no-barriers access to a live doctor, real-time, who can always help. CirrusMD was founded in 2012 and is headquartered in Denver, CO. We are partnered with major national payers, employers and healthcare systems to deliver extraordinary virtual care to millions of lives across the nation. If you are looking to make a lasting impact where your voice matters, consider joining our team.</p><p><br></p><p><strong>Who We\u2019re Looking For:</strong></p><p>We are looking for afullstack engineer<em>(with at least 2 years of production experience using Ruby/ Rails + JS framework - React preferred) </em>who can confidently contribute to our mission of redefining the healthcare experience for patients and providers. You are a craftsperson, taking significant pride in both the process and the outcomes of your work. You are comfortable breaking larger tasks down into an executable action plan for yourself. We seek a motivated, self-starter who is confident enough to buckle-down and deliver, and humble enough to recognize when you need another set of eyes to work through a problem.</p><p><br></p><p><strong>This position can sit remote anywhere in the U.S., with the flexibility to work from our Denver HQ as you\u2019d like. </strong>Please note that no matter where you are located, all employees should be available during our core working hours from 9 am to 4 pm MDT Monday through Friday. The salary range for this role is $90,000-120,000/year. Actual pay may vary based on job-related skills, qualifications, certifications, and experience. This role may also be eligible for a discretionary bonus in addition to equity incentives and a comprehensive benefits package.</p><p><br></p><p><strong>What You\u2019ll Accomplish:</strong></p><ul><li>Building performant APIs, and end user experiences</li><li>A reputation for reliably delivering well considered, well tested and performant code product(s)</li><li>Contributions to our evolving development and testing standards and best practices</li><li>High collaboration with Design + Product ensuring balanced code complexity and UX</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>2+ years of experience shipping full stack features usingRuby on Rails &amp; JavaScript Frameworks (React preferred)</li><li>Proficiency with semantic markup and modern Javascript and CSS patterns</li><li>Experience designingREST APIs</li><li>Proficiency with modern developer workflows and tools (Git/Github, CI, etc)</li><li>Experience writing tests for your code at all layers (Rspec, Jasmine/Jest)</li><li>Proficiency with SQL and relational databases</li><li>Solid understanding of foundational software design patterns</li><li>Your philosophy aligns with Agile methodologies and processes</li><li>Significant experience giving and receiving feedback in code reviews</li><li>Confidence pairing with other engineers</li></ul><p><br></p><p><strong>What Will Make You Stand Out:</strong></p><ul><li>Strong command of SQL and experience optimizing query and application performance</li><li>Knowledge of static typing using TypeScript or Flow</li><li>Experience with Apollo / GraphQL / Jest / Storybook</li><li>You maintain a high level of craftsmanship about your work</li><li>You firmly understand how to be a successful team player</li><li>Strong engagement within the Ruby and/or JS ecosystems</li></ul><p><br></p><p>Benefits</p><p><strong>Who We Are:</strong></p><p>Based in Denver, CirrusMD is the nation's leading virtual care platform that delivers a chat first, multi-modal, data driven experience to enable providers, payers and employers the ability to offer high touch, personalized healthcare to their members or employees. Founded in 2012, CirrusMD helps our customers create happier, healthier, and more engaged patients by giving them access to on-demand virtual care solutions that they love to engage with. Our chat-powered care delivery platform connects patients to a dedicated, board-certified physician in under 60 seconds from any web-enabled device, with no cost and no time limits attached. CirrusMD enables a stress-free, human care conversation that doesn\u2019t end until members get the answers (and peace of mind) they need to manage their wellness.</p><p><br></p><p><strong>Why Work at CirrusMD?</strong></p><p>CirrusMD is quickly transitioning from a startup to a highly recognized healthcare industry disruptor. If you are looking to make a lasting impact where your voice matters, consider joining our team and help us deliver care without barriers. We offer an exceptional benefits package including health, dental and vision, 401k with match, flexible vacation and remote work policies, competitive salaries, stock options and more.</p><p><br></p><p>CirrusMD is committed to creating a diverse and inclusive workforce and is proud to be an equal opportunity employer. We aim to create a workplace that celebrates the diversity of our employees, users, and customers. We strive to deliver products and services that work for everyone by including perspectives from backgrounds that vary by race, ethnicity, social background, religion, gender, age, disability, sexual orientation, veteran status, and national origin. We are particularly focused on ensuring women and BIPOC are equally represented across all positions, including management. Our focus is on advancing, cultivating, preserving a culture of diversity and inclusion as it directly aligns with our mission to provide access to affordable and personalized health care for everyone.</p><p><br></p><p><em>Notice to recruiters and placement agencies:</em>If you are a recruiter or placement agency, please do not submit r\u00e9sum\u00e9s to any person or email address at CirrusMD prior to having a signed agreement with Human Resources. CirrusMD is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners. Also, any r\u00e9sum\u00e9s sent to us without an agreement in place will be considered your company's gift to CirrusMD and may be forwarded to our Talent Acquisition team.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T15:20:01.000Z"
+  },
+  "company": {
+    "name": "CirrusMD Inc.",
+    "link": "https://www.linkedin.com/company/cirrusmd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

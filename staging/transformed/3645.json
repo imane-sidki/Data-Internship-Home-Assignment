@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Defense & Space,Aviation & Aerospace,Military",
+    "description": "<strong><u>Overview<br><br></u></strong><strong>Why is MTSI known as a Great Place to Work?</strong><ul><li>Interesting Work: Our co-workers support some of the most important and critical programs to our national defense and security. </li><li>Values: Our first core value is that employees come first. We challenge our co-workers to provide the highest level of support and service, and reward them with some of the best benefits in the industry. </li><li>100% Employee Ownership: we have a stake in each other's success, and the success of our customers. It's also nice to know what's going on across the company; we have company wide town-hall meetings three times a year. </li><li>Great Benefits: </li><ul><li>20 days PTO/year + 10 holidays/year</li><li>Flexible schedules</li><li>6% 401k match with immediate vesting</li><li>Semi-annual bonus eligibility (July and December)</li><li>Company funded Employee Stock Ownership Plan (ESOP) - a separate qualified retirement account</li><li>Up to $10,000 in annual tuition reimbursement</li><li>Optional zero deductible Blue Cross/Blue Shield health insurance plan</li></ul><li>Track Record of Success: We have grown every year since our founding in 1993<br></li></ul>For additional company information, please visit: www.mtsi-va.com<br><br>Modern Technology Solutions, Inc. from MTSI on Vimeo.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Maintain Development LAN services including Confluence, Jira, GitLab, and Artifactory</li><li>Manage user accounts across Linux-based DevLAN</li><li>Maintain, update, and secure services running on DevLAN</li><li>Create scripts to assist with system/network administration</li><li>Ensure periodic backups are being performed correctly</li><li>Enforce network security practices</li><li>Perform periodic updates to Linux distro</li><li>Maintain network and switch security</li><li>Manage lab resources across multiple different projects and changing priorities</li><li>Work with developers to ensure clear tasking to achieve project goals</li><li>Ensure approved RMF procedures are being complied with</li><li>This position will require overnight travel up to 10 percent of the time. Trip durations may range from overnight to several weeks.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Associates degree</li><li>5+ years' experience in Linux system and network administration</li><li>Strong planning and organizational skills</li><li>Scripting using Bash, Python, etc.</li><li>Ability to manage GitLab, Confluence, Jira, and Artifactory</li><li>Experience with Git repositories and GitLab</li><li>Experience with Docker, Docker compose, and Docker registries</li><li>Strong background in networking to include configuration of switch/router port security and VLANs</li><li>Demonstrated ability to understand enterprise level systems</li><li>Demonstrated ability to shift from one project to another in an dynamic work environment</li><li>Top Secret / SCI. Clearance must be at least 1 year away from next 5 year update.<br></li></ul><strong><u>Desired Experience<br></u></strong><ul><li>Bachelor\u2019s degree</li><li>10+ years\u2019 experience in Linux system and network administration</li><li>Strong problem-solving skills</li><li>Competence in software system design</li><li>Familiarity with SQL and database design</li><li>Familiarity with Nginx and proxies</li><li>Familiarity with infrastructure-as-code (IaC) tools (e.g. Ansible)</li><li>Management of Virtual Machines, VM Ware, and Virtual Box</li><li>Familiarity with RMF compliance processes and implementation</li><li>Strong motivation to expand knowledge and skills</li><li>Ability to approach classical problems with new ideas and innovation</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T06:03:19.000Z"
+  },
+  "company": {
+    "name": "Modern Technology Solutions, Inc. (MTSI)",
+    "link": "https://www.linkedin.com/company/mtsi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Colorado Springs",
+    "region": "CO",
+    "postal_code": "80908",
+    "street_address": null,
+    "latitude": 38.835224,
+    "longitude": -104.8198
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Only W2)",
+    "industry": "",
+    "description": "<p><strong>Title:Site Reliability Engineer</strong></p><p><strong>Location:Hillsboro/Beaverton OR (100% Remote as well)</strong></p><p><strong>Duration:12+ Months </strong></p><p><br></p><p><strong>Top Skills: AWS and Monitoring tools and Development experience in Nodejs</strong></p><p><strong>Job Description:</strong></p><p>As a site reliability engineer, you will be focused on maximum availability, observability, reliability, security, and performance for client Digital Experiences.</p><p><br></p><p>SREs perform deep problem analysis, detect infrastructure, or code defects, define, report, and create observability processes for Key Performance Indicators (KPIs), and work with product delivery teams to provide long term solutions to production issues.</p><p><br></p><p>We are looking for talented and passionate full stack developers with knowledge of datacentre infrastructure and cloud platforms who can bring the following:</p><p>\u2022Ability to observe, diagnose, and develop fixes for production issues quickly and efficiently </p><p>\u2022Ability to develop and drive real time monitoring solutions that provide visibility into site health and key performance indicators</p><p>\u2022Strong communication skills (written and verbal). They must be able to clearly articulate issues and their impact(s)</p><p>\u2022Working understanding of IT service management (Incident, Problem, Change and Knowledge management)</p><p>\u2022Ability to work across teams (business and technical) to continuously analyse system performance in production, troubleshoot consumer reported issues, and proactively identify areas in need of optimization</p><p>\u2022Practical experience in application reliability practices/production support for consumer facing web and/or mobile experiences or a strong technical skill set combined with a desire to learn</p><p><br></p><p>Qualifications/Skills</p><p>\u2022Bachelor\u2019s degree in Computer Science, Information Systems, Business, or other relevant subject area</p><p>\u2022Basic understanding of DNS, Networking, Virtualization, Linux</p><p>\u2022Expertise in designing/building/supporting scalable cloud-based Micro Services preferred</p><p>\u2022Design and development experience with a modern language like Java preferred</p><p>\u2022Proficiency with JavaScript on frontend (React, Angular, etc.) and backend (Node.js) components preferred</p><p>\u2022Experience in other modern enterprise languages (functional or other \u2013 Scala, Python, Golang, etc.) is a plus</p><p>\u2022Experience with No-SQL databases like DynamoDB, Cassandra, etc. a plus</p><p>\u2022Good understanding of RESTful APIs </p><p>\u2022Basic understanding of common tools for service management, agile, and observability: ServiceNow, Jira, Jenkins, Splunk, New Relic, SignalFX</p><p>\u2022Background with ITIL or Lean a plus</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T17:16:54.000Z"
+  },
+  "company": {
+    "name": "Confidential",
+    "link": "https://in.linkedin.com/company/vidyaa-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

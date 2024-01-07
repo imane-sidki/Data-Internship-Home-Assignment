@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Test and Evaluation Engineer",
+    "industry": "Aviation & Aerospace",
+    "description": "<p>ASEC is currently searching for a Test and Evaluation (T&amp;E) Engineer that requires the demonstrated knowledge and ability to apply basic theory and technical procedures to non-standard and routine applications. The work requires selection and application of standard engineering techniques, procedures, and criteria, using judgement and ingenuity in making minor adaptations and modifications. The T&amp;E Engineer will perform work which involves conventual types of plans, investigations, surveys, configurations, or equipment.</p><p><br></p><p>The IDEA Lab is developing a software system called the Distributed Training Network Guard (DTNG). This system is a controlled interface whose purpose is to bridge simulation training enclaves while segregating and protecting data on a need-to-know basis. The system software includes several executables that validates and verifies the simulation training data against data format specifications and rule sets that determine if the simulation data may be passed as received, passed with changes per the rule set, or blocked from passing to the receiving enclave. These assessments are made in both directions. The data format specifications and rule sets are developed by DTNG software developers in accordance with the customer\u2019s requirements and security classification guides.</p><p><br></p><p><strong>Requirements</strong></p><p><strong>Education:</strong></p><ul><li>Bachelor\u2019s degree in Engineering, or equivalent technical degree from an ABET-accredited institution.</li></ul><p><br></p><p><strong><span class=\"ql-cursor\"></span>Experience:</strong></p><ul><li>Four (4) years of experience in test and evaluation.</li><li>Preferred direct experience in one or a combination of the following areas: training systems, aircraft system/subsystem development test and evaluation, or software and hardware for software application development.</li></ul><p><br></p><p><strong>Required Clearance:</strong>This position is subject to a government security investigation and must meet eligibility requirements for access to classified information. This position requires an ACTIVE SECURITY CLEARANCE.</p><p><br></p><p><strong>Tasks and Responsibilities:</strong></p><ul><li>Responsible for the overall verification and validation of the software system as well as the DTNG rule set software.</li><li>Develop and document Software Acceptance Test Plan for customer rule sets and DTNG software system. This includes all test phases from initial software development lab-based testing using test tools and harnesses, and the integration testing with the actual training devices.</li><li>Develop and document detailed software test procedures for rule sets and DTNG software system. Test procedures must be written in detail from initial software development lab-based testing to all software requirements using test tools and harnesses. Test tools and harnesses included GOTs products such as Next Generation Threat System (NGTS) scenarios as well as IDEA lab developed tools and programs. Integration test procedures to be used in the training environment with actual training devices will also need to be written. Rule set test procedures must be written in such detail so as to verify all possible rule decision paths have been covered.</li><li>Create simulation scenarios for the test tools/harnesses to drive test procedures.</li><li>Document the test case traceability to the requirements specifications to ensure all requirements have adequate coverage.</li><li>Work with Development team as well as training device owners to schedule testing resources. Develop test verification and validation schedules to ensure adequate access to required personnel and training assets for all testing phases. Testing resources range from in-house lab resources to off-site distributed training centers ono base.</li><li>Document test results in detail, creating a body of evidence for system and rule set assessment and authorization by a third-party evaluator. Traceability of results to log files from all tools and harnesses used within the test is required as part of the body of evidence.</li><li>Prepare and present all materials required for the pre and post testing Systems Engineering Technical Review (SETR) events (i.e., Test Readiness Review, System Verification Review). Provide T&amp;E input to other SETR events (e.g. System Requirements Review, Preliminary/Critical Design Review) as required.</li></ul><p><br></p><p><strong>Skills and Qualifications:</strong></p><ul><li>Excellent verbal and written communication skills.</li><li>Excellent interpersonal and customer service skills.</li><li>Detail oriented.</li><li>Ability to organize and prioritize tasks.</li><li>Demonstrated critical thinking and problem-solving skills.</li><li>Proficient with Microsoft Office Suite to include: Outlook, Excel, Word and PowerPoint.</li><li>Experience utilizing software tools for engineering.</li><li>Ability to adapt to evolving technology.</li></ul><p><br></p><p>We recruit, employ, train, compensate, and promote the most qualified persons for employment without regard to race, color, religion, sex, national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, genetic information, or any other status protected by law. ASEC will not discharge or in any other manner discriminate against employees or applicants because they choose to inquire about, discuss, or disclose their own compensation or the compensation of another employee or applicant.</p><p><br></p><p>If you\u2019d like more information about your EEO rights as an applicant under the law, please click here: http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:40:31.000Z"
+  },
+  "company": {
+    "name": "Aviation Systems Engineering Company",
+    "link": "https://www.linkedin.com/company/aviation-systems-engineering-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

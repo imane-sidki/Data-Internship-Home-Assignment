@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p><strong>JOB TITLE:Senior Software Engineer</strong></p><p>LOCATION:San Diego, CA or Remote</p><p></p><p><strong>Role Summary:</strong></p><p>Our client has secured a long-term engagement being tasked with redesigning and modernizing the company\u2019s legacy Health &amp;amp; Wellness platform across both web and mobile. The new platform will incorporate new features and functionality, such as health risk assessments, rewards program for active lifestyle, and real-time coaching provided via integrated video capabilities.</p><p><br></p><p>Our client\u2019s team supporting this engagement is made up of UX Designers, Front-End Web Developers, Full Stack Developers, Technical Leads, Architects, iOS Developers and Android Developers. This Sr. Software Engineer will help the team deliver on technical initiatives. This person will also spearhead and advocate new technical solutions for the client.</p><p></p><p><strong>Essential Duties and Responsibilities:</strong></p><ul><li>Perform hands-on, full stack software development with .Net, React and cloud-based technologies</li><li>Collaborate and liaise with current customer stakeholders on proposed architectures</li><li>Provide direction on architecting .NET solutions across multiple platforms.</li><li>Documentation of solutions (e.g. architecture, configuration and setup).</li><li>Working within a project management/agile delivery methodology in a leading role as part ofa wider team.</li><li>Ability to collaborate with nearshore/offshore developers as needed.</li></ul><p></p><p><strong>Qualifications:</strong></p><ul><li>10+ years of software development experience, with a focus on Full-stack and .NET technology</li><li>Direct experience deploying software to the cloud (Azure, AWS and/or GCP)</li><li>Direct experience assembling micro-services-based application architecture.</li><li>Experience with selecting persistence and caching solutions, database design and data modeling</li><li>Experience in performance analysis and tuning a plus</li><li>Deep understanding of programming best practices and modern architectural patterns,</li><li>including micro services and message-driven architectures.</li><li>Current hands-on developing / coding role.</li></ul><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T00:10:46.000Z"
+  },
+  "company": {
+    "name": "HireRising",
+    "link": "https://www.linkedin.com/company/hirerising"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego Metropolitan Area",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

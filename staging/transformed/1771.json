@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Computer Software,Internet,Hospital & Health Care",
+    "description": "<strong>What You'll Do</strong> as a Senior Data Engineer. You will be responsible for designing, building and maintaining data pipelines and processes to feed the data needs of the business. You will work with application engineers and data analysts to determine their data needs, and synthesize plans and processes to make it all happen.<br><br><strong><u>What We're Looking For<br></u></strong><ul> <li>5+ years of software engineering experience</li> <li>3+ years of data engineering experience</li> <li>BS or MS in\u2026 (or equivalent work experience)<br><ul> <li>Computer Science, Data Science, Mathematics (or similar) preferred</li> </ul> </li> <li>Advanced SQL</li> <li>Strong algorithmic knowledge</li> <li>Proficiency in Python and Spark/PySpark</li> <li>Design and build ETL/ELT systems</li> <li>Deep experience with a data warehouse/data lake solution</li> <li>Experience with sharded/distributed systems</li> <br></ul><strong>Nice to Have<br></strong><ul> <li>Kafka (specifically Kafka Connect and Debezium)</li> <li>Spark/PySpark</li> <br></ul><strong>A Few Reasons to Consider Us<br></strong><ul> <li>Comprehensive medical, dental, and vision benefits</li> <li>Generous paid holidays &amp; unlimited PTO</li> <li>Partial 401k matching</li> <li>100% remote + office equipment reimbursement</li> <li>Come help us change the future of healthcare work</li> <br></ul><strong>CareRev</strong> is building the #1 staffing platform for healthcare professionals. We partner with hospitals and medical centers across the US, and book thousands of specialized professionals through our app every month. We are putting transparency, fairness, and trust back on the table. We are excited to grow our team of 150+ employees distributed across the US in a remote environment! We deeply value changing the world for the better and work toward diversity across our teams while we scale our teams in breadth and volume. To date, CareRev has raised $50M in funding. In addition, CareRev has a fantastic group of investors, including Transformation Capital, top Healthcare VC firms, Y Combinator partners, and alumni.<br><br>CareRev is 100% remote. We have a small office in Los Angeles (Venice/Mar Vista) open for use by employees.<br><br>CareRev is an equal opportunity employer and will not discriminate against any employee or applicant for employment in an unlawful manner. We celebrate diversity and are committed to creating an inclusive environment for all individuals. CareRev treats all employees and job applicants based on merit, qualifications, and competence without regard to any qualified individuals' sex, race, color, religion, national origin, ancestry, gender (including pregnancy, breastfeeding, or related medical condition), sexual orientation, gender identity, gender expression, age, physical or mental disability, medical condition, genetic characteristic or information, marital status, military, and veteran status, or any other characteristic protected by state or federal law. CareRev also considers qualified applicants with criminal histories consistent with applicable local, state, and federal law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:15:15.000Z"
+  },
+  "company": {
+    "name": "CareRev",
+    "link": "https://www.linkedin.com/company/carerev"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer",
+    "industry": "Pharmaceuticals,Biotechnology",
+    "description": "<strong>2120- Certara is hiring an Product Manager to support our Software Division! This position can be based out of any of our US offices, or full time remote.<br><br></strong><strong>At Certara, we accelerate medicines to patients by partnering with life science innovators. <br><br></strong><strong><u>Our Integrated And Proprietary End-to-end Platform With Biosimulation, Regulatory Science, And Market Access Solutions Combined With Our Strong Team Of Scientists And Subject Matter Experts Enable Our Clients To Have<br><br></u></strong>In the past 6 years, over 90% of companies that received new drug approvals by the FDA used our software or services.<br><ul><li>informed decision-making &amp; reduced clinical trial burden</li><li>higher R&amp;D productivity</li><li>improved patient outcomes &amp; increased patient access to medicines</li><li>accelerated regulatory approval<br></li></ul>Certara is a global team that fosters and nurtures a diverse and inclusive culture. We are proud to be an Equal Opportunity Employer. The collective sum of our individual differences, life experiences, knowledge, innovation, self-expression, and unique capabilities and talent represents a significant part of our culture, our reputation and our achievement.<br><br><strong>Together with our partners, we use biosimulation and technology-enabled services to transform drug discovery and development across all therapeutic areas and innovative therapies.<br><br></strong><strong><u>Responsibilities<br></u></strong><ul><li>Participate in the definition, design, coding, testing and debugging of software platform/products/toolkits, either new or existing.</li><li>Support the implementation of new and improvements to current software development processes and technologies.</li><li>Conduct feasibility of proposed designs to determine their ability to function as intended.</li><li>Write and maintain documentation throughout all phases of software development</li><li>Contribute to software architecture design</li><li>Participate in code reviews, scrum-related meetings and standups on a daily basis</li><li>Interact with development team members (both Certara employees and contractors) on project scope, activities, timeline and risks.</li><li>Mentor and coach team members on software development best practices and standards<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>Education, Experience, Training, and Knowledge:<br></strong><ul><li>BS or MS in Computer Science or similar engineering discipline, or equivalent experience.</li><li>10+ years of software development experience, including software analysis, design, and delivery with a focus on Microsoft technologies, including desktop, web-based, and client-server applications</li><li>5+ years w/ Relational Database Experience</li><li>5+ year JavaScript</li><li>5+ year Typescript</li><li>5+ Year Angular 5 or greater, experience with the latest Angular versions </li><li>Experience leading a team, on shore or off shore </li><li>Experience with NPM and Angular CLI in building Angular applications</li><li>Experience with Cloud Technologies</li><li>Experience with Unit Test Technologies</li><li>Understanding of SOLID Principles</li><li>Requires knowledge of and/or experience with Clean Code</li><li>Preferable knowledge of and/or experience with Test Driven Development</li><li>Must be self-thinker able to build solutions from general requirements without exacting specifications</li><li>Proven knowledge and experience in agile development methodologies, techniques, and approaches</li><li>Experience developing scientific/statistical software is preferred</li><li>Excellent experience in SDLC Methodologies, Agile, SCRUM, SDLC / Waterfall<br></li></ul><strong><u>Skills &amp; Abilities</u></strong><ul><li>Excellent communication skills (written and verbal)</li><li>Excellent analysis, trouble-shooting and debugging skills</li><li>Strong critical thinking, problem solving, planning and organizing, and decision-making skills</li><li>Familiarity with reporting requirements for Clinical/Pre-Clinical Pharmacology, DMPK, or Clinical/Preclinical Pharmacokinetics departments</li><li>Familiarity with various operating systems</li><ul><li>Required:</li><ul><li>C#</li><li>NET Core 2.0</li><li>Relational Database Experience (Oracle, MS SQL Server, MySQL, etc)</li><li>LINQ</li><li>REST</li><li>Angular 5+</li><li>Angular CLI</li><li>Typescript</li><li>Javascript</li><li>HTML, CSS, (LESS, SASS)</li><li>Karma/Jasmine</li><li>NPM</li><li>Node.js</li><li>AWS Lambda functions</li><li>Writing Unit Tests (.NET &amp; angular or typescript)</li><li>Visual Studio</li><li>GIT (github)</li></ul><li>Nice to have:</li><ul><li>AWS Elastic Beanstalk</li><li>AWS RDS</li><li>AWS S3</li><li>AWS EC2</li><li>Docker (for local development)</li><li>Docker (for production role out)</li><li>Visual Studio Code</li><li>Jenkins</li><li>Powershell</li><li>SonarCube</li><li>Perforce<br></li></ul></ul></ul>Certara bases all employment-related decision on merit, taking into consideration qualifications, skills, achievement, and performance. We treat all applicants and employees without regard to personal characteristics such as race, color, ethnicity, religion, sex, sexual orientation, age, nationality, marital status, pregnancy, physical or mental condition, genetic information, military service, or other characteristic protected by law.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:37:38.000Z"
+  },
+  "company": {
+    "name": "Certara",
+    "link": "https://www.linkedin.com/company/certara"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jenkintown",
+    "region": "PA",
+    "postal_code": "19046",
+    "street_address": null,
+    "latitude": 40.095196,
+    "longitude": -75.12573
+  }
+}

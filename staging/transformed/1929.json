@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "<br><strong>Do what you love. Love what you do. <br><br></strong> At Workday, we help the world\u2019s largest organizations adapt to what\u2019s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we\u2019re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. <br><br><strong>Job Description<br></strong><ul><li><br><strong><strong>About the Team:<br><br></strong></strong> The Enterprise Privacy, Identity and Configurable Security (EPIC) team has an immediate opening for a mid-level to senior engineer on the Enterprise Privacy team to work at the very heart of Workday\u2019s cloud-based software platform. We are looking for talented individuals to take our security product development to new heights. Access to data, reports and services is controlled by Workday's configurable security model, which flexibly enables different data access levels for different data consumers within the system. Enterprise Privacy team working on building several key frameworks in Workday stack. If after learning about the \u201c  <u>Power of One</u>  \u201d, you appreciate the complexity behind the scenes in securing all the data, and start wondering about all the things needed to enable privacy from the ever growing number of enterprise customers, give us a shout! <br><br><strong><strong>About the Role:<br><br></strong></strong> As a member of this team you\u2019ll design, build and deploy privacy frameworks that support Workday growth. You will work with exceptionally innovative and experienced engineers that have built highly robust, performing, and scalable security services. You will tackle the unique challenges including building tools to control access to Personally Identifiable Information (PII) and know how it is being used. Joining this team will allow you to develop deep technical strength in building the foundation of a cloud platform and hone your engineering skills to take on the most difficult of software engineering problems. <br><br><strong><u>Required Skills &amp; Experience:<br></u></strong><ul><li> 5+ years of experience with OO Design and programming with Java Or Scala </li><li> Experience with J2EE, JSP , HTML ,XML , Java Web Services , Struts\u00a0 and SOAP </li><li> Familiarity with standard development tools and processes: source control, IDE, JUnit test, debugging, profiling, JIRA, TeamCity, Crucible, etc. </li><li> Good team interaction with good oral and written communication skills </li><li> Desire to quickly ramp up in proprietary tools and platforms </li><li> Able to thrive in a fast paced, high energy and fun work environment that is agile (i.e. scrum) and deliver value incrementally and frequently </li><li> A bachelors or masters degree in Computer Science, Math, or related field with 3+ years of experience <br><br></li></ul><strong><u>Bonus Skills:<br></u></strong><ul><li> Authentication and Authorization experience with some of the following: LDAP, SSO, Delegated Authentication, Account Provisioning, PCI Security Standards, x509, SAML, OAuth, WS-Security, Configurable Data Security , Identity and Access Management (IAM) </li><li> Experience with SaaS security infrastructure </li><li> Experience with Java build tools such as Ant, Maven, Gerrit, Gradle, etc <br><br><br></li></ul></li></ul> Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:56:54.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 102000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

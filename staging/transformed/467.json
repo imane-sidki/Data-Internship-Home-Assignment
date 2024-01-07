@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Games,Information Technology and Services,Computer Software",
+    "description": "You know when you look at promo videos or still screenshots of a game and you think it looks incredible? Remember how you felt when you actually played it, and twitchy animations, sub-par AI and characters that seem to have no perception of the world around them shattered your dream? <strong>It\u2019s time to put a stop to this!<br><br></strong>Our team in EA Vancouver is a central group devoted to advancing the fields of character animation and AI in EA games: we work towards a (near) future where animation, physics and AI all play together to create realistic and compelling characters. Our technology is shared across multiple games in EA including FIFA, Madden, NHL, UFC, Battlefield and many others: talk about getting in game credits, hey?<br>We are looking for passionate research engineers to join us, using Machine Learning (amongst other things!) to push the boundaries of animation quality and help bring our characters to life!<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Stay up to date with academic development in the field of Machine Learning</li><li>Propose and develop novel ML based solutions to solve problems in character animation, agent behavior and content generation</li><li>Design and implement Machine Learning solutions that consider game development requirements:</li><li><ul><li>Usable workflows that minimize human intervention</li><li>Low impact runtime complexity</li></ul> </li><li>Collaborate with content creators and other software engineers to ensure that our tools are maintainable, effective and easy to use<br><br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li>Bachelor\u2019s degree in computer science, applied math, statistics, machine learning or equivalent</li><li>Strong knowledge and practical experience with C/C++</li><li>Strong knowledge of linear algebra, statistics, and optimization</li><li>Strong knowledge of Machine Learning:</li><li><ul><li>At least 1-2 years of experience in the field with a demonstrated practical approach to problem solving</li><li>Tensorflow, PyTorch, NumPy, SciPy and similar</li><li>Focus on Deep Learning and Deep Reinforcement Learning approaches to improve character animation</li></ul> <br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Master\u2019s degree and/or Ph.D. in computer science, applied math, statistics, machine learning or equivalent</li><li>1-2 years of experience in game development<br><br></li></ul><strong><u>Non-Technical Requirements<br></u></strong><ul><li>High standards of work and desire to meet and exceed expectations</li><li>Strong teamwork skills but also the ability to take ownership and work independently</li><li>Good communication skills</li><li>Passion for making games look and play great</li><li>We love RL. We hope you do too. We will ask you about it. What a save!</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T07:04:31.000Z"
+  },
+  "company": {
+    "name": "Electronic Arts (EA)",
+    "link": "https://www.linkedin.com/company/electronic-arts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

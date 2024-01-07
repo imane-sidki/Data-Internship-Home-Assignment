@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Looking for motivated front-end/mobile/full-stack engineers ready to take on the challenge of working for a fast-paced start up. We have a very up to date stack that will provide you with experience in a distributed microservice architecture that leverages many top current technologies. We are looking for someone who is a big team player and likes to engage in building solutions from beginning to end with the team. <br><br>Required Experience:<br>- Experience with modern JS frameworks (React, Angular, Vue) OR Flutter<br>GraphQL<br>- 2+ years of experience building modern web/mobile applications<br>- Unit testing, e2e testing<br>- Event driven architectures, microservice architecture<br><br>Bonus Experience:<br>- Kubernetes, Docker<br>- AWS<br>- C#<br>- Kafka, Confluent",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T15:36:33.000Z"
+  },
+  "company": {
+    "name": "Kangarootime",
+    "link": "https://www.linkedin.com/company/kangarootime"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Buffalo-Niagara Falls Area",
+    "region": null,
+    "postal_code": "14210",
+    "street_address": null,
+    "latitude": 42.886707,
+    "longitude": -78.87926
+  }
+}

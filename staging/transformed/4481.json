@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Online Media",
+    "description": "<strong><u>Description<br><br></u></strong><strong>Who are we?<br><br></strong>We are <strong>The Motley Fool,</strong> a purpose-driven financial information and services firm with nearly 30 years of experience focused on making the world smarter, happier, and richer. But what does that even mean?! It means we\u2019re helping Fools (always with a capital \u201cF\u201d) demystify the world of finance, beat the stock market, and achieve personal wealth and happiness through our products and services.<br><br>The Motley Fool is firmly committed to diversity, inclusion, and equity. We are a motley group of overachievers that have built a culture of trust founded on Foolishness, fun, and a commitment to making the world smarter, happier and richer. However you identify or whatever winding road has led you to us, please don't hesitate to apply if the description above leaves you thinking, \"Hey! I could do that!\"<br><br><strong>What does this team do?<br><br></strong>Machine Learning at the Fool creates state of the art solutions to Foolish problems through recommendation, classification, model optimization, and predictive analytics.<br><br><strong>What would you do in this role?<br><br></strong>Do you enjoy extracting value from data? Do you get excited at the prospect of data collection, cleaning, and preprocessing? Do you dream of implementing ML models within data pipelines and deploying them to production? If you answered \u201cyes\u201d to any of those questions, we would love to talk with you about joining our Machine Learning Team as a Machine Learning Engineer.<br><br><strong>But what does this role actually do?<br></strong><ul><li>Verify Foolish Data quality</li><li>Effectively engineer features through proper data cleaning and preprocessing techniques</li><li>Analyze model errors and design strategies to overcome them</li><li>Deploy and monitor models in production </li><li>Define data validation strategies<br></li></ul><strong>What do you need to apply?<br></strong><ul><li>3+ years of data engineering or machine learning engineering experience</li><li>3+ years of SQL and Python experience </li><li>Must be comfortable working with cloud based platforms such as Snowflake, Spark, and AWS</li><li>Adept with Data Wrangling techniques</li><li>Experience using serverless computing platforms such as AWS Lambda</li><li>Experience in containerization (Kubernetes) to deploy and run complex applications</li><li>Experience building out and maintaining APIs that can be used both internally across data teams and to communicate with our front end user experience</li><li>Comfortable working with machine learning prototypes and scaling code to production</li><li>Must love getting hands dirty with raw data and creating data pipelines <br></li></ul><strong>It\u2019s even better if you have\u2026<br></strong><ul><li>AWS Machine Learning Certification</li><li>Masters Degree or higher in a Quantitative or Engineering discipline<br></li></ul><strong><u>Below You\u2019ll See a Few Of Our Perks, But Check Out This Site For The Complete List<br><br></u></strong>The Motley Fool has been twice named Glassdoor\u2019s #1 Best Small Business to work for in the U.S., named to Inc.\u2019s Best Workplaces of 2020, named one of BuiltIn\u2019s Best Places to Work in Colorado, and we\u2019re a perennial favorite on Washingtonian\u2019s list of Best Places to Work year after year. Our targeted cash compensation for this role is between $120,000 and $150,000, which does not include any potential equity offerings.<br><ul><li>No \u201cvacation policy\u201d (not to be confused with a \u201cNo vacation\u201d policy)</li><li>Paid maternity, paternity, and pet-ernity leave</li><li>$1,000 to invest when you start </li><li>Super low premiums for medical, dental and vision coverage </li><li>Comprehensive compensation package, including company equity<br></li></ul>Please note, no sponsorship is available for this position.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T04:31:03.000Z"
+  },
+  "company": {
+    "name": "The Motley Fool",
+    "link": "https://www.linkedin.com/company/the-motley-fool"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

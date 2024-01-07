@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p><strong>Job Description</strong></p><p>Looking for opportunities to use cutting edge technologies analyzing petabytes of data in a world class Hadoop cluster? Interested in generating analytical insights that inform provider networks and engagement strategies that support members on their individualized health and wellness journey? CVS/Aetna\u2019s Analytics and Behavior Change Team delivers strategically impactful programs and tools that expand convenient access to high-quality and affordable care for all members across multiple channels across all stages of life.</p><p><br></p><p>This is a unique opportunity to work on new transformation initiatives with CVS Health as a result of the recent company merger</p><p><br></p><p>As a machine learning engineer, you will:</p><p><br></p><p>\u2022 Work closely with data scientists, software developers and product managers to take ML-powered services from inception to production</p><p>\u2022 Lead exploration, design and execution of machine learning models and frameworks that deliver value to our users.</p><p>\u2022 Build data pipelines and leverage high-quality datasets to power your Machine learning models</p><p>\u2022 Utilize modern software and data-engineering stacks to enable training, deployment and lifecycle management of ML models</p><p>\u2022 Lead the performance and ongoing enhancements of your products.</p><p><strong>Required Qualifications</strong></p><p>2 or more years of progressively complex related experience.</p><p><strong>Preferred Qualifications</strong></p><p>\u2022 1+ yrs experience as part of a data science, machine learning, or other software development team</p><p>\u2022 Proficiency in Python</p><p>\u2022 Experience with machine learning frameworks &amp; toolkits</p><p>\u2022 Experience building and productionizing applied machine learning products</p><p>\u2022 Experience with modern software-engineering practices</p><p>\u2022 Experience with big data, preferably using Spark, Hadoop and Hive.</p><p>\u2022 Familiarity with Docker/Kubernetes and cloud technologies is a plus</p><p>\u2022 Excellent problem solving skills, critical thinking and conceptual thinking abilities</p><p>\u2022 Great communication and cross-team collaboration skill</p><p><strong>Education</strong></p><p>Master\u2019s degree or PhD preferred.</p><p>Bachelor\u2019s degree or equivalent work experience in Computer Science, Engineering, Machine Learning, or related discipline.</p><p><strong>Business Overview</strong></p><p>At CVS Health, we are joined in a common purpose: helping people on their path to better health. We are working to transform health care through innovations that make quality care more accessible, easier to use, less expensive and patient-focused. Working together and organizing around the individual, we are pioneering a new approach to total health that puts people at the heart.</p><p><br></p><p>We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an equal opportunity and affirmative action employer. We do not discriminate in recruiting, hiring or promotion based on race, ethnicity, sex/gender, sexual orientation, gender identity or expression, age, disability or protected veteran status or on any other basis or characteristic prohibited by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T15:02:44.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Multiple Levels (Remote)",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "At U.S. Bank, we're passionate about helping customers and the communities where we live and work. The fifth-largest bank in the United States, we\u2019re one of the country's most respected, innovative and successful financial institutions. U.S. Bank is an equal opportunity employer committed to creating a diverse workforce. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, among other factors.<br><br><strong><u>Job Description<br><br></u></strong>As a Site Reliability Engineer, you will be supporting production applications and proactively looking for ways to automate your discoveries, eliminate incidents from recurring and/or reduce the time it takes to get our customers back up and running. In addition, you'll focus on improving the availability, latency, performance, efficiency, and effective proactive monitoring for all our applications. At U.S. Bank SRE engineers interface with business users, development teams and system administrators to ensure systems perform to meet their business needs and specifications.<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Developing, coordinating, and conducting technical reliability studies on engineering designs to assess the likelihood that a product/process performs its intended function over the intended lifecycle.</li><li>Measuring and analyzing the reliability of the design, processes, cost, and final products of production.</li><li>Recommending design or test methods and statistical process control procedures for achieving required levels of product reliability.</li><li>Completing risk analysis studies of new designs and processes.</li><li>Undertaking testing and analysis on failures, proposing changes in design or formulation to improve system and/or process reliability.<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor's degree, or equivalent work experience</li><li>Multiple Levels Available: 5 - 12 years of relevant work experience in business and risk analysis, IT Service Management, production support, product/project management, or application development</li><li>Ability to be on-call, and manage high-priority incidents</li><li>Ability to understand and map complex applications and environments.</li><li>Ability to document and commit key components to memory.</li><li>Excel at managing relationships, and carrying a presence to each meeting.<br></li></ul><strong><u>Preferred Skills/Experience<br></u></strong><ul><li>Deep experience in more than one of the following infrastructure technologies: Database, Network, Virtualization and Storage systems.</li><li>Experienced in one or more of the following programming languages (Python, Go, Javascript, Java)</li><li>Working knowledge of Agile and DevOps methodologies</li><li>Understanding of Restful API approaches and frameworks</li><li>Experience with observability frameworks</li><li>Experience using tools that measure and report on team performance</li><li>Experience with automation frameworks (Ansible, Salt Stack, Puppet, Chef)</li><li>Experience with Middleware, Server,Containers and AWS technologies.</li><li>Demonstrated problem-solving, project management, and teamwork/collaboration skills</li><li>Excellent communicator both verbally and written<br></li></ul><strong><u>Benefits<br><br></u></strong>Take care of yourself and your family with U.S. Bank employee benefits. We know that healthy employees are happy employees, and we believe that work/life balance should be easy to achieve. That's why we share the cost of benefits and offer a variety of programs, resources and support you need to bring your full self to work and stay present and committed to the people who matter most - your family.<br><br>Learn all about U.S. Bank employee benefits, including tuition reimbursement, retirement plans and more, by visiting usbank.com/careers .<br><br><strong>EEO is the Law<br><br></strong>Applicants can learn more about the company\u2019s status as an equal opportunity employer by viewing the federal EEO is the Law poster.<br><br><strong>E-Verify<br><br></strong>U.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program .<br><br>Salary range reflected is an estimate of base pay and is for the primary location. Base pay range may vary if an offer is made for work in a different location. Pay Range: $92,735.00 - $109,100.00 - $120,010.00",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-02T02:18:26.000Z"
+  },
+  "company": {
+    "name": "U.S. Bank",
+    "link": "https://www.linkedin.com/company/us-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

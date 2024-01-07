@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Description<br><br></u></strong>Job ID: 52581<br><br><strong>This role can be fully remote.<br><br></strong>Site Reliability Engineer<br><br>Our client is hiring a Site Reliability Engineer for their team in Beaverton, Oregon. In this role, you will build applications, tools, and automation using your technical skills to provide deep problem analysis, detect system faults or code defects, define, report, write and build observability processes for critical metrics, and partner up with product delivery teams to provide long term scalable solutions to production issues.<br><br><strong>We are looking for hardworking engineers who can bring the following:<br><br></strong>Ability to observe, diagnose, code, and test fixes for production issues quickly and efficiently.<br><br>Ability to develop and drive real time supervising solutions that provide transparency into site health and key performance indicators.<br><br>Strong communication skills written and verbal with ability to articulate issues and their impact(s), write concise runbooks and give technical demo\u2019s.<br><br>Capable in reporting and communicating metrics with an understanding of the business landscape and how site reliability influences our consumers.<br><br>Working understanding of IT service management (Incident, Problem, Change and Knowledge management).<br><br>Ability to work across teams (business and technical) to continuously analyze system performance, seek for avoidance/root-cause, and proactively identify areas in need of optimization.<br><br>Passion for continuous learning, partnership and teamwork.<br><br><strong><u>Qualifications<br><br></u></strong>Bachelor\u2019s degree in Computer Science, Information Systems, Business, or other relevant subject area.<br><br>1-2 years of professional experience in software development, testing and/or DevOps engineering.<br><br>Design and development experience with microservice based architecture in Java, Node.js, or similar language preferred.<br><br>Design and development experience with front-end UI languages such as JavaScript, React, Swift or similar preferred.<br><br>Experience building, deploying and supporting cloud-based systems in AWS preferred.<br><br>Experience with at least one database layer such as SQL, DynamoDB, Cassandra etc.<br><br>Understanding of basic network and infrastructure concepts such as DNS, Virtualization, Linux.<br><br>Experience with Docker and/or Serverless patterns a plus.<br><br>Experience with observability monitoring tools such as Splunk, SignalFx, New Relic, or Catchpoint a plus.<br><br>Background with ITIL or Lean a plus.<br><br><strong><u>Benefits<br><br></u></strong>Benefits are available to eligible VanderHouwen contractors and include coverage for medical, dental, vision, life insurance, short and long term disability, and matching 401k.<br><br><strong><u>About VanderHouwen<br><br></u></strong>VanderHouwen is an award-winning, Women-Owned, WBENC certified professional staffing firm. Founded in 1987, VanderHouwen has been successfully placing experienced professionals throughout the Pacific Northwest and nationwide. Our recruitment teams are highly specialized in either Technology and IT, Engineering, or Accounting and Finance career markets. Our recruiters value building meaningful, professional relationships with each candidate as well as developing honed knowledge of companies' staffing needs and workplaces. Partner with us to land your next exciting career.<br><br>VanderHouwen is an Equal Opportunity Employer and participates in E-Verify. VanderHouwen does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, or any other characteristic protected by applicable local, state or federal civil rights laws.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T10:00:53.000Z"
+  },
+  "company": {
+    "name": "VanderHouwen",
+    "link": "https://www.linkedin.com/company/vanderhouwen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75600,
+    "max_value": 142000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

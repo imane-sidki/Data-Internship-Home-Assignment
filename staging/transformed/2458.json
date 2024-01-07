@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Operations",
+    "industry": "Marketing and Advertising,Information Technology and Services,Staffing and Recruiting",
+    "description": "Wayfair is the online leader for all things home. Through technology and innovation, Wayfair makes it possible for shoppers to quickly and easily furnish the home of their dreams, across a selection of millions of items. Our platform is technology driven, leveraging best in class solutions with a constant drive for innovation.<br><br><strong><u>Who We Are<br><br></u></strong>The Sustaining Engineering and Operations team is responsible for streamlining, automating, and enabling cloud-scale growth across Wayfair engineering in a technically sustainable manner. Our team has a presence in both Boston and Berlin, supporting our core regions of operation. The team is looking to add a strong engineer to help us to build a better way of doing things. We\u2019re looking for someone who is as excited as we are about building that next-generation environment - which is automation heavy and as dynamic as possible. This role will give exposure to our full technology stack, and an opportunity to drive tangible improvements to a world class eCommerce platform.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul> <li>Respond to and investigate technical issues of all sizes and types</li> <li>Automate or streamline manual tasks and redundancies within the infrastructure organization (and never solve the same problem twice!)</li> <li>Improve monitoring and alerting through a proactive approach to catch and fix infrastructure, code, and database issues before they cause impact</li> <li>Drive efficiency and proactive monitoring &amp; alerting across all of Wayfair\u2019s platforms</li> <li>Provide a level of support and visibility across our full stack, learning how our different systems interrelate and impact each other.</li> <li>Write and refine our troubleshooting guides, documentation, and best practices</li> <br><br></ul><strong><u>What You\u2019ll Need<br></u></strong><ul> <li>Experience in a NOC, SRE, Platform, or Operational Engineering role</li> <li>Strong knowledge of Linux fundamentals, specifically OS configuration and tuning</li> <li>Experience with Python scripting or Puppet / Terraform / Ansible automation</li> <li>Experience with Datadog or similar monitoring or tracing tools</li> <br></ul><strong>Nice To Have<br></strong><ul> <li>Previous experience in an eCommerce or services based company</li> <li>Experience managing code deploys (Git / Buildkite) a plus</li> <li>Experience with Elastic\u2019s ELK stack or similar logging platforms is a plus</li> <li>Experience coding in any of Python, PHP, Java, Go, or similar</li> <br><br></ul><strong><u>About Wayfair Inc.<br><br></u></strong>Wayfair is one of the world\u2019s largest online destinations for the home. Whether you work in our global headquarters in Boston or Berlin, or in our warehouses or offices throughout the world, we\u2019re reinventing the way people shop for their homes. Through our commitment to industry-leading technology and creative problem-solving, we are confident that Wayfair will be home to the most rewarding work of your career. If you\u2019re looking for rapid growth, constant learning, and dynamic challenges, then you\u2019ll find that amazing career opportunities are knocking.<br><br>No matter who you are, Wayfair is a place you can call home. We\u2019re a community of innovators, risk-takers, and trailblazers who celebrate our differences, and know that our unique perspectives make us stronger, smarter, and well-positioned for success. We value and rely on the collective voices of our employees, customers, community, and suppliers to help guide us as we build a better Wayfair \u2013 and world \u2013 for all. Every voice, every perspective matters. That\u2019s why we\u2019re proud to be an equal opportunity employer. We do not discriminate on the basis of race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or genetic information.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-24T16:47:54.000Z"
+  },
+  "company": {
+    "name": "Wayfair",
+    "link": "https://www.linkedin.com/company/wayfair"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

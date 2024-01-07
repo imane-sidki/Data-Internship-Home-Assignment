@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer (Ecommerce)",
+    "industry": "Internet",
+    "description": "<p>This direct hire role will be focused on<strong>ecommerce retail applications</strong>utilizing technologies including<strong>React JS, Elixir and Kafka,</strong>among others. Successful candidate will need to have<strong>experience architecting and building out a related ecommerce application environment.</strong>This person can be based anywhere in the United States but work schedule is Pacific time zone. The client's HQ location is in the Bay area in California.</p><p><br></p><p>As a<strong>Principal Software Engineer</strong>, you\u2019ll spend about 40% of your time on application architecture, mentoring, thought leadership, and guiding teams around the company as they establish or update best practices for software development. You\u2019ll participate in guild (community of practice) meetings, architecture review sessions, organize training for engineers, and otherwise help ensure that we maintain a cohesive and modern technology vision while still empowering teams to move fast. You\u2019ll partner with senior technical leadership to establish north stars of our technology vision. You\u2019ll represent the company at conferences and other speaking engagements from time to time. The other 60% of your time, you\u2019ll dive in and actively develop that future! You\u2019ll typically start the work on some of our most challenging projects, laying out the foundational architecture and actively contributing code. In most cases, you\u2019ll bring in other engineers from around the company as these initiatives grow, eventually handing it off to Staff Engineers as you go on to tackle the next challenge.</p><p><br></p><p><strong>Some upcoming projects you\u2019ll be involved in:</strong></p><p>Upgrades to our inventory &amp; catalog system as we transition from a single-SKU model to allow for depth and variants</p><p>Assisting with the strategy as we continue to break apart our existing ruby on rails monolith into services</p><p>Preparation and design for future international expansion</p><p>Improvements to our payout processes</p><p><br></p><p><strong>What You Get To Do Every Day</strong></p><p>Propose and build technical architecture and solutions to move our business forward</p><p>Advise and collaborate with senior engineering leadership on technical vision and strategy across a multi-year timeframe</p><p>Build a deep understanding of The RealReal\u2019s business model, opportunities, and challenges</p><p>Provide technical direction and mentorship for engineers across the organization</p><p>Drive build vs buy evaluations, including research and initial assessment with vendors</p><p>Assist in coordinating cross-team engineering efforts and determining technical requirements</p><p>Review technical architecture proposals and pull requests and provide constructive feedback</p><p>Produce high-quality, performant, testable code, and systems</p><p>Document architecture and processes, and uplevel them across the company</p><p>Represent the company at conferences and other events, helping us to build brand awareness and attract talent</p><p><br></p><p><strong>What You Bring To The Role</strong></p><p>10+ years of professional web application/full-stack development experience</p><p>2+ years leading a high-performance engineering team or organization, in a fast-paced environment</p><p>Fluency with any of React JS, Elixir, Erlang, or another object-oriented or functional programming language</p><p>Strong understanding of distributed systems and architecture</p><p>Strong understanding of web technologies: HTML5, Javascript, CSS/SASS, REST, JSON</p><p>Strong understanding of web-app performance fundamentals and related dev tools</p><p>Strong database fundamentals and experience with MySql or PostgreSQL; AWS Dynamo DB a plus</p><p>Experience using async message queues such as Kafka or Kinesis</p><p>Mastery of Git and Github workflows</p><p>Experience with Microservices architecture</p><p>Bachelor of Computer Science degree or equivalent experience</p><p>Experience building E-commerce, Operations, and Logistics applications</p><p>Nice to Haves</p><p>Experience with Headless E-commerce APIs</p><p>Experience working with machine learning or related technologies</p><p>Experience with iOS/Android and mobile development</p><p>Experience with GraphQL</p><p>Experience with Docker and Kubernetes</p><p>Job Type: Full-time</p><p><br></p><p><strong>Pay: $175,000.00 - $200,000.00 base per year, plus bonus, plus equity</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:54:36.000Z"
+  },
+  "company": {
+    "name": "TriSearch",
+    "link": "https://www.linkedin.com/company/tri-search"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux System Engineer II",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "DISH is a Fortune 250 company with more than $13 billion in annual revenue that continues to redefine the communications industry. Our legacy is innovation and a willingness to challenge the status quo, including reinventing ourselves. We disrupted the pay-TV industry in the mid-90s with the launch of the DISH satellite TV service, taking on some of the largest U.S. corporations in the process, and grew to be the fourth-largest pay-TV provider. We are doing it again with the first live, internet-delivered TV service \u2013 Sling TV \u2013 that bucks traditional pay-TV norms and gives consumers a truly new way to access and watch television.<br><br><strong> This role can be in either Cheyenne, WY or Gilbert, AZ <br><br></strong>DISH is seeking an innovative and passionate Linux Engineer to join a team that manages the on-premise hardware/virtualization/OS/applications for the DISH Network conditional access systems. This position provides an opportunity to learn Docker and Kubernetes administration.<br><br><strong> Primary Responsibilities: <br></strong><ul><li> Administer and manage server hardware, virtualization, and Linux OSs </li><li> Ensure high availability of conditional access applications in dev/test/prod environments </li><li> Work with engineering teams to deploy new features and upgrades </li><li> Manage system monitoring and alerting tools </li><li> Create and maintain technical documents and procedures <br><br></li></ul><strong> Required Qualifications: <br></strong><ul><li> BS in Computer Science or a related technical degree, or equivalent combination of education and experience </li><li> 3+ years experience performing Linux system administration </li><li> 3+ years working in a virtualized (VMware) Linux server environment </li><li> Scripting proficiency: Bash, Python, etc. </li><li> Strong critical thinking, decision making, and problem-solving skills </li><li> Strong desire to automate tasks </li><li> Excellent written and verbal communication skills <br><br></li></ul><strong> Preferred Qualifications: <br></strong><ul><li> Experience with Docker/Kubernetes </li><li> Experience with SaltStack, ArgoCD, Helm </li><li> Experience with Active Directory/Centrify </li><li> Experience with system performance tuning/testing </li><li> Familiarization with Scaled Agile/Scrum methodologies <br><br></li></ul>#DICE_VP<br><br>Compensation: $55,800.00/Yr. - $87,450.00/Yr.<br><br>From versatile health perks to new career opportunities, check out our benefits on our careers website .<br><br>Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:05:10.000Z"
+  },
+  "company": {
+    "name": "DISH Network",
+    "link": "https://www.linkedin.com/company/dish-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66100,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cheyenne",
+    "region": "WY",
+    "postal_code": "82003",
+    "street_address": null,
+    "latitude": 41.14024,
+    "longitude": -104.8188
+  }
+}

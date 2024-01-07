@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Integrations",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong>Pinwheel - Building a fairer financial system by unlocking API access to payroll systems.<br><br></strong>Pinwheel provides an API that makes it easy for any user to connect their payroll account to any app. By building pipes that connect payroll platforms to banks, lenders, and other service providers, we hope to help underserved consumers gain equitable access to financial services when they need it most, while sparking innovation of new financial products.<br><br>Financial institutions often rely on traditional credit scoring systems that look at a consumer's past behavior and limited demographic data. More than half of Americans have a poor credit score or no score at all, and 78% live paycheck to paycheck. Without access to affordable financial products, they resort to high-interest credit cards, payday loans, and trigger overdraft fees to make ends meet \u2014 which ultimately push them into deeper cycles of debt.<br><br>At Pinwheel, we believe that unlocking API access to payroll systems helps build towards a fairer financial system. Most people's money can be traced back to a payroll system (e.g., ADP, Paychex, Gusto) \u2014 meaning those systems sit at the top of the financial stack and harbor a wealth of income and employment data, and tapping into them offers limitless possibilities. Here are just a few ways Pinwheel's solution helps our customers and their end users:<br><ul><li>Enable real-time, seamless direct deposit switching within a bank's UX, driving LTV and account profitability for banks, and giving users control over where their paycheck goes</li><li>Let consumers share their income and employment data directly with lenders, no paperwork required \u2014 speeding up the process and delivering the high quality data lenders need in real time</li><li>Allow borrowers to repay their loans directly from their payroll \u2014 massively de-risking loans for lenders and allowing customers to access fairer interest rates<br></li></ul><strong>What are we looking for?<br><br></strong>We are looking for skilled engineers to join our integrations engineering team. This team is responsible for the core business function of building and maintaining code that interacts with hundreds of different platforms and payroll providers. If you're the type of person that loves to make your own tools that mash together different data sources, you'll be a good fit.<br><br><strong>What you will be doing?<br></strong><ul><li>Writing new integrations that range from implementing well-documented APIs to enabling clean data access on otherwise tricky, undocumented or unfriendly systems.</li><li>Monitoring and supporting live integrations to keep them healthy and up to date as platforms change and evolve.</li><li>Working and growing with a team of engineers from different backgrounds and collaborating cross-functionally with product management and operations teams.<br></li></ul><strong>What skills are necessary?<br></strong><ul><li>Python proficiency (or transferrable scripting language experience).</li><li>A decent grasp of how the web works (HTTP, webservers, etc.)</li><li>Experience with processing, manipulating, and cleaning data.</li><li>BS in Computer Science, Information Sciences or similar. </li><li>1-2 years of industry experience.<br></li></ul><strong>Why join Pinwheel?<br><br></strong><strong>Best Time to Join</strong> - Our company is small but well-funded, meaning you get the upside of starting on the bottom floor with minimal risk.<br><br><strong>Be a Cultural Founder</strong> - You will have an active hand in molding the company culture and being a part of the entrepreneurial journey.<br><br><strong>Build Something Revolutionary</strong> - Help build the consumer data infrastructure of the future.<br><br><strong><u>Compensation &amp; Benefits<br><br></u></strong><strong>Starting Salary</strong> - $90,000<br><br><strong>Benefits</strong> - Full medical, dental and vision benefits. Unlimited vacation and sick days. 401K plan. Snacks delivered monthly. And so much more!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:16:02.000Z"
+  },
+  "company": {
+    "name": "Pinwheel",
+    "link": "https://www.linkedin.com/company/pinwheelhq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

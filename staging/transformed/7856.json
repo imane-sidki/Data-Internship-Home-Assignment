@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Have you ever wanted to be part of a strong, fun-loving team that develops planet-scale distributed database and takes pride in making its customers happy?<br><br>Come join the Azure Cosmos DB Store and High Availability team, where you will be working on one of the fastest growing Azure services that provides globally distributed, low-latency, massively scalable, multi-model cloud database service. It is designed to enable developers to build planet-scale applications.<br><br>This role is within the group which works on High Availability (Replication, Leader Election, Geo Failovers, Multi-Master, Tunable Consistency Levels, Disaster Recovery), Storage (Row Store, Column Store, Log Structured Store), Inverted Index, Database Engines like BW-Tree and other LSM technologies. The group fosters a diverse, inclusive, and collaborative work culture that prioritizes people at all times.<br><br>In this role, you will have a fantastic opportunity to work on Azure Cosmos DB distributed Store, ensure its 24x7 high availability and help shape its future alongside other highly talented engineers in a very diverse, inclusive work environment to deliver differentiated value in the No-SQL database space.<br><br><strong><u>Responsibilities<br><br></u></strong><strong>Responsibilities<br></strong><ul><li>Live Site Management - thousands of customers across the world rely on Cosmos DB for keeping their business running and have trillions of requests served by the service in 24 hrs. This ignites a lot of passion in our team to keep the system working at high availability and performance and meeting the SLAs. As an SRE you will be part of a global team driving live sites 24X7 and is super-passionate to deliver one of the best services in Microsoft.</li><li>Customer Focus - Microsoft core value is Customer First. In Cosmos DB we deeply care about our customers and are dedicated to meeting time-to-mitigate targets for customer reported issues; you will take the opportunity to help delivering that.</li><li>Automation - As CosmosDB continues to grow rapidly into more regions, your responsibility would be to empower CosmosDB engineering team by delivering automation and tooling to improve our live site management.</li><li>Shaping the product - Evaluate and contribute to product design and architecture, help shape Site Reliability Engineering strategies, review specifications, design and improve upon core processes, incident &amp; problem management, change management, security and compliance.</li><li>Improving Time to Mitigate and Resolve - Identify system problems and recommend monitoring solutions &amp; automation to improve processing efficiency and stability. <br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>Required Qualifications:<br></strong><ul><li>5+ years of scripting and programming experience (preferably PowerShell, C#, .NET).<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Excellent troubleshooting skills are a must to be successful in this role. </li><li>Out of the box, quick and agile thinking to adapt to fast pace and changing environment.</li><li>Deep knowledge of system design &amp; architecture, and running of complex, large scale online services</li><li>Understanding of cloud services is a plus (preferably Azure).</li><li>Working knowledge of Databases is a plus.</li><li>Ability to work as part an on-call rotation.<br></li></ul><strong><u>Requirements<br><br></u></strong>These requirements include but are not limited to the following specialized security screenings<br><br>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.<br><br>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br><br>#AZDAT #ENGJOBS<br><br>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-24T04:11:34.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 111000,
+    "max_value": 155000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

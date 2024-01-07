@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Telecommunications",
+    "description": "<p><strong>ABOUT THE ROLE</strong></p><p>We are looking for our next extraordinary<strong><em>Site Reliability Engineer </em></strong>to level up our<strong><em>TechOps Team!</em></strong></p><p>As a SRE, you have the mind of a software engineer and the soul of a systems administrator. You are the guardian angel of our systems infrastructure. You have no trouble communicating your take on problems that arise. Enterprise and network administration are in your DNA, and you have the blood test to prove it. (Or maybe just the experience. That works, too.). Your time would be split 50/50 between writing code and operationalizing infrastructure (aka scripting yourself out of a job).</p><p>Your usual day of awesomeness includes:</p><ul><li>Maintain the core infrastructure.</li><li>Debug software at the code and infrastructure level.</li><li>Software development to help support production code and bring automation to routine tasks.</li><li>Collaborate with engineers in the deployment and scaling of new product features.</li><li>Architect scalable, reliable solutions for business requirements.</li><li>Maintain services once they are live by measuring and monitoring availability, latency, and overall system health.</li><li>Create documentation and diagrams of systems and processes.</li><li>Investigate production incidents, help determine contributing factors, implement fixes, and write blameless postmortems.</li><li>Architect, create, and implement automation into our SDLC.</li><li>Be responsible for configuration management tools and monitoring strategy.</li><li>Understand production call flows to support incident management.</li><li>Help meet objectives for the business by interacting with other teams within the organization.</li></ul><p><u>Technologies You\u2019ll Work With</u></p><ul><li>NodeJS, Golang, Python</li><li>GIT, CI/CD tools</li><li>Docker, Kubernetes</li><li>Terraform</li><li>AWS (Lambdas, EC2, Kinesis, S3, Route53, RDS, Dynamo, and many others)</li><li>ELK</li><li>Datadog, Bitbucket, Jira</li><li>Web servers (Apache/Nginx/Varnish)</li><li>NoSQL DBs</li><li>SQL (RDS Aurora/MSSQL/PSQL)</li><li>CM tools like Ansible</li><li>HTTP, TLS/SSL</li><li>Linux</li><li>Network routing and firewalls</li></ul><p><strong>WHAT YOU BRING</strong></p><ul><li>Software Engineering (NodeJS preferred).</li><li>Scripting in Bash, Python.</li><li>Experience with designing/maintaining Linux based systems.</li><li>Monitoring production systems.</li><li>Experience with AWS and Cloud Hosting.</li><li>Understanding of system and network security best practices.</li><li>Monitoring/Alarming complex systems.</li><li>Advanced troubleshooting and fault isolation skills.</li><li>Highly collaborative with effective written and verbal communication skills.</li></ul><p><br></p><p><strong>OUR VALUES \u2013 LET\u2019S MAKE LIFE ULTRA TOGETHER!</strong></p><ul><li><strong>Ownership:</strong>We are all owners; be the outcome and get the job done.</li><li><strong>Action Biased:</strong>Be brilliant, proactive, and act with urgency.</li><li><strong>Embrace the Adventure:</strong>Be agile, adaptive, and thrive on change.</li><li><strong>Invent and Simplify:</strong>Never accept good enough.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T04:24:33.000Z"
+  },
+  "company": {
+    "name": "Ultra Mobile",
+    "link": "https://www.linkedin.com/company/ultra-mobile"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

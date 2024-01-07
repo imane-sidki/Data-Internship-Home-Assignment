@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Lab222",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Analytics is a competitive differentiator for Nike and is fundamentally changing how the company serves athletes and consumers around the world! The Nike Commercial Analytics team builds analytic-based solutions to manage marketplace and optimize the supply chain. Using big data, advanced analytics and state-of-the-art technology, the team strives to ensure that Nike gets the right product to the right place at the right time for the consumers.<br><br>Who we are looking for<br><br>We are looking for a Data Scientist to join our Advanced Analytics team within Commercial Analytics. This role will be part of a multi-functional agile squad responsible for using predictive analytics to forecast consumer demand, enhance decision making and drive to action against our strategic priorities.<br><br>The candidate needs to be a dependable teammate with hands-on analytics product development experience. While you are grounded in good working knowledge of data science methods and production level implementations, you know how to rise above the numbers and explain the essential insights to users at all levels. You understand the tradeoffs between modeling techniques and always consider the business requirements and data limitations when developing data science models. You ask good questions, are continually learning, and can effectively interact with and influence your colleagues and partners. You thrive when surrounded by hardworking colleagues and enjoy a collaborative and academic environment where we continuously develop and share new skills.<br><br>What you will work on<br><br>If this is you, you will be part of our Advanced Analytics, In Season Optimization squad. We deliver scalable solutions to power data driven automated decision making on a variety of problems, such as pricing, product allocation and other related key business decisions. Specifically, you will:<br><ul><li>Collaborate with other squad members to develop new sophisticated algorithms and improve existing approaches based on statistical/econometric methods, machine learning techniques and big data solutions to forecast consumer demand and determine optimal level of investment in various stages of the supply chain.</li><li>Apply analytics methods to acquire, explore, cleanse, and fuse data from different sources.</li><li>Develop, review and maintain production grade code to support consumers of models\u2019 output.</li><li>Contribute to building, scoring, deploying, monitoring, updating and promoting Nike\u2019s central forecasting platform.</li><li>Facilitate the planning, scheduling and value measurement of the work to meet timeline targets and success criteria.</li><li>Support the adoption of analytic products through effective storytelling and collaboration with key partners.</li><li>Participate in a continuous learning environment within the advanced analytics community through persistent development of new skills and sharing of knowledge through mentorships and contributions to the open source community.<br></li></ul>Who you will work with<br><br>You will work with the Director of Data Science while partnering daily with fellow data scientists, data analysts, engineers and product owner on your squad. You will collaborate across the broader organization with business teams in Demand and Supply Management as well as other data, analytics and technology functions at Nike.<br><br>What you bring<br><ul><li>Advanced quantitative degree (Statistics, Mathematics, Economics, Computer Science or related field) and at least 3 years of relevant industry experience or Bachelor\u2019s degree and at least 5 years of relevant professional experience.</li><li>Demonstrated understanding of data science methods, machine learning algorithms and production level programming principles.</li><li>Solid skills in programming languages (particularly Python, Pandas and SQL) and ability to apply them for data acquisition and preprocessing, model developing, as well as building and maintaining production grade prediction model endpoints.</li><li>Familiarity with common data science/analytics software tools (e.g. Jupyter Notebook, SQL, Spark, Git) and cloud computing platforms (e.g. Amazon Web Services).</li><li>Experience in building, training, scoring, tuning and maintaining predictive models in production at enterprise scale and familiarity with mainstream packages relevant to managing all stages of Data Science/Analytics lifecycle.</li><li>Familiarity with the Agile development process</li><li>Ability to work cross functionally and evaluate complex business information from multiple perspectives, including questioning assumptions and validity.</li><li>Strong written and verbal communication skills, including ability to develop and deliver presentation.<br></li></ul>NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. No matter the location, or the role, every Nike employee shares one galvanizing mission: To bring inspiration and innovation to every athlete* in the world. NIKE, Inc. is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-21T09:35:28.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

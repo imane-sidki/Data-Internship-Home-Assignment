@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: Linux - USB / PCIe / Thunderbolt (USB4)",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here!  At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly.  Bring passion and dedication to your job and there's no telling what you could accomplish.  Dynamic, smart people and inspiring, innovative technologies are the norm here.  The people who work here have reinvented entire industries with all Apple Hardware products.  The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it.  Join us to help deliver the next groundbreaking Apple product. <br><br><br>Are you passionate about changing the world? We have a critical impact on getting high quality functional products to millions of customers quickly and we are hiring all levels from junior to senior roles. As part of the silicon validation team, you will develop Linux device drivers and user-land applications/scripts for exercising and validating USB subsystem in complex SoCs.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experienced in embedded Linux kernel development <br><br>Must have expertise with Linux, Thunderbolt/USB4, PCIe and/or USB<br><br>Strong debugging skills in kernel context and Linux user applications<br><br>You are a skilled C programmer and good at scripting using bash/python<br><br>Experience with using test equipment and USB protocol analyzer is a must<br><br>Familiarity with ARM architecture<br><br>Proven knowledge of Linux kernel internals (process scheduler, memory management, concurrency/synchronization, memory allocation, file systems)<br><br> <br><strong>Description<br></strong> <br>-  You will develop Linux software to validate the USB/USB4/Thunderbolt/PCIE IP in Apple Silicon<br><br>-  Get involved with debug of hardware issues, working closely with IP designers<br><br>-  Generate and execute validation plans for IP level and system level use cases<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor's or Master's degree in Electrical Engineering or Computer Science is required<br><br> <br>Role Number: 200254007<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:43:34.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

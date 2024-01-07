@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer & Network Security",
+    "description": "Springshot, Inc. is looking for Software Engineer with 4-10 years of experience to support our backend server side development. Springshot is an an online task management platform for blue collar workers that helps restore employees' passion by giving them tools that make their jobs more engaging, fun and fulfilling .Springshot is poised to break out as aviation and live events return in the second half of 2021. Springshot\u2019s template based collaboration platform has been used to digitally transform some of the world\u2019s most complex operational environments \u2013 like the largest single-airline operation and support some of the world\u2019s most marquee events. In the process, the company has delivered measurable ROI and a unique empathetic brand beloved by its users. Given the accelerated pace of digital transformation within aviation, hospitality, healthcare and live event operations, a well-differentiated product offering, and track record of success, the company is uniquely-positioned to capitalize as the world returns to normal post-COVID.<br><br><strong><u>Requirements<br><br></u></strong>You have a passion for software development and for coming up with simple and elegant solutions to difficult problems. You don\u2019t cut corners and don't develop ugly and fragile hacks, but you also don\u2019t over-engineer to prepare for every possible hypothetical future scenario. Regardless of what you\u2019re working on, you make sure to familiarize yourself with best practices, to ensure you are developing code that is robust, easy to read and easy to maintain. You love to learn and try to keep up with the ever changing landscape of software/web development. You are a self starter and thrive in a fast paced environment that allows, and sometimes requires you to take your own initiatives. You understand the value of automated testing, and deliver your code along with tests that validate it.<br><ul> <li>BS or MS degree in Computer Science or related technical field</li> <li>Experience with Ruby on Rails</li> <li>Some experience with React JS or other Javascript MVCs is a bonus </li> <li>4 to 10 years of software development experience</li> <li>Experience developing RESTful APIs. </li> <li>Strong database and data modeling knowledge</li> <li>Experience working with test frameworks tools such as rspec, cucumber</li> <li>Demonstrated success working on small teams and/or in startup environments</li> <li>Must be proactive, have great attention to detail, be organized and a team player</li> <br></ul>Bonus skills<br><ul><li>DevOps experience, deploying and maintaining applications on AWS or other cloud platforms<br><br></li></ul><u><strong>Benefits<br><br></strong></u>Springshot offers their employees competitive salaries, including full medical, dental and vision benefits, 401k, generous stock option plan, flexible schedule, commuter benefits and unlimited vacation days.<br><br>Our office is located in San Francisco's South of Market area, convenient to Bart, bus and Caltrain commuters",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T03:27:39.000Z"
+  },
+  "company": {
+    "name": "Springshot",
+    "link": "https://www.linkedin.com/company/springshot-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91500,
+    "max_value": 198700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (Kubernetes, Workflow, Python, AWS)",
+    "industry": "Information Technology and Services,Financial Services",
+    "description": "<p>Greetings from Photon!</p><p></p><p>We have an opportunity for a<strong>Machine Learning Engineer - Kubernetes, Workflow, Python, AWS</strong>with one of our direct clients.</p><p><br></p><p>Role is Remote to start but eventually onsite in Richmond,VA</p><p><br></p><p><strong>Who are We?</strong></p><p>For the past 20 years, we have powered many Digital Experiences for the Fortune 500 (for example, if you bank with Chase or Citi, you are likely to use what we have built for them). Since 1999, we have grown from a few people to more than 4000 team members across the globe that are engaged in various Digital Modernization. For a brief 1 minute video about us, you can check<u>https://youtu.be/uJWBWQZEA6o</u>.</p><p></p><p><strong>What we are looking for:</strong></p><p><br></p><p>-Kubernetes</p><p>- Workflow (one of these: Kubeflow, Prefect, Airflow,...)</p><p>- Python</p><p>- Micro-service architecture</p><p>- CICD</p><p>- Preferably some exposure to a Cloud provider like AWS</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T14:21:55.000Z"
+  },
+  "company": {
+    "name": "Photon",
+    "link": "https://uk.linkedin.com/company/photon-interactive"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

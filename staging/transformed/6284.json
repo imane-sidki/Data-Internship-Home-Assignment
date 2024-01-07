@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Entry Level Artificial Intelligence / Machine Learning (Engineer)",
+    "industry": "Research",
+    "description": "Riverside Research is adding a Junior or Entry Level AI/ML Engineer to our team in Beavercreek, OH. You will have the opportunity to support existing contracts and prototype &amp; develop automation solutions for NASIC's most difficult Scientific &amp; Technical Intelligence problems. You will be part of a highly skilled and integrated team that analyzes intelligence data to discover opportunities for automated solutions. You will be mentored and gain responsibilities that will really impact our customers success.<br><br>All Riverside Research opportunities require US citizenship.<br><br><strong>Job Responsibilities:</strong>   <ul><li>AI/ML dataset generation, curation, and management:</li><ul><li>Provide customized solutions to data quality control that ensure accurate functional mappings for AI/ML algorithms on complex remote sensing datasets</li><li>Perform data exploration, feature identification/engineering, organization, and maintenance of complex and semi-structured datasets in the context of the Python/Tensorflow data API</li><li>Build custom multi-user data labeling tools that implement dataset version control, data balancing, and maintenance of training / testing / validation dataset splits across multiple iterations of model development and evolution</li><li>Develop databases / data lakes / data warehouses for organizing both structured and unstructured datasets</li><li>Utilize remote sensing subject matter expertise to build and curate both synthetic and real datasets using an understanding of realistic data augmentation techniques for a given sensing phenomenology and applying appropriate domain randomization techniques to bridge reality gaps between real and synthetic datasets</li></ul><li>AI/ML algorithm R&amp;D:</li><ul><li>Analyze potential AI/ML based algorithms that could be used to solve a given problem and rank them by their probability of successful application to long-standing difficult remote sensing problems</li></ul><li>Software development, documentation, and coding best practices:</li><ul><li>Contribute and adhere to the AI team's standards for reviewing and unit-testing code, lead or participate in team-wide code reviews, and adhere to standardized documentation practices</li><li>Utilize Python PEP8 standards</li><li>Utilize the \"Atlassian Stack\" software development and management tool suites</li><li>Collaborate with team members' coding activities using Git in the context of \"GitFlow\"<br></li></ul></ul><strong>Required Qualifications:<br></strong><ul><li>Bachelor's Degree in one of Electrical Engineering, Mathematics, Statistics, Physics, Computer Science, or related field of study</li><li>Must be capable of acquiring Top Secret / SCI clearance</li><li>Awareness of version control, branches, merge conflict resolution, and git in general</li><li>Proficient in collaborative Office 365 tools such as MS Word, Excel, and PowerPoint</li><li>Self-driven, strong analytic, inferencing, critical thinking, and creative problem-solving skills</li><li>Communicates highly technical results and methods clearly and succinctly</li><li>Collaborative team member with the highest integrity and moral compass<br></li></ul><strong>Desired Qualifications:<br></strong><ul><li>Active Secret or TS/SCI Security Clearance</li><li>Experience with DoD intelligence production processes and workflows</li><li>1+ years' experience using data visualization tools and libraries in Python</li><li>Familiarity in differences of supervised learning vs. unsupervised learning techniques<br></li></ul>Riverside Research strives to be one of America's premier providers of independent, trusted technical and scientific expertise. As we continue to add experienced, technically astute staff, we are looking for highly motivated, talented team members that can help our DoD and Intelligence Community (IC) customers continue delivery of world-class programs. As a not-for-profit, technology-oriented Defense Company, we believe service to customers and support of our staff is our mission. Our goal is to serve as a destination company by providing an industry-leading, positive, and rewarding employee experience for all who join us. We aspire to be a valued partner to our customers and to earn their trust through our unwavering commitment to achieve timely, innovative, cost-effective, and mission-focused solutions.<br><br>All positions at Riverside Research are subject to background investigations. Employment is contingent upon successful completion of a background investigation including criminal history and identity check.<br><br>Our EEO Policy<br><br>Riverside Research is an equal opportunity employer. We recruit, employ, train, compensate and promote without regard to race, religion, sex, color, national origin, age, gender identity, sexual orientation, marital status, disability/veteran, status as a protected veteran, or any other basis protected by applicable federal, state and local law.<br><br>If you need assistance at any time in our application or interview process, please contact Human Resources at 937-427-7074 or email HR. A member of the HR team will be available to assist.<br><br>This contractor and subcontractor shall abide by the requirements of 41 CFR 60-741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.<br><br>This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.<br><br>For more information on \"EEO is the Law\", please visit:<br><br>http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf<br><br>https://www.dol.gov/sites/dolgov/files/ofccp/regs/compliance/posters/pdf/eeopost.pdf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T17:15:24.000Z"
+  },
+  "company": {
+    "name": "Riverside Research",
+    "link": "https://www.linkedin.com/company/riverside-research"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beavercreek",
+    "region": "OH",
+    "postal_code": "45314",
+    "street_address": null,
+    "latitude": 39.73277,
+    "longitude": -84.06587
+  }
+}

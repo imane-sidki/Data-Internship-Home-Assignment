@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>We are looking for an energetic and highly motivated Site Reliability Engineer (SRE) to join our team. A Systems Engineer who loves automation, or a Software Developer who loves infrastructure, will be ideal for this role. The Site Reliability Engineer (SRE) will be an integral part of our Software Development team, and should have a passion for technology and open source software.</p><p><br></p><p>Responsibilities:</p><p><br></p><ul><li>Help develop and deploy tools and systems that assist the company\u2019s Engineering, QA, and Operations team, to deliver high-quality software.</li><li>Work with development to help evolve our continuous delivery process.</li><li>Monitor and respond to alerts from technology infrastructure in order to ensure proper SLA's are met.</li><li>Work throughout the technology stack to design, build, and monitor solutions that allow for continued scalability.</li><li>Document work associated with troubleshooting, while utilizing problem solving skills</li><li>Remain flexible.</li><li>Have a strong sense of ownership for system uptime and performance.</li></ul><p><br></p><p>Skills and Experience:</p><p><br></p><ul><li>Bachelor\u2019s Degree in Computer Science, Engineering or similar field is preferred.</li><li>2-3 years of experience.</li><li>Knowledge of managing a Linux cluster environment (RHEL, CentOS).</li><li>Exceptional skills with one or more scripting languages (bash, Python, Perl, Ruby or similar).</li><li>Proven experience using configuration management tools such as Puppet or Chef.</li><li>Experience supporting and troubleshooting any of the following technology components (or similar): Linux container technology and orchestration tools (Docker/Origin/Kubernetes), Continuous Integration tools (Jenkins), Logging and alerting platforms (Nagios/ElasticSearch/Splunk), Web application servers (Apache/Tomcat/Nginx), Databases in a distributed data center environment (MySQL/Couchbase, LDAP and Kerberos.</li><li>Detail oriented individual, with strong communication skills used to collaborate and keep others informed.</li><li>Ability to produce results while working independently, and in a team environment.</li><li>Working knowledge of building and maintaining IP-based networks (Cisco) and F5 LTM, DNS and/or iRule development experience</li><li>Experience with VMWare/vCenter or AWS is preferred, but not required</li></ul><p></p><p><br></p><p></p><p><br></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T15:31:44.000Z"
+  },
+  "company": {
+    "name": "Solution Partners, Inc.",
+    "link": "https://www.linkedin.com/company/solpart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Entertainment",
+    "description": "<p>The Direct to Consumer Group is a technology company within Client. We are building a global streaming video platform (OTT) which covers search, recommendation, personalization, catalogue, video transcoding, global subscriptions and really much more. We build user experiences ranging from classic lean-back viewing to interactive learning applications. We build for connected TVs, web, mobile phones, tablets and consoles for a large footprint of Client owned networks (Client, Food Network, Golf TV, MotorTrend, Eurosport, Client Play, and many more). This is a growing, global engineering group crucial to Client\u2019s future.</p><p>We are hiring Senior Software Engineers to join the Personalization, Recommendation and Search team. As part of a rapidly growing team, you will own complex systems that will provide a personalized and unique experience for millions of users across over 200 countries for all the Client brands. You will be responsible for building a scalable Machine Learning platform that will be used to train, evaluate, deploy, serve and monitor ML models and to manage data. You will design complex resilient ML systems that will operate at the scale of millions of users.</p><p>You will lead by example and define the best practices, will set high standards for the entire team and for the rest of the organization. You have a successful track record for ambitious projects across cross-functional teams. You are passionate and results-oriented. You strive for technical excellence and are very hands-on. Your co-workers love working with you. You have built respect in your career through concrete accomplishments.</p><p><strong>Quallifications:</strong></p><ul><li>5+ years of experience designing, building, deploying, testing, maintaining, monitoring and owning scalable, resilient and distributed machine learning systems and platforms.</li><li>Proficiency in operating machine learning solutions at scale, covering the end-to-end ML workflow.</li><li>Expertise with tools and platforms commonly used for end-to-end machine learning (Kubeflow, TFX, Airflow, MLflow, ...).</li><li>Knowledge of Feature Stores (e.g. Feast, Tecton).</li><li>Familiarity with real-world ML systems (configuration, data collection, data verification, feature extraction, resource and process management, analytics, training, serving, validation, experimentation, monitoring).</li><li>Knowledge of batch and streaming data processing techniques.</li><li>Obsession for service observability, instrumentation, monitoring and alerting.</li><li>Strong knowledge of AWS or similar cloud platforms.</li><li>Expertise with CI/CD tools (CircleCI, Jenkins or similar) to automate building, testing and deployment of the ML platform and to manage the infrastructure (Pulumi, Terraform or CloudFormation).</li><li>Basic understanding of ML techniques and algorithms (supervised vs. unsupervised learning, deep learning, ...).</li><li>Familiarity with recommendation and search to personalize the experience for millions of users across million items.</li><li>Masters in Computer Science or related discipline.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T23:37:06.000Z"
+  },
+  "company": {
+    "name": "Top Choice Recruiting ",
+    "link": "https://www.linkedin.com/company/top-choice-recruiting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

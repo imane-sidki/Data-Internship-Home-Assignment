@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Programmer",
+    "industry": "Biotechnology,Pharmaceuticals,Research",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Celerion is committed to swift, exceptional clinical research through translational medicine. </strong>Every day, we use our experience, agility, and innovative research strategies to help get drugs to market faster. Celerion offers one of the most experienced clinical pharmacology research networks in the industry.<br><br>Are you looking for an opportunity to support a business creating life-saving treatments? If so, we can't wait to meet you!<br><br>Come be part of our clinical pharmacology team as a <strong>Data Programmer</strong>.<br><br>This full-time position can be located at either at our Lincoln, Nebraska, Phoenix, AZ or Belfast, N.Ireland clinical trial facilities. <em>Remote work may be considered in certain circumstances.<br><br></em>The purpose of the Clinical Data Programmer I role is to develop and support clinical database programming activities and associated documentation involved in clinical trial set-up, conduct and close-out stages in line with protocol requirements, standard operating procedures (SOPs/PGs), Good Clinical Programming Practices (GXP), Clinical Data Interchange Standards (CDISC) and other applicable sponsor or regulatory requirements.<br><br><strong><u>Essential Functions<br></u></strong><ul><li>Deliver and support all SAS programming processes associated with data collection, reporting and cleaning for early phase clinical trials</li><li>Develop, maintain, and process SAS programs that create case report forms, edit checks, data listings and other submission- ready database formats to support analysis and reporting</li><li>Support data import, integration and reconciliation programming activities</li><li>Deliver and support CDASH and CDISC/SDTM or other sponsor specified data transfer packages</li><li>Perform peer QC functions</li><li>Actively participate in process improvement initiatives</li><li>Ensure that data programming delivers quality outputs on time or better following good programming practices, including adequately-documented SAS code<br></li></ul>Job Requirements<br><br><strong>Job information <br><br></strong><strong><u>Education / Knowledge / Skills<br></u></strong><ul><li>Bachelor's degree with 1+ yrs programming experience OR comparable experience in related industry, previous experience with SAS and clinical data preferred</li><li>SAS experience preferred</li><li>Demonstrated interpersonal skills</li><li>Demonstrated problem solving and decision making skills</li><li>Demonstrated ability to manage multiple priorities</li><li>Demonstrated communication skills<br></li></ul>Internal Celerion candidates with strong clinical data review, data management or IT background will also be considered.<br><br><strong>Celerion Values: Integrity Trust Teamwork Respect<br><br></strong>Are you ready to join our team?<br><br><em>Celerion is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, genetic information, marital status, qualified protected veteran status, or disability.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:06:06.000Z"
+  },
+  "company": {
+    "name": "Celerion",
+    "link": "https://www.linkedin.com/company/celerion"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 43800,
+    "max_value": 73300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lincoln",
+    "region": "NE",
+    "postal_code": "68583",
+    "street_address": null,
+    "latitude": 40.8136,
+    "longitude": -96.70261
+  }
+}

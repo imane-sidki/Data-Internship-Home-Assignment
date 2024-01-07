@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "<strong>Our Purpose<br><br></strong>We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team \u2013 one that makes better decisions, drives innovation and delivers better business results.<br><br><strong>Job Title<br><br></strong>Senior Software Engineer<br><br>Who is Mastercard?<br>Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.<br>Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.<br><br><strong><u>Overview<br><br></u></strong>Mastercard Cyber and Intelligence (C&amp;I) develops and delivers world-class risk, security products, and services for Mastercard customers across the globe. As part of this organization, the Strategic Data Generation team is responsible for:<br><ul><li> Providing core data sources to internal Mastercard customers for use across our Cyber Risk portfolio</li><li> Maintenance of existing and development of new tools for data driven products/services<br></li></ul>Role<br>The Senior Software Development Engineer\u2019s responsibilities include gathering user requirements, defining system functionality and writing code in various languages (Ruby, Elixir, and Python). Our ideal candidates are familiar with the software development life cycle (SDLC) from preliminary system analysis to tests and deployment.<br><br>Ultimately, the role of the Senior Software Engineer is to build high-quality, innovative and fully performing software that complies with coding standards and technical design.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Execute full software development life cycle (SDLC)</li><li> Develop flowcharts, layouts and documentation to identify requirements and solutions</li><li> Produce specifications and determine operational feasibility</li><li> Write well-designed, testable code</li><li> Troubleshoot, debug and update existing systems</li><li> Integrate new components into a fully operational software system</li><li> Deploy programs and evaluate user feedback<br></li></ul>Experiences<br><ul><li> Experience designing distributed applications</li><li> Ability to develop software in Ruby, Python or Elixir</li><li> Excellent knowledge of relational databases and SQL</li><li> Knowledge and experience with queuing/messaging systems (e.g. RabbitMQ)</li><li> Experience with wide range of data store technologies - PostgreSQL, MongoDB, ElasticSearch, etc.</li><li> Strong understanding of Software Engineering Concepts and agile methodology is required</li><li> Ability to document requirements and specifications</li><li> Experience with AWS and Terraform are a plus</li><li> Experience with Docker and Kubernetes are a plus</li><li> Bachelor\u2019s degree in Computer Science, Engineering or proven experience in relevant field<br></li></ul>Due to COVID-19, most of our employees are working from home. We\u2019ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we\u2019re all in this together.<br><br><em>Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. <br><br></em><em>If you require accommodations or assistance to complete the online application process, please contact </em><em>reasonable.accommodation@mastercard.com</em><em> and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:37:56.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85000,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

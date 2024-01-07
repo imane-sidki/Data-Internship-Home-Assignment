@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer 1",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>The award-winning Choice Hotels Technology Center is revolutionizing hospitality with cloud computing, AWS, big data, machine learning/artificial intelligence, and mobile application development.</strong><strong>At Choice, we pioneer the exciting intersection of hospitality and technology in support of our successful franchise model. Our culture fosters innovation and encourages disruptive thinking. We welcome and respect your voice, empowering you to learn, grow, and make your impact.</strong><strong>When you #MakeItYourChoice, you will have the environment, the tools, and momentum to drive your career and organizational success.</strong><strong><strong><u>About This Opportunity</u></strong></strong><strong>The Data domain is seeking a Software Engineer 1 to join our team. As a member of one of our Agile Scrum teams, you will have the opportunity to plan, design, commit, and deliver highly visible, business facing features that make a big impact for our franchisees, our guests, and our loyalty members. You will work on a variety of data ingestions and creation of views and data marts to be used by data scientists, data engineers and business when creating analytics, reports and dashboards.</strong><strong>Reports to Manager, Software Engineering, Data</strong><strong><strong><u>Your Contribution<br></u></strong></strong><ul><li>Focus on growing as a software engineer - learning existing tools, resources, and processes</li><li>Develop your productivity skills by learning source control, editors, the build pipeline, and other tools, as well as testing best practices</li><li>Tackle well-defined tasks, commit, and deliver with the guidance of Senior developers as a part of a Scrum team during each sprint</li><li>Develop your knowledge of a single component of our software architecture and branch out into other areas as your grow as a software engineer</li><li>Work hard / Play hard; You take your commitments seriously and deliver as a member of a collaborative team</li><li>Thinks at the enterprise level for reliability, scalability, maintainability, extensibility, portability, and security.</li><li>Live Choice's core values: Be Bold, Be Quick, Listen, Be Curious, Show Integrity</li><li>Embrace Change and adapt to new technologies quickly</li><li>Graciously accept feedback and learn from everything you do</li></ul><strong><strong><u> Basic Qualifications </u></strong></strong><strong>Bachelor\u2019s Degree in Computer Science, or related field, from a four-year college or university, or one to two years related experience and/or training; or equivalent combination of education and experience. Relevant industry certification, such as Oracle Java Developer, is preferred. </strong><strong><strong><u>Preferred Qualifications<br></u></strong></strong><ul><li>Java (1-2 years)</li><li>Spring or similar MVC framework.</li><li>Unix/Linux and one of the many shells.</li><li>SQL \u2013 query creation, query tuning, creation of tables, views and indexes</li><li>Source control. Subversion and/or GIT.</li><li>Understanding knowledge of the software development lifecycle: design, functional and technical requirements, coding, debugging, testing, release, and operational support.</li><li>Knowledge of Agile software development methodologies, Service Oriented Architecture and object-oriented programming methodologies.</li><li>Knowledge of software development best practices, including coding standards, code reviews, source control management, build processes and testing.</li><li>Knowledge of relational database management, system technologies, and tools</li><li>Exceptional verbal, written and listening communication skills</li><li>Exceptional interpersonal skills and demeanor</li><li>Proficient in the use of MS Office suite, including familiarity with Visio</li><li>Above all else, the desire and ability to learn quickly</li></ul><strong><em>Added value proficiencies in the following technologies:<br></em></strong><ul><li>AWS (S3, SQS, SNS, EC2, Redshift)</li><li>Kafka, Spark</li><li>Familiar with continuous integration tools such as Jenkins, Sonar, Stash. <br></li></ul>Ability to model Choice\u2019s Cultural Values: Welcome and Respect Everyone, Be Bold, Be Quick, Listen, Be Curious and Show Integrity.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:04:48.000Z"
+  },
+  "company": {
+    "name": "Choice Hotels International",
+    "link": "https://www.linkedin.com/company/choice-hotels-international"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Phoenix Area",
+    "region": null,
+    "postal_code": "85003",
+    "street_address": null,
+    "latitude": 33.44547,
+    "longitude": -112.06631
+  }
+}

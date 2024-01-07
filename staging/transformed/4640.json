@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Java Engineer",
+    "industry": "Retail",
+    "description": "<p>Albertsons Companies is one of the largest food and drug retailers with 2,300+ stores. The Albertsons Companies family of brands includes some of the most prominent brands in food retailing, with a growing base of loyal shoppers. Thanks to the professionalism, diversity, spirit and friendliness of our people, we have locations across the U.S.</p><p><br></p><p>The Digital Marketing Technology &amp; Engineering Department has an opening for a Senior Software Java Engineer within the Retail Media Network team. This position is located in Pleasanton, California or Dallas, Texas.</p><p></p><p><strong><u>Position Purpose</u></strong></p><p><br></p><p>This role will be an individual contributor role with hands-on engineering responsibilities to lead Development/Engineering and QA teams in delivering projects that pertain to the Digital Marketing. The candidate will partner with its peer development team members, other cross-functional Technology and Engineering teams, business stakeholders and leadership team distributed across geographical locations including Pleasanton CA or Dallas, TX. </p><p></p><p><strong><u>Key Responsibilities include, but are not limited to:</u></strong></p><ul><li>Provide expertise and design solutions for consumer facing web applications as well as system integration with internal systems and with external vendors</li><li>Provide technical leadership in design, development, and testing of business solutions</li><li>Prepare and present potential technical solutions and advise the business on approach and tradeoffs</li><li>Work with scrum masters, product owners, UI developers, back-end developers QA engineers and subject matter experts to understand the complex technological system in order to produce integrated end-to-end solution options</li><li>Communicate solution approaches to enterprise architects, project teams, leadership and other stakeholders</li><li>Keep up-to-date on cutting edge technologies like Cloud, APIs, Machine Learning, IoT, Mobile, Social and Big Data... etc.</li><li>Works with Solution Architects and Engineers to identify and mitigate architectural risks and issues across programs and projects.</li><li>Ensures that the solution architecture and design align with the Target Architecture for the project.</li><li>Ensuring adherence to architecture standards and processes.</li><li>Ensuring that the solution meets the functional and non-functional requirements approved by the business.</li><li>Leverages existing and participates in the creation and augmentation of new and existing reusable service components and patterns.</li><li>Defines the structure of systems, their interfaces, and the principles that guide its organization, software design and implementation.</li><li>Write technical requirements, stories, task break-up at the right level</li><li>Ensures Integration Requirements &amp; Designs are supported by standard Safeway Development Patterns and if required augments them if new patterns emerge.</li><li>Defines and supports reusable application components from a business and technology perspective.</li><li>Contributor to application development principles and patterns.</li><li>Partners with Enterprise, Application, and other Lead Architects in driving modular, services-oriented integration and solutions architectures.</li><li>Able to provide coding and technical direction to less experienced staff or develops highly complex original code.</li><li>Lead projects, provide technical leadership, coach and mentor team members.</li></ul><p></p><p><strong><u>Qualifications: </u></strong></p><ul><li>4 year degree (Computer Science, Information Systems or relational functional field) and/or equivalent combination of education or work experience</li><li>6+ years of hands-on programming and integration experience (Java, J2EE/Spring, SOAP and/or REST APIs)</li><li>Significant experience with Agile/Scrum methodologies is required</li><li>Experience in Microsoft Azure, GCP or AWS is required</li><li>Experience in application containerization with Dockers/Kubernetes is strongly preferred</li><li>Experience in No-SQL and in-memory DB (MongoDB, Cassandra, Redis...) is strongly preferred</li><li>Experience in high-performance and high-frequency data streaming (using Kafka, Storm etc.) and handling large volume of batch data (using ETL technologies) is strongly preferred</li><li>Deep familiarity with DevOps processes and CI/CD tools/processes is strongly preferred</li><li>Experience in the e-commerce domain, with deep understanding of product search and browse, catalog and master data management, pertaining to Retail/Grocery industry is preferred</li><li>Experience in Jira, Confluence is strongly preferred</li><li>Strong understanding of architecture/design patterns and best practices.</li><li>Strong emphasis on Testing, Quality and Automation</li><li>Strong ability to decompose a broad level business requirement into technical implementation.</li><li>Ability to mentor and guide development team members.</li><li>Strong organization skills with good interpersonal skills and a customer service oriented attitude.</li><li>Strong experience building consumer facing solutions and building applications on the public cloud</li><li>Deep knowledge of scalability, security and maintainability of high volume Internet applications</li><li>Strong analytical, problem-solving, and decision making skills</li><li>Ability to communicate and drive highly complex technology solutions to broad audiences within and outside ofTechnology and Engineering</li><li>Ability to define solutions from very high level business ideas</li><li>Ability to work independently</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:04:02.000Z"
+  },
+  "company": {
+    "name": "Albertsons Companies",
+    "link": "https://www.linkedin.com/company/albertsons"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

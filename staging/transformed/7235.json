@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Do you have a passion for invention and self-challenge? As part of our Battery Engineering group, help craft creative battery solutions that deliver more energy in smaller spaces than ever before. We work across subject areas to transform improved hardware elements into a single, integrated design. Join us, and help us innovate new battery technologies that continually outperform the previous iterations. By collaborating with other product development groups across Apple, push the industry boundaries of what batteries can do and improve the product experience for our customers across the world.<br><br> <br><strong>Key Qualifications<br></strong> <br>3-5 years as data scientist, data engineer or analyst. Battery Engineering experience desired. Working knowledge and experience with big data.<br><br>Strong working knowledge of Python, Unix tools, Perl, Github and Tableau. Basic knowledge of SQL databases, TCP/IP commands, Minitab, JMP and in bash/Perl environment.<br><br>Candidate must have solid competency in statistics and the ability to provide value-added analysis.<br><br>Self-starter with entrepreneurial experience and ability to interact with other functions in matrix environment. Proven creativity to go beyond current tools to deliver the best solution to the problem. Familiarity with database modeling and data warehousing principles.<br><br>Experience in designing and building data models to improve accessibility, efficiency, and quality of data. Improve ETL efficiency<br><br>Experience building scalable data pipelines using Spark, Hadoop, etc. preferred<br><br>Desirable for experience with Apple OS, such as iOS, MacOS, etc.<br><br> <br><strong>Description<br></strong> <br>-  Support revision to field/failure cloud infrastructure including ingest, storage, validation, and reporting engines using Data Studio<br><br>-  Write Python programs to implement Machine Learning functions and maintain revision in Github. Utilize advanced technologies, for modeling enhancements<br><br>-  Build a high-quality BI and Data Warehousing framework, implementing and operating data pipelines with an understanding of ML lifecycles<br><br>-  Understand end to end nature of Apple DB to organize proper sample size, proper key pull and minimize SQA issues with maximum efficiency<br><br>-  Drive development of data products in collaboration with data scientists and analysts. Automate reporting where possible to make team more efficient<br><br>-  Be able to analyze factory, user, and failure data and use engineering understanding mechanisms to resolve battery problems.<br><br>-  Work with diverse teams including data scientists, engineers, product managers and executives;<br><br>-  Deliver high quality analytic insights from a very data warehouse<br><br>-  Provide ad-hoc reporting as necessary (sometimes urgent escalation)<br><br>-  Develop test scripts for various Apple devices.<br><br>-  Maintain continuous operation of hundreds of Apple devices in labs.<br><br>-  Write programs for data filtering, organization, reporting. Write programs for uploading to and maintaining data in SQL database. Develop basic data management and selection programs on SQL.<br><br>-  Maintain software traceability through GitHub<br><br> <br><strong>Education &amp; Experience<br></strong> <br>MS or Ph.D. in Battery Engineering, Software Engineer, Data Mining, Machine Learning, Statistics, Operations Research or related field. CSSBB, CQE desired.<br><br> <br>Role Number: 200282790<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:28:14.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 218000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

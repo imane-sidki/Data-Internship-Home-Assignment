@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Core Platform",
+    "industry": "Online Media,Entertainment,Computer Software",
+    "description": "<p>As a key member of the Core Platform Engineering team, you will work directly with business and technical stakeholders to lead and execute a variety of projects including exploration of new languages, tools, and technologies (such as Go, .net-core, AWS Aurora, Elastic Search, etc), building new APIs and microservices, refactoring of existing services and data stores to fit well in our cloud-native distributed architecture, personalization and many more. While working on these projects you will hold responsibility for full life-cycle management, including requirements analysis, technical design, implementation, testing, documentation, deployment to production, and postproduction ownership.</p><p><br></p><p><strong>The Team </strong></p><p>The platform team is responsible for running API\u2019s that serve catalog and enable UX not only for TuneIn\u2019s own apps but also hundreds of different devices \u2013 from smart speakers to cars. The system that powers it consists of several dozens of services, built in a split between .net-core and Golang all running in Kubernetes. Other parts of our stack include AWS Aurora and Dynamo for persistent storage and Redis for caching and GRPC for cross-service interaction. Our current crew size is seven and growing, and we own the full cycle of development of our services from planning to deployment.</p><p><br></p><p><strong>What You'll Do </strong></p><ul><li>Design and build services and applications for scale on the order of tens of millions of users, and optimize code for numerous platforms</li><li>Profile and optimize browse and search algorithms over large datasets</li><li>Contribute to architecture, design, and implementation of next-generation monetization and metadata delivery platform</li><li>Contribute to the development of new web and mobile applications and services</li><li>Create technical specifications for new products, executing from start to finish and owning the quality of the service in production</li><li>Create and enhance integrations with external partners like Amazon, Microsoft, Sonos, Tesla, and Google</li><li>Maintain and extend heterogeneous environment, including our core .NET codebase and our set of services written in Go, Java, and Node.js</li><li>Maintain and extend API services, SDKs, and developer documentation</li></ul><p><br></p><p><strong>What We Are Looking For</strong></p><ul><li>5+ years of relevant experience</li><li>Expertise with object-oriented languages such as C#, Go, Java, or C++</li><li>Direct experience with modern server application stacks, design, development, and deployment of high volume web applications and APIs (millions of transactions per day)</li><li>Working knowledge of both relational and NoSQL database design and management (here at TuneIn we are using MySQL, Redis, DynamoDB, Redshift, and more)</li><li>History of building resilient, stateless, scalable, distributed, and observable systems</li><li>Familiarity with microservices, knowledge of modern cloud services (such as AWS or similar)</li><li>Experience working with CI/CD systems and infrastructure as code practices are a big plus</li><li>Understanding of presentation technologies, including XHTML, CSS, and JavaScript is a plus</li><li>A practical perspective on software engineering discipline, focus on learning and delivering, and passion for high quality</li><li>Great energy and enthusiasm with a positive, collaborative working style, clear communication, and writing skills. Enthusiasm for audio content preferred</li><li>Bachelors in Computer Science or equivalent experience</li></ul><p><br></p><p><strong>Our Compensation &amp; Benefits</strong></p><ul><li>TuneIn offers competitive salary, bonus, and equity compensation packages</li><li>We offer generous benefits, including 100% coverage of all health plans for employees and dependents regardless of which medical health plan you choose</li><li>Dental and Vision plan coverage</li><li>Flexible time off policy, plus 14 paid holidays (2021)</li><li>401k Plan</li><li>Wellness stipend/Cell phone subsidy</li><li>Trainings and educational spending, pet insurance, more</li></ul><p><br></p><p><strong>About TuneIn</strong></p><p>TuneIn, the leading live streaming and on-demand audio service, brings together live sports, news, music, podcasts, and radio from around the globe. With 75 million monthly active users, TuneIn is one of the most widely used streaming audio platforms in the world. TuneIn broadcasts over 100,000 owned &amp; operated and partner radio stations and boasts more than 5.7 million podcasts. With premiere distribution across 200 platforms and connected devices, TuneIn empowers listeners to \u2018hear\u2019 what they love wherever \u2018here\u2019 might be. </p><p><br></p><p>TuneIn Premium subscribers also unlock exclusive access to commercial-free news from top networks like CNBC, CNN, FOX News Radio, and MSNBC, as well as commercial-free music channels for every mood and activity. For more information please visit us at www.tunein.com or follow us on Facebook, Instagram, or Twitter.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:28:05.000Z"
+  },
+  "company": {
+    "name": "TuneIn",
+    "link": "https://www.linkedin.com/company/tunein"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

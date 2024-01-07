@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Insurance,Consumer Services",
+    "description": "The Junior Data Scientist is responsible for using analytical techniques to solve complex business problems. This role will work alongside senior team members to leverage machine learning tools that advance Assurant\u2019s business. The Junior Data Scientist will present findings to the business and must be comfortable communicating to all levels of the organization.<br><br><strong><u>Job Responsibilities<br><br></u></strong><strong> Creating Value Through Data <br></strong><ul><li> Produce clear, insightful, understandable work products (visualizations, reports, presentations, etc.) to outline business opportunities and actionable recommendations </li><li> Transform data into insights through leveraging internal and external tools (e.g., Python/C/Java, Spark, CUDA, SQL, Power BI, AutoML, etc.) to identify and quantify opportunities </li><li> Build studies that add substantial value to the decision-making process through proactive data analysis, reporting, and research <br></li></ul><strong> Model Development <br></strong><ul><li> Develops machine learning solutions for complex business problems; examine data and develop use cases to identify artificial intelligence/machine learning solutions </li><li> Provides feedback to product and engineering teams on machine learning solution design and development and communicate the approach and implementation of the machine learning solution </li><li> Works independently with mentorship from senior team members and/or leadership of the Data Science team on leveraging existing frameworks and models for known use cases around machine learning </li><li> Devises new algorithmic approaches to solving difficult quantitative problems using large scale enterprise data sources <br></li></ul><strong> Communicating Insights <br></strong><ul><li> Presents analysis and resulting recommendations to senior management </li><li> Leverages data to present compelling business cases to optimize investments and operations </li><li> Communicates and educates both technical and non-technical employees on analytics and data-driven decision making <br></li></ul><strong> Project Management <br></strong><ul><li> Leads projects and assists in development of project plans, conducting analysis/modeling, hypothesis testing, presenting complex information for various audiences in simplified terms, and identifying next steps and future opportunity </li><li> Mentors team members in technical proficiency, code reviews, and business acumen </li><li> Collaborates with team members to prioritize requests requiring multiple resources for thorough project completion within stated timelines <br></li></ul><strong> Support Data Strategies <br></strong><ul><li> Remains abreast of developments in the field(s) of insurance, management, and data sciences by attending self-development programs, interacting with peers, and reviewing pertinent literature. Incorporates advancements when practicable and cost effective </li><li> Participate and drive data modeling and governance best practices </li><li> Proactively engages internal and external teams to discover areas of analytical needs </li><li> Advances company-wide understanding and implementation of AI and machine learning as well as matures the team\u2019s practices and procedures, leveraging learnings from existing implementations </li><li> Participates in the talent acquisition process by screening and interviewing candidates at all levels <br><br></li></ul><strong><u>Basic Qualifications Required - Experience, Skills, And Knowledge<br></u></strong><ul><li>Masters or PHD Degree in Mathematics, Statistics, Computer Science, Electric Engineering, Operations Research, Economics, or related fields</li><li>2+ years\u2019 experience in business analysis, research, statistics, applied mathematics, data management, business intelligence, or related fields</li><li> 1+ years\u2019 experience in data analysis that includes translating insights into recommendations </li><li>Proficient in one or multiple of the following languages: Java, C++, Scala, Python, Go, CUDA</li><li>Excellent skills in Python, with good experiences in common data science toolkits, such as R, SAS, NumPy, SciPy, Scikit-Learn</li><li>Extensive experiences with big data analytics toolkits, such as Spark streaming, PySpark, SparkR, Hadoop, HDFS, Kafka, Elastic Search</li><li>Proficiency in using query languages such as SQL, Hive, Pig</li><li>Experience with data visualization tools, such as Django, GGplot, Highcharts, D3.js, SpotFire, PowerBI, Tableau, QlikView is preferred<br><br></li></ul><strong><u>Preferred Experience, Skills, And Knowledge<br></u></strong><ul><li>Strong written, verbal, and interpersonal communication skills. Ability to effectively communicate at all levels in the organization</li><li>Experience with data storytelling and distilling complex information into understandable ideas</li><li>Experience working in insurance industry</li><li>Preferred experience with NoSQL databases, such as MongoDB, Cassandra, HBase</li><li>Preferred good scripting in Shell scripting, Python, Perl, awk, sed</li><li>High performance programming skills in Scala, Java, C++, C, Go<br></li></ul>Experience with cloud technologies (Apache Spark, Azure (Databricks, Azure ML, Cognitive Services)",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Assurant",
+    "link": "https://www.linkedin.com/company/assurant"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60700,
+    "max_value": 125000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Peachtree City",
+    "region": "GA",
+    "postal_code": "30270",
+    "street_address": null,
+    "latitude": 33.396564,
+    "longitude": -84.58998
+  }
+}

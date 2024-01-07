@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "How you will help<br><br>You will support the engineering team and implement automation to fortify and expand our current technical processes. You will develop a strong technical understanding of the components of our system and work with internal resources to solve any challenges that may arise.<br><br>What you will do<br><ul><li> Design and develop software across our full product stack (React on the frontend, powered by a robust backend microservice architecture)</li><li> Contribute to our product direction by translating customer requirements into functional, scalable code, consulting with product and design resources to guide our engineering choices and workflow</li><li> Devise and implement improvements to our automated testing and deployment processes</li><li> Manage the operation and automation of production environments</li><li> Triage technical support requests as needed<br><br></li></ul><strong> Desired Skills And Experience <br></strong><ul><li> 2+ years of experience making full stack contributions to production web applications</li><li> Strong development-tools fundamentals (git/GitHub, npm/yarn dependency management, etc.)</li><li> Proficient, working knowledge of AWS (bonus: Lambda/Serverless)</li><li> DevOps experience with complex, microservice-driven production systems</li><li> Comfortable with ES6 JavaScript / TypeScript<br><br></li></ul><strong> About You <br><br></strong>You ...<br><ul><li> Are motivated to automate processes efficiently and effectively</li><li> Understand best technical practices</li><li> Take initiative and always look for ways to grow your skillset<br></li></ul>Our company challenges<br><ul><li> Empowering clients with highly rewarding data discovery and licensing tools</li><li> Ingesting and managing billions of healthcare records from a wide variety of partners</li><li> Standardizing on common data models across data types</li><li> Orchestrating an industry-leading HIPAA privacy layer</li><li> Innovating our proprietary de-identification and data science algorithms</li><li> Building a culture that supports rapid iteration and new possibilities<br></li></ul>The infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We\u2019re creating a platform that lets us discover what else we might do.<br><br>We have big plans<br><br>We are building a platform that will scale to support an ever-growing array of data providers and innovative products. You must be able to think big while still delivering on near-term requirements.<br><br>HealthVerity, based in Center City Philadelphia, is a venture-backed technology company that is transforming the way data-led organizations make critical decisions. Our technology platform serves as the foundation for the rapid creation, exchange and management of healthcare and consumer data in a fully-interoperable, privacy-protecting manner. Advantaged by highly sophisticated identity resolution and matching capabilities, HealthVerity is on a mission to increase transparency, forge interoperability and activate deeper insights.<br><br>HealthVerity is an equal opportunity employer devoted to inclusion in the workplace. We believe incorporating different ideas, perspectives and backgrounds make us stronger and encourages an environment where ageism, racism, sexism, ableism, homophobia, transphobia or any other form of discrimination are not tolerated. At HealthVerity, we\u2019re working towards an innovative and connected future for healthcare data and believe the future is better together. We can only do that if everyone has a seat at the table. Read our Equity Inclusion and Diversity Statement.<br><br>This is a remote position.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T05:10:36.000Z"
+  },
+  "company": {
+    "name": "HealthVerity",
+    "link": "https://www.linkedin.com/company/healthverity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

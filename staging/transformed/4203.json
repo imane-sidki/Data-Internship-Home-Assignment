@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Predictive Analytics)",
+    "industry": "Information Technology and Services",
+    "description": "<p>Focus Capital is supporting itshealth technology group by providing an effective Data Scientist who will work to develop state-of-the-art predictive analytic data models to optimize revenue opportunities for the marketing and sales teams.</p><p><br></p><p>This ideal candidate must be technical and capable of driving digital innovation among the data engineers, while also capable of interfacing with business stakeholders and conducting predictive models.</p><p><br></p><p>This role will start remotely, however at some point in the future we will want someone who can come in once every 10-15 days. Therefore, you must be local to NY or NJ or open to relocating.</p><p></p><p><strong>The total compensation and benefits offered are completely unmatched in the industry.</strong></p><p></p><p><strong>MINIMUM REQUIREMENTS:</strong></p><ul><li>3+ years as a data scientist</li><li>Experience building predictive models in Python and its frameworks (i.e. Pandas, PySpark, etc)</li><li>Professional experience deploying machine learning models.</li><li>Prior experience with Spark and SQL.</li><li>Experience with Random Forest, Logistic Regression, Linear Regression, supervised and unsupervised models, etc</li><li>Experience in a cloud environment (i.e. AWS or Azure)</li><li>Azure Databricks experience is a plus</li><li>Ability to translate complex mathematical models and data science concepts into business decisions (and vice versa)</li><li>Masters degree in computer science, statistics or engineering (or 5+ years of experience).</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T18:26:25.000Z"
+  },
+  "company": {
+    "name": "Focus Capital Markets",
+    "link": "https://www.linkedin.com/company/focus-capital-markets"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

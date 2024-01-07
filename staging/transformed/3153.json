@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": " Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Data Scientist - remote </strong></p><p>43618</p><p><br></p><p><strong><u>ONLY applicants:  US Citizens or Green Card holders </u></strong></p><p><br></p><p>Data Scientist to join our <strong>global AI product support team</strong></p><p>This role will cover a wide range of responsibilities with plenty of variation from week to week.</p><p>Responsibilities will include but are not limited to:</p><ul><li>Product development</li><li>Prototype new modeling methodologies for incorporation into our global suite</li><li><strong>Work directly with our ML engineering team to identify issues and guide them on requirements</strong></li><li>Write data pipelines / ETL for non-standard or new modeling use cases</li><li>Build new dashboards and reports to provide insights to clients on model performance and impact, leveraging our proprietary BI toolkit</li><li>Help document methodologies, tool usage and business logic</li><li>Client &amp; user support</li><li>Support client implementation teams executing complex modeling tasks on our enterprise ML ops platform</li><li>Perform complex/custom data engineering where needed to support strategic clients</li><li>Train ML models for underwriting, targeting and other applications where needed</li><li>Testing &amp; QA</li><li>Test new product features and algorithms and verify accurate implementation ahead of live release to our global client base</li><li>Implement bug-fixes and upgrades to Experian methodologies in credit-related business logic (e.g. Bureau Inferencing modifications etc.)</li></ul><p>Valuable skills include</p><ul><li><strong>Highly proficient writing data processing code with at least one SQL dialect</strong></li><li><strong>Spark SQL experience desirable but not required</strong></li><li><strong>Comfortable using Python and Jupyter notebooks with common open source libraries for machine learning</strong></li><li>MLlib, pytorch, sklearn, tensorflow all valuable</li><li>Understanding of credit risk modeling fundamentals</li><li>Strong communication skills - able to talk to business users to understand and articulate issues requirements, as well as more technical developer audiences</li><li>Strong data visualization skills - can present datasets to bring out insights &amp; tell a story</li><li>Self-starter willing to solve problems and ask the right questions; growth mindset</li><li><strong>Desirable: Familiarity with widely-used credit risk assessment tools like FICO Model Builder and SAS</strong></li><li><strong>Desirable: Understanding of the credit risk lifecycle from prospecting and acquisition to customer management and collections</strong></li></ul><p>What your background looks like</p><ul><li><strong>Experience in modeling and/or data engineering in a Credit Risk institution. You will have worked at least 3 - 5 years for a major bank, FinTech or other financial institution.</strong></li><li><strong>At least 5 - 7 years total industry experience focused on analytics, data science and/or data engineering, with some direct experience in applied statistics and machine learning</strong></li><li>Advanced degrees in quantitative fields and/or professional experience in applied analytics are valuable</li><li>Bachelors degree required, Masters degree preferred</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-09T21:22:33.000Z"
+  },
+  "company": {
+    "name": "Sharp Decisions",
+    "link": "https://www.linkedin.com/company/sharp-decisions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

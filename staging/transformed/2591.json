@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Framework Engineering",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "The Framework Engineering team builds the internal platform, abstractions and APIs that power all parts of the Asana web application. From core UI components, client performance libraries to data loading APIs, these frameworks empower product engineers to easily build highly-reactive and fast product features at scale.<br><br>We\u2019re looking for a Software Engineer to help make our engineering team move even faster. You\u2019ll use your engineering experience to identify points of friction and design new approaches which are easier and safer to use. You\u2019ll create new APIs balancing their ease of use with making them powerful enough to support Asana\u2019s featureful web application. You will work with our world-class team of engineers to enable new functionality, and influence the direction of software development patterns across the organization.<br><strong><strong>What you'll do <br></strong></strong><ul> <li> Design, build and iterate on frameworks that affect every aspect of the Asana product </li> <li> Partner with product engineering teams to identify opportunities to enable teams to develop faster at Asana, and help the company achieve our goals faster. </li> <li> Analyze complex systems to uncover issues, root causes and points of improvement </li> <li> Champion code quality and best practices, through your role model behavior and through the frameworks you built </li> <br><br></ul><strong><u>About You<br></u></strong><ul> <li> 2+ years of software engineering experience, with experience working on technical initiatives aimed towards developer productivity </li> <li> Learn quickly and are comfortable regularly transitioning between different areas of a large codebase </li> <li> Able to make and articulate technical tradeoffs in decisions that have cross-cutting impact. </li> <li> Focus on establishing and spreading high quality software engineering patterns </li> <li> Familiar with React / GraphQL ecosystem and TypeScript (preferred) </li> <li> Are looking for an environment where you and your teammates empower one another to become the best versions of yourselves </li> <br></ul>Does the above sound like it might be you? Then we\u2019d love to hear from you. Our goal is to provide a hiring and working experience in which all people know they are equally respected and valued. So whatever it is that makes you unique\u2014your gender identity or expression, sexual orientation, religion, ethnicity, age, citizenship, educational background, socioeconomic status\u2014we value it, and we\u2019d love to see what you might add to our team.<br><br><strong><u>About Us<br><br></u></strong>At Asana, we're building a better way to work, fueled by transparency, inclusion, and technology that is a force for positive change. Asana is a work management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives, so they can move faster and accomplish more with less. For the past 5 years, we've been named a top workplace, including top 10 <strong><u> Great Place to Work </u></strong> Best Small &amp; Medium Workplaces, #1 Fortune Best Workplace in the Bay Area for four years in a row, #8 Fortune Best Workplaces for Women, #14 <strong><u> Glassdoor Best Place to Work </u></strong>, and one of <strong><u> Ireland's Best Workplaces </u></strong>. After spending more than a year physically distanced, we are safely and mindfully returning our global teams to in-person collaboration, incorporating flexibility that adds hybrid elements to our <strong>office-centric culture</strong> . With offices all over the world, we are always looking for curious, collaborative, and mission-driven people to help us enable the world\u2019s teams to work together effortlessly.<br><br>We believe in supporting people to do their best work and thrive, and building a diverse, equitable, and inclusive company is core to our mission. Our goal is to ensure that Asana upholds an inclusive environment where all people feel that they are equally respected and valued, whether they are applying for an open position or working at the company. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, and veteran status.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T10:29:51.000Z"
+  },
+  "company": {
+    "name": "Asana",
+    "link": "https://www.linkedin.com/company/asana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 116000,
+    "max_value": 165000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

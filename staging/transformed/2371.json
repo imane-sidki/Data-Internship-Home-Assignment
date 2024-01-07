@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p>Withings revolutionized connected health by launching the world's first Wi-Fi scale in 2009. Our award-winning ecosystem includes beautifully designed, easy to use connected devices for monitoring blood pressure, weight, activity, sleep, temperature, and more.</p><p>Our devices are now used in diabetes prevention and weight-loss programs, remote patient monitoring, and university-led clinical studies. They are key enabling technologies to support our partners\u2019 strategies, providing the accuracy, reliability, and portability they need in order for their programs to be successful. Join us in our mission of preventive health!</p><p><br></p><p><strong>Job Summary</strong></p><p>We are seeking a skilled and experienced candidate to join our Platform Operations team as Site Reliability Engineer (SRE). The Platform Operations team is responsible for ensuring that our platform is fast and stable for the millions of active devices it serves around the globe, while remaining agile and scalable in order to meet future demand. We accomplish this through adherence to principles of observability, automation, and choosing the right tool to tackle each problem.</p><p><br></p><p>To optimize performance and efficiency, we use a hybrid baremetal+cloud infrastructure, controlling as much of the stack as we reasonably can. We adapt our platform and database architecture very frequently to support and enable our growth.</p><p><br></p><p><strong>Day-to-day, responsibilities and duties may include:</strong></p><ul><li>Supporting the availability and speed of our production applications</li><li>Solving alerts and decreasing manual tasks by increasing automation</li><li>Database management (debugging, upgrades)</li><li>Improvement of continuous integration pipelines</li><li>Web-services troubleshooting and performance improvement</li><li>Additional operational responsibilities</li></ul><p><br></p><p><br></p><p><strong>REQUIREMENTS</strong></p><ul><li>Servers: Ubuntu (KVM, LXC and physical host)</li><li>Cloud: AWS, GCP and OVH</li><li>Databases: Cassandra/ScyllaDB, PostgreSQL, MySQL, Riak, Redis Cluster</li><li>Configuration Management: Ansible, Terraform</li><li>Languages: Python, PHP and Bash</li><li>Bachelor\u2019s Degree or higher in Computer Science (or equivalent experience)</li><li>Must have a valid passport and be able to travel internationally up to 10% of the time</li><li>Leading candidates will understand and adhere to the principles of site reliability engineering (shared ownership, work reduction through automation, operations through software) and be ready to enthusiastically meet the challenges of supporting high performance, high availability applications in a 24/7 real-time, heavy traffic environment. If that sounds like the challenge you are looking for, please get in touch !</li></ul><p><br></p><p><br></p><p><strong>BENEFITS</strong></p><ul><li>Health Care Plan (Medical, Dental &amp; Vision)</li><li>Retirement Plan (401k)</li><li>Life Insurance (Basic, Voluntary &amp; AD&amp;D)</li><li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li><li>Family Leave (Maternity, Paternity)</li><li>Short Term &amp; Long Term Disability</li><li>Training &amp; Development</li><li>Free Food &amp; Snacks</li><li>Wellness Reimbursement</li><li>Healthcare &amp; Dependent Care FSA</li><li>Commuter FSA</li><li>Bike-to-work benefit</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T09:38:13.000Z"
+  },
+  "company": {
+    "name": "Withings",
+    "link": "https://fr.linkedin.com/company/withings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

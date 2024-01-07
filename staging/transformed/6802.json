@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Data Engineer",
+    "industry": "Construction,Entertainment,Hospitality",
+    "description": "SoFi Stadium is located at Hollywood Park and will be a year-round sports and entertainment destination located just four miles from Los Angeles International Airport. The project covers 298 acres of office, retail, and residential space with the centerpiece of the district being a 70,000-seat stadium that will be the home of NFL games for both the Los Angeles Rams and Los Angeles Chargers. SoFi Stadium and Hollywood Park will also play host to the 2022 Super Bowl, the 2023 College Football National Championship, and the Opening and Closing ceremonies of the 2028 Olympics, as well as major concerts and other entertainment year-round.<br><br>Our <strong>PURPOSE</strong> is Creating Extraordinary Experiences, one moment at a time.<br><br>Our <strong>PROMISE</strong> is to be an iconic destination that celebrates our diverse and spirited community. We promise to exceed expectations while cultivating a fun and safe experience where lasting memories are made.<br><br>Our <strong>COMMITMENTS</strong> are as follows:<br><br><strong>SAFETY FIRST</strong>: we commit to safety as a top priority.<br><br><strong>KEEP IT CLEAN</strong>: we commit to the highest standard of cleanliness.<br><br><strong>ALL ARE WELCOME</strong>: we commit to valuing and celebrating the diversity of our community, our team, and all that we serve.<br><br><strong>STRONGER TOGETHER</strong>: we commit to providing an environment that promotes teamwork, mutual respect and recognizes the positive achievements of all.<br><br><strong>THINK BIG</strong>: we commit to innovation, inspiration and imagination in the delivery of extraordinary experiences through every interaction.<br><br><strong>SUMMARY:<br><br></strong>SoFi Stadium and Hollywood Park is seeking an Associate Data Engineer to manage our team's GCP data pipeline, structure and development of marketing driven data models.<br><br>This person should have a team player attitude and demonstrate a flexible and adaptable work style that responds quickly and efficiently under pressure. SoFi Stadium and Hollywood Park are passionate about the guest experience for visitors and staff we support.<br><br><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES:<br></strong><ul><li>Manage ETL and validate existing datasets within Google Cloud Platform</li><li>Work with IT, other departments, and external parties to define and document requirements and ideate data solutions</li><li>Create and manage historical and real time data pipelines within GCP</li><li>Provide data within Google BigQuery for ingestion into Google Looker</li><li>Work with various vendor APIs to ingest data into our data warehouse</li><li>Develop and enhance current marketing data pipeline</li><li>Provide guidance to junior members of the team</li><li>Potential availability for weekend events</li><li>Comfortable with ambiguity and ability to manage multiple &amp; competing priorities</li><li>May be called upon for service issues or failures at any time</li><li>Strong work ethic, commitment to high standards<br></li></ul><strong>QUALIFICATIONS: <br></strong><ul><li>1+ years of experience as a Data Engineer or in a similar role</li><li>Experience using APIs returning JSON, XML, CSV formatted data</li><li>Experience with Google Cloud Platform and its products (Dataflow, Pub/Sub, Cloud Functions, Cloud Storage, BigQuery, Apigee)</li><li>Experience with data modeling, large data warehousing, and building ETL pipelines</li><li>1+ years of experience with Big Data platforms and architecture, relational and no SQL database concepts with solid knowledge of SQL, Python, Nodejs</li><li>Experience with large IT project delivery for BI oriented projects (Google Looker Preferable)</li><li>Data visualization skills</li><li>Bachelor's degree in Computer Science, Engineering, Statistics, Mathematics, or related field<br></li></ul>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time.<br><br><strong>EQUAL EMPLOYMENT OPPORTUNITY:<br><br></strong>Hollywood Park and SoFi Stadium strongly support equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:22:17.000Z"
+  },
+  "company": {
+    "name": "SoFi Stadium and Hollywood Park",
+    "link": "https://www.linkedin.com/company/sofi-stadium-and-hollywood-park"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Inglewood",
+    "region": "CA",
+    "postal_code": "90309",
+    "street_address": null,
+    "latitude": 33.961765,
+    "longitude": -118.35333
+  }
+}

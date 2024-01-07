@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "We are a startup helping solve the problem of financial inclusion. <br>We are looking for an optimistic and mission driven full stack engineer that ships on time.<br><br>Skill set:<br><br>React <br>Mongo <br>Express <br>Solidity <br>Python is a given <br>Bonus points for GoLang <br>JavaScript is a given as well<br><br>We\u2019re building a couple of different payment solutions and looking for people that can learn quickly!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T22:56:08.000Z"
+  },
+  "company": {
+    "name": "AlphaCash",
+    "link": "https://www.linkedin.com/company/alphacash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Financial Services",
+    "description": "<strong>Grade</strong> (<em>relevant for internal applicants only</em>): 11<br><br>S&amp;P Global Platts is seeking a Sr Software Engineering to work with technical leadership for all stages of software design, development and maintenance of Platts and Realtime Platform<br><br><strong><u>What You Can Expect<br><br></u></strong>The ideal candidate must be have strong technical skills and speak to the technical architecture and collaborate with engineering teams.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Ensuring the appropriate use of standard models and software packages, standard methods of integration, as well as, the development of common application services.</li><li>Partner with customer-facing peers to create and deliver on roadmaps. This includes participating in planning processes, defining a technical solution, establishing and implementing applications based on architecture direction</li><li>Mentor teams, innovate and experiment, give face to business ideas and present to key stakeholders</li><li>Ensure that best development processes and technologies are used in the design, construction of these platforms</li><li>Ensure stability and performance of existing and future enhancements through use of applicable profiling and testing methodologies</li><li>Ensures timely delivery of the development projects without compromising quality and performance of the system<br><br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Bachelor's degree in Computer Science, Engineering or related discipline</li><li>Strong problem solving, logic, and analytical skills</li><li>7+ years\u2019 experience in software development</li><li>6+ years of experience in Application Development using <strong>Java/ Spring boot and or </strong>.Net</li><li>Strong command in JavaScript-frameworks (React), C#</li><li>Experience working in agile scrum/kanban teams and related agile processes</li><li>Hands on experience on containerization using <strong>Docker</strong></li><li>Ability to collaborate and brainstorm in a team environment</li><li>Experience with large scale cloud-based architecture is a must</li><li>Experience building cloud native applications using microservices and cloud deployment</li><li>Experience in building message based distributed, scalable &amp; resilient systems</li><li>Knowledge in AWS Cloud Services (IAM,VPC, ELB ,API Gateway, S3, EKS, CloudWatch) plus</li><li>Knowledge in CI/CD process using Jenkins, Kubernetes plus</li><li>Experience with <strong>Realtime Streaming technologies a huge plus<br><br></strong></li></ul>S&amp;P Global states that the anticipated base salary range for this position is $83,200 to $190,100. Base salary ranges may vary by geographic location.<br><br>In addition to base compensation, this role is eligible for an annual incentive plan.<br><br>This role is eligible to receive additional S&amp;P Global benefits. For more information on the benefits we provide to our employees, visit <em>https://www.spgbenefitessentials.com/newhires</em><em>.<br><br></em>S&amp;P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.<br><br>If you need an accommodation during the application process due to a disability, please send an email to: <strong>EEO.Compliance@spglobal.com</strong> and your request will be forwarded to the appropriate person.<br><br><strong><u>US Candidates Only<br><br></u></strong>The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.<br><br>20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority \u2013 Ratings - (Strategic Workforce Planning)<br><br><strong>Job ID:</strong> 260287<br><strong>Posted On:</strong> 2021-04-30<br><strong>Location:</strong> New York, New York, United States",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:40:43.000Z"
+  },
+  "company": {
+    "name": "S&amp;P Global Platts",
+    "link": "https://www.linkedin.com/company/spglobalplatts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

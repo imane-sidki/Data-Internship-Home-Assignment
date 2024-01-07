@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Internet",
+    "description": "<p><strong>Senior Site Reliability Engineer</strong></p><p><br></p><p><em>Remote candidates (in US) will be considered</em></p><p><br></p><p>Marin Software is hiring for a business critical role of Senior Site Reliability Engineer. The areas of responsibility for this role are broad and include solution design, software deployments, Hadoop operations, Security, OS and virtualization, hardware, storage, networks, datacenter management and cloud hosting.</p><p><br></p><p>The ideal candidate is a customer focused, strong technical leader who is well organized and a strong communicator who can inspire and motivate a global workforce to deliver on challenging objectives. We are seeking individuals who are natural collaborators who can operate across departments, predominantly Engineering and individuals that are driven to optimize and work proactively.</p><p><br></p><p>From a technical perspective we are seeking candidates that have software engineering background who can collaborate strongly with our Engineering department whilst being equally comfortable dealing with network and datacenter tasks. We have considerable investment in Hadoop and are seeking individuals with experience in this space to deliver and support our next generation Adtech platform. A desire to automate at every possible opportunity is essential.</p><p><br></p><p><strong>Responsibilities/Experience:</strong></p><ul><li>Significant proven track record of relevant Technology industry experience</li><li>Experience architecting and managing customer facing large Big Data Hadoop platforms</li><li>Strong experience in planning, architecting and managing hardware and software assets in co-location Datacenter, virtualization, cloud, service assessment and capacity planning technologies and best practices</li><li>Experience building and maintaining a 24x7 production infrastructure</li><li>Experience driving service uptime and availability metrics</li><li>Experience with complex networking technology including firewalls, VPN, routing, switching, load balancers, monitoring, security and DNS</li><li>Expert level skills in unix/linux system and network administration and agile implementation of production systems</li><li>Strong experience in software deployment and automation including chef, puppet, ansible, docker and kubernetes</li><li>Experience inspiring, coordinating, managing and coaching Technical Operations staff including system and network administrators.</li><li>Manage IT vendor relationships and plan budgets, manage contracts and technology solutions</li><li>Proactively drive and deliver on the capacity management for the multiple platforms</li><li>Ability to nurture and support a strong operations culture: customer/service focus; excellent technology; high quality implementations; self-motivated innovation and problem-solving.</li><li>Distributed computing experience a big plus</li></ul><p><br></p><p><strong>About Marin Software:</strong></p><p><strong>An ally to online marketers, Marin Software delivers the leading independent multichannel digital advertising platform. Our open solution unites search and social to connect our advertisers with customers wherever they are. This synergy\u2014plus the insight and efficiency we bring to advertising\u2014wins more customers, revenue, and ROI for the world\u2019s top brands. Every day.</strong></p><p><br></p><p><em>Marin Software embraces diversity and is proud to be an equal opportunity employer. As part of our commitment to diversifying our workforce, we do not discriminate on the basis of age, race, sex, gender, gender identity, color, religion, national origin, sexual orientation, marital status, citizenship, veteran status, or disability status, and we operate in compliance with the San Francisco Fair Chance Ordinance.</em></p><p><br></p><p><br></p><p><strong></strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T15:18:44.000Z"
+  },
+  "company": {
+    "name": "Marin Software",
+    "link": "https://www.linkedin.com/company/marinsoftware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

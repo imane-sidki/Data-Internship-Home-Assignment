@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>JOBDESCRIPTION</strong></p><p><br></p><p><strong>SiteReliabilityEngineer:</strong></p><p><br></p><p>AsanEngineerintheRetailandAthleteToolsteam,youwillbepassionateaboutmaximumavailability,observability,reliability,security,andperformanceofClient\u2019s</p><p>Digital Experiences in Stores and in our Digital call centers around the globe! You willbuild applications, tools, and automation using your technical skills to provide deepproblem analysis, detect system faults or code defects, define, report, write and buildobservability processes for critical metrics, and partner up with product delivery teamsto provide long term scalable solutions to production issues!</p><p><br></p><p><strong>Weare lookingfor hardworking engineerswho can bringthe following:</strong></p><p><br></p><ul><li>Ability to observe, diagnose, code, and test fixes for production issues quickly andefficiently</li><li>Ability to develop and drive real-time supervising solutions that provide transparencyinto site health and key performance indicators</li><li>Strong communication skills are written and verbal with the ability to articulate issues andtheirimpact(s), write concise runbooks, and give technical demo\u2019s</li><li>Capable of reporting and communicating metrics with an understanding of thebusiness landscape and how site reliability influences our consumers</li><li>WorkingunderstandingofITservicemanagement(Incident,Problem,ChangeandKnowledge management)</li><li>Ability to work across teams (business and technical) to continuously analyze systemperformance, seek for avoidance/root-cause, and proactively identify areas in need ofoptimization</li><li>Passion for continuous learning, partnership, and teamwork</li></ul><p><br></p><p><strong>Qualifications:</strong></p><p><br></p><ul><li>Bachelor\u2019s degree in Computer Science, Information Systems, Business, or another relevant subject area</li><li>1-2 years of professional experience in software development, testing, and/or DevOps engineering.</li></ul><p><br></p><p><strong>Career:</strong></p><p><br></p><ul><li>Design and development experience with microservice-based architecture in Java,Node.js, or similar language preferred</li><li>Design and development experience with front-end UI languages such as Javascript,React, Swift, or similar preferred</li><li>Experiencebuilding,deploying,andsupportingcloud-basedsystemsinAWSpreferred</li><li>Experience with at least one database layer such as SQL, DynamoDb, Cassandra,etc.</li><li>Understanding of basic network and infrastructure concepts such as DNS,Virtualization,Linux</li><li>Experience with Docker and/or Serverless patterns a plus</li><li>Experience with observability monitoring tools such as Splunk, SignalFx, New Relic,or Catchpoint is a plus</li><li>Background with ITIL or Lean a plus.</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T21:43:26.000Z"
+  },
+  "company": {
+    "name": "Centizen, Inc.",
+    "link": "https://www.linkedin.com/company/centizen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

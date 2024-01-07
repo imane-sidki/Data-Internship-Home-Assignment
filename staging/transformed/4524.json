@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Join Florin Software Consulting and work with a modern exciting tech stack. We host in AWS, and mostly work in .NET 5, but we also use Kafka, Terraform, gRPC, with a React frontend. The position is for mostly backend work, but we really do everything including a little DevOps, and automated testing. We offer very flexible hours.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T02:46:40.000Z"
+  },
+  "company": {
+    "name": "Florin Software Consulting, LLC",
+    "link": "https://www.linkedin.com/company/florin-software-consulting-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Minneapolis-St. Paul Area",
+    "region": null,
+    "postal_code": "55401",
+    "street_address": null,
+    "latitude": 44.981667,
+    "longitude": -93.27795
+  }
+}

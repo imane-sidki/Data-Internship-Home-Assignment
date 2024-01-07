@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>At MRP we know it\u2019s crucial that our people reflect the diversity of our customers from around the world. And we know that having people from all walks of life makes us a more creative and innovative company. That variety of experience, culture and background allows our teams to truly drive innovation and create a great experience for both our people and our customers. MRP is a place where we value Diversity &amp; Inclusion and we work really hard to be a great place to work, for everyone.</strong></p><p><br></p><p><strong>Company Overview:</strong></p><p>Founded as a company focused on providing net new sales opportunities for marketing and sales teams, MRP has evolved into a leading global predictive intelligence organization, providing fully integrated, end to end, account-based marketing services. For over 16 years, clients have relied on MRP to help them achieve their revenue goals by combining cutting-edge predictive analytics with a full suite of account-based marketing services to acquire new customers.</p><p><br></p><p>MRP is a leading provider of predictive analytics software and account-based marketing services. Positioned for yet another year of growth, we are looking for a Machine Learning Engineer to join our development team.</p><p><br></p><p>The candidate will be working on the team responsible for MRP Prelytix, an enterprise class predictive ABM platform that drives higher response rates, pipeline conversion and pipeline value by enhancing sales and marketing execution with predictive analytics and intelligence.</p><p></p><p>The role will be joining other machine learning engineers, reporting to our Chief Data Scientist and working closely with our software engineers and data scientists in Montreal, Philadelphia and Ireland.</p><p></p><p><strong>Responsibilities include:</strong></p><p></p><ul><li>Using various datasets around the topics of customer engagement and marketing performance, you will be creating robust predictive models to generate insights, prescribe actions and attribute results</li><li>You will be extracting and selecting features from large structured, unstructured, and semi-structured datasets</li><li>You will be analyzing result sets to identify anomalies and historical norms and order to continuously improve the quality of the model's output and their usefulness in solving real life business problems</li><li>Collaborating with engineers, designers, and product managers to provide product impact and deliver value to our customers</li></ul><p></p><p><strong>The ideal candidate will possess:</strong></p><p></p><ul><li>An excellent academic record in computer science, mathematics, or a similarly quantitative discipline</li><li>3+ years of experience with the development, deployment and monitoring of machine learning models in a production environment</li><li>3+ years of hands-on experience with python or R within a modern machine learning framework such as PyTorch or Tensorflow</li><li>Strong communication skills with an ability to explain the result of their experiments to non-technical people</li><li>Knowledge of statistics and linear algebra</li><li>Proven ability to write maintainable, clear code</li><li>An understanding of the role of the Cloud in the development cycle</li><li>Familiarity with SQL or similar query language</li><li>Experience working with Linux, AWS Sagemaker, Databricks, Azure ML Studio or similar data science workflow tools</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T14:46:17.000Z"
+  },
+  "company": {
+    "name": "MRP",
+    "link": "https://www.linkedin.com/company/mrpfd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

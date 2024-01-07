@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Pathwire is looking for a Site Reliability Engineer to join our Site Reliability Engineering team. This team is responsible for building and operating the infrastructure at the heart of every Pathwire service. As an engineer on this team, you will be responsible for the day-to-day management of the global infrastructure. This would include monitoring and tracking key performance indicators, working with other engineers to ensure our products and services are appropriately resources, automating all the things, and planning for future growth and scalability.<br><br></p><br><p><br><br><br></p><br><p><strong>Responsibilities<br><br><br></strong></p><br><ul> <li>Work closely with other engineering teams to identity systems requirements</li> <li>Build and support our cloud-based microservices infrastructure</li> <li>Automate wherever possible - routine processes and remediation tasks shouldn't require human intervention </li> <li>Develop, monitor and track SLOs for the systems under management </li> <li>Troubleshoot and resolve issues coming from support staff, other engineering teams, and our automated monitoring system</li> <li>Ensure our datastores are healthy and operations at optimal performance levels </li> <li>Contribute to our growing engineering management team and culture </li> <br></ul><p>Requirements:<br><br></p><ul> <li>5+ years experience in infrastructure/Ops/SRE/Saas/Platforms </li> <li>Experience with containers and orchestration systems like Nomad </li> <li>Experience with cloud providers such as AWS, GCP</li> <li>Expertise with distributed data stores such as Cassandra, MongoDB, and ElasticSearch </li> <li>A strong and nimble set of technical skills across technologies the team interacts with, such as commonly used infrastructure technologies</li> <li>Strong communication skills and demonstrated capability of building strong relationships with peers and leaderships </li> <li>Experience operating and maintaining production systems in a Linux and public cloud environment</li> <br></ul><p>Benefits:<br><br></p><ul> <li> <strong>KEEPING YOU HEALTHY:</strong> Pathwire offers 100% employer paid comprehensive medical, dental, and vision plans (US). We offer a variety of supplemental plans to meet your individual needs and provide access to telehealth for all participants.</li> <li> <strong>KEEPING YOU BALANCED:</strong> Pathwire provides free virtual counseling resources through our Employee Assistance Programs. Your mental health is as important as your physical health.</li> <li> <strong>FINANCIAL SECURITY:</strong> We offer an employer match for 401k participants to help you plan for the future (US).</li> <li> <strong>TAKE A BREAK:</strong> We believe performance at work requires balance at home. This is why we provide 5+ weeks of time-off to all employees.</li> <li> <strong>FAMILY PLANNING:</strong> We know that families can be built in a variety of ways and this is why Pathwire offers paid parental leave and family planning support.</li> <li> <strong>WORK WHERE YOU ARE:</strong> It's not where you work that matters. This is why we provide flexible remote work offerings for most of our roles</li> </ul><br><p>Pathwire embraces diversity and equal opportunity in all aspects of our business. We are committed to building a company that empowers individuals from a diverse set of backgrounds and values diversity of thought as a beacon for performance. The more inclusive we are, the better our work will be.<br><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:20:11.000Z"
+  },
+  "company": {
+    "name": "Mailgun by Pathwire",
+    "link": "https://www.linkedin.com/company/mailgun"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

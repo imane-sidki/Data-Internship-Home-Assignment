@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p><strong>Senior Machine Learning Engineer @ Foxy AI</strong></p><p><br></p><p><strong>Remote \u00b7 Full Time</strong></p><p><br></p><p>We are a passionate team solving the most fundamental problems in real estate, using AI to paint a complete picture of the home, from the ground up.</p><p></p><p><strong>Job Description</strong></p><p><br></p><p><strong>WHO WE ARE LOOKING FOR</strong></p><p><br></p><p>Foxy AI is looking for a Senior ML Engineer that is eager to build computer vision and ML models for real estate. Foxy AI uses cutting-edge artificial intelligence and computer vision to convert everyday real estate photos into treasure troves of data. Our models help investors, startups, and public companiesstreamline workflows and improve quality assurance, generate new insights, and sharpen the accuracy of Automated Valuation Models (AVMs).This is an opportunity to get on the ground floor with a fast-paced team delivering revolutionary solutions to a long-established industry.</p><p><br></p><p>Consulting with our ML advisor, you will own our ML pipeline, an integral piece of the product. You will be responsible for building and productionizing new models from the ground up as well as expanding upon existing models. You must have the ability to implement models in production to solve actual business problems. You must have a comfortable understanding of Docker, and Dockerizing microservices on GPUs, interacting with our frontend React code, optimizing our pipelines, and deploying and maintaining on AWS.</p><p></p><p>We're a small team so wearing many hats is necessary, and we are looking for somebody who is both excited by the possibility of stepping into a new machine learning startup as a self-starter and a quick learner.As the team grows, you will help recruit junior engineers and be responsible for managing those on your team. The candidate would not only be a part of development, but an integral part of the team, contributing to ideas and IP of a web-scale Computer Vision application.Everyone on the engineering team contributes to the full product vision.</p><p></p><p>You should absolutely love what you do.</p><p></p><p><br></p><p><strong>CANDIDATE MUST HAVE</strong></p><ul><li>The candidate must have the ability to implement deep learning algorithms in production to solve actual business problems.</li><li>Ideally 5+ years of experience with deep learning and computer vision. Experience with application in a product that has been commercialized.</li><li>The ability to think at a high level about product strategy and vision.</li><li>Self-motivated and able to efficiently run with a project without close supervision.</li></ul><p></p><ul><li>The ability to research and develop novel algorithms to solve cutting edge computer vision problems, such as semantic segmentation, object recognition, image/video understanding, product recommendation, Approximate Nearest Neighbor/ KNN indexes, photogrammetry, and SLAM.</li><li>Strong background in applied mathematics, statistics and probability.</li><li>Deep familiarity with latest Deep Learning and Computer Vision techniques and libraries.</li><li>Deep familiarity with Python.</li><li>Deep familiarity with AWS, AWS Sagemaker, and Docker.</li><li>Deep familiarity in handling and processing images.</li><li>Comfortable with the popular deep learning frameworks like pytorch, tensorflow, and keras.</li><li>Strong skills in written and verbal communication of technical concepts.</li><li>Experience with LiDAR, AR, and 3D modeling is a plus.</li></ul><p></p><p><strong>JOB RESPONSIBILITIES </strong></p><ul><li>Identify, acquire, generate, process and/or prepare relevant datasets.</li><li>Research and develop AI/DL/ML algorithms to solve challenging computer vision tasks</li><li>Validate algorithms and/or models in a mathematically disciplined and statistically meaningful manner.</li><li>Productionize algorithms to solve business problems.</li><li>Develop clear, commented and understandable code for integration into production systems.</li><li>Define and document effective domain specific methodologies.</li><li>Generate and present analysis results and reports tailored to target audience (scientists, software engineers, business strategists, investors, etc.).</li><li>Collaborate with fellow scientists and software engineers.</li><li>Collaborate with fellow product engineers to put the AI model in product pipeline and implementation.</li></ul><p><br></p><p><strong>What We're Building</strong></p><p><br></p><p>Foxy solves critical pain points in real estate by turning property photos into treasure troves of data. Our suite of AI-powered real estate tools, available through our API, can instantly compute quality and condition, renovation costs, detect objects and materials, and more. These tools help solve crucial problems in every aspect of the real estate business.</p><p><br></p><p>www.FoxyAI.com</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T14:30:02.000Z"
+  },
+  "company": {
+    "name": "Foxy AI",
+    "link": "https://www.linkedin.com/company/foxy-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

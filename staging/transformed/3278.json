@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong>Job Description<br><br></strong>The Audience Development and Analytics department drives strategic and operational decisions for The Washington Post.\u202f This highly visible team applies analytics and research to support strategic initiatives and day-to-day operational support company-wide and is currently seeking a Data Scientist.<br><br>\u202f<br><br>As our Data Scientist you\u2019ll report to the Director of Analytics and work in close collaboration with the newsroom, marketing, product, engineering, advertising, and finance departments on a diverse range of advanced analytics projects that have a critical and strategic impact on all aspects of the company.\u202f You will regularly interact with various stakeholders in these departments, understand needs, conduct data analysis, and make actionable recommendations.\u202fYou will love solving open-ended problems by taking mountains of data, transforming it into meaningful analysis aimed towards identifying solutions and opportunities.\u202fYou are happiest in a role where you can solve problems where business, math, technology, and practical intuition converge.<br><br>\u202f<br><br><strong>Responsibilities<br></strong><ul><li>Collaborate with stakeholders across departments to understand analytic needs and deliver impactful findings.</li><li>Utilize information retrieval, data analytics, and statistical modeling techniques to build new machine learning models like propensity to subscribe, propensity to churn, customer look-alike models etc. This will include the entire lifecycle including data acquisition, feature engineering, model development, training, testing, deployment, operationalization, and tuning.</li><li>Support and optimize existing analytical models/products.</li><li>Perform and present analyses on large sets of data to extract important insights that will help drive product and business decisions.</li><li>Recommend and test new analytics algorithms and models in marketing and subscription analytics context.</li><li>Prepare and present reports, analysis and presentations to various stakeholders including executives. Educate the organization on new analytical approaches to drive business decisions.<br><br></li></ul><strong>Requirements<br><br></strong>Minimum Qualifications<br><ul><li>Degree in computer science, engineering, mathematics, or a related technical/ quantitative discipline.</li><li>3+ years of data analytics experience, with a strong preference for experience in web analytics.</li><li>Deep understanding of statistics and experience working with real-world data, as well as a strong business sense.</li><li>Ability to apply business logic to design and implement data mining techniques on large data sets.</li><li>Comfortable navigating large complex datasets, and using programming languages for analytics (Python/R).</li><li>Strong analytical and communication skills. Experience visualizing data and/or building dashboards (Tableau).</li><li>Ability to multitask, prioritize projects, and meet deadlines.<br><br></li></ul><strong>Preferred Qualifications<br></strong><ul><li>Expertise in SQL, R, Python (ML ecosystem) data analysis and statistical analysis packages.</li><li>Expertise in predictive and prescriptive analytics, machine learning techniques, time series models and one or more deep learning libraries.</li><li>Expertise in Big Data tools and distributed data/computing tools like Hadoop (or other big-data solutions), Map/Reduce, S3, Hive, Spark etc.</li><li>Knowledge and experience with A/B testing is a plus.</li><li>Knowledge and experience with Deep learning with TensorFlow is a plus.</li><li>Knowledge and experience with Natural Language Processing is a plus.</li><li>Knowledge of enterprise Web Analytics systems and media/ publishing industry experience is preferred.</li><li>Knowledge of Tableau, R Shiny, D3 or other visualization/ reporting tools.<br><br></li></ul><strong> The Post strives to provide its readers with high-quality, trustworthy news and information while constantly innovating. That mission is best served by a diverse, multi-generational workforce with varied life experiences and perspectives. All cultures and backgrounds are welcomed. <br><br></strong>The innovation doesn\u2019t end in the Newsroom \u2013 dozens of teams power <strong>The Washington Post</strong>. We are now hiring the next innovator \u2013 how will you<strong> Impact Tomorrow</strong>?<br><br><em>#washpostlife</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T19:57:54.000Z"
+  },
+  "company": {
+    "name": "The Washington Post",
+    "link": "https://www.linkedin.com/company/the-washington-post"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93600,
+    "max_value": 123000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

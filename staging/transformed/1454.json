@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Deployment Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>About The Company<br><br></u></strong>Clarifai is a leading, full-lifecycle deep learning AI platform for computer vision and natural language processing. We help organizations transform unstructured images, video, and text data into structured data at a significantly faster and more accurate rate than humans would be able to do on their own. Founded in 2013 by Matt Zeiler, Ph.D. Clarifai has been a market leader in AI since winning the top five places in image classification at the 2013 ImageNet Challenge. Clarifai continues to grow with employees remotely based throughout the United States and in Tallinn, Estonia.<br><br>We have secured $40M in funding up to date, backed by Menlo Ventures, Google Ventures, USV, NVIDIA, Qualcomm, Osage, Lux Capital, LDV Capital, and Corazon Capital.<br><br>Clarifai is proud to be an equal opportunity workplace dedicated to pursuing, hiring, and retaining a diverse workforce.<br><br><em><strong>Note: We are interested in every qualified candidate who is eligible to work in the United States. However, we are not able to sponsor visas for this particular opportunity, as we are looking for someone who is eligible to obtain a TS or Secret Clearance.<br><br></strong></em><strong>Your Impact<br><br></strong>You will help address the advanced needs of public sector and commercial clients. You will help customers identify how Clarifai's tools can help address their business problem, and work with them on building this solution. You will be a front-line resource for machine learning/data science expertise.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Deploy cutting edge complex technical solutions to solve our customers' most challenging problems </li> <li>You will build and maintain intuitive applications that will give users hands-on access to our machine learning platform and custom training, which allows users to train their own models without using any code. </li> <li>You will develop reusable modules, components, and build tools for both internal and external use cases.</li> <li>You will work with data annotation teams to wrangle data and generate cutting edge models, sometimes on the Company platform but sometimes in code.</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>A minimum of 2 years of professional ML development experience </li> <li>Educational or work experience with machine learning or data science</li> <li>Strong Python (or other equivalent language) </li> <li>Command of computer vision techniques and practice</li> <li>Experience fielding/debugging complex systems - i.e. why is a model returning results that are unexpected?</li> <br></ul>Great to Have<br><ul> <li>Experience working directly with clients and customer </li> <li>Experience with public sector work</li> <li>Experience with Docker + Kubernetes</li> <li>Security Clearance</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T05:03:55.000Z"
+  },
+  "company": {
+    "name": "Clarifai",
+    "link": "https://www.linkedin.com/company/clarifai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

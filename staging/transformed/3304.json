@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Onsite)",
+    "industry": "",
+    "description": "<p>The SRE will work within the agile DevOps squad to proactively improve the reliability and resiliency of applications and services they support.You will design, develop, test, debug, and automate tasks for software systems. As SRE you will be expected to leverage tooling and custom applications to monitor and optimize performance. </p><p>The SRE will troubleshoot incidents to address failure patterns, analyze root cause, automate remediation through runbooks, and document application optimization.</p><p><br></p><p>Our ideal candidate is well-versed in modern cloud-based and on-premise architecture and experienced in designing systems for reliability, as well as implementing monitoring, alerting, and ops automation.</p><p><br></p><p><strong><u>This is an Onsite position in Atlanta, GA or Minneapolis, MN. </u></strong></p><p><br></p><p>What you need to succeed (minimum qualifications)</p><ul><li>High School Diploma, GED or High School Equivalency.</li><li>Embraces diverse people, thinking and styles.</li><li>Consistently makes safety and security of self and others the priority.</li><li>7 or more years of experience as an application developer or SRE.</li><li>2 or more years of experience with ops automation using a scripting language such as Python or Ansible.</li><li>Site Reliability Engineering: Knowledge of the theories and methodologies of reliability engineering; ability to design, develop and support various tools, services and applications to maintain a reliable application environment.</li><li>Performance Measurement and Tuning: Knowledge of system performance, testing and programming; ability to monitor, measure, and optimize system performance and network communication.</li><li>CI/CD Pipeline: Knowledge of concepts, values and tools applied in building Continuous Integration(CI), Continuous Delivery and Continuous Deployment(CD) pipeline; ability to design, build, implement and maintain CI/CD pipelines to achieve the automation of software delivery process (AWS, Azure, Git).</li><li>Software Release Management: Knowledge of strategies, practices, and tools for managing versions and distribution of software products and enhancements; ability to evaluate and improve release management practices and tools</li><li>Application Maintenance: Knowledge of production applications; ability to monitor application functions and resolve issues to maintain optimal conditions for system applications.</li><li>Software Engineering: Knowledge of software engineering; ability to deliver new or enhanced software products.</li><li>Agile Development: Knowledge of agile methodologies and the agile development lifecycle; ability to utilize formal agile methodologies, disciplines, practices and techniques for the delivery of new and enhanced applications.</li><li>Container: Knowledge of concept, functions, and capabilities of container tools and techniques; ability to effectively apply containers in various IT business environments</li><li>Cloud Platform: Knowledge of the products and services regarding cloud platforms; ability to utilize related tools and technologies to develop cloud solutions and deploy applications on cloud platforms.</li><li>Where permitted by applicable law, must have received or be willing to receive the COVID-19 vaccine by date of hire to be considered for U.S.-based job.</li></ul><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T22:54:42.000Z"
+  },
+  "company": {
+    "name": "Xebia",
+    "link": "https://nl.linkedin.com/company/xebia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

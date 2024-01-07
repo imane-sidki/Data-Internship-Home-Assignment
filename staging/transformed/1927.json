@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Full Stack, Google Health",
+    "industry": "Information Services,Internet",
+    "description": "Minimum qualifications:<br><ul> <li>Bachelor\u2019s degree in Computer Science, or Science, Technology, Engineering, Mathematics field, or equivalent practical experience. </li> <li>8 years of experience in software development, and with data structures/algorithms.</li> <li>5 years of experience testing and launching software products, and 3 years of experience with software design and architecture. </li> <li>Experience with Java or Kotlin for Android development.</li> <br><br></ul>Preferred qualifications:<br><ul> <li>Master's degree or PhD in Engineering, Computer Science, or a related technical field.</li> <li>3 years of experience in a technical leadership role leading project teams and setting technical direction.</li> <li>3 years of experience working in a complex, matrixed organization involving cross-functional, and/or cross-business projects.</li> <li>Experience architecting and developing solutions to ambiguous problems with significant impact.</li> <li>Experience with medical data and Fast Healthcare Interoperability Resources (FHIR) standards.</li> <li>Experience with analytics on data warehouses (e.g. SQL, Python data-science libraries).</li> <br><br></ul><strong><u>About The Job<br><br></u></strong>Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google\u2019s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.<br><br>With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.<br><br>Our ultimate goal is to help equip the world's community healthcare workers with vital and emerging capabilities that can greatly improve care delivery (e.g. coordination with care teams, advanced clinical decision support aided with machine learning and sensors, enhanced data insights with supportive supervision).<br><br>As part of a small team, you will help develop and assemble open-sourced components into a reference stack which includes a mobile app that connects to an analytics solution using standards.<br><br>Google Health has made major advances in healthcare research, such as detecting eye disease more quickly and accurately than experts, planning cancer radiotherapy treatment in seconds rather than hours, and working to detect patient deterioration before it happens with electronic records.<br><br>Fundamental research is at the core of Google Health - the multidisciplinary team collaborates with partners to publish novel research in renowned scientific journals. They then work to apply this research into the medical field through clinical hardware and products developed in Google. Working alongside colleagues across Google, you\u2019ll help make this vision a reality.<br><br><strong><u>Responsibilities<br><br></u></strong><ul> <li>Develop smaller components into a full stack that meets needs of community healthcare workers, with your team.</li> <li>Embed with product development for a first use case, and use that experience to adapt current components designs when they do not meet the needs, or identify and fill in missing components. </li> <li>Ability to travel occasionally, as required. </li> <br><br></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:06:56.000Z"
+  },
+  "company": {
+    "name": "Google",
+    "link": "https://www.linkedin.com/company/google"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "NLP Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Pharmaceuticals",
+    "description": "<strong><u>Company Description<br><br></u></strong>John Snow Labs is an award-winning AI and NLP company, accelerating progress in data science by providing state-of-the-art software, data, and models. Founded in 2015, it helps healthcare and life science companies build, deploy, and operate AI products and services. John Snow Labs is the winner of the 2018 AI Solution Provider of the Year Award, the 2019 AI Platform of the Year Award, the 2019 International Data Science Foundation Technology award, and the 2020 AI Excellence Award.<br><br>John Snow Labs is the developer of Spark NLP - the world\u2019s most widely used NLP library in the enterprise - and is the world\u2019s leading provider of state-of-the-art clinical NLP software, powering some of the world\u2019s largest healthcare &amp; pharma companies. John Snow Labs is a global team of specialists, of which 33% hold a Ph.D. or M.D. and 75% hold at least a Master\u2019s degree in disciplines covering data science, medicine, software engineering, pharmacy, DevOps and SecOps.<br><br><strong><u>Job Description<br><br></u></strong>We are looking for a superstar data scientist, who is familiar and experienced with applying machine learning and deep learning in the area of healthcare. This role requires proven hands-on experience training and optimizing models, building production-ready inference pipelines in Python, performing exploratory data analysis &amp; enrichment, and validating models for issues like bias, overfitting, and concept drift.<br><br>Since we primarily work in healthcare and life science, background in medicine, pharma, bioinformatics, or biostatistics is highly beneficial. A PhD degree in a relevant field is preferred.<br><br><strong><u>Qualifications<br><br></u></strong>The primary responsibilities will be working as part of a team in customer-facing projects - building models and machine learning, deep learning, natural language processing, and time series forecasting pipelines that address specific business needs. Working knowledge of Python and TensorFlow are a must; experience with Spark, Spark NLP, and other technology stacks is a big plus. The customer facing aspect of this role also requires strong oral &amp; written communication skills.<br><br>We are looking for experts who are looking for long-term freelancing contracts, and wish to work on cutting-edge problems, learn and grow. This role for individuals who can commit at least 30 hours per week to this project. We are not able to consider agency or team applications.<br><br>This is a career opportunity that will enable you to expand your knowledge and experience of different tools and techniques, work within a team of big data and data science experts, and make a positive impact with your work. If you quality and are interested, please include the words &apos;John Snow Labs&apos; in your cover letter and explain why you are the best fit for this role.<br><br>Additional Information<br><ul><li>We are a fully virtual company, collaborating across 22 countries.</li><li>Open to candidates worldwide - work remotely from anywhere.</li><li>This is a contract opportunity, not a full-time employment role.</li><li>This role requires the availability of at least 30 hours per week.</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-15T00:00:00.000Z"
+  },
+  "company": {
+    "name": "John Snow Labs",
+    "link": "https://www.linkedin.com/company/johnsnowlabs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lewes",
+    "region": "DE",
+    "postal_code": "19958",
+    "street_address": null,
+    "latitude": 38.772884,
+    "longitude": -75.140686
+  }
+}

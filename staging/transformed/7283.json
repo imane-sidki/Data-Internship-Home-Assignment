@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad",
+    "industry": "Computer Software",
+    "description": "<strong><u>A World-Changing Company<br><br></u></strong>At Palantir, we\u2019re passionate about building software that solves problems. We partner with the most important institutions in the world to transform how they use data and technology. Our software has been used to stop terrorist attacks, discover new medicines, gain an edge in global financial markets, and more. If these types of projects excite you, we'd love for you to join us.<br><br><strong>The Role<br><br></strong>Software Engineers at Palantir build software at scale to transform how organizations around the world use data. A graduate role as a SWE is an opportunity to grow more quickly than you ever imagined, as you contribute high-quality code directly to Palantir Gotham or Palantir Foundry: products that are deployed at some of the most important institutions across the public and private sectors. You'll build features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world.<br><br>Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might be part of a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage movement among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.<br><br>As a Software Engineer, you are involved throughout the product lifecycle - from idea generation, design, and prototyping to execution and shipping. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that solve them. One of the most effective ways to understand what our users need is to meet them. You may receive an opportunity to tour the assembly line at an auto-manufacturer or join a counter-terror analyst at their desk to really understand their mission and pain points.<br><br><strong><u>SWE Principles Include<br></u></strong><ul><li> Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.</li><li> Collaboration: We work internally with people from a variety of backgrounds \u2014 such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.</li><li> Trust: We trust each other to effectively manage time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.<br></li></ul><strong>Technologies We Use<br><br></strong><strong><u>\u201d Right Now, We Use<br><br></u></strong>It doesn\u2019t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you\u2019re a former university TA, switched to CS recently, or are a hackathon enthusiast \u2014 you'll build your skillset to apply the best technology to solve a given problem.<br><ul><li> A variety of languages, including Java and Go for back end and Typescript for front end</li><li> Open-source technologies like Cassandra, Spark, ElasticSearch, React, and Redux</li><li> Industry-standard build tooling, including Gradle, Webpack, and Github<br></li></ul><strong><u>What We Value<br></u></strong><ul><li>Engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.</li><li>Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.</li><li>Demonstrated experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages</li><li>Ability to effectively communicate and collaborate with a variety of individuals, including engineers, users and non-technical stakeholders</li><li>Demonstrated ability to learn and work independently, making decisions with minimal supervision.<br></li></ul><strong><u>To Apply, Please Submit The Following<br></u></strong><ul><li>An updated resume / CV</li><li>Thoughtful responses to our application questions<br></li></ul><strong>Offer Deadline<br><br></strong>In an effort to build more transparency into our recruitment process, we\u2019d like to share our offer deadline expectations. By applying to this position, you commit to confirming your decision within two weeks of receiving your written offer.<br><br>Palantir is committed to promoting a culture of diversity, equity, and inclusion and is proud to be an Equal Employment Opportunity and Affirmative Action employer. We believe that all Palantirians share the responsibility of upholding our commitment to these values and encourage candidates from a wide range of backgrounds, perspectives, and lived experiences to join us in solving the world\u2019s hardest problems. Palantir does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Palantir is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor\u2019s EEO poster and EEO poster supplement for additional information.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T01:55:54.000Z"
+  },
+  "company": {
+    "name": "Palantir Technologies",
+    "link": "https://www.linkedin.com/company/palantir-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 111000,
+    "max_value": 179000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

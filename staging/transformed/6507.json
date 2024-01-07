@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p><strong>Machine Learning Engineer</strong></p><p>Soothsayer Analytics is seeking Machine Learning Engineer who has an interest in solving challenging ML/ AI problems in Insurance. Our AI team works on a variety of exciting analytics (ML, AI) projects.</p><p><br></p><p><strong>Number of positions</strong>: 4</p><p><em>Immediate need, need someone to start within 1-2 weeks max.</em></p><p></p><p><strong>Required Education:</strong></p><ul><li>PhD in computer science, Physics, Statistics, Applied Mathematics, or other quantitative/ Computational discipline or Master's with over 5 years of real-time relevant real-time Industry experience as an AI/ML/ Deep Learning is a MUST.</li></ul><p></p><p><strong>Required experience: </strong>At least 5 years industry experience as a Data Scientist is required.</p><p></p><p><strong>Job Description:</strong></p><ul><li>Participate in requirements gathering, technical specification, design, and development of complex operationalizing machine learning projects.</li><li>Ability to translate business requirements into plausible technical solutions for the articulation to other development team members.</li><li>Contribute to the architecture design, development of data or machine learning pipelines, and integration into enterprise systems</li><li>Responsible for Build and configure multi-tenant machine learning environments on-prem, cloud, or hybrid</li><li>Responsible for Build, test and optimize AI/ML models</li><li>Interact with teams of engineers from multiple disciplines Identifying and defining the scope</li><li>Defining technical approach, data and algorithms needed</li><li>Responsible for building out the data product from POC to product</li><li>Communicate modeling results and its business impact to scientific and business stakeholders</li><li>Collaborate with other engineers, data scientists, and business analysts.</li></ul><p></p><p></p><p><strong>Machine Learning Engineer/ Data Scientist</strong></p><ul><li>Advanced level Experience in <strong>Python and ML</strong></li><li>Experience with building Machine Learning models and pipelines using tools like Python and Spark in AWS SageMaker.</li><li>Experience building a variety of deep learning methods (autoencoders, embeddings etc.) using Pytorch, Tensorflow.</li><li>Experience building time series models</li><li>Proficient in data processing using pandas and pySpark. Ad hoc analysis to describe and understand data sets.</li><li>Familiarity with MLOps</li><li>Knowledge of SQL for accessing and processing data</li><li>Experience with at least one <strong>CI/CD tool</strong>, e.g. Jenkins, Github actions, or cloud equivalents</li><li>Experience in hyperparameter tuning, model selection and metrics.The candidate should demonstrate the ability to be well organized and perform error analysis to investigate model performance.</li><li>Experience building visualizations using python.</li><li>Hands on experience in a range of ML and AI techniques (e.g. supervised and unsupervised machine learning techniques, deep learning)</li><li>Deep understanding of data manipulation/wrangling techniques</li></ul><p></p><p>Required Skills/ Skills Matrix:</p><ul><li>Data Analysis and Modeling using Python/Spark \u2013 5 years = Must</li><li>Distributed data processing using pyspark - 3 years = Must</li><li>Deep Learning on structured data - 3 years = Must</li><li>Computer Vision/NLP - 12 months = Good to have</li><li>MLOps - 6 months = Must</li><li>Time Series Analysis and Modeling \u2013 1 year = Must</li><li>Domain experience in solving ML problems in one or more of Insurance - 3 years = Must</li><li>AWS SageMaker \u2013 1 year - Must</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T15:32:25.000Z"
+  },
+  "company": {
+    "name": "Soothsayer Analytics",
+    "link": "https://www.linkedin.com/company/soothsayer-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Livonia",
+    "region": "MI",
+    "postal_code": "48154",
+    "street_address": null,
+    "latitude": 42.395065,
+    "longitude": -83.3695
+  }
+}

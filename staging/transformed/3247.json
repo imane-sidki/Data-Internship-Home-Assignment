@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - New Grad 2022 (Remote)",
+    "industry": "Internet,Computer Software",
+    "description": "[ <strong>As of June 2020, Quora has become a \"remote-first\" company . </strong>This position can be performed remotely from anywhere in the world, regardless of any location that might be specified above.]<br><br><strong><u>About Quora<br><br></u></strong>The vast majority of human knowledge is still not on the internet. Most of it is trapped in the form of experience in people's heads, or buried in books and papers that only experts can access. More than a billion people use the internet, yet only a tiny fraction contribute their knowledge to it. We want to democratize access to knowledge of all kinds \u2014 from politics to painting, cooking to coding, etymology to experiences \u2014 so if someone out there knows something, anyone else can learn it. Our mission is to share and grow the world's knowledge, and we're building a world-class team to help us achieve this mission.<br><br><strong><u>About The Team<br><br></u></strong>Our small engineering team works on challenging problems every day. We have a culture that's rooted in constantly learning and improving, and our engineers are encouraged to think big and experiment with new ideas. Using continuous deployment, we quickly see our changes in the product and make fast iterations. Our engineers focus on creating polished products and writing high quality code by designing APIs and abstractions that are extensible and maintainable. Everyone on the engineering team has a huge impact on our product and our company.<br><br>Some of the areas our engineering team works on include:<br><ul><li>Product Systems: architect and scale user-facing product features to drive engagement and help the product grow.</li><li>Platform: create the tools, abstractions, frameworks, and systems to make developers at Quora more productive across all platforms \u2014 from product developers to ML engineers.</li><li>Infrastructure: design and build fast, cost-efficient, self-healing and scalable architectures to serve our ever-growing global traffic and storage needs.</li><li>Machine Learning: build systems and processes that apply ML technologies, including ranking, content quality, text understanding, search, ads targeting and CTR prediction, etc.</li></ul> <strong>Minimum Qualifications:<br></strong><ul><li>Ability to be available for meetings and impromptu communication during Quora's \"coordination hours\" (Mon-Fri: 9am-3pm Pacific Time). Learn why here </li><li>B.S., M.S., or Ph.D. in Computer Science, Engineering or a related technical field</li><li>Knowledge of Python, Javascript, or C++, or the ability to learn them quickly</li><li>A passion for learning and always improving yourself and the team around you</li></ul> <strong>Preferred Qualifications:<br></strong><ul><li>Prior software engineering internship experience with web applications, databases, or distributed systems</li><li>Passion for Quora's mission and goals<br></li></ul>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br>California Consumer Privacy Act (CCPA) disclosure",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T20:03:04.000Z"
+  },
+  "company": {
+    "name": "Quora",
+    "link": "https://www.linkedin.com/company/quora"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

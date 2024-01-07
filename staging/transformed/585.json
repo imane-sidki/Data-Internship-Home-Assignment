@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Staffing and Recruiting,Financial Services,Hospital & Health Care",
+    "description": "<strong>Our client has a high-profile position open for an experienced QA Tester. Your career will need to demonstrate extensive experience in advanced softwere testing projects, but functional and automated and in an Agile environment. <br><br></strong><strong>Excellent global company; flexible and employee-focused and expanding. This is an opportunity to advance your career in a permanent position. Job is onsite in Florida, or remote with occasional travel possible. Compensation open; depends on job fit. Contract duration initially then conversion to in-house full-time hire.<br></strong><ul> <li>Develop automation scripts</li> <li>Work closely with development team to guide root cause analysis and keep improving automated quality processes.</li> <li>Design and execute test strategies as part of an Agile scrum team.</li> <li>Design, code, test, debug and document programs by using Agile development practices</li> <li>Translate user stories and requirements to test cases</li> <li>Participate in product design reviews to provide input on testability of functional requirements and product designs.</li> <li>Collaborate with DevOps and continuous integration project leads to guide test automation infrastructure across multiple products.</li> <br><br></ul><strong><u>Required Skills<br></u></strong><ul> <li>4+ years of Software Test Engineer experience</li> <li>Ability to focus on deadlines and deliverables</li> <li>A quick learner, a self-starter, able to work independently, and able to keep up with a fast-paced environment</li> <li>Strong verbal, written, and interpersonal communication skills.</li> <li>Experience in testing, knowledge of Automation Framework Design and implementation using selenium Tool is required</li> <li>Experience working in both Agile and Waterfall methodologies</li> <li>Experience working on cross functional teams.</li> <li>Must understand version control software</li> <li>Write writing clear, concise, and comprehensive test plans.</li> <li>Experience using Azure DevOps</li> <li>Experience with .NET framework and SQL Server</li> <li>Knowledge of DevOps concepts and CI/CD tools</li> <li>Experience using automation tools to test web services (REST, PCF )</li> <li>Experience with SDLC and QA methodologies, including, Functional testing, E2E testing, Automation, Compatibility testing, Regression Testing and usability testing</li> <li>Write and maintain test automation scripts</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "True North Consulting, LLC(Kansas City)",
+    "link": "https://www.linkedin.com/company/true-north-consulting-llc-kansas-city-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66100,
+    "max_value": 97200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jacksonville",
+    "region": "FL",
+    "postal_code": "32277",
+    "street_address": null,
+    "latitude": 30.325968,
+    "longitude": -81.65676
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>About Walrus<br><br></u></strong>Meds need an upgrade. Two-thirds of Americans are taking Rx meds on a regular basis and pharmacists are the best source of support, but people don't have a good way to partner with them. Meet Walrus, everyone's personal pharmacist.<br><br>Walrus sells into employer and medicare health plans, giving everyone on the plan a personal pharmacist to help them make informed decisions about their meds. Our pharmacists navigate members through all the complexities of managing their conditions and they work with physicians to keep the whole care team in sync. Through Walrus, members manage their health, save money and improve their quality-of-life.<br><br><strong><u>What You'll Do<br><br></u></strong>We are looking for a well rounded Senior Data Scientist to build and maintain the data pipeline, processing, and analysis that ultimately power our pharmacist, member, and administrative applications. This is a high impact role sitting at the intersection of business operations, product, and engineering\u2014 solving some of our most difficult challenges. As one of the earliest hires on our data team, you\u2019ll play an integral part in shaping the process, architecture, and roadmap of work to come.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Partner with other data scientists, engineering teams, and domain experts to identify and devise roadmaps to maximize core business objectives</li> <li>Work closely with the sales team to identify important questions and answer them with data</li> <li>Design, build and launch data extraction, transformation and loading processes for pharmaceutical and medical claims</li> <li>Build and operate infrastructure to ensure data accuracy and availability for all teams</li> <li>Work with technologies such as Docker, PostgresSQL, Python, Pandas, and Jupyter. We are looking for good engineers regardless of experience with any of these specific technologies</li> <li>Create reusable and maintainable systems and abstractions</li> <li>Help to maintain a high technical bar, participating in code reviews and design discussions</li> <li>Participate in recruiting, interviewing, hiring, on-boarding, and mentoring of new team members</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>8+ years experience in Data Science or similar role</li> <li>Demonstrated track record of identifying, scoping and leading complex data science projects with cross-functional teams and high business impact</li> <li>Expert knowledge in data modeling concepts and implementation</li> <li>Experience with visualization technologies such as Tableau and/or Looker</li> <li>Proven experience in areas of optimization, statistics, and machine learning</li> <li>Dedication to code quality, automation and operational excellence unit/integration tests, scripts, workflows</li> <li>Able to work effectively with ambiguous data and constructs within a fast changing environment and shifting priorities</li> <li>Ability to balance business needs and make pragmatic decisions</li> <li>Bonus Prior high-growth startup experience</li> <li>Bonus Prior experience in pharmaceuticals or health care</li> <li>Bonus Experience with HIPAA, PCI, or other high security environments</li> <br><br></ul><u><strong>Benefits<br></strong></u><ul> <li>Equity</li> <li>Health Insurance</li> <li>Remote Position</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T03:19:58.000Z"
+  },
+  "company": {
+    "name": "Walrus Health",
+    "link": "https://www.linkedin.com/company/walrus-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95400,
+    "max_value": 171000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

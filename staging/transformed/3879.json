@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>We are looking for a research-oriented engineer to design, develop and test algorithms and architectures for unstructured information retrieval and classification. As a full-time engineer, you will take ownership of research and development of various algorithms for information extraction, language understanding and image processing. You will also be involved in writing scripts for web crawling, data cleansing and model validation.</p><p><br></p><p><strong>Preferred Educational Qualifications</strong></p><ul><li>B.Tech/M.Tech with relevant projects.</li></ul><p><br></p><p><strong>Required Skills</strong></p><ul><li>C/C++/Python</li><li>Tensorflow/PyTorch</li><li>OpenCV or similar toolkits</li><li>Exposure to NLP in a professional environment</li><li>Strong theoretical understanding of probability theory and machine learning</li><li>Strong understanding of data structures and algorithms</li></ul><p><br></p><p><strong>Desired Skills</strong></p><ul><li>Building web applications and creating REST APIs</li><li>Databases - SQL or NoSQL</li></ul><p><br></p><p>If you're data-driven and are looking to work on cutting-edge research and development, apply right away!</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T12:48:14.000Z"
+  },
+  "company": {
+    "name": "Glib",
+    "link": "https://in.linkedin.com/company/glib-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "IN",
+    "locality": "India",
+    "region": null,
+    "postal_code": "",
+    "street_address": null,
+    "latitude": 22.351994,
+    "longitude": 79.36288
+  }
+}

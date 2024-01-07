@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Telecommunications",
+    "description": "<p>As part of a high performing global team, the right candidate will play a hands-on role in the design and development for implementing Machine learning best practices in network traffic data collection, processing, analysis, and monitoring.</p><p></p><p>Responsibilities:-</p><ul><li>Design, develop and maintain key frameworks, services and applications for network traffic data collection, processing, analysis, correlation, and monitoring in Cloud Products.</li><li>Experience with applying statistical distribution analysis to data.</li><li>Hands on experience in designing batch-based, real-time streaming and event-based data solutions (Spark, Storm, Flink etc.Kafka expertise highly desired)</li><li>Proficient with microservices-based, API/Endpoint architectures</li><li>Experience in network traffic data collection, processing, analysis, and monitoring, and solid understanding of protocols TCP/IP, IPv4/IPv6, NetFlow, sFlow, IPFix. Netconf/Yang</li><li>Understanding of concepts of Radius, PPPoE IP, DHCP IP, SNMP.</li><li>Highly proficient in Java, Go, Nodejs, Scala, or similar programming languages.</li><li>Experience in building and productizing cloud-based/scale data ingestion (preferably in AWS)</li><li>Experience in cloud data solutions like Elastic, Greenplum, Redshift or like technologies a plus.</li><li>5 -10 years of highly technical, hands-on software engineering experience. Independent and Self driven and works in a Team.</li><li>Customer facing engineering role in debugging and resolving field issues.</li><li>Participate and drive technical discussions within engineering group in all phases of the SDLC: review requirements, produce design documents, participate in Peer reviews, produce test plans, support QA team, provide internal training and support TAC team.</li><li>Organized and goal-focused, ability to deliver in a fast-paced environment.</li><li>Strong, creative problem-solving skills and ability to abstract and share details to create meaningful articulation.</li><li>Implementation background in various data processing, consumption patterns, and pipelines.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T17:44:58.000Z"
+  },
+  "company": {
+    "name": "HCL Technologies",
+    "link": "https://in.linkedin.com/company/hcl-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We also want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Identify valuable data sources and automate collection processes</li><li>Undertake preprocessing of structured and unstructured data</li><li>Analyze large amounts of information to discover trends and patterns</li><li>Build predictive models and machine-learning algorithms</li><li>Combine models through ensemble modeling</li><li>Present information using data visualization techniques</li><li>Propose solutions and strategies to business challenges</li><li>Collaborate with engineering and product development teams<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Proven experience as a Data Scientist or Data Analyst</li><li>Experience in data mining</li><li>Understanding of machine-learning and operations research</li><li>Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset</li><li>Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)</li><li>Analytical mind and business acumen</li><li>Strong math skills (e.g. statistics, algebra)</li><li>Problem-solving aptitude</li><li>Excellent communication and presentation skills</li><li>BSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred<br></li></ul><u><strong>Benefits<br></strong></u><ul><li>Health Care Plan (Medical, Dental &amp; Vision)</li><li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li><li>Training &amp; Development</li><li>Free Food &amp; Snacks</li><li>An amazing company that is GROWING QUICKLY!</li><li>You get to work with a fun/interesting group of people.</li><li>Real transparency into the rest of the company.</li><li>Complete ownership and accountability over the role and function area.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T15:42:35.000Z"
+  },
+  "company": {
+    "name": "WALTLabs.io",
+    "link": "https://www.linkedin.com/company/waltlabs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 86500,
+    "max_value": 144000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Spring",
+    "region": "TX",
+    "postal_code": "77387",
+    "street_address": null,
+    "latitude": 30.079731,
+    "longitude": -95.41769
+  }
+}

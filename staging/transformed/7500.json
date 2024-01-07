@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Integration Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<strong><u>Responsibilities<br><br></u></strong>Job Description for Data Integration Engineer<br><br>To develop a global lab automation data architecture for the global quality laboratory enterprise, including information system (ELN, LIMS) integration with vendor-independent laboratory work cells. Additional support is needed from industry experts in GMP laboratory information technology, automation integration, and data architecture to achieve these goals.<br><br>Global Quality Laboratories (GQL) would like to request 12-18 months of support to build a library of device drivers/edge devices for automation hardware to be able to publish/subscribe data to a message queue platform using MQTT protocol.<br><br>Activities the role will take part to develop and implement our strategy include but are not limited to:<br><ul><li>Deliverables attributed to proof-of-concept testing/development</li><li>Hardware requirements to satisfy process (if applicable) </li><li>Develop/implement instrument/device connectors/drivers/edge devices </li><li>Architectural data handling and transfer technologies/solutions </li><li>Define process execution system requirements and scope</li><li>Collaboration with cross-functional teams to implement end-to-end integration from device/instrument to lab system<br></li></ul><strong>Technology Requested<br></strong><ul><li>Java, Python</li><li>Apache Kafka or other messaging queue platforms</li><li>MQTT or other similar messaging protocol</li><li>Git<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Highly motivated individual with 2-5 years experience working in a GMP-regulated environment</li><li>BS in Engineering, Computer Science related technical field, or equivalent experience</li><li>Excellent verbal and written communication skills</li><li>Strong understanding of data architecture for message brokers (e.g. Apache Kafka, Azure Edgehub, MQTT Sparkplug B Protocol)</li><li>Experience with equipment specific APIs or interfaces, and/or web APIs (e.g. RESTful) </li><li>Knowledge/experience developing drivers, micro-services, and software interfaces</li><li>Agile software development<br></li></ul><strong><u>Additional Skills/Preferences<br></u></strong><ul><li>Experience with Pharmaceutical or related regulated industries</li><li>Experience in laboratory operations, LIMS and ELN, laboratory automation <br></li></ul>manufacturers including but not limited to; Biovia, Thermo Scientific, Hamilton Robotics, Biosero Green Button Go, Molecular Devices SoftMax Pro, Brooks SampleStores, Hamilton Work Cells, Biotek Gen5, Darwin LIMS, SmartLab, LabVantage)<br><ul><li>Experience with computer software validation requirements and qualification processes and documentation</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:52:52.000Z"
+  },
+  "company": {
+    "name": "Centraprise",
+    "link": "https://www.linkedin.com/company/centraprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

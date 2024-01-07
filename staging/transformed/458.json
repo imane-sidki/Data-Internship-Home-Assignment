@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Pharmaceuticals,Medical Devices",
+    "description": "<p><strong>Location: South San Francisco, CA</strong></p><p><strong>Duration: 6+ Months Contract</strong></p><p><br></p><p>You will join the department of AI/Client within Research Biology. You will collaborate with scientists working on different areas of machine learning and the life sciences.</p><p>You will closely collaborate with machine learning scientists, computational chemists and bioinformaticians across departments in the organization.</p><p>You will develop and deploy deep learning methods for representation learning of small molecules and prediction of chemical properties.</p><p>The work will also involve software development, infrastructure and hardware optimizations, data pipelining, and innovations to implement robust AI solutions for real world use cases.</p><p><br></p><p>Demonstrated experience with deep learning frameworks and models (PyTorch is preferred).</p><p>Proficient in Python.</p><p>Demonstrated experience in software development, GPU acceleration, model optimization and scaling for multiple server nodes.</p><p>Excellent communication and collaboration skills.</p><p><br></p><p><strong>-MSc or PhD degree in a quantitative field (e.g. Computer Science, Computational Chemistry, Machine Learning, Statistics, Mathematics, Physics). </strong></p><p><strong>-Industry experience as data scientist or ML engineer in a healthcare company. </strong></p><p><strong>-Experience in deep learning for graph-based and/or sequence-based data. </strong></p><p><strong>-Experience in deep learning for small molecules.</strong></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-13T15:16:42.000Z"
+  },
+  "company": {
+    "name": "Tech Observer",
+    "link": "https://www.linkedin.com/company/tech-observer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

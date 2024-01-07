@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "<strong><u>Who You\u2019ll Work With<br><br></u></strong>At Slalom, personal connection meets global scale. Our vision is to enable a world in which everyone loves their work and life. We help organizations of all kinds redefine what\u2019s possible, give shape to the future\u2014and get there. Come join our Team in San Francisco!<br><br><strong><u>What You'll Do<br></u></strong><ul><li>Take ownership of and drive key architecture decisions around the ML lifecycle (build, test, deploy, monitor)</li><li>Design, build, test, deploy and monitor Machine Learning solutions in production</li><li>Utilize best-of-breed practices, tools and cloud solutions<br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li>BA/BS degree in Computer Science or related technical field or equivalent practical experience.</li><li>2 years of relevant work experience in software development using Python.</li><li>Experience with an open source modelling framework (ex. TensorFlow, Keras, Pytorch, Scikit-learn etc.)</li><li>Knowledge of CI/CD and Infrastructure as Code tools (ex. Jenkins, Terraform, Ansible, etc.)</li><li>2 years of relevant work experience with cloud technologies (AWS, GCP, Azure)</li><li>A real passion for AI<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>MS or PhD degree in Computer Science, Artificial Intelligence, Machine Learning, or related technical field</li><li>Experience designing and implementing end-to-end ML Ops solutions (Kubeflow, MLflow, etc)</li><li>Experience collaborating with cross functional teams including data engineers and data scientists to deliver end-to-end solutions</li><li>Experience in production model management</li><li>Knowledge of automated testing and monitoring solutions</li><li>Contributions to open source projects<br></li></ul><strong><u>Technical Skills<br></u></strong><ul><li>Python</li><li>TensorFlow / Keras / Scikit-learn</li><li>Kubeflow / MLflow</li><li>AWS SageMaker, GCP AI Platform</li><li>Terraform/Jenkins</li><li>AWS ML Specialty Certification</li><li>GCP ML Engineer Certification<br></li></ul><strong><u>About Us<br><br></u></strong><em>Slalom is a modern consulting firm focused on strategy, technology, and business transformation. In 39 markets around the world, Slalom's\u202fteams have autonomy to move fast and do what's right. They are backed by\u202fregional innovation hubs, a global culture of collaboration, and partnerships with the world's top technology providers. Founded in 2001 and headquartered in Seattle, Slalom has organically grown to over 8,000 employees. Slalom has been named one of Fortune's 100 Best Companies to Work For five years running and is regularly recognized by\u202femployees as a best place to work. Learn more at slalom.com. <br><br></em><em>Slalom prides itself on helping team members thrive in their work and life. As a result, Slalom is proud it invest in benefits that include: meaningful time off and paid holidays, parental leave, 401(k) with a match, a range of choices for highly subsidized health, dental, &amp; vision coverage, adoption and fertility assistance, and short/long-term disability. We also offer additional benefits such as a yearly $350 reimbursement account for any well-being related expenses as well as discounted home, auto, and pet insurance. </em><em>Slalom is an equal opportunity employer that is committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability status, protected veterans status, or any other characteristic protected by federal, state, or local laws, and will not be discriminated against on the basis of disability</em><em>.\u202f<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T09:48:35.000Z"
+  },
+  "company": {
+    "name": "Slalom",
+    "link": "https://www.linkedin.com/company/slalom-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

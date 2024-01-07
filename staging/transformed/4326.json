@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AWS DevOps/Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>AWS DevOps/Site Reliability Engineer</strong></p><p>Location: US -Hoffman Estates IL, Austin TX, San Jose CA, Portland OR</p><p><br></p><p><strong>Power the Possibilities</strong></p><p>The CDK Global technology team is looking for collaborative innovators who are passionate about making their mark on emerging enterprise software products. We\u2019re building and developing cloud technology for the automotive retail industry that will change the landscape for automotive dealers, original equipment manufacturers (OEMs) and the customers they serve.</p><p><br></p><p><strong>Be Part of Something Bigger</strong></p><p>Each year, more than three percent of the U.S. gross domestic product (GDP) is attributed to the auto industry, which flows through our customer, the auto dealer. It\u2019s time you joined an evolving marketplace where research and development investment is measured in the tens of billions. It\u2019s time you were a part of something bigger.</p><p><br></p><p>We\u2019re expanding our workforce \u2013 engineers, architects, developers and more \u2013 onboarding early adopters who can optimize, pivot and keep pace with ever-evolving development roadmaps and applications.</p><p><br></p><p><strong>Join Our Team</strong></p><p>Growth potential, flexibility and material impact on the success and quality of a next-gen, enterprise software product make CDK an excellent choice for those who thrive in challenging, fast-paced engineering environments.</p><p>The possibilities for impact are endless. We have exceptional opportunities to evolve our industry by driving change through new technology.</p><p><br></p><p>If you\u2019re ready for high-impact, you\u2019re ready for CDK.</p><p><br></p><p><strong>Role:</strong></p><ul><li>Responsible for driving run-book automation for applications that are or have migrated to AWS.</li><li>Implement solutions that support financial governance and tech debt governance that address technical or support gaps in product deployment environments.</li><li>Write deployment pipelines</li><li>Assist application teams with automating their production support run-books (automate everywhere)</li><li>Assist application teams when they have issues using AWS services are not are fully up to speed in their use. Hands on development of automation solutions to support application teams.</li><li>Define and maintain minimum application deployment standards (governance, cost management and tech deb perspective)</li><li>Optimizing and tuning designs based on performance and root cause analysis</li><li>Analysis of existing solutions alignment to infrastructure standards and providing feedback to both evolve and mature the solution.</li></ul><p><br></p><p><strong>Essential Duties &amp; Responsibilities:</strong></p><ul><li>This is a hands-on role where the candidate is expected to take on technical tasks where in depth knowledge on usage and architectural best practices of AWS/public cloud technologies is important:</li><li>EKS</li><li>RDS</li><li>Lambda</li><li>Load Balancing (ALB/ELB)</li><li>EC2</li><li>EBS</li><li>S3</li><li>Service Meshes</li><li>VPC and Availability Zone architectures</li><li>AWS Identity and Access Management</li><li>Scripting and development; preferred Python &amp; Java languages</li><li>Broad understanding/experience across full stack infrastructure technologies</li><li>Site Reliability Engineering practices</li><li>Github/Artifactory/Bamboo/Terraform</li><li>Database solutions (SQL/NoSQL)</li><li>Containerization Solutions (Docker, Kubernetes)</li><li>DevOps processes and tooling</li><li>Hypervisor (VMware) and Virtualization technologies</li><li>Message queuing, data streaming and caching solutions</li><li>Micro-service architecture</li><li>Networking principles and concepts</li><li>In depth knowledge of server based operating systems (Windows/Linux) and Web Services (IIS, Apache)</li><li>Experience of designing, optimizing and troubleshooting public cloud platforms associated with large, complex application stacks</li><li>Have clear and concise communication and be comfortable working with at all levels in the organization</li><li>Capable of managing and prioritize multiple projects with competing resource requirements and timelines</li></ul><p><br></p><p><strong>Years of Experience:</strong></p><ul><li>10 yrs+ working in an IT Infrastructure related role along with associated design experience.</li><li>5 yrs+ working in the AWS public cloud environment</li><li>3-5 years as a Site Reliability and/or DevOps Engineer supporting JVM-based Applications</li><li>AWS DevOps Professional certification preferred</li><li>Experience with Infrastructure as code (CloudFormation, Terraform)</li></ul><p><br></p><p>CDK Global knows you have passions outside of work.You have family, friends, sporting events, and lots of things going on.That\u2019s why we offer a comprehensive benefits package to not only take care of you but your family as well.All of our benefits are effective the first day of employment including 401K matching, paid time off to re-energize, donate your time to volunteer in your community, and tuition reimbursement to name a few.</p><p><br></p><p>At CDK, we pride ourselves on having a diverse workforce. We value and celebrate the uniqueness of individuals and the different perspectivesthey provide. We offer equal opportunity employment regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, or protected veteran status.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T15:10:00.000Z"
+  },
+  "company": {
+    "name": "CDK Global",
+    "link": "https://www.linkedin.com/company/cdknorthamerica"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

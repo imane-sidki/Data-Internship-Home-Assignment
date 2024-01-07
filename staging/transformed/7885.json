@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer, Site Reliability Engineer",
+    "industry": "Telecommunications",
+    "description": "<p><strong>Who are we?</strong></p><p>At Amdocs, our purpose is to enrich lives and progress society. With our creativity and technology, we help make a better connected world. Amdocs and its 25,000 employees serve the leading players in the communications and media industry, enabling next-generation experiences in 85 countries. Our cloud-native, open and dynamic portfolio of digital solutions, platforms and services brings greater choice, faster time to market and flexibility, to better meet the evolving needs of our customers as they drive growth, transform and take their business to the cloud. Listed on the NASDAQ Global Select Market, Amdocs had revenue of $4.1 billion in fiscal 2019. For more information, visit Amdocs athttp://www.amdocs.com</p><p><br></p><p><strong>In one sentence</strong></p><p>Site Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, fault-tolerant systems. SREs ensure that Products and Services have reliability, 99.99%+ uptime and a fast rate of improvement. SREs ensure our systems have the right amount of capacity and performance. SRE development focuses on monitoring, triaging/solving product incidents, optimizing existing products, creating tools, and creating automation to eliminate work and increase reliability.</p><p><br></p><p>SRE intellectual curiosity, problem solving ability, openness, and expertise are integral to our success.SREs collaborate, provide support, learn, share knowledge and grow.Behind our customers product experience is a team keeping the products running, ensuring our customers\u2019 success.</p><p><br></p><p><strong>This position is a remote job anywhere across North America.</strong></p><p><br></p><p><strong>What will your job look like?</strong></p><ul><li>Learn in depth how our products work.</li><li>Maintain live products and services by measuring and monitoring availability, latency and overall system health.</li><li>Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity.</li><li>Practice sustainable incident response,timely documentationand blameless postmortems.</li><li>Support Products and services through consulting, developing/implementingsoftware platforms and frameworks, capacity planning, launch reviews, deployment, operations, refinement, bug detection.</li></ul><p><br></p><p><strong>Minimum Qualifications</strong></p><ul><li>Bachelor's degree in Computer Science, related technical field, or equivalent practical experience.</li><li>Experience programmingcode for production usein one or more of the following: Python, Go,C, C++,Java</li><li>Experience with Unix/Linux operating systems internals (e.g., filesystems, system commands, system tools, systems, init), networking (e.g., IP addressing, interfaces)</li><li>Experience with analyzing and troubleshooting systems.</li><li>Experience using repositories (such as GIT, Nexus, Docker Registry)</li><li>Experience creating SQL code to query schemas, tables and data in Relational databases</li></ul><p><strong>Preferred Qualifications</strong></p><p>\u25cfExperience maintaining large-scale highly available Products and systems.</p><p>\u25cfSystematic problem-solving approach, coupled with effective communication skills and a sense of drive. Ability to debug, optimize code, and automate routine tasks.</p><p>\u25cfExperience designing and developing software oriented towards systems, product or network automation.</p><p>\u25cfCI/CD and build experience: Bitbucket, Jenkins, Ansible, GIT, Vault, Consul, Terraform, HELM</p><p>\u25cfExperience working in AWS</p><p>\u25cfSolid understanding of networking concepts; TCP/IP, SNMP, SSH, DNS, VPNs</p><p>\u25cfExperience with operational monitoring tools (such as Elasticsearch, Kibana, Fluent Bit/FluentD/Filebeat, Grafana, Prometheus, Nagios, Zabbix, CloudWatch)</p><p>\u25cfUnderstanding of containerization technologies and orchestration (Dockers/Kubernetes)</p><p>\u25cfExperience with RESTful APIs</p><p>\u25cfExperience in a regulated industry environment and data security compliance (PCI, ISO/IEC, GLBA, FINRA, PSD 2, PHI/HIPAA, DOJ, SOC, GDPR, etc)</p><p></p><p><strong><u>Amdocs is an equal opportunity employer. We welcome applicants from all backgrounds and are committed to fostering a diverse and inclusive workforce</u></strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T15:33:32.000Z"
+  },
+  "company": {
+    "name": "Amdocs",
+    "link": "https://www.linkedin.com/company/amdocs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

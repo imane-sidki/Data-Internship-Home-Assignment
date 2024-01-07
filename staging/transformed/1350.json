@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer and Team Leader (1308)",
+    "industry": "Information Technology and Services,Computer Software,Telecommunications",
+    "description": "<strong><u>About The Position<br><br></u></strong>We are looking for an experienced full-stack software engineer to join our software development team with experience designing, building and scaling microservices in a cloud environment. You\u2019ll be working with a team of software engineers to create microservices in AWS, making thousands of Single Digits networks more user-friendly, reliable and scalable. You will follow Agile DevOps processes, build exciting new features, and deliver those features using our automated CI/CD process. Engineers in this position must either have experience with the networking industry, or be quick to learn new skills.<br><br><strong><u>Roles And Responsibilities<br></u></strong><ul> <li>Design and develop reliable and scalable microservices in AWS using Java, React.js, Docker, and AWS platform technologies</li> <li>Design and implement REST APIs using OpenAPI</li> <li>Lead a team of software engineers using Agile DevOps processes and procedures</li> <li>Collaborate with customers and functional experts to understand technical requirements and provide innovative solutions.</li> <li>Other duties as assigned</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>5-7 years of experience with building scalable event-based microservices with Java and AWS platform services such as EventBridge</li> <li>Experience with DevOps processes in AWS, including EKS and Terraform.</li> <li>Experience with SQL using AWS RDS, as well as NoSQL using DynamoDB</li> <li>1-3 years of team leadership</li> <li>Working knowledge of the networking industry is preferred, including familiarity with networking protocols such as TCP/IP and SNMP as well as experience with access points, switches and firewalls.</li> <li>Scrum master certification preferred</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T01:10:30.000Z"
+  },
+  "company": {
+    "name": "Single Digits, Inc.",
+    "link": "https://www.linkedin.com/company/single-digits-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 163000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bedford",
+    "region": "NH",
+    "postal_code": "03110",
+    "street_address": null,
+    "latitude": 42.94631,
+    "longitude": -71.5132
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Financial Services",
+    "description": "<strong><u>Job Description<br></u></strong><ul><li>The Global Servicing Network (GSN) organization delivers extraordinary customer care to Card Members, merchants, and commercial clients around the world, while providing world-class credit, collections and fraud services. </li><li>The Big Data and Advanced Analytics team provided models to enhance and compliment the existing processes accross the organization. <br></li></ul><strong><u>Purpose Of The Role<br></u></strong><ul><li>Regularly engage with business teams to understand their needs and requirements and operationalize a framework for deploying Machine Learning and Natural Language Processing models</li><li>Prototype and deploy use cases for Machine learning in the global Servicing Network (GSN) operating environment and ability to operationalize into workable algorithms &amp; solutions. </li><li>The role is expected to provide strategic guidance using Machine Learning and NLP across multiple operating areas within our GSN including structed and unstructured text mining to help business requirements.</li><li>It is also expected that role brings to the table expertise in Machine Learning and how best advanced concepts can be applied into GSN operating areas<br></li></ul><strong><u>Responsibilites<br></u></strong><ul><li>Conceptualize, test and prototype beta versions of algorithms independently and working along with business counterparts in larger GSN organization</li><li>Rigorous testing of algorithms as per business norms and delivering significant working leverage over status quo and generate value for the business be on top of trends<br></li></ul><strong><u>Critical Factors To Success<br></u></strong><ul><li>Able to explain technical terms to non-technical people</li><li>Provide the business with the models that they need in a timely manner</li><li>Bring innovation in Machine Learning technqiues to optimally deploy the ML architecture</li><li>Drive structural improvement projects via Machine Learning and achieve the efficiency goals<br></li></ul><strong><u>Business Outcomes<br></u></strong><ul><li>Bring innovation in Machine Learning technqiues to optimally deploy the ML architecture</li><li>Drive structural improvement projects via Machine Learning and achieve the efficiency goals <br></li></ul><strong><u>Leadership Outcomes<br></u></strong><ul><li>Put enterprise thinking first and always balance stakeholder agendas</li><li>Continuously engage with the external Data Science world to track the new advancements<br></li></ul><strong><u>Academic Background And Experience<br></u></strong><ul><li>Bachelor's or Master's degree surroudning Data Science or relevant field OR 3+ years of applicable work experience </li><li>Able to use both Deep learning and ML libaries</li><li>Work in the financial space is a plus but not required<br></li></ul><strong><u>Functional Skills/Capabilities<br></u></strong><ul><li>Deep curiosity and questioning skills</li><li>Ability to create innovative data solutions</li><li>Knowledge of ML in areas like Fraud and Disputes modeling in a plus<br></li></ul><strong><u>Technical Skills/Capabilities<br></u></strong><ul><li>Complete grip on Python environment and libraries (scikit, nltk, pandas and numpy). </li><li>Working knowledge of PySpark is a plus.</li><li>Knowledge of the Hadoop Infrastructure and how it works</li><li>Both Deep learning (keras/TF) and ML (scikit/xgboost) is required<br></li></ul><strong><u>Knowledge Of Platforms<br></u></strong><ul><li>Platforms primarily Python/HDFS<br></li></ul><strong><u>Behavioral Skills/Capabilities</u></strong> <ul><li>American Express Leadership Behaviors</li><ul><li>Set The Agenda: Define What Winning Looks Like, Put Enterprise Thinking First, Lead with an External Perspective</li><li>Bring Others With You: Build the Best Team, Seek &amp; Provide Coaching Feedback, Make Collaboration Essential</li><li>Do It The Right Way: Communicate Frequently, Candidly &amp; Clearly, Make Decisions Quickly &amp; Effectively<br></li></ul></ul>American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, age, or any other status protected by law.<br><br>Employment eligibility to work with American Express in the U.S. is required as the company will not pursue visa sponsorship for these positions.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T07:25:20.000Z"
+  },
+  "company": {
+    "name": "American Express",
+    "link": "https://www.linkedin.com/company/american-express"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76700,
+    "max_value": 132000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

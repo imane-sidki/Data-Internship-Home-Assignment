@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "<strong><u>Description<br><br></u></strong>Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning, and AI. Our business value and leadership have been recognized by various market research firms, including Forrester and Gartner.<br><br>We are looking for a motivated and passionate Machine Learning Engineers for our team.<br><br>As part of this job, you will be responsible for:<br><ul><li>Providing solutions for the deployment, execution, validation, monitoring, and improvement of data science solutions</li><li>Creating Scalable Machine Learning systems that are highly performant</li><li>Building reusable production data pipelines for implemented machine learning models</li><li>Writing production-quality code and libraries that can be packaged as containers, installed and deployed<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Bachelor's degree or higher in computer science or related, with 5+ years of work experience</li><li>Ability to collaborate with Data Engineers and Data Scientist to build data and model pipelines and help running machine learning tests and experiments</li><li>Ability to manage the infrastructure and data pipelines needed to bring ML solution to production</li><li>End-to-end understanding of applications being created and maintain scalable machine learning solutions in production</li><li>Ability to abstract complexity of production for machine learning using containers</li><li>Ability to troubleshoot production machine learning model issues, including recommendations for retrain, revalidate, and improvements</li><li>Experience with Big Data Projects using multiple types of structured and unstructured data</li><li>Ability to work with a global team, playing a key role in communicating problem context to the remote teams</li><li>Excellent communication and teamwork skills<br></li></ul><strong><u>Additional Skills Required<br></u></strong><ul><li>Python, Spark, Hadoop, Docker, with an emphasis on good coding practices in a continuous integration context, model evaluation, and experimental design</li><li>Test-driven development (prefer py. test/nose), experience with Cloud environments</li><li>Proficiency in statistical tools, relational databases, and expertise in programming languages like python/SQL is desired.<br></li></ul><strong><u>Good To Have<br></u></strong><ul><li>Knowledge of ML frameworks like Scikitlearn, Tensorflow, Keras, etc.</li><li>Knowledge of MLflow, Airflow, Kubernetes </li><li>Knowledge on any of the cloud native MLaaS offerings like AWS SageMaker<br></li></ul><strong><u>Benefits<br><br></u></strong>Significant career development opportunities exist as the company grows. The position offers a unique opportunity to be part of a small, fast-growing, challenging and entrepreneurial environment, with a high degree of individual responsibility.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T15:23:26.000Z"
+  },
+  "company": {
+    "name": "Tiger Analytics",
+    "link": "https://www.linkedin.com/company/tiger-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

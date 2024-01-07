@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<br><br>At Sensormatic Solutions, a division of Johnson Controls (JCI), we bring together diverse data and insights with our intelligent operating platform that is designed to drive improved shopper experiences and retail outcomes. Our innovative solutions (Loss Prevention, ShopperTrak, and Inventory Intelligence) drive improved customer experiences and enable retailers to create streamlined shopping.<br><br><strong>What you will do<br><br></strong> <ul><li>As a Site Reliability Engineer (SRE) you will tune and troubleshoot multi-tiered systems to achieve efficient application performance, stability, and availability. The SRE will work closely with the software engineers, infrastructure, and network engineers to deploy and maintain our services.</li> <li>You will act as 3rd level technical support liaison between Sensormatic Solutions external and internal customers, vendors, and the technology departments on a global scale.\u00a0</li> <li>You will be a point of contact and assist in application and infrastructure implementation, support, monitoring, incident response, and training.</li> <li>Responsible for availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning</li> <br><br></ul>Investigate and identify the root cause of moderately sophisticated customer, network, infrastructure application, and server issues.<br><strong>How you will do it<br><br></strong> <ul><li>Supervise and report the status of tickets to respective internal/external customers and interested parties.\u00a0</li> <li>Drive platform reliability methodologies, influence design decisions, and get hands-on to tackle key infrastructure, cluster automation, and scaling challenges</li> <li>Analyze, investigate, and identify root cause of complex customer issues, and communicate findings to appropriate group for resolution.\u00a0</li> <li>Work with different areas of the business to establish SLIs and SLOs for customer platforms.</li> <li>Ensure that error budgets are maintained and SLOs are met.</li> <li>Build tools to reduce toil and automate workflows</li> <li>Follow and implement Sensormatic\u2019s production change control process.</li> <li>24/7 on-call duty in case of emergencies, based on rotating shifts alongside other global teams\u00a0</li> <li>Serve as Incident Commander to lead efforts in resolving mission-critical issues across the entire engineering organization</li> <li>Collaborate closely with product developers and perform Production Readiness Reviews to ensure that designed solutions respond to non-functional requirements such as availability, performance, security, and maintainability as well as functional requirements such as security, scalability and reliability</li> <li>Help developers interface with tooling, including our Kubernetes platform and in-house continuous delivery pipeline for Terraform</li> <li>Work off-hours periodically to accommodate maintenance/downtime windows as well as outages.</li> <li>Build and update How-To documents (runbooks) and procedures for troubleshooting and system management.</li> <li>Participate in Research and Development activity as needed to progress Sensormatic\u2019s new or improved products, processes, or formulas.<br> \u00a0</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:15:45.000Z"
+  },
+  "company": {
+    "name": "Johnson Controls",
+    "link": "https://ie.linkedin.com/company/johnson-controls"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79500,
+    "max_value": 98700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

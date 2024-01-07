@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Machine Learning - Infrastructure",
+    "industry": "Computer Software,Consumer Services,Internet",
+    "description": "Tinder brings people together. With tens of millions of users, hundreds of millions of downloads, 2 billion swipes per day, 20 million matches per day, and a presence in every country on earth, our reach is expansive\u2014and rapidly growing.<br><br>We are looking for a Software Engineer to help us define and build the next generation of ML infrastructure at Tinder. Our mission is to enable every team at Tinder to iterate quickly on hypotheses and scale their experiments to data sets with hundreds of billions of data points. In this role, you will work closely with many of the ML teams at Tinder.<br><br><strong>What You'll Do: <br></strong><li>Build infrastructure that best supports the needs of a broad community of machine learning engineers, active across all Tinder business units</li><li>Design such infrastructure under the constraints that come with scale in regards to correctness, usability, interpretability, experimentation and maintainability</li><li>Design architectures for engineering systems with ambiguous requirements. </li><li>Determine the feasibility of projects through quick prototyping with respect to performance, quality, time, and cost</li><li>Become an expert on leveraging existing state-of-the-art tooling in the Tinder ecosystem</li><li>Collaborate with cross-functional agile teams of software engineers, data engineers, ML experts, and others in building new product features</li><li>Mentor junior team members</li><li>Leverage your experience to drive best practices in ML and data engineering<br><br></li><strong>What We're Looking For: <br></strong><li>Have a BS in Computer Science, Engineering, Technology or related field</li><li>Have 5+ years of experience with developing platforms related to machine learning training efficiency, experimentation, continuous integration, or search/ranking</li><li>Have experience with building APIs and libraries for Java, Scala, or Python</li><li>Have knowledge of data-driven development, reliability, and responsible experimentation</li><li>Have experience with big data processing and storage frameworks like Hadoop, Spark, Flink, Cassandra, or Kafka</li><li>Understand basic concepts of ML such as regression, classification, clustering, training, testing, validation, and measurement</li><li>Are a skilled communicator, a team player, and have a proven record of leading work across disciplines</li><li>Preferably routinely survey industry developments in software engineering</li><li>Preferably routinely survey research publications in the machine learning and software communities<br><br></li><strong>As part of our team, you\u2019ll enjoy:<br></strong><li> Working on a product that has an immediate impact on people\u2019s lives all around the world</li><li> Collaborating with a team of creative, fun and driven colleagues</li><li> Comprehensive health coverage, competitive salary, 401(k) employer match, Employee Stock Purchase Plan (ESPP)</li><li> Other perks and wellness benefits like a fitness membership subsidy, paid concierge medical membership, pet insurance offerings, and a commuter subsidy</li><li> A robust Learning + Development offering including our MentorMatch program, access to a library of 6,000+ online learning courses through Udemy, and an annual L+D stipend</li><li> Access to mental health resources</li><li> Fertility preservation benefits</li><li> No Meeting Wednesdays and access to a wide range of product and service discounts through Perkspot</li><li> Charitable donations match up to $15,000 annually</li><li> Monthly and weekly interactive virtual events including Book Club, trivia with prizes and yoga workouts</li><li> The opportunity to join six active Employee Resource Groups (ERGs)<br><br></li>At Tinder, we don\u2019t just accept difference \u2014 we celebrate it, we support it, and we thrive on it for the benefit of our employees, our product, and our community. We strive to make our workplace an inclusive and diverse environment, giving people from all walks of life the opportunity to have a voice. We champion and encourage those who bring different perspectives, ideas, and creativity to join our team dedicated to bringing people together across the globe. Tinder is proud to be an equal opportunity workplace where we welcome all people regardless of sex, gender identity, race, ethnicity, disability, or other lived experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:49:23.000Z"
+  },
+  "company": {
+    "name": "Tinder",
+    "link": "https://www.linkedin.com/company/tinder-incorporated"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 153000,
+    "max_value": 209000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

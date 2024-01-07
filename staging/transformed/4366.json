@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Artificial Intelligence Engineer",
+    "industry": "Hospital & Health Care",
+    "description": "<p>Preferred Locations \u2013 Atlanta, GA or Chicago, IL</p><p><br></p><p>This Engineer Lead role is responsible for designing and developing AI solutions.</p><p><br></p><ul><li>This role will function expert level architecture technology that is responsible for development and delivery of the business unit software solutions technology road map to ensures specific technology solutions are in place to support business and it customers.</li><li>Leads the development and delivery of AI architectural technologies for software solutions and ensure that technology deliverables are met based on business requirements; work with leadership to design and deliver technology requirements and leverages necessary resources; leads technical teams and provide direction on all stages of a project the middle phases as well as implementation, and final proven leadership in the delivery and deployment phases.</li><li>Performs technical planning, architecture development and modification of specifications.</li><li>Develops specifications for products/services, applications and service offerings.</li><li>Assesses the compatibility and integration of products/services proposed as standards in order to ensure an integrated architecture across interdependent technologies.</li></ul><p><br></p><p><strong>Qualifications: </strong></p><p><br></p><ul><li>Requires Bachelor's degree in related field</li><li>7+ years of experience in architecture/design in relevant technology disciplines</li><li>Or any combination of education and experience, which would provide an equivalent background.</li><li>Able to translate between customer needs and product specifications.</li><li>Full SDLC exposure delivering production-ready engineering solutions, including requirements definition, architecture selection, prototype development, application design, enabling continuous integration and deployment pipelines, and preparing support and maintenance processes.</li><li>Experience in designing scalable full-stack applications and leading engineering teams in developing real-time and decision support solution types.</li><li>Proven experience in an agile and DevOps environments who can mentor engineers fostering best practice design and development skills.</li><li>Experience designing solutions that leverage<strong>container-based platforms</strong>; such as<strong>OpenShift/Kubernetes.</strong></li><li>5+ years of hands-on experience in one or more modern Object-Oriented Programming languages (Java, Scala, Python) including the ability to code in more than one programming language.</li><li>5+ years of hands-on experience applying principles, best practices in<strong>programming APIs and RESTFul web services</strong>.</li><li>2+ years of hands-on experience in developing<strong>enterprise level APIs</strong>leveraging python web frameworks, like Flask.</li><li>2+ years of hands-on experience implementing real-time API integrations in private or public cloud environments (AWS, Azure, GCP, etc.).</li><li>Good understanding of the latest data science and data engineering methods to implement enterprise-level services.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:53:23.000Z"
+  },
+  "company": {
+    "name": "Anthem, Inc.",
+    "link": "https://www.linkedin.com/company/antheminc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69500,
+    "max_value": 85700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Chicago Area",
+    "region": null,
+    "postal_code": "60618",
+    "street_address": null,
+    "latitude": 41.948055,
+    "longitude": -87.655754
+  }
+}

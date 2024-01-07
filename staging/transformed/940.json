@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend (LA/Austin)",
+    "industry": "Computer Games",
+    "description": "The fastest-growing High School and College sport in America isn\u2019t basketball or football\u2014it\u2019s esports\u2014and PlayVS is the official platform for High School and Collegiate esports. We offer an incredible, full-stack esport platform\u2014game integrations, team building tools, leagues, tournaments, and schedules\u2014and our software products tie everything together into a cohesive experience.<br><br>We are looking for a passionate backend Software Engineer to join our team. You will be responsible for helping us build new, and maintain existing, APIs and services.<br><br><strong> Here's What You'll Get To Do <br></strong><ul><li> Work with a small team comprised of engineers, a product manager, and designer to build our product.</li><li> Collaborate with other engineers and teams to develop new features, GraphQL APIs, improvements, and fixes to handle our current and future scale.</li><li> Troubleshoot production issues and implement fixes for them.</li><li> Help our customers have an awesome experience with our products.</li><li> Write, audit, and improve our test coverage<br><br></li></ul><strong> Here's What We're Looking For <br></strong><ul><li> 5+ years of product development experience</li><li> Thorough understanding of node.js and its core principles</li><li> Familiarity with TypeScript</li><li> Familiarity with GraphQL and Apollo</li><li> Experience building and delivering successful products. You can take rough themes and big ideas and turn them into product features with minimal guidance</li><li> Passionate about PlayVS and the problem we are solving</li><li> Committed desire to understand our customers</li><li> Strong verbal and written communication skills</li><li> Possess a growth mindset: Live and breathe experimentation, data analysis, and ruthlessly prioritize for impact<br></li></ul>PlayVS is an equal opportunity employer and is proud to be a majority minority company. We provide equal employment opportunities and are committed to maintaining an inclusive environment for our customers, employees, and applicants. We prohibit discrimination and harassment of any type regardless of race, color, religion, age, sex (including pregnancy and gender identity), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, parental status, or any other characteristic protected by federal, state or local laws.<br><br>If you have a disability or special need that requires an accommodation, please contact us at accommodations@playvs.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-22T17:15:44.000Z"
+  },
+  "company": {
+    "name": "PlayVS",
+    "link": "https://www.linkedin.com/company/playversus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (L2)",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>ShortList Austin are working with a rapidly expanding Tech company that are looking to hire a Site Reliability Engineer (L2).</p><p><br></p><p><strong><u>Responsibilities</u></strong></p><ul><li>Design, Build, Evolve and Operate SRE-owned services for the team.</li><li>Provide L2 support for Engineering and Development teams.</li><li>Offer improvements to existing service with the aim to provide self-service to customers.</li><li>Collaborate with Tech Leads on designs and advise on implementation.</li><li>Lower support/toil tasks utilizing automation.</li></ul><p><br></p><p><strong><u>The Ideal candidate</u></strong></p><ul><li>Produces clear designs and communicates them clearly to consumers.</li><li>Produces designs that improve performance/reliability.</li><li>Releases are automated, pass through CI/CD and SDLC and contain unit tests for critical components and performance thresholds.</li><li>Refactors critical production services with regular cadence, improving MTBI and MTTR.</li><li>Provides real-time visibility for the health of production services.</li><li>Standardizes use cases generating less measurable issues with releases.</li></ul><p><br></p><p><strong><u>The Ideal person</u></strong></p><ul><li>Results orientated.</li><li>Excellent attention to detail.</li><li>Able to prioritize effectively.</li><li>Able to communicate with Technical/non-technical people.</li><li>Able to escalate effectively when working on solutions.</li><li>Strong experience with distributed systems.</li></ul><p><br></p><p>100% remote working available.</p><p><br></p><p>If this is a challenge you are interested in, hit APPLY NOW for immediate consideration.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T13:07:57.000Z"
+  },
+  "company": {
+    "name": "ShortList Recruitment Limited",
+    "link": "https://uk.linkedin.com/company/shortlist-recruitment-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

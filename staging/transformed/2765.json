@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "<p>Data scientists at LeapYear solve problems at the cutting edge of data privacy and sophisticated analytics for the largest names in finance, healthcare, and technology. We apply LeapYear software to enable our customers to unlock the full potential of their most sensitive data while ensuring the confidentiality of the individuals or entities in that data. In a world where privacy is at the forefront of data practice and policy, our data scientists are trailblazers for a near future where confidentiality is always respected and maintained even as data is shared and leveraged as never before possible.</p><p><br></p><p>Our technology ensures <em>differential privacy</em>, a widely recognized standard of data privacy that enables all data - including sensitive information - to be utilized for analytics and modeling while maintaining mathematically-proven privacy protection.</p><p><br></p><p>The intersection of analytics and privacy creates unique opportunities for LeapYear data scientists. In this role you\u2019ll develop a world-class understanding of how to apply privacy technology to solve real problems, a skill that will put you at the forefront of data science for years to come. Note that prior experience with applying differential privacy is highly beneficial but not required for those with a strong aptitude for applied statistics and data science.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Become an expert user of the LeapYear platform with its breadth of analytic and machine learning capabilities that maintain the mathematical standard of differential privacy</li><li>Work with data at scale, leveraging the LeapYear platform\u2019s Spark compute engine to support fast, distributed processing of massive datasets</li><li>Interact with customers to understand and solve their problems and deliver high performance solutions across an exciting range of industries</li><li>Influence the direction and development of LeapYear software by pushing the limits of current capabilities and collaborating with product and engineering teams to blaze new trails</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>MS or PhD in a quantitative discipline, e.g., Sciences, Mathematics, Engineering, Economics</li><li>Strong mathematical fundamentals, particularly statistics and linear algebra</li><li>2+ years of professional experience as a data scientist or comparable role </li><li>Applied experience and theoretical understanding of basic machine learning methods of regression and classification (supervised and unsupervised), such as linear models and tree-based methods. Familiarity with more advanced methods is beneficial</li><li>Programming: advanced Python, familiarity at least 2 other common languages (e.g., SQL, R, SAS, MATLAB); ability to translate and communicate code across languages</li><li>Creative problem solver with the ability to drive a project and work both independently and in a team</li><li>Outcome oriented, motivated by high impact opportunities</li><li>Excellent verbal and written communication</li></ul><p><br></p><p><strong>A Few of the Perks</strong></p><ul><li>Culture of teaching and learning</li><li>Competitive compensation package of salary and equity</li><li>Catered lunch every day</li><li>Company outings</li><li>Build your ideal work station</li><li>Generous health insurance plan</li><li>Relocation support and visa sponsorship</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T16:56:26.000Z"
+  },
+  "company": {
+    "name": "LeapYear Technologies",
+    "link": "https://www.linkedin.com/company/leapyear-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

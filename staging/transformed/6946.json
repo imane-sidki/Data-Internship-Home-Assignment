@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Computer & Network Security,Computer Networking",
+    "description": "WeWork is hiring a frontend software engineer to build and maintain the services that power our internal and member-facing applications. Hundreds of thousands of members around the world rely on these services to book spaces at WeWork locations, get support, learn about and gain entry to their building, invite guests, and work efficiently while in our spaces. WeWork is adapting to the realities of COVID-19 and seeking to support new members and new flexibility in co-working space, and our technology must rapidly adapt to support the business. This role will be working on an established team of experienced engineers responsible for multiple services and will have a direct impact on executive level initiatives.<br><br><strong>About You<br><br></strong><ul><li>Enjoy working in an Agile development environment and taking initiatives in improving systems for the sake of your teammates and our users.</li><li>Able to utilize design, coding patterns, tools and frameworks and methods to facilitate in effectively meeting the team sprint objectives and the overall quarterly team objectives.</li><li>As excited to write tests and docs as you are to write readable and efficient code.</li><li>Can drive feature development end-to-end and deliver large projects at quarterly level.</li><li>Comfortable working with Product Managers, Designers, Data Scientists, peer engineering leads and managers and non-technical executive stakeholders</li><li>Flexible attitude and able to adapt to rapidly changing requirements and business needs.</li><li>Eager to dive in and contribute to long-lived systems and improve them for the sake of our members and for your fellow engineers, without getting stuck on ensuring perfection.<br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Bachelor degree in Computer Science and 4+ years of experience developing web applications, or equivalent experience.</li><li>Strong knowledge and experience using JavaScript ES6+ </li><li>Strong experience using Single Pages Application technologies like React, Redux, TypeScript, and CSS extensions Sass or Less.</li><li>Integrated with different API resources like RESTful APIs, Apollo GraphQL or JsonSchema to support the front-end clients.</li><li>Experience working with map SDKs like Google Maps, Mapbox, Leaflet or Open-Layers is a plus.</li><li>Preferred experience writing unit and end to end tests with frameworks like Jest and Puppeteer.</li><li>Comfortable with AWS, PostgreSQL/MySQL, Docker, CircleCI, npm, yarn and GitHub.<br><br></li></ul><strong>About WeWork<br><br></strong>WeWork is the platform for creators, providing hundreds of thousands of members around the world with space, community, and services that enable them to do what they love and create their life\u2019s work. Our mission is to create a world where people work to make a life, not just a living, and our own team members are central to that goal.<br><br>Our mission doesn\u2019t end with the small businesses and entrepreneurs that call us home. We believe in empowering our team to create their own life\u2019s work. We move fast and we challenge each other, but we look after each other and care about our culture, which makes working here extremely rewarding. There\u2019s a lot of work left for us to do, and we couldn\u2019t do it without a single member of our team.<br><br>We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br>WeWork will not cover the cost of relocation for this position. Should your application be successful, you would be responsible for your own relocation expenses.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T02:06:52.000Z"
+  },
+  "company": {
+    "name": "WeWork",
+    "link": "https://www.linkedin.com/company/wework"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 206000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong>Required Skills:</strong></p><ul><li>Expert in MySQL and one or more of the following: Oracle, Mongodb, Postgres, Oracle, MSSQL, Kafka, Hadoop, Hbase or Hive</li><li>Experience in Kafka for at least 1 year is Must. </li><li>Bachelor's degree in computer science or Information Technology</li><li>Expert in database and SQL tuning</li><li>Expert trouble-shooter</li><li>Authored software to do parts or all of your job</li><li>Strong Shell, Python and SQL scripting to automate DB related jobs</li><li>Familiarity with observability tools such as Grafana, Prometheus, Vividcortex, Solarwinds, Nagios, Icinga, Munin, Cacti, Wireshark</li><li>Ability to work with development teams</li><li>Familiarity with low level debugging tools: strace, tcpdump, gdb, lsof and netstat</li><li>Familiarity with Splunk</li><li>Expertise in setting up and testing backups</li></ul><p></p><p><strong>Responsibilities:</strong></p><ul><li>Respond to issues within the Service Level Objective during your assigned on-call rotation</li><li>Support 1 of 2 of these tracks of technology</li><li>Kafka, ElasticSearch+LogStash+Kibana and RabbitMQ</li><li>MySQL, Postgres, Oracle, MSSQL</li><li>Write software to improve the reliability, scalability and performance of Client\u2019s infrastructure</li><li>Troubleshoot broken systems and services issues</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T19:29:29.000Z"
+  },
+  "company": {
+    "name": "Akraya, Inc.",
+    "link": "https://www.linkedin.com/company/akraya-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

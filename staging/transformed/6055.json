@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - CES",
+    "industry": "Information Technology and Services,Computer Software,Biotechnology",
+    "description": "Who We Are<br><br>TetraScience provides the world\u2019s first and only R&amp;D Data Cloud, with a mission to transform life sciences R&amp;D, accelerate discovery, and improve human life. Scientists at global Pharma and Biotech organizations rely on our innovative Tetra Data Platform for easy access to centralized, harmonized, and actionable scientific data to accelerate their digital lab transformation. With best-in-class SaaS performance, a team of industry innovators, and excellent product/market fit, Tetra is positioned to become an iconic life sciences software company.<br><br>What you are<br><br><strong>You thrive on working well with others</strong>. You make the people around you better. You love to collaborate with fellow team members, customers, field engineers, executives, and inspire them to do their best.<br><br><strong>You relentlessly strive to excel in your craft.</strong> You are passionate about delivering delightful customer experiences. You take ownership of all the aspects of the customer journey from beginning of case creation, to resolution.<br><br><strong>You consistently seek understanding and clarity</strong>. You look at every interaction as an opportunity to learn. You aren\u2019t afraid to ask questions. You have the humility and confidence to not be the smartest person in the room.<br><br>What You Will Do<br><ul><li>Develop tools, scripts, and design processes to improve observability and system resiliency.</li><li>80% of your time will be hands-on code fixes - individually or by partnering with engineering teams.</li><li>Building, automating, and monitoring infrastructure in AWS to increase product reliability.</li><li>You will be the responsible to investigate end-to-end issues and escalations reported by TetraScience customers.</li><li>Triage issues, drive to resolution and/or identify workarounds to unblock customers.</li><li>You will be the steward of the customer support to the engineering escalation process, increasing efficiency by streamlining communication with customer success, by triaging, extracting, and documenting relevant information<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>3+ years of experience with a proven track record of excellence as Production Support Engineer or Site Reliability Engineer for web application platforms</li><li>Coding experience in one or more languages Python, JavaScript, React or Java</li><li>Demonstrated experience of debugging software reliability issues in a distributed environment including troubleshooting experience with APIs.</li><li>Must have experience with CloudNative(AWS) platforms and applications( Micro-services, Lambda, Docker and Kubernetes deployments, Databases, NoSQL, Kafka/Queueing Service, or Elastic Search)</li><li>Must be self-driven, innovative, and willing to take initiative. Good to have startup experience.</li><li>Bachelor's degree in engineering, or equivalent<br></li></ul><u><strong>Benefits<br></strong></u><ul><li>Competitive Salary and equity in a fast growing company</li><li>Supportive, team oriented culture of continuous improvement.</li><li>100% employer paid benefits for all eligible employees and immediately family members.</li><li>401K</li><li>Generous paid time off (PTO)</li><li>Flexible working arrangements - Remote work | East Coast Zone + Boston office as needed<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:41:03.000Z"
+  },
+  "company": {
+    "name": "TetraScience",
+    "link": "https://www.linkedin.com/company/tetrascience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

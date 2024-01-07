@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning / Signal Processing Engineer",
+    "industry": "",
+    "description": "<p><strong>Who We Are</strong></p><p><br></p><p>AmberBox is the industry leader in gunshot detection and response technology. We help Fortune 100 corporations, schools, hospitals, government departments and entertainment venues protect their staff and visitors from the threat of workplace violence, automating the emergency response process in an incident. AmberBox is a Silicon Valley VC backed, rapidly scaling company, and we are looking for individuals that share our vision and experimentative approach.</p><p><br></p><p><strong>About The Job</strong></p><p><br></p><p>As a Machine Learning / Signal Processing Engineer, you will be responsible for researching and developing algorithms capable of accurately detecting gunshots from audio and visual queues. This is an important part of how we detect and respond to gunshots, and has a huge impact for all parts of the business.</p><p><br></p><p><strong>Skills/experience:</strong></p><p><br></p><ul><li>Signal processing background (familiar with FFTs, DFTs and DTFTs, also FIR and IIR filters)</li><li>Neural Network experience (DNN, CNN, RNN)</li><li>Python</li></ul><p><br></p><p><strong>Nice to have:</strong></p><p><br></p><ul><li>Speech recognition experience</li><li>C/C++</li><li>Experience working with/building Linux.</li><li>Statistical pattern processing background (Wiener filters, Support Vector Machines)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T17:09:33.000Z"
+  },
+  "company": {
+    "name": "AmberBox Gunshot Detection",
+    "link": "https://www.linkedin.com/company/ambrbox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Machine Learning",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong><u>Company Description<br><br></u></strong>Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect entrepreneurs with buyers around the world. As an Etsy employee, you\u2019ll tackle unique problems alongside talented coworkers committed to Keeping Commerce Human. We&apos;re large enough that you&apos;ll focus on meaningful, complex challenges, but small enough that you can make a rewarding impact.<br><br><strong><u>Job Description<br><br></u></strong>Etsy is hiring a Senior Machine Learning Engineer to join our Ads Ranking team. This opportunity is excellent for someone who is interested in applying machine learning to tackle user-facing problems.<br><br>The primary goal of the team is to improve the relevance of Etsy\u2019s on-site ads, and to price the ads fairly and efficiently. Much of this work relies on improving the accuracy of machine learning models that power our click-through-rate prediction and automatic bidding systems. We also develop new product experiences driven by machine learning systems.<br><br>Our team works on both the development of these models, as well as the tooling we use to train, evaluate, deploy, introspect and monitor them.<br><br><strong><u>About The Team<br><br></u></strong>Our team is responsible for ranking and pricing ads on behalf of our sellers on Etsy\u2019s website and mobile apps. This is an opportunity for you to play a major role in connecting our buyers with Etsy\u2019s 90+ million listings through our ML-fueled ad platform.<br><br>Here\u2019s a taste of the problems we\u2019re solving:<br><ul><li>How does the team ensure that the right ads are put in front of the right buyers?</li><li>How can we help our sellers set bids to achieve the highest rate of return?</li><li>How do we rank millions of ads in a matter of milliseconds, so that we\u2019re giving our buyers the best experience while maximizing revenue?</li><li>How do we maintain a pipeline that scales for our 40+ million buyers and sellers?</li><li>How can we detect bad actors in our system to protect sellers?<br></li></ul>Your work will span our stack, touching Python, TensorFlow, Scala, Spark and Google managed services such as BigQuery, Dataflow and AI Platform. We are proud to have an engineering culture that supports career growth and learning.<br><br>You can learn more one of our recent projects on our Engineering blog:<br><br>https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/<br><br>We are language-agnostic in our approach to interviewing.<br><br>This is a full-time, position located (eventually) in our Brooklyn, NY office. We offer flexible workplace policies that can accommodate work from home candidates who are comfortable traveling to an office location 2-3 times per week.<br><br>Many Etsy roles are open to remote candidates, and you&apos;ll be able to identify which ones within the location header of each job description. For candidates who will work remotely from Colorado, visit this link for information related to Colorado&apos;s Equal Pay for Equal Work Act.<br><br><strong><u>Qualifications<br><br></u></strong><strong>You will do well in this role if you:<br></strong><ul><li>Have experience training, deploying, monitoring, debugging and iterating on production machine learning systems.</li><li>Are proficient with databases, SQL, and scripting languages. </li><li>Have the ability to apply statistical techniques to tackle real problems.</li><li>Have successfully taken requirements from design through to delivery both independently and with a team. </li><li>Write understandable, testable code and you have an eye towards maintainability.</li><li>Care about the implications of your work on end users.<br></li></ul><strong><u>Additional Information<br><br></u></strong><strong>What&apos;s Next<br><br></strong>If you&apos;re interested in joining the team at Etsy, please send a cover letter and resume telling us why you&apos;d be right for the position. As you&apos;ve hopefully seen already, Etsy is a place that values individuality and variety. We don&apos;t want you to be like everyone else -- we want you to be like you! So write to us and tell us what you&apos;re all about.<br><br><strong>Our Promise<br><br></strong>At Etsy, we believe that a diverse, equitable and inclusive workplace makes us a more relevant, more competitive, and more resilient company. We encourage people from all backgrounds, ages, abilities, and experiences to apply. Etsy is an equal opportunity employer. We do not discriminate on the basis of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status. We will ensure that individuals with disabilities are provided reasonable accommodations to participate in the job application and interview process, to perform essential job functions, and to receive other benefits and privileges of employment. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skillsets.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:38:33.000Z"
+  },
+  "company": {
+    "name": "Etsy",
+    "link": "https://www.linkedin.com/company/etsy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postal_code": "11239",
+    "street_address": null,
+    "latitude": 40.692528,
+    "longitude": -73.991
+  }
+}

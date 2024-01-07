@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Ad Platforms",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, we work every day to create products that enrich people\u2019s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Today, our technology and services power advertising in Search Ads in the App Store and Apple News. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. <br><br><br>We are looking for an ambitious, self-starter individual who can thrive in an agile environment. You will develop distributed systems to establish, refine and automate our anti-fraud processes across our advertising surfaces. This role involves running big data analytics, and building large scale data infrastructure as well. Detecting meaningful data patterns, assuring the integrity of our data, measuring fraud activity and its impact on campaign and user performance, and finally, analyzing the results of mitigations against fraud. In addition, the successful candidate may also apply ML techniques for identifying characteristics and patterns related to fraud activity and implementing them to protect our business.<br><br> <br><strong>Key Qualifications<br></strong> <br>5 or more years of industry experience building scalable micro services or data driven platforms.<br><br><br>Strong computer science fundamentals.<br><br><br>Prior experience with Java/Scala/C++ or equivalent.<br><br><br>Expertise in NoSQL datastores ( e.g Cassandra )<br><br><br>Proficiency in data processing technologies (e.g Kafka, Spark, Flink)<br><br><br>Deep understanding in at least one of the following domains: ad fraud detection, business/ads integrity, online advertising systems.<br><br><br>Familiarity with cloud paradigms ( e.g AWS )<br><br><br>Demonstrated ability to work on complex problems and systems<br><br><br>Strong problem solving and debugging skills.<br><br><br>Have the ability to communicate effectively, both written and verbal, with technical and non-technical multi-functional teams.<br><br><br>A desire to work in a fast-paced and challenging work environment<br><br> <br><strong>Description<br></strong> <br>You will be a member of a new team within the Ad Platforms engineering organization, that is defining, refining, and/or refactoring approaches to protect our advertising businesses against fraudulent traffic. You will collaborate with a team of world-class machine learning engineers, data engineers and product managers to apply leading-edge techniques and technologies that protect our advertiser and consumer experiences. <br><br><br>Our ability to rapidly build and deploy features and ML models to production is critical in our fight with fraudsters. Not only must we be able to quickly respond to our adversaries, we also have to be able to run seamlessly across different execution contexts such as real-time, near real-time and batch utilizing diverse stacks such as Spark, Hadoop, Kafka, Cassandra and beyond. This is a software engineering role, where a large part of an engineer's time is spent writing code and developing heuristics, and the remainder spent on collaborating with architects, tuning, debugging and supporting production systems and working with data scientists. <br><br><br>You will have the opportunity to work on a platform with extreme scale requirements. At Ad Platforms, we are constantly developing products to provide amazing user experiences and drive value for publishers and developers. <br><br><br>You will join and contribute to a culture that emphasizes understandability, reliability, resiliency, simplicity, reusability, extensibility, scalability, and productivity. We are one team, nurturing each other\u2019s growth and supporting each other in delivering for our customers and Apple.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor's / Masters degree in Computer Science or equivalent is required.<br><br> <br>Role Number: 200231835<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:32:06.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

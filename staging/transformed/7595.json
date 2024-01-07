@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Internet,Leisure, Travel & Tourism",
+    "description": "<p><strong>Description:</strong></p><p>\u00b7The Screenings Team aims to increase user safety, reduce the frequency of property damage incidents, and help maintain our brand. </p><p>\u00b7We perform background checks and other data searches to score a user's risk.</p><p><strong></strong></p><p><strong>Requirements:</strong></p><p>\u00b73+ years of data science, data analytics, or business intelligence experience</p><p>\u00b7Strong understanding of SQL</p><p>\u00b7Experience conducting data analysis in Python</p><p>\u00b7Experience building clear and easy to understand dashboards and presentations </p><p>\u00b7Ability to communicate clearly and effectively to cross functional partners of varying technical levels</p><p>\u00b7Ability to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insights</p><p>\u00b7BS/BA in CS or related field</p><p><strong>Preferred Qualifications: </strong></p><p>oPrior experience at a major tech company and/or in management consulting</p><p>oFamiliarity with Superset</p><p>oFamiliarity with running weblab experiments, efficacy studies, or product validation tests</p><p>oFamiliarity with machine learning basics</p><p>oFamiliarity with our infrastructure, including Airflow, Presto SQL, and Hive SQL</p><p>oExperience creating and maintaining data pipelines</p><p>oExperience supporting engineering product work</p><p>oMS/MA in CS or related field</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:35:07.000Z"
+  },
+  "company": {
+    "name": "Cypress HCM",
+    "link": "https://www.linkedin.com/company/cypress-hcm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

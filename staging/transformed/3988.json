@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer ( C++ Developer)",
+    "industry": "Internet",
+    "description": "<p>VISA SPONSORSHIP IS NOT AVAILABLE</p><p>Our large, Fortune Technology client is ranked as one of the best companies to work with, in the world. The client fosters progressive culture, creativity, and a flexible work environment. They use cutting-edge technologies to keep themselves ahead of the curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence are some other adjectives that define this global technology leader.</p><p><br></p><p>Remote role to start and once environment changes, the candidate will be located either in the Novi, MI office or the Provo, UT office.</p><p><br></p><p><strong>REQUIRED EDUCATION/EXPERIENCE</strong></p><ul><li>5 to 7 years of software development experience</li><li>Ability to write professional code (clean &amp; good design)</li><li>Strong experience with C++ language and related tooling (e.g. compilers, cross-platform, etc.)</li><li>Experience working in an agile team, CI/CD with Jenkins and automated deployment</li><li>High attention to detail</li><li>BS/MS in Computer Science/Engineering or a related field</li></ul><p><br></p><p><strong>RESPONSIBILITIES:</strong></p><ul><li>Design, build and maintain efficient, secure, reusable and reliable code</li><li>Develop solutions that are portable across platforms</li><li>Apply continuous attention to technical excellence and good design, resulting in a straightforward solution and reducing complexity</li><li>Write test automation and help your team to deliver frequent incremental releases using CD pipeline</li><li>Help promote and drive sound engineering design, process and quality practices</li></ul><p><br></p><p><strong>TECHNOLOGIES WE USE</strong></p><ul><li>C++, Python</li><li>Windows, Mac &amp; Linux</li><li>QT</li><li>CMake, Nuget</li><li>Jenkins</li><li>Git, GitHub, Perforce</li></ul><p><br></p><p><strong>DESIRED QUALIFICATION:</strong></p><ul><li>Experience with Python is a plus</li><li>Experience building cross-platform Desktop/GUI applications on Windows/Linux/Mac (Example toolkits like Win32/MFC/.NET, Objective-C/Cocoa frameworks, Qt frameworks etc)</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T07:27:03.000Z"
+  },
+  "company": {
+    "name": "Applicantz",
+    "link": "https://www.linkedin.com/company/applicantz-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

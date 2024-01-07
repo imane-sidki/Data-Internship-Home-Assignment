@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Construction,Marketing and Advertising,Financial Services",
+    "description": "<strong><u>Brief Description<br><br></u></strong>The Site Reliability Engineer will be responsible for the planning, management, and maintenance of all Cambria-owned sites and platforms that power our company. Our team works cross-functionally to ensure that services are available and perform optimally to continue to scale our manufacturing operations.<br><br><strong><u>Essential Duties And Responsibilities<br></u></strong><ul> <li><strong>B</strong>uild, operate, and maintain scalable, highly-available, and resilient distributed systems</li> <li>Participate in chaos engineering exercises to help increase the reliability of Cambria's systems</li> <li>Participate in on-call rotation to ensure critical services are available</li> <li>Analyze metrics to create actionable monitors or alerts to ensure critical services are available and performing well</li> <li>Work with product teams to ensure SLO targets are met or exceeded</li> <li>Participate in root cause analysis after incidents to ensure they won\u2019t happen again</li> <li>Identify and implement improvements to Cambria\u2019s CI/CD deployment pipeline to improve speed and efficiency of code deployments</li> <li>Maintain excellent documentation and diagrams of the complex systems supporting the Microservices environment</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Bachelor\u2019s degree of Computer Science, Electrical Engineering, or related technical degree or equivalent experience</li> <li>Motivated self-learner pushing technology solutions forward, who anticipates problems and challenges</li> <li>Solid understanding of Software Engineering and Computer Science principles with security mindfulness</li> <li>Mastery in at least one programming language. Python, Powershell, Golang, or Bash preferred</li> <li>3-5 years of experience with building, operating and maintaining complex, highly available, and scalable systems</li> <li>Solid foundation in Linux administration and troubleshooting</li> <li>Experience working with Agile delivery methodologies such as Scrum and Kanban. Familiarity and experience with ALM toolsets (Cambria uses Jira) and collaboration software (such as Slack, G-Suite, and Confluence).</li> <li>Experience with some or all of the following software/tools, or close equivalents:<br><ul> <li>Highly-available MySQL clusters</li> <li>Elasticsearch clusters</li> <li>Apache Kafka clusters</li> <li>Hashicorp tools consul vault</li> <li>Container technologies such Docker, LXC, or Podman</li> <li>Container orchestrators such as Kubernetes or Hashicorp Nomad</li> <li>CI/CD tools like Jenkins, TravisCI, or CircleCI. Jenkins Pipelines preferred</li> <li>Configuration management tools like Ansible, Saltstack, or Puppet</li> <li>Load balancing technologies such as Nginx, Apache2, or Haproxy</li> <li>Infrastructure as Code tools such as Terraform or Cloudformation</li> <li>Public cloud platforms such as AWS, Azure, or GCP</li> <li>Application performance and Monitoring tools such as Datadog or Dynatrace</li> </ul> </li> <br><br></ul><strong><u>Minimum Requirements<br><br></u></strong>Education: Minimum 4-year technical degree or equivalent work experience<br>Experience: 5 years working in a Site Reliability/Systems Engineering position<br><br><strong><u>Additional Requirements<br><br></u></strong>Travel Requirements: This position may require travel to other Cambria locations<br>Physical Requirements: This position requires the ability to lift up to 50lbs, be able to work in prolonged standing and/or sitting positions<br><br>Cambria offers a competitive benefits package that encompasses your health and well-being, financial health, retirement planning and time-off.<br><br>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.<br><br><strong><u>For Additional Company Information, Please Visit Www.CambriaUSA.com<br><br></u></strong>We are an equal opportunity employer.<br><br>M/W/VET/DISABLED<br><br><em><li>The salary range associated with this job posting has not been provided by Cambria.</li></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T07:47:36.000Z"
+  },
+  "company": {
+    "name": "Cambria",
+    "link": "https://www.linkedin.com/company/cambria"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Eden Prairie",
+    "region": "MN",
+    "postal_code": "55344",
+    "street_address": null,
+    "latitude": 44.854034,
+    "longitude": -93.46017
+  }
+}

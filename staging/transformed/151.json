@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Groq is delivering industry leading deep learning acceleration hardware with efficient, software-driven solutions for compute-intensive applications.At Groq, you will have the opportunity to work closely with some of the most talented engineers and leaders in the world to redefine compute and shape the future of machine learning.</p><p><br></p><p>We are looking for exceptional machine learning developers/ engineers/researchers with experience developing machine learning models. As a part of the ML Systems team at Groq, you will be working closely with Groq's sales, applications and engineering teams to develop and optimize ML models and systems for our hardware as well as contribute to original research in the field.</p><p><br></p><p><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES:</strong></p><p><br></p><ul><li>Develop kernels and models (both customer and public domain models) for Groq hardware using low level proprietary frameworks as well as popular higher level machine learning frameworks. The models will span domains from machine learning (computer vision, natural language processing, recommendation engines, reinforcement learning) to high performance computing (linear algebra)</li><li>Optimize models for Groq\u2019s hardware by exploiting proprietary hardware features</li><li>Performance analysis of models on Groq hardware</li><li>Performance analysis of large scale systems built using Groq hardware</li><li>Performance analysis of models on competitor hardware/systems</li><li>Contribute to driving features into Groq\u2019s hardware based on model optimizations/insight</li><li>Publish research papers related to ML model optimizations, hardware, in top tier ML conferences.</li></ul><p><br></p><p><strong>EXPERTISE:</strong></p><p><br></p><ul><li>Analytical background with the ability to quickly understand complex hardware technologies, understand tradeoffs and build systems using them.</li><li>ML (Neural Networks) and math fundamentals expertise, with some experience/deep understanding in one or more of the following areas:</li><li>Computer vision</li><li>Natural Language Processing</li><li>Recommendation engines</li><li>Reinforcement Learning</li><li>Linear algebra</li><li>Experience with a subset of the following:</li><li>Python and C/C++</li><li>TensorFlow, Pytorch, Caffe or other ML Frameworks</li><li>HW accelerator programming languages such as CUDA, MKLDNN</li><li>Programming experience on other accelerators such as FPGAs, or DSPs from evaluation to production.</li><li>Understanding of processor architectures and distributed systems and their implications on ML model performance</li><li>Strong writer and public speaker; operate with integrity and drive transparency, openness, and effective communication.</li></ul><p><br></p><p><strong>QUALIFICATIONS:</strong></p><p><br></p><ul><li>BS in CS, CE/EE, Math, or Physics or equivalent work experience.</li><li>2 to 10 years of software and machine learning experience</li><li>Recent PhD computer science, math or engineering graduates with ML experience will also be considered.</li><li>Publication record in ML conferences (ICML, NeurIPS, ICLR, CVPR) is a plus</li><li>Excellent leadership, mentoring and cross-functional collaborative and influencing skills.</li><li>Effective communication &amp; presentation skills</li><li>Able to work in a very dynamic start-up environment</li></ul><p><br></p><p>Groqis anequal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T18:48:47.000Z"
+  },
+  "company": {
+    "name": "Groq",
+    "link": "https://www.linkedin.com/company/groq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 230000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

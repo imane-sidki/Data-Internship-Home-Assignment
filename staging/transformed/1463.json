@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Machine Learning Engineer",
+    "industry": "",
+    "description": "<p><strong>About Us</strong></p><p>Noteworthy AI provides artificial intelligence, vehicle-mounted hardware and cloud software that helps electric utilities better mitigate risks related to extreme weather events. Our solution, Inspector, mounts on utility fleet vehicles and uses cameras and on-board computer vision to inventory and localize grid assets, their components and possible defects. Our solution substantially improves on legacy processes while helping utilities increase efficiency and reduce cost.</p><p><br></p><p><strong>About You</strong></p><p>You are not afraid to roll up your sleeves to be an integral part of a fast-growing startup that is playing a critical role in helping to keep the electric grid energized and resilient against climate-related events.</p><p><br></p><p><strong>What you will be doing</strong></p><ul><li>Solving object detection, instance segmentation and event detection problems</li><li>Training and optimizing models for use on embedded systems</li><li>Owning code testing, deployment, and maintenance</li><li>Managing external engineering resources</li></ul><p><br></p><p><strong>What skills and experience you need</strong></p><p>We value your life experience and proven ability to overcome obstacles more than your credentials or the previous employers on your resume. What you have accomplished in your work and the path that you traveled to get there is what matters most to us.</p><p><br></p><p>While we don\u2019t have a strict set of background requirements, we are looking for people with experience in:</p><p><br></p><ul><li>Supervised machine learning for object detection</li><li>C++ and/or Python development</li><li>Nvidia Jetson and ROS/ROS2 experience is a plus</li><li>Machine vision camera / lens configuration is a plus</li></ul><p><br></p><p><strong>We are also looking for people with</strong></p><ul><li>An ability to adapt, solve problems, and quickly learn new skills</li><li>Creativity, an ability to wear multiple hats, and collaborate with a growing team</li><li>An ability to identify trade-offs between various challenges and requirements: such as power limitations, memory limitations, execution speed, user experience, software development speed, and software maintainability</li><li>Good communication and interpersonal skills</li></ul><p><br></p><p><strong>What we offer</strong></p><ul><li>Competitive salary, equity, and benefits</li><li>Professional development and leadership opportunities</li><li>Flexible schedule</li><li>Noteworthy AI is a remote first company</li></ul><p><br></p><p>In alignment with our core beliefs, Noteworthy AI is an equal opportunity employer (EOE) and all qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T13:44:20.000Z"
+  },
+  "company": {
+    "name": "Noteworthy AI",
+    "link": "https://www.linkedin.com/company/noteworthy-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

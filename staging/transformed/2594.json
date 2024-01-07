@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Cloud Services, InTel",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "The database market is massive (the IDC estimates it to be $89B+ by 2024!) and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.<br><br>The MongoDB Cloud Services Team is a diverse group of contributors working together to help our users manage MongoDB at global scale. The Cloud Team is responsible for MongoDB Atlas: our database as a service offering and fastest growing product which allows users to deploy fault-tolerant, globally distributed MongoDB clusters in just minutes.<br><br>We're seeking a Software Engineer to join our Cloud Services, InTel Team. The InTel team is responsible for helping our users understand the health and performance of their MongoDB deployments, and provide guidance on how to improve performance. This team works on a variety of projects to accomplish this goal, while maintaining the ingestion of 5+ billion data points per day to back these tools.<br><br><strong><u>We're Looking For Someone Who<br></u></strong><ul> <li>Enjoys collaboration and being part of a team</li> <li>Is approachable, curious, and intellectually honest</li> <li>Has written backend systems in a compiled language (Java, C#, Go, etc.)</li> <li>Has experience with the design and architecture of a modern, scalable web application</li> <li>Would enjoy chasing down difficult problems in a distributed environment</li> <li>Always strives to expand their knowledge</li> <br><br></ul><strong><u>Responsibilities<br></u></strong><ul> <li>Collaborate with and learn from team members about best practices and core concepts</li> <li>Work closely with product and design teams, considering the user's perspective in order to deliver quality software</li> <li>Write code across a stack of Javascript and Typescript, Java, and Go</li> <li>Maintain a balance between delivering software, and performing research and development</li> <li>Own our core values and adhere to them in your work</li> <br></ul><strong>Success Measures<br><br></strong>A Software Engineer will be successful in this role when they<br><ul> <li>Are open, honest and happy to to contribute and collaborate with others</li> <li>Build domain knowledge of our systems and use that knowledge to diagnose issues and teach others</li> <li>Develop and lead software projects that help our users maintain and understand their MongoDB deployments</li> <li>Are willing to learn and contribute to all parts of the stack</li> <li>Represent Engineering while working with Product and Design</li> <li>Solve problems with context in mind, balancing the needs of their team with the desire to get to the bottom of issues</li> <br></ul>To drive the personal growth and business impact of our employees, we\u2019re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees\u2019 wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it\u2019s like to work at MongoDB, and help us make an impact on the world!<br><br>MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.<br><br>MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T00:00:00.000Z"
+  },
+  "company": {
+    "name": "MongoDB",
+    "link": "https://www.linkedin.com/company/mongodbinc"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 101000,
+    "max_value": 152000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

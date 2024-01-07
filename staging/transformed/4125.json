@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Onboard / Simulation",
+    "industry": "Internet,Computer Software",
+    "description": "<p>Pony.ai is a startup co-located in Silicon Valley and China, our mission is to revolutionize the future of transportation by building the safest and most reliable technology for autonomous vehicles. Armed with the latest breakthroughs in artificial intelligence, we aim to deliver our technology on a global scale. We believe our work has the potential to transform lives and industries for the better. </p><p><br></p><p>We are looking for the <strong>Software Engineer - Onboard / Simulation</strong> to join our team. You will collaborate with distinguished engineers to solve one of the most challenging problems in artificial intelligence: a fully autonomous driving platform. You will participate in various software development cycles to discover the real problems in autonomous driving, design robust and scalable solutions, and implement your ideas into production. You will be building the vehicle \u201cbrain\u201d, as well as forging our offline infrastructures to facilitate our end-to-end development cycle.</p><p><br></p><p><strong>Job responsibilities</strong></p><p>-Design and develop a high-performance, high-stability, and easily expandable vehicle operating system, supporting different types of vehicle modules</p><p>-Design and develop a simulation system for on-vehicle systems in combination with drive test scenarios</p><p>-Develop and use performance analysis and monitoring tools to analyze and optimize system computing resource allocation and overall performance</p><p>-Design drive test scenario reproduction and debugging tools</p><p><br></p><p><strong>Job Requirements</strong></p><p>-Bachelor degree or above, computer science or related major</p><p>-More than two years of work experience</p><p>-Have at least one common programming language experience, such as C++, Java, Python</p><p>-Deep understanding of operating systems, computer architecture and high-performance computing</p><p>-Have high-performance software system, scientific simulation engine or game engine development experience</p><p>-Excellent analysis and problem-solving skills</p><p><br></p><p><strong>About Pony.ai</strong></p><p>Pony.ai, Inc. (\u201cPony.ai\u201d) is pursuing an ambitious vision for autonomous mobility. We aim to bring safe, sustainable, and accessible mobility to the entire world. We believe that autonomous technology can make our roads exponentially safer for travelers. Founded in late 2016, Pony.ai has been a pioneer in autonomous mobility technologies and services across the U.S. and China, spearheading public-facing Robotaxi pilots in both markets. The company is currently valued at $5.3B and some of its major investors include Toyota, OTPP, Sequoia Capital China, and IDG Capital.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:34:34.000Z"
+  },
+  "company": {
+    "name": "Pony.ai",
+    "link": "https://www.linkedin.com/company/pony-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

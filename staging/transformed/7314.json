@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Distributed Systems - Energy Software",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong><u>Role<br><br></u></strong>Want to work on IoT platforms that support Powerwall, Powerpack, Megapack, Tesla Solar, Solar Roof, Powerhub, Supercharger, Autobidder, Model S/3/X, and the Tesla App? Want to work with functional programming, streaming data, and distributed systems? Want to work with Scala, Akka, Reactive Streams, InfluxDB, PostgreSQL, and Kubernetes? Tesla is looking for a Software Engineer to build the cloud services that power these products, driving the worldwide transition to sustainable energy.<br><br>This platform provides real-time monitoring, optimization, and control of distributed, renewable-energy assets, including generation, storage, grid services, and electric-vehicles. The platform incorporates reliable data collection and storage for millions of real-time data streams; services for publishing and subscribing to streaming data; support for real-time stream processing and aggregation; and reliable, low-latency messaging for the distributed command and control of energy assets. You must enjoy working on challenges related to the availability, reliability, scalability, and security of these distributed software systems.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Design, develop, and maintain distributed software systems that incorporate real-time and streaming data for monitoring, aggregation, and control.</li><li> Characterize complex problems related to the scalability, reliability, performance, and security of production systems.</li><li> Test the performance, scalability, and reliability of software systems at scale, including developing the services to support this testing.</li><li> Provide technical leadership and foster collaboration.</li><li> Maintain the high quality standards of the team.<br></li></ul>Employee Benefits<br><ul><li>As a full time Tesla employee you will receive full benefits from day 1 for you and your dependents. </li><li>Kaiser and UnitedHealthcare PPO and HSA plans (including infertility coverage)</li><li>3 medical plan choices with $0 paycheck contribution </li><li>Vision &amp; dental plans (including orthodontic coverage)</li><li>Company paid Life, AD&amp;D, short-term and long-term disability </li><li>401(k), Employee Stock Purchase Plans, and other financial benefits </li><li>Employee Assistance Program, Paid Time Off, and Paid Holidays</li><li>Back-up childcare and employee discounts</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T21:43:10.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 148000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

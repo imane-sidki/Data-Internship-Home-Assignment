@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<p><strong>About Kraken</strong></p><p><br></p><p>Kraken is changing the world. Join the revolution!</p><p><br></p><p>Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion.Founded in 2011 and with over 4 million clients, Kraken is one of the world\u2019s largest, most successful bitcoin exchanges and we are growing faster than ever. Our range of successful products are playing an important role in the mainstream adoption of crypto assets.We attract people who constantly push themselves to think differently and chart exciting new paths in a rapidly growing industry. Kraken is a diverse group of dreamers and doers who see value in being radically transparent.</p><p><br></p><p>In our first decade Kraken has risen to become one of the best and most respected crypto exchanges in the world. We are changing the way the world thinks about money and finance. The crypto industry is experiencing unprecedented growth and Kraken is leading the charge. We\u2019ve grown from 70 Krakenites in January 2017 to over 1800 today and we have no intention of slowing down.</p><p><br></p><p><strong>About the Role</strong></p><p><br></p><p><strong>This is a fully remote role however, we are only considering candidates who plan to work from the US Pacific or Mountain Time zone.</strong></p><p><br></p><p>Our Engineering team is having a blast while delivering the most sophisticated crypto-trading platform out there. Help us continue to define and lead the industry.</p><p><br></p><p>As part of Kraken's Frontend SRE Team, you will work within a world-class team of engineers building Kraken's infrastructure. As a Site Reliability Engineer, you will be keeping one of the fastest growing companies in the world up and available in a 24/7 environment. You will bring your own technical expertise to monitor and support staging and production environments, build tooling, CI/CD pipelines, deployment specs and generally automate internal processes to empower developers and improve team efficiency.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Monitor and support Staging and Production environments</li><li>Improve Developer Tooling, help with building Docker images, manage our Continuous Integration (CI) pipelines for automating quality testing</li><li>Manage releases using Kubernetes</li><li>Implement tooling to keep track of key metrics and generate alerts</li><li>Collaborate with Dev, QA, and Product teams, jump in to support and improve development and release cycle</li><li>Develop tools and bots to improve and automate internal processes</li><li>Support a fully distributed team operating across numerous timezones</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>3+ years in a DevOps role (DevOps, SRE, etc)</li><li>1+ years experience with a programming language (NodeJS or Rust)</li><li>Extensive experience with monitoring tools such as Grafana and Prometheus</li><li>Thorough knowledge of Docker and extensive experience with Kubernetes, Terraform and Helm Charts</li><li>Ability to configure and maintain different types of proxy services such as Nginx and Traefik</li><li>Proficient in Git source version-control</li><li>Passion for improving process and products</li><li>Experience configuring Continuous Integration (CI)</li><li>Ability to thrive while working independently and remotely in a team-based environment</li><li>Self-starter, ability to context-switch between various projects, codebases and concepts</li><li>Ability to independently debug problems involving the network and operating system</li><li>Well-versed in scripting languages, building and administration of Linux</li><li>Interest in security and a thoughtful and thorough consideration of the security implications of development decisions</li></ul><p><br></p><p><strong>Nice to Haves...</strong></p><ul><li>Passion for open-source and contributing back to the community</li><li>Knowledge about Cloudflare Caching, Page Rules and Workers</li><li>Experience with Hashicorp Vault and its PKI features</li><li>Experience with Kubernetes for Local development tools such as Tilt</li><li>Experience with ReactJS and/or NextJS frameworks</li><li>Experience with Cloud infrastructure</li><li>Experience benchmarking applications and identifying bottlenecks</li><li>Experience with Slack, Jira, Google, and/or Gitlab APIs</li><li>Experience with monitoring / alerting (primarily with Prometheus / Grafana) and knowledge of best practices in the area</li><li>Experience with distributed systems and technologies (gRPC, Kafka, NoSQL, SQL, Redis, ...)</li></ul><p><br></p><p>We\u2019re powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives.</p><p><br></p><p>Check out all our open roles athttps://www.kraken.com/careers. We\u2019re excited to see what you\u2019re made of.</p><p><br></p><p>Learn more about us</p><p><br></p><p>Follow us on Twitter: https://twitter.com/krakenfx</p><p>Catch up on our blog: https://blog.kraken.com/</p><p>Follow us on LinkedIn: https://www.linkedin.com/company/kraken-exchange/</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-28T17:38:31.000Z"
+  },
+  "company": {
+    "name": "Kraken Digital Asset Exchange",
+    "link": "https://www.linkedin.com/company/krakenfx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Kubernetes",
+    "industry": "",
+    "description": "<p>Title: Site Reliability Engineer -Kubernetes</p><p><br></p><p>Location: Dallas-TX or Jersey City, NJ</p><p><br></p><p>Experience level: Associate</p><p><br></p><p>Experience required: 6 Years</p><p><br></p><p>Education level: Bachelor\u2019s degree</p><p><br></p><p>Job function: Information Technology</p><p><br></p><p>Industry: Financial Services</p><p><br></p><p>Visa : Only US citizens and Greencard holders</p><p><br></p><p>Summary</p><p><br></p><p>We are looking for a Container migration SRE, who understands the enterprise containers in Docker Swarm to advanced Kubernetes platforms (OpenShift, Tanzu) deployments and has prior experience with container migrations and deployments. The container migration SRE will bring in Kubernetes deployment with software engineering SRE standard methodologies. This role will be instrumental in continuing our Container First strategy delivery, bringing expertise with, development, and implementation of container migration projects.</p><p><br></p><p>Your Primary Responsibilities</p><p><br></p><p>Lead the container platform ecosystem</p><p>Cluster capacity management and provisioning through automation of underlying hosts.</p><p>Understanding the infrastructure components (server, network, storage, firewall, load balancer etc) required for Kubernetes platform, Infrastructure As a Code(IaC).</p><p>Experience with a modern application software language; especially a systems programming language (Go, Python)</p><p>Understanding of architectural patterns; Microservices are important, but experience with other patterns helpful</p><p>Practitioner of version control; experience with different branching strategies (and understands why GitFlow is not a good choice for CI/CD and enterprise development teams)</p><p>Understands and uses unit and functional testing; ideally advocates tests up front (advocates tests for moving faster)</p><p>Experience defining delivery pipelines; demonstrable work in automation and observability (Bonus points for experience using GitOps for deployment)</p><p>Understand K8s resiliency patterns (HPA, self-healing)</p><p>Understands container image optimization</p><p><br></p><p>MUST HAVE: Container migration, Docker, Kubernetes, Infrastructure As a Code(IaC).</p><p><br></p><p>Qualifications:</p><p><br></p><p>Minimum of 6 years of related experience</p><p>Bachelor's degree required</p><p>Kubernetes and/or Tanzu or OpenShift Container Platform.</p><p>Kubernetes and Python</p><p>Expertise in Tanzu Solutions As A Service Offerings</p><p>Experience delivering infrastructure as code using CI/CD practices</p><p>Proven track record of applying technology to tackle business problems.</p><p>Experience with migrate/onboard application onto Kubernetes</p><p>AWS associate certifications or higher preferred</p><p>RedHat certifications in Linux and OpenShift administration preferred</p><p><br></p><p>If interested connect on Linkedin or mail on rita.d@a2zxperts.com</p><p>Please note Visa : Only US citizens and Greencard holders</p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T12:48:27.000Z"
+  },
+  "company": {
+    "name": "A2Zxperts",
+    "link": "https://www.linkedin.com/company/a2zxperts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p>\u2022 Knowledge of at least one of the programming languages like SQL, Python, R, and Scala</p><p>\u2022 Familiarity with business intelligence tools (e.g., Tableau)</p><p>\u2022 Strong mathematics skills (e.g., statistics, algebra)</p><p>\u2022 Experience with big data technologies such as Hadoop and Spark</p><p>\u2022 Advanced ability to perform exploratory data analysis</p><p><br></p><p></p><p><strong>Responsibilities</strong></p><p>\u2022 Collecting Service data through means such as analyzing current sources or by setting up and managing new studies</p><p>\u2022 Transferring data into a new format to make it more appropriate for analysis</p><p>\u2022 Creating new, experimental frameworks to collect Service data</p><p>\u2022 Building tools to automate data collection</p><p>\u2022 Searching through large data sets for usable information</p><p>\u2022 Creating reports and presentations for business uses</p><p>\u2022 Correlating similar data, identify patterns and trends in data sets to find actionable results.</p><p>\u2022 Understanding the business problems and analyzing the data by using appropriate Statistical models to generate insights</p><p>\u2022 Application of various machine learning algorithms and statistical Modeling like decision trees, text analytics, natural language processing (NLP), supervised and unsupervised, regression models, deep learning and clustering.</p><p>\u2022 Use Machine learning along with real-time usage and performance data to optimize product performance, quality and reliability</p><p>Create digital twins using 3D software and run simulations to measure product reliability in varying conditions to enable enhanced service design and predictive maintenance.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T20:39:12.000Z"
+  },
+  "company": {
+    "name": "L&amp;T Technology Services Limited",
+    "link": "https://in.linkedin.com/company/l&amp;t-technology-services-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Marlborough",
+    "region": "MA",
+    "postal_code": "01752",
+    "street_address": null,
+    "latitude": 42.346947,
+    "longitude": -71.54718
+  }
+}

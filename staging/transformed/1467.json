@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Entertainment,Computer Games",
+    "description": "<strong><u>Who We Are<br></u></strong>At Visual Concepts, we believe great games are made by diverse and empowered teams with a shared passion for play. As one of the world\u2019s top game development studios, we have shipped over 100 multi-sku titles to critical acclaim and commercial success. Our teams are independent and entrepreneurial. Our studios in Agoura Hills, Novato, Orange County, Budapest, Shanghai, Austin, San Jose, Vancouver and Seoul are committed to artistry and technical innovation, offering top candidates the opportunity to learn and grow with some of the smartest and most creative minds in the industry.<br><strong><u>What You Will Do<br></u></strong><ul> <li>Help design and develop machine learning models to solve classification, pose estimation, character transition, and mesh generation problems.</li> <li>Implement data processing, scraping, and annotation procedures to prepare model training data</li> <li>Work with our internal game engine to integrate and visualize model inference results</li> <br></ul><strong><u>Who We Think Will Be A Great Fit<br></u></strong><ul> <li>Bachelor\u2019s degree in Computer Science, Maths, or related discipline</li> <li>3+ years of programming experience in Python with specific experience using Numpy and OpenCV</li> <li>Experience solving supervised learning problems with modern Machine Learning libraries such as TensorFlow and PyTorch</li> <li>Strong understanding of 3D Maths including quaternions, linear algebra, and 3D matrix transformations</li> <li>Some experience in C/C++</li> <br></ul><strong><u>Bonus<br></u></strong><ul> <li>Experience working in game development a plus</li> <li>Experience working with 3D game engines such as Unity and Unreal a plus.</li> <br></ul><em><strong>Please note that Visual Concepts Entertainment and 2K Games never use instant messaging apps or personal email accounts to contact prospective employees or conduct interviews. When emailing, only use VCentertainment.com and 2K.com accounts.</strong></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T16:25:19.000Z"
+  },
+  "company": {
+    "name": "Visual Concepts",
+    "link": "https://www.linkedin.com/company/visual-concepts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 101900,
+    "max_value": 218700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Novato",
+    "region": "CA",
+    "postal_code": "94947",
+    "street_address": null,
+    "latitude": 38.109188,
+    "longitude": -122.578255
+  }
+}

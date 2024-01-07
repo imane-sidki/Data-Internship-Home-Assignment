@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Our Company<br><br></u></strong>Changing the world through digital experiences is what Adobe\u2019s all about. We give everyone\u2014from emerging artists to global brands\u2014everything they need to design and deliver exceptional digital experiences! We\u2019re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.<br><br>We\u2019re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!<br><br><strong><u>About Workfront<br><br></u></strong>Workfront, an Adobe company, is the leader in enterprise work management. Together, Adobe and Workfront provide companies a single system to support planning, collaboration, and governance to unlock organizational productivity and create exceptional experiences. Workfront helps people do their best work so companies can thrive in a digital world. Workfront is built for people, effortlessly connecting teams and easily integrating into existing applications and systems. The ability to see, measure, and analyze critical factors such as resources, outcomes, and priorities keeps everyone on the same page, with a clear understanding of why their work matters.<br><br><strong>Role Purpose<br><br></strong>As a Software Engineer, you will use your coding skills to develop, test and release features assigned to you and your software engineering team. You will be challenged daily to solve problems, expand your knowledge of the Workfront platform and the technologies that can be used to continuously improve it. You will grow as we do and your technical skills and ownership responsibilities will gradually increase as you move toward the next level.<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Meet with your team and tell them the awesome things you did yesterday and what unspeakably incredible things you will complete by this time tomorrow.</li><li>Create new features using our development technologies that will delight and inspire knowledge workers across the world. </li><li>Work with your team to plan your sprint and take on tasks that will help your team succeed.</li><li>Develop elegant solutions to complex problems.</li><li>Troubleshoot problems and debug the system to expand your knowledge and expertise within our platform.</li><li>Work with our QA and Product teams to show that your solutions work as-intended and you are ready for your next challenge. </li><li>Participate in discussions with your team about what emerging tools, technologies and processes are coming that may impact how we improve our products and our SaaS platform in the future. <br></li></ul><strong><u>Desired Competencies And Experience<br></u></strong><ul><li>Bachelor\u2019s degree in Computer Science, Computer Engineering (or equivalent education) or equivalent work experience.</li><li>1+ years of programming experience in JavaScript technologies (React, Node, Angular, TypeScript, ES6, etc.).</li><li>Introductory experience with common front-end development tools (Jasmine, Babel, Webpack, NPM, yarn, etc.).</li><li>Demonstrate introductory knowledge of other technologies in use at Workfront (Java, Spring, Docker, AWS, GCP, etc.). </li><li>Show that you can take a basic software engineering problem and present a solution with the ability to adjust the solution based on feedback.</li><li>Ability to describe concepts and solutions using synchronization patterns (e.g. signals, mutexes, critical sections, etc.).</li><li>Demonstrate conceptual understanding of design patterns and strategies.</li><li>Intermediate experience working with Redux, Flux, Immutable, etc.</li><li>Demonstrate proficiency in DOM manipulation and the JavaScript object model.</li><li>Have knowledge and/or experience in real-time or distributed systems, public cloud or PaaS systems like AWS or GCP, relational or NoSQL databases.</li><li>Demonstrate fantastic communication skills such that we are confident that you will not only adapt and work well with a software engineering team, but excel in a collaborative team environment.<br></li></ul><strong>Values Fit<br><br></strong>To us, company values are more than just words on a wall; they best describe who we are and how we get our work done.<br><ul><li>Genuine: We are sincere, trustworthy, and reliable.</li><li>Exceptional: We\u2019re committed to creating exceptional experiences that delight our employees and customers.</li><li>Innovative: We\u2019re highly creative and always striving to connect new ideas with business realities.</li><li>Involved: We\u2019re inclusive, open, and actively engaged with our customers, partners, employees, and the communities we serve.<br></li></ul>At Workfront, an Adobe company, you will be immersed in an exceptional work environment that is recognized around the world. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you\u2019re looking to make an impact, we\u2019re the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T10:01:17.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84900,
+    "max_value": 122000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

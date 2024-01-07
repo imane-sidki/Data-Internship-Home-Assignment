@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>About Maze<br><br></u></strong>Maze is a Series A funded startup building the future of rapid testing for modern teams. We're backed by some of the world's best funds and have an extensive advisory network.<br><br>We're on a mission to empower modern teams to build better user experiences by testing and learning rapidly with real users. To do this, we've partnered with the world's biggest design tools, including Adobe XD, Figma, InVision, Sketch, and Marvel. We power over 40,000 brands globally, including IBM, Logitech, Pipedrive, Uber, Greenpeace, and Braze.<br><br>We're a fully remote team working across 23 countries. You'll be joining a passionate team whose resumes include Canva, Figma, GitLab, Google, InVision, Typeform and Zendesk.<br><br>What you will do<br><br>As a part of the Site Reliability Engineering (SRE) team you will work to build design and architect the infrastructure of Maze. Your day-to-day will be working to ensure our platform applications are reliable and healthy.<br><br>Your scope will be as follow :<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Build, design, deploy, maintain and lead the implementation of Cloud solutions on AWS infrastructure</li><li>Supervise infrastructure including proactive capacity management and replication strategies</li><li>Collaborate with developers, designers and testing specialists to deliver fully automated Cloud solution</li><li>Deploy, configure, manage, and maintain technical infrastructure.</li><li>Troubleshoot and resolve technical operational issues related to the AWS Cloud Infrastructure</li><li>Define and document best practices and strategies regarding application deployment and infrastructure maintenance</li><li>Using best practices to migrate our infrastructure with little or zero downtime to a highly available, scalable one</li><li>Deploying proof of concept (PoC) for new technologies</li><li>Work with automation tools to improve performance and deployment procedures</li><li>Set up and maintain a monitoring stack that helps to monitor infrastructure 24x7</li><li>Be part of the on-call rotation schedule and make sure alerts are setup properly on the production environment<br></li></ul>Technologies<br><br>Here is our technology stack we use within our team<br><ul><li>AWS : S3, CloudFront, Elasticache, EKS, Lambda, ECR, route53, IAM</li><li>Terraform</li><li>Serverless</li><li>Kubernetes</li><li>Docker</li><li>Helm Charts</li><li>Datadog, Prometheus</li><li>CircleCI/Circle Orbs</li><li>Node.js</li><li>Golang</li><li>CQRS and Event Sourcing<br></li></ul>Mandatory skills are AWS Cloud, Kubernetes. Programming languages required are node.js and golang.<br><br>Consider this our wish-list. We know there will be great candidates that don't meet every one of these criteria\u2014if you're passionate about the role and feel that your experience prepares you to do it, we'd love to hear from you.<br><br>Why Maze is unique<br><ul><li>Early-stage startup: You will join an early-stage startup with less than 100 employees. This means you'll have the unique opportunity to directly impact success and help shape the future of Maze.</li><li>Category: We're on a mission to democratize user testing and are truly excited about defining a new space where anyone can test and learn rapidly.</li><li>Product-market Fit: We already have a strong product-market fit for product designers and a NPS of 60, and we're excited to build on top of this to reach PMF for our new user segments.</li><li>5x Growth: We're a fast-growing startup and we have big goals! You will have the opportunity to impact Maze's growth and help us achieve the next milestone in our journey.<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Unlimited time off</li><li>Company retreats, fully paid by Maze</li><li>Laptop paid for by Maze</li><li>Paid Family leave: 14 weeks for birth or adoptive parents</li><li>$850/month in benefits to be used at your discretion. Get the benefits that matter to you with our flexible a-maze-ing benefits!</li><li>$2,000 remote work setup fund to ensure you can set up a productive work space!</li><li>Free access to proper mental health care<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T17:11:26.000Z"
+  },
+  "company": {
+    "name": "Maze",
+    "link": "https://fr.linkedin.com/company/mazedesign"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Modern Health-<br><br></strong>Modern Health is a mental health benefits platform for employers. We are the first solution to cover the full spectrum of mental well-being needs through both evidence-based digital content and professional support from a global network of certified coaches or therapists all in one comprehensive app. Whether someone wants to proactively manage stress or treat depression, Modern Health guides people to the right care at the right time. We empower companies to help <em>all of </em>their employees be the best version of themselves, and believe in meeting people wherever they are in their mental health journey.<br><br>We are a female-founded company, backed by investors like Kleiner Perkins, Founders Fund, John Doerr, Y Combinator, and Battery Ventures. We partner with 220+ global companies like Lyft, SoFi, Pixar, Gusto, Okta, and Udemy that are taking a proactive approach to mental health care for their employees. Modern Health has raised more than $170 million in less than two years with a valuation of $1.17 billion, making Modern Health the fastest entirely female-founded company in the U.S. to reach unicorn status. We are looking for driven, creative, and passionate individuals to join in our mission.<br><br>In 2020 we tripled our employee headcount, doubled our customer base and grew our revenue 10x. As a hyper-growth company we have maintained our people-first culture winning awards including Fortune's Best Workplaces in the Bay Area 2021 and maintaining an employee retention rate of 99.97% and an overall Glassdoor rating of 4.9 out of 5.<br><br>An inclusive and diverse culture are key components of mental well-being in the workplace, and that starts with how we build our own team. If you're excited about this role, we'd love to hear from you!<br><br>The Role-<br><br>Modern Health's data team is growing rapidly, and we're looking to bring on a data scientist to help improve our members' experience. We're looking for someone who can bring hands-on experience developing production machine learning models to help build the first and second generations of ML-powered products to drive member engagement and outcomes. You'll be joining a small data science team and be heavily involved in shaping the team's direction and growth.<br><br>In this role, you'll dive deep into three main areas: triage, provider matching, and content recommendation. You'll use our members' activity and outcome data to understand whether members are a better fit for therapy, 1:1 coaching, or digital programs / self-guided courses. You'll work with product teams to collect information for making smart recommendations about which therapists and coaches will be the best fit for members. And you'll build on our engagement data to build recommender systems for digital content and events.<br><br>This role will report to the Data Engineering Manager and is not eligible to be performed in Colorado or Hawaii. Bay Area preferred<em>. <br><br></em><strong><u>What You'll Do-<br></u></strong><ul> <li>Be a hands-on contributor building and shipping ML models</li> <li>Partner with product, operations, and clinical care teams to understand user journeys and recommend product improvements</li> <li>Collaborate with infrastructure, back-end, and data engineers to scope and design our ML platform / infrastructure</li> <li>Partner with engineering leadership to develop a technical vision &amp; roadmap for how Modern Health will apply ML to our business problems</li> <li>Help grow the ML team's size and scope, defining best practices and operating principles</li> <li>Review other data scientists' code and results to develop a culture of feedback and integrity</li> <li>Foster a strong data-driven culture across Modern Health, from experimental design to rigorous decision-making</li> <br><br></ul><strong><u>Who You Are-<br></u></strong><ul> <li>2+ years of experience building and shipping statistical models in a production setting<br><ul> <li>You are comfortable writing Python and using standard libraries like numpy and sklearn</li> <li>You've worked in cloud environments, preferably AWS</li> </ul> </li> <li>You have exceptional verbal and written communication skills. You should be able to explain your approach and the impact of your work to non-technical stakeholders in a way that is clear to them.</li> <li>You have a strong product acumen and and are comfortable interacting with customers directly when needed</li> <li>You have the ability to balance business needs, a sense of urgency, and shipping high quality and pragmatic solutions</li> <li>You keep up with the industry trends and identify new tools to use to solve technical problems</li> <br><br></ul><strong><u>Bonus Points If You Have Experience In-<br></u></strong><ul> <li>Working at a high growth startup</li> <li>Working on SaaS software</li> <li>Working in Health Tech</li> <li>Working at companies that have a global presence (e.g. infrastructure deployed in multiple geographies)</li> <li>Working on recommendation systems</li> <br><br></ul><strong><u>Benefits-<br></u></strong><ul> <li>100% coverage for Medical / Dental / Vision </li> <li>Stipend towards mental health benefits</li> <li>401k plan </li> <li>Flexible PTO </li> <li>Passionate team dedicated to making a positive impact</li> <li>Generous parental leave policy</li> <li>Unlimited career growth opportunity</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:17:25.000Z"
+  },
+  "company": {
+    "name": "Modern Health",
+    "link": "https://www.linkedin.com/company/modern-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Recent Grad",
+    "industry": "Internet",
+    "description": "<p><strong>Data Scientist - Recent Grad</strong></p><p><br></p><p>Like to shake things up? We do! eBay hires innovators who can push boundaries and change the world. Put on your entrepreneurial hat, roll up your sleeves and dive head first into eBay\u2019s extensive pools of data. Come with an analytical mindset and a real passion for delivering on business goals. Help eBay take data to the next level.</p><p>We are looking for a motivated machine learning and data science engineering intern to build robust and scalable software and draw insights from massive data sets. We want the highest levels of technical talent and programming skills, as well as a keen desire to deeply understand our products and services to push our technology forward. You\u2019ll work alongside the best and the brightest engineering talent in the industry.</p><p></p><p><strong>Note: By applying to this position, your application will be considered for locations: San Jose, CA; New York, NY; Bellevue, WA; and Austin, TX</strong></p><p></p><p>You are:</p><ul><li>Insightful. Be able to draw conclusions from large Datasets, and help drive business decisions with data-driven thinking</li><li>Inventive. Have the ability to do a lot with a little. Aggregate information from various places and establish relationships with key partners to get the data you need.</li><li>Tech Savvy. Master your tools, and continue to expand your systems knowledge through formal or informal research and training.</li></ul><p></p><p>We need:</p><ul><li>An Excel connoisseur. Know excel backwards and forwards, able to use advanced techniques to collect, display and interpret data.</li><li>SQL expertise. Proficiency in SQL is required. R, Python, Java, and/or C++ are a bonus</li><li>NoSQL Tools. Have familiarity with at least one NoSQL tool; Hadoop, Hive, Spark, Pig, H2O, etc.</li></ul><p></p><p>Basic Qualifications:</p><ul><li>Currently enrolled as a full-time student, have 0-3 years of relevant work experience in an accredited Masters or PhD program within the United States graduating December 2021 - June 2022.</li><li>Enrolled in or pursuing an Master\u2019s or PhD Degree in Data Science, Computer Science, Statistics or related major</li><li>The ability to strike a balance between critical thinking and actual hands-on analyses using tools such as SQL, Python, Tableau.</li><li>Strong technical skills to turn big data into measurable insights. At the same time, you also have the ability to think about the big picture and connect the dots to evaluate how the insights impact eBay\u2019s ecosystem.</li><li>In addition to delivering insights on existing Product &amp; Tech initiatives, you will come up with innovative product growth opportunities based on insights, and create momentum through influence.</li><li>Proactive collaboration and effective communication are critical</li><li>Ability to present complex analyses and insights effectively in simple terms</li><li>Good experience with both descriptive and inferential statistics \u2013 ability to build basic prototype models</li><li>Experience with site experimentation (A/B testing) is a plus</li><li>Creative thinker who knows how to build real-world products</li><li>Curate, Acquire &amp; Maintain Datasets</li><li>Build and handle data in traditional and non-traditional ways.</li><li>Share engineering support, release &amp; on call.</li><li>Estimate, plan &amp; rollout changes</li><li>Key skills: SQL, Java, Python, NoSQL tool ie: Hadoop, Pig, Spark, H2O etc.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-27T18:16:16.000Z"
+  },
+  "company": {
+    "name": "eBay",
+    "link": "https://www.linkedin.com/company/ebay"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97400,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Data Scientists ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-07T13:29:06.000Z"
+  },
+  "company": {
+    "name": "Gnoci",
+    "link": "https://www.linkedin.com/company/gnoci"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington DC-Baltimore Area",
+    "region": null,
+    "postal_code": "21201",
+    "street_address": null,
+    "latitude": 38.873062,
+    "longitude": -77.007385
+  }
+}

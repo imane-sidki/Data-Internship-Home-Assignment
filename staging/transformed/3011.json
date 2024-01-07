@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Luxoft USA Inc, is seeking the following. Apply via Dice today!<br><br>Project DescriptionWe are seeking a highly qualified and talented technologist to join us as a member of our SRE team. Our team focuses on building and automating application deployment pipelines, monitoring tools, infrastructure and configuration management. ResponsibilitiesThe Site Reliability Engineer will be responsible for working with our front office trading team helping them build out their application development pipelines using CICD. You will help build fully automated pipelines for the existing applications. You will help automate an on-demand provisioning environment for the team. The Site Reliability Engineer will help the team migrate to a cloud-first hybrid processing model. The ideal candidate has a strong automation mindset and is always looking for ways to optimize and better development processes. Mandatory Skills Descriptionbull At minimum, five years of experience with DevOps bull Strong Python experience bull Expertise with CICD bull Experience with configuration management tooling - Ansible, Chef, Puppet bull Experience with DevOps technologies such as Git, Jenkins, Maven bull Experience with AWS services (S3, containers ndash ECS EKS, ElasticSearch, Lambda) preferred.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T12:45:51.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

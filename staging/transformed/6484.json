@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - iOS",
+    "industry": "",
+    "description": "<p>SalesRabbit is transforming the field sales industry. Our mission is to help field sales reps have the best chance at success.As a software engineer, you'll work within cross-functional delivery teams alongside other engineers, designers, and product managers in building software to help improve field sales. Our team brings a diverse set of technical and cultural backgrounds and we like tothink pragmatically in choosing the tools most appropriate for the job at hand.</p><p><br></p><p><strong>About Us</strong></p><ul><li>Here aresome of the ways we bringvalue to field reps: https://www.salesrabbit.com/features</li><li>Ourweb applications arebuiltprimarilyusing PHP with Lumen and the team is migrating to Elixir</li><li>We have iOS and Android apps that are our primary delivery platforms</li><li>Our production application stack is hosted on AWS</li><li>We use Gitlab for our repos and CI/CD</li><li>We have a mix of distributed and in-office engineers</li></ul><p><br></p><p><strong>Our company core values</strong></p><ul><li>Grit</li><li>Gratitude</li><li>Curiosity</li></ul><p><br></p><p><strong>Our recruiting process</strong></p><ul><li>Phone conversation</li><li>1 hour pairing interview</li><li>30 minute skill interview</li><li>30 minute values interview</li></ul><p><br></p><p><strong>Here's How You Will Make an Impact</strong></p><ul><li>Build features and improve stability on our ios app to enable field reps to be more effective</li><li>Assist in the development of APIs</li><li>Help drive the product direction and achieve a market fit for new products</li><li>Increase our automated test coverage and deployment infrastructure robustness</li><li>Address security concerns and proficiently maintain our mobile stack</li></ul><p><br></p><p><strong>About you</strong></p><ul><li>You have at least five years of professional experience creating software with iOS and using Objective-c/Swift</li><li>You are a problem solverwitha passion for simple, clean, and maintainable solutions</li><li>You have experiencewriting automated tests and appreciate the benefit that tests offer</li><li>You are self-motivated and able to manage yourself</li><li>You agree that concise and effective written and verbal communication is a must for a successful team</li><li>You have experience working on a few mid-size web applications and Javascript projects</li><li>You are able to work within our core business hours of 9AM to 2PM MST</li></ul><p><br></p><p><strong>Benefits</strong></p><p>We\u2019ve got great medical/dental/vision/life, 401K matching, and access to all the tools you need to do your job well.</p><p><br></p><p><em>SalesRabbit is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:35:25.000Z"
+  },
+  "company": {
+    "name": "SalesRabbit, Inc.",
+    "link": "https://www.linkedin.com/company/sales-rabbit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

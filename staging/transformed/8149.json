@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple Pay Server Engineering is the place to be if you are interested in working on awesome technology that is used by millions of people every single day! As part of the Apple Pay Server Engineering team, you will have the opportunity to explore and contribute to a wide variety of interesting projects within Apple Pay. If you meet the key qualifications and you are self-driven, enthusiastic, highly motivated, and you want to make an impact, we'd love to hear from you!<br><br> <br><strong>Key Qualifications<br></strong> <br>Minimum 4+ years relevant industry experience<br><br>Experience writing server software in Java or C/C++ or C#<br><br>Experience/Knowledge working on highly scalable applications and RESTful web services<br><br>Knowledge of databases both SQL and NoSQL<br><br>Familiarity with scalability and performance issues<br><br>Understand software development process from inception to delivery of code to production<br><br>Strong Computer Science background<br><br>Experience/understanding of security and cryptography (not mandatory)<br><br> <br><strong>Description<br></strong> <br>- Responsible for designing and developing highly reliable, scalable server platforms with attention to detail <br><br>- Follow our software development process including writing unit tests, perform code reviews etc. - Ability to learn and apply new technologies quickly <br><br>- Work effectively with cross-functional teams to develop features <br><br>- Provide support for production deployments <br><br>- Demonstrate ability to deliver results on time with high quality<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor in Computer Science or equivalent<br><br> <br>Role Number: 200284886<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T05:22:01.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75600,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

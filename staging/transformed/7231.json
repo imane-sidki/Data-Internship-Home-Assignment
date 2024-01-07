@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Must have Skills</strong> : Strong Implementation ofmachine learning algorithms (k-NN, Ensemble Methods; Boosting, Bagging, Support Vector Machines (SVM), Random Forests, ML Models) ,Deep Learning (CNN, RNN) usingTensorFlow. Good Hands-on Knowledge in Python, SQL and Linux.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T23:32:29.000Z"
+  },
+  "company": {
+    "name": "Tech Mahindra",
+    "link": "https://in.linkedin.com/company/tech-mahindra"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

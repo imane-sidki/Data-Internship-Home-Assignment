@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "<br><strong>Do what you love. Love what you do. <br><br></strong> At Workday, we help the world\u2019s largest organizations adapt to what\u2019s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we\u2019re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. <br><br><strong>Job Description<br><br></strong><strong>About the Team &amp; the role <br><br></strong> Will be part of the Prism Public APIs &amp; Configurable Security team at Workday's Prism Analytics: <br><ul><li> The opportunity here is to work with a team that is leading the way in building an interactive, fully integrated, big data analytics platform that provide our customers ways to create a data warehouse on the cloud and perform rich analysis and visualizations on their data. </li><li> Building scalable and robust Internal and External facing APIs that will support enablement of Data Orchestration. </li><li> Implementing and maintaining Prism Configurable Security which controlled by Workday's configurable security model, where it flexibly enables different data access levels for different data consumers within the system. </li><li> Responsibility for migration of Prism Objects between customer tenants. </li><li> You will be working on building a cutting-edge Data Orchestration Engine which will enable data-driven processes from end-to-end, including preparing data, making decisions based on that data, and taking actions based on those decisions <br><br></li></ul><strong>About You <br></strong><ul><li>An exceptionally strong individual contributor that can tackle hard technical problems with optimism and positivity.</li><li> You can design and lead substantial features with a strong focus on non-functional requirements. (scalability, performance, monitoring, maintenance, security, usability and quality etc.) \u2028 </li><li> The challenge of architecting and building a robust platform geared for Big Data processing excites you. </li><li> You take initiative/ownership to drive projects to completion and overcome roadblocks with positivity and creativity. \u2028 </li><li> You are able to juggle priorities and make the right tradeoffs in feature content and timely delivery of features while ensuring customer success and technology leadership for the company. </li><li> Worked in agile teams. </li><li> Either back-end or full-stack developer with 5+ years of experience with Web application development and SaaS (Software as a Service). <br><br></li></ul><strong> You have strong experience with: <br></strong><ul><li>OO design and Java development.</li><li>API development, security, and performance.</li><li>Experience with A PI tools like Postman, SOAP UI, JMeter, Swagger etc. </li><li>SaaS security infrastructure, WS-Security, Configurable Data Security, Identity and Access Management (IAM)</li><li>Large-scale, distributed, and highly concurrent systems.</li><li>Metadata-driven definitional development experience.</li><li>Web servers, databases, SQL, REST, JSON, XML and persistence frameworks like Hibernate.</li><li> Technology agnostic is ok with you and you are always willing to learn new technologies to solve business problems. </li><li> MS in Computer Science or related field and 3+ years relevant software development experience or BS in Computer Science or related field and 5+ years relevant software development experience. <br><br></li></ul><strong>Bonus Skills : <br></strong><ul><li> Workday Configurable Security <br><br></li></ul><strong>San Francisco Fair Chance Ordinance<br><br></strong>Pursuant to the San Francisco Fair Chance Ordinance, Workday will consider for employment qualified applicants with arrest and conviction records.<br><br> Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:03:22.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 105000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

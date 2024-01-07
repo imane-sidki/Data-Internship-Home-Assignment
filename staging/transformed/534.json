@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Medical Devices,Health, Wellness and Fitness,Hospital & Health Care",
+    "description": "<strong><u>Company Description<br><br></u></strong>iHealth Labs is on a mission to inspire and enable people to manage diabetes and hypertension. We are working side by side with patients and doctors in the US. iHealth is a Sunnyvale-based healthcare and technology startup that introduced the first smartphone-connected blood pressure monitor in the world and is offering a line of award-winning mobile health devices.]<br><br>If you&apos;re ready to guide technical decision-making and work hands-on in the health care industry, this is the job for you. Our core product includes a web application built in React, mobile applications written in React Native and our award winning IoT devices.<br><br>As a key member of our engineering team, you will help design, build, and maintain systems necessary to continue our rapid growth. You should be motivated to learn new technologies and be ready to drive technical work.<br><br><strong><u>Job Description<br></u></strong><ul><li>Design, implement and extend core platform services to enable new products and features to be built, using React, Python, KUbernetes, Kafka, aws gears and GraphQL;</li><li>Use Nodejs and Mocha, Jest and other libraries to help complete the integration test for Graphql and Restful interfaces to ensure continuous integration with Jenkins; </li><li>Architect and build the next version of our data-processing pipeline and a version control solution for data analysis;</li><li>Use Python, Numpy, Pandas and other tools for data analysis and aws quicksight for data visualization; </li><li>Analyze/debug performance issues across distributed services; </li><li>Work with the product development team to design, build, and maintain backend systems and services that support the team\u2019s roadmap;</li><li>Drive engineering efforts and partner with product owners to create technical requirements; </li><li>Provide strong technical feedback to other engineers through code review, engineering design reviews, and collaborative problem-solving sessions; </li><li>Help the team define and maintain development practices that let us iterate quickly while maintaining quality \u2014 including writing tests and documenting key implementations; </li><li>Learn about new tools and technologies to solve problems and move our goals forward. </li></ul> Qualifications<br><ul><li>3+ years relevant software product development experience</li><li>Excellent knowledge of design patterns</li><li>Strong development skills, knowledge on NodeJs would be a plus.<br></li></ul>Additional Information<br><br>All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T00:00:00.000Z"
+  },
+  "company": {
+    "name": "iHealth Labs",
+    "link": "https://www.linkedin.com/company/ihealth-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91500,
+    "max_value": 198700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Banking,Financial Services",
+    "description": "<strong>App Support Lead<br><br>Whippany, NJ<br><br></strong>As a Barclays App Support Lead you will be working in the Fraud Landscape in Cards &amp; Payments Run the Bank Team within Dedicated Services organization and will be directly accountable for providing L2 application support. You will get the opportunity to provide SME assistance to other Technology &amp; Operations Teams, driving project engagement to onboard new changes into production and continually identify opportunities to automate and make Cards &amp; Payments Technology estate reliable.<br><br>Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We've helped millions of individuals and businesses thrive, creating financial and digital solutions that the world now takes for granted. An important and growing presence in the USA, we offer careers providing endless opportunity.<br><br><strong>What will you be doing?<br><br></strong><ul><li> Driving complex and major incidents to resolution by owning the e2e incident</li><li> Putting together Technical Incident Post Mortem (TIPM) documents for major incidents</li><li> Owning the problem management function and working on to reduce the open problems by implementing fixes, working with component teams</li><li> Reviewing functional requirements, HLD, SDR and providing point of view by collaborating with the project teams</li><li> Reviewing test strategy, test cases &amp; test results and providing inputs</li><li> Contributing in Operational Acceptance Testing (and Execute wherever possible) to ensure the new systems are production-ready</li><li> Ensuring systems are built resilience-ready and collaborate with project to complete the mandatory resilience testing for each component</li><li> Providing early life support of new projects<br><br></li></ul><strong><strong>What We\u2019re Looking For<br><br></strong></strong><ul><li> Excellent domain knowledge in banking or financial sector (within Fraud Technology) with an exposure to Agile Delivery for large scale and complex real-time systems</li><li> Cloud Technologies such as AWS and/or RedHat OpenShift with orchestration/ automation tools such as Jenkins and Chef</li><li> Support experience for apps written in Java/ J2EE and code-debugging skills; ability to perform analytics investigations on diagnostics thread-dumps, memory dumps</li><li> Knowledge on monitoring tools such as AppDynamics, Kibana, Netcool, ITRS Geneos<br><br></li></ul><strong>Skills That Will Help You In The Role<br><br></strong><ul><li> Experience writing &amp; reading Shell, PL/SQL scripts</li><li> Experience in NoSQL based native-cloud database such as Aerospike or Cassandra</li><li> Knowledge of enterprise RDBMS databases such as Oracle and SQL Server</li><li> Working knowledge of Network Technologies such as Load Balancers &amp; Firewalls<br><br></li></ul><strong>Where will you be working?<br><br></strong>At Barclays, we are proud to be redefining the future of finance and here at Whippany we are defining the future of the workplace and the future of the way we work and live. We are creating a unique community, one of four strategic tech-enabled hubs that will redefine opportunity for everyone who works here. Whatever you do at Whippany, you\u2019ll have every chance to build a world-class career in this world-class environment.<br><br>90282603",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T17:16:40.000Z"
+  },
+  "company": {
+    "name": "Barclays",
+    "link": "https://uk.linkedin.com/company/barclays-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96500,
+    "max_value": 130000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Whippany",
+    "region": "NJ",
+    "postal_code": "07981",
+    "street_address": null,
+    "latitude": 40.824894,
+    "longitude": -74.41804
+  }
+}

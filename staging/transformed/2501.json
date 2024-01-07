@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Locations: NY - New York, United States of America, New York, New York<br><br>Machine Learning Engineer<br><br>As a Capital One Machine Learning Engineer, you'll be part of an Agile team dedicated toproductionizing machine learning applications and systems at scale. You\u2019ll participate in thedetailed technical design, development, and implementation of machine learning applicationsusing existing and emerging technology platforms. Working within an Agile environment, you\u2019llfocus on machine learning architectural design, develop and review model and application code,and ensure high availability and performance of our machine learning applications. You'll havethe opportunity to continuously learn and apply the latest innovations and best practices inmachine learning engineering to keep Capital One at the cutting edge of technology.<br><br>We are seeking Software Engineers who are passionate about marrying data with emerging technologies to join our team. As a <u>Capital One Software Engineer</u>, you\u2019ll have the opportunity to be on the forefront of driving a major transformation within Capital One. Learn more about <u>#lifeatcapitalone</u> and our commitment to <u>diversity &amp; inclusion</u> by jumping to <u>slides 76-91</u> on our Corporate Social Responsibility Report. This requisition is an advertisement for multiple opportunities within our Tech organization. By applying to this particular role, you'll also be considered for other roles within Capital One's Engineering Organization.<br><br><strong><u>What You\u2019ll Do In The Role<br></u></strong><ul><li>Deliver ML software models and components that solve real-world business problems, while working in collaboration with the Product and Data Science teams.</li><li>Solve complex problems by writing and testing application code, developing and validating ML models, and automating tests and deployment. </li><li>Collaborate as part of a cross-functional Agile team to create and enhance software that enables state-of-the-art, next generation big data and machine learning applications.</li><li>Leverage cloud-based architectures and technologies to deliver optimized ML models atscale. </li><li>Construct optimized data pipelines to feed ML models. </li><li>Use programming languages like Python, Scala, or Java. </li><li>Leverage continuous integration and continuous deployment best practices, includingtest automation and monitoring, to ensure successful deployment of ML models andapplication code. <br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor\u2019s degree. </li><li>At least 1 year of experience designing and building data-intensive solutions using distributed computing.</li><li>At least 1 year of experience programming with Python, Scala, or Java. </li><li>At least 1 year of Machine Learning experience with an industry recognized ML framework (scikit-learn, PyTorch, Dask, Spark, or TensorFlow). <br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience developing and deploying ML solutions in a public cloud such as AWS, Azure, or Google Cloud Platform. </li><li>Master's or doctoral degree in computer science, electrical engineering, mathematics, or a similar field. </li><li>At least 1 year of experience working with large code bases in a team environment.</li><li>At least 1 year of experience with distributed file systems or multi-node database paradigms. </li><li>Contributed to open source ML software.</li><li>At least 1 year of experience building production-ready data pipelines that feed ML models.<br></li></ul>At this time, Capital One will not sponsor a new applicant for employment authorization for this position.<br><br>Job Category - Information Technology, Engineering, Technology Explorers, Technology Explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T05:17:45.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": " Data Engineer - Machine Learning",
+    "industry": "Management Consulting",
+    "description": "<p>io173 is partnered with multiple Management Consulting firms to scale up their Data Engineering teams supporting Machine Learning for advanced analytics solutions. Our client's primary focus is on end-to-end development of analytics solutions and their deployment at scale.</p><p><br></p><p>Qualified candidates will have experience in Machine Learning Operations/Data Engineering building end-to-end data Pipelines for ML consumption. Experience outside ML Data Engineering is a plus but you MUST have experience on ML projects.</p><p><br></p><p><strong>Required Experience:</strong></p><p>2-5 years experience in MLOperations/ML Data Engineering developing end-to-end data pipelines for machine learning solutions.</p><p>Experience in distributed computing, specifically putting PySpark code into production.</p><p><br></p><p><strong>Core Required Skills:</strong></p><p>Python programing- Advanced</p><p>SQL- Advanced</p><p>PySpark- intermediate to Advanced</p><p><br></p><p><strong>Expectations:</strong></p><p>This role will require approximately 40-50% travel to meet with client teams.</p><p>Must be located in a location commutable to one of our client's major hubs: Boston, Atlanta, Chicago, New York City.</p><p><br></p><p>We will not consider C2C candidates for this role, only direct-hire candidates.</p><p><br></p><p>io173.com acts as an employment agency for permanent recruitment. By applying for this job you accept the Terms &amp;Condition's, Privacy Policy and Disclaimers which can be found at io173.com</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:41:37.000Z"
+  },
+  "company": {
+    "name": "io173",
+    "link": "https://uk.linkedin.com/company/io173"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

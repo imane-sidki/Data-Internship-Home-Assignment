@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Data Engineer - Analytics Platform",
+    "industry": "Retail",
+    "description": "<p><strong>About the Role</strong></p><p>As a team member of the Plan, Book and Allocate organization, we\u2019re looking for a Software Engineer who will actively participate in requirement gathering and technical design discussions. This role will design highly scalable and high performing technology solutions in an Agile work environmentand produce and deliver code and/or test cases using Agile practices. This individual will work closely with business support teams and product managers toassist in resolving critical production issues help simplify and improve business processes through the latest in technology and automation.</p><p>This individual will need to stay current on the latest in technology and methodology in the market and be able to perform proof of concepts to better understand how they fit into the Gap landscape and to apply usefulness and effectiveness to the organization upon adoption. The role isresponsible for technical and architecture implementation against the agreed scope and quality of the end product delivered. The key business partners that will works closely with this team member are the Product Architect, Technical Lead, Technical Manager, Product manager and Scrum Master in order to balance product architecture and to meet delivery timeline.</p><ul><li>Provisioning, configuring, and monitoring batch analytics pipelines with technologies like Spark/databricks, Kafka and Event hubs on Cloud Microsoft Azure or other major cloud platform.</li><li>Containers and container orchestration using Docker, or Kubernetes</li><li>Developing CI/CD pipelines for automating testing and delivery of software products</li><li>Utilizes and champions best coding practices</li><li>Provisioning, configuring, and monitoring Azure cloud services</li><li>Python scripting</li><li>Deployment of applications, infrastructure, upgrades, and changes to platform capacity.</li><li>Maximize system uptime and availability and ensuring functional and performance SLAs Responsible for establishing end-to-end monitoring and alerting for various systems.</li><li>Creating ETL/Ingestion jobs using Apache Spark and monitor/maintain the jobs on Cloud (Azure)</li><li>Identify and surface performance and optimization oppurtunities and implement caching to improve the performance of derived views and using different joint methodologies like hash, nested, and merge.</li><li>Schedule jobs using Scheduler and importing and exporting views to different databases and pre-prod environments and document the best practices and be actively involved in design discussions</li></ul><p><strong>Who you are</strong></p><ul><li>Bachelor's degree in computer science or equivalent experience and5+ years of software development experience</li><li>Experience with Docker, Kubernetes, Puppet, Chef, Ansible</li><li>Experience with NewRelic or similar monitoring platforms</li><li>Experience with Azure DevOps, GitLabs, Maven, Gradle, Jenkins, CodeFresh or other CI/CD tools</li><li>Strong knowledge of Hadoop and associated technologies such as MapReduce and Spark</li><li>Hands-on experience in the DevOps model, production support and Agile methodologies as well understanding the concepts of MLOps</li><li>Experience in using containerization technologies and cloud, Azure and Pivotal Cloud Foundry preferred</li><li>Familiarity with Messaging Technology such as Kafka, experience in using CI/CD tools such as</li><li>Possess strong analytical and problem-solving skillsand proven ability to think objectively and interpret meaningful themes from quantitative and qualitative data</li></ul><li></li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:20.000Z"
+  },
+  "company": {
+    "name": "Gap Inc.",
+    "link": "https://www.linkedin.com/company/gap-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Y &amp; L Consulting Inc., is seeking the following. Apply via Dice today!<br><br>Duration 12 months or contract to hire. Searching for a Software Development Engineer to code, test and deploy Java applications which support Person to Person applications. Job Description A Software Development Engineer designs, develops, tests, installs, and maintains systems, applications, networks, andor telecom and related processes to meet the functional objectives of the business. Assesses system, application, network, andor telecom needs, provides modeling and simulation consulting to clarify client technology functionality, and evaluates and implement new advanced technologies. Ensures adherence to established technology standards and consults with senior leadership on technology solutions. Supports existing systems and is responsible for leading technical aspects of a project. Responsible for assigning resources and delegating tasks to meet project deliverables. Skills needed are below Experience writing REST APIs using Java J2EE, Spring framework. Experience with Oracle Database and must be fluent in basic SQL and stored procedures Experience developing unit and integration tests, along with experience Experience with Application server. E.g., WEBLOGIC, JBOSS etc. Experience with caching framework like Memcache, Redis etc. Experience working in an Agile software development environment",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T22:00:57.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dublin",
+    "region": "OH",
+    "postal_code": "43002",
+    "street_address": null,
+    "latitude": 40.099564,
+    "longitude": -83.113815
+  }
+}

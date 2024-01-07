@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>Senior Software Engineer (Site Reliability)</p><p><br></p><p><strong>Who are we?</strong></p><p><strong>We are America's Workforce Specialists. The largest light industrial staffing company in the United States and a preeminent resource for professional staffing. We offer local expertise and service through our nearly 600 branches and provide a full range of employment solutions to companies nationwide!</strong></p><p><strong>What are we looking for?</strong></p><p><strong>Our Corporate office is looking for a Senior Software Engineer to join our remote platform engineering team. You will be developing core frameworks, components, and services that will be the foundational pieces for our suite of applications. We are a dynamic team of various skillsets and need someone who has a background in Database administration or Security. This position is 100% remote; the ideal candidate will be based in the Central or Eastern time zone.</strong></p><p><strong>Primary Responsibilities:</strong></p><ul><li>Design, develop, and maintain infrastructure components that will be used to build out our <strong>AWS </strong>cloud infrastructure environments for software engineering teams</li><li>Developing reusable <strong>Terraform</strong> modules that are secured in <strong>GitHub </strong>source control</li><li>Build into and enhance the <strong>continuous integration / continuous delivery</strong> pipelines</li><li>Conduct infrastructure reviews using the <strong>AWS Well Architected Tool</strong></li><li><strong>Exhibit a leadership </strong>style and be a <strong>force multiplier</strong> that helps to grow others around the organization</li><li>Evaluate and integrate application tools into our application ecosystem: Examples: Logging, Monitoring, Feature Toggling, Static Code Analysis, Testing, Secrets Management, Artifact Repository, etc.</li><li>Be a collaborative team player working on an agile <strong>scrum</strong> team</li><li>A curiosity to understand the inner workings of our systems and a focus on <strong>continuous improvement</strong> of our applications and services to ensure the highest level of customer satisfaction</li><li>Participate in agile <strong>scrum</strong> activities and ceremonies</li><li>Provide <strong>production support</strong> for infrastructure and tooling issues that may arise during business hours</li></ul><p> </p><p><strong>Requirements:</strong></p><ul><li>Specific expertise in one of the following areas: <strong>Database Administration or Security</strong></li><li><strong>Solid experience with Terraform</strong></li><li><strong>A passion </strong>for technology and providing <strong>innovative ideas </strong>to help the company be a standout engineering organization in the staffing industry</li><li>Bachelor's Degree in Computer Science, Computer Engineering or related technical experience</li><li><strong>5+ years</strong> of relevant, <strong>hands-on</strong> software engineering experience</li><li>Experience working on <strong>enterprise-level</strong> applications</li><li>Experience with the application build process and integration and deployments to on-prem and cloud environments like <strong>AWS</strong></li><li><strong>Experience building core components and services for alerting, monitoring, logging, builds, deployments, authentication, authorization, and many more</strong></li><li><strong>Ability to work in a team environment independently, pairing, and possibly doing mob programming</strong></li><li><strong>Experience evaluating and implementing best practices tools and techniques for software development, leading code reviews, and coaching/mentoring engineers</strong></li><li><strong>Experience supporting AWS production environments</strong></li></ul><p> </p><p><strong>Pluses</strong>:</p><ul><li>Cloud certification in AWS</li><li>Administering managed database services in AWS</li><li>Familiar with security tooling from Palo Alto \u2013 Prima Cloud, Cortex XDR, Panorama</li><li>Experience with Configuration Management tools such as Ansible</li><li>Experience with CI/CD tools such as Github Retrieve, Jenkins or Gitlab</li></ul><p> </p><p> </p><p>EmployBridge offers a competitive benefits package, which includes: comprehensive Health coverage including Medical/Dental/Vision and prescription drug benefits, 401(k), paid time off and holidays, flexible spending accounts, and a wellness program.</p><p>EmployBridge is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T14:46:54.000Z"
+  },
+  "company": {
+    "name": "EmployBridge",
+    "link": "https://www.linkedin.com/company/employbridge"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

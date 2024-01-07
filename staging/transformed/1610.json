@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>We are looking for multiple excellent software engineers to join our team. You are a good fit if </p> <p>you love to get hands-on and solve any problem on the way to building our first product, which </p> <p>can include obtaining and cleaning data, training ML models, putting models into production, </p> <p>front-end and back-end development, and more. You have an enthusiastic attitude and you </p> <p>know how to combine scrappiness with discipline and quality. </p><p><br> </p><p>Responsibilities: </p><p><br> </p> <ul><li>Create point-in-time data repositories updated in real time or daily </li><li>Understand the fixed income domain in detail and prepare data using this understanding </li><li>Train state of the art deep learning models using TensorFlow </li><li>Productionize models in APIs that are easy to use by our customers </li><li>Build web interfaces for human consumptios </li></ul><p><br> </p><p>Qualifications: </p><p><br> </p> <ul><li>Degree in computer science or a related area </li><li>Excellent communication and interpersonal skills </li><li>Significant experience as a professional software engineer </li><li>Strong interest in capital markets and in joining a startup </li><li>Preferred: Experience with Python, cloud computing, TensorFlow, and serverless </li><li>Preferred: Experience building for high availability, low latency, and high throughput </li><li>Preferred: Degree in finance or similar qualification such as CFA </li><li>Preferred: Ability to grow rapidly into a manager, and/or into a principal engineer </li></ul>        <p><br> </p><p>What We Offer: </p><p><br> </p> <ul><li>Diverse and inclusive environment committed to equal opportunity </li><li>Excellent salary, equity, health insurance, 401K, and other benefits </li><li>Opportunity to work directly with founders who include a top professor of machine learning, a successful serial entrepreneur, and a managing director from a top-ranked investment bank </li><li>Rapid U.S. visa sponsorship available</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T17:41:43.000Z"
+  },
+  "company": {
+    "name": "ficc.ai",
+    "link": "https://www.linkedin.com/company/ficc-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Seattle Area",
+    "region": null,
+    "postal_code": "98109",
+    "street_address": null,
+    "latitude": 47.591396,
+    "longitude": -122.33279
+  }
+}

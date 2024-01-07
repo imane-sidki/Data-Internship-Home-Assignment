@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Pharmaceuticals,Biotechnology",
+    "description": "<p><strong><u>2 Different requirements with the same client</u></strong></p><p><br></p><p><strong><u>ML Engineer - Natural Language Processing </u></strong></p><p><strong><u>Fulltime \u2013 Permanent \u2013 100% Remote </u></strong></p><p>Picture yourself working on ground breaking technologiesand solutions that are at the intersection of machine learning and NLP.In the Language Intelligence team, we bring together machine learning, linguistics and software to power millions of smart homes with insights that impact daily lives. We are looking for a creative and passionate machine learning engineer to drive innovation and new features that help to uniquelyidentify consumer devices and their behavior.</p><p></p><p><strong>Who you are</strong></p><ul><li>You have a strong background and<strong>at least 2 years experience as an NLP Engineer</strong></li><li><strong>Knowledge of the latest NLP-related algorithms and methods</strong>such as transformers, sequence-to-sequence models, word and sentence embeddings, attention, etc.</li><li>You have<strong>deep understanding of text representation techniques</strong>(such as n-grams, bag of words, sentiment analysis etc), statistics and classification algorithms</li><li>You have the ability to write robust and testable code in Scala or Python, or similar languages</li><li>Experience with TensorFlow, pyTorch, and/or AWS Cloud Platform is a plus</li><li>Experience with networking data and protocols is a plus</li><li></li></ul><p><strong>What you'll do</strong></p><ul><li>Build machine learning models that run efficiently on multiple foreign languages</li><li>Find and implement the right algorithms and tools for NLP tasks</li><li>Derive features from both user generated andnetwork generated text data</li><li>Collaborate with a cross functional agile team spanning design, data science, product management, and engineering to build new technologies and features</li></ul><p><br></p><p><br></p><p><strong><u>Data Scientist - Networking</u></strong></p><p><strong><u>Fulltime \u2013 Permanent \u2013 100% Remote </u></strong></p><p>The mission of the Data Science team is to leverage state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can automatically monitor, detect and remediate common network issues. The team includes a group of experienced and talented data scientists and ML engineers who build the end-to-end data analytics infrastructure and ML models for our products.</p><p>We are looking for a Senior Data Scientist to join our growing CyberSecurity team to protect Smart Home from cyber-attacks. As a data scientist, you will collaborate with product managers and domain experts to mine network data, understand threat landscape, use your deep DS/ML knowledge to develop data-driven solutions with terabytes of data, and work closely with ML engineers to implement and scale the models in production.</p><p><strong>Who you are</strong></p><ul><li>You have a strong background as a data scientist, and have<strong>at least 2+ years hands on experience</strong>with<strong>computer networking data or cyber-security</strong></li><li><strong>Experience working with DHCP/UpNP/User agent and mDNS data is highly desirable</strong></li><li><strong>3+ years\u2019 experience building data science-driven solutions including data collection, feature selection, model training, and post-deployment validation</strong></li><li><strong>Excellent understanding of machine learning techniques and algorithms, including clustering, anomaly detection, optimization, neural network, etc.</strong></li><li><strong>Strong hands-on coding skills (preferably in Python) processing large-scale data and developing machine learning models</strong></li><li><strong>Familiarity with one or more machine learning or statistical modeling tools such as Numpy, ScikitLearn, MLlib, Tensorflow</strong></li><li><strong>Good team worker with excellent written and verbal communication skills</strong></li></ul><p><strong>What you'll do</strong></p><ul><li>Build machine learning models to extract device features using active or passive networking techniques</li><li>Run these models efficiently on the edge and in cloud pipelines to improve the well-being and security of our users</li><li>Drive optimization, testing, and tooling to improve quality</li><li>Prototype new approaches and build solutions at scale</li><li>Perform data analysis to establish baselines and inform product decisions</li><li>Collaborate with a cross functional agile team spanning design, data science, product management, and engineering to build new technologies and features</li></ul><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-09T00:39:51.000Z"
+  },
+  "company": {
+    "name": "Netpace Inc",
+    "link": "https://www.linkedin.com/company/netpace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

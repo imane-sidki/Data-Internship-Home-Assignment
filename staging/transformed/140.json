@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Our team vision is simple: We want to provide the best product imagery in the industry to empower customers to make informed purchasing decisions.<br>We develop the systems that enable the business to collect, evaluate, and present high-quality photos to customers at scale. We partner with many different teams across Amazon, and apply a mix of workflows, image processing, computer vision, and machine learning to solve problems at Amazon scale. We continually innovate to detect the images we don\u2019t want customers to see, ensure the best images we have are the ones we show, and predict what the next generation of ideal product imagery should look like.<br><br>Imaging Quality offers a dynamic workplace that is fueled by innovation and passionate collaboration in a highly multidisciplinary team. We take pride in developing cutting-edge technologies and products that are optimized for the best customer experience. Through technology, we seek to constantly increase the quality of photos, videos, and other visual media, to lower the cost of curating content, and to create innovative imaging products.<br><br>As a Machine Learning Engineer you will work side-by-side with science and engineering teams to build automation and image processing technology at scale. Your work will enable models to get to market faster, automate the evaluation and improvement of ML results, and multiply the impact the entire team will have on behalf of our customers.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li><li> 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.</li><li> 2+ years of non-internship professional software development experience</li><li> 3+ years\u2019 experience managing large, multiple cross-functional teams and stakeholders in program/project management, or consulting in a technical field</li><li> 3+ years\u2019 defining, planning, delivering and measuring programs with global scope or complexity</li><li> 3+ years\u2019 experience interpreting data, finding root cause and making business recommendations</li><li> Must possess excellent, structured written and verbal communication skills<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Master's Degree in Computer Science (Machine Learning, AI, Statistics, or equivalent)</li><li> Familiarity with Computer Vision, Image Processing, or Signal Processing domains</li><li> Experience with common machine learning techniques such as preprocessing data, training and evaluation of classification and regression models, and statistical evaluation of experimental data.</li><li> Experience building workflows involving large dataset and/or machine learning models in production using distributed computing and big data processing concepts and technologies.</li><li> Experience building complex software systems that have been successfully delivered to customers</li><li> Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations</li><li> Ability to take a project from scoping requirements through actual launch of the project<br><br></li></ul><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1561557",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T13:38:43.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80900,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

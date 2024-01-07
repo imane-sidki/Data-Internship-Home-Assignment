@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Retail",
+    "description": "<p>The<strong>Senior Test Engineer</strong>in this <strong><em>full time/permanent 100% remote role </em></strong>with our direct client is responsible for coordinating, overseeing and potentially executing all exploratory and end-to-end testing efforts based on product team deliverables. In addition, the Senior Test Engineer is expected to build a solid relationship with the product team(s) members that he or she supports and pair (programming) with the Software Engineers periodically in order to gain an understanding of the inner workings of the software code that is being delivered.</p><p></p><p><strong>Test Engineer Requirements:</strong></p><ul><li>Bachelor's Degreein Computer Science or MIS, and/or related industry experience</li><li>5- 7 years of experience</li><li>Extensive Test Engineering experience is required.</li><li>Experience with SQL and relational databases</li><li>Extensive knowledge of Microsoft Test Manager, Enterprise Tester or equivalent technology</li><li>Extensive experience with test automation tools and application monitoring tools such as AppDynamics or Elk</li><li>Extensive experience with TFS, JIRA or equivalent technology as well as Confluence, Wiki or similar Technologies</li></ul><p></p><p><strong>Role Expectations:</strong></p><ul><li>Expected to be an expert at designing effective test charters, test scenarios, automation scripts and gray box or white box tests as necessary to efficiently test the functionality and integration across multiple (3+) products while identifying and logging system application defects and their causes.</li><li>Capable of reviewing the product design, data design and checking the code for testability and reliability and expected to work with the Dev and Ops teams to plan, develop and execute automated tests continuously.</li><li>Capable of providing oversight and ensuring that all defects, risks and progress are reported to the appropriate managers according to the company SDLC expectations.</li><li>Comfortable with representing the Test Engineering Department and providing test related services.</li><li>May also be asked to mentor other test engineers and is expected to quickly become a Subject Matter Expert and voice of reason when decisions need to be made.</li></ul><p></p><p><strong>Responsibilities</strong>:</p><ul><li>Develop the Test Strategy, high quality test charters, automated tests and other test artifacts such as test data and data validation.</li><li>Execute or coordinate the execution of exploratory, automated and end-to-end tests</li><li>Work closely with software engineers on the product teams to gain an in-depth understanding of the software code being delivered as well as contribute to the coding of software within the product teams.</li><li>Track and report progress of test efforts, risks and defect status to the product team as required by management as well as recommendations for risk mitigation.</li><li>Continuously improve the organization by establishing and implementing departmental policies and procedures and championing the science of software testing within the IT department, including continuous integration and continuous development (CI/CD) strategies.</li><li>Artifact review, mentoring and workload management for junior members.</li><li>Lead a small team of junior/senior Test Engineers.</li></ul><p></p><p><strong>Additional Requirements:</strong></p><ul><li>Experience working with test frameworks such as JUnit, Nunit, Jasmine, Mocha as well as tools such as Postman, SoapUI, API testing tools, Gherkin and/or Cucumber.Linux experience is a plus.</li><li>Experience Developing software in any modern Object Oriented programming language and comfortable with Test Driven Development (TDD) and Behavioral Driven Development (BDD) practices</li><li>Retail application experience is preferred.</li><li>CSQA/CSQTE, ISTQB or equivalent certification a plus</li><li>Ability to facilitate the testing of multiple fast moving projects simultaneously</li><li>Ability to jump into a new application and quickly learn how it functions and train others on the topic</li><li>Ability to maintain and appropriately manage changing priorities for yourself and junior test engineers</li><li>Responsible for coordinating with multiple teams (3+) and testing across multiple systems to support a testing effort</li><li>Must have superior analytical skills to proactively mitigate risks before they materialize into problems</li><li>Confident with directing/coaching junior testers or another team's resources in a coordinated testing effort and willing to take direction from Leads and/or Managers as well</li><li>Comfortable with reviewing system designs, assessing code impacts, planning testing, and making minor coding changes/enhancements if necessary.</li><li>Confident in identifying tests that are good candidates for automation and converting them into automated tests</li><li>Remain calm under stress, provide support/direction to the team and show a \"can do\" spirit at all times</li><li>Contribute suggestions and best practices to benefit the larger testing organization, including the incorporation of VALET metrics to ensure the quality and performance of the supported system(s).</li><li>Ability to assist with removing obstacles and keeping multiple testing efforts moving in parallel.</li><li>Established subject matter expert in a variety of areas; able to clearly communicate knowledge to others.</li><li>Comfortable with pairing with software engineers to gain a high-level understanding of the software that is being developed</li><li>Able to build strong exploratory testing foundations and be a strong advocate for end user experience and customer empathy by participating in stakeholder, teammates and customer interviews</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T16:07:04.000Z"
+  },
+  "company": {
+    "name": "Revel IT",
+    "link": "https://www.linkedin.com/company/revel-it"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

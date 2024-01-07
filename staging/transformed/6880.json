@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Internet",
+    "description": "Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.<br><br>Facebook Reality Labs (FRL) focuses on delivering Facebook's vision through Virtual Reality (VR) and Augmented Reality (AR). The compute performance and power efficiency requirements of Virtual and Augmented Reality require custom silicon. Facebook Silicon team is driving the state of the art forward with breakthrough work in computer vision, machine learning, mixed reality, graphics, displays, sensors, and new ways to map the human body. Our chips will enable AR &amp; VR devices where our real and virtual world will mix and match throughout the day. We believe the only way to achieve our goals is to look at the entire stack, from transistor, through architecture, firmware, and algorithms.We are growing our ASIC Design and \u00b5Architecture team within FRL and are seeking engineers at all levels who will work with a world-class group of researchers and engineers using your skills to implement and contribute to the development and optimization of low power machine learning accelerators and state-of-the-art SoCs.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Develop software tooling/methodologies for efficient design of ML accelerators.</li><li>Work closely with Compiler and ML Researchers to enhance machine learning acceleration capabilities.</li><li>Assist with performance/power analysis of machine learning models.</li><li>Work closely with System Architects to enable new ML use cases.</li><li>Work with FPGA engineers and firmware teams to perform early prototyping.</li><li>Algorithmic modeling of machine learning workloads.<br></li></ul><strong>Minimum Qualification<br></strong><ul><li>BS Electrical Engineering, Computer Science or equivalent experience.</li><li>8+ years experience as a Silicon Architect.</li><li>Experience with ML models, algorithms or accelerator architecture.</li><li>Experience in either RTL coding or performance modeling.<br></li></ul><strong><u>Preferred Qualification<br></u></strong><ul><li>MS in Electrical Engineering or Computer Science.</li><li>Experience with ML, graphics or computer vision accelerator.</li><li>Experience with TensorFlow, Pytorch or similar machine learning toolsets.</li><li>Experience with at least one procedural programming language (C, C++, Python etc.).</li><li>Experience in ASIC design flow (Design, Verification, Integration, Synthesis).<br></li></ul>Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T06:15:13.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

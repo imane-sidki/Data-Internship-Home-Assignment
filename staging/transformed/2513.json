@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Position:AI/ML Engineer</strong></p><p><strong>Location:Pleasanton, CA</strong></p><p><strong> Duration:12 Months Contract with Extendable </strong></p><p><br></p><p><strong>Job Description</strong></p><p>The <strong>AI/ML Engineer</strong> shall lead the Artificial Intelligence/Machine Learning Modeling and Engineering team.The consultant will play the role of technical lead and provide professional services to support the long term IT strategy and planning to include high level analysis, professional reports and presentations, and mentoring, support and training.</p><p><br></p><p>The tasks for the AI/ML Engineer include, but are not limited to, the following:</p><p>Provide technical leadership, develop vision, gather requirements and translate client user requirements into technical architecture.</p><p>Design, build and scale Machine Learning systems across multiple domains.</p><p>Design and implement NLP algorithms</p><p>Design and implement an integrated Big Data platform and analytics solution </p><p>Design and implement data collectors to collect and transport data to the Big Data Platform.</p><p><br></p><p><strong>TECHNICAL KNOWLEDGE AND SKILLS</strong>:</p><ul><li>Consultant resources shall possess most of the following technical knowledge and experience:</li><li>Provide technical leadership, develop vision, gather requirements and translate client user requirements into technical architecture.</li><li>Strong Background in Statistical modeling, NLP and Machine Learning.</li><li>Expertise in various facets of ML and NLP, such as classification, feature engineering, information extraction, clustering, semi-supervised learning, topic modeling and ranking.</li><li>Strong Hands-on Experience in building, deploying and productionizing ML models using software such as Spark MLLib, TensorFlow, PyTorch, Python Scikit-learn etc. is mandatory</li><li>Ability to evaluate and choose best suited ML algorithms, perform feature engineering and optimize Machine Learning Models is mandatory</li><li>Strong fundamentals in algorithms, data structures, statistics, predictive modeling, &amp; distributed systems is must</li><li>Strong Experience with Data Science Notebooks like RStudio, Jupyter, Zeppelin, PyCharm etc. </li><li>Design and implement an integrated Big Data platform and analytics solution </li><li>Design and implement data collectors to collect and transport data to the Big Data Platform.</li><li>Good to have but not mandatory 4+ years of hands-on Development, Deployment and production Support experience in Hadoop environment.</li><li>4-5 years of programming experience in Java, Scala, Python.</li><li>Proficient in SQL and relational database design and methods for data retrieval.</li><li>Good to have but not mandatory building data pipelines using Hadoop components Sqoop, Hive, Spark, Spark SQL, HBase.</li><li>Good to have but not mandatory experience with developing Hive QL, UDF\u2019s for analyzing semi structured/structured datasets.</li><li>Good to have but not mandatory experience ingesting and processing various file formats like Avro/Parquet/Sequence Files/Text Files etc. </li><li>Hands-on experience working in Real-Time analytics like Spark/Kafka/Storm</li><li>Must have working experience in the data warehousing and Business Intelligence systems.</li><li>Expertise in Unix/Linux environment in writing scripts and schedule/execute jobs. </li><li>Successful track record of building automation scripts/code using Java, Bash, Python etc. and experience in production support issue resolution process. </li></ul><p><br></p><p><strong>MUST HAVE SKILLS:</strong></p><p>Machine Learning, Deep Learning, NLP</p><p>TensorFlow, Scipy, PyTorch, OpenCV, OCR</p><p>Numpy, SKlearn, Pandas</p><p>Python, Spark, Hive, SQL</p><p>Productionize model</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T18:27:21.000Z"
+  },
+  "company": {
+    "name": "Saicon",
+    "link": "https://www.linkedin.com/company/saicon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

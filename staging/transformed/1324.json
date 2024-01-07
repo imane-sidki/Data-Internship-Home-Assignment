@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Desktop Team",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "The Desktop team is making Asana core to our users\u2019 work with a smart, omnipresent experience that helps them and their teammates find flow and perform their best. Our brand new desktop app brings Asana to our users' fingertips and will be the first interaction with Asana for many future users. Our Desktop app is built on top of Electron , which allows us to leverage the same web technologies that we use to build our web app in building our cross platform Desktop app.<br><br>Over time, we want our Desktop app to build awareness of a user\u2019s work mode by integrating with the user\u2019s calendar, other installed applications and leverage the capabilities of the operating system to keep distractions at bay and increase productivity. We\u2019re looking for an experienced software engineer to help bring these exciting ideas to life. This is a new team working on a new platform for Asana, tackling technical challenges that are brand new for our organization.<br><br><strong><u>What You Will Achieve<br></u></strong><ul> <li> You will make significant technical contributions to the Desktop program with a focus on overcoming tricky technical challenges and modeling practices that improve quality and velocity at scale and help build the foundations of a reliable and maintainable Desktop platform. </li> <li> You will lead the design and implementation work in one or more workstreams, with support and guidance of your Program Lead. </li> <li> You will collaborate with many other teams across Asana with an opportunity to work across the full stack to build new high impact features in the Desktop program roadmap. </li> <li> You will mentor engineers on the team through activities like pairing and code reviews to promote a culture of technical excellence </li> <br><br></ul><strong><u>About You<br></u></strong><ul> <li> Bachelor\u2019s degree in Computer Science or equivalent </li> <li> 3+ years of experience as a full stack engineer, working in large, well maintained code bases using Typescript/Javascript (or equivalent). </li> <li> Familiarity with a modern frontend framework like React or AngularJS </li> <li> Excellent communication skills for collaborating with other teams </li> <li> Sound judgment when balancing moving quickly with producing quality code and long-term code maintainability </li> <li> Passionate about creating a superlative user experience and attentive to details </li> <li> Excited to be a part of an inclusive culture where everyone brings their whole selves to work </li> <br><br></ul><strong><u>About Us<br><br></u></strong>At Asana, we're building a better way to work, fueled by transparency, inclusion, and technology that is a force for positive change. Asana is a work management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives, so they can move faster and accomplish more with less. For the past 5 years, we've been named a top workplace, including top 10 <strong><u> Great Place to Work </u></strong> Best Small &amp; Medium Workplaces, #1 Fortune Best Workplace in the Bay Area for four years in a row, #8 Fortune Best Workplaces for Women, #14 <strong><u> Glassdoor Best Place to Work </u></strong>, and one of <strong><u> Ireland's Best Workplaces </u></strong>. After spending more than a year physically distanced, we are safely and mindfully returning our global teams to in-person collaboration, incorporating flexibility that adds hybrid elements to our <strong>office-centric culture</strong> . With offices all over the world, we are always looking for curious, collaborative, and mission-driven people to help us enable the world\u2019s teams to work together effortlessly.<br><br>We believe in supporting people to do their best work and thrive, and building a diverse, equitable, and inclusive company is core to our mission. Our goal is to ensure that Asana upholds an inclusive environment where all people feel that they are equally respected and valued, whether they are applying for an open position or working at the company. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, and veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T09:27:06.000Z"
+  },
+  "company": {
+    "name": "Asana",
+    "link": "https://www.linkedin.com/company/asana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 162000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

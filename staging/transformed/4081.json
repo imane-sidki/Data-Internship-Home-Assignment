@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer - Java",
+    "industry": "Financial Services,Retail",
+    "description": "<strong><u>What You'll Do...<br><br></u></strong><strong>Build the possibilities.<br><br></strong>We\u2019re growing our technology team and are searching for a Senior Software Engineer to help us modernize our software architecture. When you join us, you\u2019ll use your technical expertise to design, develop, and maintain software components and products that support H&amp;R Block business applications and transform our technology. You\u2019ll serve as the lead role for day-to-day functional tasks in the team, developer support, and maintaining the development environment. Ready to innovate and solve problems in new ways? Join us.<br><br><strong><u>What You\u2019ll Do As a Senior Software Engineer\u2026<br><br></u></strong><ul><li>Use tools, languages, coding standards and best practices to develop new product features and maintain year over year product functionality and enhancements</li><li>Create and execute unit tests and addresses defects</li><li>Work closely with the QA, UX and other related teams to ensure consistent understanding of requirements and approach</li><li>Assist in planning and implementation of a strategic direction for the product</li><li>Identify product design features to support scalability, usability and better performance</li><li>Assist and drive technical design and code reviews for all new enhancements and maintenance work delivered by the development team</li><li>Understand complex business and functional requirements and produce technical specifications and product requirements</li><li>You\u2019ll also mentor and coach other team members on the latest technological advances within the current technology used and establish consistent best practices<br></li></ul><strong><u>What You'll Bring To The Team...<br><br></u></strong>Education:<br><br><ul><li>Bachelor\u2019s degree in a related field or the equivalent through a combination of education and related work experience.</li></ul> Skills:<br><br><ul><li>5+ years of Java exp</li><li>5+ years APIs / REST / SOAP/Graph QL </li><li>5+ years SQL / Hibernate / JPA</li><li>2+ years of Microservices / Dropwizard exp</li><li>2+ years Linux / Bash<br></li></ul><strong>It would be even better if you also had...<br><br></strong><ul><li>Mentoring experience</li><li>Azure Cloud Auto Provisioning Experience</li><li>Terraform Experience</li><li>Azure Data Factory</li><li>SQL Schema Design/Data Modeling</li><li>Azure Functions/Cloud Lambda Experience <br></li></ul><strong><u>About H&amp;R Block...<br><br></u></strong>We\u2019re here to live our purpose\u2014to provide help and inspire confidence in our clients and communities everywhere. We take our work personally, because we know what it represents: Families and homes. Livelihoods and lives.<br><br>We\u2019ve been true to that purpose since brothers Henry and Richard Bloch founded our company in 1955. Since then, we\u2019ve grown to approximately 12,000 tax offices throughout the United States and around the world. When you join our team, you\u2019ll add to the momentum of a forward-thinking company\u2014one that defined an industry and is now leading its transformation.<br><br><strong>Sponsored Job<br><br></strong>#hrbjob",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:22:21.000Z"
+  },
+  "company": {
+    "name": "H&amp;R Block",
+    "link": "https://www.linkedin.com/company/h&amp;r-block"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81700,
+    "max_value": 105000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

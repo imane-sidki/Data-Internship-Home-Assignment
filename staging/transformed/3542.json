@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong><strong>DESCRIPTION<br><br></strong>At Amazon, we're working to be the earth\u2019s best employer. To get there, we need exceptionally talented, bright, and driven people. Amazon\u2019s Employee Resource Center (ERC) provides HR assistance to employees through accurate, consistent, and timely responses to inquiries from various contact channels \u2013 phone, web case, and chat. We are looking for a smart, passionate candidate with experience in modeling to dive deep, create insights, and produce recommendations for our new 24-hour Promise Team. This team will diagnose causes for repeat contacts, define mechanisms, shape product features, and determine root cause fixes for technical solutions in order to resolve employee inquiries in 24 hours or less. You will be involved in all phases of research and experiment design and analysis, including defining research questions, designing experiments, identifying data requirements, conducting statistical or machine learning-based modeling, and communicating insights and recommendations that will directly impact the employee experience.<br><br><strong><u>What You\u2019ll Do<br><br></u></strong>As a Data Scientist, you will be responsible for technical documentation of all experiments, requirements and outcomes. You will work within a team-based setting comprised of topical experts across the ERC organization, database architects, data analysts, product and program managers to collectively take projects from ideation to final deployment. You will analyze data across multiple data sources, apply the right machine learning models, and visualize insights for senior leaders and business partners.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li> Create innovative, sophisticated analytic models to address critical issues but also meet key business criteria (cost/risk/business impact) and key technical criteria (reliability/validity/predictability)</li><li> Lead technical aspects of experiment design in collaboration with the greater HR team.</li><li> Identify and advocate for technical options related to machine learning, data mining, and other statistical approaches</li><li> Document feasibility requirements, code comments and other technical documentation required to transfer knowledge to other technical staff and management</li><li> Collaborate on developing effective Dashboards to surface insights to senior leadership</li><li> Communicate pros and cons of analytic frameworks to the development team</li><li> Uncover drivers, impacts, and key influences on productivity and innovation outcomes</li><li> Develop predictive and optimization models for key applications</li><li> Navigate a variety of data sources, such as space utilization data, badge data, workplace surveys, focus groups, and/or external data sources</li><li> Ability to attain understanding of topic areas in Human Resources, not directly related to the core field of data science (such as user experience and employee contact center analytics)</li><li> Ability to work in a highly collaborative environment with peers that have a range of technical aptitudes</li><li> Maintain an understanding of the latest trends in data science and machine learning<br><br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelor's Degree</li><li> 3+ years of experience with data scripting languages (e.g SQL, Python, R etc.) or statistical/mathematical software (e.g. R, SAS, or Matlab)</li><li> 2 years working as a Data Scientist<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Master\u2019s Degree in a quantitative field such as Statistics, Computer Science, Applied Mathematics, Economics</li><li> 4+ years of experience with experiment design involving algorithm development, machine learning, data mining, and use of other statistical approaches</li><li> 5+ years of experience as a data scientist, economist, applied scientist, research scientist or equivalent data analytics role</li><li> Ability to develop experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations</li><li> Experience working with human capital data</li><li> Experience using Amazon technologies \u2013 Redshift, Sagemaker, Athena, S3, EC2, QuickSight, etc.<br><br></li></ul><strong>Company</strong> - Amazon.com Services LLC<br><br>Job ID: A1673922",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T09:44:06.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66900,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

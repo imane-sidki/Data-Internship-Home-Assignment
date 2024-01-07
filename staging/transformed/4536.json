@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Position:</strong> Software Engineer IV</p><p><strong>Location:</strong> Raleigh, North Carolina</p><p><strong>Duration:</strong> Full-time, Permanent</p><p><strong>Start:</strong> ASAP</p><p><strong>Pay:</strong> COMPETITIVE</p><p><br></p><p><strong><em>This position performs complex research, design, and software development assignments within a software functional area or product line, and provides direct input to project plans, schedules, and methodology in the development of cross-functional software products. This position performs software design \u2014 typically across multiple systems; mentors more-junior members of the team; and talks to users/customers and translates their requests into solutions.</em></strong></p><p><br></p><p><strong><u> MUST HAVE QUALIFICATIONS:</u></strong></p><p>\u2022 5+ years of Software Engineering experience</p><p>\u2022 BS Engineering/Computer Science or equivalent experience required</p><p><br></p><p><strong><u> MUST HAVE TECHNICAL SKILLS:</u></strong></p><p>\u2022 Advanced knowledge of software development methodologies (e.g., Agile, Waterfall).</p><p>\u2022 Strong proficiency with data manipulation language including optimization techniques.</p><p>\u2022 Strong understanding of normalized/dimensional data modeling principles.</p><p>\u2022 Strong knowledge of multiple data storage subsystems.</p><p>\u2022 Expertise (emphasis in bold) in development languages including but not limited to: C#, Java/J2EE, JavaScript, JSP, C/C++, HTML, XML, SQL, Windows, UNIX, and .Net.</p><p>\u2022 Strong research skills.</p><p>\u2022 Strong knowledge in industry best practices in development.</p><p>\u2022 Knowledge in using and developing applicable tool sets.</p><p>\u2022 Ability to interface competently with other technical personnel or team members to finalize requirements.</p><p>\u2022 Ability to work well with internal and external technology resources.</p><p>\u2022 Knowledge of test-driven development.</p><p>\u2022 Ability to write and review portions of detailed specifications for the development of complex system components.</p><p>\u2022 Ability to complete complex bug fixes.</p><p>\u2022 Good oral and written communications skills.</p><p><br></p><p><strong><u>MAIN RESPONSIBILITIES:</u></strong></p><p>\u2022 Interface with other technical personnel or team members to finalize requirements.</p><p>\u2022 Write and review portions of detailed specifications for the development of complex system components.</p><p>\u2022 Complete complex bug fixes.</p><p>\u2022 Work closely with other development team members to understand complex product requirements and translate them into software designs.</p><p>\u2022 Successfully implement development processes, coding best practices, and code reviews.</p><p>\u2022 Operate in various development environments (Agile, Waterfall, etc.) while collaborating with key stakeholders.</p><p>\u2022 Resolve complex technical issues as necessary.</p><p>\u2022 Train entry-level software engineers as directed by department management, ensuring they are knowledgeable in critical aspects of their roles.</p><p>\u2022 Keep abreast of new technology developments.</p><p>\u2022 Design and work with complex data models.</p><p>\u2022 Mentor less-senior software developers on development methodologies and optimization techniques.</p><p>\u2022 All other duties as assigned</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T15:59:54.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68700,
+    "max_value": 90700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Job Title<br><br></u></strong>Software Development Engineer<br><br><strong><u>Role Overview<br><br></u></strong>Does the thought of applying your passion for cloud development to secure the digital lives of millions around the world excite you? McAfee is looking for software engineer that can help build its trusted consumer products, web platforms and services. We dig deeper into customer problems to provide an effective solution that makes customers lives easier. You will be part of a development team that prides in striving to delight the McAfee customers. Join the customer obsessed team!<br><br><strong><u>Company Overview<br><br></u></strong>From device to cloud, McAfee provides market-leading cybersecurity solutions for both business and consumers. We help businesses orchestrate cyber environments that are truly integrated, where protection, detection, and correction of security threats happen simultaneously. For consumers, McAfee secures your devices against viruses, malware, and other threats, both at home and away. We want to continue to shape the future of cybersecurity by working together to build best in class products and solutions.<br><br><strong><u>About The Role<br></u></strong><ul><li>Develop and debug complex software in multiple web technologies.</li><li>Determine best coding practices, development tools, and validation requirements.</li><li>Architect and develop large-scale web and API applications on AWS focusing on performance, scalability and stability.</li><li>Work with multiple technologists in the company and within the industry including developers and project managers to evaluate feasibility of requirements and determine priorities for development.</li><li>Enjoy learning new things.</li><li>Love taking on difficult challenges and finding creative solutions.</li><li>Have open minds to new ideas and enjoy helping people so that they are not stuck.<br></li></ul><strong><u>About You<br></u></strong><ul><li>Your background includes 5+ years of experience in server-side application development.</li><li>Fluent in any of these: Golang, NodeJS, C# or Java</li><li>Familiar with Serverless Application Model and REST.</li><li>You understand the overall AWS Cloud infrastructure (EC2, Lambda, RDS, S3 etc).</li><li>You are proficient in developing end debugging cloud-based applications using AWS.</li><li>You will have a working knowledge with relational SQL and NoSQL databases.</li><li>You have have Software Development process, optimization techniques, and testing methodologies.</li><li>Other scripting languages, Python and NodeJS are a bonus.<br></li></ul><strong><u>Company Benefits And Perks<br><br></u></strong>We work hard to embrace diversity and inclusion and encourage everyone at McAfee to bring their authentic selves to work every day. We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees.<br><ul><li>Pension and Retirement Plans</li><li>Medical, Dental and Vision Coverage</li><li>Paid Time Off</li><li>Paid Parental Leave</li><li>Support for Community Involvement<br></li></ul>We're serious about our commitment to diversity which is why McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:00:37.000Z"
+  },
+  "company": {
+    "name": "McAfee",
+    "link": "https://www.linkedin.com/company/mcafee"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

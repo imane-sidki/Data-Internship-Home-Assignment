@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineers (RoR)",
+    "industry": "",
+    "description": "<p><strong>SENIOR SOFTWARE ENGINEERs (RoR)</strong></p><p></p><p>ZYMR Inc. has an immediate requirement to fulfill for our newest Customer.The project involves working with a fast-growing, tier-1, pre-IPO Silicon Valley Energy startup that was established almost 10 years ago and has raised more than $100M in funding so far.</p><p><br></p><p><strong>We are looking for experienced Ruby on Rails (Preferred), Django Platform Developers:</strong></p><p><br></p><p><strong>Responsibilities and Duties</strong></p><ul><li>Write platform code, services, and components</li><li>Design &amp; develop microservices for components</li><li>Responsible for design and implementation, test automation, and other SDLC activities.</li><li>Gather and analyze requirements and convert them into concrete technical tasks with effort estimates.</li><li>Cross-border project experience is a plus.</li><li>Perform code reviews, test case reviews to meet high-quality standards.</li></ul><p></p><p><strong>Qualifications and Skills</strong></p><ul><li>6+ years building scalable applications with web frameworks like Ruby on Rails, Django, etc. (RoR preferred)</li><li>6+ years experience with OOP design and building REST APIs</li><li>Proficient in designing microservices with containerization tools Docker and Kubernetes</li><li>Experience with UI frameworks like Angular or ReactJS</li><li>Strong background in Data Structures and Algorithms</li><li>Expert with Relational Databases, like MySQL or PostgreSQL</li><li>Experience with Web Services (REST)</li><li>Experience working in cloud environments, AWS preferred</li><li>Experience with SOA &amp; Event-Driven Architecture.</li><li>Knowledge of Caching and Messaging technologies like Redis, RabbitMQ, Kafka.</li><li>Experience with Linux development and runtime environments</li><li>Experience with Agile / SCRUM methodology for product development (TDD, CI)</li><li><strong>Education:</strong> Bachelor\u2019s in computer science or equivalent degree</li><li>4+ years at any leading SaaS firm - experience with the energy domain a big plus.</li></ul><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-20T06:05:56.000Z"
+  },
+  "company": {
+    "name": "Zymr, Inc.",
+    "link": "https://www.linkedin.com/company/zymrinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

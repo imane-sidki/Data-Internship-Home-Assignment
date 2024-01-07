@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Vulnerability Researcher",
+    "industry": "Internet",
+    "description": "Raytheon Technologies is a premier engineering company which provides technical solutions in software development and systems engineering that address security challenges and strengthen our customers. Raytheon Technologies hires industry-leading professionals, and we treat them like industry-leading professionals. We bring exceptional talent to an array of missions that includes computer network operations, vulnerabilities, characterization, information assurance, and emerging technologies to expand cybersecurity solutions. Job Description: Use advanced systems to find zero-day (0-day) vulnerability. Responsible for analyzing, designing, and identifying programmatic behaviors. Have an opportunity to develop, test and debug software applications. Research data and provides new design ideas for vulnerability techniques. Understands terminologies like debugging and fuzzing and applying it into your work. Requirements: Bachelor of Science in Computer Science, Computer Engineering, Electrical Engineering or a related technical filed. 5 years of practical experience in a technology-related environment. Solid understanding of software development and knowledge in any of the following: C, C++ or Python. Experience with program analysis, reverse engineering, and debugging tools (eg, angr, BAP, IDA Pro, Binary Ninja, gdb, Ghidra, windbg). Knowledge of Window or Linux. Knowledge of Assembly (x865/x64). Desire Skills: Understanding of OS Internals (any major OS). Experience with exploit development, Hack The Box. Experience reading and writing assembly Understanding of network protocols, application layer, be a le to read/write socket code. Understanding of exploit mitigations such as DEP and ASLR. Experience using reverse engineering tools such as Ghidra, HexRays, or objdump. Experience using debuggers such as gdb, WinDbg, OllyDbg. Qualified applicants will be subject to a security investigation and must meet minimum requirements for access to classified information. US Citizenship and current TS/SCI with a poly clearance is required. 183658 Raytheon is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender orientation, gender identity, national origin, disability, or protected Veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:41:34.000Z"
+  },
+  "company": {
+    "name": "JobGet",
+    "link": "https://www.linkedin.com/company/jobget"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Harwood",
+    "region": "MD",
+    "postal_code": "20776",
+    "street_address": null,
+    "latitude": 38.865578,
+    "longitude": -76.619835
+  }
+}

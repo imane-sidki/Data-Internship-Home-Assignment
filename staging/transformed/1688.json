@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "<strong><u>Qualifications<br><br></u></strong>REQUIRED QUALIFICATIONS<br><ul><li> MS/BS in CS/EE/Applied Mathematics/Statistics/DS/ML or related fields.</li><li>3+ years of professional experience working with machine learning libraries and real world data science problems.</li><li>3+ years of professional experience in at least one scripting language (Python, NodeJS, Ruby, Perl).</li><li>Proficiency in one statically typed language (C#, Java, C, C++).</li><li> Excited to work on a diverse team.<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Familiarity with a version control system</li><li>Experience in gaming industry</li><li> Experience working with deploying of machine learning models </li><li> Demonstratable experience with software engineering principles, parallel and distributed computing, statistics, machine learning, cloud technologies like Azure, AWS, Google Cloud, IaaS, PaaS and SaaS </li><li>Excellent analytical and problem-solving skills</li><li> Outstanding communication and collaboration skills </li><li> Strong research, theory, and algorithm background with the ability to apply advanced knowledge on real world challenges<br><br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T12:24:32.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96700,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

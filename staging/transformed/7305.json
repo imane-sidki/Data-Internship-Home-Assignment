@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Computer & Network Security,Computer Networking",
+    "description": "<strong>About Us<br><br></strong>At WeWork, we provide inspiring and flexible workplace solutions to help businesses - small, medium or large - thrive in more than 150 cities globally. The future of work is happening right now, and we are leading this moment. United by a common purpose, here we will empower tomorrow\u2019s world at work. Join us on our journey as we give our members the freedom and support to push boundaries in their industries, and work to redefine our own.<br><br><strong>About The Opportunity<br><br></strong>WeWork is hiring an experienced backend software engineer to build and maintain the services that power our internal and member-facing applications. Hundreds of thousands of members around the world rely on these services to book spaces at WeWork locations, get support, learn about and gain entry to their building, invite guests, and work efficiently while in our spaces. WeWork is adapting to the realities of COVID-19 and seeking to support new members and new flexibility in co-working space, and our technology must rapidly adapt to support the business. This role will be working on an established team of experienced backend engineers responsible for multiple backend services and will have a direct impact on executive level initiatives.<br><br><strong>About You<br><br></strong><ul><li>Enjoy systems designing through leading designs of major software components, systems, and features owned by the team.</li><li>Able to utilize design, coding patterns, tools and frameworks and methods to facilitate in effectively meeting the team sprint objectives and the overall quarterly team objectives.</li><li>Can drive feature development end-to-end and deliver large projects at quarterly level.</li><li>Comfortable partnering with product, design, and peer engineering leads and managers.</li><li>Interested in indirectly influencing beyond functional boundaries, such as with product on technical feasibility and roadmap, or with test engineering on tooling and execution needs.</li><li>Eager to align correlated systems across squads on common API patterns, practices, or other instrumentation.<br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Bachelor degree in Computer Science and 2+ years of experience building backend systems OR 1+ years of building backend systems.</li><li>Preferred experience with REST Apis,Postgres, Kafka, RabbitMQ, Kubernetes, Docker, and Github</li><li>Preferred experience working on teams with heavy emphasis on DevOps, Automation, CI/CD, and Quality (Jenkins, Docker, Artifactory, etc).</li><li>You will have the opportunity to work with Ruby on Rails, Java and GoLang</li><li>Demonstrated architecture skills at a multi-system level and writing scalable, efficient, and clean code.</li><li>As excited to write tests and docs as you are to write readable and efficient code</li><li>Comfortable working with Product Managers, Designers, Data Scientists, and non-technical executive stakeholders</li><li>Flexible attitude and able to adapt to rapidly changing requirements and business needs</li><li>Eager to dive in and contribute to long-lived systems and improve them for the sake of our members and for your fellow engineers, without getting stuck on ensuring perfection</li><li>Enjoy working in an Agile development environment and taking initiatives in improving systems for the sake of your teammates and our users.<br><br></li></ul><strong><strong>Life At WeWork<br><br></strong></strong>Being a WeWorker is more than just a job. We believe the magic of work is sparked by the passion you bring, the places you go, the people you meet and the purpose you follow. And it starts here. Here you will brush shoulders with those who dare to dream and do. Here you will be welcomed by a diverse community that embraces and inspires you\u2014because together we can achieve more. Here we challenge ideas, and explore new ways of getting things done. Whether you are part of our <u>Employee Community Groups</u>, or part of a global project, we ask you to bring your open-minded attitude and collaborative spirit. In return, you will be part of a team where your unique perspectives are celebrated.<br><br>WeWork is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon gender, sexual orientation, marital or civil status, pregnancy (or pregnancy-related conditions), gender identity or expression, transgender status or gender reassignment, race, color, national origin or ancestry, citizenship, religion or religious beliefs, age, physical or mental disability, genetic information (including genetic testing and characteristics), military or veteran status, or any other grounds or characteristic that is protected under the law.<br><br>As part of our commitment to health and safety, WeWork -- like a growing number of employers -- is requiring all U.S. employees to be fully vaccinated for COVID-19 as a condition of employment, absent a legal exception for reasonable accommodation. We provide unvaccinated new hires a 45-day grace period after their start date to get fully vaccinated or, if eligible, obtain a reasonable accommodation. If you believe that a legal exception may apply to you, please still apply for any role(s) you are interested in and, if you are hired, you will receive instructions on how to request a reasonable accommodation after your start date. Please note that roles that require in-person work -- currently, within our Community (excluding Member Experience), Facilities Management (including Security), Sales (excluding Sales Ops), and Member Technology teams -- will not be eligible for work-from-home as an accommodation because it poses an undue hardship on our business.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T02:06:41.000Z"
+  },
+  "company": {
+    "name": "WeWork",
+    "link": "https://www.linkedin.com/company/wework"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

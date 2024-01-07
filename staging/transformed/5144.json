@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Performance",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "The Core Performance team builds the tools, frameworks, and infrastructure to enable a more performant Asana without sacrificing velocity. The team both directly contributes to, and empowers other Asana engineers in, a common mission to make everything we build as fast and efficient as possible. We leverage cutting-edge web performance technologies and methodologies and shape them to work within Asana\u2019s unique infrastructure.<br><br>We\u2019re looking for an experienced engineer to join us in making Asana as fast as possible. You\u2019ll be able to directly contribute to high impact performance projects, such as improving Asana pageload times, as well as define and execute on a vision for what performance engineering looks like going forward through projects like code-splitting our Javascript bundle to reduce payload. As a team, our focus is balanced between having direct high-leverage impact via contributing to performance projects directly as well as building out the supporting frameworks to enable other engineers at the company to write performant features.<br><br><strong><u>What You\u2019ll Achieve<br></u></strong><ul><li> Design, develop, and ship key framework initiatives to enable other Asana engineers to develop performant features. </li><li> Take ownership of and shape how performance engineering is done at Asana. </li><li> Investigate and resolve high impact, high complexity performance issues within the Asana product and infrastructure. <br></li></ul><strong><u>About You<br></u></strong><ul><li> 2+ years of software engineering experience, ideally with some background in performance engineering or frameworks. </li><li> Excellent communication for both working with teammates and collaborating with other teams. </li><li> Curiosity to drive to the root cause of technically challenging problems and autonomy / initiative to drive those problems to resolution. <br></li></ul><strong><u>About Us<br><br></u></strong>At Asana, we're building a better way to work, fueled by transparency, inclusion, and technology that is a force for positive change. Asana is a work management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives, so they can move faster and accomplish more with less. For the past 5 years, we've been named a top workplace, including top 10 <strong><u> Great Place to Work </u></strong> Best Small &amp; Medium Workplaces, #1 Fortune Best Workplace in the Bay Area for four years in a row, #8 Fortune Best Workplaces for Women, #14 <strong><u> Glassdoor Best Place to Work </u></strong>, and one of <strong><u> Ireland's Best Workplaces </u></strong>. After spending more than a year physically distanced, we are safely and mindfully returning our global teams to in-person collaboration, incorporating flexibility that adds hybrid elements to our <strong>office-centric culture</strong> . With offices all over the world, we are always looking for curious, collaborative, and mission-driven people to help us enable the world\u2019s teams to work together effortlessly.<br><br>We believe in supporting people to do their best work and thrive, and building a diverse, equitable, and inclusive company is core to our mission. Our goal is to ensure that Asana upholds an inclusive environment where all people feel that they are equally respected and valued, whether they are applying for an open position or working at the company. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, and veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:26:44.000Z"
+  },
+  "company": {
+    "name": "Asana",
+    "link": "https://www.linkedin.com/company/asana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115000,
+    "max_value": 179000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

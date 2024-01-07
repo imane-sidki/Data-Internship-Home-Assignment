@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple new insights have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!<br><br><br>As a SRE engineer, you will be responsible to build and maintain the next generation cloud native platform that empowers various applications for Apple Corporate Engineering. Our scale and security demands outstanding opportunities for innovative and creative solutions which contribute to the best employee experience on this planet!<br><br><br>We are seeking an SRE who is passionate about working in a fast paced customer centric environment. In this role you will not only maintain but also build the Cloud based micro service platform in partnerships with various Cloud technology providers within Apple. In addition, you will be accountable for maintaining the \u201chigh 9s\u201d of uptime of various systems.<br><br> <br><strong>Key Qualifications<br></strong> <br>-  5+ years of experience in SRE or DevOps Role.<br><br><br>-  Experience orchestrating workloads across various systems using Cloud Native Technologies \u2014 Containers and Kubernetes.<br><br><br>-  Production experience in supporting sites on AWS \u2014 EC2, S3, NLB, EKS, VPC, IAM etc.<br><br><br>-  Automation experience with at-least one configuration management system such as Ansible, Puppet, AWS Cloud Formation, Terraform, Chef, Salt.<br><br><br>-  Strong fundamentals in large-scale distributed systems such as Zookeeper, Consul, Kafka, Cassandra, Hazelcast or Solr.<br><br><br>-  Working knowledge of network protocols and network based services, including routing and network load balancing (Layer 4 and Layer 7 Load Balancers).<br><br><br>-  Experience working in at-least one of the languages - Go, Python or Java.<br><br><br>-  Expertise with monitoring or log aggregation tools (Prometheus, Grafana, Splunk, ELK)<br><br><br>-  Experience with Telemetry tools such as Promethus, Nagios, DataDog, NewRelic, Sensu etc.<br><br><br>-  Pride in your work with a strong attitude towards continuous delivery.<br><br><br>-  Passionate about leading a global 24-7 engineering organization<br><br> <br><strong>Description<br></strong> <br>The Caff\u00e8 Macs Engineering team of Apple Corporate Engineering is looking for a SRE/DevOps engineer to build a cloud native platform to host the next generation of micro service platforms so that we can deliver premier applications to Apple Employees.<br><br><br>-  Develop Cloud based Infrastructure on AWS to deliver micro services based platforms powering various iOS and Web Applications.<br><br><br>-  Maintain and guarantee high 9s of uptime across all infrastructure components.<br><br><br>-  Partner with internal platform teams across multiple groups to build and deliver secure continuous delivery pipelines.<br><br><br>-  Provide technical guidance, solving expertise, and architectural insight to development, quality, and site reliability teams.<br><br><br>-  Promote next generation cloud and DevOps products and processes, experiment with their implementation and bring them to fruition.<br><br><br>-  Strong partnership with various engineering teams of platform, services, iOS/Web UI, QA &amp; SRE teams distributed globally.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\u2019s degree in Computer Science or equivalent.<br><br> <br><strong>Additional Requirements<br></strong> <br>-  A proactive approach to spotting problems, performance, and process bottlenecks and areas for improvement.<br><br><br>-  Excellent troubleshooting skills: ability to quickly recognize patterns in failures.<br><br><br>-  Self-motivated to improve efficiency and uptime of the entire technical ecosystem.<br><br><br>-  Strong written and verbal communication skills.<br><br> <br>Role Number: 200282011<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T14:25:46.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 127000,
+    "max_value": 219000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

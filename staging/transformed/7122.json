@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Data Scientist - AI Services (JoinOCI)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong>The <strong>Oracle Cloud Infrastructure (OCI)</strong> team can provide you the opportunity to build and operate a suite of massive scale, integrated cloud services in a broadly distributed, multi-tenant cloud environment. OCI is committed to providing the best in cloud products that meet the needs of our customers who are tackling some of the world\u2019s biggest challenges.<br><br>We offer unique opportunities for smart, hands-on engineers with the expertise and passion to solve difficult problems in distributed highly available services and virtualized infrastructure. At every level, our engineers have a significant technical and business impact designing and building innovative new systems to power our customer\u2019s business critical applications<br><br>This role is available on the <strong>OCI Cognitive Services. </strong>We are addressing exciting challenges at the intersection of artificial intelligence and cutting-edge cloud infrastructure. We are building cloud services in Decision Support (Anomaly detection, Forecasting and Recommendations), natural language processing (NLP), Speech and, computer vision that work out of the box for enterprises. Our product vision includes ability for enterprises to be able to customize the services for their business and train them to specialize on their data by creating custom models that enhance the AI models for customer user cases.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li> Design and build the world-class ML/Deep learning models for NLP/Decision-support/Speech/Vision . </li><li> Build the necessary tooling for data acquisition, data cleaning, data augmentation, model training and visualization. </li><li> Evaluate and Implement the ML/Deep learning models from research papers and other public internet resources. </li><li> Develop production code for feature processing, model prediction, serving, and monitoring in both real-time and batch scenarios. </li><li> Participate in the entire software lifecycle \u2013 development, testing, CI and production operations </li><li> Balance between product feature development and production operational concerns like writing run books, ops automation, structured logging, instrumentation for metrics and events </li><li> Participate in on-call for the service with the team <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> PhD or Master\u2019s in Computer Science, Mathematics, Statistics, Physics or a related field with a dissertation centered in Machine Learning Techniques </li><li> 7+ years w/Masters or 5+ years w/PhD of applying machine learning for solving real-world problems in industry </li><li> Proficiency in Python or R </li><li> Proficiency with at least one deep learning library (Pytorch, Tensorflow or Keras) with building and deploying DNN models in production </li><li> Experience applying statistical models and developing Machine Learning solutions (regression, classification, clustering) </li><li> Extensive experience with developing and serving large scale Deep learning models across different data domains. </li><li> Experience in optimization and scaling of ML solutions for real world business use cases. </li><li> Expertise in datamining and statistical concepts and experience with traditional ML libraries such as scikit-learn, statsmodels and pandas </li><li> Past delivery of large-scale ML solutions for complex business problems </li><li> Prior experience working on distributed systems </li><li> Experience with production operations and good practices for putting quality code in production and troubleshoot issues when they arise </li><li> Take initiative and be responsible for delivering complex software by working effectively with the team and other stakeholders </li><li> Can easily communicate technical ideas verbally and in writing (technical proposals, design specs, architecture diagrams and presentations) <br></li></ul>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.<br><br>Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.<br><br>As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. You will be responsible for defining and developing software for tasks associated with the developing, designing and debugging of software applications or operating systems.<br><br>Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. Leading contributor individually and as a team member, providing direction and mentoring to others. BS or MS degree or equivalent experience relevant to functional area. 7 years of software engineering or related experience.<br><br>If you are a Colorado resident, Please Contact us or Email us at oracle-salary-inquiries_us@oracle.com to receive compensation and benefits information for this role. Please include this Job ID: 120934 in the subject line of the email.<br><br><strong><u>About Us<br><br></u></strong>Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It\u2019s when everyone\u2019s voice is heard and valued, that we are inspired to go beyond what\u2019s been done before. That\u2019s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.<br><br>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:12:15.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

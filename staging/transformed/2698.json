@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote)",
+    "industry": "Computer Software,Internet,Information Technology and Services",
+    "description": "Our client is one of the largest crypto exchanges and they are growing quickly!<br><br>Our client is a crypto exchange and custodian that allows customers to buy, sell, store, and earn more than 30 cryptocurrencies like bitcoin, bitcoin cash, ether, litecoin, and Zcash. Our client is a New York trust company that is subject to the capital reserve requirements, cybersecurity requirements, and banking compliance standards set forth by the New York State Department of Financial Services and the New York Banking Law. Our client was founded in 2014 by twin brothers Cameron and Tyler Winklevoss to empower the individual through crypto.<br><br>Crypto is about giving you greater choice, independence, and opportunity. We are here to help you on your journey. We build crypto products that are simple, elegant, and secure. Whether you are an individual or an institution, we want to help you buy, sell, and store your bitcoin and cryptocurrency. Crypto is not just a technology, it's a movement.<br><br><strong>The Role<br><br></strong>Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and the codebase. We specialize in systems, whether it be networking, the Linux kernel, or some more specific interest in scaling, algorithms, or distributed systems.<br><br><strong><u>As An SRE You Will<br></u></strong><ul><li>Be on a PagerDuty rotation to respond to availability incidents and provide support for service engineers with customer incidents.</li><li>Use your on-call shift to prevent incidents from ever happening.</li><li>Run our infrastructure with Chef, Terraform and Kubernetes.</li><li>Make monitoring and alerting alert on symptoms and not on outages.</li><li>Document so your findings turn into repeatable actions-and then into automation.</li><li>Improve the deployment process to make it as boring as possible.</li><li>Design, build and maintain core infrastructure pieces that allow scaling to support hundreds of thousands of concurrent users.</li><li>Debug production issues across services and levels of the stack.</li><li>Plan the growth of our client's infrastructure.<br></li></ul><strong>You may be a fit to this role if you have some of these inclinations:<br></strong><ul><li>Think about systems - edge cases, failure modes, behaviors, specific implementations.</li><li>Know your way around Linux and the Unix Shell.</li><li>Know what is the use of config management systems like Chef (the one we use)</li><li>Have strong programming skills - Ruby and/or Go</li><li>Have an urge to collaborate and communicate asynchronously.</li><li>Have an urge to document all the things so you don't need to learn the same thing twice.</li><li>Have an enthusiastic, go-for-it attitude. When you see something broken, you can't help but fix it.</li><li>Have an urge for delivering quickly and iterating fast.</li><li>Share our values, and work in accordance with those values.</li><li>Have experience with Nginx, HAProxy, Docker, Kubernetes, Terraform, or similar technologies</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T01:57:23.000Z"
+  },
+  "company": {
+    "name": "Recruiting from Scratch",
+    "link": "https://www.linkedin.com/company/recruiting-from-scratch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Trenton",
+    "region": "NJ",
+    "postal_code": "08618",
+    "street_address": null,
+    "latitude": 40.220573,
+    "longitude": -74.75971
+  }
+}

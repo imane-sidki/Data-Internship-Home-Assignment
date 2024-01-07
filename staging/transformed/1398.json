@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>In Amazon Advertising, we are applying Machine Learning techniques at massive scale to optimize advertising performance. We are looking for talented data scientists who are passionate about building metrics and pipelines, and are keen to go deep on quantitative algorithm analysis.<br>In this role, you will work together with other Data Scientists and Applied Scientists, Software and Data Engineers, and Product Managers on high impact initiatives in Amazon\u2019s Multi Channel Advertising.<br><br>The Machine Learning Optimization (MLO) team owns the core systems for optimizing Ad Selection, Bidding, and Campaign Performance. These systems process billions of Ad impressions daily from across the internet to power our display advertising algorithms. You will play a significant role in improving the optimization systems for Amazon\u2019s display, audio, and video advertising.<br><br>In this role, you will work directly with a highly motivated team of ML scientists and engineers who are passionate about applying data science and ML techniques to solve advertiser needs. You will also join the lively Amazon ML community, with opportunities to write papers, attend workshops and conferences (internal and external), participate in science events, and obtain early access to Amazon technologies.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li> Research and implement novel experimental design and measurement methodologies.</li><li> Establish scalable, efficient, automated processes for large-scale data analyses, model development, model validation, and model implementation.</li><li> Leverage petabyte scale data in strategic analysis for new monetization strategies, products and business directions.</li><li> Coach and develop data scientists and data engineers across Amazon Advertising</li><li> Collaborate with senior leaders in Amazon Advertising to develop data-informed decision frameworks</li><li> Be the voice of analytics and present to senior management.<br></li></ul>This role is based in New York.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelor's Degree</li><li> 3+ years of experience with data scripting languages (e.g SQL, Python, R etc.) or statistical/mathematical software (e.g. R, SAS, or Matlab)</li><li> 2 years working as a Data Scientist</li><li> 3+ years of practical experience applying data science to solve complex problems.</li><li> Proven experience within as many of: Causal inference, Multi-variate testing &amp; design, A/B testing &amp; design, Descriptive analytics.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Masters or PhD degree in Engineering, Computer Science, Math, Statistics, Economics or related field</li><li> 5+ years of data analytics and machine learning experience in products or services businesses</li><li> Excellent customer intuition and demonstrated success in identifying and prioritizing business questions, and using quantitative techniques using available data to deliver solutions to address these questions</li><li> Proven data analysis, problem-solving skills, strategic thinking, attention to detail and bias for delivering results</li><li> Expertise in deriving insights from big data analyses to solve business and technical problems</li><li> Excellent interpersonal and communication skills, along with ability to explain complex technical concepts and analysis implications clearly across different audiences and varying levels of the organization</li><li> Ability to think innovatively and creatively about ambiguous technical and business problems<br></li></ul>Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1443093",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T09:22:17.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83600,
+    "max_value": 175000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

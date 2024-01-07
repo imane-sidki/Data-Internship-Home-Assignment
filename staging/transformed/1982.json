@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "CNO Analyst Programmer III",
+    "industry": "Internet",
+    "description": "Raytheon Technologies is a premier engineering company which provides technical solutions in software development and systems engineering that address security challenges and strengthen our customers. Raytheon Technologies hires industry-leading professionals, and we treat them like industry-leading professionals. We bring exceptional talent to an array of missions that includes computer network operations, vulnerabilities, characterization, information assurance, and emerging technologies to expand cybersecurity solutions. Job Description - Work developing and maintaining low level application, and operating system projects related to software protection and host-based personal security tools. Projects will be undertaken in small teams with close coordination with customers to quickly enhance capabilities or resolve issues in existing tools. Requirements: 10 years experience with C programming 5 years experience with advanced debugging on Windows and Linux systems Experience with Windows and Linux APIs (POSIX, win32, win native) Experience developing custom network protocols Experience with socket programming on Windows and Linux Familiarity analyzing x86 and x86_64 assembly Familiarity with subversion Security Clearance: Qualified applicants MUST HAVE ACTIVE TS/SCI WITH POLY. Required Education: BS in Computer Science, Electrical Engineering or a related discipline 170429 Raytheon is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender orientation, gender identity, national origin, disability, or protected Veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:44:44.000Z"
+  },
+  "company": {
+    "name": "JobGet",
+    "link": "https://www.linkedin.com/company/jobget"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Harwood",
+    "region": "MD",
+    "postal_code": "20776",
+    "street_address": null,
+    "latitude": 38.865578,
+    "longitude": -76.619835
+  }
+}

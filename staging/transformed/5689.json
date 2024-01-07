@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Opportunity for Working Remotely",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Do you like the challenge of crafting solutions for meaningful problems, eliminate toil by creating automation? We're looking for people who have a passion for technology, have intellectual curiosity, strong business ethics and great interpersonal skills. VMware is actively revolutionizing the way it delivers software solutions, and we need your help!<br><br>We are world-class, highly technical &amp; dynamic team of engineers that delivers wide portfolio of VMware's internal services, multiple hyper-converged, cloud environments and humongous, heterogeneous infrastructure. The SRE's (Site Reliability Engineers) ensure that our services meet the needs of our customers with the desired levels of reliability, performance and availability by developing continuous improvements, tools and automations. We are hiring additional SRE's to our global and distributed ( work from anywhere) Engineering Services team<br><br><strong><u>Roles &amp; Responsibilities<br></u></strong><ul><li>Maintain high levels of service availability as defined by service SLO/SLAs. This includes minimizing/reducing MTTA, MTTR, and overall number of service incidents. </li><li>Identify tasks, workflows, and other processes that would benefit from automation and reliably automate those processes. Whenever appropriate, tenant workflows should be self-service to the tenant.</li><li>Develop automation to execute run books and other remediations needed to support self-healing Cloud platform and infrastructure.</li><li>Ensure that services and underlying systems are properly monitored and have adequate observability. This includes identifying and monitoring proper KPIs to ensure service health, minimizing MTTA and MTTR. </li><li>Ensure that any changes to the services and underlying system are well understood, including dependent services, and appropriately tested. </li><li>Learn all the different components within the Calatrava architecture, how those components work, how to diagnose and troubleshoot to quickly isolate and determine the root cause of a problem to the appropriate component.</li><li>Learn how to install, configure, deploy, update, and patch each of the components of the Kubernetes infrastructure on vSphere<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>General programming knowledge - object and functional oriented principles, data structures, algorithms, design patterns, memory management, etc.</li><li>Proficiency with at least one of the following high-level programming languages (Python, Java, Go)</li><li>Proficient at scripting with PowerCLI/Bash</li><li>Proficient in Linux/Unix based systems</li><li>Understanding in network basics - TCP/IP concepts, common protocols like DHCP and DNS, intermediate routing &amp; switching</li><li>Understanding of virtualization &amp; HCI concepts.</li><li>Experience with configuration management tools like Ansible, Terraform or Salt</li><li>Proficiency with K8S in preferred, but not a necessity ( willing to teach the right candidate</li><li>Systematic problem-solving approach<br></li></ul><strong><u>Additional Desired Experience<br></u></strong><ul><li>Experience with vSphere with Tanzu</li><li>Experience with containers and container orchestrators - Docker, Kubernetes, Mesos</li><li>Knowledge in CI/CD pipelines</li><li>Knowledge and understanding of enterprise IT processes and ITI<br></li></ul><strong><u>VMware Offers<br></u></strong><ul><li>Attractive compensation package - competitive salary, flexible bonus scheme, company sponsored mobile phone plan and additional long-term incentive</li><li>Individual career path - management and technical career growth, enhanced by learning and development program, regular performance assessment, teams of worldwide IT professionals</li><li>Healthy work environment - company sponsored medical program, food and beverage program, sport activities, open communication<br></li></ul><strong>Category : </strong>Engineering and Technology<br><br><strong>Subcategory: </strong>Site Reliability<br><br><strong>Experience: </strong>Manager and Professional<br><br><strong>Full Time/ Part Time: </strong>Full Time<br><br><strong>Posted Date:</strong> 2021-06-03<br><br>VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what\u2019s possible today at http://careers.vmware.com.<br><br>Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T00:01:17.000Z"
+  },
+  "company": {
+    "name": "VMware",
+    "link": "https://www.linkedin.com/company/vmware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Miami",
+    "region": "FL",
+    "postal_code": "33299",
+    "street_address": null,
+    "latitude": 25.775084,
+    "longitude": -80.1947
+  }
+}

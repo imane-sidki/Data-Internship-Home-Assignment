@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Configuration Platform",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "Uber\u2019s Configuration Platform team, part of Core Infrastructure Engineering, is responsible for developing a self-servicing product and service configuration platform that is adopted by thousands of microservices and customers across engineering and city teams at Uber. We build the configuration platform that focuses on scaling with the business\u2019s growth, enable new feature launches, compliances, and regulatory policies.<br><br><strong><u>About The Role<br><br></u></strong>As a Senior Software Engineer on the Configuration Platform team, you will develop a reliable and resilient platform for a self-servicing product and service configuration platform that is adopted by thousands of microservices and customers across engineering, product, and city operations teams at Uber.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Be responsible for the design, implementation, and delivery of complex projects</li><li>Build highly reliable and resilient infrastructure</li><li>Solve complex distributed systems problems</li><li>Collaborate with cross-functional teams across engineering and city teams to enable and support the business</li><li>Mentor, coach, and support those around you<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>You have a BS, MS, or Ph.D. in Computer Science or a related field</li><li>You have experience building reliable distributed systems at scale</li><li>You have experience coding using a general-purpose programming language (eg. Go, Java, Python)</li><li>You communicate and collaborate effectively. You articulate your ideas and lead through influence.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>At least five (5) years of Software Engineering Experience<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T22:03:39.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 165000,
+    "max_value": 225000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Performance Software Engineer, Autopilot AI (Dojo)",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong><u>The Role<br><br></u></strong>As a member of the Dojo machine learning team, you will be responsible for enabling Tesla\u2019s neural networks to train efficiently on our upcoming in-house custom-silicon supercomputer systems. Join a small team of experienced developers in optimizing and scaling the deployment of our Pytorch-derived neural networks on Tesla's custom massively-parallel Dojo accelerators. Work with many of the same great engineers who delivered Tesla\u2019s custom FSD computer. The ideal candidate has experience with writing software for large distributed systems.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Understand and model the end to end training performance of the Autopilot SW team's Pytorch-derived neural networks on the Dojo system.</li><li>Develop software that scales and improves training performance based on your analysis of bottlenecks</li><li>Collaborate with the Dojo HW team to understand current HW architecture and propose future improvements<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>BS in relevant field (Computer Science, Computer Engineering, etc.)</li><li>Comfortable with C++ and Python</li><li>Capable of delivering results with minimal oversight</li><li>Good communication skills<br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li>Experience scaling neural network training systems or other large distributed systems</li><li>Familiarity with the internals of Pytorch</li><li>Performance analysis experience</li><li>Experience coding parallel programs</li><li>Able to work from Deer Creek (Palo Alto) office</li><li>Ready to start soon</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T23:59:33.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

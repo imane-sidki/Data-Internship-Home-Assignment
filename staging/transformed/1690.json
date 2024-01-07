@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "The Azure Networking team continues to innovate across the stack, pushing new scale and features into the cloud and desktop platforms while transforming our infrastructure to meet the growing needs of the 200-plus Microsoft online services, including Bing, MSN, Office 365, Xbox Live, Skype, OneDrive and several hundred thousand customers using Azure to host and run their Cloud Services in over 100 datacenters, running millions of servers and edge computing nodes all over the world. Our teams work on the breadth of networking offerings (Networking hardware, optical and IP networks that span subsea, terrestrial and metro fiber, Hybrid services enabling VPN and MPLS connectivity from customers' on premise network to our cloud, Edge services enabling optimized peering and routing, SDN products to enable customers to run their on-premise services in the cloud with Vnet, Load Balancer, Security Groups and Services, Application Gateways, Virtual Appliances to easily mimic on-premise architectures, and DNS services to reach and traffic manage services.<br>Software Defined Networking (SDN) enables customers to realize and control the network they desire for their workload in the cloud. This includes traditional enterprise network functions like ACLs, firewalls, load balancers, IPS/IDS, DoS protection, that customers want to realize in the network for their VMs in the cloud. All these need to be delivered on a shared, very high speed but low-complexity physical network based on merchant silicon. And that is where the software comes in - all these can be realized and delivered in software by building a virtual network on top of physical network, using the virtualized host as the scale-out engine for all our policy, allowing the underlying physical network to be cheap and extremely fast. Creating a new, software controlled virtualized network, optimized for the cloud, represents a once-in-ten-years technological shift. The entire industry is realizing the SDN vision and jumping into it.<br>This is an exciting opportunity to be front and center of the two key disruptions happening: cloud and SDN. Come and be part of the core Windows Azure team responsible for building the highly available, robust and large scale load balancing technology in cloud. This is a service used by millions of customers every day - a service needing continuous innovation to improve feature offerings, agility, reliability, performance, scale and cost effectiveness.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Networking and/or monitoring/diagnostics</li><li> Windows internals (networking stack and other OS components); traffic and performance monitoring</li><li> Switching and routing protocols; virtualization (hypervisors; virtual machine switching); distributed systems; directories; distributed hash tables</li><li> Network control planes; programmable networking; control plane, fault, and performance monitoring.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> 5+ years of experience in software development is a must have</li><li> Solid user mode Design and Dev skills</li><li> Experience with performance optimization of low level code</li><li> Experience shipping products or services</li><li> Passion and drive for profound impact</li><li> BS or MS or PhD degree in Computer Science, or equivalent experiences<br></li></ul>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check. This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br><br>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:06:21.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

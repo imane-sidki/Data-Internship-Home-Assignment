@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer - 100% Remote",
+    "industry": "Financial Services",
+    "description": "<p><strong>Title: Full Stack Software Engineer</strong></p><p><strong>Location: 100% Remote</strong></p><p><strong>Full time/Direct Hire</strong></p><p><br></p><p><strong><u>What We're Looking For</u></strong></p><p>We are looking for someone who takes pride in the craft and wants to be part of a team of talented engineers working to further Till's growth. You'll partner with engineering teams, product managers, analysts, and customer success to design, build, and maintain our technology platform.</p><p><br></p><p><strong><u>Responsibilities</u></strong></p><ul><li>Own one or multiple projects from start to finish and be guided by the support of a dedicated manager, mentor or lead engineer</li><li>Participate in daily team processes and learn all aspects of the software development lifecycle</li><li>Track data that will allow us to better understand how we can improve our products</li><li>Learn about the business and engineering practices</li><li>Incrementally increased the quality and reliability of our payment processing system</li></ul><p><br></p><p><strong><u>About You</u></strong></p><ul><li>Excellent written and verbal communication and interpersonal skills, able to effectively collaborate with technical and business partners</li><li>Have the ability to learn quickly</li><li>Enjoy working independently and as part of a team</li><li>Possess the ability to solve real-time technology problems</li><li>Are a self-starter and possess strong sense of self-motivation</li><li>Are selfless. Ideas don't have to originate from you in order for you to commit to a path forward</li><li>Value ownership and autonomy</li><li>Fluency in at least one non-Bash programming language such as Python, Ruby, Go, JavaScript / Node.js, Java, C#, or C/C</li><li>Experience with (or a willingness to learn) at least one major front end development framework React, Vue, Angular)</li><li>Experience with at least one cloud platform such as AWS, Azure, or GCP</li></ul><p><br></p><p><strong><u>Bonus Points</u></strong></p><ul><li>Experience with CloudFormation or Terraform</li><li>Familiarity with at least one CI / CD tool such as Harness, GitHub Actions, Spinnaker, Jenkins, or CircleCI</li><li>Experience with at least one log/metrics/alerting tools such as DataDog, Sumologic, FluentD, Prometheus, ELK, or Splunk</li><li>Experience with DynamoDB, Security Scanning Tools, AWS Multi-Region configuration, Snowflake</li></ul><p><br></p><p><strong><u>Our Tech Stack</u></strong></p><p><strong>Experience with some of these would be helpful. We'll teach you the rest!</strong></p><ul><li>AWS Lambda | DynamoDB | ECS | Docker | SQS | CloudFormation JavaScript | Python</li><li>Vue.js</li><li>Snowflake</li></ul><p><br></p><p><strong><u>Benefits</u></strong></p><p>Health insurance with 100% premium covered for employee Flexible/Untracked PTO / sick leave</p><p>Child care and health FSA</p><p>Paid parental leave</p><p>401K</p><p></p><p>Interested candidate please send your latest resume at <strong><u>sarath@mindsource.com</u></strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:31:43.000Z"
+  },
+  "company": {
+    "name": "MindSource",
+    "link": "https://www.linkedin.com/company/mindsource"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alexandria",
+    "region": "VA",
+    "postal_code": "22336",
+    "street_address": null,
+    "latitude": 38.804665,
+    "longitude": -77.04362
+  }
+}

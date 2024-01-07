@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>The Mission:<br><br></strong>This is a critical and exciting time at Enigma. We are hearing from repeated customers that our product is creating tremendous value for them and is aligned perfectly with their needs. This creates an urgent need to accelerate the build out of our machine learning capabilities.<br><br>We are looking for an experienced Machine Learning Engineer to join our growing team. You will play a central role in improving our entity resolution algorithms, predicting the behavior of millions of small businesses and developing our machine learning infrastructure.<br><br><strong>The Role:<br><br></strong>As a member of Machine Learning team, you will build the ML systems and infrastructure at the core of our small business data product. Your impact will be measured by the performance, testability and reliability of our ML systems.<br><br><strong>We are looking for someone who:<br></strong><ul><li>Combines a solid grounding in statistical learning with a passion for engineering scalable, low-maintenance systems</li><li>Inspires their teammates to perform at their best while building a collaborative, supportive team culture</li><li>Effectively manages responsibilities for the development and tuning of statistical models and the design and implementation of ML system at scale.</li><li>Engineers best-in-class solutions for developing, testing and deploying statistical models to production environments (we use PySpark)</li><li>Builds reusable frameworks and tooling that accelerate innovation<br></li></ul><strong>What makes this job interesting?<br></strong><ul><li>Technical Challenge: you will build scalable machine learning systems with low costs of ownership for a rapidly evolving product</li><li>Impact: your work product will have a direct impact on hundreds of millions of significant decisions within the massive small business economy</li><li>Learning: We're tackling problems with exciting data that don't have obvious solutions. Every day brings new opportunities to learn<br></li></ul><strong>Our ideal candidate:<br></strong><ul><li>Has 4+ years of software engineering experience with 2+ years building machine learning systems at scale</li><li>Enjoys collaborating with cross-functional partners (data scientists, data engineers and product managers) to set clear expectations and solve common problems.</li><li>Is driven to work with customers to have an impact on the real world<br></li></ul><strong>Bonus points if you:<br></strong><ul><li>Have an outstanding track record of designing and implementing machine learning systems</li><li>Have experience working as both a software engineer and a data scientist</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T17:03:07.000Z"
+  },
+  "company": {
+    "name": "Enigma Technologies, Inc.",
+    "link": "https://www.linkedin.com/company/enigma-technologies-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

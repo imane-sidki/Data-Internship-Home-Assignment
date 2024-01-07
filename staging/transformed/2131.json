@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Administrator - Windows / Citrix Engineer",
+    "industry": "Information Technology and Services,Defense & Space,Computer Software",
+    "description": "The primary duty of this role will be working to integrate Windows desktops within a Citrix environment.<br><br><strong><u>Primary Duties &amp; Responsibilities<br></u></strong><ul><li> Managing system uptime and availability for Windows/Citrix servers in a VMware virtualized architecture</li><li> Configuring, managing, and troubleshooting issues with Windows and Citrix servers</li><li> Applying operating system and software patches and upgrades for Windows/Citrix servers and workstations</li><li> Working with team members to manage port, protocol, and network configuration information for Windows/Citrix servers and hosted applications</li><li> Working with team members to implement IAVs and STIG mitigations to satisfy cybersecurity requirements</li><li> Collaborating with other team members to develop, implement, and revise processes to meet technical and security-related requirements for administration of Windows/Citrix servers and workstations</li><li> Documenting, communicating and implementing standardized processes and procedures for effective administration of servers and workstations</li><li> Maintaining all DoDD 8140.01 Cyberspace Workforce Management qualifying criteria certifications, an active clearance and all annual required training<br></li></ul><strong><u>Minimum Skills &amp; Requirements</u></strong> <ul><li>Five plus (5+) years of prior relevant experience</li><li>Comprehensive knowledge of the following:</li><ul><li>ESXi 6.0 and 6.7 </li><li>Windows 2008 and above</li><li>Windows Core 2016</li><li>RHEL 6 and above</li><li>AD Domain components (DNS, Sites and Service, Group policy, DHCP)</li></ul><li>Possess strong troubleshooting skills.</li><li>CompTIA Security + (or higher) certification<br></li></ul><strong><u>Desired Skills &amp; Requirements</u></strong> <ul><li>Experience with any of the following is a plus:</li><ul><li>Citrix 7.15 on Nutanix</li><li>ForcePoint TTC</li><li>Veeam</li><li>Exchange</li><li>PowerShell</li><li>General networking</li><li>vSAN</li><li>Rubrik</li></ul><li>Bachelor's degree in Computer Science, Information Systems, or equivalent education or work experience</li><li>Advanced certifications, such as Red Hat Certified Engineer (RHCE) or Red Hat Certified System Administrator (RHCSA), Cisco Certified Network Associate (CCNA) Or Cisco Certified Network Professional (CCNP), or similar</li><li>Experience with CI/CD processes<br></li></ul><strong>SRC IS A CONTRACTOR FOR THE U.S. GOVERNMENT, THIS POSITION WILL REQUIRE U.S. CITIZENSHIP AS WELL AS, A U.S. GOVERNMENT SECURITY CLEARANCE AT THE SECRET LEVEL WITH TOP SECRET ELIGIBILITY<br><br></strong>Scientific Research Corporation is an advanced information technology and engineering company that provides innovative products and services to government and private industry, as well as independent institutions. At the core of our capabilities is a seasoned team of highly skilled engineers and scientists with multidisciplinary backgrounds. This team is challenged daily to provide cutting edge technology solutions to our clients.<br><br>Scientific Research Corporation offers a competitive salary, an extensive benefits package and a work environment that encourages excellence. For positions requiring a security clearance, selected applicants will be subject to a government security investigation and must meet eligibility requirements for access to classified information.<br><br><strong>Scientific Research Corporation is an equal opportunity and affirmative action employer that does not discriminate in employment.<br><br></strong><strong>All qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, age, sexual orientation, gender identity, or national origin, disability or protected veteran status.<br><br></strong><strong>Scientific Research Corporation endeavors to make </strong><strong>www.scires.com</strong><strong> accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact </strong><strong>srchr@scires.com</strong><strong> for assistance. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.<br><br></strong><strong>[#CJ ]<br><br></strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:12:44.000Z"
+  },
+  "company": {
+    "name": "Scientific Research Corporation",
+    "link": "https://www.linkedin.com/company/scientific-research-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 51300,
+    "max_value": 76400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charleston",
+    "region": "SC",
+    "postal_code": "29492",
+    "street_address": null,
+    "latitude": 32.783062,
+    "longitude": -79.93444
+  }
+}

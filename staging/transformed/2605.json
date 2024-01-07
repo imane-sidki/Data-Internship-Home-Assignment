@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Position Summary:</strong></p><p><strong></strong></p><p>JibJab is looking for a Full Stack Software Engineer to help build our future. They are relied upon to improve our existing products that millions of customers already love but also look to the future to explore new ways to make our customers laugh, feel loved, or just lol. This is a unique role that will help lead the effort to take many concepts and features to production with a small team of designers and engineers.</p><p><br></p><p><strong>Experience with:</strong></p><p><br></p><ul><li>Ruby on Rails and/or Node &amp; Express.js</li><li>React.js, or similar frontend javascript framework</li><li>Typescript &amp; Javascript</li><li>SQL, preferably Postgres</li><li>Good programming principles, using SOLID and similar paradigms</li><li>Debugging efficiently and effectively</li><li>Effectively communicate and collaborate with engineering teammates, and product managers</li><li>Ability to implement user story requirements and commit to story point estimates</li><li>Diagnosing production issues, using logs and reports from customers</li><li>Backend and Frontend Page Performance analysis, using modern approaches and tools</li></ul><p><br></p><p><strong>Bonus:</strong></p><ul><li>Serverless and Micro Service architecture knowledge</li><li>Caching strategies, and working with different types of caches, such as Redis, and Cloudfront</li><li>Working with queues, such as SQS</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Innovative thinker and a collaborative team player.</li><li>0-3 years of experience</li></ul><p><br></p><p><strong>About the Company:</strong></p><p><br></p><p>JibJab is a leading digital greeting card and social expression company. We are one of the oldest start-ups, with our roots dating back to 1999 and have been deemed the \u201coriginal dot com cockroach.\u201d We live at the intersection of art and technology and have a mission of making billions of people happy.</p><p><br></p><p>We live our <strong>core values</strong>, so if these resonate with you, we may be a good fit:</p><p><br></p><ul><li><strong>Transparency: </strong>We are all on the same team and succeed by sharing what we know, both good and bad.</li><li><strong>Trust: </strong>We earn trust by delivering on our commitments. We assume people have the best intentions in both their actions and their decisions, and we advocate for their success by offering support.</li><li><strong>Joy: </strong>We deliver joy to our users and we derive joy from work. We aim to make billions of people happy.</li><li><strong>Intention: </strong>We know why we do something, what we hope to achieve and what we will learn from it.</li><li><strong>Inclusion:</strong> We build diverse teams, with a wide range of cultures, backgrounds and experiences. Diverse perspectives push our company forward and these differences lead to better, more informed decisions.</li><li><strong>Healthy Debate: </strong>We engage in respectful, enlightening debates and we listen to all opinions. When a decision is made, we fully commit and focus on the path forward.</li><li><strong>Quality: </strong>Quality is our competitive advantage. We prioritize quality over quantity. What we do, we do well.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T22:30:31.000Z"
+  },
+  "company": {
+    "name": "JibJab",
+    "link": "https://www.linkedin.com/company/jibjabllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wisconsin",
+    "region": "United States",
+    "postal_code": "54943",
+    "street_address": null,
+    "latitude": 44.639957,
+    "longitude": -89.73298
+  }
+}

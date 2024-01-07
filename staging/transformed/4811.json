@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Financial Services,Internet",
+    "description": "Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal\u2019s 392 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.<br><br><strong>Job Description Summary:<br></strong>PayPal\u2019s Send Money web team is looking for a Full-stack JavaScript engineer. The perfect candidate will demonstrate thought leadership, great execution skills and a passion for delivering superior user experiences. You'll be joining a team that delivers at high frequency by using and creating the latest technologies. We were the first PayPal team to replace Java with Node.js in 2012, and Node.js is currently in use by almost all web applications at PayPal. We have also been at the forefront in React and Redux adoption, including first production use. When you join us, you\u2019ll become part of our goal of making PayPal the best way to send money worldwide. Join us and create products used by millions of people all over the world!<br><br><strong>Job Description:<br></strong>Responsibilities:<br><ul><li>Write web application code following best practices of accessibility, internationalization, test driven development</li><li>Partner closely with design/product to craft great product experiences</li><li>Deliver code in an Agile DevOps environment</li><li>Lead code reviews to drive teams to the highest standards for Node.js apps and web apps</li><li>Provide architectural leadership in product development team</li><li>Drive teams to follow clean code principles </li><li>Drive innovation through rapid prototyping and iterative development<br><br></li></ul>Required Skills:<br><ul><li>Production Node.js application development experience</li><li>Production JavaScript application design and testing experience</li><li>Solid experience building applications on top of RESTful APIs</li><li>Solid knowledge of frameworks such as React and Redux (preferred) </li><li>Experience with web frontend technologies such as HTML5, CSS3, Webpack, LESS, Bootstrap</li><li>Solid knowledge of algorithms, design pattern and componentization approaches</li><li>Experience with cross-browser, cross-platform, and design constraints on the web</li><li>Strong attention to detail</li><li>Proven problem-solving and interpersonal communication skills</li><li>Strong desire to learn, push yourself and co-workers to excel, and share knowledge with others<br><br></li></ul>We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.<br><br>PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.<br><br>REQ ID R0076752",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T05:45:25.000Z"
+  },
+  "company": {
+    "name": "PayPal",
+    "link": "https://www.linkedin.com/company/paypal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 141000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Atlassian can hire people in any country where we have a legal entity, assuming candidates have eligible working rights and a sufficient timezone overlap with their team. As our offices re-open, Atlassians can choose to work remotely or return to an office, unless it\u2019s necessary for the role to be performed in the office. Interviews and onboarding are conducted virtually, a part of being a distributed-first company. <br><br></strong><strong><u>Job Duties<br><br></u></strong>WORK WITHIN THE COMPANY\u2019S CONFLUENCE TEAM, DIRECTLY IMPACTING END-USER EXPERIENCES THROUGH THE SOFTWARE DESIGN AND SOFTWARE IMPLEMENTATION OF NEW FEATURES AND FUNCTIONALITIES WITHIN THE CONFLUENCE UNIT. DELIVER EFFICIENT, INNOVATIVE SOFTWARE ENGINEERING IMPROVEMENTS TO CONFLUENCE PRODUCTS, AND PRODUCE SOFTWARE SOLUTIONS DIRECTLY TAILORED TO END-USER NEEDS. WORK WITH JAVA TO CONSTRUCT FAULT-TOLERANT, RELIABLE, AND DURABLE SOFTWARE SYSTEMS. EVALUATE SOFTWARE ENGINEERING TRADE-OFFS BETWEEN CORRECTNESS, ROBUSTNESS, PERFORMANCE, SPACE, AND TIME. WORK ON THE COMPANY\u2019S LARGE SCALE DISTRIBUTED SYSTEMS BUILDING MICROSERVICES AND UTILIZING AGILE SOFTWARE DEVELOPMENT METHODOLOGIES (XP, SCRUM). PRODUCE CONTINUOUS DELIVERY AND INFRASTRUCTURE AS CODE. EVALUATE TRADE-OFFS BETWEEN CORRECTNESS, ROBUSTNESS, PERFORMANCE, SPACE AND TIME.<br><br><strong><u>Minimum Requirements<br><br></u></strong>MASTER\u2019S DEGREE IN COMPUTER SCIENCE, COMPUTER ENGINEERING OR A RELATED FIELD OF STUDY PLUS TWO (2) YEARS\u2019 EXPERIENCE WORKING WITH JAVA AND/OR OTHER SERVER SIDE PROGRAMMING LANGUAGES (I.E. PYTHON, GOLANG, C++, PHP); WORKING WITH MICRO-SERVICES ORIENTED ARCHITECTURE AND EXTENSIBLE REST APIS; EVALUATING TRADE-OFFS BETWEEN CORRECTNESS, ROBUSTNESS, PERFORMANCE, SPACE AND TIME; WORKING IN SAAS, PAAS, IAAS INDUSTRY WITH PUBLIC OR PRIVATE CLOUD OFFERINGS (E.G., AWS, GAE, AZURE) OR WITH DISTRIBUTED SYSTEMS; WORKING IN ANY DATABASE TECHNOLOGY (E.G. RDBMS LIKE ORACLE, POSTGRES OR MYSQL AND/OR NOSQL LIKE DYNAMODB OR CASSANDRA.)<br><br><strong><u>Alternate Requirements<br><br></u></strong>BACHELOR\u2019S DEGREE IN COMPUTER SCIENCE, COMPUTER ENGINEERING OR A RELATED FIELD OF STUDY PLUS FIVE (5) YEARS\u2019 EXPERIENCE WORKING WITH JAVA AND/OR OTHER SERVER SIDE PROGRAMMING LANGUAGES (I.E. PYTHON, GOLANG, C++, PHP); WORKING WITH MICRO-SERVICES ORIENTED ARCHITECTURE AND EXTENSIBLE REST APIS; EVALUATING TRADE-OFFS BETWEEN CORRECTNESS, ROBUSTNESS, PERFORMANCE, SPACE AND TIME; WORKING IN SAAS, PAAS, IAAS INDUSTRY WITH PUBLIC OR PRIVATE CLOUD OFFERINGS (E.G., AWS, GAE, AZURE) OR WITH DISTRIBUTED SYSTEMS; WORKING IN ANY DATABASE TECHNOLOGY (E.G. RDBMS LIKE ORACLE, POSTGRES OR MYSQL AND/OR NOSQL LIKE DYNAMODB OR CASSANDRA.)<br><br><strong><u>Special Requirements<br><br></u></strong>MUST PASS TECHNICAL INTERVIEW.<br><br><strong><u>More About Our Benefits<br><br></u></strong>Whether you work in an office or a distributed team, Atlassian is highly collaborative and yes, fun! To support you at work (and play) we offer some fantastic perks: ample time off to relax and recharge, flexible working options, five paid volunteer days a year for your favourite cause, an annual allowance to support your learning &amp; growth, unique ShipIt days, a company paid trip after five years and lots more.<br><br><strong><u>More About Atlassian<br><br></u></strong>Creating software that empowers everyone from small startups to the who\u2019s who of tech is why we\u2019re here. We build tools like Jira, Confluence, Bitbucket, and Trello to help teams across the world become more nimble, creative, and aligned\u2014collaboration is the heart of every product we dream of at Atlassian. From Amsterdam and Austin, to Sydney and San Francisco, we\u2019re looking for people who want to write the future and who believe that we can accomplish so much more together than apart. At Atlassian, we\u2019re committed to an environment where everyone has the autonomy and freedom to thrive, as well as the support of like-minded colleagues who are motivated by a common goal to: Unleash the potential of every team .<br><br><strong><u>Additional Information<br><br></u></strong>We believe that the unique contributions of all Atlassians is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.<br><br>All your information will be kept confidential according to EEO guidelines.<br><br>If your experience looks a little different from what we\u2019ve identified and you think you can rock the role, we\u2019d love to learn more about you.<br><br>Learn more about Atlassian\u2019s culture, interviewing flow, and hiring process by checking out our Candidate Resource Hub .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T04:07:49.000Z"
+  },
+  "company": {
+    "name": "Atlassian",
+    "link": "https://au.linkedin.com/company/atlassian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85100,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

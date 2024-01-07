@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "<strong><u>Description<br><br></u></strong>Site Reliability Engineers at UKG Technology and Innovation are hybrid software/system engineers that have a breadth of knowledge encompassing all aspects of service delivery. They develop software solutions to enhance, harden and support our service delivery processes. This can include building and managing CI/CD deployment pipelines, automated testing, capacity planning, performance analysis, monitoring, alerting, chaos engineering and auto remediation.<br><br>Site Reliability Engineers must have a passion for learning and evolving with current technology trends. They strive to innovate and are relentless in their pursuit of a flawless customer experience. They have an \u201cautomate everything\u201d mindset, helping our company deploy services with incredible speed, consistency and availability.<br><br><strong><u>Qualifications<br></u></strong><ul><li> BS in Computer Science, Information Technology or related field of study is preferred.</li><li> Experience with Cloud based application, Containerization Technologies and with Microsoft and Linux Technologies</li><li> Experience with VMWare or other Virtual Server Software</li><li> Experience coding in higher-level languages (e.g., Python, Javascript, C++, or Java)</li><li> Experience in configuration and maintenance of applications such as web servers, load balancers, relational databases, storage systems and messaging systems</li><li> Experience with databases (e.g., MongoDB, MySQL, ElasticSearch, RabbitMQ, and others)</li><li> Experience with operating systems and TCP/IP network fundamentals</li><li> Experience learning software, frameworks and APIs</li><li> Ability and willingness to work evenings / nights on occasion.</li><li> Ability to lead and work in projects</li><li> Experience as a Site Reliability Engineer, Production Engineer, or equivalent</li><li> Experience with distributed system design and architecture</li><li> Experience building and managing CI/CD Pipelines</li><li> Experience with public or private cloud platforms (e.g. GCP, Kubernetes, or Openstack)</li><li> Experience with Production level monitoring and alerting with tools like Prometheus, Grafana, Datadog, etc.<br></li></ul>Corporate overview<br><br>Here at UKG, Our Purpose Is People. UKG combines the strength and innovation of Ultimate Software and Kronos, uniting two award-winning, employee-centered cultures. Our employees are an extraordinary group of talented, energetic, and innovative people who care about more than just work. We strive to create a culture of belonging and an employee experience that empowers our people. UKG has more than 13,000 employees around the globe and is known for its inclusive workplace culture. Ready to be inspired? Learn more at www.ukg.com/careers<br><br>EEO Statement<br><br><strong>Equal Opportunity Employer<br><br></strong>Ultimate Kronos Group is proud to be an equal opportunity employer and is committed to maintaining a diverse and inclusive work environment. All qualified applicants will receive considerations for employment without regard to race, color, religion, sex, age, disability, marital status, familial status, sexual orientation, pregnancy, genetic information, gender identity, gender expression, national origin, ancestry, citizenship status, veteran status, and any other legally protected status under federal, state, or local anti-discrimination laws.<br><br>View The EEO is the Law poster and its supplement.<br>View the Pay Transparency Nondiscrimination Provision.<br>UKG participates in E-Verify. View the E-Verify posters here.<br><br><strong>Disability Accommodation<br><br></strong>For individuals with disabilities that need additional assistance at any point in the application and interview process, please emailor please call 1 (978) 250 9800.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T02:33:00.000Z"
+  },
+  "company": {
+    "name": "UKG (Ultimate Kronos Group)",
+    "link": "https://www.linkedin.com/company/ukg"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Miami-Fort Lauderdale Area",
+    "region": null,
+    "postal_code": "33122",
+    "street_address": null,
+    "latitude": 25.777811,
+    "longitude": -80.21953
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>We are currently looking for Software Engineers to join our Product Capabilities team. Ifyou are passionate about software development, sharing knowledge, growing your skills, and working with great people, then join us! Our engineering team is growing, and we are looking for extraordinary engineers who enjoy building as much as we do.You will have the opportunity to contribute to the evolution of a world class engineering team. The solutions you build will enable you the opportunity to positively change lives.</p><p><strong></strong></p><p><strong>What You\u2019ll Gain</strong></p><p>You will get experience working with a cross-disciplinary team shipping real-world products to our customers around the nation. In the Product Capabilities team, you will work with the latest technologies such as Golang, Kafka, and GCP. Our team culture is autonomous yet collaborative and supportive.</p><p><strong></strong></p><p><strong>Your Responsibilities</strong></p><ul><li>Design, develop, test (unit/integration/etc), deploy and maintain application code</li><li>Develop multi-region, high performance services.</li><li>Work with a variety of technologies: Go, Ruby, Postgres, Redis, Kafka and more</li><li>Participate in the design process to build efficient, scalable and maintainable architecture</li><li>Work cross-stack with other engineering teams to drive solutions</li><li>Review and collaborate with other engineers on their code</li><li>Engineers have a high degree of ownership for all aspects of their services</li><li>Mentor and share knowledge with the team</li><li>Interface with internal stakeholders to provide technical solutions and manage expectations</li></ul><p><strong></strong></p><p><strong>Requirements</strong></p><ul><li>Demonstrated working experience with common backend service languages such as Golang, Python, Ruby, Java, Rust, etc.</li><li>Demonstrated understanding of the importance of testing discipline.</li><li>Able to apply the SOLID principles</li><li>Demonstrated experience in performance optimizations and trends.</li><li>Working knowledge of best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.</li><li>Comprehension of the principles of API design and web service integration.</li><li>Experience with SOA, micro-services, and/or distributed architecture.</li><li>Comfortable working with a distributed team.</li><li>You are willing to monitor and own the production services team</li><li>A passion for learning and development to invest in the betterment of self.</li></ul><p><strong></strong></p><p><strong>Nice to Haves</strong></p><ul><li>Experience with Golang.</li><li>Caching and in-memory database technologies</li><li>Asynchronous/Multi-threaded Programming Patterns</li><li>Message queuing technologies/strategies</li><li>Open source software and dependency management</li><li>Working knowledge of agile and DevOps practices and principles</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T21:55:22.000Z"
+  },
+  "company": {
+    "name": "High5",
+    "link": "https://www.linkedin.com/company/high5hire"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

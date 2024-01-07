@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Who We Are<br><br></u></strong>Founded in 2005, the 2K label includes some of the most talented game development studios in the world today including Firaxis Games, Visual Concepts, Hangar 13, 2K Czech, and Cat Daddy Games. Our world-class team of engineers, developers, graphic artists, and publishing professionals are stewards of a growing library of critically acclaimed franchises such as Battleborn, BioShock, Borderlands, The Darkness, Mafia, NBA 2K, Sid Meier\u2019s Civilization, WWE 2K, and XCOM. 2K is headquartered in Novato, California, and is a wholly-owned label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO).<br><br>2K develops and publishes interactive entertainment globally for console systems, handheld gaming systems, and personal computers, including smartphones and tablets, which are delivered through physical retail, digital download, online platforms, and cloud streaming services. 2K publishes titles in today\u2019s most popular gaming genres, including shooters, action, role-playing, strategy, sports, casual, and family entertainment.<br><br>Our vision at 2K is to create a diverse and inclusive environment to \u201cCome as You are and Feel Equipped to do Your Best Work!\u201d We are dedicated to promoting diversity, multiculturalism, and equality in all that we do. Our communities are focused on increased access and personal growth, and their greatness depends on a diversity of race, gender, sexual orientation, religion, ethnicity, national origin, and perspective. We're an equal opportunity employer, and we're excited to build the future of co-living with the world's most hardworking and passionate people!<br><br>The Core Technology group is responsible for identifying common problems across the company and building solutions to those problems. We fill our team with individuals who enjoy a challenge, enjoy working in a fast-paced environment, and want to take ownership and responsibility for products. If you are passionate about working in the game industry and implementing cool features for our game products, come join our team.<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Create documented architectures for testable, scalable, distributed, fault-tolerant systems and write some of the code</li><li>Interface with external groups to provide architecture, code feedback, strategy, and direction</li><li>Mentor other engineers and champion best-practices within the engineering team</li><li>Work with product managers to gather requirements</li><li>Reduce technical debt associated with legacy applications through innovation and automation<br></li></ul><strong><u>Who We Think Will Be A Great Fit<br></u></strong><ul><li>Proficiency building Go and Java serverless or micro-services on Linux</li><li>Skilled with unit and automated testing</li><li>Experience with multiple SQL and noSQL databases at scale</li><li>Ability to explain technical issues to both technical and non-technical audiences</li><li>An attitude of achievement when our partners are successful</li><li>B.S. in Computer Science, or equivalent<br></li></ul><strong>Bonus items<br></strong><ul><li>A passion for working in games</li><li>Solid C# and/or C++</li><li>Jenkins or similar continuous deployment tools</li><li>Capable with Perforce</li><li>OSX and Windows development knowledge</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T20:53:41.000Z"
+  },
+  "company": {
+    "name": "2K",
+    "link": "https://www.linkedin.com/company/2k-games"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Downtown Austin",
+    "region": "TX",
+    "postal_code": "78641",
+    "street_address": null,
+    "latitude": 30.270294,
+    "longitude": -97.74344
+  }
+}

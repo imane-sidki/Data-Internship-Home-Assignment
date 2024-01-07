@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Staff Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer & Network Security,Security and Investigations",
+    "description": "<strong><u>Description<br><br></u></strong>Job ID (22-491) OPEN TO REMOTE<br><br>Come Join Our Passionate Team! At Barracuda, we make the world a safer place. We believe every business deserves access to cloud-enabled, enterprise-grade security solutions that are easy to buy, deploy, and use. We protect email, networks, data and applications with innovative solutions that grow and adapt with our customers\u2019 journey. More than 220,000 organizations worldwide trust Barracuda to protect them \u2014 in ways they may not even know they are at risk \u2014 so they can focus on taking their business to the next level.<br><br>We know a diverse workforce adds to our collective value and strength as an organization. Barracuda Networks is proud to be an Equal Opportunity Employer, committed to equal employment opportunity and equitable compensation regardless of race, gender, religion, sex, sexual orientation, national origin, or disability.<br><br><strong>Envision yourself at Barracuda <br><br></strong>As a Senior Staff Site Reliability Engineer you will be responsible for managing our production services and will work with Engineering and Operations teams to ensure reliability, scalability, and performance on the AWS public cloud. You will have significant opportunities to make a difference in how we run on the cloud, with direct impact to ourselves, engineering, and our customers.<br><br><strong>Tech Stack: </strong>Elasticsearch, AWS, EKS, Kubernetes, EC2, Fargate, Github Actions, Argo CD, Chef, Postgresql, Ubuntu, plus more<br><br><strong><u>What You\u2019ll Be Working On<br></u></strong><ul><li> Identifying and implementing improvements that reduce costs, reduce toil, and reduce risk.</li><li> Ensure service reliability and uptime</li><li> Participate in rotating on-call</li><li> Troubleshooting issues across the AWS stack: Network, application, automation, software</li><li> Collaborating with internal groups to identify, develop, and deploy manageable, scalable and robust services</li><li> Representing Cloud Engineering in design reviews and operational readiness exercises for new and existing services<br></li></ul><strong><u>What You Bring To The Role<br></u></strong><ul><li> 5+ years experience in managing systems in AWS</li><li> Bachelor\u2019s degree or equivalent work experience</li><li> Knowledge of DevOps principles and application to software delivery in cloud architecture</li><li> 3+ years of Strong experience with a Kubernetes ecosystem in production</li><li> Experience with modernizing past tech stacks is a plus</li><li> Elasticsearch experience is a huge plus<br></li></ul><strong><u>What You\u2019ll Get From Us<br><br></u></strong>A team where you can voice your opinion, make an impact, and where you and your experience are valued. Internal mobility \u2013 there are opportunities for cross training and the ability to attain your next career step within Barracuda.<br><ul><li> High-quality health benefits</li><li> Retirement Plan with employer match</li><li> Career-growth opportunities</li><li> Flexible Time Off and Paid Time Off benefits</li><li> Volunteer opportunities<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T01:42:41.000Z"
+  },
+  "company": {
+    "name": "Barracuda",
+    "link": "https://www.linkedin.com/company/barracuda-networks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

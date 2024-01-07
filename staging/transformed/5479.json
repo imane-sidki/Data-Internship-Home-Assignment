@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer Azure",
+    "industry": "Higher Education",
+    "description": "<p><strong>Opportunity:</strong></p><p><strong> </strong></p><p>As a Data Engineer Azure, you will be responsible for developing, implementing, and optimizing modern cloud data solutions on the Azure Synapse platform in an agile environment. You will be instrumental in supporting migrations of existing integrations and data models to the Azure cloud. </p><p><br></p><p><strong>Essential Duties and Responsibilities:</strong></p><ul><li>Data</li></ul><ol><li>Assist business users with technical solutions</li></ol><ul><li>Work with business owners to identify new types of data that are of interest to be pulled into the University Data Hub</li><li>Gather requirements, perform data analysis and profile data to design appropriate solutions</li><li>Design, develop and deploy schemas, tables, snapshots, and views to deliver cloud-based Data and Analytical Solutions</li><li>Improve data usability, reliability, efficiency, security, and quality in adherence with industry best practices (e.g., change data capture, data quality monitoring, user access provisioning) and platform governance</li><li>Test and document data</li><li>Data Platforms</li></ul><ol><li>Design, configure, deploy, and evolve robust, secure, and optimized Azure enterprise-scale cloud data solutions</li><li>(Azure Data Lake, SQL, Synapse, Data Factory, Azure Functions)</li></ol><ul><li>Data ingestion and -consumption capacity-, and performance planning and optimization in support of Analytical- and Machine learning initiatives</li><li>Support of automation efforts to improve version control and to accelerate releases.</li><li>Support operations by identifying, researching, and resolving performance and production issues</li><li>Data Integrations</li></ul><ol><li>Plan and execute data integration strategies and approaches for batch and near real-time data Acquire, ingest, and process data from multiple source systems into the data lake</li></ol><ul><li>Design, develop, document, and test data pipelines that ingest and store data from structured and unstructured sources within the Azure data platform</li></ul><p><strong>Qualifications:</strong></p><p><br></p><p><strong>Soft Skills:</strong></p><ul><li>The ideal candidate will be an energetic self-starter who can assess complex data problems, take ownership and drive for results, combines strong analytical skills with a focus on detail, thoroughness, and quality, and is a team player who can work independently but with a passion for sharing knowledge with others.</li></ul><p><strong>Technical Skills:</strong></p><p>Must have:</p><ul><li>2+ years of hands-on experience working in Azure, including Data Factory, SQL Data Warehouse, Synapse, and Data Lake Storage</li><li>3+ years of experience working with dimensional data warehouses</li><li>5+ years of experience working in a Data Engineering role or building and maintaining data solutions</li><li>5+ years of SQL Proficiency developing SQL Server code, including stored procedures, views, and CTEs.</li><li>Experience in scaling data solutions in the Azure stack</li><li>Hands-on experience in SQL Server optimization best practices</li><li>Proven experience developing data pipelines for acquisition, cleansing, and integration (ADF) and CDC, error handling best practices</li></ul><p>Ideally:</p><ul><li>Some experience using PowerBI and Data Visualization</li><li>Some experience with Data preparation or data profiling tools</li><li>Experience in writing user stories for data ingestion, change data capture, data transformation, and data validation using Atlassian Jira</li><li>Any experience using Talend, Databricks, Spark, Hadoop, AWS Redshift, or other non-Microsoft technologies</li><li>Knowledge of data lineage and data governance</li></ul><p><strong>Additional Requirements:</strong></p><ul><li>Bachelor's degree or equivalent work experience required.</li><li>A minimum of 5+ years of IT experience as a DBA or data engineer</li></ul><p><br></p><p><br></p><p>DeVry is proud to be an Equal Employment Opportunity employer. We believe diversity is essential to our educational mission and to the success of our community. We are committed to fostering a working environment where differences are respected, valued, and embraced.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:22:31.000Z"
+  },
+  "company": {
+    "name": "DeVry University",
+    "link": "https://www.linkedin.com/company/devry-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Naperville",
+    "region": "IL",
+    "postal_code": "60563",
+    "street_address": null,
+    "latitude": 41.771496,
+    "longitude": -88.148
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, great ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job, and there\u2019s no telling what we could accomplish.<br><br><br>Apple Cloud Machine Learning team is looking for hardworking and strong Software and ML platform engineers (at all levels of seniority) to help us build the next generation Anomaly detection platform, and other ML platforms. Our team is solving key challenges in detecting outliers in big data using Machine Learning, model delivery, and serving with driven focus on data security and preserving user privacy. <br><br><br>You\u2019ll work in a small and dynamic team, building new functionalities for Anomaly detection, and ML platforms and collaborating across groups. You\u2019ll also participate in crafting systems, algorithm, and optimization efforts to ship product with impact.<br><br><br>This position requires a broad set of software engineering skills, focusing on developing ML platform pieces. You should have experience with shipping production systems that scale to millions of users.<br><br> <br><strong>Key Qualifications<br></strong> <br>You've earned a: (a) PhD in Computer Science with experience building production systems, or (b) MS in CS with 4+ years of experience in working with large data projects with at least 1 year running experiments or building experimentation platform, or (c) BS in CS with 6+ years of experience in the industry with at least 2 year running experiments or building experimentation platform.<br><br><br>Proven track record of delivering production software.<br><br><br>Experience building large scale applications/services with Java, Scala or Python.<br><br><br>Experience with SQL/NoSQL databases, Spark, Hadoop, or other distributed frameworks.<br><br><br>Experience with machine learning solution on time-series is a plus.<br><br><br>Strong data-driven thinking.<br><br><br>Proven mathematical knowledge.<br><br> <br><strong>Description<br></strong> <br>In this role, you\u2019ll <br><br><br>-  Build platforms and features which will help data driven decision-making and improve Apple\u2019s user experience. <br><br><br>-  Build anomaly detection platform and work closely with partner teams to help integration and analysis.<br><br><br>-  Build distributed backend systems for training and serving ML models at Apple scale.<br><br><br>-  Build backend for data visualization tools to facilitate analysis &amp; synthesis of complex datasets. <br><br><br>-  Provide technical leadership. <br><br><br>-  Influence data-driven optimization efforts.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>B.S. in Computer Science with 6+ years experience<br><br><br>M.S. in Computer Science with 4+ years experience<br><br><br>Ph.D. in CS, industry experience a plus<br><br> <br>Role Number: 200269967<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T06:50:11.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

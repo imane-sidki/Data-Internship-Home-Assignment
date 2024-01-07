@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Defense & Space",
+    "description": "<p>The candidate must have SQL skills and must also have experience using Python or R. The analyst should be able to create strong, telling visualizations using a BI Tool, indicating possible areas of further investigation. Strong communication skills are a must, in order to help explain issues to the customer and provide possible solutions.</p><p><strong>Data Scientist Required or Preferred Skills</strong></p><ul><li>Solid presentation skills.</li><li>Must have a Data Science Degree</li><li>Must have neural network knowledge/experience</li><li>Strong communication skills \u2013 able to give technical information in understandable terms.</li><li>Able to interact easily with clients.</li><li>SQL.</li><li>Python/R experience</li><li>Knows how to format and manipulate data.</li><li>Subject matter expertise in military maintenance data is preferred.</li><li>Experience in BI tools is preferred but not required.</li><li>Must be eager to learn and have an aptitude for thinking outside of the box.</li><li>Needs to be able to communicate ideas clearly and work in a collaborative environment.</li><li>Must have a propensity collecting and analyzing data, and presenting results in a concise manner with minimal guidance.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T16:25:20.000Z"
+  },
+  "company": {
+    "name": "Freya Systems",
+    "link": "https://www.linkedin.com/company/freya-systems-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64100,
+    "max_value": 125000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Media",
+    "region": "PA",
+    "postal_code": "19091",
+    "street_address": null,
+    "latitude": 39.92034,
+    "longitude": -75.38699
+  }
+}

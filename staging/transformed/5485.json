@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Assoc Software Engineer-Java",
+    "industry": "Financial Services,Retail",
+    "description": "<strong><u>What You'll Do...<br><br></u></strong>Under the guidance of a senior, lead or principal software engineer, designs, develops and maintains software components and products that support H&amp;R Block business applications.<br><br><ul><li>Uses tools, languages, coding standards and best practices to develop new product features and maintain year over year product functionality and enhancements. Creates and executes unit tests and addresses defects. Works closely with the QA, User Experience and other teams to ensure consistent understanding of requirements and approach.</li><li>Designs, develops and maintains software components.</li><li>Creates and maintains documentation of design approaches.</li><li>Creates and maintains documentation on internal architecture of the system under the guidance of senior or lead software engineer.</li><li>Participates in technical design and code reviews for all new enhancements and maintenance work delivered.</li><li>Under the guidance of the lead engineer or senior software engineer, understand business and functional requirements and produces technical specifications and product requirements.</li><li>Creates, maintains and executes unit test and alpha test plans.</li><li>Maintains current knowledge on the latest technologies relevant to the role regarding algorithms, language, design methodology, third party development tools, application platforms, hardware compatibility and operating systems.<br></li></ul><strong><u>What You'll Bring To The Team...<br><br></u></strong>Education:<br><br><ul><li>Bachelor\u2019s degree in a related field or the equivalent through a combination of education and related work experience.</li></ul>Work Experience:<br><br><ul><li>Knowledge and/or ability with Java</li><li>Knowledge and/or ability Microservices </li><li>Knowledge and/or ability APIs / REST / SOAP/Graph QL </li><li>Knowledge and/or ability SQL / Hibernate<br></li></ul><strong>It would be even better if you also had...<br><br></strong><ul><li>Knowledge with SQL Schema Design/Data Modeling</li><li>Knowledge with Javascript/Client-Side Technologies </li><li>Knowledge and/or ability with Azure Platform</li><li>Knowledge with Scrum / Kanban </li><li>Knowledge of Software Testing Methodology <br></li></ul><strong><u>About H&amp;R Block...<br><br></u></strong>We\u2019re here to live our purpose\u2014to provide help and inspire confidence in our clients and communities everywhere. We take our work personally, because we know what it represents: Families and homes. Livelihoods and lives.<br><br>We\u2019ve been true to that purpose since brothers Henry and Richard Bloch founded our company in 1955. Since then, we\u2019ve grown to approximately 12,000 tax offices throughout the United States and around the world. When you join our team, you\u2019ll add to the momentum of a forward-thinking company\u2014one that defined an industry and is now leading its transformation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:15:48.000Z"
+  },
+  "company": {
+    "name": "H&amp;R Block",
+    "link": "https://www.linkedin.com/company/h&amp;r-block"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 23,
+    "max_value": 36.6,
+    "unit": "HOUR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>About Us:<br><br></strong>SentinelOne is defining the future of cybersecurity through our XDR platform that automatically prevents, detects, and responds to threats in real-time. Singularity XDR ingests data and leverages our patented AI models to deliver autonomous protection. With SentinelOne, organizations gain full transparency into everything happening across the network at machine speed \u2013 to defeat every attack, at every stage of the threat lifecycle.<br><br>We are a values-driven team where names are known, results are rewarded, and friendships are formed. Trust, accountability, relentlessness, ingenuity, and OneSentinel define the pillars of our collaborative and unified global culture. We're looking for people that will drive team success and collaboration across SentinelOne. If you\u2019re enthusiastic about innovative approaches to problem-solving, we would love to speak with you about joining our team!<br><br><strong>What are we looking for?<br><br></strong>We are looking for a Site Reliability Engineer - Senior to join the platform team inside SentinelOne\u2019s SRE organization. SRE organization\u2019s mission is to keep our uptime promise to our customers by ensuring we meet our SLOs/SLAs, help our engineering teams ship software to our customers fast and with quality and ensure our customers are successful. In this job, you will have an amazing opportunity to drive outcomes that improve reliability, stability and cost efficiency of SentinelOne\u2019s Singularity platform. We are looking to add a Senior SRE with prior extensive operations experience for a SaaS product, who can drive deployment re-architecture with focus on self-service and automation. Someone who has delivered SaaS products on multi-cloud, on-prem and air gapped environments, driven continuous delivery of software, has run incident post-mortems, has provided feedback to engineering architecture decisions and has automated repetitive operational tasks would be a great fit. You will join a like minded team of awesome SRE engineers who help run our operations smoothly at scale by building a platform on which SentinelOne\u2019s services can run. If the thought of running a large scale cybersecurity platform on various cloud providers, on-prem and air gapped environments excite you, you\u2019ve found the right place!<br><br>We value good written communication skills, data driven decisions and a keen eye for continuous improvements. You\u2019ll help simplify, have a passion for new ideas and know how to execute iteratively towards the final goal. We value candor and collaboration.<br><br>SRE and DevOps are two titles loosely used in the industry. A SRE engineer at SentinelOne defines and provisions the common set of tools the engineering teams use to facilitate dev &lt;-&gt; ops collaboration by consulting and driving best practices. SRE at SentinelOne is also responsible for uptime and providing feedback to engineering on architecture/software resiliency. A DevOps engineer operates as the last mile consultant/accelerator to help engineering teams onboard on SRE\u2019s platform and processes.<br><br><strong>Requirements:<br></strong><ul><li>3+ years of experience in leading design and architecture of infrastructure (cloud and on-prem combined)</li><li>5+ years of experience in running site reliability for SaaS products</li><li>7+ years experience in running operations at a large scale </li><li>3+ years production experience with orchestration systems like Kubernetes, Nomad or Mesos (We are a Kubernetes shop)</li><ul><li>Any experience with Rancher, Platform9 or other managed k8s providers is desired</li><li>Familiarity with on-prem and air gapped deployments on top of k8s</li></ul><li>Multi-cloud experience, deep expertise with at least one of AWS/GCP/Azure platforms</li><li>Familiar with IaaC and tools (Terraform or Pulumi)</li><li>Familiarity with CI and practical delivery using any of Travis, CircleCI, Codefresh, Spinnaker, Jenkins or buildkite, familiarity with deployment strategies like blue green, rolling deploys, canary deploys and best practices around deployment automation (with tools like shipit or spinnaker) is desired</li><li>Familiarity with mainstream languages (Python/GoLang/Ruby)</li><li>Familiarity with SecOps and Compliance processes and their touch points with SRE is desired</li><li>Polyglot experience with other SRE tools \u2013 we integrate with more tools every day </li><li>Curiosity, fast-learning, pursuit to improvements, great communication</li><li>Keeping a pulse on latest SRE trends and Open Source<br></li></ul>Apart from the above technical skills, following soft skills are desired:<br><ul><li>Ability to work in a diverse and distributed team is highly desired</li><li>A self-starter that is passionate and motivated by new technologies and has empathy for legacy systems</li><li>A quick learner that can navigate through unfamiliar programming languages, systems and processes</li><li>Prior product building experience is optional but desired<br></li></ul><strong>Why us?<br><br></strong>You will work on real-world problems and make an impact by protecting our customers from cyber threats. You will join a cutting-edge project and will be able to influence the architecture, design and structure of our core platform. You will tackle extraordinary challenges and work with the very BEST in the industry.<br><ul><li>Medical, Vision, Dental, 401(k), Commuter, and Dependent FSA</li><li>Unlimited PTO</li><li>Paid Company Assigned Holidays</li><li>Paid Sick Time</li><li>Gym membership reimbursement</li><li>Cell phone reimbursement</li><li>Numerous company-sponsored events including regular happy hours and team-building events<br></li></ul>SentinelOne is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.<br><br>SentinelOne participates in the E-Verify Program for all U.S. based roles.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T02:28:57.000Z"
+  },
+  "company": {
+    "name": "SentinelOne",
+    "link": "https://www.linkedin.com/company/sentinelone"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

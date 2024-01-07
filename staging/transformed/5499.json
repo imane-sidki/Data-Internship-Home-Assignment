@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Frontend Software Engineer",
+    "industry": "Computer Software",
+    "description": "There is only one Data Cloud. Snowflake\u2019s founders started from scratch and designed a data platform built for the cloud that is effective, affordable, and accessible to all data users. But it didn\u2019t stop there. They engineered Snowflake to power the Data Cloud, where thousands of organizations unlock the value of their data with near-unlimited scale, concurrency, and performance. This is our vision: a world with endless insights to tackle the challenges and opportunities of today and reveal the possibilities of tomorrow.<br><br>How do you make the world's most powerful Cloud Data Platform a delight to use? We are the fastest growing software company at this scale in history and looking to push that to new heights by building the single best visual user experience in the industry.<br><br>The Snowflake Data Cloud is the first to realize the full potential of the massive New Data Economy. We were the first to introduce truly frictionless data sharing, have a rapidly growing data marketplace and monetization platform, and are powering the most complete Analytics platform with a seamless and intuitive visual experience, powerful data visualizations, and world class management interface.<br><br>We are looking for talented frontend engineers to help us continue to grow and build compelling new experiences using a best-of-breed tech stack (React/Hooks, Typescript, Node.JS, Kubernetes, Go). Bring your passion for delighting customers and deep experience building cutting edge web apps and help us build the future of the Data Cloud.<br><br><strong><u>As a Senior Front End Engineer, You Will<br></u></strong><ul><li>Lead and drive projects that span our stack, including go and node services hosted in Kubernetes and a UI written in typescript and react(hooks)</li><li>Promote strong collaboration within a cross functional team, including design, product management.</li><li>Deliver features requiring close coordination with several sister teams such as data sharing, cloud infrastructure, and cross-region replication. </li><li>Be a strong contributor to the product vision and drive team planning.</li><li>Mentor and coach junior team members.</li><li>Build for scale and high performance.<br></li></ul><strong><u>Our Ideal Senior Front End Engineer, Will Have<br></u></strong><ul><li>Significant software development experience, including 5+ years of experience in product web UI application development.</li><li>Experience contributing to interactive dashboards and visualization platforms and/or rich interactive GIS applications desirable. </li><li>Distributed system development experience is a big plus.</li><li>Deep understanding of modern web applications design architecture, good API design patterns, performance and scale.</li><li>Demonstrated technical leadership experience, such as being an architect or tech lead for high impact customer facing projects.</li><li>Experience in modern technologies such as javascript, typescript, react, angular, node. </li><li>Experience with Canvas, SVG and other visualization tools/libraries a plus. <br></li></ul><strong>WHY JOIN THE ENGINEERING TEAM AT SNOWFLAKE?<br><br></strong><strong><u>As a Member Of Our Team, You Will<br><br></u></strong>Building cutting edge cloud technologies is complex, and our engineering team surmounts the obstacles.<br><ul><li>Build an industry-leading data platform that customers love.</li><li>Create intuitive, elegant, and accessible user interfaces that make a powerful and highly technical product simple to use. </li><li>Learn about and contribute to:</li><ul><li>Super-robust and secure enterprise SaaS platform that services hundreds of customers and millions of complex queries daily.</li><li>Highly-scalable and reliable data processing platform that runs on hundreds and thousands of machines.</li><li>User interfaces bridging the enterprise world with the consumer experience.</li></ul><li>Join a world-class team of both industry veterans and rising stars.<br></li></ul>Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.<br><br>How do you want to make your impact?",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:10:52.000Z"
+  },
+  "company": {
+    "name": "Snowflake",
+    "link": "https://www.linkedin.com/company/snowflake-computing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "HERE's OneMap team is looking for a Data Scientist that will helping with the creation of mapping products that are highly available, performant, and near real-time and edge computing on vehicle. We drive continuous re-architecture improving service latency, accuracy of content, service robustness, and cost-of-ownership. Relentlessly eliminating undifferentiated work, services, content domains, and products (both new and old) in favor of single sourced and open building blocks. As owners of Here\u2019s front-line systems for both ingestion and delivery to automotive customers, we lead innovation in both re-use, automation of operations and next evolution of products.<br><br><br><br>Who are you?<br><br>-2+ years of professional experience (All levels including Graduate Student)<br>-Python or C++<br>-Object detection / tracking<br>-Hands-on experience with designing and training deep learning models (CNN, RNN, LSTM, PointNet etc.) on large-scale datasets in a distributed environment<br>-(Nice to Have) Experience with applying deep learning techniques to sensor fusion, 3D object detection, tracking, or predicting the future behavior of agents<br>-Autonomous driving<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T23:21:46.000Z"
+  },
+  "company": {
+    "name": "HERE Technologies",
+    "link": "https://nl.linkedin.com/company/here"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

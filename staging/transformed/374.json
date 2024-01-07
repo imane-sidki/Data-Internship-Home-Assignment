@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<p>SilkRoad Technology is the world\u2019s leader in strategic onboarding for global workforce readiness and transformation. We help organizations prepare their people for change by designing intentional, personalized journeys to increase retention and maximize agility throughout their careers. SilkRoad combines our leading strategic onboarding capabilities with world-class consulting services to deliver highly scalable, personalized experiences that engage employees and drive long-term business performance such as productivity, profitability, growth and agility.</p><p><br></p><p>Our Software Development Team is seek a<strong> Software Engineer II</strong> to be part of a team responsible for the development and deployment of SilkRoad products and services. As part of the Development team, the Software Engineer II will be involved in design, coding, unit testing, code review, and automating build/deployment of our services and applications. <strong>This position can be located anywhere in the continental United States but may require periodic travel for in-person team meetings.</strong></p><p><br></p><p><strong>Your Contributions To SilkRoad Will Include:</strong></p><p><br></p><ul><li>Owning a functional area.</li><li>Breaking large stories down into sub-tasks, giving higher-level status updates.</li><li>Writing test plans.</li><li>Taking operational responsibility.</li><li>Setting measurable goals and meeting them.</li><li>Reviewing code changes.</li><li>Helping mentor new hires.</li></ul><p><br></p><p><strong><u>Required Skills:</u></strong></p><p><br></p><ul><li>Proficient with cloud software development and agile development practices.</li><li>Good hands-on knowledge of Configuration Management and Deployment tools.</li><li>Proficient with build and deployment automation in a cloud environment.</li><li>Proficient with git and git workflows.</li><li>Knowledge of cloud platforms.</li><li>Experience with a variety of technology areas.</li><li>Ability to work independently between periodic check-ins.</li><li>Estimates timelines effectively; identifies and communicates roadblocks in timely manner; takes operational excellence seriously.</li></ul><p><br></p><p><strong><u>Required Experience:</u></strong></p><p><strong><u><span class=\"ql-cursor\"></span></u></strong></p><ul><li>Bachelor's degree in Computer Science or other technical discipline, or equivalent work experience.</li><li>Minimum of 5 years of experience developing commercial software, preferably in a cloud environment.</li><li>Experience with modern Microsoft stack (C#, SQL Server,.NET Core), UI frameworks (React, material-ui) is preferable.</li><li>Minimum of 3 years of experience developing Continuous Integration and Continuous Deployment pipelines using modern tools such as Jenkins and goCD.</li><li>Minimum of 3 years of experience with Git and Git workflows.</li><li>Experience with C++, ColdFusion is a plus.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:02:17.000Z"
+  },
+  "company": {
+    "name": "SilkRoad Technology",
+    "link": "https://www.linkedin.com/company/silkroad"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

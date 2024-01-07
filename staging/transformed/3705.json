@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "",
+    "description": "<p><strong><u>Responsibilities</u></strong></p><ul><li>Work on a cross-functional team including Data Scientists, Product Managers, Engineers, and marketing leads across the organization.</li><li>Build scalable tools to measure transactional data trends and risk measurements. Develop algorithms and experiments to minimize merchant default risk and to forecast cash flow demand.</li><li>Create and maintain data pipelines, dashboards, and data models around our communications ecosystem. Identify and own data latency and data quality issues.</li><li>Pull data and conduct product analysis to discover and suggest new product functionality and optimize existing services and systems.</li><li>Prototyping new features and building new ideas by writing code in Python.</li><li>Implement new approaches in collaboration with software engineers in production (Python, Ruby on Rails, Golang and others).</li></ul><p><br></p><p><strong><u>Requirements</u></strong></p><p><strong>Required Skills<em>:</em></strong> Python, Jupyter, Pandas</p><p><strong>Nice to have Skills:<em> </em></strong>SQL</p><p><strong>Additional Requirements</strong></p><p>This job requires the candidate to be onsite in Chicago for 1-3 months with the option to work fully remotely afterward.</p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T01:41:59.000Z"
+  },
+  "company": {
+    "name": "abc",
+    "link": "https://www.linkedin.com/company/wicked-fashions-inc-southpole-bangladesh"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

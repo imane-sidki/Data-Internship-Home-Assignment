@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Looking for a full stack developer that has expertise in UI technologies including JS, React, Angular, Flask, etc",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T03:19:56.000Z"
+  },
+  "company": {
+    "name": "Data Safeguard Inc.",
+    "link": "https://www.linkedin.com/company/datasafeguard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

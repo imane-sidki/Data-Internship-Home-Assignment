@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (JoinOCI-Ns2)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Site Reliability Engineer</strong><strong>\u2013 Technical Operations<br><br></strong><strong>Cloud Infrastructure Group (Reston, VA or Seattle, WA)<br><br></strong>The Oracle Cloud Infrastructure (OCI) team can provide you the opportunity to build and operate a suite of massive scale, integrated cloud services in a broadly distributed, multi-tenant cloud environment. OCI is committed to providing the best in cloud products that meet the needs of our customers who are tackling some of the world\u2019s biggest challenges.<br><br>We offer unique opportunities for smart, hands-on engineers with the expertise and passion to solve difficult problems in distributed highly available services and virtualized infrastructure. At every level, our engineers have a significant technical and business impact designing and building innovative new systems to power our customer\u2019s business critical applications.<br><br><strong>What is Technical Operations at OCI?<br><br></strong>We are building the next generation IaaS cloud service and are providing a world class cloud support experience. We are building a team of energetic, customer-focused service operations engineers that blend system admin, incident command, and NOC engineering disciplines. You\u2019ll be part of a dynamic team that learns broadly how our cloud platform works so you can be the bridge between product engineering and our partners.<br><br><strong>Who are we looking for?<br><br></strong><strong><u>Some Of Your Responsibilities Are<br><br></u></strong>As part of the broader Engineering organization, you will act as the voice of the customer to influence product features and plans to improve the customer experience. This role is integral to the success of our customer relationships and is critical to the success of the platform. This role will support Oracle\u2019s Government customers.<br><ul><li>Act as the software development liaison between all internal service teams and operations in secured regions.</li><li>Escalation point for software operations and maintenance within the region.</li><li>Architect, deploy code, and execute other changes within the region.</li><li>Lead and guide others in timely resolution and documentation of incidents.</li><li>Ensures thorough documentation of incidents through company-standard reporting methods.</li><li>Act as lead/mentor for other service operators.</li><li>Act as a point of escalation for incidents and other issues arising within the region.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Ability to maintain a US government Top Secret SCI w/ Polygraph security clearance .</li><li>Proficient with writing services in Python, Ruby, Perl, JavaScript, or Java</li><li>Familiarity with core protocols (DNS, DHCP, HTTP, TCP)</li><li>Proficient with communication skills (writing, organization, learning exchange)</li><li>Most importantly, the aptitude to be a good team player and the willingness to learn and implement new Cloud technologies as needed</li><li>Methodical approach to troubleshooting complex problems</li><li>Familiarity with code versioning tools like Git.</li><li>Background in operations-monitoring, alerts, etc. for large scale environments</li><li>7+ years managing large scale, highly distributed, services infrastructures<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>REST APIs</li><li>Experience building solutions on the cloud public/private and cloud computing/networking patterns</li><li>Knowledge of Linux internals and host-based networking</li><li>Experience in production software development with Agile methodologies</li><li>Expert troubleshooting and problem-solving skills</li><li>Familiarity with configuration management solutions such as Chef, Puppet, etc.</li><li>A BS or MS in Computer Science, or equivalent<br></li></ul>Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.<br><br>As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. You will be responsible for defining and developing software for tasks associated with the developing, designing and debugging of software applications or operating systems.<br><br>Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. Leading contributor individually and as a team member, providing direction and mentoring to others. BS or MS degree or equivalent experience relevant to functional area. 7 years of software engineering or related experience.<br><br><strong><u>About Us<br><br></u></strong>Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It\u2019s when everyone\u2019s voice is heard and valued, that we are inspired to go beyond what\u2019s been done before. That\u2019s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.<br><br>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T11:00:49.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

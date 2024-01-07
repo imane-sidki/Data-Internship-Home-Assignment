@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Research Engineer/Senior Research Engineer, Scientific Programmer",
+    "industry": "Research,Biotechnology,Pharmaceuticals",
+    "description": "At Roivant, we are passionate about discovering and developing new drugs to impact patients' lives. Since its inception in 2014, Roivant has launched over 20 portfolio companies (Vants), overseen 5 successful IPOs, established a $3B partnership with a global pharma, built a pipeline of over 40 assets across various modalities and therapeutic areas, and delivered 8 successful phase 3 readouts. Roivant is currently building new capabilities in drug discovery and expanding its existing development engine to become the world's leading tech-enabled pharmaceutical company<br><br>Roivant's drug discovery capabilities are driven by our computational discovery platform, which combines preeminent physics-based tools with deep expertise in machine learning to generate unprecedented analytical power that can tackle previously intractable discovery challenges. The tight integration of this computational platform with our experimental capabilities enables the rapid design and optimization of new drugs to address a wide range of targets for diseases with high unmet need.<br><br>We believe that the future of drug discovery lies in integrating predictive sciences, biology and medicinal chemistry to accelerate the path to new medicines. This role is an opportunity to be an architect of this paradigm shift and generate transformative benefit for patients<br><br><strong><u>Position Summary<br><br></u></strong>Roivant Discovery is looking for a highly motivated Scientific Programmer to work in a multi-disciplinary organization with a focus on overcoming challenging drug discovery bottlenecks using physics-based simulation methods. As a member of the software engineer team and working closely with other platform team members, the candidate will address fundamental aspects in the computational drug discovery process by developing novel tools and optimizing Silicon's advanced physics-based computational infrastructure composed by, but not limited to, molecular dynamics simulations, free energy calculations, quantum chemistry, and machine learning models.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li>Implement computational methods to address critical drug discovery needs </li><li>Work closely with our drug discovery team to understand project needs </li><li>Write scripts and workflows to streamline drug discovery efforts </li><li>Build software infrastructure to support platform development </li><li>Investigate the latest trends in scientific methods </li><li>Maintain software engineering best practices </li><li>Ensure scalability, extensibility, and portability of platform code <br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Highly motivated to develop computational methods and software for discovering better medicines</li><li>Outstanding development skills (Python and C/C++ preferred) </li><li>Degree in computational chemistry, physical chemistry, chemical physics, or related fields </li><li>Experience in molecular modeling techniques and structure validation methods </li><li>Significant experience developing MM-based methods, particularly Molecular Dynamics Simulation, and working with MM code, such as AMBER, OpenMM or GROMACS</li><li>Broad experience with statistical mechanics and thermodynamics </li><li>Excellent communication skills and strong team player</li><li>Demonstrated track record of overcoming challenging problems</li><li>Experience with version control (such as Git) and test-and-release (such as Jenkins) frameworks.</li><li>Peer-reviewed publications in relevant areas and/or demonstrated success in related development projects <br></li></ul><strong><u>Additional Preferred Qualifications<br></u></strong><ul><li>Experience working with a diverse team on ambitious projects</li><li>Experience with parallel programming, especially data-parallel, using MPI, OpenMP, OpenACC, CUDA</li><li>Experience working with containers</li><li>Familiarity working with HPC clusters (CPU and GPU based)</li><li>Experience in using/deploying workflow managers in distributed computing facilities.</li><li>Experience in statistical modeling or bioinformatics<br></li></ul>Roivant Sciences provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:33:10.000Z"
+  },
+  "company": {
+    "name": "Roivant Sciences",
+    "link": "https://www.linkedin.com/company/roivant-sciences-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

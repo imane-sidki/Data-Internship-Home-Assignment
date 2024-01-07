@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>What you\u2019ll achieve</strong></p><p>As a Site Reliability Engineer, you will become part of a global engineering team delivering CloudIQ, a cloud-native solution that provides proactive health, monitoring and predictive analytics.CloudIQ is software-as-a-service application built on a modern platform with state of the art open-source technologies and a continuous delivery model.As a site reliability engineer you will work in a highly collaborative environment ensuring that our mission critical application and underlying systems are healthy and designed for scale. The candidate is passionate about a role that involves full stack visibility, a broad knowledge in application, databases, servers, virtualization, networking and requires extensive automation<em>.</em>Bring your passion and dedication to work with an amazing team to quickly turn ideas into great product.</p><p><br></p><p><strong>You will:</strong></p><p><br></p><ul><li>Develop tools to identify reliability risks, monitor application growth and triage production issues.</li><li>Coordinate with infrastructure and platform teams on regular maintenance, improve availability, scalability and performance of the environment.</li><li>Respond to incidents, perform root cause analysis and drive change management to prevent recurrence.</li><li>Participate in on-call support with Engineering, Infrastructure and platform teams during outage or maintenance activity.</li><li>Collaborate with development teams and work cross-functionally with IT and vendors to implement the infrastructure required to support application use cases.</li><li>Actively engage with internal teams to develop tooling, framework to drive full observability and automation of the environment.</li></ul><p><strong>Take the first step towards your dream career</strong></p><p><br></p><p><strong>Every Dell Technologies team member brings something unique to the table. Here\u2019s what we are looking for with this role:</strong></p><p><strong><span class=\"ql-cursor\"></span></strong></p><p><strong>Essential Requirements</strong></p><p><br></p><ul><li>8+ years of related experience with a Bachelor\u2019s degree; or 6+ years with a Master\u2019s degree; or 3+ years with a PhD; or equivalent experience.Bachelor\u2019s degree in computer science or equivalent experience in systems engineering</li><li>Ability to work in a highly collaborative environment and communicate effectively with cross functional teams and vendors</li><li>Experience analyzing and troubleshooting large scale distributed systems, operating solutions based on a microservice architecture</li><li>Experience in integrating and automating solutions to provide a highly scalable, high throughput platform.</li><li>Strong scripting and automation skills \u2013 Python, Perl, Groovy, Ansible or equivalent</li><li>Experience working with one or more of the following: Kubernetes, Cloud Foundry, Azure, AWS, RabbitMQ, Kafka, Postgres, Cassandra, Redis, MongoDB, Elasticsearch</li></ul><p><strong>Desirable Requirements </strong></p><p><br></p><ul><li>Experience with Unix/Linux operating system internals and administration \u2013 filesystems, networking</li><li>Experience with VMware virtualization preferred but not necessary</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T16:27:34.000Z"
+  },
+  "company": {
+    "name": "Dell Technologies",
+    "link": "https://www.linkedin.com/company/delltechnologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

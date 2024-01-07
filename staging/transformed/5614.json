@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong><u>About MoCaFi</u></strong></p><p>True financial inclusion means low-cost, high-quality financial services for everyday people. MoCaFi is delivering on that promise through Member-FDIC issued bank accounts, Rental Payment reporting to credit bureaus, incentives to support local Black &amp; Latinx owned small businesses, lender-supported homeownership programs and income relief prepaid cards funded by municipalities and community-based organizations.</p><p><br></p><p>We\u2019re working hard to be the trusted financial partner for anyone aspiring to reach a new level of prosperity - regardless of race, ethnicity, social status or financial position. We\u2019re proud to come to work every day knowing that we have a positive impact in helping build an inclusive financial world.</p><p><br></p><p>We are looking for a Software Engineer to join our team who will build micro-services on a cloud platform. You will be involved in building, testing, deploying, monitoring and supporting critical systems. You\u2019ll face and solve a wide range of challenges: technical, product, and operational, shaping your personal growth and career along the way.</p><p><br></p><p><strong><u>What will you do?</u></strong></p><ul><li>Develop and test systems and services that enable us to deliver our mission</li><li>Participate in shaping the technical architecture of the product</li><li>Help translate product requirements into technical solutions</li><li>Deliver highly available and scalable services in a production environment</li><li>Generate ideas for new initiatives and technologies</li><li>Communicate with project counterparts and other software developers to deliver solutions</li></ul><p><br></p><p><strong><u>What do you need?</u></strong></p><ul><li>Our core stack is NodeJS / Express / MongoDB and we run on Docker in a service oriented architecture</li><li>Ability to design and implement batch processing systems to support onboarding new municipalities (ETL/Python/AWS lambdas/etc)</li><li>Experience working on a SOA or micro-service based application and/or experience moving files between different systems for processing.</li><li>Basic understanding of databases</li><li>Willingness to roll up your sleeves, collaborate with others and get stuff done</li><li>Strong sense of responsibility; driving a projects to completion</li><li>Experience working in a collaborative environment, refining designs together, working through code reviews and managing pull requests</li></ul><p><br></p><p>MoCaFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, or any other basis prohibited by applicable law.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T20:31:52.000Z"
+  },
+  "company": {
+    "name": "MoCaFi",
+    "link": "https://www.linkedin.com/company/mocafi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Philadelphia",
+    "region": null,
+    "postal_code": "19901",
+    "street_address": null,
+    "latitude": 39.906075,
+    "longitude": -75.16684
+  }
+}

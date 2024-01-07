@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Architect",
+    "industry": "Information Technology and Services",
+    "description": "<ul><li>SAAS</li><li>AZURE</li><li>ARCHITECT</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:24:43.000Z"
+  },
+  "company": {
+    "name": "TribolaTech Inc",
+    "link": "https://www.linkedin.com/company/tribolatech-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New Jersey",
+    "region": "United States",
+    "postal_code": "08810",
+    "street_address": null,
+    "latitude": 40.139095,
+    "longitude": -74.67851
+  }
+}

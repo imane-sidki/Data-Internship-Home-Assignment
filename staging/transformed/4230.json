@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>About CoParse</strong></p><p>At CoParse, we are creating the future of how we read and write documents. We are building the \"IDE\" for complex documents. As software engineers, we use sophisticated tools to read and write code. It should be the same for documents! The last major breakthroughs in word processing and viewer technology came in the 1990s. <strong>It's time for a new innovator.</strong></p><p><br></p><p>CoParse is an AI integrated document viewer and editor. We apply proprietary text analysis algorithms to extract meaningful information from documents, making them faster and easier to read. CoParse features syntax highlighting, cross-linking between definitions and clauses, and auto-extraction of document structure. Alongside this powerful parsing engine, we've developed a fully-featured, elegant document viewer as a web and desktop app.</p><p><br></p><p>Over the past year, we have been building out the CoParse viewer and gotten some amazing feedback from customers spanning top financial and legal firms. We've also attracted venture money from some of the best VCs in the US. We've built out a powerful tool that is already providing massive value to our customers, and we're looking for engineers that can take our product to the next level!</p><p><br></p><p><strong>The Role</strong></p><p>We are looking for an early engineer to join our growing team - building new features that customers will love, and evolving the product to revolutionize the reading and writing process.</p><p><br></p><p><strong>You will:</strong></p><ul><li>Own the design process of new features, from the UI and UX to the technical implementation.</li><li>Develop in React/Typescript on the frontend and Java on the backend.</li><li>Collaborate with Product, Design, and Engineering to create impactful customer value.</li><li>Mentor teammates and share your technical expertise with others to build our collective knowledge</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>A bachelors degree or equivalent in Computer Science or related field.</li><li>A strong background developing with React, Typescript, and Java.</li><li>3+ years of relevant experience (preferred).</li><li>A proven record of solving tough engineering problems and building beautiful products.</li><li>A desire to build something that impacts a massive audience of people and changes the way we interact with documents.</li></ul><p><br></p><p><strong>Our Team</strong></p><p>The members of our team have learned a lot from working at startups, as well as Amazon, Bridgewater, Salesforce, and Palantir. We are super excited to build out a team of passionate, creative, and caring people who want to change the world. If you resonate with all of this, let's talk!</p><p><br></p><p><strong>Our Benefits</strong></p><ul><li>100% health insurance coverage</li><li>Unlimited PTO</li><li>Remote and in-office options as you desire (we are NYC based but embrace the choice to work remotely)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:45:50.000Z"
+  },
+  "company": {
+    "name": "CoParse",
+    "link": "https://www.linkedin.com/company/coparse"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

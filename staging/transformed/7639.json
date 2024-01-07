@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>We're working with a market leader in electronic health records (EHR) bases studies. Partnered with world class biotechnology and pharmaceutical firms, their platform runs real world evidence studies for regulatory and reimbursement purposes.</p><p><br></p><p>Utilizing data science and AI, this company is looking for a Machine Learning Engineer to take ownership of the full machine learning life-cycle, from data cleaning and pre-processing, to deploying state-of-the-art models into production. </p><p><br></p><p>You will:</p><ul><li>Verify data quality, supervise the data and find available datasets</li><li>Train models and tuning their hyperparameters</li><li>Define pre-processing and validation strategies</li><li>Builds, refine and productionize machine learning models </li><li>Present model outcomes </li></ul><p><br></p><p><br></p><p>You have:</p><ul><li>Bachelors or above in Mathematics, Computer Science, Engineering or other related field</li><li>Expertise with Python and basic libraries for machine learning (pandas and scikit-learn)</li><li>Expertise with deep learning frameworks</li><li>Proficiency with scripting or other techniques for rapid data transformation and cleanup</li><li>Expertise in visualizing and manipulating big unstructured datasets</li><li>Experience with cloud-based machine learning resources (AWS)</li></ul><p><br></p><p><br></p><p><em>Big Cloud is acting as a vendor to this position which is a direct hire.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T08:22:59.000Z"
+  },
+  "company": {
+    "name": "Big Cloud",
+    "link": "https://uk.linkedin.com/company/big-cloud"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

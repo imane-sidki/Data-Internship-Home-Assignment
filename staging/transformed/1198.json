@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer",
+    "industry": "Computer Software,Insurance,Financial Services",
+    "description": "<strong><u>Overview<br><br></u></strong>We are not just offering a job but a meaningful career! Come join our passionate team!<br><br>As a Fortune 50 company, we hire the best employees to serve our customers, making us a leader in the insurance and financial services industry. State Farm embraces diversity and inclusion to ensure a workforce that is engaged, builds on the strengths and talents of all associates, and creates a Good Neighbor culture.<br><br>We offer competitive benefits and pay with the potential for an annual financial award based on both individual and enterprise performance. Our employees have an opportunity to participate in volunteer events within the community and engage in a learning culture. We offer programs to assist with tuition reimbursement, professional designations, employee development, wellness initiatives, and more!<br><br>Visit our Careers page for more information on our benefits, locations and the process of joining the State Farm team!<br><br><strong><u>Responsibilities<br><br></u></strong><strong><u>A Day in the Life of a Software Developer<br><br></u></strong>This individual will join the Horizontal Enablement Team, working closely with a peer developer to help create and maintain our internal suite website and dashboard. The goal of this partnership is to build upon our existing eye-catching, state of the art website and expand functionality and capabilities to allow for scalability and growth. This individual will also be expected to partner closely beyond our suite with like-minded peers in DASDI and the Enterprise Technology department as a whole.<br><br><strong><u>We Are Looking For Candidates With<br><br></u></strong>If you enjoy solving technical challenges, engineering practical solutions, exploring new technology, and operating in small, dedicated team environments, this may be the perfect position for you!<br><ul><li>Strong experience with Git and version control practices</li><li>Experience with Javascript and Javascript framework, with an emphasis on VueJS</li><li>HTML and CSS experience</li><li>Knowledge of responsive and accessible design</li><li>Extensive, broad AWS experience, Amazon Quicksight a major plus</li><li>Experience with Terraform (or similar infrastructure as code software tools)</li><li>DevOps experience with complete CI/CD techniques, tools and pipelines</li><li>Ability to be a results driven self-starter who enjoys researching and learning new tools</li><li>Have an agile mindset that supports implementing small, incremental changes, and failing fast</li><li>Ability to navigate the organization and collaborate across teams</li><li>Excellent written and verbal communication skills as well as a proven track record of working well with peer developers<br><br></li></ul><strong><u>Qualifications<br><br></u></strong><strong><u>Preferred Qualifications<br></u></strong><ul><li>Bachelor\u2019s Degree in Computer Science, Software Engineering or equivalent work experience</li><li>Hands-on experience with the technical/functional listings above</li><li>AWS Certifications<br></li></ul><strong><u>Competencies<br><br></u></strong>Communication<br><br>Initiative<br><br>Relationship Building<br><br>Teamwork<br><br>Critical Thinking<br><br>Technical/Functional Expertise",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:26:52.000Z"
+  },
+  "company": {
+    "name": "State Farm \u00ae",
+    "link": "https://www.linkedin.com/company/state_farm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tempe",
+    "region": "AZ",
+    "postal_code": "85280",
+    "street_address": null,
+    "latitude": 33.42552,
+    "longitude": -111.94125
+  }
+}

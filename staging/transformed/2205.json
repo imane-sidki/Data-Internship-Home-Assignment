@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Oil & Energy",
+    "description": "<strong>Mission<br><br></strong>The Data Scientist is responsible for conducting undirected research and tackle open-ended data problems and questions. Drawing on an advanced degree in a quantitative field such as computer science, physics, statistics or applied mathematics, the Data Scientist demonstrates the knowledge to invent new algorithms to solve data problems.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li> Research and assess next-generation technologies for machinery diagnostics and prognostics and data-driven modeling and optimization of complex systems. Demonstrate advanced working knowledge and experience with machine learning algorithms and population-based meta-heuristic optimization methods.</li> <li> Generate innovative ideas, establish new research directions, and shape and execute on technical projects.</li> <li> Maintain state-of-the-art knowledge and contribute to technical discussions and reviews as an expert in related areas of responsibility.</li> <li> Apply theoretical knowledge to solve industrial problems.</li> <li> Apply engineering knowledge in developing data-driven algorithms for anomaly detection, failure prediction and optimization.</li> <li> Collaborate with field and product engineers to identify key health monitoring parameters of a system.</li> <li> Process large multivariate data sets collected from equipment operations, manufacturing tests and diagnostic routines.</li> <li> Communicate ideas, plans and results effectively via oral and written reports.</li> <br><br></ul><strong><u>Experience &amp; Exposures<br></u></strong><ul> <li> Data Science and Analytics</li> <li> Algorithmic Development</li> <br></ul><strong>Disclaimer<br><br></strong>Schlumberger is an equal employment opportunity employer. Qualified applicants are considered without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, status as a protected veteran or other characteristics protected by law. Schlumberger is a VEVRAA Federal Contractor\u2014priority referral Protected Veterans requested.<br>#Schlumberger",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T05:07:26.000Z"
+  },
+  "company": {
+    "name": "Schlumberger",
+    "link": "https://www.linkedin.com/company/schlumberger"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81800,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

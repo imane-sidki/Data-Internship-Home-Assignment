@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<strong>A self-starter and will work on multiple deliverables with dynamic schedules, Support DevSecOps excellence and Site Reliability through an automation pipeline-defined approach to operations , security and Azure infrastructure. Build various tools, systems and infrastructure that enables pipeline driven testing, and infrastructure that enables cloud native monitoring, continuous integration, horizontal and vertical scalability. Build and Perform Failure injection testing into the infrastructure as code lifecycle to enable quality and site reliability which prioritizes service availability, performance, Security and Compliance. <br><br></strong><strong><u>Key Success Factors<br></u></strong><ul><li> has the drive to constantly raise the bar to improve how we deliver our portfolio of products </li><li> Biased towards action, capable of time slicing well based on priorities. </li><li> Excellent verbal and written communication and interpersonal skills. <br></li></ul><strong><u>Responsibilities<br></u></strong><ul><li> Use Terraform to build, manage, secure, flexible, productive Azure infrastructures that support research, development, and production projects of the application and research teams </li><li> Work to automate detection and resolution of recurring issues in the production environment. </li><li> Enforce compliance with IAM principals including least privilege access, password management, Audit logging, RBAC, certificate issuance and revocation. <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> 5 years\u2019 experience building and operating Azure public cloud solutions, </li><li> 3 years of experience with Python 3, PowerShell., in a Azure DevOps driven production DevSecOps environment. </li><li> B.S. in Computer Engineering, Computer Science or relevant work experience <br></li></ul><strong><u>Required Skills<br></u></strong><ul><li> Experience working in a Docker, Kubernetes; environment., </li><li> Experience with scripting language like Python, PowerShell etc., </li><li> Experience with Agile, Scrum and DevSecOps concepts., Configuration Mgmt and Orchestration with ARM templates, Terraform, and Azure DevOps pipelines., </li><li> Evidence of Experience integrating, testing, and deploying Azure Cloud Services into production systems e.g. compute, storage, Key Vault, Azure PaaS <br></li></ul><strong><u>Preferred Skills<br></u></strong><ul><li> Ability to build, use and configure metrics collection, reporting and alerting systems., </li><li> Experience working as a Site Reliability Engineer or a similar role operating a highly scalable and distributed platform. <br></li></ul>Nuance offers a compelling and rewarding work environment. We offer market competitive salaries, bonus, equity, benefits, meaningful growth and development opportunities and a casual yet technically challenging work environment. Join our dynamic, entrepreneurial team and become part of our continuing success.<br><br>Nuance celebrates diversity and is proud to be an equal employment opportunity and affirmative action workplace. We consider all qualified applicants without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity or expression, national origin, military and veteran status, disability, genetics, or any other category protected by <u>law</u> or Nuance policy. If you need an accommodation because of a disability for any part of the employment process, please call 781-565-5086 and let us know.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T06:15:35.000Z"
+  },
+  "company": {
+    "name": "Nuance Communications",
+    "link": "https://www.linkedin.com/company/nuance-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

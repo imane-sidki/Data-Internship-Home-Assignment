@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Media Production,Online Media,Broadcast Media",
+    "description": "<p><strong>Job Summary:</strong></p><p>iHeartRadio is looking for a Site Reliability Engineer (SRE) with solid software engineering principles as well as exposure to operational fundamentals. In this role, you could be embedded into one of our more critically important engineering teams and represent DevOps philosophies to teammates eager to work with you or provide assistance to a core team developing tools for enterprise engineering teams. We share knowledge, responsibilities and value a culture of everyone being able to speak their mind and offer up constructive feedback.</p><p></p><p><strong>You Have:</strong></p><p><br></p><ul><li>6 - 10 years of overall experience</li><li>Experience coding in any one of these technologies - Go, Python, or Javascript</li><li>Cloud engineering experience. AWS is preferred.</li><li>Experience working with Kubernetes/Docker. Flux and Helm experience is preferred.</li><li>Experience with tracing tools like Jaeger or Zipkin is preferred.</li><li>Participated in and contributed to team meetings and discussions.</li><li>Demonstrated experience resolving incidents, outages, and being part of an on-call rotation.</li><li>Ability to troubleshoot, diagnose and propose solutions to engineering and infrastructure related problems.</li><li>Good communication and documentation skills.</li><li>Taken ownership of infrastructure components or designs either on your own or as part of a team.</li><li>Experience with Observability technologies, like Data Dog, Prometheus, and Grafana is a big plus.</li><li>Have experience running and supporting services in production.</li></ul><p><strong>You Like:</strong></p><p><br></p><ul><li>Treating cloud infrastructure as code by leveraging provisioning and configuration management tools such as Terraform and Ansible.</li><li>Comfortable using common CI/CD tools such as TravisCI, Jenkins and Flux for application and infrastructure automation tasks.</li><li>Providing engineers with the advice and tools they need to meaningfully monitor and alert on the services and features they develop, using tools like Prometheus/DataDog and PagerDuty.</li><li>Collaborating with teammates and working cross-functionally with different engineering teams.</li><li>Exploring and evaluating different open source tools.</li><li>Knowledge of GitOps processes for driving auditable and repeatable changes to infrastructure</li></ul><p>In your first few months, you will be embedded with one of our engineering teams or the Core SRE team, reviewing stacks, infrastructure and monitoring while putting a premium on operational knowledge sharing and observability. You will be an important part of your team's implementation within Kubernetes, helping to understand the changes necessary to make that transition smooth.</p><p>As you gain experience working with our tech stack, enhancing observability and reliability along the way, you will begin to work with our team to identify needed automation and tooling, often being the core contributor for these tools. You will have the opportunity to work on more engineering projects for your team with an overall theme of you becoming more familiar with their application stack.</p><p>iHeartRadio, iHeartMedia\u2019s digital radio platform, is the fastest growing digital audio service in the U.S. and offers users thousands of live radio stations, personalized custom artist stations created by just one song or seed artist, and the top podcasts and personalities. iHeartRadio is a great environment for people who like to innovate and have the power to influence decisions. We have 125+ million registered users across over 280 different platforms, and outside the US, we are in New Zealand, Australia, Canada, and Mexico!</p><p>LI-Remote</p><p></p><p><strong>Location</strong></p><p>Remote, United States</p><p></p><p>Position Type</p><p>Regular</p><p></p><p>The Company is an equal opportunity employer and will not tolerate discrimination in employment on the basis of race, color, age, sex, sexual orientation, gender identity or expression, religion, disability, ethnicity, national origin, marital status, protected veteran status, genetic information, or any other legally protected classification or status.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T15:20:39.000Z"
+  },
+  "company": {
+    "name": "iHeartMedia",
+    "link": "https://www.linkedin.com/company/iheartmedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

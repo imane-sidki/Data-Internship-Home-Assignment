@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Validation Design Engineer - SOC",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Semiconductors",
+    "description": "<strong><u>Job Description<br><br></u></strong>Now is an exciting time for Intel\u2019s Design Enablement Group! This position is within the Design Enablement (DE) organization of Technology Development (TD). At Intel, Design Enablement is one of the key pillars enabling Intel to deliver winning products in the marketplace. Your work will directly enable design teams to get to market faster with leadership products on cutting edge technologies and partner with Technology Development to deliver cost-effective, competitive design platform.<br><br>In this position you will help us with one or more of the following responsibilities:<br><ul><li>Design and integration of Intel\u2019s lead technology-development test chips.</li><li>Define and design test structures needed for process development.</li><li>Work with TD Process and device experts to define critical Design features and test structures to exercise on the test chips.</li><li>Develop CAD software/flows that automate physical layout of E-Test Structures</li><li>Develop layout verification software to implement process design rules using industry standard tools.</li><li>Digital system design using RTL for implementation through logic synthesis &amp; automatic place-and-route</li><li>Validate design IP at the IP and system level</li><li>Develop and utilize various debug and validation tools and/or methodologies to implement validation plans to ensure a solid design<br></li></ul><strong><u>Behavioral Traits That We Are Looking For<br></u></strong><ul><li>Written and verbal communication skills</li><li>Teamwork, problem-solving, and data analysis</li><li>Ability to work across geographical locations<br></li></ul>By applying to this posting, you\u2019ll be considered for multiple roles within Design Enablement (DE)<br><br>This is an entry level position and will be compensated accordingly.<br><br><strong><u>Qualifications<br><br></u></strong>You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your schoolwork/classes/research and/or relevant previous job and/or internship experiences.<br><br><strong><u>Minimum Skills And Experience That Will Get You Noticed<br><br></u></strong>You should have Bachelor\u2019s degree OR Master's degree OR PhD in Electrical Engineering, Computer Engineering, Computer Science, or other related Electrical Scientific STEM field, with 6+ months of work or educational experience. Must have the required degree or expect the required degree by May of 2022.<br><br><strong>Your experience must be in one or more of the following areas:<br></strong><ul><li>Circuit design and VLSI technology</li><li>Computer architecture, RTL, Verilog, System Verilog, exposure to OVM UVM</li><li>Knowledge of Chip floor planning, layout integration, layout design rules and schematic/layout comparison debug and validation</li><li>Experience with floor planning, layout design, and verification CAD tools</li><li>Digital system RTL based design, including DFT, system architecture, and integration of various IPs into subsystems</li><li>Solving problems using efficient computer algorithm and programming techniques.</li><li>Object oriented programming, data structures, algorithms and digital logic.</li><li>Programming or scripting in Python, Perl, Tcl, SKILL, C++, or Unix shell.<br></li></ul><strong>Preferred experience in one </strong><strong>or more </strong><strong>of the following areas:<br></strong><ul><li>Knowledge of semiconductor device physics, process scaling, and advanced technology nodes.</li><li>Industry standard CAD tools for schematic entry, circuit simulation, custom layout, and design/layout verification, from vendors such as Cadence, Synopsys, and Siemens.</li><li>Design Compiler (DC), IC Compiler (ICC2), Fusion Compiler (FC), Genus, or Innovus</li><li>Layout verification using ICV/Calibre.</li><li>Pre-silicon or post-silicon validation/verification</li><li>Development of PCells or PyCells<br></li></ul>By applying to this posting your resume and profile will become visible to Intel Recruiters / Sourcers and will allow them to consider you for current and future job openings aligned with the skills and positions mentioned above.<br><br><strong>#designenablement<br><br>@designenablemnt<br><br></strong><strong>Inside this Business Group<br><br></strong>Manufacturing and Product Engineering (MPE) is responsible for test development across product segments, supporting 95% of Intel's revenue. We deliver comprehensive pre-production test suites and component/physical debug capabilities to enable high quality, high volume manufacturing.<br><br><strong>Other Locations<br><br></strong>US, California, Santa Clara; US, California, Folsom; US, Arizona, Phoenix; US, Texas, Austin;<br><br><strong>Posting Statement<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:09:56.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 6,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hillsboro",
+    "region": "OR",
+    "postal_code": "97124",
+    "street_address": null,
+    "latitude": 45.52395,
+    "longitude": -122.98974
+  }
+}

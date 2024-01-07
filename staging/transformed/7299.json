@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>An employer is seeking a Senior .Net Developer/Application Architect to join their Application Development Services department on site in Middletown, CT.You will be part of a team of developers tasked with supporting the agencies custom software applications.The position entails supporting legacy ASP.Net applications, upgrading existing applications to the latest technology and general maintenance of existing applications and everything in between.</p><p><br></p><p> -Architectural design for all application development projects </p><p> -Responsible for making sure all technology conforms to State of CT and HIPAA standards </p><p> -Data modeling </p><p> -Development Lead</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-07T18:56:37.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Middletown",
+    "region": "CT",
+    "postal_code": "06457",
+    "street_address": null,
+    "latitude": 41.544655,
+    "longitude": -72.65171
+  }
+}

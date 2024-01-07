@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services,Medical Devices",
+    "description": "Digital Health Technology team powers digital experiences and engagement to enhance the lives of millions of people every day through connected care. We build, deliver and manage a portfolio of data management platforms and mobile offerings in support of our core businesses. We thrive on simple and elegant architecture and agility. You\u2019ll be immersed in a dynamic high-growth environment and empowered to excel, take informed risks, and drive ingenuity across the enterprise.<br><br><strong><u>Let\u2019s Talk About Responsibilities<br></u></strong><ul><li> I mplement and automate deployment of modern, cloud native applications </li><li> Set up monitoring for the health of both build and production systems and create automated alerts for outages or degraded performance </li><li> Containerize complex virtual runtime environments </li><li> Expand and streamline complex CI/CD pipelines that drive frequent, high-quality product releases </li><li>Automate all mission-critical tasks and processes <br></li></ul><strong><u>Required<br><br></u></strong><strong> Let's talk about qualifications and Experience <br></strong><ul><li> 3+ years of senior admin responsibility for AWS Services (auto-scaling highly available deployments of network, compute, storage, database, monitoring resources) in a production environment </li><li> Experience building and sharing responsibility for the uptime of production, cloud-native application architectures </li><li> Experience with modern Cloud Native application architectures utilizing FaaS , service meshes/proxies, etc. </li><li> Experience with Monitoring tools like DataDog and able to create dashboard and metrics \u2014 establishing desired service behavior, measuring how the service is behaving (availability, latency, and overall system health), and correcting discrepancies </li><li> Experience with Cloud Infrastructure automation tools/IaaS (Terraform, AWS CloudFormation, etc.) </li><li> Experience building and managing custom Docker images and containers </li><li> Hands-on experience with Kubernetes on AWS (EKS) and related tools/components </li><li> Experience with Cloud Security, respond to security events, and automate security best practices. </li><li> Experience with git-based repos and complex, auto-scaling CI/CD pipelines like Jenkins, AWS TerraForm Landing Zone </li><li> Familiarity with Python and at least one other development or scripting language (C/C++, Go, JavaScript/NodeJS, PHP, etc.) </li><li> Ability to communicate and transfer knowledge clearly and effectively to both technical and non-technical audiences </li><li> Ability to prioritize and multitask in a fast-paced environment </li><li> Ability to notice and respond effectively to service failures to preserve the service's conformance to its SLA (service-level agreement) </li><li> A passion for getting to the bottom of issues and eliminating unknowns </li><li> Evolving systems by pushing for changes that improve reliability and velocity </li><li> BSc or MSc in computer science or a related degree <br></li></ul><strong><u>Preferred<br></u></strong><ul><li> Experience with full stack web development </li><li> Experience with traditional enterprise web application frameworks, servers and tools </li><li> Experience with performance testing tools and techniques </li><li> Experience defining and measuring internal and customer-facing OLA/SLA <br></li></ul>Joining us is more than saying \u201cyes\u201d to making the world a healthier place. It\u2019s discovering a career that\u2019s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now!<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T20:35:14.000Z"
+  },
+  "company": {
+    "name": "ResMed",
+    "link": "https://www.linkedin.com/company/resmed"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Field",
+    "region": "MN",
+    "postal_code": "55701",
+    "street_address": null,
+    "latitude": 47.862286,
+    "longitude": -92.76156
+  }
+}

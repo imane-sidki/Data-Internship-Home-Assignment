@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Broadcast Media,Online Media,Media Production",
+    "description": "<p><strong>Job Summary:</strong></p><p>We are looking for an experienced Machine Learning Engineer to join the team at iHeartRadio to help us with our mission to reshape the world of music and podcasts. Data Science is at the heart of creating a data-driven culture at iHeartRadio. We help to define and deliver an unrivaled personalized music experience to our users by working closely with cross-functional teams of Data Engineers, Product Managers, Marketing Managers, and BI/Analytics. As a full stack team, we engage with this mission at every level; we understand our user\u2019s intents and preferences through data, and design and engineer products that directly connect our users to the music they\u2019ll love.</p><p><br></p><p>In your first six months, your work will result in releasing new audio data products directly to our 120+ million users. You will also build models to predict and understand the user journey through typical listening lifecycles. You will have end to end ownership of your code, though ideally you also relish reviewing a good pull request. If you enjoy building machine learning models, working with large data sets, and having a direct impact on a dynamic business, then this is a good role for you.</p><p></p><p><strong>You like:</strong></p><p><br></p><ul><li>Solving complex real world problems</li><li>Collaborating with business stakeholders to understand requirements and socialize solutions</li><li>Designing and implementing novel machine learning methods</li><li>Evaluating new paradigms for deploying machine learning models</li><li>Staying atop the most recent developments and best practices in a quickly changing field</li></ul><p><strong>You have:</strong></p><p><br></p><ul><li>A deep understanding of machine learning algorithms and statistics</li><li>Scientific or quantitative computing experience (Python, R, Spark)</li><li>Experience working with distributed datasets (Hadoop, Hive, Spark, SQL)</li><li>The ability to tell a story with data (large scale analysis, data visualization)</li><li>Experience writing production code (such as Python, Java, or Scala)</li><li>An understanding of best practices in software engineering (git, CI/CD, object oriented programming, etc)</li><li>4+ years of previous work experience as a machine learning engineer</li><li>(Preferred) A graduate degree in computer science or a quantitative discipline (statistics, mathematics, economics, etc)</li></ul><p><strong>Who are we at iHeartRadio?</strong></p><p>iHeartRadio, iHeartMedia\u2019s digital radio platform, is the fastest growing digital audio service in the U.S. iHeartRadio offers users thousands of live radio stations, personalized custom artist stations created by just one song or seed artist, and the top podcasts and personalities. With over a billion downloads, iHeartRadio reached 120 million registered users faster than any other radio or digital music service. iHeartMedia\u2019s platforms include radio broadcasting (850+ stations), online, mobile, digital and social media, podcasts, personalities and influencers, live concerts and events, syndication, music research services and independent media representation.</p><p><em></em>We strongly believe in being an active part of our community. We teach, write, give tech talks, release open source projects, and would love it if you also shared these passions. Take a look at a few of our recent blog posts to get an idea:</p><p><br></p><ul><li><strong><u>https://tech.iheart.com/my-playlist-for-free-users-a-data-driven-backfill-service-for-playlist-continuation-at-scale-1d3c6d4effc5</u></strong></li><li><strong><u>https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-2-aa50b6a0304c</u></strong></li><li><strong><u>https://tech.iheart.com/a-generative-model-for-track-playlists-4dba8b8515c</u></strong></li><li><strong><u>https://tech.iheart.com/ihrpi-a-simple-solution-to-python-package-management-874e373f5838</u></strong></li><li><strong><u>https://tech.iheart.com/real-time-music-recommendations-for-new-users-with-amazon-sagemaker-364b346d07db</u></strong></li></ul><p></p><p><strong>Location</strong></p><p>New York</p><p></p><p>Position Type</p><p>Regular</p><p></p><ul><li>The Company is an equal opportunity employer and will not tolerate discrimination in employment on the basis of race, color, age, sex, sexual orientation, gender identity or expression, religion, disability, ethnicity, national origin, marital status, protected veteran status, genetic information, or any other legally protected classification or status.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T15:28:29.000Z"
+  },
+  "company": {
+    "name": "iHeartMedia",
+    "link": "https://www.linkedin.com/company/iheartmedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

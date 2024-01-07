@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p><strong>Data Scientist</strong></p><p>Work Location: Tukwila, WA</p><p>Job Type: Contract</p><p>Education: Bachelors</p><p>Experience: 9+</p><p>Candidate rate: $80 - $90/hr on W2</p><p><strong>Work authorization: US citizen</strong></p><p><br></p><p><strong>Required Skills:</strong></p><p>Agile; Data Analytics; Data Visualizations; JavaScript; Microsoft SQL Server; Software Architecture; SQL; Tableau; Visual Basic .Net (VB.Net); Visual Basic (VB); Web-based Systems Architectures</p><p><br></p><p><strong>Responsibilities:</strong></p><p><br></p><ul><li>Leads cross-functional teams to determine, define and deploy complex predictive/prescriptive analytic solutions to meet business objectives. Evaluates business objectives and determines stakeholder needs. Chooses best fit methods, defines algorithms, validates and deploys models to achieve business results. Performs necessary data preparation and enhancements to models.</li><li>Interfaces and leads other programmers in different time zones and cultures.</li><li>Interfaces with other Data Analytics personnel to leverage best practices.</li><li>Employs AGILE methodology.</li><li>Candidate must have knowledge of design and development of web-based applications.</li><li>Position requires expertise/experience in .Net Framework/.Net Core, Javascript with Vue, React or Angular, bootstrap or equivalent library, Web API.</li><li>Candidate must have working experience with database preferred, but not limited to Microsoft SQL Server.</li><li>Candidate should have experience in designing user interface and visualizations to communicate with a broad audience and influence decision making. Able to develop, maintain, and refine queries to present data.</li><li>Should have experience with Microsoft Access \"Visual Basic applications\u201c.</li><li>Candidate is desired to have knowledge of data visualization frameworks such as D3.js, ChartJS or Tableau.</li></ul><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-15T23:53:46.000Z"
+  },
+  "company": {
+    "name": "Eworld Solutions",
+    "link": "https://www.linkedin.com/company/eworld-consulting-corp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tukwila",
+    "region": "WA",
+    "postal_code": "98184",
+    "street_address": null,
+    "latitude": 47.47638,
+    "longitude": -122.25912
+  }
+}

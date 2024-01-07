@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote)",
+    "industry": "Consumer Goods,Banking,Financial Services",
+    "description": "<strong><u>About Us<br><br></u></strong>Since 2018, HMBradley has been reshaping the consumer banking experience through transparent financial products that adapt with the customers\u2019 needs over time. We see ourselves as our customers\u2019 long-term financial partner \u2013 their trusted resource in getting rich slowly.<br><br>In the past year, we\u2019ve raised a $18.25 million Series A and were recognized by Business Insider as one of the best high yield checking accounts of 2021 \u2013 and we are just getting started! We\u2019re ready to bring on more curious, customer-centric collaborators to challenge the status quo and implement disruptive ideas.<br><br>Here at HMBradley we are energized by bringing our bold ideas to life and maintain the mindset that even small wins are progress and should be celebrated. We are deeply invested in empowering our team to do great things, and have a lot of fun while doing so. If this sounds exciting to you, and you want to help build financial products people will actually want to use, we\u2019d love to have you join us!<br><br><strong><u>Some Of The Things You\u2019ll Get At HMBradley<br><br></u></strong><strong>Impact</strong>: Because we\u2019re a small team (for now) and an early stage startup, each new hire has an outsized impact on the company, culture, and product.<br><br><strong>Geographic flexibility</strong>: We started with our headquarters in Santa Monica, CA, but nowadays our team works from almost anywhere.<br><br><strong>Competitive perks</strong>: More on that below, but we have all the good stuff.<br><br><strong><u>Job Overview<br><br></u></strong>The Site Reliability Engineer will report to the VP of Engineering and will be responsible for developing and maintaining the company's infrastructure, proactively researching for improvements and always targeting the highest standards of security. They will be working closely with the engineering and data science teams, assisting them achieve their goals and swiftly responding to any business-critical matters as they ar<br><ul><li>Joining on-call rotations and troubleshooting incidents in production.</li><li>Helping our engineers ship faster, reliably and with minimum disruption.</li><li>Implementing access control policies for different systems.</li><li>Cybersecurity due diligence.<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong><em>Required:<br></em></strong><ul><li>Minimum of 2 years experience working as a DevOps or Site Reliability Engineer.</li><li>Solid understanding of operating systems and networking.</li><li>Experience working with AWS or other well known cloud providers.</li><li>Experience working in containerized environments.</li><li>Hands-on experience with Linux and Bash scripting.<br><br></li></ul><strong><u>Preferred<br></u></strong><ul><li>Bachelor's degree in Computer Science, Computer Engineering or related field.</li><li>Experience with Kubernetes and cloud native technologies.</li><li>Experience with centralized logging and monitoring systems.</li><li>Experience with continuous integration and continuous delivery systems.</li><li>Experience with infrastructure as code such as Terraform.</li><li>Experience managing production environments.<br></li></ul><strong><u>Experience/Certifications<br><br></u></strong><strong>What we offer to you</strong><strong><em>:<br></em></strong><ul><li>Competitive compensation, including equity</li><li>100% company paid health, vision, and dental coverage for employees</li><li>Leave benefits, 401K</li><li>Geographic flexibility</li><li>Regardless of location -- a dynamic, fun and fast paced work environment!</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T04:24:04.000Z"
+  },
+  "company": {
+    "name": "HMBradley",
+    "link": "https://www.linkedin.com/company/hmbradley"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postal_code": "90403",
+    "street_address": null,
+    "latitude": 34.010933,
+    "longitude": -118.491516
+  }
+}

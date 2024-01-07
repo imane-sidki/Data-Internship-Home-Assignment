@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Front End (React)",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong><u>Role<br><br></u></strong>The Digital Experience team at Tesla is at the forefront of building a consistent, global customer experience across all digital touchpoints \u2013 web, native apps and in-car infotainment systems. This team is building the next generation products and supporting infrastructure which allows our customers, living in 60+ countries, to understand, interact and purchase our amazing vehicles and energy products.<br><br>Tesla is seeking a Front-End Software Engineer to join our team and help build the next generation of web solutions for our service partners and customers as it relates to the ownership experience. You will be challenged to turn apps around quickly but thoughtfully, balancing speed to market with longevity and scalability, all in the name of extraordinary customer experiences.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Build awesome web experiences using React.js</li><li> Plan and accommodate all mediums, screen sizes and device types</li><li> Build in flexibility and customization from the start</li><li> Internalize the user and promote good usability and accessibility in every experience</li><li> Be nimble and react quickly to changing business conditions</li><li> Work with product managers, content producers, QA engineers and release engineers to own your solution from development to production<br></li></ul><strong><u>Requirements<br></u></strong><ul><li> 1+ years building web and/or mobile experiences with evidence of exceptional ability</li><li> Bachelor\u2019s Degree in Computer Science or related field, or equivalent experience or other evidence of exceptional ability</li><li> Solid understanding of fundamental web technologies such as HTTP, REST, AJAX and JSON.</li><li> Strong proficiency in JavaScript / ES6, including DOM manipulation and the JavaScript object model</li><li> Thorough understanding of React.js and its core principles</li><li> Unit Testing with Jest/Enzyme</li><li> Experience with Redux</li><li> Experience with common front-end development tools such as Babel, Webpack, NPM, etc.</li><li> Experience working with RESTful APIs</li><li> Experience with Node.js and Express</li><li> Excellent mastery of web standards, cross-browser compatibility, accessibility and SEO.</li><li> Strong CSS skills w/ experience building responsive applications across a variety of browsers and devices using modern CSS3 techniques</li><li> Ability to identify tasks which require automation and automate them</li><li> Expert knowledge of maintaining and debugging live software systems</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T08:14:45.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer at Client",
+    "industry": "Computer Software,Internet,Retail",
+    "description": "<p><strong>Location: </strong>Remote \u2013 Las Vegas</p><p><br></p><p>At Mogul, we provide exclusive executive opportunities for top, diverse talent at the VP, SVP, EVP, President, C-Suite, or Board of Directors level across the Fortune 500 and more. Our client is a global leader in SaaS-based solutions for the Procurement industry.</p><p><br></p><p>Our client is the nation's largest and most trusted community dedicated to sharing, rating, and reviewing deals and coupons. Think Reddit, but for deals and shopping. They are the leading social platform for shopping, where 12 million users interact to share the most up-to-date information on online shopping deals and coupons.</p><p><br></p><p>Through the power of crowdsourcing, they have saved members more than $8.7 billion by providing a forum for communication and shopping tools such as free Android or iOS apps and browser extensions for Chrome and Edge.</p><p><br></p><p><strong>Summary</strong></p><p>Our client is looking for a Site Reliability Engineer (SRE) who can effectively fill a combined SysAdmin and DevOps role.The successful candidate will manage the company's Linux systems, which run predominantly open-source software and internally developed applications and tooling.</p><p><br></p><p>The SRE team is responsible for production systems and the OS/applications running on them. This role will aid engineering and product teams by providing velocity and stability for development and product teams. As part of the SRE team, the successful candidate will be responsible for dealing with rare incidents and scheduled routine off-hours maintenance tasks. The role will be a significant contributor to the automated tooling that will help developers develop and the business do business.</p><p><br></p><p>One of the first goals of the SRE will be to improve the company's monitoring platforms - moving the myriad of systems currently used into a \"single pane of glass,\" allowing the engineering and product teams to have a view more aligned to their needs. Secondarily this needs to be built in a way that will enable contribution from development teams since they are most familiar with their application.</p><p><br></p><p><strong>Essential Job Duties and Responsibilities</strong></p><ul><li>The role combines aspects of cloud engineering, DevOps, and IT operations</li><li>Ongoing development such as improving the automation of deploy workflows and tweaking server build cookbooks</li><li>Contribute to systems that monitor servers and their logs</li><li>Document and apply backup &amp; restore procedures</li><li>Keep systems up to date with software updates and patches to ensure the availability and quality of the company's online presence</li><li>Serve as subject matter expert for infrastructure-related questions and issues that arise</li><li>Integral in design and build of IaaS and ongoing improvements and maintenance to Kubernetes deployments</li><li>Provisioning, maintaining, and improving our existing infrastructure</li><li>Manage tools like Jenkins, Consul, Vault, and Git</li><li>Work with Developers during the entire release process to improve release velocity</li><li>Update, deploy and manage monitoring systems (Nagios, Cacti, Grafana, ELK)</li><li>Manage, monitor, and improve HAProxy Load Balancers</li><li>Participate in an on-call rotation</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>2+ years of experience in similar roles</li><li>Well-versed in *nix Operating Systems (currently use CentOS and Ubuntu LTS)</li><li>Good communication (and listening) skills</li><li>Excellent reading comprehension and attention to detail</li><li>Very comfortable with SSH, bash &amp; sh, pipes, common UNIX tools</li><li>Comfortable using software revision control (e.g. Git)</li><li>Some experience administering Linux \"web\" servers at scale</li><li>Working knowledge of DNS, HTTP, TLS, web security</li><li>Experience with networking troubleshooting using tools such as tcpdump</li></ul><p></p><p><strong>Preferred Experience:</strong></p><ul><li>Scaling for a high traffic web/services environment</li><li>Infrastructure as code (e.g. Chef/Puppet/Ansible/Terraform)</li><li>Configuration management</li><li>Continuous Integration and test automation frameworks</li><li>MySQL in a high-performance distributed environment</li><li>Containerization &amp; virtualization</li><li>Familiarity with interpreted languages</li><li>Understanding of networking technologies, including design and troubleshooting</li><li>Experience with on-premise cloud (IaaS) environments</li><li>Testing &amp; automation (CI/CD/Git hooks)</li><li>Monitoring (e.g. ELK, Grafana)</li><li>Email servers and their configuration (e.g. Postfix, SPF, DKIM, DMARC)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T21:06:32.000Z"
+  },
+  "company": {
+    "name": "Mogul",
+    "link": "https://www.linkedin.com/company/onmogul"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Las Vegas",
+    "region": "NV",
+    "postal_code": "89159",
+    "street_address": null,
+    "latitude": 36.16909,
+    "longitude": -115.14058
+  }
+}

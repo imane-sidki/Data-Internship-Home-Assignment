@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Biotechnology",
+    "description": "<p><strong>Company Summary:</strong></p><p><em>Generate</em> Biomedicines, Inc. is a Flagship backed, privately-held biotechnology company on a mission to reimagine the drug discovery process to one of dynamic, data-driven generation. We pursue this audacious vision because we believe in the unique and revolutionary power of generative biology to radically transform the lives of billions, with an outsized opportunity for patients in need. Our unique platform seeks to drive innovation at the intersection of machine learning and biology through deep collaborations between wet lab and dry lab scientists and engineers. Generate will be successful by constantly turning innovative ideas into methods, technologies, and products that solve some of the most difficult challenges with developing medicines. We are seeking collaborative, relentless problem solvers that share our passion for impact to join us!</p><p><br></p><p><em>Generate</em> was founded by Flagship Pioneering. Flagship Pioneering conceives, creates, resources, and develops first-in-category life sciences companies to transform human health and sustainability. Since its launch in 2000, the firm has applied a unique hypothesis-driven innovation process to originate and foster more than 100 scientific ventures, resulting in over $30 billion in aggregate value. The current Flagship ecosystem comprises 37 transformative companies, including:<em> Moderna </em>Therapeutics (NASDAQ: MRNA),<em> Rubius </em>Therapeutics (NASDAQ: RUBY),<em> Indigo </em>Agriculture, and<em> Sana </em>Biotechnology.</p><p><br></p><p><strong>Position Summary</strong></p><p>We are seeking a creative, motivated Software Engineer to help build our data platform. Generate Biomedicines is an innovative platform company leveraging Machine Learning to design novel protein therapeutics. This role will be an integral part of building a powerful, integrated data platform that streamlines data flow between wet and dry lab functions. The successful candidate will work closely with scientists from across the organization to understand both platform and project requirements, and translate those into high-quality software that rapidly advances our scientific programs.</p><p><br></p><p><strong>Key Responsibilities:</strong></p><ul><li>Design and build web-based tools that enable experiment design and execution, capture results, and manage lab data</li><li>Design and develop data models to support lab workflows</li><li>Contribute to platform data architecture to ensure data flows smoothly between organizational groups</li><li>Work with lab and computational scientists to identify needs and opportunities for platform improvement</li><li>Integrate third party applications, such as ELN, into the data platform</li><li>Integrate automation robots with the data platform for high-throughput processes</li><li>Lead development efforts, manage/mentor junior software engineers</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Bachelor\u2019s or Master\u2019s in Computer Science, Data Science, or related field plus 5+ years of pharmaceutical or biotech industry experience is required</li><li>Self-motivated and curious with strong desire to both learn from and teach others</li><li>Outstanding communications and interpersonal skills</li><li>Demonstrated proficiency in Javascript/Typescript web development, and experience using a modern MV(C/VM) framework</li><li>Demonstrated Proficiency in SQL</li><li>Demonstrated understanding of data management best practices and biological data</li><li>Proficiency in Python and/or Java a plus</li><li>Experience with AWS a plus</li></ul><p><br></p><p>Flagship Pioneering and our ecosystem companies are <strong>committed to equal employment opportunity</strong> regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</p><p> </p><p><strong><em>Recruitment &amp; Staffing Agencies</em></strong><em>: Flagship Pioneering and its affiliated Flagship Lab companies (collectively, \u201cFSP\u201d) do not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to FSP or its employees is strictly prohibited unless contacted directly by Flagship Pioneering\u2019s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of FSP, and FSP will not owe any referral or other fees with respect thereto.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:48:56.000Z"
+  },
+  "company": {
+    "name": "Generate Biomedicines, Inc.",
+    "link": "https://www.linkedin.com/company/generate-biomedicines-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

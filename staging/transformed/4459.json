@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "",
+    "description": "<p>We are looking for an experienced Senior Software Engineer who is passionate and has cybersecurity experience. The incumbent will be responsible for writing and coding individual programs, presenting to clients and more. </p><p><br></p><p>Duties and Responsibilities</p><ul><li>Interpret business requirements and technical specifications</li><li>Design APIs to encompass service functionality</li><li>Perform coding to technical specifications</li><li>Investigate, analyze and document reported defects</li><li>Perform maintenance programming and correction of identified defects</li><li>Create and document and implement unit test plans, scripts, and test harnesses</li><li>Create and maintain technical documentation using defined technical documentation templates</li><li>Participate in brainstorm sessions with the team</li><li>Co-lead presentations, demo our software and answer client questions</li><li>Performs related duties as assigned</li></ul><p><br></p><p>Skills / Attributes Required</p><ul><li>Minimum of 5 years experience</li><li>Substantial experience in C/C++ and C#</li><li>Multithreading (concurrent) programming abilities</li><li>System-level application/services programming experience</li><li>Knowledge of database architecture and design</li><li>Strong object-oriented programming skills and design patterns</li><li>Internationalization experience is a plus</li><li>Good communication skills, team player and cooperative</li><li>Ability to interpret requirements and technical specifications.</li><li>Ability to code software according to published standards and design guidelines.</li><li>Flexible attitude, ability to perform under pressure.</li><li>A commitment to quality and a thorough approach to the work.</li><li>Ability to work well within a team</li><li>Ability to work with minimal supervision</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:15:35.000Z"
+  },
+  "company": {
+    "name": "CryptoMill Cybersecurity Solutions",
+    "link": "https://ca.linkedin.com/company/cryptomill-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "CA",
+    "locality": "Toronto",
+    "region": "ON",
+    "postal_code": "N3W1Z9",
+    "street_address": null,
+    "latitude": 43.651894,
+    "longitude": -79.381714
+  }
+}

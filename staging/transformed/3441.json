@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Software Engineer",
+    "industry": "Automotive",
+    "description": "<em><strong>EverCharge</strong> provides advanced electric vehicle charging solutions powered by our SmartPower technology, which allows us to install 15x more stations while eliminating expensive infrastructure additions. In short, we can install more stations for less money, which furthers our mission to enable EV adoption for everyone!<br><br></em>We are looking to expand our Customer Support team to include talented, driven <strong>Jr. Software Engineer </strong>interested in applying creativity and a broad skill-set toward building an industry-leading car charging system.<br><br><strong>What will you be doing?<br></strong><ul><li>You will work independently on architecture, design, implementation, and testing of new systems in a rapidly evolving environment.</li><li>Develop components of our charger management dashboard tool in Python.</li><li>Design and implementation of RESTful services. <br></li></ul><strong>Who are we looking for?<br></strong><ul><li>Must have strong writing skills.</li><li>Extremely proficient in Linux shell.</li><li>Great engineering skills</li><li>Strong software design fundamentals - object-oriented design experience.</li><li>Experience building solutions on PostgreSQL.</li><li>Must be highly self-motivated and effectively manage time and prioritizes tasks, be proactive and thrive in a busy environment.<br></li></ul>In exchange for your hard-work and success you will have access to our generous benefits offerings, making our total compensation package pretty outstanding! At EverCharge, you will be offered:<br><ul><li>Health insurance (100% employer paid option)</li><li>Dental </li><li>Vision </li><li>Health, Dental, Vision coverage options for your dependents (employee cost)</li><li>Flexible Spending Account (FSA) option</li><li>401k retirement</li><li>10 paid holidays</li><li>Unlimited/Flexible Paid Time Off</li><li>Quarterly \"Virtual Happy Hour\" and team-building activities.<br></li></ul><em>EverCharge, Inc. prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.<br></em><ul><li> No third-party solicitation. Candidates must apply directly to the job posting.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:22:38.000Z"
+  },
+  "company": {
+    "name": "EverCharge, Inc.",
+    "link": "https://www.linkedin.com/company/evercharge"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Emeryville",
+    "region": "CA",
+    "postal_code": "94608",
+    "street_address": null,
+    "latitude": 37.8312,
+    "longitude": -122.28581
+  }
+}

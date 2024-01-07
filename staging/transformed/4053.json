@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Frontend",
+    "industry": "Investment Management",
+    "description": "Vise is an investment management platform built for financial advisors. Founded in 2016, Vise gives advisors the tools and technology they need to grow their business and help clients achieve their goals. By empowering advisors, Vise advances its mission of creating financial freedom for everyone. Vise is backed by Sequoia Capital, Founders Fund, Bond Capital and Ribbit Capital, and recently completed a Series C funding round.<br><br>As a Senior Software Engineer, Frontend, you will have the ability to leverage existing knowledge about modern front-end frameworks to build a platform that displays and visualizes data as well as construct the UX for the system. You will have the ability to shape the design and structure of the product that will have a major impact on the team.<br><br>Our HQ office is located in One World Trade in NYC, which is now open for anyone who chooses to go in. We will continue to be remote-optional until September 30, 2021. We will monitor Covid-19 trends to ensure the safety of our employees.<br><br><strong><u>What You Will Own<br></u></strong><ul><li>Partner with our product &amp; design team to design the user flows and features</li><li>Design and implement new UI features</li><li>Work with the data team to better display and visualize data to the RIAs</li><li>Work with the backend team to improve the API designs and implementations<br><br></li></ul><strong><u>What You Will Bring On Day 1<br></u></strong><ul><li>5+ years experience working as a software engineer building highly performant web apps from concept to production</li><li>Using React on a regular basis in your work environment currently </li><li>Have hands on experience with designing and building modern UI architecture at scale</li><li>Expert level use of JavaScript, HTML, CSS, &amp; AJAX</li><li>Working knowledge to expert level in Node and Typescript</li><li>Effective interpersonal, communication, and collaboration skills with great problem solving abilities<br><br></li></ul><strong>These would be great to have, but we\u2019re sure you can learn this on the job here<br></strong><ul><li>Financial background or previous work with financial data </li><li>Experience with visualization libraries like D3, ChartJS, Highcharts, and others</li><li>Programming in Typescript and using Redux frameworks<br><br></li></ul><strong>Our stack:</strong> Postgres, Express, TypeScript, React, Redux, Node, AWS, and Python (backend)<br><br>Vise celebrates and embraces diversity and is committed to building a team that represents a variety of experiences, backgrounds, and skills. We do not discriminate on the basis of race, color, religion, marital status, age, gender identity, gender expression, sexual orientation, non-disqualifying physical or mental disability, national origin, veteran status, or other applicable legally protected characteristics.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:19:31.000Z"
+  },
+  "company": {
+    "name": "Vise",
+    "link": "https://www.linkedin.com/company/viseinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Terminus is the only account-based engagement platform built to deliver more pipeline and revenue through multi-channel account-based marketing (ABM). The platform, Terminus Engagement Hub, connects the first and third-party data needed to understand both customers and prospects, with the most robust suite of engagement channels\u2014including ads, chat, email, and web\u2014available. Terminus powers multi-channel ABM for thousands of brands globally including DHL, G2, Outreach, and TripActions. Terminus is proud to be a G2 leader in ABM for 13 consecutive quarters. Visit terminus.com to learn more or connect with us on Twitter and LinkedIn .<br><br>Terminus is seeking an accomplished <strong>Software Engineer</strong> to help us build an industry leading Account-Based Marketing platform that allows B2B marketers to do ABM at scale. This role will be pivotal in helping our teams build, scale and deliver best-in-class ABM platform on the market to our customers. This will include working with third-party data and integrations, ETL jobs, our data platform, as well as a variety of our other services which require experience in, but not limited to, APIs, messaging and automation.<br><br>Most importantly, we are looking for engineers that exemplify our core values: positive, supportive, and self-starting. Like us, we want you to be excited every day about working with this team and building great software. We are passionate about delivering high-quality code and providing our customers with features that they need and love.<br><br>As a fast growing startup, Terminus offers an incredible opportunity for a senior software engineer to learn, grow personally and professionally, and be part of building our company and culture.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Write and review services coded in Go (primarily), Python, Typescript, Ruby, Java and other languages/frameworks as necessary</li><li>Design and implement large scale data solutions</li><li>Deploy high-volume services to production multiple times per day</li><li>Maintain infrastructure-as-code in an AWS environment (We use Terraform)</li><li>Instrument code to provide visibility into performance and reliability</li><li>Document service design/architecture and participate in design reviews</li><li>Maintain operations by measuring and monitoring availability, latency and overall system health</li><li>Work with Support to triage and debug customer and product issues<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>2+ years of professional software experience in one or more of the following: Go, C, C++, Java, C# or Ruby</li><li>2+ years experience running production systems on a major cloud provider</li><li>Experience in building, maintaining and monitoring distributed services and systems</li><li>Experience with RPC/RESTful API design</li><li>Experience in multiple database designs (relational, document, graph)</li><li>Experience with Microservices architecture.<br></li></ul><strong><u>Preferred Experience With The Following<br></u></strong><ul><li>AWS</li><li>Designing and developing public APIs</li><li>Docker in a production environment</li><li>Experience with big data technology (e.g. Spark, Hive, etc.).<br></li></ul><strong>Incredible Benefits, Incredible Company!<br></strong><ul><li>Guaranteed participation in our equity program - because our employees should share in our success</li><li>Unlimited vacation to unplug and recharge however you choose</li><li>Half-Day Fridays to reward you for your productivity</li><li>2 days paid VTO (volunteer time off) every year to help impact your community</li><li>Monthly UberEats stipend to help support your favorite local spots</li><li>Team budget to help facilitate team building - connected teams are more successful teams</li><li>Rotating quarterly perks for the evolving needs of our employees</li><li>Wellness stipend to balance your body and mind</li><li>100% employer paid Health, Dental, and Vision Insurance for employee only coverage to cover your fundamental needs</li><li>100% employer paid Short-term and Long-term Disability Insurance</li><li>401K with a competitive company match to build your future financial security</li><li>We put families first with an exceptional Paid Parental Leave Program for employees with 1+ years of service</li><li>Named Best Workplace Winner 2017, 2018, and 2019 by Inc. Magazine </li><li>Ranked #21 on the Deloitte Fast 500</li><li>Ranked #61 on the Inc. 5000 of fastest-growing private companies in the U.S.</li><li>Named G2 2020 Spring category leader for the 10th consecutive quarter.<br></li></ul>Diversity and inclusion are essential values at Terminus. We believe we do our best and most impactful work when we are a diverse, inclusive and equitable organization. We're proud to recruit and hire talented people from a wide variety of backgrounds and experiences. We do not discriminate on the basis of race, color, national origin, gender, religion, sex (including pregnancy, sexual orientation, gender identity or transgender status), age, or disability.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:27:53.000Z"
+  },
+  "company": {
+    "name": "Terminus",
+    "link": "https://www.linkedin.com/company/terminus-account-based-marketing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

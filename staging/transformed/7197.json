@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "<strong><u>\u00adWho You\u2019ll Work With<br><br></u></strong>Slalom Emerge is team of pioneers and trailblazers helping ensure we achieve our strategic goals of investing for the future and pursuing innovation as a competitive advantage. We empower our local markets by identifying emerging capabilities, building multi-disciplinary teams, and providing access to niche and hyper specialized expertise.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Design, and deliver cloud-native, hybrid, and multi-cloud workloads</li><li>Migrate enterprise workloads to any of the major public cloud platforms (AWS, GCP, Azure, Snowflake) using industry-standard as well as proprietary methodologies </li><li>Automate cloud deployments, \u00ad\u00adas well as build CI/CD pipeline to support Cloud-Based workloads </li><li>Provide experienced knowledge and/or develop competency on various automation tools </li><li>Deliver quality results in cross-functional work environments and teams </li><li>Support current state analysis and work with enterprise architects to build target state architecture</li><li>Shepherd requirements into technical solutions and contribute to design sessions and technical solutions </li><li>Define and clearly communicate requirements to all stakeholders </li><li>Design and architect solutions in the areas of Data Virtualization, DevOps, Security, Governance, CI/CD, and/or Containerization </li><li>Monitor and manage implementation to ensure high quality and alignment with defined requirements </li><li>Work as team member across complete life cycle of delivery including architecture, design, development, test, and document integration solutions, custom development, and data migration elements of business applications </li><li>Ability to travel up to 30-40% (regional)<br></li></ul><strong><u>What You\u2019ll Bring</u></strong><ul><li>Experience migrating and deploying cloud-based solutions </li><li>Minimum of 2 years of hands-on experience in other Cloud technologies such as</li><ul><li>AWS - S3, Glacier, EC2, Lambda, SQS, Redshift </li><li>Azure - Blob Storage, Cool Blob Storage, Virtual Machine, Functions, SQL Datawarehouse </li><li>GCP - Cloud Storage, Coldline Cloud Storage, Compute Engine, Cloud Functions, Big Query </li><li>Snowflake</li></ul><li>2+ years of experience in SQL, data transformations, statistical analysis, and troubleshooting across more than one Database Platform (Cassandra, Snowflake, PostgreSQL, Redshift, Big Query, Azure SQL Warehouse, etc.).</li><li>2+ years of experience with ETL tools such as Informatica, Talend, Matillion, Databricks and/other</li><li>Knowledge and understanding of product features including IaaS, PaaS, and SaaS Solutions </li><li>Configuration Management and Infrastructure-as-Code experience (e.g. Terraform, Cloud Deployment Manager, Chef, Puppet, Ansible)</li><li>Coding ability in Python/Java/C#/Unix, Kinesis, Kafka and/or shell scripting to build and deploy data pipelines </li><li>Experience building solutions utilizing various Cloud services such as EC2, S3, EMR, Kinesis, RDS, Redshift/Spectrum, Lambda, Glue, Athena, API gateway, etc.</li><li>Experience with any one of the data Virtualization tools like Trino, Starburst, Denodo, Data Virtuality etc. is a big plus</li><li>High Availability and Disaster Recovery principles, patterns and usage </li><li>Understanding of cloud ecosystem</li><li>Experience configuring and tuning virtual private clouds </li><li>Experience supporting Production applications or workloads in a cloud-based environment </li><li>Performance analysis, troubleshooting and remediation techniques </li><li>Useful to have experience with API management and integration (e.g. Apigee)</li><li>Preferred to have Certification as an active Data Engineer and/or Architect from any of the major cloud platforms<br></li></ul><strong><u>About Us<br><br></u></strong><em>Slalom is a modern consulting firm focused on strategy, technology, and business transformation. In 39 markets around the world, Slalom's\u202fteams have autonomy to move fast and do what's right. They are backed by\u202fregional innovation hubs, a global culture of collaboration, and partnerships with the world's top technology providers. Founded in 2001 and headquartered in Seattle, Slalom has organically grown to over 8,000 employees. Slalom has been named one of Fortune's 100 Best Companies to Work For five years running and is regularly recognized by\u202femployees as a best place to work. Learn more at </em><em>slalom.com</em><em>. <br><br></em><em>Slalom prides itself on helping team members thrive in their work and life. As a result, Slalom is proud it invest in benefits that include: meaningful time off and paid holidays, parental leave, 401(k) with a match, a range of choices for highly subsidized health, dental, &amp; vision coverage, adoption and fertility assistance, and short/long-term disability. We also offer additional benefits such as a yearly $350 reimbursement account for any well-being related expenses as well as discounted home, auto, and pet insurance. <br><br></em><em>Slalom is an equal opportunity employer that is committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veterans status, or any other characteristic protected by federal, state, or local laws.\u202f</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:30:13.000Z"
+  },
+  "company": {
+    "name": "Slalom",
+    "link": "https://www.linkedin.com/company/slalom-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68900,
+    "max_value": 93100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

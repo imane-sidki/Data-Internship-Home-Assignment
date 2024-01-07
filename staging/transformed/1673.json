@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Goods",
+    "description": "<p>As Data Science Manager, you would have the opportunity to apply data science techniques across our portfolio of brands to create novel tools and analyses, pushing the boundaries of marketing analytics within the company.</p><p><br></p><p>This role is responsible for building data products and translating data into clear and compelling insights ensuring proper activation that leads to business results. You will work closely with other data scientists, engineers and partners across Marketing, Sales and R&amp;D to derive insights from diverse data sources, help the business make data-driven decisions and apply cutting edge data science techniques. The ideal candidate would be passionate aboutdata science andproductanalyticswithbusiness facingexperience.Thisposition reports totheAssociate Director, Data Science.</p><p><br></p><p><u>Key Responsibilities</u></p><p><br></p><ul><li>Engage with studios and business stakeholders to discover data science and analytics opportunities and pain points</li><li>Assess and scope data science work within these opportunities and pain points to effectively develop priorities and map to specific algorithms, data products and components</li><li>Lead and coach stakeholders and team members to enhance their ability to deliver on the agreed data strategy</li><li>Collaborate with a cross-functional team to develop strategic data-driven frameworks and use agile product management to ensure on-time product delivery and activation</li><li>Ensure projects are delivered within the agreed schedule and budget while ensuring quality</li><li>Deliver clear and consistent communications within projects and across stakeholders of all levels</li><li>Actively engage in meetings, solution design, review sessions and retrospectives. Support team by actively engaging in knowledge share sessions and brining in innovative data science ideas</li><li>Manage expectations daily to keep everyone aligned</li></ul><p><br></p><p><u>Education &amp; Experience</u></p><p><br></p><ul><li>Bachelor\u2019s degree or higher indata science, math, statistics, computer scienceorotherrelevant quantitative fields. MS strongly preferred</li><li>5-7+ years of relevant business experience with bachelor\u2019s, or 3-5+ years with graduate degree</li><li>Highly collaborative and able to communicate effectively with non-technical audiences<strong>.</strong>Business partner facing experience is preferred</li></ul><p><br></p><p><u>Technical Skills</u></p><p><br></p><ul><li>Comfortable with predictive modeling, A/B testing and experimentation, neural networks and deep learning, natural language processing, data visualization, and statistical analysis</li><li>Experience in Python and its packages such as PySpark, PyTorch, Keras, TensorFlow</li><li>Experience with cloud-based data tools like BigQuery, Azure Synapse and GCS </li><li>Ability to create examples, prototypes, demonstrations to help management better understand the work</li></ul><p><br></p><p><u>Other Skills</u></p><p><br></p><ul><li>Self-starter who can think creatively and look for/develop elegant and viable solves for real world problems</li><li>Skilled at producing actionable and compelling recommendations driven by complex data</li><li>Strong leadership and communication skills</li><li>Excellent time and project management skills with the ability to work efficiently under tight deadlines</li><li>Strong interpersonal and relationship building skills</li><li>Strong Business acumen. Consumer goods (CPG/FMCG)experience preferred</li><li>Comfortable in a dynamic environment and able to identify needs, develop a plan of action and implement</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T20:56:16.000Z"
+  },
+  "company": {
+    "name": "The Clorox Company",
+    "link": "https://www.linkedin.com/company/the-clorox-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95400,
+    "max_value": 183000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

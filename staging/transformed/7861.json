@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, EDGE",
+    "industry": "Computer Software,Internet,Information Technology and Services",
+    "description": "<strong>WHAT IS BOX?<br><br></strong>Box is the market leader for Cloud Content Management. Our mission is to power how the world works together. Box is partnering with enterprise organizations to accelerate their digital transformation by creating a single platform for secure content management, collaboration and workflow. We have an amazing opportunity to further establish ourselves as leaders in the space, and we need strong advocates to help us achieve that goal.<br><br>By joining Box, you will have the unique opportunity to help capture a majority of this developing market and define what content management looks like for the digital enterprise. Today, Box powers over 97,000 businesses, including 70% of the Fortune 500 who trust Box to manage their content in the cloud.<br><br><strong>WHY BOX NEEDS YOU <br><br></strong>Box is growing fast. Real fast. Every business in the world is looking to modernize the way that they work. As the leader in cloud content management, Box is the only company that can help enterprises transform how people work together. We need to expedite this effort by building highly available and distributed Infrastructure services in a heterogenous environment. <strong>That's where you come in.<br><br></strong><strong><u>What You'll Do<br><br></u></strong>As a member of the Network Reliability Engineering team, you will be directly responsible for the architecture, development, deployment, and maintenance of several of Box's internal services and applications, including performance optimization, and designing how to better align and integrate the services with our hybrid hosting strategy (Multi-Vendor Cloud Strategy, Containerization, etc).<br><br>The team is looking for a mix of programming and systems oriented skills, and offers opportunities to grow in both software and systems engineering. You will collaborate closely with other engineering teams, using agile methodologies as well as Open Source technologies within the SRE community. As we evolve the infrastructure and move towards a service oriented architecture, it is imperative that we redefine how to think about operationalizing services in the future.<br><br>We are a team of highly motivated and driven engineers who are dedicated to Box's future - to solving tomorrow's problems today. We understand how critical the scalability and reliability of the infrastructure is to the growth of the company and take that responsibility seriously. We would love to find someone who shares our drive and will help propel us to continue architecting services for a heterogeneous and platform agnostic environment.<br><br><strong><u>Who You Are<br></u></strong><ul><li>You have a clear understanding of systems and application design, including the operational trade-offs of different architectures</li><li>You are able to troubleshoot problems in a distributed GNU/Linux systems environment and are comfortable tracing problems through applications, systems and networks</li><li>You have worked in cross-functional engineering teams and know what it means to enable others\u2019 success, taking ownership and striving to work with others to tackle large problems</li><li>You like to build tools that automate your job, being comfortable in at least one programming languages, e.g. Bash, Go, Python, Ruby, etc.</li><li>You have experience working with technologies like configuration management (Ansible, Puppet), Docker, DNS, git, key-value stores (etc, Zookeeper), load-balancers (HAProxy, NGINX), monitoring (Sensu, Wavefront)</li><li>Minimum 3+ years of handling services in a large scale production environment and determining solutions to increase stability, scalability and performance limits of services</li><li>Strong track record of successful practical problem solving, excellent written and social communication, and documentation skills </li><li>Remote friendly!<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Visit this webpage to check out all of our exciting healthcare benefits https //join.collectivehealth.com/box</li><li>For all other benefits, please check out Box Benefits + Perks <br></li></ul><strong>EQUAL OPPORTUNITY<br><br></strong>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br>For details on how we protect your information when you apply, please see our Personnel Privacy Notice.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Box",
+    "link": "https://www.linkedin.com/company/box"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

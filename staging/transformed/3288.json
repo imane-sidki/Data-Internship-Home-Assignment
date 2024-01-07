@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Business Supplies and Equipment",
+    "description": "<strong><u>Description &amp; Requirements<br><br></u></strong>PARC is incubating a new software venture in the Industrial Internet of Things (IIoT) space. We are looking for a Data Scientist who will be responsible for developing algorithms for anomaly detection, diagnostics, and prognostics of failure using machine learning techniques and hybrid machine learning/physics-based variants using streaming sensor data from industrial equipment.<br><br>The Data Scientist is expected to assist in designing and building modular, reusable models and algorithms that will be deployed as a service offering in a large number of different industrial environment. The particular service offering is in the context of Predictive Maintenance (PdM) and has the goal to reduce operational disruptions due to equipment malfunction. The Data Scientist needs to be comfortable with engaging in the end-to-end process of remote monitoring which includes all steps from data collection to analytics results presented back to customer. The Data Scientist is expected to adhere to disciplined coding guidelines and styles so that the solutions can be integrated into a software platform. Additionally, the solutions need to be robust to variations to input, minor design variations, and similar so they can be scaled across many different customer applications.<br><br><strong><u>Other Responsibilities<br></u></strong><ul><li> Be able to ingest, clean, visualize, and analyze historical and new data from industrial equipment </li><li> Ability to program in Python with a good understanding of OOP </li><li> Identify needs for additional data collection </li><li> Experience working with large real-time data streams </li><li> Build end to end algorithms [DN1] for anomaly detection, diagnostics, prognostics, and optimization </li><li> Build models that represent equipment behavior a.) under a variety of nominal conditions; b.) when subject to different degradation modes </li><li> Write reusable, testable, and efficient code </li><li> Build reproducible back tests for proposed models / algorithms </li><li> Come up with creative ways to find and use algorithms that significantly impact performance metrics <br></li></ul><strong><u>Experience And Qualifications<br></u></strong><ul><li> Advanced degree (Ph.D. preferred) in Applied Data Science, Computer Science, Machine Learning, Engineering, or similar from a recognized university. </li><li> 2+ years of industrial data science experience required. This experience may be substituted with relevant thesis topic and/or co-op/internship project. </li><li> Well-versed in approaches to various machine learning, predictive monitoring, signal processing, data visualization, and applied statistics. </li><li> Excellent communication skills \u2013 must be able to articulate analysis and methodologies clearly and communicate insights both verbally and graphically in an accessible way to the team </li><li> Must be able to conceive of solutions that have not been already defined </li><li> Facility with Python, scikit-learn, pandas, Matplotlib, and TensorFlow <br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li> Experienced in a 24/7 distributed team </li><li> Experience working as data scientist in industry </li><li> Experience working with large real-time data streams </li><li> Experience with IoT architecture and SaaS </li><li> Experience working with distributed technologies (REST, web services, WebAPI, microservices, etc.) </li><li> Experience with hybrid approaches, i.e., integrating physics-based models with machine learning </li><li> Comfortable working in a variety of different applications. </li><li> Good understanding of data engineering <br></li></ul>The job location is Palo Alto, CA. Please note that the position will require occasional travel (up to 20%), mostly within North America.<br><br>Xerox is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, creed, religion, ancestry, national origin, age, gender identity or expression, sex, marital status, sexual orientation, physical or mental disability, use of a guide dog or service animal, military/veteran status, citizenship status, basis of genetic information, or any other group protected by law. Learn more at www.xerox.com and explore our commitment to diversity and inclusion! People with disabilities who need a reasonable accommodation to apply or compete for employment with Xerox may request such accommodation(s) by sending an e-mail to XeroxStaffingAdminCenter@xerox.com. Be sure to include your name, the job you are interested in, and the accommodation you are seeking.<br><br>\u00a9 2020 Xerox Corporation. All rights reserved. Xerox\u00ae and Xerox and Design\u00ae are trademarks of Xerox Corporation in the United States and/or other countries.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T17:04:06.000Z"
+  },
+  "company": {
+    "name": "Xerox",
+    "link": "https://www.linkedin.com/company/xerox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Our Company<br><br></u></strong>Changing the world through digital experiences is what Adobe\u2019s all about. We give everyone\u2014from emerging artists to global brands\u2014everything they need to design and deliver exceptional digital experiences! We\u2019re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.<br><br>We\u2019re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!<br><br><strong>The Opportunity <br><br></strong>The Adobe Experience Cloud is looking for a full time iOS SDK Engineer to join its Mobile Experience team in San Jose, CA or Lehi, UT. We are seeking an experienced engineer to contribute to mobile SDKs that allow customers to craft interactive experiences in their mobile apps. These SDKs are embedded in the mobile apps of many Fortune 500 companies and other large businesses. At Adobe, we process billions of hits per week from these mobile apps.<br><br><strong><u>What You'll Do<br><br></u></strong>You will work with a team of engineers to add and maintain features in our Adobe Experience Platform Mobile SDKs using the Swift programming language.<br><br>We continuously follow new trends in the marketplace and find ways to implement these in our mobile SDKs to provide customers more innovative ways to interact and engage with their users to create mobile experiences. You will help research and prototype new features to evaluate them for inclusion.<br><br>We strive to achieve and maintain full CI/CD and test automation coverage for fast and efficient releases and expect all engineers to help with this endeavor.<br><br><strong><u>What You Need To Succeed<br></u></strong><ul><li>B.S. or M.S. in Computer Science, Information Systems, or related fields.</li><li>Extensive knowledge of mobile platforms and mobile app development, particularly iOS.</li><li>Strong programming skills. Proficient in Objective-C/Swift.</li><li>Experience in good software design and architecture.</li><li>Ability to lead and mentor junior team members.<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:01:38.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 155000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer- Computer Vision (TDG)",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple we tackle intricate engineering challenges to surprise and delight our customers. To build, maintain and extend software algorithms necessary for these tasks we are looking for an excellent software engineer in test like you. <br><br><br>As part of Apple\u2019s Technology Development Group (TDG), you will work in a small and dynamic team to understand, test and improve visual 3D scene understanding algorithms for Augmented Reality applications. <br><br><br>Algorithms, infrastructure, quality assurance and reporting are all tightly integrated at Apple. As a member of a fast-paced team, you have the unique and rewarding opportunity to work on upcoming releases of Apple products that delight and inspire people every day. We invite you to contribute to our current Augmented Reality platform and craft the future of Apple! <br><br><br>To be successful in this role, you should have shown experience in several of the following areas:<br><br> <br><strong>Key Qualifications<br></strong> <br>Work with world-class computer vision engineers to understand the algorithms they develop<br><br><br>Build evaluations and metrics to quantify algorithm performance on large scale datasets and relate them to user experience<br><br><br>Investigate observed behaviors and gather diagnostic data to track issues to their source<br><br><br>Drive issues to closure by working with a wide range of cross-functional teams.<br><br><br>Solid foundation in geometric computer vision and 3D computer graphics<br><br><br>Strong development skills in Python and experience with C, C++ or objective c<br><br> <br><strong>Description<br></strong> <br>The Algorithms organization in Apple\u2019s Technology Development Group (TDG) is looking for a motivated engineer, with a strong background in computer vision. In this role, you will perform development work to test algorithms for ambitious real-world problems in the domain of 3D scene understanding to enable Augmented Reality experiences. Your key responsibilities in this role are: design and implementation of test applications and/or test tools, benchmarking and analysis of computer vision and machine/deep learning algorithms, supporting and improving our tools for continuous integration, collaboration with teams across Apple with multidisciplinary skills.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in CS/CE/CE or related field with focus on computer vision, computer graphics, robotics or similar<br><br> <br>Role Number: 200248871<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:43:43.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75200,
+    "max_value": 163200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

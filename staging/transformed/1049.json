@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Front End UI",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong>Software Engineer Front End / UI<br><br></strong><strong>You <br><br></strong>An experienced Full Stack Developer with a passion for UI.<br><br><strong><u>Responsibilities &amp; Goals<br></u></strong><ul> <li>Own features to create widgets and a hosted UI environment for client financial institutions to provide bill pay to their customers, with minimal oversight </li> </ul><ul> <li>Have a deep understanding of the systems: Know the end-to-end processing of a payment presented to the system (component flow), the DTO model, the API and the details of the widgets and web service </li> <li>Deliver on-quality, on-time features and tasks assigned, and produce platform live with 1-2 customers by end of year </li> <li>Provide insight into our customers </li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>5+ years of software development experience </li> <li>\u2018Full Stack\u2019 developer with emphasis on web services and UI </li> <li>Experience with responsive web apps and mobile development </li> <li>Experience with Javascript tech (React JS) </li> <li>Experience with Cloud Environment (AWS) </li> </ul><ul> <li>Experience with DevOps and configuring build environment </li> <li>High tolerance for ambiguity </li> <li>Thrives in a fast paced work environment </li> <li>Seeks to understand the whole of how things work beyond their functional area </li> <li>Stoked by solving customer issues </li> </ul><ul> <li>Strong written and verbal communication skills </li> <li>Self-starter with the ability to own broad feature areas independently </li> <li>BA/BS degree in Computer Science or related major with strong academic record </li> <li>Willingness to work in a highly collaborative environment where the belief is that great ideas can come from anywhere </li> <br><br></ul><strong><u>Recommended But Not Required<br></u></strong><ul> <li>Experience in payments industry </li> <li>Experience with our tooling/tech stack </li> <li>Experience in small company environment </li> <li>Client facing work</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:43:54.000Z"
+  },
+  "company": {
+    "name": "BillGO",
+    "link": "https://www.linkedin.com/company/billgopayments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Collins",
+    "region": "CO",
+    "postal_code": "80521",
+    "street_address": null,
+    "latitude": 40.58897,
+    "longitude": -105.08246
+  }
+}

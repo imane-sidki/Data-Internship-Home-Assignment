@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Company Description:<br><br></strong>Flashpoint delivers actionable intelligence that empowers organizations of all sizes to take rapid, decisive actions to protect against threats. The company's technology, advanced data collections, and human-powered analysis uniquely enable teams to mitigate threats related to cybersecurity, fraud, insider threats, corporate and physical security, executive protection, and third-party risk. For more information, visit https://www.flashpoint-intel.com/ or follow us on Twitter at @FlashpointIntel.<br><br><strong>What we look for:<br><br></strong>Our best engineers are collaborative and selfless. They enjoy writing code but they prioritize mentoring and supporting others. They leave code cleaner than when they found it but don't insist on particular patterns. They optimize for simplicity and readability. They are involved in the full lifecycle of software development: understanding the requirements, designing the solution, writing the code, testing the code, testing the integration, deploying it to production, and monitoring the deployment. They are fully engaged in the problem domain.<br><br><strong>What you will do:<br><br></strong>As an engineer on the Flashpoint Threat Operations team, you will work closely with the Flashpoint intelligence analysts to support their needs in an ever changing environment. You must take care that the team's applications are reliable, responsive, simple, and predictable.<br><br>Your main technical responsibilities will include:<br><br><ul> <li>Build, maintain, and document applications that consume streaming data</li> <li>Build, maintain, and document customer-facing UIs and APIs</li> <li>Design small projects lasting from one to three months.</li> <li>Design testing strategies for your apps, including integration, performance, functional, and failure scenarios</li> <li>Collaborate with the product team as well as cyber threat, fraud, and security experts to understand the problems that customers want to solve</li> <li>Collaborate with the data and operations teams to design infrastructure that supports the applications you will be building</li> <li>Identify opportunities for automation and drive process improvements</li> <br></ul><strong>Technologies you will work with:<br><br></strong>The core responsibility of a delivery engineer is to build and maintain well-running APIs. This means you must work with:<br><br><ul> <li>Streaming pipelines using tools like Kafka, AWS MSK, and Google PubSub</li> <li>Cloud providers like AWS and GCP</li> <li>Javascript frameworks like React and Redux</li> <li>Containers technologies like Docker and Kubernetes</li> <li>Python web frameworks like Flask and Django</li> <li>Python testing frameworks like pytest</li> <li>Search databases like Elasticsearch and Solr</li> <li>Key/Value stores like Redis, Cassandra, and BigTable</li> <li>Monitoring tools like ElasticAPM, Prometheus, and Grafana</li> <br></ul>Our developers succeed when they know how their work fits in within the entire infrastructure. They integrate their work with the data team's or operation team's stack. Therefore, engineers on all of our teams have a chance to work with a varied list of technologies, like:<br><br><ul> <li>API frameworks like GraphQL and OpenAPI</li> <li>Configuration management and IaC tools like Ansible, Puppet, Chef, and Terraform</li> <br></ul><strong>What you will bring:<br><br></strong><ul> <li>1-5 years experience as a software engineer</li> <li>Proficiency in Python or Javascript</li> <br></ul><strong>Why Flashpoint is a Great Place to Work:<br><br></strong><ul> <li><strong>Diversity. </strong> Flashpoint is committed to fostering, cultivating and preserving a culture of diversity, inclusion, belonging, and equity. We recognize that diversity is key to achieving our vision. We believe that every person and their experiences contribute to building a work environment and a product that will change the world.</li> <li><strong>Culture and Belonging. </strong> Our company's culture isn't something you join, it's something you build and shape, and each person's unique backgrounds and experiences contribute to who Flashpoint is and will become. You will have ample opportunities to connect with coworkers through various communication channels and company-funded events: dietary &amp; allergy conscious catered lunches, book clubs, happy hours, committees and much more. </li> <li><strong>Benefits. </strong>We offer a competitive salary and benefits package, including unlimited PTO, 401(K), mental health and wellness benefits, commuter benefits, and generous parental leave policies.</li> <li><strong>Perks.</strong> Flashpoint understands that personal wellness is one of the keys to a happy, healthy and productive work environment. That's why we also prioritize health and wellness perks like gym reimbursements and daily meditation, well-stocked kitchens, cool cultural initiatives and inclusive employee events.</li> <li><strong>Career Growth. </strong>Flashpoint is invested in the growth of our team members and understands that frequent, two-way feedback is critical to that growth. We encourage regular one-on-ones with your manager, a regular schedule of performance reviews, learning and development opportunities, and guidance through formalized career paths; whether that be towards being a great manager, being a great individual contributor, or a lateral move to gain breadth of knowledge and experience. </li> <li><strong>A Great Place to Work.</strong> Literally. According to the 99% of employees surveyed, Flashpoint earned designation as a Great Place to Work-Certified\u2122 Company for 2021. 100% of employees agree that new hires are made to feel welcome and appreciated. If you are interested in learning more, please check out our Certified Profile.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-04T05:09:50.000Z"
+  },
+  "company": {
+    "name": "Flashpoint",
+    "link": "https://www.linkedin.com/company/flashpoint-intel"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 167000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

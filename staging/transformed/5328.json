@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Autopilot Simulation",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong><u>The Role<br><br></u></strong>Autopilot is of critical importance to Tesla's mission. It is safer, makes driving more enjoyable, and will ultimately deliver on the promise of self-driving cars. As a member of Tesla's Autopilot Simulation team, you will be in a unique position to accelerate the pace at which Autopilot improves over time. The main ways in which the simulation team realizes this include:<br><ul><li>Building tools that enable Autopilot software developers to perform virtual test drives instead of real ones. </li><li>Testing all Autopilot code changes and software releases for regressive behavior. </li><li>Generating synthetic data sets and reinforcement learning pipelines for neural network training. <br></li></ul><strong><u>More Broadly We Are Looking For Experts In These Fields<br><br></u></strong>As an Autopilot Simulation Machine Learning Engineer, you will contribute to the development of Autopilot simulation by enabling and accelerating the creation of photo realistic 3D scenes through neural rendering, neural animation, scene/object reconstruction.<br><ul><li>Neural rendering </li><li>Neural animation </li><li>Object reconstruction </li><li>Environment reconstruction </li><li>Scenario reconstruction <br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Expert level Python Skills </li><li>The team operates in a production setting. An ideal candidate has strong software engineering practices and is very comfortable with Python programming, debugging/profiling, and version control. </li><li>We train neural networks on a cluster in large-scale distributed settings. An ideal candidate is very comfortable in cluster environments and understands the related computer systems concepts (CPU/GPU interactions/transfers, latency/throughput bottlenecks during training of neural networks, CUDA, pipelining/multiprocessing, etc). </li><li>We are at the cutting edge of deep learning applications. The ideal candidate has a strong understanding of the under the hood fundamentals of deep learning (layer details, backpropagation, etc). Additional requirements include the ability to read and implement related academic literature and experience in applying state of the art deep learning models to computer vision (e.g. segmentation, detection) or a closely related area (speech, NLP). </li><li>Experience with PyTorch, or at least another major deep learning framework such as TensorFlow, MXNet. </li><li>Some experience with data science tools including Python scripting, numpy, scipy, matplotlib, scikit-learn, jupyter notebooks, bash scripting, Linux environment.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T04:00:20.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96400,
+    "max_value": 126000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

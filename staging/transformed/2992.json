@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "(100% Remote) Site Reliability Engineer ",
+    "industry": "Information Technology and Services",
+    "description": "<p>Our customer is a SaaS based AI product development startup. Their product automates and personalizes restaurant orders on high-volume voice channels using artificial intelligence (AI).</p><p><br></p><p><strong><u>Title</u></strong>- <strong>Site Reliability Engineer </strong></p><p><strong><u>Location</u></strong>- Austin, Texas, United States - Remote till covid</p><p><strong><u>Duration</u></strong>- Fulltime</p><p><strong><u>Responsibilities</u></strong></p><p><strong>\u25cf </strong>Be part of on-call rotation to respond to urgent bugs or production outages</p><p>\u25cf Proactively identify and fix infrastructure bottlenecks</p><p>\u25cf Choosing tooling for and understanding of CI / CD</p><p>\u25cf GCP knowledge</p><p>\u25cf Kubernetes (In a production environment)</p><p>\u25cf Docker</p><p>\u25cf Knowledge of working in an Agile environment</p><p>\u25cf Infrastructure As Code</p><p>\u25cf Develop, integrate and support features in the core server stack</p><p>\u25cf Develop and support data pipeline and infrastructure</p><p><strong><u>Desirable Skills Include</u></strong><u>:</u></p><p>\u25cf Microservices Architecture</p><p>\u25cf Go</p><p>\u25cf Python</p><p>\u25cf ML Ops</p><p>\u25cf Should be able to apply different tenants' configuration through code as well as tools.</p><p><strong><u>Experience</u></strong></p><p><strong><u>\u25cf </u></strong>3-5 years of experience in working with infrastructure as code</p><p>\u25cf At least 1 year in Python or Golang</p><p>\u25cf Comfortable developing, maintaining DevOps pipelines</p><p>\u25cf Strong experience working with cloud services - AWS or GCP preferred</p><p>\u25cf Exposure to NLP/AI/ML is a huge plus</p><p><br></p><p><strong>If interested please email me your resume atanna@avestacs.com</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T17:18:16.000Z"
+  },
+  "company": {
+    "name": "Avesta Computer Services",
+    "link": "https://www.linkedin.com/company/avesta-computer-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

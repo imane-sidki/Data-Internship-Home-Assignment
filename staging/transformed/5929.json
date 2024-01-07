@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (DevOps Engineer)",
+    "industry": "Financial Services,Investment Management,Banking",
+    "description": "<strong><u>Job Description<br><br></u></strong>Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as \u201cPersonal Cell\u201d or \u201cCellular\u201d in the contact information of your application.<br><br>At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.<br><br>Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.<br><br>Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure; provides information security; and enables Wells Fargo global customers to have 24 hours a day, 7 days a week banking access through in-branch, online, ATMs, and other channels.<br><br>Our mission is to deliver stable, secure, scalable, and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employees.<br><br>DevOps Engineer - As part of the Corporate Risk Data Services Team, this individual will partner closely with Development &amp; Business Teams, on various applications, to drive out and mature the Continuous Integration and Continuous Delivery principles under the Agile framework. This will include maintaining and supporting lower level and production environments, responding to and troubleshooting escalated environmental issues, supporting system/application rollouts, driving efficiently, automation and streamlining efforts throughout the delivery pipeline and conducting technical analysis, and producing recommendations.<br><ul><li> Collaborating with big data platform (MapR, Hortonworks, MongoDB) developers</li><li> Collaborating with developers and tech leads to deliver Restful API integration services</li><li> Design , collaborate, build and implement automated application delivery improvements to test and production environments.</li><li> Drive the automation opportunities in build, test, deployment and release arenas encompassing various technologies and tools.</li><li> Understand the process and technical complexities of performing application builds, testing, deployments and releases.</li><li> Improve and extend the existing process to a unattended delivery pipeline (Continuous Integration, Continuous Delivery and Continuous Testing).</li><li> Drive out technical release coordination activities across several teams simultaneously.</li><li> Support application releases by performing pre and post implementation tasks.</li><li> Be a key contributor to initiatives that require technical expertise.</li><li> Identify process and technical improvement areas and propose solution.<br></li></ul><strong><u>Required Qualifications<br></u></strong><ul><li>5+ years of software engineering experience</li><li>2+ years of experience with Continuous Integration tools such as Jenkins, UDeploy (Urbancode Deploy) or a combination of both</li><li>2+ years of Agile experience</li><li>2+ years of experience with source coding in one or a combination of the following: GitHub, SVN(Subversion), TFVC (Team Foundation Version Control) or TFSGit (Team Foundation Server)<br></li></ul><strong><u>Desired Qualifications<br></u></strong><ul><li>An industry-standard technology certification</li><li>Strong verbal, written, and interpersonal communication skills</li><li>Python experience</li><li>2+ years of Hadoop experience</li><li>Agile experience</li><li>Strong organizational, multi-tasking, and prioritizing skills</li><li>Knowledge and understanding of automation and engineering release development</li><li>Knowledge and understanding of DevOps principles<br></li></ul><strong><u>Other Desired Qualifications<br></u></strong><ul><li> Experience in Infrastructure, Software Configuration and Environment Management.</li><li> Hands-on experience with Continuous Delivery, Continuous Integration, Reproducibility, Traceability, Concurrent Development strategies.</li><li> Proficiency in scripting and GIT workflows<br></li></ul><strong>Street Address<br><br></strong><strong>NC-Charlotte: </strong>300 S Brevard St - Charlotte, NC<br><br><strong>TX-DAL-Downtown Dallas: </strong>1445 Ross Ave - Dallas, TX<br><br><strong>Disclaimer<br><br></strong>All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.<br><br>Relevant military experience is considered for veterans and transitioning service men and women.<br><br>Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.<br><br><strong><u>Benefits<br><br></u></strong><strong>Benefits Summary<br><br></strong>Visit https://www.wellsfargo.com/about/careers/benefits for benefits information.<br><br><strong><u>Reference Number<br><br></u></strong>5595914-1",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:50:12.000Z"
+  },
+  "company": {
+    "name": "Wells Fargo",
+    "link": "https://www.linkedin.com/company/wellsfargo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60000,
+    "max_value": 91500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

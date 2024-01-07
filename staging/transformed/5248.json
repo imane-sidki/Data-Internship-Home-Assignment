@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "<strong>Our Purpose<br><br></strong>We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team \u2013 one that makes better decisions, drives innovation and delivers better business results.<br><br><strong>Job Title<br><br></strong>Data Engineer<br><br>Have you ever wondered how do you see offers on your credit card based on your past purchase? If you wanted to find the answer do join our team.<br><br>We are looking for a Data Engineer to not only build data pipelines but also extend the next generation of our data tools. As a Data Engineer, you will develop a clear sense of connection with our platform - as Data Engineering is the eyes through which they see the product.<br><br>Data Engineer Responsibilities<br><br>Lead day to day system development and maintenance activities of the team to meet service level agreements and create solutions with high level of innovation, cost effectiveness, high quality and faster time to market.<br><br>Support code versioning, and code deployments for Data Pipelines.<br><br>Ensure test coverage for unit testing and support integration and performance testing.<br><br>Contribute ideas to help ensure that required standards and processes are in place.<br><br>Research and evaluate current and upcoming technologies and frameworks.<br><br>Build data expertise and own data quality for your areas.<br><br><strong><u>Minimum Qualifications<br><br></u></strong>Extensive Java/Scala development experience.<br><br>Extensive experience with SQL.<br><br>Strong experience with Spark Processing engine.<br><br>Strong experience with Big data tools / technologies (Hive, Impala, OOZIE, Airflow, NIFI)<br><br>Strong experience with Data Modeling.<br><br>Experience in Kafka and PCF (Pivotal Cloud Foundry)<br><br>Experience analyzing data to discover opportunities and address gaps.<br><br>Experience working with cloud or on-prem Big Data platform(i.e. Netezza, Teradata, AWS Redshift, Google BigQuery, Azure Data Warehouse, or similar).<br><br>Due to COVID-19, most of our employees are working from home. We\u2019ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we\u2019re all in this together.<br><br><em>Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. <br><br></em><em>If you require accommodations or assistance to complete the online application process, please contact </em><em>reasonable.accommodation@mastercard.com</em><em> and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:25:16.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81900,
+    "max_value": 135000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

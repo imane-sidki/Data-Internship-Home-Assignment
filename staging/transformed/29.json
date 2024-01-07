@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Frontend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Senior Software Engineer - Frontend<br><br></strong><strong>Rapid7 Mission<br><br></strong>Security operations teams are underserved. Impactful outcomes are few and far between and cost more than expected. Hundreds of security vendors build solutions for 1% of companies who have 10x more of everything, yet still get breached. The security gap grows wider daily; security operations teams deserve better.<br><br>At Rapid7, we can close the gap by serving customers intentionally. We choose to believe:<br><br><ul><li>The status quo maintains the gap, so we challenge convention</li><li>Every company is unique - we deliver extensible, adaptable solutions enabling the outcomes matching the customer's needs</li><li>There is strength in numbers, so we provide tools to security, IT, compliance and business partners to make an impact together</li><li>Security needs champions, so we advocate for security within corporations, governments and beyond</li><li>Attackers are relentless, so our job is never done<br><br></li></ul><strong>Role<br><br></strong>If you are looking for an opportunity to drive tremendous impact in a growing market through an emerging Security, Orchestration, Automation and Response product called <u>InsightConnect</u>, help our customers achieve success in increasing their operational efficiency through automation, and grow an integral part of Rapid7's security operations platform and overall expansion strategy, this could be the role for you!<br><br>You'll be involved in building, maintaining, and releasing our various backend services, as well as helping to shape and define our standards and best practices as they evolve within our team, and in our company. You'll work collaboratively with others to enable our customers to automate their security practices and get more done with less time. Our product has an emphasis on a high quality user experience, as our visual builder, configuration components, and overall experience are tailored to taking complex processes and distilling them into simple and straightforward workflows for users.<br><br>You'll also be heavily involved in the design and planning work of upcoming features, as we expect our engineers to be first class stakeholders in all parts of the development process. You'll have the benefit of working with an embedded UX team and the Product Owner, who work deeply with our product to understand the customers needs and craft features that enable them to orchestrate their security processes simply and easily. Additionally, you'll have the chance to mentor and be mentored by a talented group of engineers, both on your team and across the company.<br><br>Successful candidates aren't just good at writing code, but have a demonstrated focus on solving customer problems. You should love being challenged by your work, with a desire to ship and iterate on features, as well as an emphasis on collaboration, communication, and growth. Our entire team (Dev, UX, Product, Support, Sales) works together closely to ensure the success of our product, and we're looking for someone who revels in exposure to the entire process of how software is built, shipped, sold, and supported. Additionally, being willing to dive into the shallow end of our backend API services will be a major benefit, even when your day to day is focused on our React components.<br><br>We value attitude and willingness to learn over ego and experience, and want someone who is looking to grow with the team as we continue to grow our product.<br><br><strong>Our Stack<br><br></strong><ul><li>Go</li><li>React 16</li><li>Postgres</li><li>Redis</li><li>Docker + Kubernetes</li><li>Terraform</li><li>AWS<br><br></li></ul><strong>You need to be\u2026<br><br></strong><ul><li>Focused on communication and collaboration as first-class skills.</li><li>Focused on shipping solutions to problems, not just code.</li><li>Experienced and confident in your ability to produce working features, cohesive designs, and thought-through bug fixes.</li><li>Familiar with making software development decisions from conception and design to implementation and shipping in production</li><li>Someone with a \u201cgrab a shovel\u201d attitude, where you're excited to dig in and get your hands dirty working with your peers.</li><li>Someone with solid grasp on writing testable code, and can mentor others in the practice</li><li>Experienced with performance benchmarking and analysis</li><li>Willing to learn, and willing to teach. Everyone brings something new to the team, and we want to learn from you as much as we want to grow you as an engineer and a team member.</li><li>Someone with a record of success delivering complex software engineering projects. You've built software \u201cfrom scratch\u201d \u2014 all the way from inception to production use by an active customer.</li><li>Comfortable with git and basic git workflows.</li><li>Someone with around 5 or more years of experience that encompasses the above. We're flexible, and are looking for the right candidate - not just someone who hits a number.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:39:52.000Z"
+  },
+  "company": {
+    "name": "Rapid7",
+    "link": "https://www.linkedin.com/company/rapid7"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

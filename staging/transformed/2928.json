@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - EARLY CAREER",
+    "industry": "Defense & Space",
+    "description": "The coolest jobs on this planet\u2026 or any other\u2026 are with Lockheed Martin Space. Lockheed Martin is a pioneer, partner, innovator and builder. Our amazing people are on a mission to make a difference in the world and every single day we use our skills and experiences to create, design and build solutions to some of the worlds\u2019 hardest engineering problems.<br><br>Candidate will be responsible to Integrate the Flight Software, Space DB, Simulation Software/Hardware, Various In-House developed Tools into lab architecture to support program's multi-million dollar milestones. This is an entry level Software Engineering position where you will be developing an architecture that integrate various SW/HW into an existing Lab Environment to perform Risk Mitigations, System Validation and challenging Testing objectives in support of Satellite Missions.<br><br><strong>This early career position will typically require 2 years of professional experience with a bachelor's degree in a related field.<br><br>obtaining and maintaining an active secret clearance will be required. (Must be a U.S. Citizen).<br><br></strong>To promote the sharing of ideas, Lockheed Martin fosters an inclusive work environment that encourages differences and big-picture thinking.<br><br><strong><u>Here Are Some Of The Benefits You Can Enjoy<br><br></u></strong>Our employees play an active role in strengthening the quality of life where we live and work by volunteering more than 1.1 million hours annually.<br><ul><li> Medical</li><li> Dental</li><li> 401k</li><li> Paid time off</li><li> Work/life balance</li><li> Career development</li><li> Mentorship opportunities</li><li> Rewards &amp; recognition<br></li></ul>Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. You will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T20:57:03.000Z"
+  },
+  "company": {
+    "name": "Lockheed Martin",
+    "link": "https://www.linkedin.com/company/lockheed-martin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77400,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

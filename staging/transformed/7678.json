@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Job Summary<br><br></u></strong><strong>DESCRIPTION<br><br></strong>Do you want to own cutting-edge technology, solve new problems that didn\u2019t exist before, and have the ability to see the impact of your successes?<br><br>We are looking for MLEs who move fast, are capable of breaking down and solving complex problems, and have a strong will to get things done. MLEs at Amazon work on real world problems at scale, own their systems end to end and influence the direction of our technology that impacts customers.<br><br>At Amazon an MLE can expect to design flexible and scalable solutions, and work on some of the most complex challenges in large-scale computing by utilizing your skills in data structures, algorithms, and object oriented programming.<br><br>Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> 2+ years of non-internship professional software development experience</li><li> Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li><li> 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.</li><li> Master's degree in Computer Science or related field</li><li> 2+ years of non-internship professional software development experience</li><li> Programming experience with at least one modern language such as Java, C++, Python, or C# including object-oriented design</li><li> 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> 1+ year of industrial experience with Python and Flask/Gunicorn</li><li> 1+ year of industrial experience with Spark</li><li> 1+ year of industrial experience with AWS for run-time services or big data processing</li><li> Industrial experience with PyTorch, Tensorflow, or MXNet</li><li> Experience building workflows involving machine learning models in production</li><li> Experience with common machine learning techniques such as pre-processing data, training and evaluation of classification and regression models, and statistical evaluation of experimental data.</li><li> Experience working with cross-functional teams including communicating with other technical teams, product management, and senior management</li><li> High attention to detail and proven ability to manage multiple, competing priorities simultaneously</li><li> History of teamwork and willingness to roll up one\u2019s sleeves to get the job done<br></li></ul>Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.<br><br>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br><br>Job ID: A1757944",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-02T11:27:14.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 89500,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

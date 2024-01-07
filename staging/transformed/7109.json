@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Financial Platform, Cash App",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>It all started with an idea at Square in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic app, bringing a better way to send, spend, invest, and save to our millions of monthly active users. We want to make the world\u2019s relationship with money more relatable, instantly available, and universally accessible. This is our mission, and it\u2019s why working at Cash App means so much more than a job.<br><br>Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward creativity, collaboration and impact. We\u2019ve been a distributed team since day one, and we\u2019ve got offices and remote teammates across the globe. Our offices are great, but many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.<br><br><strong><u>Job Description<br><br></u></strong>Cash App\u2019s Financial Platform team is responsible for building systems that power products built by Cash App. We build deep integrations with underlying financial infrastructures and ensure that our products are able to scale.<br><br>About the teams that are hiring in the US &amp; Canada for Financial Platform:<br><br><strong>Acquiring:</strong> The Acquiring team builds &amp; maintains the systems that handle card payments, enabling funds flows both to and from cards issued around the world. In close collaboration with our business ops team, we use a deep knowledge of the payments industry and a focus on data to connect with the right networks and to intelligently route and code payments, optimizing for cost, success rate, and worldwide coverage.<br><br><strong>Bank Rails: </strong>The Bank Rails team is a new team created to take on all of the ways we move money in and out of banks globally. In addition to taking over operation of the existing ACH infrastructure, which moves hundreds of millions of dollars every week, we\u2019ll be building out platform support for mechanisms such as wire transfers, SEPA, and locale-specific real-time payment rails (Faster Payments, RTP), remote check deposit, and paper money deposit.<br><br><strong>Treasury: </strong>The Treasury team is responsible for ledgering of all our customers' stored value transactions and the settlement of funds with our external banking partners. The Treasury team works closely with product teams to ensure funds flows of new and existing products are supported. Additionally, the team is responsible for scaling these capabilities to support the growth of global expansion.<br><br><strong><u>You Will<br></u></strong><ul><li>Design, build and support the core systems used to power all transactions on Cash App</li><li>Break existing monoliths into event-driven microservices </li><li>Creatively solve challenging technical problems at scale</li><li>Partner closely with product managers, data scientists, product engineers, and business leads to define our roadmap </li><li>Have autonomy to research and achieve outcomes with support when you need it</li><li>Contributing to the growth of our development capabilities through leading, mentoring and supporting fellow engineers<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>You have: <br></strong><ul><li>8+ years of experience delivering quality software</li><li>Natural curiosity to learn new technologies, solve interesting problems and build quality software</li><li>Desire to find flaws in a system with many moving parts and take whatever steps are necessary to fix them</li><li>Desire to perform and grow as an engineer</li><li>Technical initiative and leadership on previous projects</li><li>Bachelor's Degree in Computer Science, or equivalent experience<br></li></ul><strong><u>Technologies We Use And Teach<br></u></strong><ul><li>Java, Kotlin, Go</li><li>Kubernetes, AWS</li><li>Jaeger, Prometheus, SignalFx</li><li>JUnit</li><li>Hibernate, Guice, GRPC<br></li></ul>Additional Information<br><br>We\u2019re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Square is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.<br><br>We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.<br><br>Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.<br><br><em>Square, Inc. (NYSE: SQ) builds tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in person, manage their business, and access financing. Individuals use Cash App to spend, send, store, and invest money. And TIDAL is a global music and entertainment platform that expands Square's purpose of economic empowerment to artists. Square, Inc. has offices in the United States, Canada, Japan, Australia, Ireland, Spain, Norway, and the UK.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:06:59.000Z"
+  },
+  "company": {
+    "name": "Cash App",
+    "link": "https://www.linkedin.com/company/cash-app"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71200,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

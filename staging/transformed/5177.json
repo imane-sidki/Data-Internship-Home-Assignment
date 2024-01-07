@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer/DevOps",
+    "industry": "",
+    "description": "<p>Malbek is the next-generation, cloud-based contract management solution, empowering business users to take control of their contracts. The world of contract management is full of tools with clunky user interfaces, costly implementations, and customers that are generally underwhelmed. We know it doesn\u2019t need to be this way, and that\u2019s why Malbek is forging a new path. From products that delight to exceptional people who make everything run smoothly, Malbek stands apart as a company with both an outstanding product portfolio and a refreshing culture. Check out<em>Our Company</em>page to learn more about us.</p><p></p><p>We are looking for a talented DevOps engineer to join our SRE team in the US, where you will be supporting our SaaS solution running on AWS.</p><p></p><p><strong>Experience and Skills</strong></p><p>\u00b73+ years as a Site Reliability Engineer, DevOps Engineer</p><p>\u00b72+ years AWS Experience (EC2, RDS, VPC, IAM, etc.)</p><p>\u00b7Excellent scripting skills \u2013 Bash, Python, Go, etc. ideally with some coding experience.</p><p>\u00b7Excellent Linux system administration and networking skills</p><p>\u00b7Automating build pipelines, deployments and monitoring</p><p>\u00b7Writing ansible playbooks for managing infrastructure or similar tools</p><p>\u00b7Diagnosing low-level systems issues and tuning performance</p><p>\u00b7Excellent Linux system administration and networking skills</p><p>\u00b7Good understanding of cloud operations and deployment pipelines.</p><p><strong></strong></p><p><strong>Candidates should also be able to demonstrate the following abilities.</strong></p><p>\u00b7Ability to go off and research a new technology and provide a well thought out cost/benefit analysis.</p><p>\u00b7Excellent communication skills; collaborative and personable - happy to help take a lead on projects.</p><p></p><p><strong>Benefits</strong></p><p>\u00b7A dynamic startup environment with a rapidly growing customer base</p><p>\u00b7Lots of space and freedom to be yourself and take ownership</p><p></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T14:56:51.000Z"
+  },
+  "company": {
+    "name": "Malbek",
+    "link": "https://www.linkedin.com/company/malbek"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

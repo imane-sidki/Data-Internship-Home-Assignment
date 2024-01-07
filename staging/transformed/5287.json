@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer - Apple Media Products, Apps",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Media Products Engineering team is one of the most exciting examples of Apple\u2019s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple\u2019s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries<br><br><br>These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services.<br><br><br>Thanks to Apple\u2019s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple\u2019s privacy policy, one of Apple\u2019s core values. Although services are a bigger part of Apple\u2019s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong programming and debugging skills in Java<br><br>JavaScript/React for front end development<br><br>Python (TensorFlow/PyTorch/Keras) for application of ML models<br><br>Knowledge of Swift or Objective-C a bonus, but not required<br><br>Experience in building consumer-facing single-page applications in JavaScript ES6+, HTML/CSS<br><br>Experience with developing rich, interactive and well-performing user interfaces using frameworks like React<br><br>Working experience with RDBMS&amp;NoSQL, technologies like PostgreSQL/Cassandra<br><br>Docker and Kubernetes for internal cloud infrastructure<br><br>Excellent writing and interpersonal skills<br><br><br>We don\u2019t expect prior experience with all the technologies involved, but you will be encouraged to learn to use them optimally.<br><br><br>You will work together with Server, ML, and client engineers owning all the components of our stack, operations, and product teams to implement infrastructure and add product features vital for our efforts.<br><br> <br><strong>Description<br></strong> <br>We are looking for a full stack engineer to solve challenging problems for App Store review. This role will be responsible for developing software to deploy ML models, analyze apps submitted to the App Store, and visualize the output. Your efforts in the team will help ensure the quality of apps in the store, and will benefit millions of customers. You will be expected to help integrate models, implement software and infrastructure that will run them and process their output. Creative engineers will benefit from the chance to convert forward thinking ideas all the way from prototype to final product with the help of a great engineering and infrastructure team.<br><br><br>Day to day duties (but not limited to):<br><br>Design, implement, and evolve web applications<br><br>Build a flexible ML service platform that can be easily customized toward different use cases<br><br>Collaborate with multi-functional teams of engineers, data analytics, Machine Learning specialists, and products to build new features<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in Computer Science or equivalent work experience.<br><br>MS or Ph.D in computer vision, machine learning, computer science a bonus.<br><br>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br> <br>Role Number: 200195505<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:48.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

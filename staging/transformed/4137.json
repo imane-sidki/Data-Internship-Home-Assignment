@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer/Cloud Platform Engineer- Senior/Lead - GovCloud",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br><br></em><strong> Job Category </strong>Products and Technology<strong> Job Details <br><br></strong>Are you a DevOps Engineer with the passion to build reliable, scalable infrastructure? Do you love to work on Infrastructure automation? We are looking for you!<br><br>We are looking for an experienced DevOps Engineer to join a team of highly motivated Engineers working on Infrastructure deployment at scale. Be part of the team that solves infrastructure deployment issues with software, delivers high velocity and high quality infrastructure in private and public data centers.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>You will be responsible for leading key projects in design, development, and post-release support of the tools that are used by teams internally and externally.</li><li>You are part of the team which owns capacity builds, New microservice rollout, tools development to solve build issues</li><li>You will get a chance to understand how things work with a large-scale production infrastructure with tons of servers across numerous data centers</li><li>You will drive the automation efforts in Java, Python or Golang to eliminate manual work involved in building clusters, performing releases and other operational work</li><li>You will develop plugins to monitor applications and implement self-healing mechanisms to auto-recover from outages</li><li>You will automate infrastructure, configure and use Jenkins jobs, and tune systems for resiliency and performance</li><li>You will get a chance to improve your communication and collaboration skills working with various other Infrastructure teams across Salesforce</li><li>You will be interacting with a highly innovative and creative team of developers, open-source committers and architects</li><li>You will evaluate new technologies to solve problems as needed, and also play a significant role in architectural direction<br></li></ul><strong><u>Required Skills<br></u></strong><ul><li>You are strong in solving Infrastructure related problems with code and you've mastered building compute capacity in a fast paced environment</li><li>Strong working experience in any of the programming languages: Java, Perl, Python or GoLang.</li><li>Strong working experience in Public cloud, AWS or GCP</li><li>Experience in Containers and Kubernetes, EKS, GKE, AKS or On-Prem.</li><li>Experience in Terraform or cloudFormation.</li><li>Strong working experience with Linux internals and troubleshooting.</li><li>Knowledge of Networking protocols and components: TCP/IP Stack, Switches, Routers, Load Balancers</li><li>Experience or solid interest in maintaining a highly available service on production scale</li><li>Experience with logging and monitoring workloads in public cloud</li><li>Some experience in Orchestration tools, for example Puppet, Chef, or Ansible</li><li>Experience working with any of: Java Applications (JVM), Apache, Mysql, PostgreSql, Kerberos, LDAP, Tomcat, Jetty, MongoDB etc.,</li><li>A continuous learner and a critical thinker</li><li>A team player with great communication skills<br></li></ul><strong><u>Preferred Skills<br></u></strong><ul><li>AWS Cloud Security and IAM</li><li>Experience in managing large scale web applications in production</li><li>Experience in working with any of the build tools like Jenkins, ant, maven, git etc.</li><li>Knowledge of big data technologies is considered a plus (not mandatory)</li><li>U.S. citizen (U.S. born or naturalized) who does not hold dual citizenship. You agree to complete a Minimum Background Investigation (MBI) for a Moderate Public Trust position with the U.S. federal government or other clearances as deemed appropriate for the role .  This candidate must be a U.S. citizen (U.S. born or naturalized) who does not hold dual citizenship and agrees to complete a U.S. federal government Minimum Background Investigation (MBI) for a Moderate Public Trust position. Accommodations If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form. Posting Statement At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br></li></ul><u>Salesforce.com</u> and <u>Salesforce.org</u> are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. <u>Salesforce.com</u> and <u>Salesforce.org</u> do not accept unsolicited headhunter and agency resumes. <u>Salesforce.com</u> and <u>Salesforce.org</u> will not pay any third-party agency or company that does not have a signed agreement with <u>Salesforce.com</u> or <u>Salesforce.org</u> .<br><br>Salesforce welcomes all.<br><br>Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:36:10.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Herndon",
+    "region": "VA",
+    "postal_code": "22092",
+    "street_address": null,
+    "latitude": 38.96973,
+    "longitude": -77.38387
+  }
+}

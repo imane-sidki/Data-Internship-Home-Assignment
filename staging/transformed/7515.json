@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Backend/Big Data Software Engineer - Tech Lead",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The backend/big data technical lead will work in a small and dynamic team to design and implement applications and infrastructure for R&amp;D of deep learning/computer vision Apple products.<br><br> <br><strong>Key Qualifications<br></strong> <br>4+ years of SW development experience, including SW architecture design, reliability and performance <br><br>Proven object-oriented fundamentals and design patterns<br><br>Proficiency in Python and/or C++ <br><br>Experience with SQL and/or NOSQL<br><br>Proven experience with writing both front and backends for Web Applications is required.<br><br>Proven experience with HTML and Java Script is required.<br><br>Able to communicate clearly and collaborate with cross-functional teams<br><br>Able to lead a project with minimal guidance<br><br>Excellent problem solving and root cause analysis skills<br><br><br> Exposure to algorithms, AI/ML, or data science projects including evaluating algorithms on datasets<br><br> Exposure to data generation and analyses<br><br> Exposure to Computer Vision Tracking systems<br><br> Experience with a different frameworks/services such as S3, Kubernetes, Docker, Kafka, Spark, Redis, TerraForm, Ansible<br><br> Experience with developing scalable systems<br><br>  Experience with pipelines processing huge data volume<br><br> <br><strong>Description<br></strong> <br>You will design and implement scalable solutions (terabytes of data, multiple thousands of CPU\u2019s) which will affect all the stages of the computer vision/deep learning algorithms development, including data generation, models training and failure analyses. You will work together with algorithm, data, and software engineers to productize and optimize computer vision products, which will be used by millions of Apple customers.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Masters's degree or higher in Computer Science or equivalent field.<br><br> <br>Role Number: 200285218<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:10:05.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

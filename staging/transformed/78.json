@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Algo - Ad Platforms",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, we work every day to create products that enrich people\u2019s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Today, our technology and services power advertising in Search Ads in App Store and Apple News. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. <br><br><br>We are looking for an ambitious and versatile engineer who can thrive in an Agile environment, delivering solutions to enable advanced techniques and algorithms to improve an ad network. You will work with Data Scientists and ML Engineers to develop and implement platform components that will allow advertising algorithms to optimize and scale. Platform components can range from core storage and processing capabilities and mission-critical pipelines, to online serving architectures that would be able to react to real-time signals and yet preserve the privacy and integrity of our consumers. You will define, refine, and/or refactor approaches, designs, and architectures to meet the challenges we must solve. You will join a team of world-class machine learning engineers hungry to apply leading-edge technologies to deliver extraordinary experiences to our customers. You will play a meaningful role building products including but not limited to machine learning platform products, which deliver on Apple's privacy commitments and change the way advertising works with data. The position also involves developing a keen understanding of the ad network behavior; supporting in-depth and in-width A/B tests; developing tools for analyzing the results of extremely large-scale experiments.<br><br> <br><strong>Key Qualifications<br></strong> <br>Clear and effective communicator who enjoys collaborative problem solving<br><br><br>Love working on a shared codebase that supports web-scale, mission critical applications; and the discipline that it requires<br><br><br>Understand modern data engineering approaches, stay on top of developments, and are aware of what leading players are doing<br><br><br>Demonstrated ability to implement and extend highly performant, resilient, reliable, and understandable data pipelines<br><br><br>Experience with Spark, Hadoop, HIVE, Kafka, Cassandra or other distributed systems<br><br><br>Deep expertise in Python, Java, Scala, SQL, and/or other relevant languages and frameworks<br><br><br>Worked in cloud environments and familiar with object stores, and other common cloud-native data storage and processing frameworks<br><br><br>Prior experience in CI/CD environments<br><br><br>Experience with pipelines and architectures that support machine learning development platforms and production applications<br><br><br>Familiar with A/B and other online testing applications<br><br><br>Understand statistics and capable of using data analysis techniques to understand data quality, profile system loads, relationships between business metrics, and similar<br><br><br>Research experience in Algorithms, Architecture, Artificial Intelligence, Compilers, Database, Data Mining, Distributed Systems, Machine Learning, Networking, Statistics (game theory, auction theory, quantitative analysis), or Systems Software implementation of new algorithms and data aspects of an audience ad network in Python and Java.<br><br><br>Extraordinary ability to propose, design and analyze new algorithms to benefit the network.<br><br><br>Ability to take requirements from design through to implementation both independently and with larger teams.<br><br><br>Excellent collaboration skills to work closely with operational teams on deployment, monitoring, management concerns<br><br> <br><strong>Description<br></strong> <br>You will have the opportunity to work on a platform with extreme scale requirements. At Ad Platforms, we are constantly developing products to provide amazing user experiences and drive value. You will take part in designing and implementing the engineering solution that brings cutting edge ad network algorithms into production in heterogeneous environments. You will apply cutting edge data engineering techniques, platform engineering techniques and algorithmic solutions.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in Computer Science, Distributed Systems, Software Engineering, or related field; and experience designing, building, maintaining, and extending web-scale production systems.<br><br> <br>Role Number: 200232983<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:01:35.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 128000,
+    "max_value": 198000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

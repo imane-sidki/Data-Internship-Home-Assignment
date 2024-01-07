@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<br><p>Job details</p><p>Job Type</p><p>Full-time</p><p><br></p><p>Full Job Description</p><p><strong>The Role:</strong></p><p>As a core member of the system firmware team, you will be responsible for architecture, design, and develop PCIe solutions for Ampere's platform. In particular, lead (with the existing team) the design and development of the PCIe host controller driver and its related activities with the Trusted Firmware, UEFI and OS accordingly. Communicate with customers regarding all aspect of customer firmware concerns. In addition, handle cross function interaction with other teams.</p><p><strong> What the Team Wants You to Know:</strong></p><p>ARM firmware development work at Ampere is interesting, challenging, and will expand your professional breadth. Working in this area brings out the best engineering in people and produces products that have value in the market. The ARM server firmware/software is relatively new and you will have the opportunity to invent new software technology and influence the ARM server community.</p><p><br></p><p><strong> What You Will Do:</strong></p><ul><li>Architect, design, and develop PCIe solutions for Ampere SoC's</li><li>Interact with customer/3rd party vendors to address firmware requirement</li><li>Lead, plan and implement all PCIe firmware development in trusted firmware, UEFI, and OS</li><li>Interact and coordinate with various system firmware teams accordingly for firmware integration/issues</li><li>Handle development of PCIe host driver in firmware and OS</li></ul><p><br></p><p><strong> What You\u2019ll Bring:</strong></p><ul><li>7+ years software development with C/C++ languages, shell script, perl and python</li><li>5+ years of experience with system design/development</li><li>5+ years of experience with PCIe host controller, bridge, and end point cards</li><li>Experience with PCIe architecture</li><li>Experience with PCIe capabilities such as configuration, ECAM, PCIe BAR, IO/memory region, ARI, ACS, ATS, PASID, etc.</li><li>Experience with PCIe SERDES</li><li>Experience with firmware boot loader (UEFI) and Linux kernel</li><li>Experience with various NIC, storage (NVMe), and GPU cards</li><li>Knowledge of Trusted Firmware (TF) implementation</li><li>Self-managed individual with excellent problem-solving skills</li><li>Good English communications skills, both verbal and written</li></ul><p><strong> Education</strong></p><ul><li>Bachelor\u2019s degree or foreign degree equivalent in Electrical Engineering, Computer Science, Information Technology or a related technical field</li></ul><p><br></p><p><strong> Perks in Santa Clara</strong></p><ul><li>Office has panoramic views of Silicon Valley</li><li>Garage parking</li><li>Gym and caf\u00e9 on campus</li><li>Healthy snacks, espresso and drinks</li><li>Standing /Ergo friendly desk set-up</li><li>Ping-pong/game room</li><li>Unlimited Flextime and 10+ paid holidays</li></ul><p><strong> Perks in Portland</strong></p><ul><li>Walking distance of breweries, landscaped parks, art galleries, restaurants and shops</li><li>Garage parking</li><li>On-site bike parking and repair station</li><li>Gym</li><li>On-site caf\u00e9, bar, and market</li><li>Roof top terrace with Willamette River views</li><li>Healthy snacks, espresso and drinks</li><li>Standing /Ergo friendly desk set-up</li><li>Game room</li><li>Unlimited Flextime and 10+ paid holidays</li></ul><p><strong> Perks in Raleigh</strong></p><ul><li>Modern and open office setting</li><li>Four miles of jogging and pedestrian trails</li><li>Walking distance to various restaurants and shopping</li><li>Healthy snacks, espresso, and drinks</li><li>Adjustable sit-stand desks</li><li>Unlimited Flextime and 10+ paid holidays</li></ul><p><br></p><p><strong> Our Company</strong></p><p>Ampere is designing the future of hyperscale cloud and edge computing with the world\u2019s first cloud native processor. Built for the cloud with a modern 64-bit Arm server-based architecture, Ampere gives customers the freedom to accelerate the delivery of all cloud computing applications. With industry-leading cloud performance, power efficiency and scalability, Ampere processors are tailored for the continued growth of cloud and edge computing.</p><p><strong> Our Story</strong></p><p>Like the scientist behind its name, Ampere employees are innovators. We understand the needs of cloud computing and different software requirements. We are inventing what comes next and looking at everything from the structure of memory and how efficient the system is, to considerations on speed, cost of electricity and ability to cool. Power, size, weight and cost are driving the technology requirements and the innovation to come.</p><p>Our world class team of engineers, with depth and expertise in the cloud and semiconductor industries, is not only focused on the development of new semiconductor designs but also building out the first software ecosystem for Arm\u00ae-based server processors. Through the Ampere approach to the cloud and edge, we give our customers the freedom to challenge the status quo and accelerate next-generation data centers for the most memory-intensive applications. Given the challenge we have outlined, we are building a culture of entrepreneurs that ensure customers come first, proactively approaching industry challenges in the areas of security, power and performance, delivering results that matter most.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T04:09:41.000Z"
+  },
+  "company": {
+    "name": "AMPERE COMPUTING EMPLOYER LLC",
+    "link": "https://www.linkedin.com/company/ampere-computing-employer-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

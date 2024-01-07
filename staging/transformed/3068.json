@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer // NYC // Cloud",
+    "industry": "Staffing and Recruiting",
+    "description": "A global leader in analytics consulting and technology is looking for a Site Reliability Engineer to join their NYC-based team. This fast-growing company helps top-tier clients through marketing optimization, improved customer insights, and data-driven decisioning.<br><br>As an SRE, you will be responsible for transforming the existing DevOps framework. You will focus on automation, CI/CD, container orchestration, infrastructure as code (IaC), and security.<br><br><strong><u>Requirements<br></u></strong><ul> <li>Bachelor's degree in Computer Science or equivalent work experience </li> <li>Working experience in both AWD and Azure environments </li> <li>Proficient scripting in Bash, Python, and/or PowerShell </li> <li>Understanding of Docker </li> <br><br></ul><strong><u>The Offer<br></u></strong><ul> <li>Competitive Salary: Up to $145K/year, DOE</li> <li>10% bonus </li> <br><br></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul> <li>Comprehensive health insurance </li> <li>401(k)</li> <li>Generous PTO</li> <li>Continued training/education programs</li> <br><br></ul><em>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.<br><br></em><strong>Posted By:</strong> Carolyn Regimbal<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:34:03.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

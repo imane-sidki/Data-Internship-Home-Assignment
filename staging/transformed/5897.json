@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Remote",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<strong><u>Job Summary<br><br></u></strong>The Red Hat IT Marketing and Legal team is looking for a Senior Software Engineer to join us. In this role you will cooperate with local and remote team members and other teams to design, develop, document, test, monitor, maintain, and operate a wide range of public-facing and private software. You will contribute to the team's capabilities by demonstrating technical competence, exceptional communication skills, personal initiative, creativity, desire to learn, transparency, and ability to work as part of a diverse team. Successful applicants must reside in a state where Red Hat is registered to do business.<br><br><strong><u>Primary Job Responsibilities<br></u></strong><ul><li>Design, develop, document, test, monitor, maintain, and operate HTTP services and middlewares for internal and external customers, both in the public and private clouds and in dedicated datacenters</li><li>Work closely with domain experts to analyze and implement business requirements</li><li>Work closely with application development teams to standardize build, deployment and operational patterns, tooling, and shared libraries</li><li>Software build and deployment automation</li><li>Research and contribute to open source technologies<br></li></ul><strong><u>Required Skills<br></u></strong><ul><li>Advanced level of modern JavaScript back-end competency</li><li>Advanced level of PHP competency</li><li>Experience implementing integration design patterns, especially in a microservices or event-driven architecture</li><li>Understanding or willingness to learn engineer applications in any programming language</li><li>Experience with source control, e.g., Git</li><li>Knowledge of load balancing methodology</li><li>Knowledge of continuous integration (CI) tools and processes</li><li>Understanding build and deployment automation tooling like Jenkins, GitLab CI, Red Hat Ansible Automation Platform, Puppet, or Chef</li><li>Knowledge of MySQL, MariaDB Server, Oracle, or MongoDB<br></li></ul><strong><u>The Following Are Considered a Plus<br></u></strong><ul><li>Advanced level of modern JavaScript front end competency, preferably React</li><li>Bachelor's degree in a technical field; engineering or computer science background</li><li>Experience with continuous delivery (CD)</li><li>Knowledge of agile software development methodology</li><li>Knowledge of Linux system administration</li><li>Understanding of global content delivery network (CDN) acceleration and security, specifically Akamai</li><li>Experience with TypeScript</li><li>Experience with Drupal</li><li>Experience with Symfony</li><li>Experience with Red Hat AMQ, Apache ActiveMQ, or Apache Kafka<br></li></ul><strong><u>About Red Hat<br><br></u></strong>Red Hat is the world\u2019s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.<br><br><strong><u>Benefits<br></u></strong><ul><li>Comprehensive medical, dental, and vision coverage</li><li>Flexible Spending Account - healthcare and dependent care</li><li>Health Savings Account - high deductible medical plan</li><li>Retirement 401(k) with employer match</li><li>Paid time off and holidays</li><li>Paid parental leave plans for all new parents</li><li>Leave benefits including disability, paid family medical leave, and paid military leave</li><li>Additional benefits including employee stock purchase plan, family planning reimbursement, tuition reimbursement, transportation expense account, employee assistance program, and more! <br></li></ul><strong>Note</strong>: These benefits are only applicable to full time, permanent associates at Red Hat located in the United States.<br><br>Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.<br><br>Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:47:07.000Z"
+  },
+  "company": {
+    "name": "Red Hat",
+    "link": "https://www.linkedin.com/company/red-hat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

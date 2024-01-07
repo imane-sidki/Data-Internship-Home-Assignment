@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: IP Integration",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Are you passionate about changing the world? We have a critical impact on getting high quality functional products to millions of customers quickly, and we are hiring all levels from junior to senior roles. The Silicon Validation team is responsible for validating functional behavior and exercising interactions between different IP blocks in the SoC. Join a team of SME embedded software engineers with a diverse set of backgrounds to do system level validation of Apple's next generation SoCs.<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong software skills in C/C++<br><br>Familiarity with programming in assembly language<br><br>Passionate about writing code close to the hardware, and debugging<br><br>Familiarity with computer architecture, memory hierarchies, CPUs, and caching<br><br>You enjoy the validation mentality: detail-oriented, curious, and persistent<br><br>Experience in writing code, developing tests, and coming up with strategies for SoC silicon validation is a huge plus<br><br>Experience in graphics, video codecs, video capture, display mechanisms, and storage technologies is ideal<br><br>Experience with scripting (Python, Tcl, Perl) is a plus<br><br> <br><strong>Description<br></strong> <br>You will leave no stone left unturned for a comprehensive \"system-level\" validation of Apple SoCs.<br><br>You will dive deep into the SoC architecture, and also become a specialist in our existing SiVal software stack.<br><br>You will come up with creative ways to test the SoC for all kind of stress and corner-case scenarios.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS / MS / Ph.D in EE or CS is required<br><br> <br>Role Number: 200242226<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:45:00.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

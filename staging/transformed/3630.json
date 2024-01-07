@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Telecommunications,Information Technology and Services",
+    "description": "<p>Relay is seeking a mid-level Software Engineer to help build our next generation of software and services. Haven't heard of Relay? You will soon! We are changing the way active workers communicate and our tight-knit team is looking to add another Software Engineer that is excited to drive impact. Check out our product here: https://relaygo.com/</p><p><br></p><p>This role involves developing Java web applications with Amazon Web Services that power our backend systems.We build APIs, internal applications, integrate with 3rd party providers (for things like billing, logistics, customer service), and own a data warehouse.</p><p><br></p><p>The ideal candidate will have experience as a Software Engineer in a fast-paced environment that has a strong emphasis on team culture.Our current team of mission-focused individuals feels like family.In addition to the technical skills needed to get the job done, as a candidate you will be able to work closely with team members across the business in order to develop innovative solutions which grow the brand. </p><p><br></p><p><strong>Essential Functions</strong></p><ul><li>Must be able to work in close coordination with other engineers to implement new software solutions.</li><li>Analyze requirements and specifications to determine the feasibility of proposed projects and solutions, including risk assessment of current production systems, and project estimation.</li><li>Participate in the team\u2019s software development process.</li><li>Develop unit and functional/integration tests.</li><li>Support production deployments of developed solutions and ongoing production support via an on-call rotation (about once per month).</li><li>Strong communication and problem solving skills.</li><li>Document solutions for team members and end users.</li><li>Have a strong interest in researching best practices in software development, and demonstrate the ability to share new knowledge with the team.</li></ul><p><strong>Required Skills</strong></p><ul><li>Software design skills with a deep understanding of object oriented programming fundamentals and design patterns.</li><li>Experience with relational database systems.</li><li>Experience in developing RESTful APIs.</li><li>Excellent technical problem solving and debugging skills with asynchronous systems.</li><li>Strong self-motivation and willingness to tackle challenging problems.</li><li>Ability to multitask, work and communicate in a fast paced environment.</li><li>Ability to provide technical mentorship in a team environment.</li></ul><p><br></p><p><strong>Required Experience</strong></p><p>Our stack is a JEE application tightly coupled with Amazon Web Services products and features.The ideal candidate will have experience with the following:</p><ul><li>2+ years of current Java experience.</li><li>2+ years of hands-on development with MySQL, PostGres or similar.</li><li>2+ years producing and consuming RESTful web service APIs.</li><li>Experience developing asynchronous applications ideally with Amazon SWF, or similar technologies.</li><li>Experience with interpreted languages such as Python or Perl.</li><li>Experience developing in a Linux/Unix environment using Git (or similar versioning systems) for source control.</li><li>Experience with Amazon Web Services (S3, EC2, RDS, SWF, SQS, Cloudformation) or other cloud services (Azure, Google, etc) is a plus.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T11:48:18.000Z"
+  },
+  "company": {
+    "name": "Relay",
+    "link": "https://www.linkedin.com/company/relaypro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

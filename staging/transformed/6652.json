@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Amazon Science gives you insight into the company\u2019s approach to customer-obsessed scientific innovation. Amazon fundamentally believes that scientific innovation is essential to being the most customer-centric company in the world. It\u2019s the company\u2019s ability to have an impact at scale that allows us to attract some of the brightest minds in artificial intelligence and related fields. Our scientists continue to publish, teach, and engage with the academic community, in addition to utilizing our working backwards method to enrich the way we live and work.<br><br>Please visit https://www.amazon.science for more information.<br><br>Are you an MS or PhD student graduating in 2020 and interested in the field of data science? Do you enjoy diving deep into hard technical problems and coming up with solutions that enable successful products that improve the lives of people in a meaningful way?<br><br>Amazon teams are using their domain expertise to invent, design, evangelize, and implement state-of-the-art solutions for never-before-solved problems. We are looking for motivated Data Scientists with excellent leadership skills, and the ability to develop, automate, and run analytical models of our systems. If you have a demonstrated ability to manage medium-scale modeling projects, identify requirements, build methodology and tools that are statistically grounded, and experience collaborating across organizational boundaries, then come build the future with us.<br><br>Key Job Responsibilities<br><br>As a Data Scientist, you will own your work from concept through to execution. This role will give you the opportunity to build tools and support structures needed to analyze data, dive deep into data to resolve root cause of systems errors and changes, and present findings to business partners to drive improvements.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelor's Degree</li><li> 1+ years of experience with data scripting languages (e.g SQL, Python, R etc.) or statistical/mathematical software (e.g. R, SAS, or Matlab)</li><li> Master\u2019s or PhD degree in Math, Statistics, Computer Science, or related science field</li><li> Experience with statistical tools (e.g. R) and analysis, regression modeling and forecasting, time series analysis</li><li> Demonstrated knowledge of SQL through written scripts for analysis and reporting (SQL, MySQL)</li><li> Experience using one or more programming languages (e.g. Python, Java, C++, C#, Ruby)</li><li> Experience with big data: processing, filtering, and presenting large quantities (100K to millions of rows) of data<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> PhD degree in Math, Statistics, Computer Science, or related science field</li><li> Experience in machine-learning methodologies (e.g. supervised and unsupervised learning, deep learning etc.)</li><li> Experience with clustered data processing (e.g. Hadoop, Spark, Map-reduce, Hive)</li><li> Experience in communicating technically, at a level appropriate for the audience<br><br></li></ul><strong>Company</strong> - Amazon.com Services LLC<br><br>Job ID: A1688303",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T08:43:30.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82400,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

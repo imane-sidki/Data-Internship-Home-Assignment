@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (New College Grad)",
+    "industry": "Computer & Network Security",
+    "description": "<strong><u>Company Description<br><br></u></strong>Zscaler (NASDAQ: ZS) accelerates digital transformation so that customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange is the company\u2019s cloud-native platform that protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.<br><br>With more than 10 years of experience developing, operating, and scaling the cloud, Zscaler serves thousands of enterprise customers around the world, including 450 of the Forbes Global 2000 organizations. In addition to protecting customers from damaging threats, such as ransomware and data exfiltration, it helps them slash costs, reduce complexity, and improve the user experience by eliminating stacks of latency-creating gateway appliances.<br><br>Zscaler was founded in 2007 with a mission to make the cloud a safe place to do business and a more enjoyable experience for enterprise users. Zscaler\u2019s purpose-built security platform puts a company\u2019s defenses and controls where the connections occur\u2014the internet\u2014so that every connection is fast and secure, no matter how or where users connect or where their applications and workloads reside.<br><br><strong><u>Job Description<br></u></strong><ul><li>You will develop software to detect and block different type of security threats including viruses, malware, etc</li><li>You will be expected to participate in all phases of the product development cycle, from definition, design, through implementation and test<br><br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Bachelor\u2019s or Master&apos;s degree in Computer Science or a Computer-related discipline</li><li><strong>Proficiency in C, Java or Python programming language is required</strong></li><li>Strong in Algorithms and Data Structures</li><li>Strong in fundamentals - High-performance Computing, Event-based programming, Multi-threading, Memory optimization, Fault Tolerance etc</li><li>Experience with FreeBSD and Unix</li><li>Excellent verbal, written and interpersonal skills</li><li>Self-starter takes initiative &amp; ownership, identifies and completes tasks; goal driven</li><li>Ability to work with remote teams, handle multiple tasks, prioritize and meet deadlines</li><li>You are a highly motivated, self-driven individual who relishes working in a startup environment<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Working experience in Security domain </li><li>Knowledge of TCP-IP and networking protocols</li><li>Knowledge of Database<br><br></li></ul><strong><u>Additional Information<br><br></u></strong>All your information will be kept confidential according to EEO guidelines.<br><br><strong><u>What You Can Expect From Us<br></u></strong><ul><li>An environment where you will be working on cutting edge technologies and architectures</li><li>A fun, passionate and collaborative workplace</li><li>Competitive salary and benefits, including equity<br></li></ul><strong>Why Zscaler?<br><br></strong>People who excel at Zscaler are smart, motivated and share our values. Ask yourself: Do you want to team with the best talent in the industry? Do you want to work on disruptive technology? Do you thrive in a fluid work environment? Do you appreciate a company culture that enables individual and group success and celebrates achievement? If you said yes, we\u2019d love to talk to you about joining our award-winning team.<br><br>Additional information about Zscaler (NASDAQ: ZS ) is available at https://www.zscaler.com.<br><br>Zscaler is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T00:50:00.000Z"
+  },
+  "company": {
+    "name": "Zscaler",
+    "link": "https://www.linkedin.com/company/zscaler"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67100,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

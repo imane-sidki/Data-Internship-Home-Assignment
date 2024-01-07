@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Opportunity for Working Remotely",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Our Site Reliability Engineering team is tackling problems of and at scale, in a challenging and demanding production environment. You\u2019ll design, build, and maintain internally critical systems in the cloud enabling the successful scale and management of systems by supporting teams, while ensuring uptime, scale, and performance is maintained appropriate to our end users\u2019 needs. Here, the engineering opportunities are endless. With this fast-paced, collaborative group, you\u2019ll be working together and across the organization to ensure customer success through enablement of teams within VMWare CarbonBlack.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Ownership, architecture and management of AWS infrastructure as code (IaC) components such as VPCs, EC2, S3, Kinesis, DynamoDB, Route 53, KMS, OpsWorks, etc.</li><li>Own, maintain, and extend logging and monitoring tools, such as Splunk or Kibana and the TICK stack.</li><li>Working with configuration management tools in Linux and on AWS - Terraform, Salt, Ansible, Chef, CloudFormation</li><li>Provide continual enhancements to our security and operational posture.</li><li>Ensuring cloud-based architectures meet availability and recoverability requirements.</li><li>Architecture and implementation of cloud-based monitoring, alerting and reporting; CloudWatch, StatusCake, Grafana, Splunk Dashboarding<br></li></ul><strong><u>What You Bring<br></u></strong><ul><li>3 plus years of experience managing AWS infrastructure in a production environment</li><li>3 plus years of experience with operations-based development</li><li>3 plus years working with a preferred scripting language including Python, Ruby, and Bash.</li><li>Experience working with configuration management tools at scale, such as Salt or Ansible<br></li></ul><strong><u>Bonus<br></u></strong><ul><li>Jira/Confluence experience</li><li>Working knowledge of containerization platforms such as Docker</li><li>Solid knowledge of open logging and monitoring tools such as Splunk, Wavefront,InfluxDB, and Cloudwatch</li><li>Solid understanding/experience of web services, databases and relating infrastructure/architectures</li><li>Solid understanding of backup/restore best practices</li><li>Familiar with vulnerability management and remediation processes and tools</li><li>Familiar with system security hardening policies, processes and tools<br></li></ul>This position is eligible for CarbonBlackUSA referral campaign<br><br><strong>Category : </strong>Engineering and Technology<br><br><strong>Subcategory: </strong>Site Reliability<br><br><strong>Experience: </strong>Manager and Professional<br><br><strong>Full Time/ Part Time: </strong>Full Time<br><br><strong>Posted Date:</strong> 2021-09-22<br><br>VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what\u2019s possible today at http://careers.vmware.com.<br><br>Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-23T00:01:57.000Z"
+  },
+  "company": {
+    "name": "VMware",
+    "link": "https://www.linkedin.com/company/vmware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Honolulu",
+    "region": "HI",
+    "postal_code": "96859",
+    "street_address": null,
+    "latitude": 21.30992,
+    "longitude": -157.85815
+  }
+}

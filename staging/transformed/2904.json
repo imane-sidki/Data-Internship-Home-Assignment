@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Commercial Real Estate,Computer Software",
+    "description": "Berkadia, a joint venture of Berkshire Hathaway and Jefferies Financial Group, is a leader in the commercial real estate industry, offering a robust suite of services to our multifamily and commercial property clients. Powered by deep relationships and industry-changing technology, our people sell, finance, and service commercial real estate, providing support for the entire life cycle of our clients\u2019 assets. Our unique ownership structure allows us to put the client\u2019s interests first and creates a marketplace that delivers a superior experience.<br><br><strong>Software Engineer<br><br></strong><strong>MEAN - Full Stack <br><br></strong><strong><u>Position Summary<br><br></u></strong>The Software Engineer will provide technical leadership within team responsible for architecting, adapting, and implementing software solutions that support enterprise-wide business strategies and objectives.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Analyze requirements and collaborate with the product owners, team members and architects to design and implement solutions</li> <li>Use TDD practices to build and test code to validate functionality against requirements and to ensure quality software</li> <li>Document designs and code to the right level to accurately estimate complexity and time in an agile fashion</li> <li>Iterate through incremental software development lifecycle wherein priorities, requirements and scope evolve, sometimes rapidly, over time and often mid-project (be agile)</li> <li>Demonstrate self-development by staying current with new technology and design patterns</li> <li>Other duties as assigned</li> <br><br></ul><strong><u>Qualifications<br></u></strong><ul> <li>Development using MEAN OR MERN stack with React.js, Angular 7.0 and a Node backend </li> <li>An understanding of developing software (both frontends and backend), and an understanding of software development practices in an enterprise environment</li> <li>Experience using difference SaaS technologies/stacks/modules and understanding of which are best when implementing RESTful microservices, with an emphasis on latest Node/Express and unit testing using Mocha/Chai</li> <li>Experience using different JavaScript frontend frameworks/tools/libraries with an emphasis on latest Angular</li> <li>Passionate about developing quality products that exceed users\u2019 expectations</li> <li>Understanding of development best practices including TDD, CI/CD</li> <li>Excellent interpersonal, verbal and written communication skills as well as strong logical, analytical, problem solving skills and reporting skills.</li> <li>Bachelor's Degree in Computer Science or equivalent industry experience</li> <br><br></ul><strong><u>Employee Benefits<br></u></strong><ul> <li>18 PTO days + 2 floating holidays &amp; 10 paid holidays per year</li> <li>Generous tuition reimbursement towards a Masters or Bachelors degree</li> <li>12 weeks of 100% paid paternity/maternity leave</li> <li>Mentorship with industry professionals</li> <br><br></ul>Applicants who require accommodations to participate in the interview process should contact the Talent Acquisition Team to arrange for such accommodations by emailing: Talent.Acquisition@Berkadia.com<br><br>Berkadia does not share salary ranges in its job postings. Any salary-related information you see posted externally has not been provided or verified by Berkadia and may not be accurate.<br><br>Berkadia is an equal opportunity employer and affords equal opportunity to all applicants and employees for all positions without regard to race, color, religion, gender, national origin, age, disability, veteran status or any other status protected under local, state or federal laws.<br><br>By applying to this job opportunity you are acknowledging Berkadia's Privacy Policy. Applicants have rights under Federal Employment Laws. Please click the following links for more information: EEOC, Employee Rights under the FMLA, EPPA.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T01:51:28.000Z"
+  },
+  "company": {
+    "name": "Berkadia",
+    "link": "https://www.linkedin.com/company/berkadia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 61300,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Midvale",
+    "region": "UT",
+    "postal_code": "84047",
+    "street_address": null,
+    "latitude": 40.610794,
+    "longitude": -111.90804
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Web",
+    "industry": "Computer Games",
+    "description": "<p><strong>Who we are:</strong></p><p>SuperDraft is a New Hampshire and Las Vegas based company that is focused on paid entry and free to play daily fantasy and sports betting in the U.S. The Company has developed several unique game modes and features that appeal to both casual and hardcore sports fans and fantasy players.</p><p><br></p><p><strong>Who you are:</strong></p><p>You'll be a creative contributor to the entire Agile development lifecycle, from design and implementation to testing and monitoring.</p><p><br></p><p><strong>What you\u2019ll do:</strong></p><ul><li>Write clean, well-organized, testable and reusable JavaScript and Typescript</li><li>Build performant, well-tested User Interface components in React and Redux</li><li>Improve performance by identifying and fixing bottlenecks using industry standard patterns and practices</li><li>Participate in product spec reviews, technical design reviews, and code reviews</li></ul><p><br></p><p><strong>What you\u2019ll bring:</strong></p><ul><li>Excellent verbal and written communication skills</li><li>Understanding of JavaScript development best practices (ES6 preferred).</li><li>2+ years' experience working with modern frontend frameworks (React, SASS, etc.)</li><li>Experience with common tools like Webpack, npm and Jest.</li><li>Experience building reusable components with an eye towards responsive design</li><li>Experience translating product requirements into technical specifications.</li><li>Bachelor's degree in a technical major or equivalent work experience</li></ul><p><br></p><p><strong>What we\u2019ll love:</strong></p><ul><li>Experience with React hooks</li></ul><p><br></p><p><strong>What we\u2019ll bring:</strong></p><p>SuperDraft is an equal opportunity employer and does not discriminate based on race, gender, or sexual orientation.</p><p><br></p><p>Employees receive a competitive benefits package, including health insurance, paid vacation/sick leave, and stock options.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T18:46:25.000Z"
+  },
+  "company": {
+    "name": "SuperDraft, Inc.",
+    "link": "https://www.linkedin.com/company/superdraftdfs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

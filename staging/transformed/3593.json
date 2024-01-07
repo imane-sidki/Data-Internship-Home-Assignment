@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong>Why Coil?</strong></p><p>Coilmakes it easy for creators to monetize content on the web without using ads or collecting user data.</p><p><br></p><p>All a creator needs to do is embed a special monetization meta tag with their payment details into their website. When a Coil member visits the site, our extension checks for the presence of the monetization meta tag and starts sending a continuous stream of micropayments to the creator.</p><p><br></p><p>This is based on an open standard calledWeb Monetization. At Coil, our goal is to bring users to the Web Monetization ecosystem so creators can make money off of their content. We want to give creators a chance to be fairly paid for their content directly by those who consume it, without resorting to pushing ads or selling out to a large content aggregator.</p><p><br></p><p><br></p><p><strong>Our Ideal Candidate</strong></p><ul><li>Is excited about Web Monetization</li><li>Thrives working in fast moving startup environment</li><li>Desires to be part of a small and creative team</li></ul><p><br></p><p><strong>As a Site Reliability Engineer you will</strong></p><ul><li>Design, develop and iterate Chaos Engineering practices, disaster recovery protocol, and run books etc.</li><li>Debug production issues across all services and levels of the stack.</li><li>Monitor and proactively address symptoms rather than solely addressing outages.</li><li>Implement and educate the team on best practices for monitoring, observability, and reliability.</li><li>Build tooling and automation to reduce toil.</li><li>Lead improvements to our CI/CD pipeline allowing us to ship code faster with confidence.</li><li>Work with engineering to improve the developer experience.</li><li>Mentor and assist team members on how to build reliable, maintainable infrastructure.</li><li>Collaborate with the team to determine which features to build and how to architect them.</li><li>Perform code reviews.</li><li>Be part of the on-call engineering rotation.</li></ul><p><br></p><p><strong>What you bring to the table</strong></p><ul><li>2-3 years of professional working experience.</li><li>Track record of building and maintaining performant micro service oriented software products.</li><li>Know how to build resilience and durability into cloud infrastructure.</li><li>Know the ins and outs of Kubernetes.</li><li>Knowledgeable about Node.js and are up for working in Typescript.</li><li>Demonstrated ability to proactively manage tasks, project, and issues.</li><li>Outstanding all-round communication skills and ability to work collaboratively.</li><li>Experience leading projects to improve infrastructure and building a team from scratch to support the growth of the organization.</li><li>Leadership and communication skills.</li><li>Authorization to work in the U.S.</li></ul><p><br></p><p><strong>Pluses</strong></p><ul><li>Extensive experience with major cloud providers (GCP, AWS, Azure).</li><li>Experience scaling micro services architecture to handle large loads.</li><li>Experience with Kubernetes, Terraform, Helm, Docker at scale.</li><li>Background in building payout infrastructure or content platforms.</li><li>Demonstrated ability to create custom slack emojis.</li></ul><p><br></p><p><br></p><p><strong>Location</strong></p><p>Coil has offices in San Francisco and Cape Town and remote employees and contractors in the US and abroad. This full-time role is located in our San Francisco headquarters, but can be done remotely from anywhere in North America provided that your availability includes Coil\u2019s core business hours of 9 am to 3 pm PT.</p><p><br></p><p><strong>About Coil</strong></p><p>Coil was founded in 2018 to build a better business model for the Web. Coil makes it easy for publishers and creators to monetize their content across the internet, and provides an alternative to advertising and site-by-site subscription models. As Coil Members enjoy content, Coil uses a proposed open web standard called Web Monetization to stream micropayments to creators in real time. In 2019, Coil, in collaboration with Mozilla and Creative Commons, launched the$100 million Grant for the Webto boost open, fair and inclusive standards and innovation in Web Monetization. Coil also invested $20 million in Imgur, the community-powered entertainment platform reaching 300 million people each month.</p><p><br></p><p><strong>Benefits</strong></p><p>- Platinum health coverage with no premiums for employees and 75% of premiums paid for dependents</p><p>- Dental and Vision insurance with no premiums for employees</p><p>- 401(k) with matching</p><p>- Stock option plan</p><p>- Gym / Fitness Studio benefits</p><p>- Paid Family Leave</p><p>- Flexible Vacation</p><p><br></p><p><strong>Coil is proud to be an equal opportunity employer.</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T17:50:28.000Z"
+  },
+  "company": {
+    "name": "Coil",
+    "link": "https://www.linkedin.com/company/coilhq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

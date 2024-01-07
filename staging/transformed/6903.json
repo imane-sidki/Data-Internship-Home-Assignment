@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p><strong>About Common Sense Machines</strong></p><p>Common Sense Machines is training artificial intelligence that learns to translate the visual world into a 3D simulation for people and machines.</p><p><br></p><p>3D simulations have great value; we build 3D models to create photorealistic images of products and spaces at a fraction of the cost of photography, develop diverse assets for game and augmented realities, use CAD to prototype and print new parts, or create synthetic worlds to test and train autonomous systems. But 3D models are still too slow, hard, and expensive to create. Common Sense Machines is building a Real-to-Sim platform for creating build human-like 3D models with machine-like speed and scale.</p><p><br></p><p>Common Sense Machines was founded by a group of PhDs and faculty from MIT. We have worked on large AI systems at DeepMind and have collectively founded three companies with successful exits. The company is based in Cambridge, MA. We are venture-backed and looking to expand our team of scientists and engineers.</p><p><br></p><p><strong>About the Role</strong></p><p>Want to build general-purpose artificial intelligence for 3D perception and model building? We are looking for a research engineer to develop, train, and, and scale machine learning systems at the intersection of deep learning, computer graphics, and 3D vision. You will be part of a small but growing team of engineers and scientists building 3D generative models to capture an unprecedented level of detail and diversity of physical objects. Responsibilities include:</p><ul><li>Implement, scale, optimize and deploy unsupervised methods for 3D reconstruction with a focus on neural differentiable rendering systems and implicit neural representations (e.g., NeRF, volumetric rendering, deep learning architectures).</li><li>Build software libraries and accelerators for neural differential rendering and for training large-scale neural networks interfacing with search and reinforcement learning algorithms on distributed systems.</li><li>Work in close collaboration with researchers and engineers.</li><li>Create and optimize high-quality Python/C++ code.</li></ul><p><br></p><p><strong>Desired qualifications:</strong></p><ul><li>Knowledge of implicit neural representations, differential rendering, PyTorch, and distributed deep learning.</li><li>Proven ability to rapidly translate a research paper into prototypes (industry or research labs experience).</li><li>Experience designing, scaling, and optimizing machine learning infrastructure (e.g., distributed cloud computing, big data pipelines, visualization, MLOps, monitoring).</li><li>Team-oriented and comfortable wearing multiple hats in a growing company.</li><li>Drive to create a breakthrough in creating artificial intelligence with human-level common sense and scale the latest machine learning technology.</li></ul><p><br></p><p><strong>We offer:</strong></p><ul><li>Competitive salary</li><li>Early-stage startup equity</li><li>Medical, dental, and vision insurance</li><li>401K with employer match</li><li>Hybrid office / WFH with flexible work hours</li><li>Science and engineering-driven culture.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T22:32:16.000Z"
+  },
+  "company": {
+    "name": "Common Sense Machines",
+    "link": "https://www.linkedin.com/company/common-sense-machines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

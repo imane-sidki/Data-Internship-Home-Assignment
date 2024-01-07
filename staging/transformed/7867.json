@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Monitoring",
+    "industry": "Computer & Network Security,Computer Software,Information Technology and Services",
+    "description": "We are looking for an experienced Site Reliability Engineer to join Okta\u2019s Technical Operations Team. At Okta our motto is \"Always On\", and nowhere do we embrace that more than in Technical Operations. We strive to build the most reliable and performant systems on the planet through the skillful use of automation. We've created an integrated system that securely connects any person via any device to the technologies they need to do their most significant work.<br><br>This role is ideal for someone who not only enjoys working on large scale cloud production systems but gains pride from seeing those systems handle anything the internet can throw at them.<br><br>If you like to be challenged and have a passion for solving problems at scale with automation, testing, and tuning, then we would love to hear from you. The ideal candidate is someone who exemplifies the ethics of, \u201cIf you have to do something more than once, automate it,\u201d and who can rapidly self-educate on new concepts and tools. This engineer can be in our Bellevue, San Francisco, and/or San Jose office, or can be remote!<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Design, build and monitor Okta's global production infrastructure</li><li>Respond to production incidents and determine preventive solutions</li><li>Troubleshoot complex reliability and performance issues</li><li>Automate manual processes, evolve our monitoring tools, and develop technical documentation</li><li>Support a highly available and large scale online environment as part of an on-call rotation once per quarter<br></li></ul><strong><u>Qualifications &amp; Requirements<br></u></strong><ul><li>Experience with Federal and DoD compliance requirements - FedRAMP, IL</li><li>Background using and supporting Splunk, Zabbix, Wavefront, Elasticsearch, Logstash, Kibana, or related tools</li><li>Passionate about automation</li><li>Experience in chatops tooling, Slack automation, PagerDuty integration</li><li>Background with Linux systems administration and strong scripting skills in Bash, Ruby, Python, Go, etc.</li><li>Experience supporting Docker containers and web applications running on Java / Apache / Tomcat in a live production environment</li><li>Strong expertise with production services in AWS such as EC2, ECS, KMS, Kinesis, CloudWatch</li><li>Previous experience with automating systems and infrastructure via Ansible, Chef or Terraform</li><li>Solid understanding of networking concepts and IP protocols</li><li>Experience with multi-cloud infrastructure is desired</li><li>Computer Science (plus) or relevant experience<br></li></ul><strong><u>Education And Training<br></u></strong><ul><li>B.S. Computer Science (plus) or relevant experience<br></li></ul>Okta is rethinking the traditional work environment, providing our employees with the flexibility to be their most creative and successful versions of themselves, no matter where the employees are located. We enable a flexible approach to work, meaning you can work from the office or home, regardless of where you live. Okta invests in the best technologies, and provides flexible benefits and collaborative work environments/experiences, empowering employees to work productively in a setting that best and uniquely suits their needs. Find your place at Okta https://www.okta.com/company/careers/.<br><br>Okta is an equal opportunity employer.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T04:52:43.000Z"
+  },
+  "company": {
+    "name": "Okta",
+    "link": "https://www.linkedin.com/company/okta-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

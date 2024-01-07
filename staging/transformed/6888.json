@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Automotive,Staffing and Recruiting,Transportation/Trucking/Railroad",
+    "description": "Company: FedEx Custom Critical Job Title: Data Scientist Job Requisition Number: RC380860 Locations: 1475 Boettler Road Uniontown, Ohio 44685 Job Family: FCC: Strategy &amp; Planning OTHPRO Time Type: Full Time Job Summary: The Data Scientist will serve as an expert level individual contributor helping guide and shape the data management strategy, build reporting, Business Intelligence (BI) tools and data models to assist with business decision making and guide and maintain the Cloud analytics environment. This role will lead large initiatives that require advanced analytics, modeling, and forecasting. The position will function as a subject matter expert on in-depth statistical modeling methods and will provide insight on how to practically apply these models within the organization. You will uphold the Purple Promise by making every customer experience outstanding. Your Day: Performs advanced statistical and mathematical analysis on datasets. Develop and maintain ETL data marts using data pipelines to support reporting, BI and data modeling Builds models that aid in decision making and forecasting. Implements machine learning solutions to improve quality and reduce manual work. Interprets current data structures and works to make improvement. Partners with outside vendors to enhance our data and analytical capabilities. Designs and maintains an access and governance plan for data and modeling. Serve as data and measurement expert in planning and strategy sessions. Adheres to all applicable laws/regulations, as well as company policies and procedures. Perform other duties as required. What we are looking for: Master's Degree required in Data Science, Business Analytics, Computer Science, Applied Mathematics, Statistics or related field. PhD preferred in Computer Science, Applied Mathematics, Statistics or related field. Oracle/Teradata Database Certification, R, Python, SAS, Azure Certification preferred. 5-7 years\u2019 experience required in Data Science, Business Analytics ,Computer Science, Mathematics, Data Science/Analytics, Statistics or related field. 7-10 years\u2019 experience preferred in Data Science, Business Analytics ,Computer Science, Mathematics, Data Science/Analytics, Statistics or related field. Advanced skills in data mining and manipulation within RDBSs using SQL and PL/SQL. Expert-level statistical and mathematical analysis of datasets. Ability to build, maintain, and deploy descriptive, predictive, and prescriptive models. Practical experience creating and using time series forecasting models. Background using GIS tools and models for geospatial analytics. Ability to build, maintain, and deploy data pipelines. Advanced skills in cloud analytics platforms. Knowledge and ability to solve big data problems. Strong communication skills and ability to work collaboratively to drive meaningful change within the organization. What you can expect from us: Full-time Opportunity with Benefits- Medical, Dental, Vision, and 401k Paid Time Off Paid Parental Leave Tuition Reimbursement Onsite Gym and Cafeteria Team Member Appreciation Days Company provided Laptop and Cell Phone Discount on Shipping for Personal Use Access to Over 3.5 Million Discounts Headquartered in Northeast Ohio, we are a multiple-time NorthCoast 99 award recipient, recognized as a top employers in Northeast Ohio! We offer attractive compensation, benefits and team member development. Follow Us on LinkedIn https://www.linkedin.com/company/fedex-custom-critical EEO Statement: FedEx Custom Critical is an Equal Opportunity and Affirmative Action Employer of Females, Minorities, Veterans, and Disabled. If you have a disability and/or you need assistance in order to apply for a position, please call (877) 314-5191.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:00:00.000Z"
+  },
+  "company": {
+    "name": "FedEx",
+    "link": "https://www.linkedin.com/company/fedex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Uniontown",
+    "region": "OH",
+    "postal_code": "44685",
+    "street_address": null,
+    "latitude": 40.97611,
+    "longitude": -81.40697
+  }
+}

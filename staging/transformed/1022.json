@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p>Client located headquartered in Denver, Colorado is seeking a 100% remote Data Scientist for a long term contract position.This position will participate on a small team thatwill work with medical, claims, and policy related data that comes in a variety of formats \u2013 structured and unstructured - to generate insights and embed artificial intelligence into applications.</p><p><br></p><p>Required:</p><p>-Python.</p><p>-Strong modeling skills.</p><p>-Knowledge of BASH.</p><p>-SQL coding.</p><p><br></p><p>Desired:</p><p>-Data library experience (spaCy, Pandas, NumPy, Scikit-learn, XGBoost, Tensorflow, PyTorch, Keras, etc.).</p><p>-Experience working with insurance data (medical records, insurance claims, policy data).</p><p>-API development.</p><p>-Google Cloud Platform.</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-19T15:40:01.000Z"
+  },
+  "company": {
+    "name": "Compri Consulting",
+    "link": "https://www.linkedin.com/company/compri-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver Metropolitan Area",
+    "region": null,
+    "postal_code": "80205",
+    "street_address": null,
+    "latitude": 39.756443,
+    "longitude": -104.99415
+  }
+}

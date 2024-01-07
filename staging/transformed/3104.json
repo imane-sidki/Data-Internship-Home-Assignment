@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Systems Engineer",
+    "industry": "",
+    "description": "<p>AirHop Communications is a world recognized leader in wireless network automation and optimization technology, platforms, and solutions.We are seeking a Machine Learning (ML) Systems Engineer who will develop algorithms using advanced ML techniques to optimize the Radio Access Network (RAN).</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul><li>Develop ML algorithms to optimize the performance of the 4G/5G Radio Access Network.</li><li>Develop simulations, test scenarios, and experiments to validate ML solutions in collaboration with the system engineering team.</li><li>Collaborate with other engineering teams to implement and deploy ML algorithms in live networks.</li><li>Validate and monitor ML solution performance in field tests and live network</li><li>Stay current with relevant developments in the ML field</li></ul><p></p><p><strong>Qualifications:</strong></p><p>The position requires:</p><ul><li>Master's in engineering, computer science, or equivalent. PhD preferred.</li><li>At least 2 years of experience developing ML solutions</li><li>Deep understanding of machine learning tools and algorithms</li><li>Excellent knowledge of Python and Pandas is a must</li><li>Experience with Pytorch is a plus</li><li>Experience with reinforcement learning, time series analysis and Graph Neural Networks is a plus</li><li>Experience in 4G and 5G cellular Radio Access Networks (RAN) is a plus</li></ul><p><br></p><p><strong>About the company:</strong></p><p>Please see www.airhopcomm.com</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T22:05:30.000Z"
+  },
+  "company": {
+    "name": "AirHop Communications",
+    "link": "https://www.linkedin.com/company/airhop-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

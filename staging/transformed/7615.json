@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "<p><strong><u>Job Summary:</u></strong></p><p>The Data Engineer is responsible for the implementation and maintenance of the data warehouse, and associated extract-transform-loads (ETLs). The Data Engineer will be an integral part of modernizing USA Swimming\u2019s data culture and ensuring data is accurately and properly exposed to end users.</p><p><strong></strong></p><p><strong><u>Essential Duties/Responsibilities:</u></strong></p><ul><li>Participate in architectural discussions to create and maintain optimal modern data pipeline architecture amidst ever-changing business needs.</li><li>Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using structured query language (SQL) and Azure technologies.</li><li>Design and build Azure Logic Apps to automate programs.</li><li>Expose data to end users using Data Warehouse and Power BI, or other modern reporting and visualization platform.</li><li>Work with internal and external stakeholders to assist with data-related technical issues and data quality issues.</li><li>Optimize data delivery and re-design infrastructure for greater scalability.</li><li>Implement effective metrics and monitoring processes.</li><li>Fulfill internal and external custom SQL requests.</li><li>Answer membership and times data-related customer service questions from members. </li><li>Understand USA Swimming\u2019s complex business rules to ensure accurate execution of tasks.</li></ul><p></p><p><strong><u>Qualifications:</u></strong></p><ul><li>Required to be fully vaccinated against Covid-19 upon hire</li><li>Bachelor\u2019s Degree in computer science, data science, information management, related field or equivalent</li><li>Master\u2019s Degree Preferred</li><li>Minimum 3 years working experience in a professional environment</li><li>Willing to relocate to Colorado Springs, CO</li><li>2+ years of experience with Azure services: Azure Data Factory, Synapse Analytics, Azure SQL DB, Azure Databricks, ML Studio, Azure Data Lake, etc. </li><li>2+ Experience developing and deploying ETL solutions on Azur</li><li>Experience with Azure performance and monitoring tools</li><li>Experience with data visualization tools (Tableau, Power BI, etc.)</li><li>Knowledge of OLAP data models, including snowflake and star schemas and cube design</li><li>Excellent communication (written and oral) and interpersonal skills</li><li>Excellent organizational, multi-tasking, and time-management skills</li><li>Ability to work across departments and in a team setting to help achieve desired goals and outcomes.</li><li>Proven ability to work creatively and analytically in a problem-solving environment</li></ul><p></p><p><strong><u>Preferred:</u></strong></p><ul><li>Swimming experience/knowledge of USA Swimming</li></ul><p><br></p><p><strong><u>Salary &amp; Benefits:</u></strong></p><ul><li>Salary Range for this position is $68,000 - $78,000 / year</li><li>Benefits available include:</li><li>Medical, dental and vision</li><li>Company paid short-term and long-term disability</li><li>Company paid life insurance</li><li>Parental leave</li><li>401(k) w/ match after 1 year of service</li><li>Profit sharing and safe harbor match after 2 years of service</li><li>EAP</li><li>PTO</li><li>12 paid holidays</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:44:19.000Z"
+  },
+  "company": {
+    "name": "USA Swimming",
+    "link": "https://www.linkedin.com/company/usa-swimming"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Colorado Springs",
+    "region": "CO",
+    "postal_code": "80908",
+    "street_address": null,
+    "latitude": 38.835224,
+    "longitude": -104.8198
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "As a member of our Infrastructure Support team, your endless curiosity about technology will help you propel innovation and your career. Working in a team of highly motivated people like you, you'll work with customers and be accountable for production incidents, problems, change management, internal and external communications, lifecycle management, and product evolution. You'll help develop functional goals and priorities that align with our overall strategy. You'll collaborate with our talented and dedicated problem-solving technologists across the JPMorgan Chase &amp; Co. global network.<br><br>The JPMC Web Team is responsible for providing build ,SRE and operational support services for all the leading Applications and Web Servers across UNIX and Windows (Distributed) platforms for multiple lines of business giving the successful candidate an opportunity to broaden not only their technical skills but also knowledge of the businesses that combine to make up JPMorgan. The Web product offerings enable greater automation, security and stability within the web middleware product space. The team works in conjunction with other technology towers and LOBs to ensure that Web products are deployed around a set of standards and best practices that is integrated with the enterprise infrastructure. We are looking for a Web Engineer who has a proven track record in Application &amp; Web Server deployment and administration.<br><br>This role requires a wide variety of strengths and capabilities, including:<br><ul><li>Bachelor of Science/Computers degree or equivalent experience</li><li>Deploying App/Web servers in a large enterprise. </li><li>Installation and Configuration of Web/App servers and configuring enterprise apps from scratch.</li><li>Working knowledge of Apache Tomcat, IIS, WebSphere / IHS</li><li>Good understanding of Security standards (TLS, Ciphers, certs).</li><li>Good working knowledge of JMS, J2C, JDBC, JCA, Web Services and integration with upstream/downstream services</li><li>Scripting languages - PERL, Shell, Powershell and exposure to at least one of the following operating systems - Linux; Solaris; AIX</li><li>Familiarity with Jenkins, BitBucket, GIT and ability to do automation, orchestration, and monitoring. </li><li>Any Web / cloud certifications are a plus.<br></li></ul><strong><u>It's Nice If You Have<br></u></strong><ul><li> Experience of working on cloud, java build pack, virtualization, APIs, and modern software languages</li><li> Hands on knowledge on Java, Python, Ansible, Bit Bucket</li><li> Working Knowledge on cloud or other platform level technology or service (Cloud Foundry, Mesos, Kubernetes etc.)<br></li></ul>Good written and verbal communication is an important part of the role as you will be part of a global team that will be collectively responsible to deliver on projects.<br><br>This position will provide the right candidate with an excellent opportunity to enhance their existing skills in their core area as well as broaden and expand their knowledge across the range of products (Messaging/Web/DB), platforms (UNIX, Windows) and businesses we support.<br><br>JPMorgan Chase &amp; Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.<br><br>We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.<br><br>Equal Opportunity Employer/Disability/Veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T14:25:15.000Z"
+  },
+  "company": {
+    "name": "JPMorgan Chase &amp; Co.",
+    "link": "https://www.linkedin.com/company/jpmorganchase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<strong><u>Job Description<br><br></u></strong>Ensure production reliability, quality for our suite of applications by working with SRE and support engineers<br><br>Understand functional/technical implementation of our apps and setup proactive alerts based on that to avoid user impact<br><br>Organize/Lead incident free deployments with thorough scrutiny working with ops, support, engineering and SRE teams<br><br>Continously evaluate user traffic, usage patterns , system performance and derive plans for optimization accordingly<br><br>Manage and drive critical incidents to resolution without delays by working with all involved internal teams/external teams with prioritizing customer impact always<br><br>Must be an expert in Splunk, AppDynamics, Linux and related scripting<br><br>Experience in systems both on-premise (data center) and on public cloud (AWS, GCP etc)<br><br>Excellent troubleshooting and problem solving skills",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T09:19:00.000Z"
+  },
+  "company": {
+    "name": "Veear Projects Inc.",
+    "link": "https://www.linkedin.com/company/veear-projects-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

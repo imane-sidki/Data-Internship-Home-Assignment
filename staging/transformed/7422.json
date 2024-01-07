@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE) / DevOps",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong> Site Reliability Engineer / DevOps <br><br></strong><strong><u>Who We Are<br><br></u></strong>The Oracle State &amp; Local Global Business Unit (SLGBU) is a brand-new organization that is in the process of designing &amp; developing a suite of SaaS applications for the state &amp; local government markets using cutting edge technologies. These are exciting times in our space - we are growing fast, still at an early stage, and working on ambitious new initiatives.<br><br><strong><u>Who You Are<br><br></u></strong>As a Site Reliability Engineer (SRE), within the Public Safety SaaS team, you will assist in designing building and operating a highly distributed SaaS service with extremely high availability and scalability requirements. You will work as a member of our cross-discipline service development team. You will work in concert with developers to evolve systems/products for better scalability, reliability and enable developer velocity. You will be responsible to ensure our services and systems are designed and build from the start with reliability, scalability and observability as a critical feature. You will also author and maintain operational run books to help reduce mean Time of Incidents (TOI), and be responsible for managing and triaging operational tickets pertaining to the data platform services. Emphasis on driving prioritization and execution of work based on business impact is a must.<br><ul><li> Design, write, and deploy software to improve the availability, scalability, and efficiency of Oracle products and services. </li><li> Solve complex problems related to infrastructure cloud services and build automation to prevent problem recurrence. </li><li> Develop designs, architectures, standards, and methods for large-scale distributed systems. </li><li> Facilitate service capacity planning and demand forecasting, software performance analysis, and system tuning. </li><li> Work as a member of the development team and share full stack ownership of a collection of services and/or technology area. Understand the end-to-end configuration, technical dependencies, and overall behavioral characteristics of production services. </li><li> Articulate technical characteristics of services and technology areas and guide development teams to engineer and add capabilities to internal Oracle services. </li><li> Act as ultimate escalation point for complex or critical issues that have not yet been documented as Standard Operating Procedures (SOPs). </li><li> Utilize a deep understanding of service topology and the dependencies required to troubleshoot issues and define mitigations. </li><li> Understand and explain the effect of product architecture decisions on distributed systems. </li><li> Serve as part of a 24x7 On Call rotation in support of the Public Safety SaaS Suite </li><li> Professional curiosity and a desire to a develop deep understanding of services and technologies. <br></li></ul><strong><u>What You've Done<br></u></strong><ul><li> 3+ years of experience with Java, Python, or C++ including Object Oriented programming </li><li> 3+ years of experience with Monitoring and Observability technologies like Prometheus, Grafana, Fluentd, Elasticsearch, Kibana or equivalent </li><li> 3+ years of experience working with fault tolerant, highly available, high throughput, distributed, scalable systems </li><li> 1+ years of experience implementing new Cloud technologies <br></li></ul><strong><u>It Would Be Awesome If You Also Had<br></u></strong><ul><li> Software development / operations </li><li> Developing/operating large scale distributed services / applications </li><li> System Administration including Linux internals, TCP/IP, DNS, Load balancing technologies </li><li> Container administration and development utilizing Kubernetes, Docker, Mesos, or similar </li><li> Infrastructure automation through Terraform, Chef, Ansible, Puppet or similar </li><li> Big Data Infrastructure including Hadoop, Spark, NoSQL, Object Storage, or similar </li><li> Experience with TCP/IP and socket programming </li><li> Knowledge of cloud compute technologies, network monitoring, data processing and analytics </li><li> Experience with CI/CD pipelines including VCS (git) <br></li></ul>Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.<br><br>As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.<br><br>Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.<br><br>If you are a Colorado resident, Please Contact us or Email us at oracle-salary-inquiries_us@oracle.com to receive compensation and benefits information for this role. Please include this Job ID: 117863 in the subject line of the email.<br><br><strong><u>About Us<br><br></u></strong>Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It\u2019s when everyone\u2019s voice is heard and valued, that we are inspired to go beyond what\u2019s been done before. That\u2019s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.<br><br>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T14:36:23.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Senior Data Engineer</strong></p><p><strong>McLean VA</strong></p><p><strong>12 Months CTH</strong></p><p><br></p><p><strong>Must Have Skills:</strong></p><p>AWS Services - Lambda</p><p>Python</p><p>Apache Spark/ PySpark</p><p>at least some Java exp. &amp; Rest API is must</p><p>DevOps/ CI/CD/ Jenkins</p><p><br></p><p><strong>JOB DESCRIPTION</strong></p><p>Senior Data Engineer - Jigsaw current and future roadmap primarily building automation capabilities would involve </p><p>Develop data pipelines using Apache Spark , PySpark , python , spark SQL , REST API , Postgres DB , Lambda Serverless solutions in AWS ,</p><p>hands on AWS experience , DevOps experience (YBYO).<strong></strong></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:22:34.000Z"
+  },
+  "company": {
+    "name": "Pyramid Consulting, Inc",
+    "link": "https://www.linkedin.com/company/pyramid-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Sr Engineer",
+    "industry": "Financial Services,Investment Management,Banking",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Important Note:</strong> During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as \u201cPersonal Cell\u201d or \u201cCellular\u201d in the contact information of your application.<br><br>At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.<br><br>Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.<br><br><strong>Technology </strong>sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure; provides information security; and enables Wells Fargo global customers to have 24 hours a day, 7 days a week banking access through in-branch, online, ATMs, and other channels.<br><br>Our mission is to deliver stable, secure, scalable, and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employees.<br><br><strong>Software Sr Engineer<br><br></strong>At Wells Fargo, the Chief Technology Office (CTO) organization is leading technology transformation in a multi-cloud technology landscape by developing and delivering innovative products that delight our customers and speed to market banking products. As part of the CTO Site Reliability Engineering (SRE), the Enterprise Observability Team is responsible for delivering innovative, scalable, stable, and secure products that provide deep business insight, operational insight, and predictive analysis. As a member of the team, you will be a key contributor to the development of products that provide full stack observability including application monitoring, logging, alerting, visualization, machine learning and artificial intelligence (AI/ML).<br><br>As part of the Enterprise Observability team, the Software Engineer will design, develop, and implement a unified logging layer with primary responsibility to roll out standard Logging Libraries integrated into the CI/CD toolchain (Artifactory). As part of the Observability team, you will integrate and assist in building logging architectures including Kafka, LogStash, Splunk, and ElasticSearch / ELK. You will be responsible for implementing unified logging layer that streams petabytes of application data and ensuring that all data including confidential data adheres to security standards and policies by implementing necessary controls as code (masking, formatting, etc.). As a Software Engineer, you will partner with internal customers, architects, engineers to gather requirements to build unified logging layer and products that are scalable, stable, and secure while leveraging Agile methodology.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Connecting with key stakeholders to understand application logging business, technical, and compliance requirements</li><li>Engineering software solutions that allow Wells Fargo application teams to log in a consistent, reliable, and compliant manner</li><li>Performance testing/tuning of engineered software solutions</li><li>Providing escalated support of the engineered solution including debugging, testing, and requirement validation </li><li>Mentoring less experienced engineers through paired programming and knowledge sharing<br></li></ul><strong><u>Required Qualifications<br></u></strong><ul><li>7+ years of software engineering experience</li><li>1+ year of compliance and regulatory systems experience</li><li>3+ years of C# .NET or Java development experience</li><li>3+ years of experience with Continuous Integration tools such as Jenkins, UDeploy (Urbancode Deploy) or a combination of both</li><li>3+ years of Agile experience</li><li>1+ year of JIRA experience<br></li></ul><strong><u>Desired Qualifications<br></u></strong><ul><li>An industry-standard technology certification</li><li>Strong verbal, written, and interpersonal communication skills</li><li>Experience with data streaming technologies and use cases</li><li>1+ year of Splunk experience</li><li>Knowledge and understanding of API programming with Perl, XML, REST or JSON</li><li>1+ year of experience with in-memory databases such as Redis, MongoDB, or Cassandra</li><li>Exposure to Wells Fargo PAC2000 -WF's ticketing system based on Remedy application</li><li>Experience in one or a combination of the following: Cloud Foundry or Kubernetes<br></li></ul><strong><u>Other Desired Qualifications<br></u></strong><ul><li>Experience with build frameworks Maven and Gradle</li><li>Microservices development using tools like Spring Boot <br></li></ul><strong>Disclaimer<br><br></strong>All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.<br><br>Relevant military experience is considered for veterans and transitioning service men and women.<br><br>Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.<br><br><strong><u>Benefits<br><br></u></strong><strong>Benefits Summary<br><br></strong>Visit https://www.wellsfargo.com/about/careers/benefits for benefits information.<br><br><strong><u>Reference Number<br><br></u></strong>5597506-2",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:32:06.000Z"
+  },
+  "company": {
+    "name": "Wells Fargo",
+    "link": "https://www.linkedin.com/company/wellsfargo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chandler",
+    "region": "AZ",
+    "postal_code": "85226",
+    "street_address": null,
+    "latitude": 33.302284,
+    "longitude": -111.8401
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer",
+    "industry": "Computer Software",
+    "description": "We are currently seeking to hire a Full Stack Software Engineer to become an integral part of our development team! You will design and test business application software across the entire stack. This position will prepare project code releases, coordinate changes with client, and send code to production upon approval from quality assurance; provide hotfixes or project releases, as needed.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Design, develop, and and deploy modern web applications.</li><li>UI/UX design.</li><li>Relational database design and architecture.</li><li>Cloud services console.</li><li>Test driven deployment.</li><li>APIs.<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Degree in Computer Science or a related field.</li><li>Familiarity with cloud services such as Google Cloud Platform, Amazon Web Services, Azure.</li><li>Familiarity with JavaScript frameworks such as Angular JS, React, React Native, and Amber.</li><li>Proficiency with fundamental front end languages such as HTML, CSS and JavaScript.</li><li>Proficiency with server side languages such as Python, Ruby, Java, PHP, and .Net.</li><li>Familiarity with database technology such as MySQL, MS SQL, MongoDB.</li><li>Excellent verbal communication skills.</li><li>Good problem solving skills.<br></li></ul>At DevAO LLC, we have a collaborative environment that encourages professional growth and career development. If you\u2019re looking to build your career or connect with other professionals in the Columbus area, we would like to meet you.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:39:37.000Z"
+  },
+  "company": {
+    "name": "DEVAO, LLC",
+    "link": "https://www.linkedin.com/company/devao-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

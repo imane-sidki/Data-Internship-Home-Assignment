@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "<p>We are looking for a <strong>Software Engineer </strong>who can create a series of extensions for Visual Studio Code (VSCode) for a unique declarative language we have created. You will be an integral part of helping us promote this new declarative programming language, ensuring it is simple and accessible for our customers. We are looking for candidates who are passionate about working on developer productivity aids like deeply context-sensitive suggestions and source-level debugging for this language based on the LLVM toolset. Ideal candidates will be active in one (or more) of these open source communities and will be able to showcase their proficiency with their contributions.</p><p><br></p><p>Skills required for this role include:</p><p>\u2022\tExperience with VSCode extensions</p><p>\u2022\tStrong Javascript/Typescript</p><p>\u2022\tStrong C++ skills</p><p>\u2022\tExperience with LLVM a plus</p><p><br></p><p>We are a Bellevue, WA startup and we\u2019re building our company from the ground up. Our founders (David Vaskevitch. Mehtap Ozkan and Hal Berenson) have a history of industry-changing successes in Enterprise software with many years of technical leadership experience at both Microsoft, Amazon, and other startups. Very soon, we\u2019ll be surrounded by self-directed computers operating as delivery drones, autonomous inspection robots, air taxis, smart grid controllers, and other IoT devices. This will require an enormous amount of new software. But writing it won\u2019t be easy. Programmers need new tools to help them reach the edge, wrangle complexity, and integrate the latest advances from machine learning and robotics. Gaia Platform provides that platform that will empower programmers and subject matter experts to rapidly deliver high-performance, maintainable applications at the edge and beyond the cloud.</p><p><br></p><p>No visa assistance is available</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T16:32:20.000Z"
+  },
+  "company": {
+    "name": "Gaia Platform",
+    "link": "https://www.linkedin.com/company/gaia-platform"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer ",
+    "industry": "Computer & Network Security",
+    "description": "<p>We are a leader in penetration testing and attack surface management. NetSPI is constantly growing and looking for innovative minds to join us in helping some of the largest organizations in the world protect their technology and data from cyber criminals. if you thrive in a collaborative setting and enjoy working with best-in-class technology - we want to meet you!</p><p>The Software Engineer will be responsible for working on and supporting our Red Team Toolkit (Attack Simulation). Red Team Toolkit is an offensive security platform and tooling suite for red teamers and penetration testers.The toolkit enables teams to perform advanced network operations, collaborate on target exploitation, and better simulate sophisticated adversaries.</p><p><br></p><p>Responsibilities:</p><ul><li>Design, code, test and deploy application in an iterative development environment</li><li>Develop code that is scalable, robust, and bug-free</li><li>Deliver high quality technical solutions to stakeholders in a fast-paced environment</li><li>Development in accordance with industry standard and best practices</li><li>Identify and analyze user requirements and convert them into a feasible technical document</li><li>Work with a geographically distributed team of various experience levels</li></ul><p><br></p><p>Required Skills:</p><ul><li>4+ years of hands-on experience with C#/.NET</li><li>2+ years of experience using ASP.NET Core</li><li>2+ years of experience in consuming REST/SOAP services</li><li>2+ years of experience using React</li><li>1+ years of experience with relational/NoSQL databases</li><li>Bachelor\u2019s degree in Computer Science</li></ul><p><br></p><p>Preferred Skills:</p><ul><li>Experience using Typescript</li><li>Experience using C++ and/or Win32 APIs</li><li>Experience using WPF/UWP/WinUI</li><li>Open-source contribution</li><li>Experience working in Agile team environment</li><li>Effective communication skills, both verbal and written</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:42:38.000Z"
+  },
+  "company": {
+    "name": "NetSPI",
+    "link": "https://www.linkedin.com/company/netspi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

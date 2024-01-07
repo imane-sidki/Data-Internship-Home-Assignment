@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Cohesity radically simplifies data management. We make it easy to back up, manage, and derive value from data -- across the data center, edge and cloud. Cohesity also helps ensure data is in compliance and protected against ransomware attacks. We offer a full suite of data management services consolidated on one multicloud data platform, reducing complexity and eliminating mass data fragmentation. Cohesity can be delivered as a service, self-managed, or provided by a Cohesity-powered partner.<br><br>We\u2019ve been named a Leader by multiple analyst firms, and are prominently featured in the Forbes Cloud 100 and CRN\u2019s Coolest Cloud companies. Our growth is off the charts, and we\u2019re just getting started!<br><br><strong><u>Primary Job Responsibilities<br></u></strong><ul> <li>Work with Cohesity customers to provide a timely resolution to technical issues that they may encounter</li> <li>Use available tools to investigate and troubleshoot technical issues</li> <li>Record customer interactions, including investigation, troubleshooting, and the resolution of issues</li> <li>Work closely with Cohesity engineering and account management teams</li> <li>Demonstrate considerable judgment in selecting methods and techniques for obtaining solutions</li> <li>Provide the best experience possible for Cohesity customers</li> <li>Manage workload to ensure that all customer issues are resolved in a timely manner</li> <li>Assist in the development of comprehensive and reusable self-service solutions for future incidents</li> <li>Develop a knowledge base article.</li> <li>Mentor other engineers as applicable..</li> <br><br></ul><strong><u>Required Skills<br></u></strong><ul> <li>5+ years of experience working in a storage, networking and virtualization environment</li> <li>Strong understanding of Linux and administration experience across all working components</li> <li>Ability to analyze system diagnostics and clearly articulate the issue for the customer</li> <li>Good understanding of Linux debugging utilities, with an emphasis on systemtap, tcpdump ftrace, strace, wireshark, gdb, and crash</li> <li>Experience with remote file access protocols, including NFS, SMB (CIFS)</li> <li>Solid experience with storage-related concepts, including virtualization and data protection (e.g. VMware, CommVault, Symantec, EMC, NetApp)</li> <li>BS degree in Computer Science, Computer Networking or related with 2 years of experience OR MS degree in Computer Science, Computer Networking or related </li> <br><br></ul><strong><u>Highly Advantageous<br></u></strong><ul> <li>5+ years working in a Database Administrative capacity with MongoDB, SQL Server or Oracle</li> <li>5+ years working SQL Server Backup, SQL VDI (Virtual Disk Interface) or Oracle RMAN (Recovery Manager)</li> <li>3+ years working with Microsoft VSS (Volume Shadow Storage</li> <li>5+ years working in a virtualized environment (HyperV, VMware or other hypervisors) in a support or administration capacity</li> <br><br></ul><strong><u>Data Privacy Notice For Job Candidates<br><br></u></strong>For information on personal data processing, please see our <strong>Privacy Policy.<br><br></strong><strong>Equal Employment Opportunity Employer (EEOE)<br><br></strong>Cohesity is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.<br><br>If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at 1-855-9COHESITY or talent@cohesity.com for assistance.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:14:58.000Z"
+  },
+  "company": {
+    "name": "Cohesity",
+    "link": "https://www.linkedin.com/company/cohesity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

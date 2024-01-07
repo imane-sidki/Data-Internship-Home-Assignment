@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Senior Site Reliability Engineer, SRE / DevOps Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<strong>Remote Unlimited PTO, latest frameworks, consistently voted best places to work!<br><br></strong>This Jobot Job is hosted by Amber Heigerick<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $130,000 - $185,000 per year<br><br><strong>A Bit About Us<br><br></strong>We are a leading financial technology company that is looking to add a Senior SRE / DevOps Engineer to our dynamic team! The team is crucial to building/deployment/monitoring automation of products for our cloud offering using cutting edge technologies.<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>We've got an amazing track record of success and we foster ongoing innovation. So you get all the benefits of a proven, growing company, while enjoying a very entrepreneurial culture. We value being collaborative, open, respectful and at all levels of the organization -- this is our \"no jerks\" policy.<br><br><strong>Job Details<br><br></strong>The Senior Site Reliability Engineers / DevOps Enginner is a key member of our fast-growing and high-performing team;<br><ul><li>You will, research, define and architect solutions for Source Control, Build and Deployment automation, Continuous Integration, Environment Monitoring, and general developer tools and provide strategic and tactical directions.</li><li>Build software releases and testing new code; as an automation expert using tools that automate the development, testing and integration of software releases/fixes</li><li>Design, develop, and implement software that defines and evolves our infrastructure.</li><li>Troubleshoot production issues and coordinate with the development team to streamline code deployment.</li><li>Implement automation tools and frameworks (CI/CD pipelines).</li><li>Analyze code and communicate detailed reviews to development teams to ensure a marked improvement in applications and the timely completion of projects.</li><li>Collaborate with team members to improve the company's engineering tools, systems and procedures, and data security.</li><li>Optimize the company's computing architecture.</li><li>Kubernetes Google Kubernetes Engine, Helm/Flux, Gitops, and Rancher.<br></li></ul>Cloud Automation and Management Terraform, Cloud Formation, or Pulumi in any of GCP, AWS, or Azure. Experience building and enforcing IAM strategies.<br><br>Configuration Management Saltstack, Chef, or Puppet.<br><br>CI/CD Building CI/CD pipelines, especially Docker-based pipelines (e.g., CircleCI, Buddy.works, CodeFresh, Jenkins X, ArgoCD).<br><br>Application Alerting and Monitoring ElasticSearch, Kibana, Prometheus, Grafana, Datadog<br><br>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T21:58:28.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "Oregon Metropolitan Area",
+    "postal_code": "97215",
+    "street_address": null,
+    "latitude": 45.553497,
+    "longitude": -122.90853
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong><strong>Centraprise</strong> is providing traditional staffing services, professional and technical staffing and management services to some of the country&apos;s leading companies with highest quality of service.<br><br>Due to our expertise across multi-platform technologies and skill-sets, <strong>Centraprise</strong> provides services to a wide spectrum of customers across verticals such as Banking, Financial Services, Healthcare, Human Resources, Telecom, Insurance, Hospitality, Retail &amp; Distribution and Manufacturing. Serving multinational customers, <strong>Centraprise</strong> Inc has gained vast experience and competence to deliver quality services at competitive prices.<br><br><strong><u>Job Description<br><br></u></strong><strong>Required Experience: Min 3-5 Yrs<br><br></strong><strong><u>Required Technical Skills<br></u></strong><ul><li> Bachelor\u2019s Degree/background in Computer Science.</li><li> Experience in software development: automation-related experience valued in particular.</li><li> Scripting languages such as bash, python, ruby, or complied languages such as C, C#, Java, Scala and Go are most relevant but others are acceptable. One higher level language is desired.</li><li> Hands on experience using Enterprise Tools such as App Dynamic, Grafana, Splunk, Dynatrace</li><li> Three Tier Support experience with DBs such as IBM, DB2, Sybase, Mongo, Green Plum, KDB</li><li> Professional ownership of issues.</li><li> Deep understanding of operating system level concepts such as processes, memory allocation, and the network stack; an understanding of how applications are affected by the above, and ability to debug same.</li><li> Generally speaking, practical experience running large scale online systems is always an advantage.</li><li> Awareness of, and ability to reason about modern software &amp; systems architectures, including load-balancing, queueing, caching, distributed systems failure modes, micro services, Cloud, etc<br></li></ul><strong><u>Desired Skills<br></u></strong><ul><li> Knowledge of messaging layer: MQ/CPS/XML</li><li> Knowledge of SFTP/Comet</li><li> ServiceNow</li><li> Prior experience as a developer/support role in a large-scale financial firm<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>Site Reliability Engineer<br><br></strong>Additional Information<br><br>All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Centraprise",
+    "link": "https://www.linkedin.com/company/centraprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

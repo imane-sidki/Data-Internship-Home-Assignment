@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Quality (SDET) Senior/Lead/Principal",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br><br></em><strong> Job Category </strong>Products and Technology<strong> Job Details <br><br></strong>As a member of the Salesforce, Integration Cloud (MuleSoft) Team, you will use Agile methodologies to plan, coordinate, and lead software projects that result in delightful experiences for customers.<br><br>You are a deep thinker with a natural curiosity to learn our customers\u2019 business and a dedicated advocate for great customer experience and world-class quality at scale in a complex modern microservices environment. You will also have a strong analytical mindset and will drive actions at the right level to ensure that we can maximize engineering productivity while delivering a stable, secure, and performant experience to our customers. Finally, you will be responsible for clear and courageous communication at all levels about the delivery risk and quality outlook of our products.<br><br><u><strong> Requirements (+Senior) <br></strong></u><ul><li>5+ years of software development with some exposure to quality (automation) engineering.</li><li>Experience building automation and automation frameworks helping teams to shift left.</li><li>Understanding of the test pyramid, and how to enable shift-left, execute, and monitor tests at each level.</li><li>Strong programming skills in either Java, Javascript - experience using Mulesoft or doing Salesforce customization or integration is a plus.</li><li>Ability to operate in a microservice-based architecture deployed on Kubernetes and AWS.</li><li>Hands-on experience with quality measurement, evaluation, and optimization.</li><li>Experience providing technical leadership and coaching to people across scrum teams.</li><li>Good Understanding of back-end systems and APIs. <br></li></ul><strong><u>Preferred Skills<br></u></strong><ul><li>Experience with some of the following quality tools: WebDriver.io, Selenium, RCPTT, RestAPI</li><li>Experience delivering SaaS applications at scale.</li><li>Experience with Chaos/Monkey testing at both infrastructure and UI layers.</li><li>Experience in using UI profilers and deep knowledge of chrome developer and testing tools.</li><li>Experience with APM and logging tools like New Relic and SumoLogic.</li><li>Understanding of and experience with specialized data platforms like Influx and Spark.</li><li>Hands-on Experience in Javascript, React, and NodeJS. <br></li></ul><strong><u>Responsibilities<br></u></strong><ul><li>Help build our automation tech foundation that will allow engineering teams to build, execute, and monitor various different types of tests across the testing pyramid. (#shiftleft)</li><li>Design and deliver automation as necessary with a quality mindset across the organization.</li><li>Consult with Engineering teams as necessary to address systemic quality gaps.</li><li>Provide oversight through code and design reviews for features and tests delivered by other developers within their supported scrum teams. Participate in higher-level reviews as necessary.</li><li>Maintain contact with support teams and customers to understand real-life customer journeys, build test cases.</li><li>Organize and drive cross-product testing prior to major releases.</li><li>Monitor customer experience and advocate for customer enhancements.</li><li>Monitor product and/or feature-level quality health metrics (testability, test health, test coverage, etc.)</li><li>Work closely with senior developers, PM, and UX to ensure features are delivered to meet business and quality requirements.</li><li>Troubleshoot production issues and develop test strategies to avoid these incidents.</li><li>Do the right thing, always, for our customers.<br></li></ul><strong><u>Benefits<br><br></u></strong>Competitive compensation<br><br>Employee Stock Purchase Program<br><br>OSDE 410 for the family group<br><br>Wellness and Education Reimbursement<br><br>Unlimited PTO<br><br>Parental Leave<br><br>Childcare subsidies<br><br>And more!<br><br><strong> Accommodations <br><br></strong>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br><br><strong> Posting Statement <br><br></strong>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br><br><u>Salesforce.com</u> and <u>Salesforce.org</u> are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. <u>Salesforce.com</u> and <u>Salesforce.org</u> do not accept unsolicited headhunter and agency resumes. <u>Salesforce.com</u> and <u>Salesforce.org</u> will not pay any third-party agency or company that does not have a signed agreement with <u>Salesfore.com</u> or Salesforce.org.<br><br>Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:22:10.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

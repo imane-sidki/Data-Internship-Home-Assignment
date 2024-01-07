@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Entry level)",
+    "industry": "Information Technology and Services,Financial Services,Hospital & Health Care",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Responsibilities:<br></strong><ul><li>Performs basic software activities related to the development of a software product or solution.</li><li>Determines and examines software alternatives.</li><li>Recommends and implements basic software solutions.</li><li>Works on software development projects, with guidance. </li><li>Taking customer reported incidents and calling/emailing customers to troubleshoot and resolve printing software related issues.</li><li>This includes recreating problems on local systems, researching documentation,</li></ul> <strong>Qualifications:<br><br></strong>Has a basic professional theoretical and conceptual knowledge in a specific field of software development, typically acquired via a bachelor's degree or professional experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T00:00:00.000Z"
+  },
+  "company": {
+    "name": "LanceSoft, Inc.",
+    "link": "https://www.linkedin.com/company/lancesoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

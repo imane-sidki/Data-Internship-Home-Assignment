@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><strong>About Weaveworks</strong> <br><br></strong>Weaveworks was founded in 2014 and we are the company behind popular Kubernetes tools like Flux, Scope, the official CLI for Amazon EKS called eksctl and the flagship enterprise product Weave Kubernetes Platform.<br><br>Our mission is to help the world\u2019s leading organizations to adopt Kubernetes and other Cloud Native technologies and working practices. Enterprises use our products and services to build better software and operate it reliably, at scale. Our approach brings together container-based application deployment, Kubernetes, and operations tooling in a model we call GitOps.<br><br><strong><strong>The role</strong> <br><br></strong>We want to bring an empathetic and collaborative engineer into one of our teams that focuses on a blend of open source and commercial code. We are building a product that enables organizations to operate with a GitOps mindset. This needs someone who is comfortable navigating sometimes unclear scenarios and is proactive in wanting to help figure things out. You will be helping to develop and maintain tools and products which make using cloud-managed and on-premise Kubernetes installations easy.<br><br><strong><u>What You\u2019ll Be Doing</u></strong><ul><li>Hands-on development work in Golang</li><li>Working on building out our progressive delivery capabilities around the Weave GitOps Core product and the open source technologies that are its foundation</li><li>Enjoys iterative development and likes making things progressively better working in an agile process</li><li>Knows how to balance maintenance tasks with delivery of new features</li><li>Likes to think about our end users and cares about their experience. </li><li>Is comfortable collaborating with others; UX, design, QA, customer care</li><li>Collaborating with the product manager to:</li><ul><li>Clarify and refine issues/requests/features</li><li>Contribute to sprint planning and sharing ideas</li><li>Communicate with our external partners</li></ul><li>Communicating with the open source community</li><li>Participating in wider Weaveworks engineering culture (lunch and learns/sprint reviews)</li></ul><strong><strong>We\u2019re looking for you if you:</strong> <br></strong><ul><li>Coding experience within a commercial context</li><li>Basic understanding of Kubernetes and/or Cloud Native technology in general</li><li>Have an understanding of Git</li><li>See the value in unit and integration tests</li><li>Are comfortable working in a fully remote and distributed team</li><li>Have a team-first mindset and demonstrate curiosity</li><li>Like working in an agile environment and getting things done iteratively to make things better for our users</li><li>Enjoy communicating, collaborating, and helping each other out :)</li><li>Are familiar with or have experience with one or more public cloud providers (Google Cloud, AWS, Azure)</li></ul><strong><strong>We really want to hear from you if you:</strong> <br></strong><ul><li>Think this sounds cool and are unsure if you should apply, especially typically underrepresented folks, please apply anyway </li><li>Are excited by developer tooling </li><li>Want to contribute to making a corner of the tech industry more inclusive and welcoming to all. </li><li>Communicates proactively and has a team-first mindset</li><li>Contributes to an inclusive and collaborative environment</li><li>Demonstrates curiosity and willingness to learn</li></ul><strong><strong>Sounds good? Excellent!</strong> <br><br></strong>Weaveworks is committed to diversity in its workforce and is proud to be an equal opportunity employer. Weaveworks considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class. Weaveworks is an Affirmative Action and Equal Opportunity Employer.<br><br><strong>Black lives matter.<br><br></strong><em>By submitting your interest in this job, you agree to receive text notifications with additional steps to complete your job application. You will receive up to 6 messages from the number \"63879\". Message &amp; data rates may apply. Please refer to our privacy policy for more information.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Weaveworks",
+    "link": "https://uk.linkedin.com/company/weaveworks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

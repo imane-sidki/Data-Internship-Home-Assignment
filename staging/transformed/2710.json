@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p><u>Site Reliability Engineer (SRE)</u></p><p>Palo Alto, CA, United States</p><p><br></p><p><br></p><p><strong><u>About Yo Labs:</u></strong></p><p>Technology has changed daily life in a way no one could have imagined.It\u2019s made us more productive, capable and connected.But it has come at a cost.We\u2019re productive, but overwhelmed.Capable but paralyzed by too many choices.Connected, but only if social media counts.Living this way creates a void in our daily lives.Yo Labs is here to change that.Our team is committed to alleviating the mental load that our modern world has created by putting human connection back into technology and care-taking at the heart of everything we create.</p><p><br></p><p>As part of a growing team, you will work on various aspects of the tooling and infrastructure, including security and identity, kubernetes clusters, CI/CD systems, services federation, mesh technologies.</p><p><br></p><p><strong><u>Job Duties:</u></strong></p><ul><li>Design and build tooling, automation, and services that enable productivity across the entire organization.</li><li>Improve security posture of the organization by way of tooling, policy, example code, and publishing best practices.</li><li>Design and automate lifecycle for cloud resources including EKS/Kubernetes, VMs, IoT Core, IAM users/roles, etc\u2026</li><li>Design and implement observability solution enabling developers self service debugging and alerting capabilities.</li><li>Dive and support our IDP and SSO solution from corp network into cloud/production systems.</li><li>Help to manage CI/CD systems, tooling, and general automation.</li><li>Define, build, and evangelize best practices for a kubernetes based architecture.</li></ul><p><br></p><p><strong><u>Qualifications:</u></strong></p><ul><li>BA/BS degree or equivalent experience</li><li>10+ or more years of system and site reliability engineering experience</li><li>Knowledge of the primary AWS services (EC2, ELB, RDS, Route53 &amp; S3)</li><li>Knowledge of IDPs such as Google\u2019s G-Suite and Okta</li><li>First hand experience kubernetes running in AWS</li><li>Experience deploying microservices using an envoy based mesh</li><li>Leading highly-available and fault-tolerant enterprise and web-scale software deployments</li><li>Infrastructure automation through code and general scripting (E.g. go, bash, python)</li><li>Configuration management using Terraform</li><li>Strong practical Linux systems administration skills in a cloud and containerized environment</li><li>Experience managing cloud operations, including data assurance, monitoring, alerting and notifications</li><li>Demonstrated ability to think strategically about business, product, and technical challenges</li><li>Experience leading discussions across teams regarding trade-offs, best practices, and risk mitigation.</li></ul><p><br></p><p><strong><u>What We Offer:</u></strong></p><ul><li>Competitive compensation package</li><li>Comprehensive benefits</li><li>Pet Insurance</li><li>Paid Parental Care Leave</li><li>Employee Referral Program</li><li>Educational Assistance</li><li>Flexible Work Program</li><li>Volunteer time Off</li><li>Total Well Being Program</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T06:20:37.000Z"
+  },
+  "company": {
+    "name": "Yo Labs",
+    "link": "https://www.linkedin.com/company/yo-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

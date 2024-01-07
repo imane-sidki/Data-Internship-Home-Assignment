@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Are you passionate about working on products that make a difference for your customers? Do you enjoy building large scale applications that are powered by huge data sets? Do you value working in an environment where you're empowered to make key technical decisions across a full stack of technologies? If so, a role on Splunk Security Analytics team would be a great fit for you.<br><br>Splunk Enterprise Security is a sophisticated SIEM built atop Splunk\u2019s data platform with lots of moving parts. We help thousands of clients as they identify and protect their assets from cyber threats, all over the world. On any given day, our software needs to handle thousands of users, petabytes of data, and unique usage patterns across different deployment topologies.<br><br>Splunk ES is at the forefront of data processing. As we take the product to address the next anvil of data challenges that include real-time streaming data processing, integration of disparate and distributed data sources, we need strong engineers to help lead us from the front. That\u2019s where you come in.<br><br>We are a passionate team who care deeply about our customers and our teammates. In this role, you will work directly with Product Management, our Design and other engineering teams to help derive the best experience for the customer. We have a lean process that focuses on empowering and serving our engineers as opposed to just directing them.<br><br>If staying technically challenged and learning from others is meaningful to you, you'll love our internal technical seminars and company-wide hackathons.<br><br><strong>Responsibilities<br></strong><ul><li>Achieve a deep knowledge of our product architecture, usage patterns, and real world use-cases in order to better understand what solutions will bring value to our customers.</li><li>Develop new product features, clarify and improve designs, and help put together a plan for how to make it happen (using Agile Methodologies).</li><li>Collaborate closely with Product Management and members of our team to design and create comprehensive end-to-end user workflows.</li><li>Keep product quality top of mind by extensively using Continuous Integration/Continuous Development (CI/CD), testing technologies (unit, functional, performance), and best software development practices.</li><li>Champion, coach and mentor others to solve problems in new and creative ways with the goal to continuously improve team efficiency and morale!</li></ul><strong><strong>Requirements <br></strong></strong><ul><li>Programming experience using languages such as Python or C/C++.</li><li>Familiarity with modern JavaScript and UI frameworks similar to React, Redux or Angular.</li><li>Deep understanding of SQL and NoSQL database technologies at scale.</li><li>Experience working on low-latency, high throughput real-time data processing initiatives.</li><li>Knowledge of distributed computing architectures and principles that solve for scalability, consistency, availability, performance, and reliability.</li><li>Experienced with an Agile DevOps engineering environment that effectively uses CI/CD pipelines (Jenkins, GitLab, etc.).</li><li>Ability to learn new technologies quickly and to understand a wide variety of technical challenges to be solved.</li><li>Strong collaborative and interpersonal skills, specifically a proven ability to effectively work with others within a dynamic environment.</li><li>12 years of related experience with a technical Bachelor\u2019s degree; or equivalent practical experience; or 6 years and a technical Master\u2019s degree; or a Ph.D. with 5 years experience; or equivalent practical experience.</li></ul><strong><strong>What We Offer You <br></strong></strong><ul><li>A constant stream of new things for you to learn! We're always expanding into new areas, bringing in open source projects and contributing back, and exploring new technologies.</li><li>A set of exceptionally talented and dedicated peers, all the way from engineering to product management and customer support.</li><li>Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe mentors help both sides of the equation.</li><li>A stable, collaborative and supportive work environment.</li><li>Fun. It is one of our core tenets.</li><li>Work life balance, with efficient work from home environments today and modern offices standing by for future times.<br></li></ul>We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.<br><br>For job positions in San Francisco, CA, and other locations where required, we will consider for employment qualified applicants with arrest and conviction records<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:04:39.000Z"
+  },
+  "company": {
+    "name": "Splunk",
+    "link": "https://www.linkedin.com/company/splunk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 172000,
+    "max_value": 257000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

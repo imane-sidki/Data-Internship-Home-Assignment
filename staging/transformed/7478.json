@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer in Test",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>About Us<br><br></u></strong><strong>National Grid is hiring a Software Engineer in Test for our IT group in Waltham, MA.<br><br></strong>Every day we deliver safe and secure energy to homes, communities, and businesses. We are there when people need us the most. We connect people to the energy they need for the lives they live. The pace of change in society and our industry is accelerating and our expertise and track record puts us in an unparalleled position to shape the sustainable future of our industry.<br><br>To be successful we must anticipate the needs of our customers, reducing the cost of energy delivery today and pioneering the flexible energy systems of tomorrow. This requires us to deliver on our promises and always look for new opportunities to grow, both ourselves and our business.<br><br><strong>Job Purpose<br><br></strong>We are looking for a Software Engineer in Test or Sr Quality Engineer who can build the knowledge of our systems and implement improvements for our Customer experience and engineering processes. We also want professionals who want to use their technical skills to build an intuitive and SAfe digital experience. This role will drive the test strategy execution as well as support efforts to build upon our automation solutions and establish overall Quality Engineering strategy to manage NationalGrid\u2019s product(s)/platform(s) quality life cycle.<br><br><strong><u>Key Accountabilities<br></u></strong><ul><li>Drive the Software Quality Engineering efforts across the unit, module, system, and user acceptance testing </li><li>Work with multiple teams and define QA tasks with priorities </li><li>Represent QA teams and participate in planning and execution using agile methodologies such as SCRUM and serve as a key driver to improve product quality. </li><li>Work with Product Line Leaders (PLLs) to understand product requirements &amp; vision. </li><li>Participate in all sprint activities including, daily scrums, grooming/sizing, planning, requirements gathering, story writing, and solution design sessions </li><li>Create and execute test strategies to ensure both scope, metrics and schedules are aligned</li><li>Develop and implement test automation solutions that may include areas related to Data, API, and Frontend specific functionality</li><li>Incorporate solutions into the CI/CD pipeline where applicable</li><li>Ensure compliance &amp; regulatory controls, assessment of on-going product/platform changes, and for monitoring National Grid quality standards.</li><li>Develop ONE team mindset across geographically distributed Quality Engineering</li><li>Lead continuous improvement of application solution &amp; design, and Software Development Life Cycle (SDLC) processes through the integration of internal and external interfaces.</li><li>Foster organizational compliance to the quality system including ongoing training and education on NationalGrid SDF ~ Software Development framework</li><li>Interact with stakeholders at multiple levels and dynamically lead business and product/platform teams to define and deliver solutions to establish standard processes<br></li></ul><strong><u>Supervisory/Interpersonal- Experience Required<br></u></strong><ul><li>Able to clearly communicate technical concepts to both technical and non-technical audiences.</li><li>Demonstrated ability to interface effectively and collaborate with third party suppliers/vendors.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Bachelor\u2019s Degree in Computer Science or in \u201cSTEM\u201d Majors with 7+ yrs experience in quality engineering, or Master\u2019s with 5+ yrs experience</li><li>5+ yrs developing automation solutions using tools like Selenium, ReadyAPI, Rest Assured</li><li>2+ yrs driving test validation efforts to support product quality and services</li><li>2+ yrs implementing data validation/quality processes</li><li>2+ yrs using test/application management tools like Jira, XRay, Azure DevOps, Confluence</li><li>2+ yrs with one or more scripting languages like Perl, Python, Bash</li><li>2+ yrs automation experience with tools such as ReadyAPI, Postman, RestAssured, Selenium, Appium</li><li>2+ yrs working with DevOps tools such as Jenkins, BitBucket, and Virtualization</li><li>2+ yrs using Database Systems like Sequel Server or Oracle</li><li>2+ yrs using Java, C#, or other Object Oriented programming languages</li><li>2+ yrs working in cloud computing environments such as Microsoft Azure and Amazon Web Services</li><li>At least one year querying databases using SQL, performing data mining and working with data analysis involving business metrics<br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li>Experience with system and application performance measurement and troubleshooting tools</li><li>Familiarity with modern web infrastructure technologies, clustering, load-balancing, and distributed systems</li><li>Familiarity with MuleSoft</li><li>Familiarity with container technologies<br></li></ul><strong>More Information<br><br></strong>This position has a career path which provides for advancement opportunities within and across bands as you develop and evolve in the position; gaining experience, expertise and acquiring and applying technical skills. Internal candidates will be assessed and provided offers against the minimum qualifications of this role and their individual experience.<br><br><strong><em>National Grid is an equal opportunity employer that values a broad diversity of talent, knowledge, experience and expertise. We foster a culture of inclusion that drives employee engagement to deliver superior performance to the communities we serve. National Grid is proud to be an affirmative action employer. We encourage minorities, women, individuals with disabilities and protected veterans to join the National Grid team.</em></strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:23:07.000Z"
+  },
+  "company": {
+    "name": "National Grid",
+    "link": "https://uk.linkedin.com/company/national-grid"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Waltham",
+    "region": "MA",
+    "postal_code": "02154",
+    "street_address": null,
+    "latitude": 42.37617,
+    "longitude": -71.23899
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Higher Education,E-Learning,Computer Software",
+    "description": "<p><strong>About Sketchy:</strong></p><p>Sketchy is a visual learning platform for students &amp; professionals to effortlessly learn and recall information through art, storytelling and spaced repetition. The company was born when four medical students began creating sketched stories to distinguish and memorize similarly named viruses, and they realized that the same learning methodologies could be used across a variety of subjects.</p><p><br></p><p>Since its inception in 2013, Sketchy has become the premiere learning destination for medical students around the world. It\u2019s used by 1 in 2 medical students in the United States, has an alumni base of over 300,000 students and helps students answer questions 77% faster than conventional teaching.</p><p><br></p><p>Sketchy is a TCG (The Chernin Group) portfolio company (joining other companies such as Headspace, Food52, Barstool Sports and Crunchyroll) and a Reach Capital portfolio company (joining other start-up companies that bring a playfulness to learning).</p><p><br></p><p><strong>About the Role</strong></p><p><br></p><p>We are looking for a Data Engineer who is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The individual will be responsible for expanding and optimizing our data and data pipeline architecture and optimizing data flow and collection for cross-functional teams. You will play an integral role in helping us become more data-aware as a company and enabling data insights across our teams.</p><p><br></p><p><strong>Working at Sketchy</strong></p><p><br></p><p>We are headquartered in Los Angeles but have teammates that collaborate remotely from cities across the United States. As travel and working conditions return back to \u201cnormal\u201d, we will find opportunities to increasingly meet and collaborate in person.While you will always have a seat to work from our Los Angeles HQ, our transition to a remote-first company will allow you to work from the location of your choice in select states across the country</p><p><br></p><p><strong>Location:This role is open to remote employees in select US states:Texas, California, New York, Hawaii, Illinois, Colorado, Massachusetts, Washington, and Washington, D.C</strong></p><p><br></p><p><strong>Key</strong><strong>Responsibilities:</strong></p><p><br></p><ul><li>Create and maintain optimal data pipeline architecture</li><li>Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery re-designing infrastructure for greater scalability and usability</li><li>Build analytics tools that utilize the data pipeline to provide actionable insights</li><li>Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources</li><li>Keep our data separated and secure across national boundaries through multiple data centers</li></ul><p><br></p><p><strong>Preferred Experience:</strong></p><p><br></p><ul><li>3+ years experience in Data Engineering</li><li>Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL)</li><li>Working knowledge of message queuing, stream processing, and highly scalable \u2018big data\u2019 data stores</li><li>Experience building and optimizing \u2018big data\u2019 data pipelines, architectures and data sets</li><li>Strong analytic skills related to working with unstructured datasets</li><li>Must have experience in building reports, dashboards, and/or data modeling layers in Looker, Tableau or Mode</li><li>Experience with relational SQL and NoSQL databases</li><li>Experience with data pipeline and workflow management tools</li><li>Experience with GCP services</li><li>Experience with object-oriented/object function scripting languages</li><li>Self-starter who is excited to be part of a growing startup company</li><li>Able to get into the weeds and propose and implement solutions without hand holding</li></ul><p><br></p><p><strong>Education:</strong></p><p><br></p><ul><li>Bachelor's degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field (Master's degree in a similar field preferred but not required)</li></ul><p><br></p><p><strong>What We Offer:</strong></p><p><br></p><ul><li>Competitive compensation plan</li><li>Innovative, high growth and collaborative culture</li><li>Generous PTO package with floating holidays</li><li>Fun team events (Monthly and virtual for now)</li><li>Great Benefits including: Medical, dental, vision, 401k, and more</li></ul><p><br></p><p><em>Sketchy Group LLC is an Equal Opportunity Employer. All applicants will receive consideration without discrimination on the basis of race, religion, color, sex, age, sexual orientation, marital status, national origin, disability or any other basis prohibited by applicable law.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:22:38.000Z"
+  },
+  "company": {
+    "name": "Sketchy",
+    "link": "https://www.linkedin.com/company/sketchymedical"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

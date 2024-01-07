@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Title:Software Engineer- Wallets team</strong></p><p><strong>Location: Remote</strong></p><p><strong>Duration: PERM</strong></p><p><strong><u>Job Description:</u></strong></p><p><strong><u>What you'll work on:</u></strong></p><ul><li>Design and develop resilient and scalable solutions that receive, custody, and broadcast digital assets for millions of users across all major blockchain networks</li><li>Work on critical, high-value software for the client crypto currency exchange</li><li>Solve complex problems unique to the crypto currency space that use applied cryptography and strict security protocols</li><li>Work with modern, state-of-the-art software development, including CI/CD, infrastructure as code, containers, and microservices architecture</li><li>Work with a diverse set of languages and frameworks, including Java microservices, TypeScript, Python, a suite of AWS services, and various databases</li><li>Mentor and train other engineers using your expertise in software development</li><li>Be an integral member of an agile software engineering team using SCRUM methodology</li></ul><p><strong><u>What you'll bring:</u></strong></p><ul><li>5+ years designing software and coding professionally</li><li>Computer Science degree preferred</li><li>An interest in the blockchain and cryptocurrency space</li><li>Proficient with Java</li><li>Proficient with a scripting language such as Python, Nodejs and/or PHP</li><li>Comfortable and proficient in a Linux terminal is required</li><li>Experience building and testing microservices with REST, preferably in Java</li><li>Capable of taking a new feature from the software design stage, through the development process, and ship it to production</li><li>Broad knowledge of SQL and relational database design</li><li>Some knowledge of the mechanics of applied cryptography including hashing, randomization, public-key encryption, symmetric encryption, and elliptic curves</li><li>An eye for detail</li><li>Strong communication skills with the ability to explain complex problems and concepts to people of all levels of expertise</li><li>A passion for learning and sharing what you learn</li><li>Comfort and experience shifting gears quickly, learning on the fly, and working on an evolving product without having all of the answers</li></ul><li><br></li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T14:09:26.000Z"
+  },
+  "company": {
+    "name": "Denken Solutions, Inc",
+    "link": "https://www.linkedin.com/company/denkensolutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

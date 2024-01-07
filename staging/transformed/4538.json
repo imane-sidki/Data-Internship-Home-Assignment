@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Entertainment",
+    "description": "<strong><u>Company Overview<br><br></u></strong>WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world\u2019s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.<br><br>HBO Max is where storytelling takes center stage and where creatives find a home with the support and resources to do their best work, no matter the genre or format. Whatever the viewer wants to watch is front and center and more of what they crave is easily discovered. It is where our exclusive HBO Max Originals and iconic entertainment brands thrive, with HBO, Warner Bros., DC, Turner Classic Movies, Cartoon Network and more delivering the greatest array of series, movies and specials for audiences of all ages. HBO Max launched in the US in May 2020 and will launch in Latin America and Europe during 2021.<br><br>Join us. Shape your story here.<br><br><strong>The Job<br><br></strong>We are the team responsible for the HBO Max data pipeline. The data pipeline is where we instrument, store and model engagement and reference data for use by analysts, data scientists and engineers to enhance and improve the overall customer experience across our products and content offerings.<br><br>At HBO as a Software Engineer I on the Data Pipeline team, you will design, develop and support the services and systems for instrumentation, validation, durable delivery, and integration into batch and stream based environments. We run services that support the interactions of millions of concurrent viewers in a 24/7 environment. We are experts in our craft and pride ourselves on being knowledgeable across a wide range of business needs and product functionality. You will also partner with our messaging and experimentation platform teams, to ensure that we have the ability to send messages to custom segments and test different experiences among multiple groups, to see which works the best.<br><br><strong>The Daily<br></strong><ul><li>Build and support a data pipeline platform that allows a customer\u2019s behavioral data to directly impact their individualized experiences in the HBO Max product.</li><li>Grow your ability to design, implement, and own critical features of a product used by millions of customers</li><li>Get the opportunity to work in multiple areas of the product, both on the client-side and server-side</li><li>Learn to evaluate multiple technical approaches and drive consensus with your engineering peers</li><li>Use data to solve real world problems and improve customer experience</li><li>Have access to experienced engineers as mentors and resources</li><li>Have a solid understanding of common software data structures and algorithms</li><li>Be a quick learner that can leverage surrounding resources to solve their problems</li><li>Be passionate about software engineering with a strong sense of ownership for the code that you and your team write</li><li>Success in designing and building highly available systems at scale</li><li>Seek self-improvement and are adaptable to suggestions and feedback<br></li></ul><strong><u>The Essentials<br></u></strong><ul><li>BS degree in Computer Science, or a related field with 2+ years of relevant experience</li><li>2+ years of professional development experience using languages such as Java, C, C++, C#, Javascript, Typescript, Golang</li><li>Passion for working with high scale data pipelines.<br></li></ul><strong>The Nice to Haves<br></strong><ul><li>Experience with query languages</li><li>Experience working with low-latency, services operating in a 24x7 environment</li><li>Experience with Cloud Computing platforms (AWS, Google app engine, Azure, Kubernetes)</li><li>Full-stack industry experience, or hands-on familiarity with both client and server technology<br></li></ul><strong>The Perks<br></strong><ul><li>Exclusive WarnerMedia events and advance screenings</li><li>Paid time off every year to volunteer for eligible employees</li><li>Access to well-being tools, resources, and freebies</li><li>Access to in-house learning and development resources</li><li>Part of the WarnerMedia family of powerhouse brands<br></li></ul>Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:50:10.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

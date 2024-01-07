@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Bioinformatics Scientist, Cancer Screening Research",
+    "industry": "Biotechnology,Hospital & Health Care,Pharmaceuticals",
+    "description": "<strong><u>Company Description<br><br></u></strong>Company Description: Guardant Health is a leading precision oncology company focused on helping conquer cancer globally through use of its proprietary blood tests, vast data sets and advanced analytics. The Guardant Health Oncology Platform leverages capabilities to drive commercial adoption, improve patient clinical outcomes and lower healthcare costs across all stages of the cancer care continuum. Guardant Health has launched liquid biopsy-based Guardant360\u00ae, Guardant360 CDx and GuardantOMNI\u00ae tests for advanced stage cancer patients. These tests fuel development of its LUNAR program, which aims to address the needs of early-stage cancer patients with neoadjuvant and adjuvant treatment selection, cancer survivors with surveillance, asymptomatic individuals eligible for cancer screening and individuals at a higher risk for developing cancer with early detection.<br><br><strong><u>Job Description<br><br></u></strong><strong>About the role:<br><br></strong>At Guardant Health, we are committed to positively and significantly impacting patient health through technology breakthroughs that address long-standing unmet needs in oncology. As the leader in the field of liquid biopsy, Guardant Health is looking for a bioinformatics scientist excited about conducting research in an interdisciplinary environment to enable breakthroughs in cancer patient care. We are looking for an individual who will take ownership of innovative projects that utilize high-thoughput signals as well as novel assay development, and are geared to contribute to Guardant\u2019s vision of Cancer Care through liquid biopsies, with an emphasis on Early Cancer Detection.<br><br>We are working at the forefront of scientific and technological innovations, developing novel methodologies that deliver substantial clinical impact to patients. If this is something you are pattionate about come join us!<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Design, prototype, and analyze statistical modeling approaches on NGS and novel data types</li><li>Explore and characterize signals relevant to early cancer detection from large-scale data</li><li>Communicate analysis results to stakeholders across computational and experimental teams</li><li>Ability to take ownership of exploratory projects and identify potential new product features</li><li>Contribute to a highly collaborative work environment, participating in brainstorming sessions and maintaining a motivating work environment</li><li>Develop reproducible analyses for research and development activities</li><li>Provide written documentation and specifications<br></li></ul><strong><u>About You<br></u></strong><ul><li>Dedicated to making a difference in a rapid-paced startup environment</li><li>Ph.D. in computer science, statistics, computational biology or related fields</li><li>Experience with analysis of high-throughput NGS data in the context of genomics, epigenomics or other applications.</li><li>Strong background in statistical fundamentals and analysis, including inference approaches and iterative model development</li><li>5+ years experience in industry/academia post-graduation</li><li>Experience developing and implementing novel methods in an open-ended data-limited setting</li><li>Ability to design and execute analyses in an open-ended, data-limited setting</li><li>Proficiency with a high level scripting language (e.g. Python, R)</li><li>Proficiency with Linux command-line and version control tools (git and GitHub)</li><li>Excellent communication skills in an interdisciplinary environment<br></li></ul><strong>PREFFERED<br></strong><ul><li>Background in immunology and/or cancer immunology</li><li>Familiarity with high-performance computing infrastructures (e.g., SGE, Spark)</li><li>Experience leveraging AWS-based services (e.g., EC2, S3) to speed analyses<br></li></ul><strong>If these descriptions fit your interests and background, we look forward to discussing our exciting projects with you!<br><br></strong>Additional Information<br><br><em>Guardant Health is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T20:34:27.000Z"
+  },
+  "company": {
+    "name": "Guardant Health",
+    "link": "https://www.linkedin.com/company/guardanthealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 119000,
+    "max_value": 201000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94063",
+    "street_address": null,
+    "latitude": 37.482323,
+    "longitude": -122.216805
+  }
+}

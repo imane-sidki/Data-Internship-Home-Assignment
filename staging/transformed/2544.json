@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Fullstack Software Engineer",
+    "industry": "Internet,Financial Services,Consumer Services",
+    "description": "<p>At Starship, we\u2019re working hard to create the healthy future we all deserve by transforming the way people pay for healthcare. We\u2019re passionate about empowering our customers to take greater control of their financial health and personal wellness, building a better tomorrow through superior technology and user experience.</p><p><br></p><p>Launched in 2018, our team of engineers, designers, and strategists are redefining the $65 billion health saving industry by building innovative solutions for saving, spending, and investing for healthcare. We\u2019re bringing together exceptional talent from various disciplines and industries to shape the future of health savings and improve the lives of our customers.</p><p><br></p><p>As Software Engineer, you\u2019ll work alongside our Senior Engineering Manager to take our product to the next level by tightening integration and enhancing compliance with industry standards. In this role, you\u2019d work on architecting, designing, and implementing a system where delivering secure information in real time is essential.</p><p><br></p><p>We seek out engineers who are hard-skilled software pros but also thinkers and tinkerers who find creative solutions for complex problems and challenge the status quo. We love automation, code review, and continuous integration, and you should too. At Starship, we\u2019re constantly iterating and improving our products to provide our members with the best experience possible.</p><p></p><p><strong>What you\u2019ll be doing</strong></p><ul><li>Designing scalable and resilient data pipelines and handle exponential member growth with confidence</li><li>Contributing to an event driven software stack to keep auditors happy</li><li>Designing data models and workflows to make use of health financial data</li><li>Collaborating with engineers and product managers to make sure we're building the right solutions for the right problems</li><li>Developing new user-facing features</li><li>Building reusable code and libraries for future use</li><li>Ensuring the technical feasibility of UI/UX designs</li><li>Optimizing application for maximum speed and scalability</li><li>Thoughtful communication through code and design review</li><li>Striving to build great experiences, and putting users ahead of technology</li><li>Collaborating with engineers and product managers to make sure we're building the right solutions for the right problems</li><li>Improving our current tech-stack, found here https://stackshare.io/starship/starship</li></ul><p><br></p><p><strong>What you'll bring to the team</strong></p><ul><li>A willingness to work in a fast-paced startup environment</li><li>Ability to dive into complex systems and understand how they work</li><li>Experience in implementing testable business logic that is secure and easy to maintain</li><li>Experience with React, React Native, Javascript/Typescript, and Node.js</li><li>Experience in building and consuming various API endpoints (GraphQL) and working on payments features or companies</li><li>Familiarity with message brokers and event streams\u2014e.g., AWS SNS, SQS, Azure ServiceBus, or similar</li><li>Experience working in high security environments\u2014e.g., payments, healthcare</li><li>Experience in building both web and app products</li><li>iOS and Android experience is a plus</li><li>Motion experience is a plus</li><li>You work with a sense of empathy for others, both end users and your fellow engineers</li></ul><p><br></p><p><strong>What Starship offers</strong></p><ul><li>Welcoming, diverse, and interesting colleagues from all walks of life</li><li>Competitive compensation packages, including equity</li><li>Comprehensive benefits package, including medical, dental, and visioninsurance</li><li>Of course, the best HSA!</li><li>Flexible schedules and time off</li><li>New equipment so you can do your best work</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:23:34.000Z"
+  },
+  "company": {
+    "name": "Starship",
+    "link": "https://www.linkedin.com/company/starshiphsa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

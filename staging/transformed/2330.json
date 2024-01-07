@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Management Consulting,Accounting,Information Technology and Services",
+    "description": "<p>The ideal candidate's favorite words are INNOVATE. COLLABORATE. BUILD. CREATE. SOLVE. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Lead Data Science and Machine Learning intensive engagements with a primary focus on client delivery and project management of teams with Data Scientists, Data Engineers, Business Consultants and translate advanced business analytics problems into technical approaches that yield actionable recommendations, in diverse domains (product development, marketing research, supply chain, technology process, and public policy)</li><li>Undertake necessary statistical analysis using Natural Language Processing to mine unstructured data, using a variety of methods (document clustering, topic analysis, names entity recognition, document classification, and sentiment analysis) as part of the overall Machine Learning initiative set forth for the engagement</li><li>Analyze structured and unstructured data, understand and implement algorithms, and support analysis using advanced statistical and mathematical methods form emerging areas in pattern analysis, machine learning, deep learning, data mining, econometrics, and operations research</li><li>Lead workshops around emerging technologies in associated areas of Machine Learning, with both business clients and technical clients utilizing processes and best practices to plan, lead, and execute delivery of artificial intelligence engagements across different areas (technology, financial services, emerging tech, government agencies - federal, state, local, and utilities)</li><li>Lead in a fast-paced and dynamic environment utilizing virtual and face-to-face interactions; manage complex work streams, expectations, budgets, deliverables, risks, and multiple responsibilities using structured approaches for operational excellence while communicating results to executive level audiences</li><li>Plan and manage objectives and key deliverables using analytics processes to mitigate risks in data, modeling, validation, and delivery\u202f</li></ul><p><br></p><p><br></p><p><strong>Qualifications</strong></p><ul><li>A minimum of five years of technical data science experience; U.S. Federal government consulting experience preferred</li><li>Bachelor's degree from an accredited college/university; Masters orPhD in Data Science, Engineering, Computer Science preferred</li><li>Experience performing data science from data discovery, cleaning, model selection, validation, and deployment; experience coding artificial intelligence methods using object-oriented programming in a software development process, and ability to restructure, refactor, and optimize code for efficiency</li><li>Expert problem-solving ability through the use and/or development of data science algorithms, models, testing, etc.; ability to utilize a diverse array of technologies and tools as needed, to deliver insights, such as R, Python, Spark, Hadoop and emerging Cloud Capabilities on Azure, GCP and/or AWS; experience with command-line scripting, data structures, and algorithms</li><li>Ability to travel as required to support firm engagements</li><li>Ability to obtain a U.S. Federal government security clearance within a reasonable period of time, which requires U.S. Citizenship</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T19:02:52.000Z"
+  },
+  "company": {
+    "name": "Method3",
+    "link": "https://www.linkedin.com/company/method3"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

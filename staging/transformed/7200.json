@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Release Engineering",
+    "industry": "Computer Software,Financial Services,Internet",
+    "description": "At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives. We\u2019re a purpose-driven company, and our beliefs are the foundation of how we conduct business every day. We\u2019re guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Collectively, these values inspire us to work together as One Team with our customers at the center of everything we do, and to take care of ourselves, each other, and the communities in which we live and work. We challenge the status quo, ask questions, and find solutions. Join us as we enable the hopes, dreams, and ambitions of millions of people around the world.<br><br><strong>Job Description Summary:<br></strong>The mission of the Mobile Release team is to provide efficient high-quality releases with guardrails and visibility for all Venmo applications. We are responsible for taking the code from our engineers all the way into the hands of our end users. We are pushing the envelope with several exciting new capabilities \u2013 fully automated release cycle, automated staged production rollouts, internal employee dogfooding. In this role you will: Build world class release platform exclusively for mobile applications at Venmo. Build automation across our services \u2014 change management, release state machine and modeling, automated issue tracking, key quality signals for coverage and health, and provide mitigation tooling via our hotfix.<br><br><strong>Job Description:<br></strong><strong><u>About The Role<br></u></strong>Venmo is a mobile first company, and it\u2019s crucial to quickly ship features to our end users. We are building a fully automated self-serve platform. You can play a key role in shaping the future of this platform.<br><br>The mission of the Mobile Release team is to provide efficient high-quality releases with guardrails and visibility for all Venmo applications. We are responsible for taking the code from our engineers all the way into the hands of our end users. We are pushing the envelope with several exciting new capabilities \u2013 fully automated release cycle, automated staged production rollouts, internal employee dogfooding.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Build world class release platform exclusively for mobile applications at Venmo. </li><li>Build automation across our services \u2014 change management, release state machine and modeling, automated issue tracking, key quality signals for coverage and health, and provide mitigation tooling via our hotfix. </li><li>Work with Golang, backed by MySQL, gRPC </li><li>Implement a structured release process for a complex ecosystem. </li><li>Monitor and alert mechanisms for both deployment and rollout processes. </li><li>Enhance and provide the tooling and dashboard for all our developers and release coordinators. <br><br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Experience with at least one or more languages: Golang, Python, C++, Kotlin, Swift </li><li>Sound understanding of computer architecture and CS fundamentals. </li><li>Experience with one or more of the programming languages (Golang, Python, Kotlin, etc) and data stores (MySQL, Cassandra, Redis, etc) and distributed systems design <br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Bachelor's degree in Computer Science or related technical field or equivalent practical experience </li><li>At least 3 years of software engineering experience </li><li>Experience with database design and architecture, i.e. data modeling and experience with design patterns </li><li>Understanding of mobile app building, publishing to app stores. </li><li>Understanding of continuous integration and continuous delivery </li><li>Understanding of cloud computing </li><li>Understanding the applications of Machine Learning in classification problems </li><li>Experience in microservice architecture design </li><li>Excellent understanding of testing methodologies: Acceptance Testing, Integration Testing, Interface Testing, Mocking<br><br></li></ul>For more than 20 years, PayPal has remained at the forefront of the digital payment revolution. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, our open digital payments platform gives PayPal\u2019s 400 million active account holders the confidence to connect and transact in new and powerful ways. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying, or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.<br><br>PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.<br><br>REQ ID R0072952",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:30:05.000Z"
+  },
+  "company": {
+    "name": "Venmo",
+    "link": "https://www.linkedin.com/company/venmo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

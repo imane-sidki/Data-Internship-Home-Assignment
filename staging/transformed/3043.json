@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad 2022",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.<br><br>As a recent university grad, you\u2019ll contribute meaningful work to our growing engineering team. Recent grads in the past have built a real-time high-throughput data processing pipeline that ties our infrastructure together, built out our proprietary financial platform that is central to our long term company mission, and worked to expand our extensive automated testing framework.<br><br>You\u2019ll be building out new features on a team that fits your skill-set and interests. We look for students that have a passion to change the consumer finance industry for the better.<br><br><strong><u>Past New Grad Projects<br></u></strong><ul> <li><strong>Vijay</strong> works on developing and growing Affirm\u2019s in-store product . Vijay\u2019s first project was to design and implement text-to-apply support with store-specific SMS codes so that users can easily apply for an Affirm loan in brick-and-mortar stores, and merchants can granularly view application rates and data on a store-by-store basis. </li> <li><strong>Madeline</strong> has built batch data pipelines to enable greater resiliency and accuracy in Affirm\u2019s loan origination processes with our loan origination bank. She has implemented a system to report all loan applications created with Affirm and sourced data from various data warehouses across the company. </li> <li><strong>Kevin</strong> has been responsible for a major overhaul of our cryptography platform, which is used to encrypt sensitive customer data such as social security numbers and credit reports, as well as to perform other cryptographic operations. Additionally, he has designed and implemented a public key infrastructure for mutually authenticated and encrypted communication between backend services. </li> </ul> <strong><strong>What We Look For:<br></strong></strong><ul> <li> Bachelor's degree in Computer Science, a related field, or equivalent training/fellowship/work experience </li> <li> Experience with one of the following languages: Python, C/C++, Java, Javascript and/or similar languages </li> <li> Familiarity with deployment and automated testing frameworks </li> <li> Ability to collaborate with your team in a fast-paced environment </li> <li> Passion and drive to change consumer banking for the better! </li> <br><br></ul><strong>Location - Remote U.S.<br><br></strong>The majority of our roles can be located anywhere in the U.S. (exclusive of the U.S. Territories) and Canada (with the exception of Quebec).<br><br>Check out our remote-first approach to learn more about the new ways we work.<br><br>If you got this far, we hope you're feeling excited about this role. Even if you don't feel you meet every single requirement, we still encourage you to apply. We're eager to meet people who believe in Affirm's mission and can contribute to our team in a variety of ways\u2014not just candidates who check all the boxes.<br><br>At Affirm, People Come First is one of our core values, and that\u2019s why diversity and inclusion are vital to our priorities as an equal opportunity employer. You can read about our D&amp;I program here and our progress thus far in our 2020 DEI Report .<br><br>We also believe It\u2019s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.<br><br>By clicking \"Submit Application,\" you acknowledge that you have read the Affirm Employment Privacy Policy , or the Affirm Employment Privacy Notice (EU) for applicants applying from the European Union, and hereby freely and unambiguously give informed consent to the collection, processing, use, and storage of my personal information as described therein.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T01:04:16.000Z"
+  },
+  "company": {
+    "name": "Affirm",
+    "link": "https://www.linkedin.com/company/affirm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

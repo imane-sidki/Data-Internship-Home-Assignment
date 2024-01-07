@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "We are hiring for a entry level and senior software engineers with experience with C++, Java, Scala, Python, Clojure, Ruby. we would consider candidates with extensive experience who are able to pick a new language and learn it fast as well. ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T23:25:44.000Z"
+  },
+  "company": {
+    "name": "The AG Advisory",
+    "link": "https://www.linkedin.com/company/the-ag-advisory"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Machine Learning Engineer, Siri",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Play a part in the next revolution in human-computer interaction. Contribute to a product that is redefining mobile computing. Create groundbreaking technology for large scale systems, spoken language, big data, and artificial intelligence. And work with the people who created the intelligent assistant that helps millions of people get things done - just by asking. Join the Siri Understanding team at Apple. <br><br><br>The Siri Understanding team is looking for an exceptional Machine Learning Engineer to personalize the Siri experience for millions of Apple users worldwide while preserving data privacy.<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong understanding of machine learning (ML) fundamentals.<br><br>Experience in deploying ML/deep-learning solutions to real world problems.<br><br>Experience with deep learning toolkits like Keras/TensorFlow, PyTorch etc.<br><br>Proficiency in Objective-C/C++ and Python.<br><br>Strong analytical and data visualization skills<br><br>Excellent problem solving, critical thinking and communication skills.<br><br> <br><strong>Description<br></strong> <br>As a Machine Learning Engineer in the Siri Understanding team you will work on improving Siri\u2019s Automatic Speech Recognition (ASR) accuracy by training state-of-art language models (LMs) on massive text corpora. You will explore novel techniques and enhance existing algorithms for language modeling - focusing on privacy preserving ML approaches to train and adapt LMs on-device under the constraints of memory, compute and power. You will develop efficient on-device modeling pipelines for natural language processing. You will work on model optimization techniques (including but not limited to model compression, quantization etc.) to enable efficient on-device learning. You will collaborate with other research scientists and engineers in a fast-paced team environment.<br><br><br>Open to considering candidates in Seattle or Boston.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Master\u2019s or PhD in Machine Learning, Computer Science or a related field.<br><br>Academic or industry experience in ASR or NLP.<br><br> <br><strong>Additional Requirements<br></strong> <br>Preferred Qualifications: <br><br>Any of the following qualifications is considered a plus.<br><br>Familiarity with n-gram and neural network algorithms and techniques used in language modeling (smoothing, pruning, interpolation, word embeddings, recurrent neural networks, transformers etc.).<br><br>Experience in large scale distributed privacy-preserving ML and federated learning.<br><br>2+ years of software development experience, preferably in a ML field.<br><br>Experience in on-device modeling, in a limited resource setup. <br><br>Experience with large scale data processing using MapReduce/Hadoop/Spark.<br><br>Experience with training language models for ASR systems and working with standard toolkits (such as Kaldi, SRILM, OpenFST or equivalent proprietary systems)<br><br> <br>Role Number: 200226802<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T08:31:10.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

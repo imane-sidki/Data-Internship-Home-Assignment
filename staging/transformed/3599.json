@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<ul><li>3+ years of hands-on experience in Site Reliability, DevOps and/or SoftwareDelivery for commerciallarge scalecloudsoftware or services</li><li>Good understanding of public cloud offerings such as Azure, Google Cloud or AWS</li><li>Experiencewithcodinglanguages (C++, C#, Java, .NET) andproficiencyindebugging, and live-site troubleshooting during an outage</li><li>Strong background in monitoring, disaster recovery, and automation</li><li>Excellent communication skillsboth oral and written</li><li>Experience with Kubernetes, Docker, Terraform or other Infrastructure as Code, CI/CD preferred</li><li>Our ideal candidate will demonstrate strong customer empathy, show a strong bias for action, be adaptable and possess strong interpersonal skill</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T18:54:12.000Z"
+  },
+  "company": {
+    "name": "Drevol LLC",
+    "link": "https://www.linkedin.com/company/drevol-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

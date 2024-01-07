@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Modeler",
+    "industry": "Staffing and Recruiting",
+    "description": "<p><strong>Description:</strong></p><p><br></p><p><br></p><p>The EBDM Model Developer/ Analyst will function as part of the EBDM Model Development team. The role will primarily facilitate ongoing model validation efforts including, but not limited to: writing and executing model code; training, testing and validation of model performance against benchmark methods; data quality assessment; implementation of data preprocessing methods; reproducible workflow design; and documentation of methods, assumptions and outcomes. Analytical focus will provide insights into business processes, derived from model applications and involve communication of technical procedures to a wide audience with varying backgrounds.</p><p><br></p><p><br></p><p>Required Job Skills:</p><p>\u2022 Proficiency in Python programming and object oriented design</p><p>\u2022 Practical experience with large data analysis with multiple open source programming libraries (pandas, numpy, scikit-learn, scipy, statsmodels, as well as one of tensorflow/keras/pytorch)</p><p>\u2022 Hadoop, Apache Spark</p><p>\u2022 Neo4j and Cypher</p><p>\u2022 General statistics and probability</p><p>\u2022 Time series analysis, forecasting and anomaly detection</p><p>\u2022 Graph analytics/ network science</p><p>\u2022 Hands on advanced statistical modeling and/or machine learning model development in Python</p><p>\u2022 Experience with model design, implementation and evaluation of model performance</p><p>\u2022 Model validation procedures with knowledge of regulatory requirements in industry</p><p>\u2022 Quick learner with capacity for independent judgment and decision making</p><p>\u2022 Advanced Excel</p><p><br></p><p>Desired Job Skills:</p><p><br></p><p>\u2022 Effective written and oral communication skills, especially in reference to explaining quantitative methodology for audiences of all technical backgrounds</p><p>\u2022 Degree in quantitative discipline involving computer science, engineering or statistics</p><p>\u2022 Jira/Agile</p><p>\u2022 PowerPoint</p><ul><li>\u2022 SharePoint</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T22:02:48.000Z"
+  },
+  "company": {
+    "name": "ettain group",
+    "link": "https://www.linkedin.com/company/ettain-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte Metro",
+    "region": null,
+    "postal_code": "28209",
+    "street_address": null,
+    "latitude": 35.225204,
+    "longitude": -80.83933
+  }
+}

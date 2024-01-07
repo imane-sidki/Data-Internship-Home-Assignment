@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Experience in Artificial Neural Networks using common methodology of Bayesian Classification, support vector, and/or k-nearest-neighbor classification.<br><br>Work includes data manipulation, sorting, categorization, and cleaning.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T02:24:49.000Z"
+  },
+  "company": {
+    "name": "LAVANT",
+    "link": "https://www.linkedin.com/company/lavant"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

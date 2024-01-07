@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Job Description<br><br></u></strong>Come and join us! Intel is seeking highly qualified candidates to join our Datacenter and AI Group (DCAI) as a Software Development Engineer!<br><br>Within our DCAI Group, join our exciting and dynamic team as a Software Development Engineer where you will research, design, develop, and optimize software tools that enable the use of Field Programmable Gate Arrays. Our team, acknowledged as among the world's leading experts, create state-of-the-art CAD software tools and industry-leading programmable logic device architectures.<br><br><strong><u>Responsibilities Will Include, But Are Not Limited To<br></u></strong><ul><li> Develop and optimize compilers, flows, assemblers, models, tools and runtimes that are closely coupled to FPGA silicon, IP and boards, while leveraging strong knowledge of FPGA hardware, logic design, board design, semiconductor devices and chip layout.</li><li> Design, develop &amp; optimize software abstractions and frameworks for acceleration with the FPGA, for domains such as deep learning, DSP algorithms, and data analytics.</li><li> Responds to customer/client requests or events as they occur. Develops solutions to problems utilizing formal education, judgement, and formal software process.<br></li></ul>The ideal candidate will have the following skills in addition to the qualifications listed below.<br><ul><li> Team player, with a demonstrated experience technically influencing others.</li><li> Strong problem-solving skills.</li><li> Excellent verbal and written communication skills.<br></li></ul>In this position you will gain invaluable experience that will allow growth and expanded opportunities across Intel.<br><br><strong><u>Qualifications<br><br></u></strong>You must possess the below minimum education requirements and minimum required qualifications to be initially considered for this position. Additional preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.<br><br><strong><u>Education Requirement<br></u></strong><ul><li> Bachelor's degree in Electrical or Computer Engineering, Computer Science, Math, Physics, or related field plus 4 years of industry work experience, or<br></li></ul><strong><u>Minimum Required Qualifications<br></u></strong><ul><li> 4 plus years of experience in C++ or another modern object-oriented programming language.</li><li> 4 plus years of experience with data structures and algorithms.<br></li></ul><strong><u>Additional Preferred Qualifications<br></u></strong><ul><li> Master's Degree or higher.</li><li> 10 plus years of experience in C++ software development.</li><li> 5 plus years of experience developing Electronic Design Automation (EDA) tools.</li><li> Experience as a technical lead on one major project, driving it from conception through customer delivery.<br></li></ul><strong>Inside this Business Group<br><br></strong>The Programmable Solutions Group (PSG) was formed from the acquisition of Altera. As part of Intel, PSG will create market-leading programmable logic devices that deliver a wider range of capabilities than customers experience today. Combining Altera's industry-leading FPGA technology and customer support with Intel's world-class semiconductor manufacturing capabilities will enable customers to create the next generation of electronic systems with unmatched performance and power efficiency. PSG takes pride in creating an energetic and dynamic work environment that is driven by ingenuity and innovation. We believe the growth and success of our group is directly linked to the growth and satisfaction of our employees. That is why PSG is committed to a work environment that is flexible and collaborative, and allows our employees to reach their full potential.<br><br><strong>Posting Statement<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:08:39.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

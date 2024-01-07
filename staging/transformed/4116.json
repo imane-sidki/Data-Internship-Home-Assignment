@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "<strong><u>Job Summary<br><br></u></strong>The primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver code modules, stable application systems, and software solutions. This includes developing, configuring, or modifying integrated business and/or enterprise application solutions within various computing environments. This role facilitates the implementation and maintenance of business and enterprise software solutions to ensure successful deployment of released applications.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li> Translates business requirements and specifications into logical program designs, code modules, stable application systems, and software solutions with occasional guidance from senior colleagues; partners with Product Team to understand business needs and functional specifications</li><li> Develops, configures, or modifies integrated business and/or enterprise application solutions within various computing environments by designing and coding component-based applications using various programming languages</li><li> Conducts the implementation and maintenance of complex business and enterprise software solutions to ensure successful deployment of released applications</li><li> Supports systems integration testing (SIT) and user acceptance testing (UAT), provides insight into defining test plans, and ensures quality software deployment</li><li> Participates in the end-to-end product lifecycle by applying and sharing an in-depth understanding of company and industry methodologies, policies, standards, and controls</li><li> Understands Computer Science and/or Computer Engineering fundamentals; knows software architecture and readily applies this to software solutions</li><li> Automates and simplifies team development, test, and operations processes; develops conceptual, logical and physical architectures consisting of one or more viewpoints (business, application, data, and infrastructure) required for business solution delivery</li><li> Solves difficult technical problems; solutions are testable, maintainable, and efficient<br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li> Bachelor's degree in Computer Science, CIS, or related field (or equivalent work experience in a related field)</li><li> 2 years of experience in software development or a related field</li><li> 2 years of experience in database technologies</li><li> 1 year of experience working on project(s) involving the implementation of solutions applying development life cycles (SDLC)<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> 2 years experience with software engineering in Debian Linux, Bash, and Python</li><li> 2 years experience working with the Git distributed version control system</li><li> Experience with the Ansible automation platform</li><li> Master's degree in Computer Science, CIS, or related field</li><li> 2 years of IT experience developing and implementing business systems within an organization</li><li> 4 years of experience working with defect or incident tracking software</li><li> 4 years of experience with technical documentation in a software development environment</li><li> 2 years of experience working with an IT Infrastructure Library (ITIL) framework</li><li> 2 years of experience leading teams, with or without direct reports</li><li> Experience with application and integration middleware</li><li> Experience with database technologies<br></li></ul><strong><u>About Lowe\u2019s<br><br></u></strong>Lowe\u2019s Companies, Inc. (NYSE: LOW) is a FORTUNE\u00ae 50 home improvement company serving approximately 20 million customers a week in the United States and Canada. With fiscal year 2020 sales of nearly $90 billion, Lowe\u2019s and its related businesses operate or service more than 2,200 home improvement and hardware stores and employ over 300,000 associates. Based in Mooresville, N.C., Lowe\u2019s supports the communities it serves through programs focused on creating safe, affordable housing and helping to develop the next generation of skilled trade experts. For more information, visit <u>Lowes.com</u>.<br><br><strong><u>About Lowe\u2019s In The Community<br><br></u></strong>As a FORTUNE\u00ae 50 home improvement company, Lowe\u2019s is committed to creating safe, affordable housing and helping to develop the next generation of skilled trade experts through nonprofit partnerships. Across every community we serve, Lowe\u2019s associates donate their time and expertise through the Lowe\u2019s Heroes volunteer program. For the latest news, visit",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:32:29.000Z"
+  },
+  "company": {
+    "name": "Lowe's Companies, Inc.",
+    "link": "https://www.linkedin.com/company/lowe%27s-home-improvement"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84000,
+    "max_value": 125000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mooresville",
+    "region": "NC",
+    "postal_code": "28117",
+    "street_address": null,
+    "latitude": 35.582565,
+    "longitude": -80.81278
+  }
+}

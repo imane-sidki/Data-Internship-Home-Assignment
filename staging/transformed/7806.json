@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Banking,Financial Services",
+    "description": "<p><strong>Requirements:</strong></p><ul><li>Ph.D/Masters/Bachelors degree in a quantitative field such as Mathematics, Physics, Finance, Engineering or Statistics</li><li>4 years of professional experience as a Data Scientist or related roles</li><li>Hands-on experience with Statistical Modeling/Machine Learning/Deep Learning techniques is must</li><li>Should be well-versed in programming languages of R/Python/SAS and be familiar with Deep Learning Frameworks like Tensorflow/Pytorch</li><li>Sound knowledge of financial instruments and financial risk/operational risk management principles is must</li><li>Ability to understand and implement techniques discussed in AI research papers (academic and technical)</li><li>Candidates must have any of financial certifications like CFA, FRM (at least level 1/part 1 should have been cleared)</li><li>MBA is not required but preferred</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T15:12:48.000Z"
+  },
+  "company": {
+    "name": "Mitchell Martin Inc.",
+    "link": "https://www.linkedin.com/company/mitchell-martin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

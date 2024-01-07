@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong>The Role<br><br></strong>As a member of the new SRE team at Tesla Motors, you will automate away toil, help teams in AWS, and build tools to make development seamless. The SRE team is embedded amongst several developments that are responsible for some of the most trafficked applications within Tesla Motors. This role presents a prime opportunity to ensure reliability, maintainability, performance, scalability, and security are at the forefront of our teams' products.<br><br><strong><u>What We're Looking For<br><br></u></strong>The Staff Site Reliability Engineer will partner with the application development and main infrastructure teams to architect and operate reliable, scalable, and performant services. You will have a huge impact on how we do things and help take our engineering excellence to the next level. You will report to the Senior Manager of Site Reliability Engineering.<br><br><strong>You will<br></strong><ul><li> Partner with application developers and architects to ensure services are built for scale and performance.</li><li> Develop the monitoring solutions on top of existing observability platforms</li><li> Refine the development, build and deployment processes on top of our main infrastructure</li><li> Work with the engineering teams to architect and build our platform services to simplify real-time troubleshooting and operational response to incidents and outages</li><li> Be the expert on how to best use AWS technologies to build our next-generation platform</li><li> Bridge the divide between our core application engineers and our main infrastructure teams</li><li> Provide capacity management expertise to ensure our deployments are managed for robustness and cost</li><li> Bring best practices and own environment management, ensuring all of our dev/test/prod environments are reproducible with high availability<br></li></ul><strong>You have<br></strong><ul><li> A minimum 12 years\u2019 experience operating in a large-scale environment</li><li> Experience improving the services and customer experiences of the platforms you support</li><li> Experience in application architecture designs and implementations, including the operational trade-offs of different designs</li><li> Knowledge of different aspects of service design: including messaging protocols and behavior, caching strategies, and software design practices</li><li> Experience making strategic trade-offs that are in priority when needed</li><li> Developed accomplished SRE engineers ranging from junior to senior levels of experience<br></li></ul><strong><u>What We Provide<br></u></strong><ul><li> <strong>Opportunities</strong> <strong>to</strong> <strong>develop</strong> <strong>and</strong> <strong>grow</strong> <strong>as</strong> <strong>an</strong> <strong>engineer</strong> . We are always expanding into new areas, working with open-source projects and contributing back, and exploring new technologies.</li><li> <strong>A team of incredibly capable and dedicated peers</strong> , all the way from engineering to product management and customer support.</li><li> <strong>Growth</strong> <strong>and</strong> <strong>mentorship</strong> . We believe in growing engineers through ownership and leadership opportunities. We also believe that mentors help both sides of the equation.</li><li> <strong>A stable, collaborative, and supportive work environment. </strong>We work in an open environment, work together to get things done, and adapt to the changing needs for the team.</li><li> <strong>Balance</strong> . We don't expect people to work 12-hour days. We want you to be successful outside of work too. Want to work from home sometimes? No problem. We trust our colleagues to be responsible with their time and commitment and believe that balance helps cultivate a positive environment.</li><li> <strong>Fun</strong> . We have frequent group outings and team building events. We are committed to having every employee want to give it their all, be respectful and a part of the family, and have a smile on their face while doing it<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T18:07:11.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

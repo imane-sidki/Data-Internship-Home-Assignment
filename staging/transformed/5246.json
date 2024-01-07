@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Data Scientist for Product Marketing and Customer Analytics",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, new ideas have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!<br><br><br>The Product Marketing Analytics team is seeking a Sr. Data Scientist for Marketing Customer Analytics with deep experience in statistical modeling, consultative applied analytics, and decision support.<br><br> <br><strong>Key Qualifications<br></strong> <br>Significant experience in logistic regression, with preference for experience also applying other modeling techniques including time-series regression (preferably mixed models), data classification and reduction (e.g. cluster)<br><br><br>Fluency in Python, Spark, and R, with experience writing scripts that are part of a production-type analytic solution<br><br><br>Proven technical database knowledge (Oracle, Teradata, Hadoop, data modeling) and experience optimizing SQL queries on large data. <br><br><br>1-2 years of experience working with Tableau. <br><br><br>Passionately analytical and curious with strong out-of-the-box thinking <br><br><br>Outstanding written, verbal, and presentation skills with the ability to develop and present conclusions and recommendation to senior executives<br><br><br>Excellent project management and consultative skills<br><br><br>Able to work effectively on sometimes ambiguous data and constructs within a constantly evolving environment, tight deadlines and priority changes<br><br> <br><strong>Description<br></strong> <br>Support Marketing Communications, Product Marketing, and cross-functional business teams with analytics for database marketing, customer product and services engagement, and marketing campaign efficiency.<br><br><br>Develop customer propensity models, with an emphasis on logistic regression, to optimize marketing communications, support cross-functional partners on personalization initiatives, and understand key drivers of customer behavior.<br><br><br>Develop statistical models to analyze total market investments, to include base and promotional pricing, digital and traditional marketing mix, direct marketing attribution, channel and in-store investments, and partner media/pricing/program effects.<br><br><br>Manage modeling projects through all phases, including data preparation, quality and integration, modeling, data visualization and presentation of results and deliverables.<br><br><br>Collaborate with Engineering and Machine Learning teams to support building of a custom propensity modeling engine and pipeline. <br><br><br>Develop highly polished and functional Tableau dashboards to support reporting, data discovery and statistical analysis for consultative projects and analytic capability development.<br><br><br>Collaborate with business partners by conducting regular and ad-hoc business analysis and analytics to provide meaningful insights and decision support at tactical and strategic levels.<br><br><br>Lead workflows, requirements and projects in collaboration with IT for analytic engineering tracks or ad hoc data model development<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Graduate degree required in Business (with quantitative emphasis), Statistics, Data Mining, Machine Learning, Analytics, Econometrics, Mathematics, Operations Research, Industrial Engineering, or related field<br><br> <br>Role Number: 200267227<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:12.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

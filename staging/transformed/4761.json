@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Machine Learning Engineer",
+    "industry": "Airlines/Aviation",
+    "description": "<p><strong>Technology/IT</strong></p><p>The United IT team designs, develops and maintains massively scaling technology solutions that are brought to life with innovative architectures, data analytics and digital solutions.</p><p><br></p><p><strong>Job overview and responsibilities</strong></p><p>You'll be part of an agile team dedicated to building the enterprise machine learning infrastructure and productionalizing machine learning services. You'll collaborate with data scientists, data engineers, IT teams, and business stakeholders to participate in the technical design and development of machine learning applications and integrations with production systems. You'll ensure that applications and data pipelines meet production standards and performance expectations. You'll have the opportunity to continuously learn and directly apply the latest innovations and emerging best practices to keep United Airlines at the cutting edge of technology.</p><ul><li>Architect and build core components of the Machine Learning Platform infrastructure</li><li>Work cross-functionally with data scientists, data engineers, IT teams, and business stakeholders to design, develop, deploy, and integrate high-performance machine learning solutions and data intensive workflows</li><li>Partner with data scientists and data engineers to build high-performance, efficient feature pipelines from backend data sources to train models and serve features to machine learning applications</li><li>Partner with data platform and operations teams to solve complex data ingestion, pipeline and governance problems for machine learning solutions</li><li>Take ownership of production systems with a focus on delivery, continuous integration, and automation of machine learning workloads</li><li>Provide technical mentorship, guidance, and quality-focused code review to data scientists and ML engineers</li></ul><p></p><p><strong>Required</strong></p><ul><li>Technical education in Computer Science, Engineering, or equivilent experience (Masters degree or higher preferred)</li><li>5+ years of software engineering experience (ML-focused highly preferred)</li><li>3+ years of experience developing cloud-native solutions (AWS preferred)</li><li>Familiarity with the practical aspects of machine learning and experience with common technologies and frameworks such as pandas, NumPy, PyTorch, TensorFlow, Spark, scikit-learn, MxNet</li><li>Proficient in Python and at least one additional language such as C/C++, Java, Kotlin, Go, Rust</li><li>Strong communication skills and the ability to explain complex engineering concepts to non-technical audiences</li><li>Self-starter and self-motivated with the proven ability to deliver results in a fast-paced, high-energy environment</li><li>Strong desire to learn new technologies and stay aligned with the latest developments in the machine learning engineering community</li><li>Must be legally authorized to work in the United States for any employer without sponsorship</li></ul><p></p><p><strong>Preferred</strong></p><ul><li>AWS Certified Solution Architect (Associate or Professional)</li><li>Experience working as a Machine Learning Engineer or Data Scientist</li><li>Experience building real-time stream processing solutions with technologies such as Kafka, Flink, and Spark</li><li>Experience with Kubernetes</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T15:39:46.000Z"
+  },
+  "company": {
+    "name": "United Airlines",
+    "link": "https://www.linkedin.com/company/united-airlines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

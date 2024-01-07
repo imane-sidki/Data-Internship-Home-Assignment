@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising",
+    "description": "You will be joining Near, one of the fastest growing Enterprise SaaS companies and experience a true start-up culture with the freedom to experiment and innovate. At Near, we believe that great culture is not just about work; it\u2019s work + life. We not only encourage our employees to dream big, but also give them the freedom and the tools to do so.<br><br>The Machine Learning Engineer role is a new, remote-friendly role on the Data Science team, allowing the department to develop solutions that are more scalable at a faster pace. You won\u2019t be just an implementer of solutions, but a full-fledged part of developing those solutions. Our Data Science team is a highly collaborative group that works closely with other Product, Engineering, and Analytics Teams to develop novel algorithmic approaches for contextualizing location data, evaluation of data from potential business partners, as well as managing data optimization from advertising data sources, and analysis of bidding data from mobile app monetization. We are the champions and guardians of Near\u2019s data. Ours is often greenfield work - we work on the problems no one knows how to solve yet. You will be writing code for machine learning and big-data processing solutions being developed by our team as well as being a resource to help our Data Scientists write more scalable, more maintainable, more performant code themselves using better processes like code reviews. You\u2019ll also be a translator of \u2018Data Scientist\u2019 speak to \u2018Engineer\u2019 speak and help bridge the gap between the two teams. Near is a high-speed operation \u2013 all good startups are \u2013 and you shouldn\u2019t expect to take a project and disappear for weeks or months. We really mean it when we say this is a collaborative role.<br><br><strong>A Day in the Life <br></strong><ul><li>Work closely with our small, multidisciplinary team to design the algorithms and architecture to solve challenging problems at scale</li><li>Write high-quality production code as you build and maintain robust, scalable machine learning systems</li><li>Collaborate with researchers, engineers and domain experts to define requirements and design solutions</li><li>Reason analytically about machine learning systems</li><li>Conduct code reviews to raise the bar for quality</li><li>Promote and exemplify best practices of data science, engineering, and communication throughout the organization<br></li></ul><strong><u>Requirements<br><br></u></strong><strong>What you bring to the role <br></strong><ul><li>A bachelor's degree or higher in a quantitative field (CS, EE, Statistics, Physics, Math, etc.) and 5+ years of industry software engineering experience writing quality code</li><li>2+ years experience doing production Machine Learning or Deep Learning in a professional environment using frameworks like TensorFlow and scikit-learn</li><li>Experience using scripting languages like Python (our preferred language for machine learning) and/or R is required</li><li>Experience with C, C++, Go, or Java is a plus</li><li>AWS experience is a plus</li><li>Data tooling experience with Docker, Kubernetes, Hive, Spark, or Dask is a plus</li><li>Experience deploying and maintaining distributed production systems</li><li>Eagerness to collaborate and passion for system design</li><li>The ability to design and implement robust production systems that perform at scale</li><li>Passion for software development and finding elegant solutions to problems.</li><li>Experience with geographic data and information systems (GIS) is a major plus. We work with data in GeoJSON, ESRI Shapefile, KML or other spatial data formats using tooling such as GeoPandas, Shapely, PostGIS, and ESRI products.<br></li></ul><u><strong>Benefits<br><br></strong></u>UberMedia (UM) is now Near. Near is the world\u2019s largest source of intelligence on people and places, processing data from over 1.6 billion monthly users across 44 countries. The Near Platform powers data-driven marketing and enrichment offerings through a suite of SaaS products. The users of the platform can leverage audience, spatial, retail, among other data in a privacy-led environment.<br><br>Founded in 2012, Near is headquartered in Singapore with offices in California, New York, London, Bangalore, Tokyo and Sydney. Today, marquee brands such as News Corp, MetLife and The We Company work with Near to provide enhanced customer experiences. Near is backed by leading investors including Sequoia Capital, JP Morgan Private Equity Group, Cisco Investments and Telstra Ventures. Visit www.near.co to find out more.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T04:14:12.000Z"
+  },
+  "company": {
+    "name": "UM",
+    "link": "https://www.linkedin.com/company/thisisumco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

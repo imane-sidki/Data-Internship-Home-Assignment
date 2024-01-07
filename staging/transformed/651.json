@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer- Robotics Control Systems",
+    "industry": "Machinery,Farming",
+    "description": "<p>We\u2019re Blue River, a team of innovators driven to radically change agriculture by creating intelligent machinery. We empower our customers \u2013 farmers - to implement more sustainable solutions: optimize chemical usage, reimagining routine processes, and improving farming yields year after year. We believe that focusing on the small stuff \u2013 pixel-by-pixel and plant-by-plant - leads to big gains. By partnering with John Deere, we are innovating computer vision, machine learning, robotics and product management to solve monumental challenges for our customers.</p><p><br></p><p>Our people are at the heart of what we do. Through cross-discipline collaboration, this mission-driven and daring team is eager to define the new frontier of agricultural robotics. We are always asking hard questions, rapidly iterating, and getting our boots in the field to figure it out. We won\u2019t give up until we\u2019ve made a tangible and positive impact on agriculture.</p><p><br></p><p>In this role as a Sr Systems Software Engineer you will advance developing controls systems that learn from data applied to machines producing the world\u2019s food supply. This is a unique opportunity to work on developing the fundamentals of controllers applied to highly dynamic and complex control problems. You will be joining a team of incredible engineers and bring a breadth of classical and modern controls knowledge and systems thinking to the team.</p><p><br></p><p><strong>Requirements:</strong></p><ul><li>Strong system software in C++, real-time systems, python</li><li>Professional experience working with MPC, including MPC toolbox such as Casadi</li><li>Real Time systems estimations</li><li>Familiarly with dynamics for robotics such as Rigid Body Dynamics:(RBD) library, Kane's Method, Spatial V2</li><li>MATLAB</li></ul><p><br></p><p><strong>Required Skills &amp; Professional Experience:</strong></p><ul><li>3+ years of post academic professional work experience</li><li>Must have extensive real world (non-academic) experience in Controls.</li><li>Software engineering background in advanced C++</li><li>Applied skills in Python/Matlab, Hardware, Linux, Modern Control, Classical Controls &amp; Math</li><li>Creative problem solving, Systems thinking</li><li>Up to date on current research papers and modern controls methods</li></ul><p><br></p><p>Blue River offers competitive compensation and benefits, including a great 401(K) match. We believe in a work life balance and offer generous Paid Time Off and Sick Leave as well as Paid Parental Leave and an adoption benefit. Subsidized lunches, flexible work hours, CalTrain passes (with mobile Wi-Fi!) and a collaborative and supportive environment also contribute to making Blue River a great place to work.</p><p><br></p><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:46:49.000Z"
+  },
+  "company": {
+    "name": "Blue River Technology",
+    "link": "https://www.linkedin.com/company/bluerivertech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

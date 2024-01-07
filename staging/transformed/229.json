@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning (ML) Engineer - Data Platform",
+    "industry": "Computer Networking",
+    "description": "Cisco Meraki is revolutionizing the way IT administrators manage their infrastructure by providing simple and secure cloud-managed solutions. With a large install base of customers and rich, multifaceted data sets, the potential for data analytics to improve business performance for both our customers and our own business is enormous.<br><br>The Strategy &amp; Data Science department is a growing group that works closely with executives and leaders across the company to support the development of and alignment on our business strategy. We are looking for a Senior ML Engineer - Data Platform to join our team in San Francisco. As part of this team, you will develop cross-functional relationships and work closely with data engineering and data science teams to drive near- and longer-term initiatives to improve our product, and customer experience. This would be an outstanding fit for a solution-oriented technical pro who is hands-on, has the ability to work autonomously, and can drive technical efforts building robust and resilient auto-scaling platform solutions with core AI-capabilities.<br><br><strong><u>What Will You Do<br></u></strong><ul><li>Design and implement cloud platform in a hybrid platform setting to support business priorities and product needs</li><li>Take ownership of delivering cloud solutions</li><li>Manage, secure and scale enterprise cloud applications</li><li>Identify and mitigate data governance and compliance gaps</li><li>Drive developments and solutions leveraging cloud and other open source technologies</li><li>Design and implement CI/CD pipeline for production and staging environments</li><li>Manage deployment of various \u201ccontainerized\u201d models and components on cloud</li><li>Operationalize intelligent ML/AI services for business and engineering units</li><li>Provide guidance on best practices of software development<br></li></ul><strong><u>What Skills You Possess<br></u></strong><ul><li>Minimum 3 - 5 years of development experience with cloud engineering and infrastructure in one of the core cloud provider services, preferably AWS</li><li>Solid programming skills in Python, Scala/Java, Ruby on Rails etc</li><li>2+ years of experience managing model building and secure model deployment flows</li><li>Advance level knowledge in Docker containers, Kubernetes etc</li><li>Proficiency in cloud database technologies</li><li>Deep understanding of service-oriented application development</li><li>Past work experience using streaming frameworks and tools, such as Kafka Streaming,Spark etc</li><li>Strong written and verbal communication skills</li><li>BS or MS in Computer Science / related technical field or equivalent combination of graduate degree and work experience</li><li>Excellent attention to detail and accuracy<br></li></ul><strong><u>Who You Are<br></u></strong><ul><li>Someone who thrives when using their technical acumen in their work</li><li>A go-getter!</li><li>You have a real passion for complex data / engineering challenges</li><li>You have the ability to keep track of multiple opposing priorities without losing details</li><li>Ability to communicate ideas and solutions to both technical and non-technical audiences</li><li>You are eager to take ownership of projects and technical initiatives</li><li>You remain curious and desire for continuous learning<br></li></ul>Are you wondering what it is like to work at Cisco Meraki? Picture a breathtaking office, healthy catered meals, fully stocked kitchens, onsite gym and paid time off to volunteer. Meraki Cisco has crafted an amazing equal opportunity focused office where employees thrive. With that said, we are confident you will love it here. Check out more of our benefits on our job page, at https://meraki.cisco.com/jobs, and we look forward to talking with you soon.<br><br><em>Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.<br><br></em><em>At Cisco Meraki, we\u2019re challenging the status quo with the power of diversity, inclusion, and collaboration. When we connect different perspectives, we can imagine new possibilities, inspire innovation, and release the full potential of our people. We\u2019re building an employee experience that includes appreciation, belonging, growth, and purpose for everyone.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-06T17:34:35.000Z"
+  },
+  "company": {
+    "name": "Cisco Meraki",
+    "link": "https://www.linkedin.com/company/cisco-meraki"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 124000,
+    "max_value": 212000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94101",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

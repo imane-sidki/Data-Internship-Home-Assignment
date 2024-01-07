@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong>The Role<br><br></strong>Tesla aims to accelerate world\u2019s transition to a sustainable energy by ensuring we provide a seamless and frictionless experience to our customers. To meet this goal, Tesla is constantly striving to innovate and provide best in class services through introduction of pioneering new products and services. To that end, Tesla is seeking hardworking and passionate software engineers as various levels. These engineers will be part of a startup team that is focused on delivering a highly scalable platform that enables growth of current and future products and services to our customers.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Design and develop high quality, scalable and stable web applications and/or back-end services</li><li> Develop client-side applications that connect with web services</li><li> Develop back-end web services</li><li> Follow Tesla\u2019s high standards for security-best practices in all development</li><li> Partner closely with security team for code analysis and design reviews</li><li> Perform unit testing</li><li> Process bug reports and release fixes</li><li> Participate in code reviews</li><li> Participate in agile processes</li><li> Always think innovatively to solve customer problems<br></li></ul><strong><u>Requirements<br></u></strong><ul><li> Bachelor\u2019s or Master\u2019s degree in Computer Science or related field, or equivalent in experience</li><li> 3+ years of experience in building software products for external customer use in Java, C, C++, C# or some other object-oriented language with evidence of exceptional ability</li><li> Experience with writing SQL-based applications such as MySQL or MS SQL or Oracle</li><li> Experience working with Linux or similar O/Ss</li><li> Experience building scalable applications (Web applications or back-end services)</li><li> Detail-oriented, can identify and fix own bugs, and write quality code that runs efficiently</li><li> Passionate, positive, can-do attitude and can adapt to any challenge and willing to take ownership of problems and brings issues to full resolution</li><li> Enjoy working in a team that follows agile practices and code reviews and CI/CD</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-06T03:30:29.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

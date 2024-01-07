@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet,Computer Software",
+    "description": "<p>Inflection is seeking a Software Engineer who will be responsible for supporting software development activities for Inflection\u2019s products.</p><p><br></p><p>For over ten years, Inflection has sourced and analyzed billions of public records to create fair and innovative solutions to help companies make better and faster decisions about who they should hire and who they should trust.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Support complete software development life cycle for Inflection\u2019s products including: requirements analysis, design, development, testing and deployment</li><li>Implement, own and support microservices, third-party integrations and security features. Work will include migrating components to microservices using serverless technology</li><li>This role requires working with customers, product managers and customer support technologies</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor\u2019s Degree in software engineering, Computer Science, or related field</li><li>2+ years of experience in software development</li><li>Experience with the design, implementation and debugging of applications in object oriented languages. Strong preference for .NET/C#</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T16:52:40.000Z"
+  },
+  "company": {
+    "name": "Inflection",
+    "link": "https://www.linkedin.com/company/inflection"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

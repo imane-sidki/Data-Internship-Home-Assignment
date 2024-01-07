@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Slack Integration and Notifications Platform",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br><br></em><strong> Job Category </strong>Products and Technology<strong> Job Details <br><br></strong>Tableau introduced power of visual analytics to the world making it the de-facto analytics standard in the enterprise. Our workflows team is part of Engagement &amp; Ecosystem organization focuses on bringing analytics into workflows of business users everywhere. We do this through building capabilities into Tableau\u2019s server and mobile products and by building a platform and services for internal customers and partners to extend Tableau\u2019s capabilities. The team is small and nimble, and works across a wide stack: on any given day, we discuss user interface design, data models, API design, debug service issues, discuss new feature design, or all of the above.<br><br><strong>In this role, you will,<br></strong><ul><li>Design and build integrations between Tableau, Salesforce, Slack and other third-party software, to create seamless workflows and engaging user experiences.</li><li>Work closely with tight knit hybrid engineering team to tackle tough design, product and engineering problems.</li><li>Take full ownership of the end-to-end quality of the code deployed to production.<br></li></ul><strong><u>Who You Are,<br></u></strong><ul><li>Experienced: You have 5+ years of experience building scalable web applications with one or more of the following languages: Frontend examples: Javascript/Typescript, HTML5, CSS. Modern Javascript frameworks (e.g., React, AngularJS, Vue) is a plus; Backend examples: Java, PostgresSQL, ActiveMQ, SNS, SQS, Spring and Hibernate frameworks, Webservices (REST) and RPC framework. Cloud services experience operating with AWS, Azure, or Google as a plus.</li><li>Technical: Strong understanding of object oriented programming, design patterns backed by solid computer science fundamentals, data structures and algorithms.</li><li>You love writing code that is not only robust and efficient, but also easy to maintain and monitor.</li><li>Learner and growth mindset, desire to ramp up in new domains and curious to build solutions to complex problems.</li><li>Team Player: You enjoy collaborating, learning from and teaching others so we can all become better developers. You assume good intent in others, and actively do your part to make a positive work environment</li><li>Proactive:You have a knack for anticipating problems and are self-motivated to venture beyond the obvious. You have a bias for action and desire to get things done.</li><li>Experience applying machine learning to enterprise applications will be an advantage.</li><li>You are a Recruiter! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world!</li></ul><strong> Accommodations <br><br></strong>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br><br><strong> Posting Statement <br><br></strong>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br><br><u>Salesforce.com</u> and <u>Salesforce.org</u> are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. <u>Salesforce.com</u> and <u>Salesforce.org</u> do not accept unsolicited headhunter and agency resumes. <u>Salesforce.com</u> and <u>Salesforce.org</u> will not pay any third-party agency or company that does not have a signed agreement with <u>Salesforce.com</u> or <u>Salesforce.org</u> .<br><br>Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:36:31.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

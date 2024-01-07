@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Networking,Computer Software",
+    "description": "<ul><li>Responsible for maintaining and scaling production services and servers across multiple data centers and regional public clouds for complex and data-intensive cloud services</li><li>Improve scalability, service reliability, capacity, and performance</li><li>Write automation code for provisioning and operating infrastructure at massive scale, you are not an operator, you\u2019re an experienced software engineer focused on operations.</li><li>Work with development teams to make sure the applications fit nicely within the infrastructure and scalability/reliability is designed and implemented from the grounds up</li><li>Participate in the occasional on-call rotation supporting the infrastructure.</li><li>You will roll up the sleeves to troubleshoot incidents, formulate theories and test your hypothesis, and narrow down possibilities to find the root cause.</li></ul><p><br></p><p>Skills </p><p><br></p><ul><li>Strong development/automation skills.</li><li>Must be very comfortable with reading and writing Python code. Java is a plus.</li><li>3+ years of Unix/Linux experience, with some experience in managing 100+ nodes.</li><li>Tools-first mindset.</li><li>Experience with public cloud GCP/AWS/Azure.</li><li>Experience with Configuration Management and CI/CD. Salt and Ansible preferred.</li><li>Familiar with web servers (Nginx preferred) and HA Proxy.</li><li>Preferred experience: Hadoop, Kafka, RabbitMQ, Spark, HBase, Elastic Search, Containers, OpenStack. Organized, focused on building, improving, resolving and delivering. </li><li>Good communicator in and across teams, taking the lead</li></ul><p><br></p><p>At HCL, we don\u2019t just accept the differences\u2014we support it and celebrate it. We are committed to cultivating and preserving a culture of inclusion and connectedness. We are able to grow and learn better together with a diverse team of employees. As an equal opportunity employer, we stay true to our mission by ensuring that our place can be anyone\u2019s place.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T14:52:17.000Z"
+  },
+  "company": {
+    "name": "HCL Technologies",
+    "link": "https://in.linkedin.com/company/hcl-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

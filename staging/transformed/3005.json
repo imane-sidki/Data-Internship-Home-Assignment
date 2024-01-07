@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, JMET",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>We are Apple's JMET team manages critical B2B platforms for integrating with Apple's external partners such as Manufacturers, logistics providers, banks, resellers and business customers! <br><br><br>We are seeking a technically strong hands-on individual with a passion for provisioning and operating critical services at scale. <br><br>The individual will be responsible for setting up infrastructure, deployments, monitoring, patching and providing L2 support for multiple services. <br><br><br>The position requires partnering with extraordinary engineers in Apple's information security, network and compute teams to build secure, permanent and reliable solutions.<br><br> <br><strong>Key Qualifications<br></strong> <br>Solid foundation in Webmethods Integration server and Webmethods Trading Networks.<br><br>Good understanding of Oracle database and performance tuning, analysis of database metrics, query performance.<br><br>First-hand experience in performance tuning of Java applications, JVM garbage collection.<br><br>Solid programming experience in Java or Python and shell scripts.<br><br>Knowledge of HTTP/S, TCP, DNS and application load balancing.<br><br>Good understanding of basic security concepts and protocols - authentication, authorization, signing, encryption, TLS, SSH/SFTP, PKI, X509 certificates and PGP.<br><br>Knowledge of EDI, AS2 protocol, Webmethods SAP adaptors is preferred but not required.<br><br>Experience with a CI/CD tools such Ansible, Puppet, Jenkins, Spinnaker will be a plus.<br><br>Knowledge of PCI, SOX Compliance requirements for IT systems will be a plus.<br><br> <br><strong>Description<br></strong> <br>We are looking for a Site Reliability Engineering role passionate about provisioning, securing and scaling services for integrating Apple and its B2B partners while maintaining performance, availability and capacity! <br><br><br>It is a hands-on role for managing day to day operations tasks such as code deployments, configuration changes, security, supervising and alerting as well as providing second level of support for any production issues. <br><br><br>In addition to operational tasks, you will also work on longer term projects for automating application infrastructure setup and configuration management. <br><br><br>You will be responsible for coordinating multiple middleware applications running primarily on Webmethods servers and using frontend load balancers, Oracle DB and object storage services.<br><br>You will be managing applications that handle a wide variety of B2B data related to Apple's supply chain such as shipments, forecasts, manufacturing data, invoices, and supplier information. <br><br><br>The ideal candidate should have both good systems, operations and automation skills as well as experience dealing with performance and security issues in a production environment. <br><br><br>Technical expertise, good interpersonal skills and teamwork are critical requirements for this role as it involves working with both technical and non-technical groups within Apple.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor's degree in Computer Science or Engineering subject area with extensive experience in operating software platforms and managing infrastructure<br><br> <br>Role Number: 200257359<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T07:55:45.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80100,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

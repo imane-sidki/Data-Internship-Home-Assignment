@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Full Stack",
+    "industry": "Renewables & Environment",
+    "description": "Outlast is a tech-enabled marketplace focused on modernizing the recycling industry (goodbye fax machines!). Our technology enables suppliers and buyers to safely and effortlessly transact their materials at the push of a button. In addition to connecting suppliers and buyers we also handle global logistics, financing, and quality control! As a company, we believe in delivering an amazing customer experience and doing good for the environment by promoting recycling. On the latter, the proof is in the facts: recycling 1 ton of material is the equivalent to reducing the greenhouse gas emissions of more than 7,000 miles in a passenger car.<br><br>The Opportunity:<br><br>We are looking for a Software Engineer to join our rapidly-growing product and engineering team (remote friendly - see note at bottom of post!) . This individual will join the team in one of the following pods:<br><br>Marketplace: Our marketplace has been our key internal growth driver allowing us to intelligently match supply and demand. In the coming months we are committing to this concept fully and making it customer facing! Projects here will include improving our matching algorithms, driving customer usage, and directly influencing our business model and sales flow!<br><br>Admin Platform: Our admin platform enables our Sales and Ops teams to track and execute on complex orders across the globe. Projects here will involve work flows, financials, logistics, and innovating on our industry leading quality control!<br><br>Client Platform: Our client platform is our customer facing interface where customers view and execute against their orders. Projects here will involve work flows, payments, and a keen eye for detail when building out amazing UI/UX for web and mobile!<br><br>Special Projects: We are always looking for the next big thing. Projects here can include everything from overhauling our data pipeline and building the next great metric to implementing a new CRM and integrating it into our systems.<br><br>Technologies We Use:<br><ul><li>Typescript </li><li>Next.js deployed on Vercel for our front end framework</li><li>Node.js backend framework modeled after Nest.js</li><li>API integrations with various companies ranging from freight providers to major software companies</li><li>Bigquery for our analytics stack</li><li>Google Cloud for our serverless API and NoSQL database</li><li>Fully automated deployments using GitHub actions<br><br></li></ul><strong>What You Will Do:<br></strong><ul><li>Own projects from concept to finished product. Work with stakeholders to define project requirements and become the internal \u201cexpert\u201d in that area. Collaborate with our product and engineering team to plan out the various rollouts then execute on your creation!</li><li>Sharpen your technical expertise: learn from (and teach) our talented engineering team! Discuss technical intricacies ranging from conditional types in Typescript, to whether or not we should adopt DBT for our analytics stack.</li><li>Disrupt an antiquated industry that is reliant on fax machines and hand shakes.</li><li>Influence the company beyond just the engineering team - engineers are encouraged to operate like business leaders, stepping outside of their comfort zones to work with our other teams and drive new processes and solutions across the company.<br><br></li></ul><strong>What we're looking for:<br></strong><ul><li>BS or higher in Computer Science or a related technical field</li><li>4+ years of experiencing using our technologies referenced above</li><li>Startup experience strongly preferred</li><li>Strong communicator who never loses sight of the details</li><li>Self-starter with a \u201croll-up your sleeves\u201d mentality and a bias for action<br><br></li></ul><strong>NOTE</strong>: This is a remote friendly role - we are open to both domestic and international candidates!<br><br>Powered by JazzHR<br><br>fJFdT16zaW",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T07:23:00.000Z"
+  },
+  "company": {
+    "name": "Outlast",
+    "link": "https://www.linkedin.com/company/outlastearth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Retail",
+    "description": "<p><strong>Location</strong>: Corporate Headquarters - Springfield, MO or Remote</p><p><strong>Tentative Schedule</strong>: Monday-Friday, 8 a.m.-5 p.m.</p><p><strong>Compensation Range</strong>: $65,000.00 - $115,000.00 annually, pay will be based upon applicable experience, training and skills</p><p><strong>Bonus</strong>: This job is eligible for an annual cash bonus based on individual goal achievement.</p><p><br></p><p>A<strong><em>Data Scientist II</em></strong>at O'Reilly Auto Parts is responsible for modeling complex enterprise problems, discovering insights and identifying opportunities through the use of statistical, algorithmic, mining and visualization techniques. The Data Scientist II will work closely with clients, data stewards, project/program managers and other IT teams to turn data into critical information and knowledge that can be used to make sound organizational decisions.</p><p><br></p><p><strong>Essential Job Functions</strong></p><ul><li>Work with stakeholders to identify opportunities for leveraging company data to drive business solutions.</li><li>Synthesize facts, theories, trends, inferences, key issues and themes in complex and variable situations.</li><li>Recognize abstract patterns and relationships between seemingly unrelated entities or situations.</li><li>Apply appropriate concepts and theories in the development of principles, practices, techniques, tools, and solutions.</li><li>Gather and analyze information or data on current or historical trends to anticipate the future.</li><li>Improve organizational performance through the application of original thinking to existing and emerging methods, processes, products and services.</li><li>Employ sound judgment in determining how innovations will be deployed to produce return on investment.</li><li>Translate up-to-date information into continuous improvement activities that enhance performance.</li><li>Anticipate, identify and define problems while continually.</li><li>Develop and implement practical and timely solutions.</li></ul><p><br></p><p><strong>Skills and Qualifications</strong></p><p><strong>Required:</strong></p><ul><li>Bachelor's degree in an Information Technology field.</li><li>5+ years' practical experience with ETL, data processing, database programming, and data analytics.</li><li>Extensive experience with Python, including Pandas, Numpy, SciKit-Learn, and Jupyter notebooks.</li><li>Extensive experience with machine learning and statistical modeling.</li><li>Knowledge of a variety of machine learning techniques (e.g., clustering, decision-tree learning, artificial neural networks) and their real-world advantages/drawbacks.</li><li>Knowledge of advanced statistical techniques and concepts (e.g., regression, properties of distributions, statistical tests and proper usage) and experience with applications.</li><li>Mastery of SQL along with knowledge of database design and optimization.</li><li>Excellent communication skills and the desire to work in a dynamic and collaborative environment.</li><li>Demonstrable ability to develop and implement mathematical solutions to data problems.</li></ul><p><strong>Desired:</strong></p><ul><li>Advanced degree in Computer Science, Statistics, Applied Math, or related field.</li><li>Experience with a high-level programming language such as Java.</li><li>Linux command line experience that includes shell scripting.</li></ul><p><br></p><p><strong>Benefits</strong></p><p>All full time team members are eligible for a benefits package that is designed to offer convenience and security to our team members and their families. Programs, resources and benefit eligibility varies based on employment status, average hours worked, location and length of service. For detailed benefits info, pleaseclick hereor typehttp://bit.ly/ORLYBenefitsin your browser.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T19:04:15.000Z"
+  },
+  "company": {
+    "name": "O'Reilly Auto Parts",
+    "link": "https://www.linkedin.com/company/o%27reilly-auto-parts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

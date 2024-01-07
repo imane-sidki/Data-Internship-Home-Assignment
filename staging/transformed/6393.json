@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer - Test (SDET)",
+    "industry": "Electrical/Electronic Manufacturing",
+    "description": "We\u2019re looking for a <strong>Software Development Engineer - Test</strong> to join our Philips Hue Partnerships &amp; Entertainment Engineering Team in Palo Alto, California.<br><br>Working for Signify means being creative and adaptive. Our culture of continuous learning and commitment to diversity and inclusion creates an environment that allows you to build your skills and career. Together, we\u2019re transforming our industry.<br><br>As the world leader in lighting, we\u2019re constantly ahead of the curve. Through our leadership in connected lighting and the Internet of Things, we\u2019re breaking new grounds in data analytics, AI, and smart homes, offices, cities and more!<br><br>Signify is one of the few companies in the world to achieve carbon neutrality and our next sustainability goals are even bolder: doubling our positive impact on the environment and society by 2025.<br><br>As a Software Development Engineer - Test, you\u2019ll be responsible for End2End CI/CD (Continuous Integration and Continuous Delivery/Deployment) and test automation of these products, with a focus on API-based integration testing of the device firmware and Cloud backends.<br><br>By joining the global Philips Hue business, you\u2019ll be working on the world\u2019s leading internet connected home lighting system, which is changing the way people interact and experience lighting. The Hue ecosystem is expanding rapidly through new lights, accessories, and exciting new use-cases such as using lighting to make your home more secure or create an immersive home theater experience.<br><br>We are a small fast-growing multi-disciplinary engineering team in the Bay Area with the large responsibilities to create and maintain Philips Hue partnership integrations and Hue Entertainment products. We develop first-of-a-kind products that can synchronize lighting with games, movies, and music, and we build integrations with products from other leading Smart Home and Entertainment companies.<br><br>We\u2019re on the lookout for forward-thinking innovators with a passion for IoT, Smart Home and Entertainment, who are excited to help us build the next level home lighting experience. If you match this description, get in touch!<br><br>What you\u2019ll do<br><ul><li>Define the test automation strategy and develop CI/CD and test automation frameworks, to support new product launches</li><li>Implement automated test cases for our Partnership Integrations and Hue Entertainment products, such as the Philips Hue Sync Box</li><li>Document, investigate and communicate defects discovered during test execution</li><li>Represent Philips Hue in Connectivity Standards Alliance test scripting group, working with other leading Smart Home companies to build the technologies that will power the next generation IoT ecosystems </li><li>Closely collaborate with QA, software developers, product managers, and external partners, both on-site and internationally, to jointly ensure we deliver high quality products<br></li></ul><strong><u>Your Qualifications<br></u></strong><ul><li>Minimum of a Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, or related </li><li>4+ years of experience in software engineering or software testing and 2+ years' track record in developing robust, scalable test automation solutions for complex software products </li><li>Experience with Java and Python or similar languages, automation tools like Jenkins, and network communication technologies including HTTP APIs</li><li>Effective communication and collaboration skills</li><li>Strong quality mindset and passion for delivering the best consumer IoT and Smart Home product experiences<br></li></ul><strong><u>Preferred<br></u></strong><ul><li>Experience testing IoT products combining device firmware and cloud services</li><li>Domain knowledge in Smart Home and/or Audio/Video processing<br></li></ul>Who we are<br><br>Signify is the world leader in lighting. We provide professional customers and consumers with quality, energy-efficient LED lighting. And our lights, when connected, bring data to devices, apps and people \u2013 redefining what light can do and how you use it. Today, our innovations, such as Philips Hue, LiFi \u2013 internet connectivity through light \u2013 and UV-C, solar and horticultural lighting, contribute to a safer, smarter, more sustainable world. Signify is one of the few companies in the world to achieve carbon neutrality and our next sustainability goals are even bolder: doubling our positive impact on the environment and society by 2025. We\u2019re operating in 74 countries with 32,000 people worldwide.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:11:20.000Z"
+  },
+  "company": {
+    "name": "Signify",
+    "link": "https://nl.linkedin.com/company/signifycompany"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

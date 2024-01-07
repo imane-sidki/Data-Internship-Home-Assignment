@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Vulnerability Researcher",
+    "industry": "Internet",
+    "description": "Raytheon is a premier engineering company that provides technical solutions in software development and systems engineering that address security challenges. Raytheon hires industry-leading cyber professionals, and we treat them like industry-leading cyber professionals. We bring exceptional talent to an array of missions that includes computer network operations, vulnerabilities, characterization, information assurance, and emerging technologies to expand cybersecurity solutions. Raytheon engineers are developing advanced analytics helping transform analysis by making sense of the massive amounts of data that must be processed quickly to respond to evolving mission needs. Position Description: Vulnerability researchers at Raytheon CODEX analyze systems to understand how they work and how they behave when they break. Candidates must be able to play both sides of the fence, both developing and defeating new and advanced security techniques. Projects are undertaken in small teams with close coordination with customers. All our engineers write code, but many of our engineers spend as much time taking systems apart as building new ones. A typical day can involve studying disassembly or writing Python to audit a piece of C++ code<li>Information security continues to be a growth industry. We are constantly looking to find the right candidates who can do this challenging work. Required Skills : Experience with C or C++ 4 years of professional experience 3 or more of the \"desired skills\" below Desired Skills : Understanding of OS Internals (any major OS) Experience with Vulnerability Research Experience reading or writing assembly (x86, x64, ARM, PPC, MIPS, SPARC, 68k, or others) Experience developing embedded systems Understanding of network protocols (TCP/IP stacks, wire-level protocols, RF communications, BGP, routing protocols, or others). Understanding of exploit mitigations such as DEP and ASLR Experience using reverse engineering tools such as IDA Pro, HexRays, Ghidra, Binary Ninja, or objdump. Experience using debuggers such as gdb, WinDbg, OllyDbg Experience with BDI/JTAG Experience with modern C++ development, such as RAII, C++11 and C++14. Experience building and using tools to find, exploit, and productize vulnerabilities in complex software systems Security Clearance : Qualified applicants may be subject to a security investigation and must meet minimum qualifications for access to classified information. US Citizenship is required<li>An active TS/SCI W/Poly clearance required<li>Qualified applicants must meet the requirements to obtain and maintain a government security clearance. Our Interviews : Our interviews are technical. Come prepared to tell us about your technical background and interests as well as to work through some of our questions on a computer or whiteboard. We hope candidates find our questions to be thought provoking, but we don't ask brain teasers or tricks. This is a chance to have a dialog with our team, and we hope you will enjoy it 177660 Raytheon is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender orientation, gender identity, national origin, disability, or protected Veteran status.</li></li></li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:41:40.000Z"
+  },
+  "company": {
+    "name": "JobGet",
+    "link": "https://www.linkedin.com/company/jobget"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lothian",
+    "region": "MD",
+    "postal_code": "20711",
+    "street_address": null,
+    "latitude": 38.831898,
+    "longitude": -76.609245
+  }
+}

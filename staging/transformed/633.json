@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Backend tech: java, spring boot, hibernate<br>front end: react",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:43:23.000Z"
+  },
+  "company": {
+    "name": "Benefits Science Technologies",
+    "link": "https://www.linkedin.com/company/benefits-science"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

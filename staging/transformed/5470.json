@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Storage",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong>Role <br><br></strong>Tesla is currently looking for a seasoned Site Reliability Engineer (SRE) to join the Platform Storage team to build the Tesla's next gen object storage platform that will be the foundation of all the critical data and services we build.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Own the object storage platform</li><li>A strong ability to identify performance and scaling bottlenecks at design time is a must have.</li><li>Influence architectural decisions with focus on security, scalability and high-performance.</li><li>Setup and maintain monitoring, metrics &amp; reporting systems for fine-grained observability and actionable alerting.</li><li>Work with various internal teams to develop technology and capacity roadmaps.<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Strong understanding and demonstrated expertise of running object storage solutions at scale.</li><li>BS or MS degree in Computer Science or Engineering, or equivalent experience.</li><li>5+ years of managing services in a distributed, internet-scale *nix environment.</li><li>Experience designing solutions for high throughput / low latency storage environments.</li><li>Understanding of loadbalancing and traffic routing.</li><li>Ability to prioritize tasks and work independently.</li><li>Advanced or expert-level Linux administration.</li><li>Advanced experience with configuration management systems such as Ansible, Puppet or Terraform.</li><li>Demonstrable knowledge of TCP/IP, Linux operating system internals, filesystems, disk/storage technologies and storage protocols.</li><li>Experience with AWS, or other cloud infrastructure providers.</li><li>Fundamental understanding of how kubnernetes works.</li><li>Proficiency in a high-level language like Python, Go, Ruby and/or Java</li><li>Excellent communication skills to collaborate with teams globally </li><li>Ability to manage competing priorities, and work well under pressure</li><li>Knowledge of big data platforms such as Hadoop a plus.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T20:00:07.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

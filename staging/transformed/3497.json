@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Develop quality software and web applications</li><li>Analyze and maintain existing software applications</li><li>Design highly scalable, testable code</li><li>Discover and fix programming bugs</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or equivalent experience in Computer Science or related field</li><li>Development experience with programming languages c#.net , javascript , reactjs, angularjs , sitecore</li><li>SQL database or relational database skills</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T04:36:24.000Z"
+  },
+  "company": {
+    "name": "Pattanayak Engineering Inc",
+    "link": "https://www.linkedin.com/company/pattanayak-engineering-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plantation",
+    "region": "FL",
+    "postal_code": "33004",
+    "street_address": null,
+    "latitude": 26.128277,
+    "longitude": -80.24237
+  }
+}

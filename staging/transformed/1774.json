@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Core Onboard Software",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "Software Engineer, Onboard Software<br><br>Our core onboard software engineers work closely with robotics engineers to develop safe, secure, and performant software solutions used across multiple engineering teams, providing reliable and well-designed libraries for use throughout the system. As an engineer on Motional's middleware team, you will implement and optimize middleware in high-performance, production-grade C++ and work in a complex and growing software ecosystem where new features are being added and evaluated rapidly and cross-functional collaboration is essential.<br><br>The Motional Pittsburgh office is located in the new Hazelwood Green development at 4734 Second Avenue, a culmination of the city's goal of restoring an economic driver to the neighborhood in a thoughtful, inclusive, and sustainable way. With views along the Monongahela river, the Pittsburgh office is in the heart of this new state of the art development.<br><br><strong><u>What You'll Be Doing<br></u></strong><ul> <li>Collaborating with technical experts throughout the organization to deliver and optimize the software platform used by the autonomous driving stack.</li> <li>Driving design, implementation, and feature development for IPC and process management.</li> <li>Designing algorithms and data structures for efficiency and performance.</li> <li>Finding opportunities to improve code and documentation</li> <li>Providing technical leadership to the team</li> <br><br></ul><strong><u>What We're Looking For<br></u></strong><ul> <li>BS or MS in Computer Engineering, Electrical Engineering, Computer Science or equivalent knowledge and work experience.</li> <li>Experience in C++14 or higher</li> <li>Knowledge of software engineering principles including requirements gathering, software design, source control management, build processes, code reviews, testing methods. </li> <li>Experience designing effective and elegant APIs that will be used by engineers spanning multiple teams</li> <li>Experience with optimization techniques used to develop low latency applications</li> <li>Familiarity with modern multithreading techniques and ability to reason through possible execution sequences to ensure that your code is thread-safe.</li> <li>Strong problem-solving skills</li> <li>Experience supporting and monitoring production software</li> <li>Ability to operate in a dynamic and fast-paced environment</li> <li>Desire to learn new things and to teach and mentor others</li> <li>Experience working with Linux</li> <br></ul><strong>Bonus Points<br></strong><ul> <li>Experience collaborating with System and Hardware Engineers</li> <li>Experience writing software for complex, safety-critical systems</li> <li>Experience with Git and Bazel</li> <li>Experience in the AV industry</li> <br><br></ul><strong>Motional is making driverless vehicles a safe, reliable, and accessible reality.<br><br></strong>Our team is commercializing a world-class driverless system. The Motional team is behind some of the industry's largest leaps forward in the last decade, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's most-established public robotaxi fleet. Strategically formed by Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives.<br><br>Headquartered in Boston, Motional has operations in the US and Asia. For more information, visit www.Motional.com and follow us on Twitter, LinkedIn, Facebook, Instagram and YouTube.<br><br><em>Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:16:34.000Z"
+  },
+  "company": {
+    "name": "Motional",
+    "link": "https://www.linkedin.com/company/motionaldrive"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69900,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

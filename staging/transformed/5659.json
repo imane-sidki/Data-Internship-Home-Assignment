@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong>Job title : SRE</strong></p><p><strong>Location : NYC</strong></p><p><strong>Full Time Position </strong></p><p><strong></strong></p><p><strong>Required Qualifications:</strong></p><p>\u00b74-5 years of work experience year work experience in a DevOps or Site Reliability Engineer role.</p><p>\u00b7Good working knowledge in production/application support</p><p>\u00b7Good with OOP concepts and Python programming/scripting</p><p>\u00b7Strong Computer Science fundamentals in Data Structures, Algorithms, Complexity Analysis, Object-Oriented Design and Designing Large Scale Data-Intensive Applications.</p><p>\u00b74+ years industry experience in Expert Knowledge in Linux, Python, Shell,JavaScript, MongoDB, Elasticsearch, Redis</p><p>\u00b7Comfortable multi-tasking, managing multiple stakeholders and working as part of a team</p><p></p><p><strong>Preferred Qualifications:</strong></p><p>\u00b7Experience in ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus + Grafana</p><p>\u00b7Experience with continuous deployment/delivery practices</p><p>\u00b7AWS Certifications such as Solution Architect, DevOps Engineer</p><p>\u00b7Experience with Container technologies like Docker, Kubernetes</p><p>\u00b7Experience with cloud computing systems</p><p>\u00b7Networking including TCP, HTTP, DNS, SSL certificates</p><p>\u00b7Knowledge of Slang/SecDB is a plus</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T19:53:50.000Z"
+  },
+  "company": {
+    "name": "Zentek  Infosoft ",
+    "link": "https://www.linkedin.com/company/zentekinfosoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

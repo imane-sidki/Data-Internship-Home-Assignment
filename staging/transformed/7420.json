@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Internet",
+    "description": "<p><strong>About Pushnami<br><br></strong></p>  <p>Pushnami is a leading digital marketing software provider based in Austin with a focus on building cutting-edge solutions to deliver unparalleled performance. The company offers its clients unparalleled performance through machine learning enabled messaging solutions. Pushnami builds technologies on the forefront of the latest online notification technologies. The system currently delivers over 800 million unique messages per day and is live on more than 10,000 enterprise websites globally.<br><br></p>  <p><br><br></p>  <p><strong>About the Site Reliability Engineer Role<br><br><br></strong></p><br><p>We are seeking a creative Site Reliability Engineer to ensure Pushnami's platform is stable and secure. You will be responsible for the health of our system, ensuring that managed assets are performing as expected, creating and maintaining automated alerts, and enabling self-healing infrastructure.<br> <br> <strong>Responsibilities<br> <br><br></strong></p>  <ul> <li>Ensure that the infrastructure supporting Pushnami's platform is highly available and scalable</li> <li>Support, maintain, monitor, and manage cloud infrastructure</li> <li>Collaborate with the Tech team to support engineering and development efforts and ensure system integrity</li> <li>Monitor metrics and develop ways to improve reporting and alerting</li> <br></ul><p>Requirements:<br><br></p><p><br><br></p>  <ul> <li>Bachelor's degree in in computer science or related field, or equivalent working experience</li> <li>3+ years in an SRE/DevOps role, or related IT or operations</li> <li>3+ years operational experience with a public cloud environment (AWS preferred) </li> <li>Strong understanding of security and observability principles and methodologies</li> <li>Proficient with Linux system operations and networking</li> <li>Proficient in scripting with Python and bash</li> <li>Experience working with Kubernetes, ECS, or other containerization platforms</li> <li>Familiar with automation/deployment principles and technologies (Terraform, Ansible/Salt/Puppet, Git)</li> <li>Familiar with Scrum and Agile development methodologies</li> <li>Good interpersonal skills and communication with all levels of management</li> <br></ul><p>Benefits:<br><br></p><ul> <li>Full Medical and Dental PPO Insurance that is 100% paid for by the company</li> <li>401k Retirement Plan - Fully matched up to 6%</li> <li>Paid parental leave for primary caretaker</li> <li>Flexible work schedule that is based on performance rather than time</li> <li>Hybrid work model</li> <li>Unlimited paid vacation after one year of employment</li> <li>Relaxed dress code and open office environment</li> <li>$100 in \"Fringe\" benefits monthly (online marketplace where you can purchase the perks you choose - Netflix, Hulu, AirBnb, Royal Caribbean Cruises, child care, dog walking, you name it!)</li> <li>Orange Theory Gym Membership</li> <li>Full stocked break room, breakfast taco Tuesday, catered lunches Monday - Friday for in-office employees</li> </ul>            <p><br><br><br></p>  <p><strong>Our Recruitment Process:<br><br></strong></p>  <ul> <li>Application (You are here!)</li> <li>12-Question Aptitude Exam</li> <li>Hiring Manager Interview</li> <li>Company Leadership Interview</li> <li>Offer</li> </ul><br><p><br><br><br></p><br><p>Pushnami was built on the principles of positivity and acceptance. We strive to build an inclusive work environment that uses our success to make a genuine impact on the community around us. No employee or applicant will face discrimination/harassment based on race, color, ancestry, national origin, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status.<br><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T21:50:10.000Z"
+  },
+  "company": {
+    "name": "Pushnami",
+    "link": "https://www.linkedin.com/company/pushnami"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

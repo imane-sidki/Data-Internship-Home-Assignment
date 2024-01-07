@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Applied Machine Learning (Search)",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Bring passion and dedication to your job and there's no telling what you could accomplish! <br><br><br>Apple\u2019s Applied Machine Learning team has built systems for a number of large-scale data science applications. We work on many high-impact projects that serve various Apple lines of business. We use the latest in open source technology and as committers on some of these projects, we are pushing the envelope. Working with multiple lines of business, we manage many streams of Apple-scale data. We bring it all together and extract the value. We do all this with an exceptional group of ML and software engineers, data scientists, dev-ops engineers and managers. The ideal candidate will have industry experience working on a range of classification and optimization problems, e.g. payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentiment classification, collaborative filtering/recommendation, or spam detection. The position will involve taking these skills and applying them to Apple-scale data.<br><br> <br><strong>Key Qualifications<br></strong> <br>-  3+ years of experience in one or more of the following areas: machine learning, recommendation systems, pattern recognition, data mining or artificial intelligence<br><br><br>-  3+ years of experience with data science and machine learning modeling, from experimentation and prototyping to deployment into production pipelines<br><br><br>-  Meticulous attention to detail and dedication to quality; Excellent written and oral communication skills on both technical and non-technical topics<br><br><br>-  Extensive hands-on experience building solutions for large-scale internet infrastructure; with emphasis on Search and Recommender systems<br><br><br>-  Excellent algorithm and data structure skills (time and space complexity analysis, optimization, etc).<br><br><br>-  Experience with filesystems, server architectures, and distributed systems<br><br><br>-  Extensive hands-on experience in implementing large scale data ingestion pipeline using python and java.<br><br><br>-  Experience with machine learning libraries and packages such as PyTorch, Caffe2, TensorFlow, Keras <br><br><br>-  Experience with scientific computing and analysis packages such as NumPy, SciPy, Pandas, Scikit-learn<br><br> <br><strong>Description<br></strong> <br>Join Apple's AML Team, as a Search ML engineer. You will work with other search engineers in the team for overall success for Search and other ML based systems. Collaborate with peers from other Engineering groups, MarCom, AppleCare and operations teams to solve complex and challenging problems with efficient and scalable delivery of Search solutions.<br><br><br>You are expected to be self-motivated, dedicated, and a solution-oriented individual. The main responsibilities for this position include: <br><br><br>-  Define and build pipeline to ingest, process and tag search data<br><br><br>-  Define and build pipeline to capture implicit and explicit feedback to evaluate search quality<br><br><br>-  Identify gaps and define the solution to implement those gaps.<br><br><br>-  Work with other engineering teams within Apple to build high quality solution.<br><br><br>-  Implement highly scalable end to end real time serving solution.<br><br><br>Other aspects of the job include mentoring and providing feedback to junior developers, working with the team manager and PM in estimating scope and team capacity, responding to urgent requests from executives or business needs, and maintaining the stability and high reliability of our systems.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Master's degree or PhD in Computer Science, Artificial Intelligence, Machine Learning, or related technical field. 3+ year relevant industry experience.<br><br> <br><strong>Additional Requirements<br></strong> <br>-  Analyze, measure and evaluate the search ranking quality in the production system<br><br><br>-  Hand on experience on Query understanding and tokenization.<br><br><br>-  Identify and define various ways of search integration with new line of businesses<br><br> <br>Role Number: 200155037<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:11:34.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 135000,
+    "max_value": 206000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

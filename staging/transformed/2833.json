@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p><strong>REQUIREMENTS</strong></p><p><strong>As a member of the team, you will:</strong></p><ul><li>Be responsible for our end-to-end machine learning pipeline, from model development to production deployment.</li><li>Build the team and drive the direction of the company.</li><li>Shape our product and culture.</li><li>Experience the direct impact of what you build on hundreds of millions of people\u2019s financial lives.</li></ul><p><br></p><p><strong>Required Skills:</strong></p><ul><li>Python</li><li>MachineLearning</li><li>Rust</li><li>NLP</li><li>PyTorch</li></ul><p><br></p><p><strong>The following is a big plus:</strong></p><ul><li>Fluency in Python and PyTorch</li><li>Experience with training and deploying models in multi-GPU environments</li><li>Recognized open-source contributions</li><li>Participation in competitive programming events (CTFs, IOI, IMO, Topcoder, Kaggle, etc.)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T20:54:15.000Z"
+  },
+  "company": {
+    "name": "Preferhired",
+    "link": "https://www.linkedin.com/company/preferhired"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

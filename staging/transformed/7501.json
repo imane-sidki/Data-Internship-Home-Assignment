@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Spark / Scala Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<strong>Location: Sunnyvale, CA or Austin, TX Seattle WA <br><br></strong><strong>Fulltime <br><br></strong><strong>Candidate must be open to relocate post COVID<br></strong><ul><li>Experience in developing Big Data applications using java, Scala, python, Spark, Hive, Kafka, apache airflow</li><li>Strong analytical and interpersonal skills. Should be highly motivated and ability to learn quick</li><li>7-10 years with min 5 years experience &amp; In-depth understanding of data structures and algorithms</li><li>Designing and building dimensional data models to improve accessibility, efficiency, and quality of data</li><li>Database development experience with Relational or MPP/distributed systems such as Oracle/Teradata/Vertica/HANA/Hadoop/ </li><li>Programming experience in building high quality applications, data pipelines and analytics solutions. </li><li>Experience in working with frameworks, transpilers, code generators</li><li>Should be proficient in writing Advanced SQLs, Expertise in performance tuning of SQLs. </li></ul> Exposure to cloud methodologies and experience with AWS preferred",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:52:39.000Z"
+  },
+  "company": {
+    "name": "Centraprise",
+    "link": "https://www.linkedin.com/company/centraprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Juneau",
+    "region": "AK",
+    "postal_code": "99802",
+    "street_address": null,
+    "latitude": 58.301037,
+    "longitude": -134.42464
+  }
+}

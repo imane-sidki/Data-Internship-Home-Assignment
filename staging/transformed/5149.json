@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Come help us build the next generation cloud platform to support internet services across Apple. Our software provides storage at massive scale and with high reliability to product teams at Apple. We are looking for a software engineer to join our collaborative and friendly team to help us develop large scale services and infrastructure.<br><br> <br><strong>Key Qualifications<br></strong> <br>A track-record and proven experience as a distributed systems software developer.<br><br>Deep knowledge of non-blocking (asynchronous) and thread-safe programming, ideally in Java.<br><br>Experience building, launching and operating infrastructure at scale.<br><br>Understanding of database systems and distributed consistency algorithms a plus.<br><br>Knowledge of continuous integration, testing methodologies, TDD development methodologies.<br><br>Understanding of file system handling on Linux a plus.<br><br>Understanding of C++ libraries and JNI integration a plus.<br><br>Some exposure to structured or unstructured storage and caching.<br><br> <br><strong>Description<br></strong> <br>We are building a distributed, ordered key-value database to support critical infrastructural systems and frameworks. These form the platform upon which many iCloud and other backend systems at Apple are built. The team is responsible for the next generation platform that will power Apple's infrastructural services. The database will have huge scale and store petabytes of data. We are looking for an experienced developer with a desire to learn to join as a member of this collaborative and friendly team. This person will have individual responsibility and influence over the direction the backend of many critical Apple internet services. The features shipped by this candidate will impact hundreds of millions of users of Apple products.<br><br>-<br><br>Responsibilities will include:<br><br>-<br><br>Design, build and maintain software &amp; services to improve the feature set, availability, scalability and security of Apple's internal cloud infrastructure.<br><br>Use proven testing methodology to assure system stability and performance.<br><br>-<br><br>Minimum requirements:<br><br>-<br><br>A bachelors degree in computer science or work equivalence.<br><br>At least 5 years experience writing product quality code for a product or service. 10 or more years experience is a plus.<br><br>At least 3 years experience with operating and shipping features for distributed systems.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science or equivalent industry experience.<br><br> <br>Role Number: 200267212<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T14:45:29.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

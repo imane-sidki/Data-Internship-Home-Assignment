@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>This team focuses specifically on site reliability as a service to the 4 LOBs in Consumer Lending Tech (Mortgage, Auto, Card, Personal Lending), supporting more than 700 Apps in tandem with Engineering teams within those groups.</p><p><strong>Example:</strong></p><p>They will need to understand and explain how to build CI/CD pipelines but will not be actually building them. They will support deployment, testing, and production support. They will MEASURE the performance throughout the lifecycle, using different observability (Splunk, ElasticSearch, etc) and within various types of testing (Load, performance, UAT). Candidates should be able to explain the process</p><p></p><p>They will ask about Site reliability in general. \u201cCan you explain Site Reliability and the types\u201d? Answers like \u201cembedded\u201d and \u201ckitchen sink\u201d, among others, will be important to at least understand. Other questions around how you measure and why, as well as a request share example of problems solved and/or customer satisfaction stories. Another unique question:</p><p>Do you know what Golden Signals are and the types?</p><p>Candidates so they should understand concepts of the below and examples of experience:</p><ul><li>CI/CD pipelines</li><li>Observability</li><li>Automation</li><li>Deployment and production support</li><li>Platform \u2013 AWS, Azure, PCP</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T17:48:22.000Z"
+  },
+  "company": {
+    "name": "Strategic Staffing Solutions",
+    "link": "https://www.linkedin.com/company/strategic-staffing-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

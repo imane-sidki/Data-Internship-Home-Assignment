@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>About Us<br><br></u></strong>Bestow is the leading digital platform for life insurance. As both a direct-to-consumer destination and an infrastructure provider, Bestow is on a mission to make life insurance accessible to millions of underserved families.<br><br>We ideate fast, embrace change, and take risks. As a rapidly growing tech startup, we look for the best talent out there and try to stay out of their way. From scaling our business model to expanding our offerings, the day-to-day at Bestow offers endless professional growth opportunities. The people who succeed here look for problems and solutions. They are both passionate about their ideas and open to having their mind changed.<br><br>In the end, we value the same things our customers do: family. So we strive for work-life balance and believe happy employees make for better experiences and happier customers. It\u2019s a model that helped us land the #2 spot on Forbes\u2019 Best Startup Employers 2021 list. Boom!<br><br>As a <strong>Senior Site Reliability Engineer, </strong>you automate cloud resources, implement developer tooling, and make changes to our products to increase their manageability.<br><br>You can establish the technical design.<br><br>You have experience with systems administration and cloud service automation.<br><br>Bestow engineers are great teammates. You will spend half of your time embedded with a product team. We do this so that you can get to know the needs of our product teams and ensure we build useful tooling. The remainder of your time will be spent with other Site Reliability Engineers working on cross-cutting projects.<br><br>Do you want to build products to reinvent a centuries-old industry? If so, we'd love to hear from you.<br><br><strong><u>Challenges On Which You Can Expect To Work<br><br></u></strong>Cloud Infrastructure Projects<br><br>We believe that all cloud infrastructure should be treated as code. Modifications go through code review and are performed using CI tools.<br><br>Automate cloud infrastructure using tools like Terraform and Atlantis;<br><br>Administer our software platform including Kubernetes, BigQuery, and PostgreSQL;<br><br>Evaluate and design solutions for continuous integration, continuous delivery, and DevOps productivity.<br><br>Ensure Reliability of Our Software<br><br>Great software is more than product features. It simultaneously considers non-functional concerns like security, maintainability, and extensibility.<br><br><strong><u>You Will Ensure<br><br></u></strong>Work with product engineers to identify observability/configurability gaps and make code-level improvements;<br><br>Create tooling to improve the developer experience, helping them achieve value faster and more effectively;<br><br>Manage runbooks for incident response;<br><br>Measure operational performance and make gradual improvements<br><br><strong>Open to Austin, TX, Dallas, TX or Remote (US) <br><br></strong><strong><u>A Little About You<br></u></strong><ul><ul><li>5+ years of site reliability, systems administration or DevOps experience</li><li>Professional experience with container orchestration systems (Kubernetes, Swarm, Rancher, ECS)</li><li>Professional experience with a cloud hosting platform (GCP preferred)</li><li>Professional experience with Terraform Atlantis experience a plus</li><li>Professional experience administering a CI/CD platform GitOps experience a plus</li><li>Experience with Python 3 and Golang</li><li>Proficient in a scripting language such as Bash, Python or Ruby</li><li>Experience with distributed systems and microservices</li><li>A leaner and motivated to help others</li><li>US Citizen or Permanent Resident (Bestow does not sponsor applicants for work visas, nor employ residents outside of the United States at this time)<br><br></li></ul></ul><strong>Total Rewards<br></strong><ul><ul><li>Competitive salary plus stock options</li><li>Great benefits package</li><li>PTO</li><li>Flexible schedule and work/life balance</li><li>100% company-paid health, dental, and vision insurance</li><li>Choose your computer setup (Mac or PC)</li><li>Office snacks and weekly team lunches</li><li>Team building activities<br><br></li></ul></ul>We value diversity at Bestow. We hire, recruit, and promote without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, pregnancy or maternity, veteran status, or any other status protected by applicable law. We understand the importance of creating a safe and comfortable work environment and encourage individualism and authenticity in every member of our team.<br><br>Bestow does not sponsor applicants for work visas at this time.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T15:40:35.000Z"
+  },
+  "company": {
+    "name": "Bestow Life Insurance",
+    "link": "https://www.linkedin.com/company/bestowlife"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

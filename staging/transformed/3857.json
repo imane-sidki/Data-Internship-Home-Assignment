@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Kubernetes, Helm Charts, DevOps<br>AWS<br>Hands on experience in Kubernetes<br>Hands on experience in Helm charts<br>Deep experience in setting up/maintain CI/CD pipelines and the processes(GitLab/Jenkins/Bamboo).<br>Experience with modern observability/monitoring systems such as Splunk, Grafana, Prometheus<br>Experience with Infrastructure as Code tools and best practices such as Terraform or CloudFormation, as well as knowledge of configuration management systems (Puppet/Chef/Ansible/Salt).",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-16T18:37:11.000Z"
+  },
+  "company": {
+    "name": "Sumeru Solutions",
+    "link": "https://in.linkedin.com/company/sumeru-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

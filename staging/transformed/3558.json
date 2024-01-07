@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote AWS Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<strong>This role is 100% remote!<br><br></strong>This Jobot Job is hosted by Kyle Shaw<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $150,000 - $180,000 per year<br><br><strong>A Bit About Us<br><br></strong>We are one of the largest companies in entertainment. We provide fun to the whole family with our theme parks and other attractions, and are looking for a SRE to join our adtech team that's working with the latest in technology to build an innovative platform that allows our brand to reach a larger and wider audience.<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>This role is 100% remote with competitive base salary, bonus, generous PTO, and great health benefits. We are a collaborative team looking for a senior engineer who enjoys bringing new ideals to the table and wants to make take ownership of several key parts of our infrastructure.<br><br><strong>Job Details<br><br></strong>This role is heavily involved with automation and containerization efforts for an adtech platform. We are looking for someone well-versed in Kubernetes and writing Infrastructure as Code to build out cloud environments.<br><ul><li> 5+ years of professional SRE / DevOps engineering experience</li><li> 3+ years experience creating containers, specifically with Kubernetes (EKS, GKE, AKS, etc)</li><li> Experience standing up CI/CD pipelines, preferably with Azure DevOps, Git, or related tools</li><li> Capable of writing Infrastructure as Code with Terraform or Cloudformation</li><li> Proficient with AWS and related AWS packages (ECS, S3, Lambdas, etc) </li><li> BS in Computer Science or related field<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

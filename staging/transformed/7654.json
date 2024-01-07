@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>Deep Analytics LLC (DA) is a start-up R&amp;D company located in Montpelier, Vermont. DA focuses on winning Government and commercial R&amp;D projects in the areas of machine learning (ML) and sensor development. Due to recent project wins we are looking for an additional hire to help us build ML solutions. We are specifically looking for people with 5+ years of experience in taking ML techniques described in the literature or on Github and applying those techniques to build custom ML solutions for our customers. Ideally, a successful candidate will have experience in the following areas:</p><p><br></p><p>1.\tDeveloping test plans and collecting field data from sensors</p><p>2.\tBuilding datasets for training ML algorithms</p><p>3.\tPerforming data analysis in a Linux environment (mandatory requirement)</p><p>4.\tTraining ML algorithms, e.g., CNNs, GANs using real-world data</p><p>5.\tTraining ML algorithms using TensorFlow and PyTorch</p><p>6.\tExporting and optimizing ML models for inference on embedded platforms</p><p>7.\tStrong Python experience</p><p>8.\tDeveloping custom signal / image processing schemes to process sensor data</p><p>9.\tExecuting technical work collaboratively in an R&amp;D environment</p><p>10.\tWorking on U.S. Department of Defense projects</p><p><br></p><p>The nature of our small business requires everyone on the team to wear lots of different hats. Successful hires will perform solid technical work, have a passion for learning, and have an interest or demonstrated experience in writing proposals. Candidates must be self-starting problem solvers, and will be expected to design, implement, and test algorithms with limited guidance under deadline.</p><p><br></p><p>Candidates will have the freedom to provide direction to projects and company initiatives. Interested applicants should submit a resume and a cover letter summarizing projects completed by the applicant that are relevant to this job posting. Due to the nature of DA\u2019s projects, U.S. citizenship is required. Please send application materials and position inquiries to philip.stimac@deepanalyticsllc.com.</p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T17:49:56.000Z"
+  },
+  "company": {
+    "name": "Deep Analytics LLC",
+    "link": "https://www.linkedin.com/company/deep-analytics-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Montpelier",
+    "region": "VT",
+    "postal_code": "05602",
+    "street_address": null,
+    "latitude": 44.259544,
+    "longitude": -72.575874
+  }
+}

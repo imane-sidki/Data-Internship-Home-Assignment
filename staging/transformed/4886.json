@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Internet,Financial Services,Accounting",
+    "description": "<p><strong>Your Mission,Should You Choose to Accept:</strong></p><p>Join our passionate team of top-notch engineers to solve a real-world problem, and help people spend less time managing expenses and more time pursuing their real goals. As we revolutionize the way people manage their expenses, being part of the Expensify team means building the easiest, fastest, and most efficient platform to automate everything expense-related.</p><p>Our employees work from all over the world, but if you're looking for a change of scene we offer visa sponsorship and relocation assistance to join us at one of our rad locations:</p><ul><li>San Francisco </li><li>Portland </li><li>Michigan </li><li>New York </li><li>London </li><li>Melbourne</li></ul><p>Even though we work hard at Expensify, we make sure our employees are happy. Our most talked about perk is our Offshore where we spend a month abroad working from a remote location as a team. Next year we\u2019re going to Spain, do you want to join?</p><p><br></p><p><strong>About Site Reliability Engineering at Expensify</strong></p><p>The SRE team is responsible for overseeing the development, implementation, and maintenance of the infrastructure used by our applications. We work closely with the product development and engineering teams to expand and enhance our deeply integrated service platform. Our goal is to develop and support the systems and automations that drive our business-critical platform, ensuring high uptime and quality deployments, while maintaining operational flexibility.</p><p><br></p><p><strong>About You</strong></p><p>Whether you\u2019re tuning configs or writing a new automation task, you\u2019re self-driven and collaborative. You\u2019re an autonomous individual who is passionate about building a stable product. You\u2019re open to working with our engineering and customer-facing teams to make sure we\u2019re growing in the best possible way.</p><p><br></p><p>As a Site Reliability Engineer, your responsibilities will include:</p><ul><li>Implementing and maintaining systems that monitor networks, server health, and application performance.</li><li>Configuring infrastructure systems to provide load balancing, application firewalls, reverse proxying, and related services.</li><li>Creating and implementing security policies that protect us and our customers.</li><li>Striving to deliver high availability and data redundancy throughout our platform.</li><li>Designing tools to help our entire engineering organization be as productive as possible.</li></ul><p><br></p><p>For the best possible fit, we are looking for someone who:</p><ul><li>Communicates well, both interpersonally and in their code.</li><li>Knows how to solve problems by automating their solutions.</li><li>Has a strong foundation in security from a software, systems, and network standpoint.</li><li>Has experience with Linux system configuration, administration, and tuning.</li><li>Has experience with automated configuration management, and continuous integration (CI) systems.</li><li>Understands the role and impact that infrastructure can have on the organization as a whole.</li><li>Is passionate about \u201cgetting under the hood\u201d of systems and technologies to understand their inner workings, and fix what needs fixing.</li></ul><p><br></p><p>We\u2019re looking for people who already have a strong background in Linux system administration to join the team. We use this as the foundation for your launchpad in Expensify, with an expectation that you\u2019re able to carry those skills into domains you have yet to dip your feet into.</p><p><br></p><p><strong>Compensation &amp; Benefits</strong></p><ul><li>Full-time, salaried position</li><li>401k with employer match</li><li>100% Medical/Dental/Vision contributions</li><li>Commuter benefits</li><li>Free lunch</li><li>Flexible vacation policy</li><li>Work from home when you need to</li><li>Relocation available</li></ul><p><br></p><p><strong>Next Steps</strong></p><p>Applying is easy, but it takes time. See, while we know you're awesome, it's actually really hard and time consuming to find you in the midst of literally hundreds of other applications we get from everyone else. So this is where we're going to ask our first favor: can you make it really easy and obvious how great you are, so we don't accidentally overlook you? There are many ways to do that, but the easiest way to help us out is by answering the following questions:</p><p><br></p><ol><li>What's the URL of your website? If you don't have one, why not?</li><li>What's your admin/coding history? When did you start, and what have you done between then and now?</li><li>What do you want to do with the rest of your life, and how is Expensify a step toward your long-term goals?</li><li>How did you hear about us? A job posting? Chalk on a sidewalk? From a friend? Let us know where you saw this opening.</li></ol><p><br></p><p><strong>Resume not your thing? That\u2019s great, we don\u2019t really read them anyway! Forward your responses to the questions to apply@expensify.com. We're excited to hear from you!</strong></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T13:50:44.000Z"
+  },
+  "company": {
+    "name": "Expensify",
+    "link": "https://www.linkedin.com/company/expensify"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

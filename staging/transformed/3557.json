@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Job Description:Our work depends on a Site Reliability Engineer (SRE) joining our team to support the Centers for Medicare and Medicaid Services (CMS) activities in Columbia, MD. As an SRE supporting CMS, the candidate will be trusted to work on the development, analysis and use of monitoring tools and data visualization from multiple sources to proactively ensure the day-to-day Enterprise Portal infrastructure health in the Amazon Web Services (AWS) cloud environment and on physical data centers.</p><p></p><p>Job Responsibilities:</p><ul><li>Supporting Portal 24/7 operations, and providing on-call support as needed</li><li>Troubleshooting anomalies as part of Portal system reliability</li><li>Integrating new data sources to enhance the Portal infrastructure monitoring tool</li><li>Supporting the development of new visual aids and enhancing existing visual aids to improve early detection of infrastructure anomalies</li><li>Improving the performance of existing and new monitoring tools</li><li>Supporting the troubleshooting activities to identify the root cause of infrastructure anomalies in a timely manner</li><li>Ensuring the system\u2019s high availability</li><li>Maintaining required Service Level Agreements (SLA)</li></ul><p></p><p>Job Requirements:</p><ul><li>Bachelor\u2019s degree in computer science, information systems, related field, or equivalent experience.</li><li>4+ years of experience supporting a 24x7 Internet-oriented production environment, preferably across multiple data centers, involving at least hundreds of servers</li><li>Proficiency in scripting with Python, Perl, or shell</li><li>Thorough understanding of fundamental internet protocols such as DNS, HTTP, and TCP</li><li>Proven experience in various website/infrastructure monitoring tools, such as Chartbeat, ExtraHop, NewRelic, Dynatrace and Splunk</li><li>Familiarity with common open-source infrastructure tools</li><li>Experience with common networking equipment (Cisco, Juniper, F5, etc.)</li><li>Strong understanding of networking protocols</li><li>Experience in fast paced Agile environments using Scrum/Kanban</li><li>Experience in DevOps and Continuous Integration/Continuous Development (CI/CD)</li></ul><p></p><p>Preferred Qualifications:</p><ul><li>AWS experience using AWS FedRamp</li><li>AWS System Administration certification(s)</li><li>SAFe certification(s)</li><li>CMS or Health Care Industry experience</li><li>Experience utilizing Scrum/Kanban methodologies</li><li>Experience using JIRA</li><li>Proven oral and written skills to communicate with external and internal stakeholders effectively</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-13T16:17:47.000Z"
+  },
+  "company": {
+    "name": "Seneca Resources",
+    "link": "https://www.linkedin.com/company/seneca-resources-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbia",
+    "region": "MD",
+    "postal_code": "21044",
+    "street_address": null,
+    "latitude": 39.217525,
+    "longitude": -76.86873
+  }
+}

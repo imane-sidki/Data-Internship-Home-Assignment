@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Magic is an early stage, fast-growing contender to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Tiger Global, Lightspeed Ventures, SV Angel, Social Capital, Northzone, Placeholder, Naval Ravikant, Alexis Ohanian, Ryan Hoover, and Balaji Srinivasan.<br><br>Our mission is to safeguard the trust between users and Internet services by establishing a secure and authentic digital identity. Magic's vision is to build the passport of the internet. We are looking for team members who are not afraid to push beyond the status quo and create the most straightforward, most secure, and most long-term sustainable identity solution for app developers and end-users. This is a unique opportunity to help us disrupt the world of authentication.<br><br>We are looking for a Backend Engineer that is able to implement software solutions that are tested, maintainable, reliable, and scalable. They\u2019ll be alternating between building out high performant, scalable APIs and improving deployment processes, operations procedures, and systems metrics.<br><br><em>\"Any sufficiently advanced technology is indistinguishable from magic.\" - Arthur C. Clarke<br><br></em><strong><u>Requirements<br><br></u></strong>In this role, you will<br><ul><li>Design and build backend systems that power the Magic authentication experience, while maintaining empathy towards our customers, developers, and users</li><li>Build and improve our APIs so that they are as scalable, performant, intuitive as they can be</li><li>Own the architecture and development of system components to improve monitoring, alerting, and stability with compliance, with security in mind</li><li>Build upon the foundation of the existing systems to support and enhance the productivity of the entire engineering team across the globe</li><li>Develop internal SLOs and SLIs to drive service reliability and to support external SLAs</li><li>Collaborate with other engineers to optimize our software engineering processes<br></li></ul>We are looking for someone who has<br><ul><li>Ideally 2+ years of experience working as a backend engineer in a cross-functional team (design, frontend, backend, and operations) with strong communication skill</li><li>Proficient in Python (Go/Ruby is a plus)</li><li>Strong foundation in API design, distributed system design, and backend implementation</li><li>Have experience in containerization technologies. Ex Docker, Kubernetes, ECS, etc.</li><li>Production experience in SQL and database design using MySQL, PostgreSQL, or similar<br></li></ul>Bonus<br><ul><li>Expertise working with Amazon Web Services</li><li>Production experience in networking and virtual cloud implementation</li><li>Have used/implemented SDL at your previous workplaces</li><li>Have worked with serverless stack (FaaS)</li><li>Have a startup mentality team player, self-motivated, high-integrity, pragmatic, resourceful, can execute under pressure<br></li></ul>Magic is fully remote, though we would prefer this role specifically to be in a timezone where we can have more hours overlap with the North American team members due to the need for frequent communication and collaboration.<br><br><em>At Magic, we're looking for team players with passion, empathy, perseverance, and integrity. You're encouraged to apply to this position, even if your experience doesn't precisely match the job description. Your talent and merits will stand out. At Magic, we welcome diverse perspectives and people who aren't afraid to challenge assumptions and the status quo.<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T06:06:10.000Z"
+  },
+  "company": {
+    "name": "Magic",
+    "link": "https://www.linkedin.com/company/magiclabs-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

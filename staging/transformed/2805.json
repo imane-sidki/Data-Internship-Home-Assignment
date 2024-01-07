@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Senior DevOps Engineer / Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<strong>Unlimited PTO, every other Fridays off, consistently voted best places to work!<br><br></strong>This Jobot Job is hosted by Amber Heigerick<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $150,000 - $175,000 per year<br><br><strong>A Bit About Us<br><br></strong>We are a well established Technology company consistently voted best places to work! Do you want to work with the latest tech stack?<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>We believe that everyone deserves to thrive at the company they are part of! We treat our employees like our clients, without you we wouldn't have a company! We give our employees unlimited PTO, flexible work hours, and every other Fridays off. These are just some of our perks. We have very low turn-over, because we have happy employees. We like to promote from with in whenever possible and 90% of the time, are able to do that. Come join a company that you can learn, grow, have fun, and create memories and experiences that will last a lifetime!<br><br><strong>Job Details<br></strong><ul><li>You will be a key member of our fast-growing and high-performing team that keeps our production environments stable, as well as creates tooling to enable our internal customers. </li><li>Build software releases and testing new code; as an automation expert using tools that automate the development, testing and integration of software releases/fixes</li><li>Ensure each and every release is stable and; as a security officer, continually monitoring our product's health and security after update deployment.</li><li>Design, develop, and implement software that defines and evolves our infrastructure.</li><li>Troubleshoot production issues and coordinate with the development team to streamline code deployment.</li><li>Implement automation tools and frameworks (CI/CD pipelines).</li><li>Analyze code and communicate detailed reviews to development teams to ensure a marked improvement in applications and the timely completion of projects.</li><li>Collaborate with team members to improve the company's engineering tools, systems and procedures, and data security.</li><li>Optimize the company's computing architecture.<br></li></ul>You should know the following<br><ul><li>Mid-Level Experience in DevOps Engineering</li><li>Knowledge on Source Control Tools such as GIT, and GitHub</li><li>Experience with with Infrastructure-as-code concepts and tools, such as Terraform.</li><li>Experience with Continuous Integration (CI) tools such as Jenkins/Bamboo, source control systems such as Bitbucket/Git.</li><li>Must be proficient in one or more scripting languages Unix Shell, Perl, Python.</li><li>Experience in a production environment with AWS or GCP.<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

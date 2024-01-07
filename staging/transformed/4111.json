@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior SDET, Performance",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>About Us<br><br></u></strong>BlueOwl is a separate company in the State Farm\u00ae family of companies and the solutions provider for HiRoad Insurance, an InsurTech brand that recognizes and rewards good choices. Operating independently with the backing of the #1 auto insurer in the country, we blend the best aspects of a tech startup and an industry leader. To see what we\u2019ve helped build so far, check out HiRoad.com .<br><br><strong>Our Vision<br><br></strong>At BlueOwl, we envision a world where data driven behavior fuels better lives. We started with the reinvention of insurance and a bold mission to create a data science powered platform that actually helps people become better drivers. We aspire to be the best in the business at identifying low-risk drivers by harnessing the power of data with an innovative technology stack.<br><br>It\u2019s a big goal, and that\u2019s where you come in. We're growing a world class team of data science, engineering, design, product, marketing and mobile technologists because we know that the key to success isn\u2019t just about nailing the technology\u2014it\u2019s hiring the talented people who will help us make a quantifiable impact.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Design and implement solutions to evaluate and improve performance</li><li>Develop performance test plans based on deep understanding of domain, architecture and product tech stack</li><li>Design, implement and maintain performance test frameworks</li><li>Design and implement relevant simulators to ingest large data</li><li>Collaborate with cross-functional stakeholders, providing testing insights and coming up with innovative solutions to improve and ensure the performance of our product and debugging performance problems.</li><li>Root cause performance issues and contribute to product code to alleviate these issues</li><li>Support extended teams in troubleshooting problems, such as system malfunctions</li><li>Provide feedback, propose solutions and suggest improvements in the product</li><li>Deploy and manage AWS instances to orchestrate the scale and performance testing pipeline.</li><li>Track test results as query-able time series data and alert upon failure in an automated fashion</li><li>Support test failure troubleshooting in various relevant pipelines</li><li>Support troubleshooting of customer reported performance bugs and close the test coverage loop</li><li>Other duties as assigned<br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li>5+ years of experience in software engineering, focusing on performance testing</li><li>2+ years of experience leading and mentoring performance engineers</li><li>3+ years of analytical and programming skills (Python, Javascript, bash)</li><li>1+ years of docker skills and K8s experience</li><li>3+ years of AWS ecosystem and open source tools</li><li>Strong written and verbal communication skills and ability to lead discussions</li><li>Excellent troubleshooting skills and great attention to detail<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Gitlab/GitHub actions CI/CD experience is a plus</li><li>K6 experience is a plus<br></li></ul><strong><u>Additional Details<br></u></strong><ul><li>Salary: We pay competitive salaries factoring in experience, skill set, and location. We do not offer equity.</li><li>We provide a wide-selection of health and welfare benefits including medical, dental, vision, life insurance, and supplemental income plans. We also offer a 401(k) Plan with a company match.</li><li>Wellness and Time Off: We provide Headspace subscriptions, a wellness allowance, and generous time off including four weeks of PTO in the first year of employment with additional time granted upon hire. New parents may also take eight weeks of fully paid parental leave (plus four weeks for parents who give birth) which may be taken within one year after the birth and/or the adoption of a child.</li><li>Professional learning and growth: We provide a generous allowance each year for professional learning, continuing education, and career development.</li><li>Location: May work from anywhere in the US, but will need to be actively available during core meeting hours from 9:00AM - 3:00PM pacific time to collaborate with team members across all time zones. </li><li>Some travel may be required after the San Francisco office re-opens.</li><li>Candidates based in the SF Bay Area will be able to commute to the SF office for in-person meetings and other gatherings. Frequency TBD. <br></li></ul><em>BlueOwl, LLC is an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br><br></em><em>If you are a San Francisco resident, please read the City and County of San Francisco's Fair Chance Ordinance notice. https://sfgov.org/olse/sites/default/files/FCO%20poster2020.pdf</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:27.000Z"
+  },
+  "company": {
+    "name": "BlueOwl, LLC",
+    "link": "https://www.linkedin.com/company/blue-owl-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Apple Pay Engineering is looking for a Senior Site Reliability Engineer who can lead an emerging team of SREs to design, deliver and support the next generation systems powering Apple Pay. You would join a team responsible for providing scalability, Reliability and Maintainability solutions for our ever growing business and data processing needs. Are you interested in solving the most complex and high scale challenges in the world today? Do you like the idea of running critical financial services that are used by millions of people all over the globe? Do you want to help change how the world uses their wallet and money? If you love to solve internet scale challenges on critical financial systems then this is the right job for you.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience supporting and scaling large enterprise applications in a critical \"follow-the-sun\" environment.<br><br>Interest in designing, analyzing and troubleshooting large-scale distributed systems.<br><br>Acute drive to automate, to constantly replace manual operations with automated solutions.<br><br>Experience and proficiency in event-based and log-based monitoring systems, deployment tools, Citrix Netscalers, Unix, and cloud computing.<br><br>Application development experience in object-oriented and functional programming languages.<br><br>Excellent code-debugging/optimization, analytical problem solving and analytical thinking skills.<br><br>Ability to clearly and precisely communicate day-to-day operations to ensure thorough hand-off to regional SRE teams.<br><br>A desire to constantly learn new technologies and stay abreast of the distributed computing landscape and drive digital transformation.<br><br>Drive high levels of engagement through discovery sessions, enablement and solution positioning with executives and technical partners.<br><br>Computer science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis.<br><br>Consistent track record of taking ownership of challenging problems and successfully delivering results.<br><br>Excellent communication and collaboration skills.<br><br>Fast learner who is generous with their knowledge<br><br>Self-directed, demonstrates leadership potential, and a great teammate.<br><br>Experience with container orchestration systems like Kubernetes, and Continuous Delivery platforms like Spinnaker, is a plus<br><br> <br><strong>Description<br></strong> <br>Site Reliability Engineering (SRE) is an engineering discipline that combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. This position requires a highly motivated individual who loves complex challenges in a fast-paced environment. You will support payments services to ensure the services are functional, work on improving reliability and availability, will think creatively, and come up with innovative solutions to automate the manual support activities.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS degree in computer science or equivalent industry experience<br><br> <br>Role Number: 200244569<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T05:20:12.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74000,
+    "max_value": 117000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Machine Learning Infrastructure",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Come help us build the world's most reliable on-demand, logistics engine for delivery! We're bringing on experienced engineers to help us create and maintain a 24x7, no downtime, global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers.<br><br>At DoorDash, our Data Scientists have the opportunity to dive into a wealth of delivery data to improve Dasher assignment, ETA prediction, Dasher capacity planning, search ranking &amp; personalization, and fighting fraud &amp; abuse. Useful blogs to learn about these use cases are - blog #1, blog #2, and blog #3.<br><br><strong><u>About The Team<br><br></u></strong>The ML Platform team is aimed at building an industry leading Machine Learning platform for DoorDash Data Scientists and Machine Learning engineers to easily and quickly apply Machine Learning to a diverse set of use cases at scale. A recent blog that detailed some of the challenges is here.<br><br><strong><u>About The Role<br></u></strong><ul><li>You will work alongside our Data Scientists and Product Engineers to collaborate on various ideas and ensure that there is a highly reliable, world class platform to run their ML models on.</li><li>You will help build high performance and flexible infrastructure and services that can rapidly evolve to handle new technologies, techniques and modeling approaches</li><li>You will implement and operate an intuitive, easy to use and flexible ML development framework.<br></li></ul><strong><u>You\u2019re Excited About This Opportunity Because You Will\u2026<br></u></strong><ul><li>Join a growing company and grow right along with us.</li><li>Take on significant technical challenges and have a large impact.</li><li>Create industry best practices for Machine Learning infrastructure<br></li></ul><strong><u>We\u2019re Excited About You Because\u2026<br></u></strong><ul><li>High-energy and confident - you\u2019ll do whatever it takes to win</li><li>You\u2019re an owner - driven, focused, and quick to take ownership of your work</li><li>Humble - you\u2019re willing to jump in and you\u2019re open to feedback</li><li>Adaptable, resilient, and able to thrive in ambiguity - things change quickly in our fast-paced startup and you\u2019ll need to be able to keep up!</li><li>Growth-minded - you\u2019re eager to expand your skill set and excited to carve out your career path in a hyper-growth setting</li><li>Desire for impact - ready to take on a lot of responsibility and work collaboratively with your team<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>B.S., M.S., or PhD. in Computer Science or equivalent</li><li>Exceptionally strong knowledge of CS fundamental concepts and OOP languages</li><li>4+ years of industry experience</li><li>Prior experience building machine learning systems in production such as enabling data analytics at scale</li><li>Prior experience in machine learning - you've developed and deployed your own models - even if these are simple proof of concepts</li><li>Systems Engineering - you've built meaningful pieces of infrastructure in a cloud computing environment. Bonus if those were data processing systems or distributed systems<br></li></ul><strong>Nice To Haves<br></strong><ul><li>Experience with real-time technology problems</li><li>Familiar with Pandas / Python machine learning libraries</li><li>Familiar with Spark, MLLib, Databricks MLFlow, Apache Airflow and similar related technologies.</li><li>Familiar with a cloud based environment such as AWS<br></li></ul><strong>Why You\u2019ll Love Working at DoorDash<br></strong><ul><li>We are leaders - Leadership is not limited to our management team. It\u2019s something everyone at DoorDash embraces and embodies.</li><li>We are doers - We believe the only way to predict the future is to build it. Creating solutions that will lead our company and our industry is what we do -- on every project, every day. </li><li>We are learning - We\u2019re not afraid to dig in and uncover the truth, even if it\u2019s scary or inconvenient. Everyone here is continually learning on the job, no matter if we\u2019ve been in a role for one year or one minute.</li><li>We are customer obsessed - Our mission is to grow and empower local economies. We are committed to our customers, merchants, and dashers and believe in connecting people with possibility.</li><li>We are all DoorDash - The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights. </li><li>We offer great compensation packages and comprehensive health benefits.<br></li></ul><strong><u>About DoorDash<br><br></u></strong>DoorDash is a technology company that connects customers with their favorite local and national businesses in over 4,000 cities and all 50 states across the United States and Canada. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash blog or at www.doordash.com.<br><br><strong>Our Commitment to Diversity and Inclusion<br><br></strong>We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.<br><br>Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.l<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T01:18:39.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81000,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

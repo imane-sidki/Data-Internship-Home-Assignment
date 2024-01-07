@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Software Engineer, Full Stack",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Job Description<br><br></u></strong>Department: Engineering<br><br>Reports To: VP of Engineering<br><br>Yardstik is a new venture-backed software company based in Minneapolis that was recently recognized as a Best Place to Work and received Minne Inno\u2019s Fire Award in the \u201cGrowing\u201d category. We\u2019re on a mission to bring more security and safety to the internet economy. The world of background screening, certification, and training has lacked innovation and we\u2019re here to change that for our customers.<br><br>The team we have in place brings dozens of years of experience in SaaS and helping start-ups become forever companies. We\u2019re looking for awesome people to come help us reach new heights and fulfill our mission.<br><br>Here\u2019s the high-level<br><br>Yardstik is looking for a talented Full Stack Associate Software Engineer to help build out our platform. Your duties will include collaborating with other engineers to implement new features for our UI (react, express, node), internal and external back-end APIs (Ruby on Rails, Postgres), along with various other microservices (Typescript, NestJS) that comprise the Yardstik platform using modern cloud technologies (AWS, Docker).<br><br>You are the right candidate for this role if you have completed training in software engineering and have the skills to hit the ground running. You must be a self-starter who is eager to learn, comfortable with uncertainty, and can demonstrate knowledge of programming and development practices.<br><br>Our technology stack and development processes include the following:<ul><li>Backend &amp; Platform</li><ul><li>Restful APIs, GraphQL</li><li>AWS, k8s</li><li>Ruby-on-Rails, Typescript, </li><li>Express, Node</li><li>Postgres, Redis, RabbitMQ</li><li>SPAs, Microservices</li></ul><li>Client-Side</li><ul><li>React, SASS</li><li>Material UI</li><li>React Testing Library, Jest</li></ul><li>Dev Process</li><ul><li>Scrum-based agile approach with Continuous Delivery</li><li>Modern use of tools and documentation; GitHub, Clubhouse.io, OpenAPI 3.0<br></li></ul></ul>Here's what\u2019s expected of you:<br><ul><li>Perform coding, debugging testing &amp; troubleshooting</li><li>Implementing unit, integration, and end-to-end testing</li><li>Self-motivated ability to learn new technologies and skills</li><li>Participate in code reviews by receiving &amp; providing feedback</li><li>Participate in Scrum Process as member of the Team<br></li></ul>Your experience might look something like this:<br><ul><li>a background in the frontend, backend, or full-stack development</li><li>an ability to take initiative and learn new technologies</li><li>joy for being part of a highly collaborative, remote-friendly work environment</li><li>an affinity for wearing many hats from an engineering perspective</li><li>a passion for working in a fast-paced and rewarding startup environment<br></li></ul>Technical Qualifications:<br><ul><li>Proficiency in at least 1 high-level software development language</li><li>Formal software engineering education, related experience, or a combination of both</li><li>Experience with data storage technologies</li><li>Passionate about problem solving</li><li>Capacity to learn quickly<br></li></ul>What we Offer:<br><ul><li>Company Health Insurance Plan</li><li>401k Retirement Plan</li><li>Health Savings Account</li><li>Liberal Vacation Policy</li><li>Opportunity to accelerate your career</li><li>Company stock options and the education to understand what those mean for you.<br></li></ul>Equal Employment Opportunity<br><br>Yardstik is an equal opportunity employer. All employment decisions are based on business needs, job requirements, and individual qualifications without regard to age, color, disability, equal pay/compensation, genetic information, national origin, pregnancy, race, religion, retaliation, sex (including sexual orientation and gender identity), sexual harassment or veteran status. Yardstik will not tolerate discrimination or harassment based on any of these characteristics.<br><br>Powered by JazzHR<br><br>kKYTXv34XO",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T07:16:42.000Z"
+  },
+  "company": {
+    "name": "Yardstik",
+    "link": "https://www.linkedin.com/company/yardstik"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Edina",
+    "region": "MN",
+    "postal_code": "55340",
+    "street_address": null,
+    "latitude": 44.91049,
+    "longitude": -93.34866
+  }
+}

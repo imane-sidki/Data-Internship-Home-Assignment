@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Front End",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong>THE ROLE<br><br></strong>As a Frontend Engineer you\u2019ll take part in the design and development of software for the current and next generation of Tesla\u2019s Enterprise Resource Planning systems. In this role, you\u2019ll be developing highly complex applications with a team goal of streamlining business operations and improving overall user experience. The ideal candidate is a self-starter with a strong desire to increase efficiencies, and make an impact while contributing to a cross-functional team. Your ability to creatively collaborate and execute team goals will affect scalabiliy and directly contribute to the company mission of accelerating the world\u2019s transition to sustainable energy.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Work with experienced engineers across many functional areas to deliver business value to internal and external stakeholders.</li><li> Design and develop new modules on the home grown ERP application Warp which is used to plan, procure and produce cars.</li><li> Know your app! Seek to understand all aspects, business and technical, of the applications on which you work so that you can be most effective.</li><li> Contribute towards the timely completion of development tasks and small projects while applying company standards.</li><li> Continually learn and apply relevant software development practices, patterns, tools and technologies.</li><li> Increase efficiency, reduce waste wherever and whenever possible.<br></li></ul><strong><u>Requirements<br></u></strong><ul><li> 4+ years in web application development, including: Implementing Application Programming Interfaces (APIs), Object Oriented Programming and Design (OOP&amp;D), Object Relational Mapping (ORM)</li><li> Experience in frontend development, using tools such as: JavaScript, Angular, React, etc.</li><li> Agile Development</li><li> Education: BS/MS in Computer Science or equivalent degree.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T11:57:01.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

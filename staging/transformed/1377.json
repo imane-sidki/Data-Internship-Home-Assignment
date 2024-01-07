@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Machine Learning",
+    "industry": "Electrical/Electronic Manufacturing,Computer Hardware,Semiconductors",
+    "description": "Lightmatter builds chips for artificial intelligence computing. Our architecture leverages unique properties of light to enable fast and efficient inference and training engines. If you're a collaborative engineer or scientist who has a passion for innovation, solving challenging technical problems and doing impactful work...work like building the world's first optical computers, consider joining the team at Lightmatter!<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Lead the design and the implementation of our software.</li> <li>Develop, maintain, test, and review code for training, visualizing, and deploying neural networks. </li> <li>Work closely with Machine Learning Scientists to build state-of-the-art and novel machine learning algorithms that learn semantics of multi-modal data.</li> <li>Understand, analyze, and exploit the interplay between machine learning accelerator software and hardware.</li> <li>Adapt standard machine learning methods to best leverage modern heterogeneous computing environment which includes our revolutionary computing chips.</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Masters or PhD in computer science, electrical engineering, physics, mathematics, or any related field.</li> <li>Minimum of 5 years experience in software engineering for machine learning applications.</li> <li>Highly proficient in scientific object-oriented programming languages, e.g. Python, C++, and Julia, with good code hygiene.</li> <li>Solid understanding of artificial intelligence, machine learning, and neural networks.</li> <li>Highly experienced in deep learning programming languages and framework, e.g. Tensorflow, PyTorch, Caffe, MXNet. </li> <li>Experience programming in CUDA or OpenCL is a plus.</li> <br><br></ul><u><strong>Benefits<br></strong></u><ul> <li>Health Care Plan (Medical, Dental &amp; Vision)</li> <li>Retirement Plan (401k, IRA)</li> <li>Life Insurance (Basic, Voluntary &amp; AD&amp;D)</li> <li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li> <li>Family Leave (Maternity, Paternity)</li> <li>Stock Option Plan</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-26T03:21:13.000Z"
+  },
+  "company": {
+    "name": "Lightmatter",
+    "link": "https://www.linkedin.com/company/lightmatter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 73600,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

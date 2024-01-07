@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Security Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly.   Bring passion and dedication to your job and there's no telling what you could accomplish. <br><br><br>Apple is looking for a talented and energetic software engineer for the Core Networking team to participate in the architecture and development of the next generation of networking technology with an emphasis on networking security. Our team is responsible for designing and enhancing the operating system networking extension and security components/features across Apple's range of products including all OS X, iOS, watchOS and tvOS based products. Specific areas of responsibility include networking API, transport protocols, security protocols, threat models and networking interfaces. <br><br><br>You should possess an excellent conceptual understanding and working knowledge of TCP/IP, IPSec, TLS, threat models, and related networking technologies.  System level software design experience is also essential. You will determine the appropriate compromise between several competing factors such as; performance, efficiency, ease of use and security.<br><br> <br><strong>Key Qualifications<br></strong> <br>You will have experience developing commercial networking software and/or hardware products<br><br>You will have a strong software design and development skills including; C, C++ programming language experience<br><br>Thorough knowledge of the TCP/IP suite of protocols (including IPv6) and APIs<br><br>Thorough knowledge of the security protocols (like IPSec, TLS, etc\u2026) and understanding of threat models<br><br>4-5 years of hands on experience working on BSD/Linux Kernel networking stack<br><br>Experience with Unix networking, including sockets API<br><br>Possess network troubleshooting skills<br><br>Excellent communication and interpersonal skills<br><br>Enthusiasm and interest in keeping up with trends / research in networking transports / protocols (e.g. HTTP2, QUIC, etc.)<br><br> <br><strong>Description<br></strong> <br>The ideal candidate will be able to work in a fast paced environment, operate gracefully under stress, handle multiple assignments in parallel, and be self driven to be effective in an environment with little overhead.  The candidate also needs to show initiative, ability to take ownership of a problem area, and demonstrate an ability to understand the role of the group's technology in the larger context of the product and network environment. The position has cross-functional aspects and you will need to show excellent interpersonal and communication skills.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in Computer Science or equivalent networking software development experience<br><br><br> <br><strong>Additional Requirements<br></strong> <br>Preferred Experience:<br><br><br>-  Mac OS and iOS development experience<br><br>-  API development experience<br><br>-  Wireless networking technologies and standards (Wi-Fi and cellular<br><br>-  Network debugging tools (e.g. packet sniffers, protocol analyzers)<br><br>-  Deep understanding of HTTP and web networking technologies, mobile networking, and IPv6<br><br>-  Knowledge of NAT/Firewall<br><br> <br>Role Number: 200178965<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:44:02.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Lead experimental design to test business use cases, analysis of experiment results and development & deployment of advanced data science models \u2013 propensity, uplift predictive. Resource expected to be able to successfully complete tasks independently.<br><br>Required Skills:<br><br>-\tExperimental Design<br>-\tDeep understanding of Data Science models<br>-\tExperience deploying Propensity & Uplift Models<br>-\tAdvanced statistical knowledge (Bayesian methods, causal inference) <br>-\tPython Development<br>-\tPySpark<br>-\tML Framework is a plus<br>-\tNLP experience is a plus",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-02T00:09:53.000Z"
+  },
+  "company": {
+    "name": "Quadrant Resource ",
+    "link": "https://www.linkedin.com/company/quadrant-resource-llc_2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

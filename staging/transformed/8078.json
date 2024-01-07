@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Engineering Manager, Site Reliability Engineer (Consumer)",
+    "industry": "Internet",
+    "description": "<strong><u>Company Description<br><br></u></strong>Twitter is what\u2019s happening and what people are talking about right now. For us, life&apos;s not about a job, it&apos;s about purpose. We feel real change starts with conversation. Here, your voice matters. Come as you are and together we&apos;ll do what&apos;s right (not what&apos;s easy) to serve the public conversation.<br><br><strong><u>Job Description<br><br></u></strong><strong>Who We Are<br><br></strong>Twitter offers engineers the outstanding opportunity to personally make a noticeable difference at a company that makes a difference in the world.<br><br>Our Site Reliability Engineering teams embed within our consumer product engineering teams. SREs supporting these teams will specialize in and are passionate about scaling our infrastructure, improving developer efficiency, automation, and tooling that power impactful features on Twitter, like the Timelines, Notifications, Search, Trends, and so much more!<br><br>Our team is seeking an enthusiastic Engineering Manager in the Site Reliability Engineer organization to lead a team of SREs.<br><br><strong><u>What You\u2019ll Do<br><br></u></strong>We believe passion and personality matter; as such, we need leaders that can lead diverse, thoughtful, and driven engineers while balancing day to day people management with moving the business forward both technically and culturally.<br><br>As an Engineering Manager, you will manage a team of engineers who are working to keep Twitter reliable and scalable. Your responsibilities include, but are not limited to<br><ul><li>Mentor, grow, and empower your team by giving them the skills, confidence and motivation to make decisions independently that lead to their personal and professional success, and enable them to become technical leaders.</li><li>Help the individuals on your team to build and implement personal development plans that align with Twitter\u2019s goals and objectives, and understand how their work fits into the bigger picture.</li><li>Scale the team up by sourcing and hiring dedicated SREs</li><li>Manage engineers spread out across various time zones and regions</li><li>Partner with other Engineering Managers across Twitter to achieve reliability outcomes for their services.</li><li>Participate and drive deep technical design discussions within your team, and across partner teams. <br></li></ul><strong><u>Who You Are<br></u></strong><ul><li>You possess strong leadership skills and the ability to motivate teams.</li><li>You will bring a strong perspective and developed partnership style that inspires change, and motivates engineers to develop simple solutions to sophisticated operational or reliability challenges.</li><li>You have experience formulating a team&apos;s technical strategy and roadmap, and you&apos;ve collaborated and partnered effectively with several other teams.</li><li>You have experience building services and systems, have successfully taken projects from inception to production, and are confident diving in to provide leadership for major projects when needed.</li><li>You are capable of leading a discussion with upper management, and are able to tailor the level of technical detail to suit your audience.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>B.S. in computer science or similar field or equivalent experience</li><li>You have 3+ years of handling services in a large scale distributed environment</li><li>You have 2+ years experience successfully managing a team of 4 or more engineers on large-scale projects that included technical deep-dives and production troubleshooting in the areas of distributed systems, debugging, performance</li><li>Demonstrable knowledge of TCP/IP and HTTP</li><li>Practical knowledge of shell scripting and at least one higher-level language (e.g. Python, Golang, Java or Scala)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T14:26:26.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

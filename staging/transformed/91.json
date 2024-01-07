@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (C#, Azure, Chatbot)",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong><u>Title: Software Engineer (C#, Azure, Chatbot)</u></strong></p><p><br></p><p>As the <strong>Sr. Software Engineer</strong> for a nationally recognized healthcare technology company based in Dallas, you will develop and support conversational AI, Voice, and Text applications.</p><p>The ideal candidate will have experience with natural language conversation concerning Conversational AI (chatbots, Google/Alexa) and enjoy working in a fast-paced, technically astute team.</p><p><strong>Direct Hire position. Local candidates preferred. Unable to sponsor.</strong></p><p><br></p><p><strong>Required Skills and Experience</strong></p><ul><li>Knowledge in/with conversational AI (chatbots, Google/Alexa voice skills)</li><li>Experience with at least two of the following interfaces (text/SMS, \u201cchat bubble\u201d text, IVR-like interaction on a phone or voice device, e.g., Google Hub/Alexa).</li><li>C#, .NET Core experience in an Azure environment.</li><li>Strong experience with Azure Kubernetes</li><li>Demonstrated experience with Agile methodology.</li><li>Two + years of experience with relational databases. NoSQL is preferred.</li><li>Experience with Angular or React, design patterns, event-driven systems, message-driven systems.</li></ul><p><strong>Nice to Have</strong></p><ul><li>Knowledge of Node.js and Typescript</li><li>Familiar with designs and applications using No-SQL technologies</li><li>Experience in microservice development</li><li><strong><u>Prior healthcare experience </u></strong></li></ul><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Work with multiple product development teams to support APIs supporting \u201cchat AI\u201d integration across products.</li><li>Act as active Agile team member, assisting in the success of the Scrum team</li><li>Evolve existing product offerings while also designing enterprise-grade green-field systems.</li></ul><p><br></p><p><strong>BENEFITS of working for our Client:</strong></p><ul><li>Great Far North Dallas Location</li><li>Excellent Medical and 401K with matching</li><li>Generous PTO</li><li>Work from home options</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:21:48.000Z"
+  },
+  "company": {
+    "name": "Elan Partners",
+    "link": "https://www.linkedin.com/company/elanpartners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Addison",
+    "region": "TX",
+    "postal_code": "75001",
+    "street_address": null,
+    "latitude": 32.968605,
+    "longitude": -96.83004
+  }
+}

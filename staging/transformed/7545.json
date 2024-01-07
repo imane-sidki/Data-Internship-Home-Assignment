@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Software Engineer",
+    "industry": "Computer Software",
+    "description": "<p>ClickHouse has arrived: we are the company behind the popular open-source, high-performance columnar OLAP database management system for real-time analytics.ClickHouse works100-1000x faster than traditional approaches.By offering a true column-based DBMS, it allows for systems to generate reports from petabytes of raw data with sub-second latencies.With top adopters such as Uber, Cisco, and eBay - not only do our products work at lightning speed, so do we.</p><p><br></p><p>ClickHouse is searchingfor individuals who are not just knowledgeable about what they do, but want to learn more. Our ideal candidates are thinkers and doers who are not afraid to take on various roles and responsibilities as they grow with the company. If you are looking for a place to build something new, be an agent of change, and have an opportunity to have a significant impact on the company\u2019s success, this is the place for you.</p><p><br></p><p>In this role, you will be working on developing a cloud service around the ClickHouse database. Additionally, you will collaborate with the SRE and security teams to ensure all SLAs and relevant compliances are met. This individual will also help to improve the robustness of ClickHouse cloud service by contributing to tests coverage and QA infrastructure.</p><p><br></p><p><br></p><p><strong>Requirements:</strong></p><ul><li>BS, MS, or Ph.D. in Computer Science or equivalent practical experience.</li><li>Professional software development experience in Go, C/C++, Java, or similar.</li><li>Experience developing cloud infrastructure services, preferably with Kubernetes.</li></ul><p><br></p><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience in security, privacy, and compliance.</li><li>Experience with Linux and container environments.</li><li>Experience with TCP/IP and network programming.</li><li>Previous contributions to open source projects.</li></ul><p><br></p><p><br></p><p><strong>Perks:</strong></p><ul><li>Flexible work environment</li><li>Comprehensive Health Benefits</li><li>Equity</li><li>Paid Holidays</li></ul><p>#LI-Remote</p><p><br></p><p><br></p><p>ClickHouse, Inc.is an Equal Opportunity Employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills and experiences within our workforce.We celebrate diversity and do not discriminate based on race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability status, or any other applicable characteristics protected by law.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:19:41.000Z"
+  },
+  "company": {
+    "name": "ClickHouse",
+    "link": "https://www.linkedin.com/company/clickhouseinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

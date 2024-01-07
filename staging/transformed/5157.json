@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": " Data Scientist, Contractor, 100% Remote",
+    "industry": "Biotechnology",
+    "description": "<p><strong>Satellite Biosciences</strong>is pioneering the development and implementation of proprietary, off-the-shelf, implantable satellite organs as living therapeutic solutions that can transform the lives of millions of patients who suffer from serious diseases.Building on 25 years of work in award-winning labsat top academic institutions, the platform is supported by a strong IP portfolio and is backed by a top tier syndicate, led by Polaris Partners, Lightspeed Ventures, and aMoon.</p><p><br></p><p>We are seeking an experienced, creative, and motivated<strong>Data Scientist (Contractor, 100% remote)</strong>to join our rapidly growing team. In this role you will contribute to the company\u2019s platform technology of engineered satellite organs. Specifically, you will contribute towards our efforts to characterize and optimize the satellite organs using data driven approaches and modeling techniques such as unsupervised and supervised machine learning.</p><p><br></p><p>This role is a unique opportunity to join an early-stage, well-funded Biotech startup. You will initially report directly to our Senior Data Scientist. The position is 100% remote with work<strong>up to 20 hours per week</strong>.</p><p><br></p><p><strong>Responsibilities:</strong></p><p><br></p><ul><li>Wrangle data of multi-omic datasets and images in preparation for algorithm development and machine learning</li><li>Evaluate open access databases of sequencing results for disease modeling</li><li>Develop 2D and 3D image analysis algorithms</li><li>Parse sequencing results and use unsupervised, semi-supervised, and machine learning techniques for outcomes prediction</li><li>Analyze peptide and nucleic acid sequence data sets</li><li>Manage cloud relational databases of analysis outputs (e.g., PostgreSQL)</li><li>Construct and optimize code for machine learning algorithms</li></ul><p><br></p><p><br></p><p><strong>Required Qualifications and Experience</strong></p><p><br></p><ul><li>BS, MS, or PhD in a quantitative discipline</li><li>0 to 5 years of experience in the biotechnology industry</li><li>Proficiency with Python or Julia</li><li>Competency with data wrangling from imaging and tabular data (e.g., pandas)</li></ul><p><br></p><p>Experience with at least one of the following:</p><ul><li>Imaging analysis and algorithm development</li><li>RNA-Seq datasets and analysis</li><li>Machine learning and convolutional neural networks</li><li>Experience preferred but not required: Linux and Git AWS or other cloud computing platforms</li></ul><p><br></p><p><br></p><p><strong>Please submit your resume (.pdf format) toHR@satellite.bio</strong></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T15:48:42.000Z"
+  },
+  "company": {
+    "name": "Satellite Bio",
+    "link": "https://www.linkedin.com/company/satellite-bio"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Join us as we pursue our disruptive vision to make machine data accessible, usable and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we\u2019re committed to our work, customers, having fun and most significantly to each other\u2019s success. Learn more about Splunk careers and how you can become a part of our journey!<br><br><strong><strong>Role <br><br></strong></strong>Splunk's Cloud Services group is looking for a Site Reliability Engineer to help lead, design and build the next generation of our large scale cloud offering. You will be working on core services and applications that form the primitives for our current and future cloud service offerings. Site Reliability Engineers in this role will be engaging with multiple service owners across the platform to teach and implement modern interpretations of SRE, observability, Chaos Engineering and DevOps. This role is highly visible and impactful to the organization and will help shape Splunk's Engineering culture for years to come. Your job, in a nutshell, is to make every team around you better... including your own!<br><br><strong><strong>You will <br></strong></strong><ul><li>Work across the organization to deliver quality products that delight Splunk's passionate users.</li><li>Embed with teams of tight-knit engineers who are building a state-of-the-art, cloud-based environment for massive-scale data processing.</li><li>Mentor new engineers to achieve more than they thought possible. You enjoy making other teams successful and are fulfilled through the success of others.</li></ul><strong><strong>Qualifications <br></strong></strong><ul><li>You enjoy building and running distributed systems at scale in production. You understand the challenges and trade-offs to be made when building and deploying systems to production.</li><li>Experience working with container deployment and orchestration technologies with knowledge of fundamentals including service discovery, deployments, monitoring, scheduling, load balancing. Knowledge of Kubernetes, Go and Docker preferred.</li><li>Understanding of Systems programming (network stack, file system, OS services) and networking (L2 vs. L3, network architecture, VLANs, etc)</li><li>Knowledge of standard methodologies related to security, performance, and disaster recovery.</li><li>Skilled in identifying performance bottlenecks, identifying anomalous system behavior, and resolving root cause of service issues.</li><li>You have proven skills to effectively work across teams and functions to influence design, operations and deployment of highly available software.</li><li>You work hard to make the users of Splunk's products happier every day.</li></ul><strong><strong>Preferred skills <br></strong></strong><ul><li>Experience with running Kubernetes environments and understanding of multi-tenancy and security implications.</li><li>Experience with development and deployment in a hosted cloud environment, preferably AWS &amp; GCP.</li><li>Experience with distributed cloud service development, infrastructure, traffic management and architecture.</li><li>Experience with optimized and scalable software that operates on a large number of nodes.<br></li></ul>We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.<br><br>For job positions in San Francisco, CA, and other locations where required, we will consider for employment qualified applicants with arrest and conviction records.<br><br>(Colorado only*) Minimum base salary of $80,000. You may also be eligible for incentive pay + equity + benefits.*Note Disclosure per sb19-085 (8-5-201 et seq).",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T07:05:15.000Z"
+  },
+  "company": {
+    "name": "Splunk",
+    "link": "https://www.linkedin.com/company/splunk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

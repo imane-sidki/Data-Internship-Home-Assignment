@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>What you\u2019ll do:</strong></p><ul><li>Design, build, and maintain features and services across mabl\u2019s entire product surface</li><li>Work as part of a small, self-directed team to define, implement, test, and support solutions to high level product challenges</li><li>Collaborate closely with other engineers, product managers, and designers</li><li>Take responsibility for the quality and impact of your own contributions and those of your teammates</li><li>Debug production issues across services and multiple levels of the stack</li><li>Continually seek out and incorporate customer feedback into your work, including regularly joining customer calls</li><li>Participate in our on-call rotation</li></ul><p><br></p><p><strong>What you\u2019ll bring to the table:</strong></p><ul><li>You have experience as a developer working on the critical path of applications with meaningful production traffic</li><li>You have a high bar for quality of code and quality of user experience</li><li>You constantly learn, challenge assumptions, and ensure your work is providing high customer value</li><li>You are an effective communicator; we are a small team, and you will be involved in every aspect</li><li>You are happy to branch out and contribute wherever needed\u2014within your technical wheelhouse or otherwise</li></ul><p><br></p><p><strong>Engineering at mabl:</strong></p><p>The Engineering team is driven by mabl\u2019s core values: drive, insight, support, and authenticity. Working closely with our users and the rest of the product team, the Engineering team builds and supports the cloud-native service that enables our customers to create, manage, and run end-to-end tests running on a scalable infrastructure.</p><p><br></p><p>We value small, self-organizing teams that are empowered to make decisions and quickly solve problems. We strive to deliver the best experience to our customers and prospects. While our primary job is to build quality software through rigorous engineering practice, mabl engineers engage in all phases of product development.</p><p>Here is a sample of the technologies and toolsets that we use:</p><p><br></p><p><strong>Languages</strong></p><p>TypeScript, Java, JavaScript, Python, Node.js</p><p><br></p><p><strong>Front end</strong></p><p>React + Redux</p><p><br></p><p><strong>Cloud Platform</strong></p><p>Google</p><p><br></p><p><strong>Machine Learning</strong></p><p>Tensorflow, ML Engine</p><p><br></p><p><strong>Data Analysis</strong></p><p>BigQuery, DataFlow, Spanner</p><p><br></p><p><strong>Compute</strong></p><p>Container Engine, Cloud Functions, App Engine, Cloud Run</p><p><br></p><p><strong>Source Control</strong></p><p>GitHub</p><p><br></p><p><strong>Continuous Integration</strong></p><p>GitHub Actions</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-11T15:19:41.000Z"
+  },
+  "company": {
+    "name": "mabl",
+    "link": "https://www.linkedin.com/company/mabl"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Boston",
+    "region": null,
+    "postal_code": "02119",
+    "street_address": null,
+    "latitude": 42.36041,
+    "longitude": -71.05798
+  }
+}

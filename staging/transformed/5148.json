@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>SUMMARY:</strong></p><p>Research, design, and develop computer software systems compliant with systems-level interface, operational, and</p><p>performance requirements. Analyze systems and software requirements and elaborate them into designs within the</p><p>constraints of fidelity, quality, cost, and schedule. Develop and test software for these designs.</p><p><br></p><p><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES:</strong></p><p>\u2022 Analyze computer processing requirements. Specify and recommend the purchase of computational systems which</p><p>provide the computational capabilities required.</p><p>\u2022 Review program specifications and computational system specifications and consults project, systems, and</p><p>hardware engineers to identify and evaluate interface requirements between the hardware and software.</p><p>Define top-level interface requirements within the software consistent with system interfaces.</p><p>\u2022 Analyze operational and performance requirements of the overall system and define candidate top-level systems</p><p>and software design approaches consistent with these requirements. These analyses include consideration of</p><p>hardware computational capabilities, system latencies, spare time requirements, etc.</p><p>\u2022 Perform value engineering trade studies of candidate top-level design solutions to determine the optimum</p><p>solution given fidelity, quality, schedule, and cost constraints.</p><p>\u2022 Develop detailed systems and software designs via analyses, elaboration and decomposition of top-level interface,</p><p>operational, and performance requirements. Develop software computer code compliant with detailed design</p><p>requirements.</p><p>\u2022 Perform integration test, acceptance test, and delivery of software embedded products.</p><p>\u2022 Identify and manage risks to eliminate unplanned problems and minimize costs.</p><p>\u2022 Develop proposal inputs, technical reports, design specifications, test specifications, and test procedures as</p><p>required for assigned programs.</p><p>\u2022 Perform other related tasks as assigned by supervisor.</p><p><br></p><p><strong>EDUCATION and/or EXPERIENCE:</strong></p><p>Bachelors Degree (B.S.) in engineering, physics, or equivalent; up to 6 years related experience and/or training; or</p><p>equivalent combination of education and experience. Background must demonstrate a thorough knowledge of the</p><p>sciences underlying software engineering.</p><p><br></p><p><strong>COMPUTER SKILLS:</strong></p><ol><li>Bachelor\u2019s degree in Computer Engineering, Computer Science, or Electrical Engineering (with a Software emphasis)</li><li>2-5 years and another position requiring  5+ years experience programming in C++</li><li>Recent experience with Linux OS</li><li>Experience with systems engineering processes, including requirements analysis, system architecture definition, and design, and system verification testing</li><li>Relocation to Tulsa, Oklahoma.</li></ol><p><br></p><p><strong>CITIZENSHIP:</strong></p><p><strong>U.S. Citizenship. Must be able to obtain a Secret Level Clearance</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T17:39:21.000Z"
+  },
+  "company": {
+    "name": "STS Federal",
+    "link": "https://www.linkedin.com/company/stsfederal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tulsa",
+    "region": "OK",
+    "postal_code": "74116",
+    "street_address": null,
+    "latitude": 36.155327,
+    "longitude": -95.99208
+  }
+}

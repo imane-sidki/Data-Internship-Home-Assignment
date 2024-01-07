@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 10,000 cities around the world.<br><br>We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let\u2019s move the world forward, together.<br><br><strong><u>What The Candidate Will Need / Bonus Points<br><br></u></strong>What the Candidate Will Do<br><ul><li>Design, deliver and maintain systems that enable thousands of engineers and managers to improve the reliability of their services, apps and processes</li><li>Collaborate with product managers, data science and other stakeholders to gather requirements</li><li>Partner with fellow engineers to architect, develop and scale observability tooling while keeping operational issues in mind</li><li>Mentor and support your fellow teammates</li><li>Drive ongoing efficiency and reliability improvements that improve the quality of the systems.</li><li>Write clear documentation so that other engineers can partner to contribute and deliver<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor\u2019s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:</li><li>Programming language (e.g. C, C++, Java, Python, or Go)</li><li>Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education &amp; full-time work experience indicated.<br></li></ul>What the Candidate Will Do<br><ul><li>Scalability engineering</li><li>Distributed systems<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T22:05:14.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pacifica",
+    "region": "CA",
+    "postal_code": "94045",
+    "street_address": null,
+    "latitude": 37.613724,
+    "longitude": -122.48571
+  }
+}

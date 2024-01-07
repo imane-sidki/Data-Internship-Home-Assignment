@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "<strong><u>What You\u2019ll Do<br></u></strong><ul><li>Architect and build enterprise-level applications</li><li>Collaborate with clients and internal teams to analyze, design, &amp; deliver innovative technology solutions for a wide variety of business topics and industries</li><li>Work closely with both IT and business clients, to best align business needs with technical capability/ feasibility</li><li>Perform technical analysis to determine present and future business performance</li><li>Conduct and participate in client white-boarding sessions, workshops, design sessions, and project meetings as needed, playing a key role in client relations</li><li>Produce deliverables using various software tools covering both traditional and modern technologies<br></li></ul><strong><u>What You\u2019ll Bring<br></u></strong><ul><li>Strong experience with at least one programming environment and associated tools (e.g. Java, C#, JavaScript)</li><li>Experience with relational or nonrelational databases (e.g. MySQL, MongoDB, Cassandra, etc.)</li><li>Experience with HTML and CSS, a front-end framework (e.g. Angular, React, Vue.js, jQuery, etc.), and API frameworks (e.g. Java Spring Boot, Python with Flask, .NET Web API, or NodeJS with Express)</li><li>Cloud experience (AWS, Azure, GCP) is a plus</li><li>Strong \"solution oriented\" mentality, offering a range of possible solutions to problems</li><li>Rigorous and logical problem-solving approach</li><li>Adaptable, self-starter mentality and an excitement for creating structure in ambiguous environments<br></li></ul><strong><u>About Us<br><br></u></strong><em>Slalom is a modern consulting firm focused on strategy, technology, and business transformation. In 39 markets around the world, Slalom's\u202fteams have autonomy to move fast and do what's right. They are backed by\u202fregional innovation hubs, a global culture of collaboration, and partnerships with the world's top technology providers. Founded in 2001 and headquartered in Seattle, Slalom has organically grown to over 8,000 employees. Slalom has been named one of Fortune's 100 Best Companies to Work For five years running and is regularly recognized by\u202femployees as a best place to work. Learn more at slalom.com. <br><br></em><em>Slalom prides itself on helping team members thrive in their work and life. As a result, Slalom is proud to invest in benefits that include: meaningful time off and paid holidays, parental leave, 401(k) with a match, a range of choices for highly subsidized health, dental, &amp; vision coverage, adoption and fertility assistance, and short/long-term disability. We also offer additional benefits such as a yearly $350 reimbursement account for any well-being related expenses as well as discounted home, auto, and pet insurance.<br><br></em><em>Slalom is an equal opportunity employer that is committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability status, protected veterans status, or any other characteristic protected by federal, state, or local laws, and will not be discriminated against on the basis of disability</em><em>.\u202f</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:30:17.000Z"
+  },
+  "company": {
+    "name": "Slalom",
+    "link": "https://www.linkedin.com/company/slalom-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 87700,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hartford",
+    "region": "CT",
+    "postal_code": "06156",
+    "street_address": null,
+    "latitude": 41.765774,
+    "longitude": -72.673355
+  }
+}

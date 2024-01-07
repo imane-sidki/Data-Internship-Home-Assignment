@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Site Reliability Engineer",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "Tesla Cloud Engineering group is looking for a Senior Site Reliability Engineer to help lead, design and build the next generation of our large-scale Cloud offering. You will be working on the core compute platforms and infrastructure in the next generation tech stack.<br><br><strong><u>What You Provide<br></u></strong><ul><li> <strong>Desire</strong> <strong>to</strong> <strong>learn</strong> <strong>and</strong> <strong>adapt</strong>. Our agile team has a lot of projects going on at once, and you'll have the opportunity to learn to navigate the code and features. You'll constantly be learning new areas and new technologies.</li><li> <strong>Passion</strong> . Our customers are passionate about Tesla, and we want the same from our engineers. We want you to actively own your work and be excited about your projects.</li><li> <strong>Ability</strong> <strong>to</strong> <strong>work</strong> <strong>with</strong> <strong>multiple</strong> <strong>programming</strong> <strong>languages</strong> . We have code in several languages, ranging from Go to Python to Shell.</li><li> <strong>Drive for automation</strong>. You constantly consider, \"How can I automate this manual process?\" You will use Terraform to manage various cloud infrastructure resources. An understanding of Infrastructure-as-Code (IaC) and declarative configuration languages as preferred.</li><li> <strong>Knowledge of technical excellence. </strong>You know continuous delivery, automated testing <strong>, </strong>security methodologies, system performance, and disaster recovery concepts.</li><li> <strong>Cloud experience</strong> . Building and scaling secure infrastructure on different cloud providers is a plus. You will use AWS and GCP.</li><li> <strong>Operational excellence. </strong>Data excites you and you make decisions based on numbers rather than assumptions. If an issue arises, you strive to be alerted before our customers notice.</li><li> <strong>Keeping calm and carrying on</strong> . Capable in navigating through a product outage, skilled in identifying performance bottlenecks, spotting anomalous system behavior, and figuring out the root cause of incidents.</li><li> <strong>Linux proficiency</strong>. Excited to apply system administration experience and comfort in developing or creatively addressing challenges via a linux/unix console.</li><li> <strong>Experience</strong> . Eight or more years of related technical work in industry.</li><li> <strong>Though not required, also awesome</strong> if you have experience in containerization such as Docker and Kubernetes, have built scalable secure services on cloud providers such as AWS, and have some Splunk expertise.<br></li></ul><strong><u>What We Provide<br></u></strong><ul><li> <strong>Opportunities</strong> <strong>to</strong> <strong>develop</strong> <strong>and</strong> <strong>grow</strong> <strong>as</strong> <strong>an</strong> <strong>engineer</strong> . We are always expanding into new areas, working with open-source projects and contributing back, and exploring new technologies.</li><li> <strong>A team of incredibly capable and dedicated peers</strong> , all the way from engineering to product management and customer support.</li><li> <strong>Growth</strong> <strong>and</strong> <strong>mentorship</strong> . We believe in growing engineers through ownership and leadership opportunities. We also believe that mentors help both sides of the equation.</li><li> <strong>A stable, collaborative, and supportive work environment. </strong>We work in an open environment, work together to get things done, and adapt to the changing needs for the team.</li><li> <strong>Balance</strong> . We don't expect people to work 12-hour days. We want you to be successful outside of work too. Want to work from home sometimes? No problem. We trust our colleagues to be responsible with their time and commitment and believe that balance helps cultivate a positive environment.</li><li> <strong>Fun</strong> . We have frequent group outings and team building events. We are committed to having every employee want to give it their all, be respectful and a part of the family, and have a smile on their face while doing it.<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T18:06:04.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

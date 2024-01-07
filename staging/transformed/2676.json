@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<strong><u>Job Description<br><br></u></strong>My client is a leading global provider of legal, regulatory and business information and analytics that help customers increase productivity, improve decision-making and outcomes, and advance the rule of law around the world. They help lawyers win cases, manage their work more efficiently, serve their clients better and grow their practices. They assist corporations in better understanding their markets, monitoring their brands and competition, and in mitigating business risk. They collaborate with universities to educate students, and support nation-building with governments and courts by making laws accessible and strengthening legal infrastructures. This organization serves customers in more than 130 countries with 10,000 employees worldwide, is part of RELX Group, a global provider of information and analytics for professional and business customers across industries. They are looking to bring on a Senior SRE to assist in a 50-million-dollar project migrating 3 billion dollars\u2019 worth of products to Azure.<br><br><strong><u>Required Skills &amp; Experience<br></u></strong><ul> <li>Use of orchestration tools such as Terraform, Ansible or CloudFormation</li> <li>Previous Analytic and troubleshooting experience is required</li> <li>Experience migrating application from on-premises to public cloud.</li> <li>Experience with Blue-Green deployment methodologies.</li> <li>Experience working with containerised workloads such as Docker and Kuebernetes.</li> <li>Experience with Log Management tools e.g - Elastic Stack, Graylog or Splunk</li> <li>Experience working with an enterprise RDBMS such as MySQL and/or Microsoft SQL Server.</li> <li>Knowledge of change control and associated procedures.</li> <li>Use of Secret Management services e.g - Hashicorp Vault</li> <li>Experience with any high-level programming language.</li> <li>Configuration Management tools - e.g. Ansible, Puppet, Chef or equivalents.</li> <li>Professional experience of working within the public cloud - Azure, AWS or GCP.</li> <li>Hands-on experience of Linux and Windows server including support and troubleshooting.</li> <li>System and application monitoring - e.g. Prometheus, Grafana, Nagios etc.</li> <li>Professional Experience with common source control tools - e.g Git, SVN</li> <li>Cloud Architecture and system design to solve key business problems and facilitate team goals.</li> <li>Strong and enthusiastic technologist, able to demonstrate a broad technical knowledge</li> <li>Ability to act as a point of expertise, advise others in the team on best practise and impart knowledge.</li> <br></ul>Development<br><ul> <li>Coding and scripting experience - e.g. Powershell, Bash, Python or equivalent </li> <li>Continuous Integration/Delivery Tools - e.g. Gitlab, Github, Jenkins</li> <li>Cloud Architecture and system design to solve key business problems and facilitate team goals.</li> <br></ul>Security<br><ul> <li>Hands-on experience performing application static/dynamic security and penetration assessment with tools such as - SonarQube, CheckMarx, AppScan, BurpSuite, OWASP ZAP Proxy, WebInspect, Fortify, Veracode, Nessus etc.</li> <li>Good understanding of defensive, corrective and detective controls and requirements</li> <li>Knowledge of OWASP Top 10/ SANS Top 25, identify vulnerabilities via manual and automated testing methods and how to effectively remediate vulnerabilities associated with each. Ability to recognize and escalate Security issues</li> <li>Exposure to application security testing (source code review and web/mobile application penetration tests)</li> <li>Familiarity with different types of security vulnerabilities and tools for countermeasure</li> <li>The candidate should be well versed in Information security principles at an Intermediate level</li> <br><br></ul><strong><u>Desirable Skills<br></u></strong><ul> <li>Desirable - AWS / Azure Certifications</li> <br><br></ul><strong><u>Qualifications<br></u></strong><ul> <li>5+ years experience and proven background working in a technical, Cyber Security related position.</li> <li>BSc Engineering/Computer Science/IT Security or relevant experience.</li> <li>Industry certification such as CSSP, AWS Certified Security, CSSLP desirable</li> <br></ul>The Offer<br><ul> <li>Competitive Salary: Up to $60-80/hour, DOE</li> <br><br></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul> <li>Medical Insurance &amp; Health Savings Account (HSA)</li> <li>401(k)</li> <li>Paid Sick Time Leave</li> <li>Pre-tax Commuter Benefit</li> <br></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.<br><br><strong>Posted By:</strong> Noah Mackeprang",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T00:25:23.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97200,
+    "max_value": 144000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

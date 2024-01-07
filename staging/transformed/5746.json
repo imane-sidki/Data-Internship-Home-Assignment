@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Director, Strategic Accounts",
+    "industry": "",
+    "description": "See description",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:24:50.000Z"
+  },
+  "company": {
+    "name": "The Qt Company",
+    "link": "https://fi.linkedin.com/company/theqtcompany"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

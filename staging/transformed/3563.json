@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer/DevOps Engineer",
+    "industry": "",
+    "description": "<p>Kronologic is focused on using AI to eliminate one of the biggest issues facing many Fortune 500 companies, manual scheduling. We help businesses automate scheduling to capitalize on leads more effectively. Our team has several AI patents filed based on our scheduling AI technology. We are currently looking to build out our products with curious ,passionate problem solvers.</p><p><br></p><p>We are currently seeking mid/senior DevOps engineers with experience building and maintaining CI/CD pipelines, monitoring and alerting systems. Our goal is to automate all aspects of our infrastructure.</p><p><br></p><p>Qualifications</p><ul><li>Experience: Devops, 3+ years (Required)</li><li>Work authorization: United States (Required)</li></ul><p><br></p><p>Core Values</p><ul><li>Bias for Action</li><li>Truth</li><li>Premium Tribe</li><li>Movement \u2260 Work</li><li>Comfortable Being Uncomfortable</li><li>Expertise</li></ul><p><br></p><p>Our stack currently consists of:</p><ul><li>EKS</li><li>Terraform</li><li>Kibana, DataDog</li><li>KMS, SQS, S3, Redis, Dynamo, Aurora, et al ...</li><li>Github, Gitlab &amp; GitLabCI</li><li>CloudFlare, Bonus if you have security and/or compliance experience.</li></ul><p><br></p><p>Benefits:</p><ul><li>Dental insurance</li><li>Flexible schedule</li><li>Health insurance</li><li>Paid time off</li><li>Vision insurance</li></ul><p><br></p><p>Work Location:</p><ul><li>Austin,TX ( flex model)</li></ul><p><br></p><p>This Job Is Ideal for Someone Who Is:</p><ul><li>Dependable -- more reliable than spontaneous</li><li>Autonomous/Independent -- enjoys working with little direction</li><li>Innovative -- prefers working in unconventional ways or on tasks that require creativity</li><li>High stress tolerance -- thrives in a high-pressure environment</li></ul><p><br></p><p>This Job Is:</p><ul><li>A \u201cFair Chance\u201d job (you or the employer follow Fair Chance hiring practices when performing background checks)</li><li>A good fit for applicants with gaps in their resume, or who have been out of the workforce for the past 6 months or more</li><li>Open to applicants who do not have a college diploma</li><li>A job for which people with disabilities are encouraged to apply</li></ul><p><br></p><p>Work Remotely:</p><ul><li>Temporarily due to COVID-19</li></ul><p><br></p><p>COVID-19 Precaution(s):</p><ul><li>Remote interview process</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T15:54:29.000Z"
+  },
+  "company": {
+    "name": "Kronologic",
+    "link": "https://www.linkedin.com/company/kronologic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

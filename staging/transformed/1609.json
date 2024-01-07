@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Job Type: Contract (Long Term: 2-3+ yrs)</p><p>Location: Lexington, MA </p><p>[Government Client]</p><p><br></p><p>Required Skills:</p><p>Python, Java, Matlab</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T23:01:24.000Z"
+  },
+  "company": {
+    "name": "RecruitIT LLC",
+    "link": "https://www.linkedin.com/company/recruitit-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

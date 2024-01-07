@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer in Test",
+    "industry": "Computer Software",
+    "description": "<strong><u>Job Description<br></u></strong><ul><li>Cloudera is looking for a Software Engineer in Test to join the machine learning platform team and help drive the development of Cloudera\u2019s next-generation machine learning and data science platform. Our product accelerates machine learning from exploration to production for customers. You will be responsible for helping deliver an enterprise product that meets and exceeds our customers\u2019 expectations around quality. This role requires an empathetic mindset and close collaboration with developers, customers, support/field organizations, and product management.<br><br>We look for \"The Startup Spark\", a desire to think outside the box and around the corner, break things, put the customer first, dive in wherever there's a need, eagerness to make an impact as an individual and the willingness to learn new things. You must be self-motivated, innovative, and proactive.<br><br>The role offers significant opportunities for growth.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Build and maintain the test infrastructure with an eye towards efficiency, reliability and developer productivity </li><li> Drive the quality agenda (develop test plans &amp; test cases, write automated tests) for new features </li><li> Collaborate with developers to design and implement testing strategies covering functional testing, customer workflow automation, fault injection, scale and performance testing. </li><li> Work closely with the development and support teams to triage product issues, identify product and test gaps and work towards addressing those gaps. </li><li> Collaborate with other teams at Cloudera to build tooling and infrastructure required for test automation <br><br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> BS/BA, MS or PhD equivalent in Computer Science </li><li> Foundation in systems software, algorithms and data structures. </li><li> Interests in test automation </li><li> Excellent implementation skills ( Python) </li><li> Knowledge of UNIX/Linux or Windows environments and APIs. </li><li> Solid understanding of TCP/IP, Network Programming and Operating Systems </li><li> Strong written and verbal communication skills <br></li></ul><strong><strong>Pluses<br></strong></strong><ul><li> Experience with web services testing (Javascript, Mocha, Selenium) </li><li> Experience with cloud technologies (AWS, GCE, Azure) </li><li> Experience with microservices development (Go, GRPC, SQL) <br></li></ul><strong><strong> Why Cloudera?<br></strong></strong><ul><li> Great Team -- We\u2019re a tight-knit team of talented engineers that really enjoy working together on challenging problems. Cloudera engineering also includes many of the top luminaries in Hadoop and related open source communities. We frequently interact with the research community, collaborate with engineers at other top companies and host cutting edge researchers for tech talks. </li><li> Open Source -- We contribute to and deliver an open source platform, comprised primarily of Apache Software Foundation projects. Most of our developers are either Apache committers or on the road to becoming one. </li><li> Innovative work - Cloudera pushes the frontier of big data and distributed computing, as our track record shows. We test and deploy our code on clusters with hundreds of nodes, terabytes of RAM, and petabytes of storage. We work on high-profile open source projects, interacting daily with engineers at other exciting companies, speaking at meet-ups, etc.</li></ul></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T04:15:48.000Z"
+  },
+  "company": {
+    "name": "Cloudera",
+    "link": "https://www.linkedin.com/company/cloudera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Configuration Engineer, Senior",
+    "industry": "Hospital & Health Care,Insurance",
+    "description": "<strong><u>Job Summary<br><br></u></strong>The Senior Release Engineer is responsible for defining, developing and delivering an innovative solution for our software delivery process and providing expert level knowledge on the tools and processes that constitute the SDLC. The candidate will be responsible to define and implement industry standard best practices for our build and deployment pipelines leading to continuous integration and continuous delivery. The candidate should be self-driven and posses good analytical and troubleshooting skills. The candidate will work with Development, Quality Assurance, Infrastructure, security and other technical and operational teams to continuously improve the quality, speed and methodologies used in delivering our capabilities to production while ensuring auditability and traceability of all changes.<br><br>Candidate should be able to articulate the delivery, branching / merging, and environment maintenance process to succeed in this position. Candidate should be able to co-relate their work with how it impacts business. The candidate should be eager to learn new technologies, flexible and work with peers to create a cohesive team environment.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Consult with other IT teams and Business teams to deliver high quality products to test and production environments.</li> <li>Develop scripts and automation tools used to build, integrate, and deploy software releases to various platforms.</li> <li>Maintains and enhances automated scripts.</li> <li>Troubleshoot complex environment, software, and workflow problems related to system deployment.</li> <li>Maintain advanced knowledge of development methodology, processes, and programming languages.</li> <li>Understand and/or implemented cloud technologies on-premises or on cloud on GCP or Azure cloud platforms.</li> <li>Working knowledge of Python and Groovy is a must.</li> <li>Coding experience in Java, .Net or any software language is a must.</li> <li>Good understanding or working knowledge of DevSecOps is a big plus.</li> <li>Working knowledge of Informatica and batch processing is a big plus.</li> <li>Able to create delivery metrics, report on KPIs and release cadence.</li> <li>Proponent of Agile transformation and lean delivery is a plus.</li> <li>Presentation of the new innovations, ideas or technical solutions to the Leadership team is a must have.</li> <li>After hours on-call support may be required.</li> <br><br></ul><strong><u>Knowledge And Experience<br></u></strong><ul> <li>BS/MS degree in computer science or equivalent preferred.</li> <li>Requires a minimum of 5+ years of Release engineering or a combination of Release and Development experience is needed.</li> <li>Knowledge of coding in Java, .NET or any software language is required.</li> <li>Experience taking initiatives and completing it by getting consensus with all stakeholders is preferred.</li> <li>Must possess great communication and presentation skills.</li> <li>Must have experience training Junior Engineers.</li> <li>Must have experience in promoting code to non-production and production environments and/or providing installation support for deployment teams.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:10:17.000Z"
+  },
+  "company": {
+    "name": "Blue Shield of California",
+    "link": "https://www.linkedin.com/company/blue-shield-of-california"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

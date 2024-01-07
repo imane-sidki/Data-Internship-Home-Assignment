@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Integration Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>We are looking for a Software Integration Engineer in the Houston, TX area. This is a full time position onsite that includes great benefits including health, dental, vision, 401K, PTO and an annual bonus.</p><p><br></p><p>This position will be working with the backend of several applications including the ServiceNow platform. As a Software Integration Engineer, your main responsibilities consists of communicating with various departments and understanding what needs to be done in developing solutions for various enterprise software systems.</p><p><br></p><p>Technical Requirements:</p><ul><li>Software development background in .NET</li><li>Containerization experience with Docker and Kubernetes</li><li>Experience developing applications in high availability clusters getting to ensure that they are cloud ready</li><li>Experience integrating various applications with the ServiceNow platform</li><li>Automation experience with Ansible and Terraform</li><li>Experience communicating with users to gather their requirements</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:14:24.000Z"
+  },
+  "company": {
+    "name": "Connective Talent",
+    "link": "https://www.linkedin.com/company/connective-talent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

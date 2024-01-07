@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p><strong>Location:</strong></p><p>This role is remote for the first six months. Then relocate to one of the cities below.</p><p>\u00b7Roswell, GA</p><p>\u00b7Dallas, TX</p><p>\u00b7Knoxville, TN</p><p>\u00b7Neenah, WI</p><p>\u00b7San Francisco, CA</p><p></p><p>Company:</p><p></p><p>iCuro is pioneering artificial intelligence (AI) systems and products for accelerating enterprise growth outcomes. iCuro is a leading consulting partner and thought leader in the rapid development and deployment of enterprise AI solutions by fully integrating hardware and software, and data. We serve customers across multiple industry verticals including Consumer Packaged Goods (CPG), Retail, Manufacturing, Health Sciences, and Technology.</p><p><br></p><p>www.icuro.com</p><p><br></p><p>Job Description:</p><p></p><p>The Data Scientist will apply his/her strong expertise in machine learning, data mining, and information retrieval to design, prototype and build next generation advanced analytics engine and services. The Data Scientist collaborates with translators to define technical problem statement and hypothesis to test; develops efficient and accurate analytical models that mimic business decisions.</p><p></p><p><strong>Role &amp; Responsibilities</strong></p><p>\u2022Design, create, test and implement complex machine learning and deep learning models and algorithms that drive analytical solutions throughout the organization</p><p>\u2022Work with business managers to frame a problem, both mathematically and within the business context. Perform exploratory data analysis to gain insights about the problem</p><p>\u2022Experienced in proposing ROI based solutions to business driven by AI/ML; Be a storyteller to explain the \u2018why &amp; how\u2019 of your data driven recommendations to cross-functional teams</p><p>\u2022Leverage variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks to achieve business outcomes</p><p>\u2022Leverage advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications to improve model recommendations</p><p>\u2022Conduct advanced statistical and other analysis to provide actionable insights, identify trends, and measure performance leveraging TensorFlow</p><p>\u2022Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes</p><p>\u2022Identify and develop long-term data science processes, frameworks, tools, and standards</p><p>\u2022Comfortable working in programming languages like SQL, Python and R, as well as with frameworks like Azure ML Ops and Azure Machine Learning; experience designing solutions in distributed teams using Version Control tools like GIT</p><p>\u2022Curate and connect external data sets for broad enterprise-wide analytic usage</p><p>\u2022Develop company A/B testing framework and test model quality</p><p>\u2022Collaborate with internal stakeholders to understand business challenges and develop analytical solutions to optimize business processes &amp; monitor outcomes</p><p>\u2022Have passion to advocate and educate on the value and importance of data driven decision making &amp; analytical methods</p><p>\u2022Mentor and guide data science team members as well as developers and QA engineers working on the products</p><p></p><p><strong>Qualifications</strong></p><p>\u20225-10 years of experience in software development of large-scale data infrastructure and distributed systems</p><p>\u20224-8 years of experience in data extraction, transformation, statistical analysis and data modeling</p><p>\u20225+ years of experience developing enterprise software using Java or Python</p><p>\u20223-6 years of experience in applying Data Mining and Machine Learning techniques to solve business problems</p><p>\u20225-8 years of experience using major RDBMS, SAP, Hadoop, Spark, Elasticsearch, or similar technologies</p><p>\u20223+ years of experience with statistical modeling tools such as R, SAS, SciKit-learn, </p><p>\u2022Bachelors degree in Computer Science, Computer Engineering, Machine Learning, or related field or equivalent experience.</p><p><strong></strong></p><p><strong>Technical Skills</strong></p><p>\u2022Experience with Azure and/or GCP cloud platform</p><p>\u2022Experience in machine learning, statistics, optimization or related fields; deeper experience in working with large data sets, simulation/ optimization or distributed computing tools is a plus</p><p>\u2022Experience working with Open CV, Deep learning experience and time series analysis</p><p>\u2022Experience with Map/Reduce, SAP, Hadoop, Hive, Spark, etc.</p><p>\u2022Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets</p><p>\u2022Coding knowledge and experience with several languages: Python, Go, Java, JavaScript, R, SQL etc.</p><p>\u2022Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.</p><p>\u2022Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.</p><p>\u2022Experience visualizing/presenting data for stakeholders using: Tableau, PowerBI, Looker, Data Studio, Shiny, D3, ggplot etc.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T12:22:37.000Z"
+  },
+  "company": {
+    "name": "ICURO",
+    "link": "https://www.linkedin.com/company/icuro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

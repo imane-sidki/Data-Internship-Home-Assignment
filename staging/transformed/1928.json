@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "<br><strong>Do what you love. Love what you do. <br><br></strong> At Workday, we help the world\u2019s largest organizations adapt to what\u2019s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we\u2019re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. <br><br><strong>About the Team<br></strong>This is an opportunity to be part of a growth team focused on building predictive capabilities into our products, and part of the next generation of Workday technology.  We believe predictive products can be as transformative to the next generation of technology as mobile was to the last. As a senior software developer you will help develop tailored experiences for every user powered by  personalization and predictive analysis. You will work closely with ML engineers and other software developers to deliver mission critical infrastructure and software frameworks that enable personalized user experience across Workday\u2019s product ecosystem. You will utilize modern software and data engineering stacks to enable training, deployment, and lifecycle management of a variety of ML models; supervised and unsupervised, deep learning and classical. You will own design &amp; development of new APIs/microservices and deploy them using docker/kubernetes at scale.You will use Workday\u2019s vast computing resources on rich, exclusive datasets to deliver value that transforms the way our customers make decisions and run their business.  We will challenge you to apply your best creative thinking, analysis, problem-solving, and technical abilities to make an impact on thousands of enterprises and millions of people.Who we are\u00a0Workday is the cloud-based SaaS company providing industry-leading software for HR, financials, workforce planning and employee learning to more than 40% of the Fortune 500. We are the Machine Learning Product team at Workday. Our focus is on the application of machine learning and statistical analysis to Workday\u2019s products to serve our end users. We leverage diverse datasets to build data-driven products, which help the world\u2019s largest organizations uncover insights and make strategic decisions about their people, finances, and business. We routinely work on data with high velocity, volume and variety and we employ a modern machine learning distributed computing and big data software stack to deal with these challenges.\u00a0At Workday we truly care about our people, that\u2019s why we rank as the top 5 best places to work. To learn more about Workday ML, check out this video:https://bit.ly/34efgyg<br><strong>About the Role<br></strong><strong><strong> About the role <br></strong></strong> This is an opportunity to be part of a growth team focused on building predictive capabilities into our products, and part of the next generation of Workday technology.\u00a0 We believe predictive products can be as transformative to the next generation of technology as mobile was to the last. <br><br> As a senior software developer you will help develop tailored experiences for every user powered by\u00a0 personalization and predictive analysis. You will work closely with ML engineers and other software developers to deliver mission critical infrastructure and software frameworks that enable personalized user experience across Workday\u2019s product ecosystem. You will utilize modern software and data engineering stacks to enable training, deployment, and lifecycle management of a variety of ML models; supervised and unsupervised, deep learning and classical. You will own design &amp; development of new APIs/microservices and deploy them using docker/kubernetes at scale. <br><br> You will use Workday\u2019s vast computing resources on rich, exclusive datasets to deliver value that transforms the way our customers make decisions and run their business.\u00a0 We will challenge you to apply your best creative thinking, analysis, problem-solving, and technical abilities to make an impact on thousands of enterprises and millions of people.\u00a0 <br><br> Sound like your kind of challenge? <br><strong><strong> In this role, you would: </strong></strong><ul><li> Work with cross functional teams to deliver scalable, secure and reliable solutions </li><li> Actively engage with data scientists, ML engineers, PMs and other architects in requirements elaboration and drive technical solutions </li><li> Design and develop features from end to end, including infrastructure as code.\u00a0 </li><li> Design and build solutions for optimal organization, storage and retrieval of data to enable massive scale </li><li> Build monitoring systems and dashboards to track health </li><li> Lead in architecture reviews, code reviews and technology evaluation. </li><li> Research, evaluate, prototype and drive adoption of new ML tools with reliability and scale in mind <br><br></li></ul><strong>About You<br></strong><strong><strong> About you </strong></strong><ul><li> 2 or more years of relevant industry experience </li><li> Bachelor\u2019s and/or Master\u2019s degree, preferably in CS, or equivalent experience </li><li> Strong programming experience preferably in Python, Java or Scala </li><li> Proven experience designing and deploying end-to-end systems\u00a0 </li><li> Experience in building, deploying and monitoring services on public cloud (like AWS, GCP or Azure) </li><li> Experience of data and/or ML systems with ability to think across layers of the stack(nice to have) <br><br></li></ul> Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:56:59.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82300,
+    "max_value": 130000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

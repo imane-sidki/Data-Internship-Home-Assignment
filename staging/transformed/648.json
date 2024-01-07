@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Job description</strong></p><p>The Systems Engineer will be responsible for the oversight and administration of Keycentrix\u2019s IT assets, both hardware and software. This position will provide solution architecture, development and deployment for Keycentrix internal users. The position requires strong troubleshooting and diagnostic skills, the ability to research, design, and implement new solutions from the ground up, as well as strong communication and leadership skills.</p><p><strong>Essential Job Responsibilities:</strong></p><p>\u00b7 Develops IT solutions for Keycentrix\u2019s internal customers. Provides IT architecture solutions to meet our critical business needs.</p><p>\u00b7 Administers the installation and operation of all Keycentrix LAN/WAN related network services and security and control measures</p><p>\u00b7 Troubleshoots and resolves LAN/WAN performance, connectivity and related network problems</p><p>\u00b7 Performs installations, upgrades, and support of computer hardware and software for internal customers</p><p>\u00b7 Oversees IT projects ensuring smooth and successful execution</p><p>\u00b7 Collaborates with internal customers and vendors on all projects, timelines and budgets</p><p>\u00b7 Advises and supports all company policies and procedures pertaining to IT administration</p><p>\u00b7 Communicates effectively with all internal customers, ensuring customer satisfaction and strong business relationships.</p><p>\u00b7 Oversees the documentation of all Keycentrix systems and procedures within the scope of IT architecture, installation, support and operations</p><p>\u00b7 Performs any assigned tasks associated with support of external Keycentrix customers as directed</p><p>\u00b7 Trains and may provide work direction to IT Technician(s)</p><p><strong>Qualifications:</strong></p><p>\u00b7 Solid technical skills and experience with a variety of network protocols, software, and hardware involved in LAN and WAN operations</p><p>\u00b7 Strong troubleshooting, analytic and diagnostic skills</p><p>\u00b7 IT architecture skills</p><p>\u00b7 Strong project planning skills</p><p>\u00b7 Ability to perform high-level root cause analysis of technical issues</p><p>\u00b7 Ability to communicate effectively with technical and non-technical users</p><p>\u00b7 Self-starter but able to work with and lead/mentor others</p><p>\u00b7 Availability to perform on-call work when necessary</p><p>\u00b7 Excellent communication skills</p><p>\u00b7 Project management experience</p><p>\u00b7 Disaster recovery and planning experience</p><p>\u00b7 Minimum 3 years of experience in at least 7 of the following areas:</p><p>\u00b7 TCP/IP networking</p><p>\u00b7 WAN, LAN, WLAN</p><p>\u00b7 Standard network protocols (HTTP(S), FTP, SMTP, SSL, BGP, EIGRP, etc.)</p><p>\u00b7 VLANs</p><p>\u00b7 VMware virtual server and workstation environments</p><p>\u00b7 Active Directory environments (2012 and above)</p><p>\u00b7 Microsoft Operating Systems (Server and Desktop)</p><p>\u00b7 VPN and remote access methodologies</p><p>\u00b7 Server and desktop hardware installation, configuration, and support skills</p><p>\u00b7 SonicWall firewall and network security experience</p><p>\u00b7 Backup and DR solutions, specifically Veeam</p><p><strong>Other Preferred Skills</strong></p><p>\u00b7 CCNA or CCNP certification</p><p>\u00b7 MCSE, MCSA certification</p><p>\u00b7 Network design/architecture experience</p><p>\u00b7 VOIP telephony solutions</p><p>\u00b7 Microsoft Cloud solutions (SharePoint, Office 365)</p><p>\u00b7 SAN, NAS storage solution experience (specifically with Nimble, EqualLogic, NetApp, EMC)</p><p>\u00b7 Experience with network monitoring and performance tuning</p><p>\u00b7 Linux (Ubuntu, Red Hat, CentOS)</p><p>\u00b7 SQL databases (SQL Server, PostgreSQL, Oracle)</p><p>\u00b7 Docker, Kubernetes, or other container solutions</p><p><strong>Education or Certifications:</strong></p><p>\u00b7 Bachelor\u2019s degree in Computer Science desired; or commensurate degree and experience combination</p><p><strong>About Keycentrix\u2122</strong></p><p>Keycentrix is a software and technology company based in Wichita, Kansas. For over 40 years, we have provided powerful and affordable software that helps Independent Retail and Mail-order Pharmacies thrive. We also provide best-in-class software solutions for Specialty Pharmacies with Newleaf\u00ae software, allowing pharmacies to run better, smarter, and faster, while maintaining high-touch care for the communities and patients served. Learn more about our full range of software and IT services at keycentrix.com.</p><p>We are proud to announce that we recently won the prestigious 2019 Surescripts White Coat Award\u2122 for e-prescriptions accuracy. https://www.pharmacytimes.com/news/keycentrix-wins-surescripts-2019-white-coat-award-for-prescription-accuracy</p><p>Keycentrix is a member of the Cochener Garvey Capital Partners, Inc. family of businesses. www.cgcpi.com.</p><p>Keycentrix is committed to providing equal opportunity in employment for all people without regard to the following: race, color, religion, age, gender, sexual orientation, marital status, gender identity, national origin, physical or mental disability, service in the military, or any other attribute or characteristic protected by law.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:47:56.000Z"
+  },
+  "company": {
+    "name": "keycentrix, LLC",
+    "link": "https://www.linkedin.com/company/keycentrix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 43600,
+    "max_value": 94100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wichita",
+    "region": "KS",
+    "postal_code": "67203",
+    "street_address": null,
+    "latitude": 37.686024,
+    "longitude": -97.33557
+  }
+}

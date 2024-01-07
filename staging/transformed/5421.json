@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Campus 2020-2021)",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>About the Position<br><br></strong>We are looking for Software Engineers to join our rapidly growing technology team. The prerequisites for joining our development team are simple. We care more about your attitude and aptitude than the specific tools and technologies you have used in the past. You need to have a strong passion for software development and must take pride in your coding. You should also have great analytical skills and ability to handle complex, modular software development in a collaborative team-based environment.<br><br><strong><u>What To Expect<br></u></strong><ul><li>Work on Internet scale applications, where performance, reliability and scalability, are critical design goals.</li><li>Create beautiful, interactive and easy-to-use web applications using rich client-side code and MVC based server-side code.</li><li>Create innovative mobile applications on a wide range of platforms including iOS, Android and others.</li><li>Contribute to our core Service-Oriented Architecture (SOA) and Event-Driven Architecture (EDA) in real-life applications.</li><li>Gain experience with different database technologies, ranging from traditional relational to the latest NoSQL products.</li><li>Work in a collaborative, team-based environment in an iterative Agile or Kanban <br></li></ul><strong><u>About You<br></u></strong><ul><li>The ideal candidate will have a minimum of three months of educational or professional programming experience in one or more of the following: C#, Java, C++, ASP.NET, MVC, PHP, Ruby on Rails, JavaScript, JQuery, Web Services and API development using REST or SOAP</li><li>Knowledge of any of the following database technologies is desired but not required: SQL Server, MySQL, PostgreSQL, Oracle, MongoDB, Redis or other NoSQL technologies</li><li>Ability and willingness to work alongside Senior Engineers, Architects, and Managers to further your professional development</li><li>Most importantly, a successful candidate will be passionate about technology. Keeping up with the latest advancements in the industry; spending time creating, building, and exploring with technical projects; an inquisitive attitude in regards to the workings of hardware and software; and overall, simply having fun and finding enjoyment in the field</li><li>Has a graduation date of December 2020 or May 2021<br></li></ul><em>At Cvent we celebrate, support and are committed to creating a diverse and inclusive environment. We\u2019re proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status or any other legally protected characteristics.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T15:42:48.000Z"
+  },
+  "company": {
+    "name": "Cvent",
+    "link": "https://www.linkedin.com/company/cvent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 3,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tysons Corner",
+    "region": "VA",
+    "postal_code": "22030",
+    "street_address": null,
+    "latitude": 38.912,
+    "longitude": -77.22755
+  }
+}

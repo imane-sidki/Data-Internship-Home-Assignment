@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineer/Principal Engineer, Machine Learning and Artificial Intelligence",
+    "industry": "Research,Biotechnology,Pharmaceuticals",
+    "description": "<strong><u>Company Description<br><br></u></strong>At Roivant, we are passionate about discovering and developing new drugs to impact patients' lives. Since its inception in 2014, Roivant has launched over 20 portfolio companies (Vants), overseen 5 successful IPOs, established a $3B partnership with a global pharma, built a pipeline of over 40 assets across various modalities and therapeutic areas, and delivered 8 successful phase 3 readouts.<br><br>Roivant is currently building new capabilities in drug discovery and expanding its existing development engine to become the world's leading tech-enabled pharmaceutical company. Roivant's drug discovery capabilities are driven by our computational discovery platform, which combines preeminent physics-based tools with deep expertise in machine learning to generate unprecedented predictive power that can tackle previously intractable discovery challenges. The tight integration of this computational platform with our experimental capabilities enables the rapid design and optimization of new drugs to address a wide range of targets for diseases with high unmet need.<br><br>We believe that the future of drug discovery lies in integrating predictive sciences, biology, and medicinal chemistry to accelerate the path to new medicines. This role is an opportunity to be an architect of this paradigm shift and generate transformative benefit for patients.<br><br><strong><u>Position Summary<br><br></u></strong>The candidate will apply state-of-the-art methods in machine learning, complemented by rigorous statistical analysis and other well-established methods in cheminformatics and bioinformatics, to substantially advance computation-enabled drug discovery. The candidate will work closely with an interdisciplinary team of computational chemists, biophysicists, scientific programmers, and software engineers to develop our computational platform that combines latest advances in machine learning and physics-based models. Competitive pay, equity, strong perks, and a fun working environment, along with the opportunity to do cutting edge science to design better medicines, are all good reasons to join us!<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Develop cutting-edge machine learning and statistical models that enable and accelerate drug discovery projects. Research areas include </li><li>Develop protein structure prediction methods combining ML and physics-based models, achieving crystallographic accuracy and enabling prediction of effects of mutations and post-translational modifications </li><li>Collaborate with quantum chemists to develop machine learning models that predict accurate molecular energies at a fraction of the computational cost of quantum chemistry </li><li>Collaborate with the force field team to develop and train machine learning models to generate and improve force field parameters. </li><li>Develop statistical models for predicting molecular properties based molecular structures </li><li>Develop statistical models for assessing predictive accuracy of our physics models </li><li>Develop generative models for designing drug-like molecules <br></li></ul><strong><u>Required Qualifications<br></u></strong><ul><li>Master or Ph. D. degree in computer science, applied math, or physical sciences. </li><li>Experience developing machine (such as random forests, support vector machines, deep neural networks) models, familiar with latest developments in machine learning methods. </li><li>Extensive experience with common machine learning tools, such as Scikit.learn, Tensorflow, Pytorch, etc.. </li><li>Strong Python coding skills. </li><li>Experiences working with large data sets. <br></li></ul><strong><u>Additional Desirable Qualifications<br></u></strong><ul><li>Experience with cheminformatic and bioinformatic tools, such as RDKit, OpenEye, Biopython, etc.. </li><li>Research experience within computational physics or quantum chemistry </li><li>Experience working within a collaborative team.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:33:44.000Z"
+  },
+  "company": {
+    "name": "Roivant Sciences",
+    "link": "https://www.linkedin.com/company/roivant-sciences-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

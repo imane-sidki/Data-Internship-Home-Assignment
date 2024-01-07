@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Our Company:</strong></p><p>Genista Biosciences is a rapidly growing biotech startup company based in San Jose, CA dedicated to improving public health and food safety, both on the community and global scale.</p><p><br></p><p><strong>About the Role:</strong></p><p>- Collaborate with the UX/UI design team to ensure that vision is being properly followed</p><p>- Implement back-end functionalities for in-house mobile and web applications</p><p>- Provide ongoing maintenance, support and enhancements to the existing platform</p><p>- Define front end architecture and components, define user experience, handle state and client-side experiences</p><p>- Perform integrations tasks of various modules and components that have been developed by other engineers</p><p>- Work with the development team to help define system architecture</p><p>- Perform rigorous testing and bug-fixes on new and existing code</p><p>- Write scripts/programs for performing testing, automating tasks, and controlling robotics systems</p><p><br></p><p><strong>Qualifications:</strong></p><p>- BS or MS in Computer Science, Computer Engineering or other technology-related field</p><p>- Experience with either iOS or Android app development</p><p>- Experience with web technologies/frameworks like React, Django, and NodeJS</p><p>- Preferred Languages: JavaScript, Java, Swift, Objective C, Python</p><p><br></p><p><strong>About the Position:</strong></p><p>This is a full time position with competitive salary and health, vision, dental and life insurance benefits that are fully covered by Genista with no out-of-pocket expenses. Additional perks include gym membership, free on-site lunch, paid vacation, and a casual working environment.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T21:46:44.000Z"
+  },
+  "company": {
+    "name": "Genista Biosciences",
+    "link": "https://www.linkedin.com/company/genista-biosciences"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

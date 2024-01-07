@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Marketing and Advertising,Internet,Retail",
+    "description": "Zulily is a retailer obsessed with bringing our customers something special every day. Unique products from up-and-coming brands are featured alongside favorites from top brands, including clothing, home decor, accessories, toys and gifts, giving customers something new to discover each morning at an incredible price. We are fast-paced, innovative and metric-driven, with a team passionate for delighting our customers. Whether you want to work with incredible product selection, develop smart marketing plans, help us in our pursuit of faster fulfillment, or do something else awesome in between, we have a place for you. With locations in Seattle, Reno, Columbus and Bethlehem, our team is excited to be changing the way people shop every day - and we are just getting started.<br><br><strong><u>Job Description Details<br></u></strong><ul><li>Bachelors Degree in Computer Science or related field required. A combination of education plus equivalent work experience may be considered.</li><li>1-2 years programming experience </li><li>Ability to think system wide and translate business requirements into code</li><li>Ability to explore new ideas and have a passion to make them happen</li><li>Ability to work in a fast paced, evolving, growing and dynamic environment</li><li>Strong communication and relationship building skills</li><li> Experience in coding in modern programming languages such as Java, GoLang, Python, C#, and/or NodeJS </li><li> Education: Bachelor\u2019s Degree in Computer Science or related field or equivalent experience</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T20:02:03.000Z"
+  },
+  "company": {
+    "name": "Zulily",
+    "link": "https://www.linkedin.com/company/zulily"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Insurance",
+    "description": "<p><strong>DATA SCIENTIST - Work from home but must live in Chicago, IL</strong></p><p><br></p><p><strong>KEY RESPONSIBILITIES</strong></p><ul><li>Develop novel ways to help business partners achieve objectives through analysis and modelling</li><li>Think outside the box to identify and test new sources of information that unlock new business value</li><li>Curate and connect external data sets for broad enterprise-wide analytic usage</li><li>Engineer features by using your business acumen to bin, aggregate, pivot or encode data for optimal results</li><li>Utilize machine learning to create repeatable, dynamic, and scalable models</li><li>Have passion to advocate and educate on the value and importance of data driven decision making and analytical methods</li><li>Identify and develop long-term data science processes, frameworks, tools, and standards</li><li>Generate insights and present findings to the key stakeholders</li><li>Be a part of the team, collaborate, ask questions, engage, and solicit feedback from the team and business partners</li></ul><p><br></p><p><br></p><p><strong> QUALIFICATIONS</strong></p><ul><li>Bachelor's Degree required; 3+ years of relevant experience</li><li>3-5 years of experience in Data science; Degree in Data Science, Computer Science, Engineering, Math, Statistics or Economics, preferred</li><li>Comfortable in basic statistical analysis, modeling, clustering, and data mining techniques etc</li><li>Practical experience with Python,R,SQL,etc comfortable working with DataFrames</li><li>Familiarity with cloud computing environments.</li><li>Experience with data visualization tools</li><li>Exemplary organizational skills with attention to detail and accuracy</li><li>Bias for action with ability to deliver outstanding results through task prioritization and time management</li><li>Strong communication and collaboration skills</li></ul><p><br></p><p><strong>Preferred </strong></p><p>Property insurance experience</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T18:21:09.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

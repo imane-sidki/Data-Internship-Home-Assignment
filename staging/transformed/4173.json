@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Company Description<br><br></u></strong>ServiceNow is making the world of work, work better for people. Our cloud\u2011based platform and solutions deliver digital workflows that create great experiences and unlock productivity for employees and the enterprise. We&apos;re growing fast, innovating faster, and making an impact on our customers&apos; and employees&apos; lives in significant and important ways. With over 6,900 customers, we serve approximately 80% of the Fortune 500, and we&apos;re on the 2020 list of FORTUNE World&apos;s Most Admired Companies.\u00ae<br><br>We\u2019re looking for people who are ready to jump right in and help us build on our incredible momentum, our diverse, engaged workforce, and our purpose to make the world of work, work better.<br><br>Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow.<br><br><strong><u>Job Description<br><br></u></strong><strong>What you get to do in this role:</strong><strong>\u202f\u202f<br><br></strong>The ServiceNow developer\u2019s primary responsibility will be to develop scoped applications that can integrate between ServiceNow and other enterprise business systems. This role will also be responsible for the enablement of new modules, support enhancements, and the development of integrations that will leverage new and existing platform APIs.<br><ul><li> Develop scoped applications that will utilize all of the ServiceNow\u2019s platform functionality.</li><li> Develop and support the integration of 3rd party systems with ServiceNow; MID server, web services (REST), and SSH actions.</li><li> Create and maintain API and data integrations between ServiceNow and other services</li><li> Be a lead contributor on how ServiceNow can be used to integrate to new and existing technologies.<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>To be successful in this role you have:<br></strong><ul><li> At least 4 years of hands-on experience with the development, configuration, implementation and support of production and non-production ServiceNow instances</li><li> At least 4 years of hands-on experience with JavaScript, HTML, and CSS are required</li><li> A rich knowledge of both ITIL and ITSM disciplines is required</li><li> ServiceNow Application Developer and System Administrator Certifications are nice to have</li><li> Demonstrated proficiency with the use and management of APIs</li><li> Knowledge of infrastructure services spanning servers, storage, network, security and cloud<br></li></ul>FD21<br><br><strong><u>Additional Information<br><br></u></strong>ServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.<br><br>If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at +1 (408) 501-8550, or talent.acquisition@servicenow.com for assistance.<br><br>For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have to obtain export licensing approval from the U.S. Government for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the U.S. Government.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:40:25.000Z"
+  },
+  "company": {
+    "name": "ServiceNow",
+    "link": "https://www.linkedin.com/company/servicenow"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Location : NYC onsite <br>Duration : 6+ Month<br>Interview Process : 1 Internal and 2 Client Interview<br> <br> <br>------------------------------------------<br>Principal Site Reliability Engineer, Productivity & Conferencing Services, Workplace Technology Engineering<br> <br>The Principal Site Reliability Engineer for Productivity Services is responsible for the technical design and operations of productivity solutions used globally by client employees and partners. These solutions will enable the workforce to create, share, and collaborate on content from anywhere at anytime built upon the Microsoft 365 and Azure platforms. This technical leadership role is expected to apply a software engineering mindset to system administration topics elevating the availability, reliability, and security of solutions while reducing operational costs.<br>Specific solutions include:<br>Email and calendaring (Exchange, Outlook, Proofpoint)<br>File storage and sharing (OneDrive, Dropbox)<br>Document creation (Word, Excel, PowerPoint)<br>Video, audio, and text chat (Teams, Slack)<br>Meeting room conferencing and booking (Cisco, Condeco)<br>Specific responsibilities include:<br>Lead the technical design, implementation, and operation of productivity solutions with an emphasis on security, systems architecture, and automated provisioning<br>Contribute to the site reliability engineering center of excellence including the creation of standard artifacts, best practices, and learning plans<br>Participate as a standing member of the engineering review board to evaluate trade studies, approve solution designs, and maintain the overall workplace system architecture<br>Participate in the weekly agile process to resolve technical impediments and assist in user story definition and sizing<br>Desired characteristics include:<br>Ability to communicate effectively both written and verbally to stakeholders and engineers<br>Ability to build effective cross-functional relationships in support of delivering enterprise-wide solutions<br>Ability to execute within a fast-paced agile process Qualifications include:<br>5+ years experience designing, implementing, and operating Microsoft 365 services at enterprise scale<br>5+ years experience programming including shell scripting (PowerShell)<br>5+ years experience designing scalable and reliable enterprise solutions including considerations for multi-tier software architectures, networking, and security<br>3+ years experience with cloud-based infrastructure and platform services (Azure, AWS)<br>2+ years experience automating the deployment of enterprise solutions using infrastructure-as-code, configuration management, and CI/CD technologies Office 365 and Exchange certifications preferred<br>Experience with data loss prevention, archiving, eDiscovery, and compliance preferred<br>Masters degree in computer-related field preferred",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T13:39:21.000Z"
+  },
+  "company": {
+    "name": "PALNAR",
+    "link": "https://www.linkedin.com/company/palnar"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

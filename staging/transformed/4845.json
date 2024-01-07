@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Greenroom",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong><u>About The Creation Platform<br><br></u></strong>Spotify is a global community of over 250 million music fans, artists, and now podcasters. It's always been our mission to make audio more accessible for everyone, and create innovative ways for creators and fans to connect with each other.<br><br>Creation Platform is the team within Spotify responsible for building the best tools for audio creators. We have three platforms that help us deliver a great creator experience: Anchor (the platform that allows you to create, distribute, monetize, and grow a podcast, all for free), Spotify for Podcasters (the platform that makes it easy to understand and engage with your listeners on Spotify, and Greenroom (the platform that allows anyone to stream or listen to live audio).<br><br>We've done a lot already, and we have no plans of slowing down. Come help us build the future of audio creation!<br><br><strong><u>About The Role<br><br></u></strong>As announced in our recent acquisition of Locker Room, Spotify is accelerating its entry into the live audio space across a range of sports, music, and cultural programming. With this live audio platform, Spotify will redefine the way fans connect with digital taste-makers through highly-relevant, reactionary live content, and put the power to quickly and easily build spontaneous, interactive conversations in the hands of millions of emerging voices worldwide.<br><br>As an SRE on our engineering team, your mission will be to ensure the reliability, security, and scalability of systems that will impact millions of users, and be a key driver of the team's technical and operational excellence.<br><br>Additionally, an SRE will optimize existing systems, build infrastructure, and eliminate work through automation.<br><br>We promote self-direction to work on meaningful projects, while we also try to create an environment that provides the support and mentorship needed to learn and grow.<br><br><strong><u>What You'll Do<br></u></strong><ul><li>Build, automate, maintain, scale, and monitor user-facing systems using best practices, with reliability and scalability in mind</li><li>Work with the other backend engineers to debug and fix issues</li><li>Implement high-quality release engineering practices to facilitate rapid development, safe changes, and engineer productivity</li><li>Maintain system architecture documentation and runbooks</li><li>Rotate through on-call support<br></li></ul><strong><u>Who You Are<br></u></strong><ul><li>You have 2+ years of experience designing, analyzing, and troubleshooting large-scale distributed systems</li><li>You have experience with GCP</li><li>You have done Postgres administration, including configuration and tuning, analyzing and troubleshooting performance, hunting down slow queries, managing replication, etc.</li><li>You have experience with SQL, including writing/analyzing complex joins, reading explain plans, optimizing indexes, etc</li><li>You are well versed in systems fundamentals like networking, certificate management, and security best practices</li><li>You have experience automating repetitive tasks</li><li>You possess excellent communication skills, and use them to document your work<br></li></ul><strong><u>Where You'll Be<br></u></strong><ul><li>We are a distributed workforce enabling our band members to find a work mode that is best for them!</li><li>Where in the world? For this role, it can be within the Americas region in which we have a work location</li><li>Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. </li><li>Find more information about our Work From Anywhere options here .<br></li></ul>Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what\u2019s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It\u2019s in our differences that we will find the power to keep revolutionizing the way the world listens.<br><br>Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world\u2019s most popular audio streaming subscription service with a community of more than 345 million users.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T03:12:08.000Z"
+  },
+  "company": {
+    "name": "Spotify",
+    "link": "https://se.linkedin.com/company/spotify"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60400,
+    "max_value": 90700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

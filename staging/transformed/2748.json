@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (REMOTE)",
+    "industry": "Computer Software,Information Services,Information Technology and Services",
+    "description": "Logic20/20 is looking for an experienced Site Reliability Engineer to join our team to support the development and operations of a large-scale application, running in Kubernetes and using Angular 8, Node.JS, MS SQL, C#.<br><br>The work will include both ongoing operational support and technical dept reduction.<br><br>Within the team structure, you will be increasing the system\u2019s reliability, scalability and operational efficiency through automation.<br><br>In this role, you will use a diverse set of technical expertise; including back-end/ front-end development, DevOps tooling, troubleshooting and debugging skills, cloud computing, coding/scripting. Beyond your technical qualification, you will also have a healthy combination of cross-group collaboration skills, communication and relationship building skills.<br><br><strong>Service Desk<br></strong><ul><li>Knowledge of incident management, release management </li><li>Responsible for analyzing and triaging user identified issues</li><li>Responsible for triggering first line services repair actions </li><li>Complete Root Cause Analysis (RCA) investigations</li><li>Responsible for communicating incident post-mortem process to TPM and stakeholders </li><li>Improve team practices in handoffs of work and incidents </li><li>Generate incidents data, including: </li><ul><li>Recommendations for development team </li><li>Run-books for future incident response </li><li>New monitoring/alerting thresholds </li><li>Additional logging required </li></ul><li>Experience with Jira, Compass, PagerDuty or xMatters <br></li></ul><strong>Monitoring and Incident Response<br></strong><ul><li>Application level monitoring: SPLUNK, AppDynamics </li><li>Infrastructure Monitoring: Grafana </li><li>Respond to automated reporting notifications</li><li>Resolve identified problems, notify stakeholders about progress </li><li>Escalate application issues not directly related to application </li><li>Responsible for creating, implementing, and monitoring alert mechanisms and thresholds <br></li></ul><strong>Backlog Management <br></strong><ul><li>Provide identified issues to team for prioritization </li><li>Update tickets based on progress and log final resolution s</li><li>Identify production issue patterns and propose solutions to address problems <br></li></ul><strong>DevOps <br></strong><ul><li>Hands-on experience with GitLab </li><li>Experience with Kubernetes, Mesos and Marathon </li><li>Some knowledge/experience with microservices and use of containers <br></li></ul><strong>Administration <br></strong><ul><li>Support access administration </li><li>Maintain and manage security and access to the application </li><li>Maintain Kubernetes, GitLab CI/CD pipeline, including capacity management <br></li></ul><strong>Development<br></strong><ul><li>3-5 years of Database Experience: MS SQL: building stored procedures, troubleshooting query execution, analyzing data flow </li><li>3-5 years software development experience with C#, Angular 8, and Node.JS </li><li>BA/BS degree in Computer Science or related software engineering field or equivalent practical experience </li><li>Experience implementing test automation </li><li>Experience working with Azure <br></li></ul><strong>Communication<br></strong><ul><li>Good communication skills (both verbal and written) are essential </li><li>Self-started capable of dealing with ambiguity and minimally defined requirements </li><li>Comfortable talking about technical things with business people and business things with technical people. Able to express complex concepts in plain language to reach broader audiences </li><li>Ability to craft a compelling message and tailor it for a given audience. Ability to mix deep technical expertise with simple, everyday language to deliver a story that is memorable and useful <br></li></ul>Do you also have a demonstrated ability to learn new technical concepts, combined with a high degree of intellectual curiosity? Come join us...<br><br><strong><u>About Logic20/20. . .\u202f<br><br></u></strong>Logic20/20 is one of Seattle\u2019s fastest-growing consulting firms. We hire remarkable people to create simple, efficient solutions for complex problems.<br><br>Although we make it look like magic, our success is due to our approach (methodical and structured) and the people we hire (smart, motivated, and team oriented). Together, these enable us to consistently exceed client expectations\u2014and our reputation is growing.<br><br>For the past five years, we\u2019ve placed in the top ten of Seattle Business magazine\u2019s \u201cBest Companies to Work For\u201d. From engaged leadership and wide-ranging benefits to career mentorship and diverse internal opportunities, we pride ourselves on being one of the best companies to work with and work for.<br><br>We hire people that are self-motivated, comfortable conceiving strategies on the fly, and enjoy working individually and as part of a team. Our work is high-energy and demanding, but new hires will quickly feel at home among colleagues as friendly and focused as they are. We bring our best to every opportunity, driving change in industries across the West Coast. Join us and you can, too.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T04:20:35.000Z"
+  },
+  "company": {
+    "name": "Logic20/20, Inc.",
+    "link": "https://www.linkedin.com/company/logic20-20-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

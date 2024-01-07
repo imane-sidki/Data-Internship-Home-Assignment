@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Payments)",
+    "industry": "Computer Software",
+    "description": "<p><u>Software Engineer (Payments)</u></p><p>REQ: 121696Engineering</p><p>Palo Alto, CA, United States</p><p><br></p><p><br></p><p><strong><u>About Yo Labs:</u></strong></p><p>Technology has changed daily life in a way no one could have imagined.It\u2019s made us more productive, capable and connected.But it has come at a cost.We\u2019re productive, but overwhelmed.Capable but paralyzed by too many choices.Connected, but only if social media counts.Living this way creates a void in our daily lives.Yo Labs is here to change that.Our team is committed to alleviating the mental load that our modern world has created by putting human connection back into technology and caretaking at the heart of everything we create.</p><p><br></p><p><br></p><p><strong><u>What you\u2019ll get to do:</u></strong></p><p>The goal of the Payments Team is to provide buyers and sellers everywhere with a frictionless payments experience on our platform,</p><ul><li>Have a critical role in building and maintaining our payments platform processing high transaction volumes</li><li>Manage all technical aspects of relationships with payment providers and integrate new payment methods into our payment platform</li><li>Implement and deliver new payment features leading to higher checkout conversion</li><li>Build reporting and monitoring tools to ensure the stability and security of the payments system</li></ul><p><br></p><p><strong><u>What You\u2019ll Bring:</u></strong></p><ul><li>Bachelor\u2019s degree in Computer Science or related field or equivalent work experience</li><li>4+ years of industry experience building data driven systems, but we do realize quality of experience is more important than actual years.</li><li>Experience developing APIs and integrating third-party services.</li><li>Proven track record of working successfully with cross-functional teams</li><li>Strong sense of web design and attuned to the fundamentals of user experience.</li><li>Experience with one or more of the following: large systems software design, development of distributed or parallel systems, database design, machine learning, application development.</li><li>Excellent communication and collaboration skills</li><li>Excellent problem solving and analytical thinking skills</li></ul><p><br></p><p><strong><u>Bonus:</u></strong></p><ul><li>Experience integrating with payment service providers (e.g. Stripe, Adyen, Marqeta)</li><li>Familiarity with our tech stack (Kotlin/Java, CockroachDB, AWS, Micronaut, Spring Boot, microservice architecture)</li><li>Hands-on experience building custom components with one or more ecommerce platforms (Shopify, Salesforce, or SAP Hybris).</li></ul><p><br></p><p><strong><u>What We Offer:</u></strong></p><ul><li>Competitive compensation package</li><li>Comprehensive benefits</li><li>Pet Insurance</li><li>Paid Parental Care Leave</li><li>Employee Referral Program</li><li>Educational Assistance</li><li>Flexible Work Program</li><li>Volunteer time Off</li><li>Total Well Being Program</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:38:05.000Z"
+  },
+  "company": {
+    "name": "Yo Labs",
+    "link": "https://www.linkedin.com/company/yo-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

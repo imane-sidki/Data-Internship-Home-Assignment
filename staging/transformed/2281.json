@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Python",
+    "industry": "Computer Software",
+    "description": "<p>Are you a technical professional that wants to join a small dynamic team, with start up mentality? If so, this Software Engineer position at Zywave will be the perfect fit. This position will be based out of Zywave\u2019s satellite office in Bedford, NH. As a Software Engineer you will develop new features and enhance processes for ingesting and parsing new data types. You will work with a talented team of developers, to enhance the system and application to accommodate new data sets.</p><p><br></p><p><strong>Why Should You Apply?</strong></p><p>If you\u2019re interested in growing your personal and professional skills, we work with the latest and greatest technology. We also host \u2018developer symposiums\u2019 so you can share, learn, and grow with your peers. You will be joining a team of highly motivated, high performing professionals who are passionate about software.</p><p></p><p><strong>Factors for Success</strong></p><ul><li>2 years of relevant work experience or internships, or comparable combination of education and work experience</li><li>Experience with Python and Amazon Web Services to orchestrate data processing pipelines for large datasets</li><li>Good understanding of databases, including SQL and NoSQL</li><li>Ideally familiar with data analysis and writing advanced SQL queries and reports</li><li>A thirst for knowledge and the ability to pick up new technologies quickly</li><li>Ability to collaborate and brainstorm with the rest of the engineering team to reach the best possible solution</li></ul><p></p><p><strong>Company Background</strong></p><p><strong><span class=\"ql-cursor\"></span></strong>Why pick Zywave? Zywave is a cutting edge, web-based SaaS company that has revolutionized the insurance industry by helping independent agencies leverage technology solutions to grow their business in employee benefits and property and casualty markets. Zywave has been a highly profitable business for over 25 years and continues to expand through organic growth and acquisitions.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T19:59:48.000Z"
+  },
+  "company": {
+    "name": "Zywave",
+    "link": "https://www.linkedin.com/company/zywave"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 54600,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wauwatosa",
+    "region": "WI",
+    "postal_code": "53110",
+    "street_address": null,
+    "latitude": 43.058907,
+    "longitude": -88.00746
+  }
+}

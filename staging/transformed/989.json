@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Entertainment",
+    "description": "<strong>What will be your mission?<br><br></strong>At Sony Pictures, our mission is to map relevant movie and TV series content to consumers and audiences across transactional, subscription and linear viewing platforms. We\u2019re building data products and visualization tools and insights platform that will predict audience preferences and behaviour for library and new releases to drive growth of engagement and consumption of Sony produced content. Sony produces franchise brands such as Spiderman, Men in Black and Jumanji, through to TV franchises such as Breaking Bad, Blacklist and Better Call Saul.<br><br>Our Data team is responsible for aggregating millions of consumer data points to best in class predictive models, consumer trends systems, recommendation engines and more!<br><br><strong>Who are you?<br><br></strong>In the role of Data Scientist for Sony Pictures Distribution \u2013 Television and Home Entertainment, you must possess a passion for pioneering an empirical and data-driven culture. The candidate must have a proven track record of developing business model solutions and extracting meaningful business insights from big data.<br><br>You\u2019re a highly skilled, commercially focused and motivated Data Scientist looking for exciting projects that will challenge you to demonstrate expertise and leadership in building out our advanced analytics models, with the view of mapping relevant content to surprise and delight audiences.<br><br>With a deep understanding of ML frameworks, ML pipelines and statistics you\u2019ll leverage your programming, data wrangling, and analytical expertise to solve business problems, build data products and frameworks, track performance, automate testing, and more. Working closely with the rest of our Analytics team and partnering with our BI team, you\u2019ll assist in creating the foundation for how we build data-driven applications, tools, and experiences for our internal business partners.<br><br><strong>What you\u2019ll be doing?<br></strong><ul><li>Execute the data vision strategy and goals ensuring those are consistent with the Division\u2019s business requirements.</li><li>As part of the Data Science team, help develop analytical capabilities, data products and tools to enable data query and deliver solutions to business requests</li><li>Contribute and provide thought leadership to the business and key stakeholders.</li><li>Develop new approaches to understand the consumer and solve complex business problems such as optimizing product performance, gross profit and adoption.</li><li>Generate actionable audience insights using advanced statistical techniques such as predictive statistical models, audience profiling, segmentation analysis, survey and test design, exploratory analysis and data mining.</li><li>Understand in depth, design and inform statistical testing for audience strategy</li><li>Design user interfaces to overlay ML models, and enable business partners to access models, query results and scenarios. </li><li>Build presentations and reports to communicate statistical modeling results</li><li>Can manage ingestion and cleansing of large unstructured data and developing analytical capability to query the data and respond to user requests using a wide range of technologies including.</li><li>Productionalize codes and models via various tools and technologies (such as R Connect and R Studio) to deliver scale, efficiency and speed.</li><li>Profile, explore, connect and analyze extensive, often disjointed, and unstructured datasets including product meta data, user level data, primary research, audience profiles, social commentary and DMP data.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Must have an in-depth knowledge of advanced statistical techniques, machine learning, feature engineering, and model evaluation techniques including regressions, cluster analysis test design, variable reduction, non-parametric tests and forecasting methodologies.</li><li>Experience with A/B testing and test designs</li><li>Experience with big data, standardizing and appending variables across disparate data sets</li><li>Experience analyzing user level data (PII and anonymized), DMP data, social data and viewing / transactional or streaming data.</li><li>3-4 years\u2019 experience developing production ML models to solve problems such as product recommendations, audience classification, path modelling, look-a-like modelling and performance optimization</li><li>BA/BS degree required with technical focus (e.g. mathematics, computer science, physics)</li><li>MS or PhD degree preferred (but not essential)</li><li>Ability to work with data and platform engineers to implement ML pipelines</li><li>Experience with R and SQL and preferably a scripting language (Perl, Python)</li><li>Business experience in media industry preferred, but not required</li><li>Results oriented, excel in organizational skills, have strong attention to details and be able to effectively manage multiple projects/assignments simultaneously.</li><li>Curious about data and problem solving: intrinsic ability to look at data and identify patterns, problems, or analysis opportunities</li><li>Strong communication skills and the ability to explain complex analyses to both technical and non-technical audiences</li><li>Effective data visualization skills with analytical tools such as Tableau, Shiny</li><li>Collaborative \u2013 a team player who can thrive as an individual but also enjoy</li><li>providing mentorship, learning, and being collaborative in cross-functional teams</li><li>Sony Pictures Entertainment is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, national origin, disability, veteran status, age, sexual orientation, gender identity, or other protected characteristics.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T00:37:23.000Z"
+  },
+  "company": {
+    "name": "Sony Pictures Entertainment",
+    "link": "https://www.linkedin.com/company/sony-pictures-entertainment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80600,
+    "max_value": 166000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Culver City",
+    "region": "CA",
+    "postal_code": "90232",
+    "street_address": null,
+    "latitude": 34.0225,
+    "longitude": -118.39429
+  }
+}

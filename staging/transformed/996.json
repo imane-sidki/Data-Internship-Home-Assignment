@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Insights &amp; Analytics",
+    "industry": "Computer Software,Internet,Hospital & Health Care",
+    "description": "Virta is the first company with a clinically-proven treatment to safely and sustainably reverse type-2 diabetes without the use of medications or surgery. Our innovations in nutritional biochemistry, data science and digital tools combined with our clinical expertise are shifting the diabetes treatment paradigm from management to reversal. Our mission: reverse type 2 diabetes in 100 million people by 2025.<br><br>As a full stack health care company of physicians, engineers, marketers and more under one roof, Virta collects comprehensive data on our patients' experience, and leverages this data to build the next generation of health care for chronic diseases. Here at Virta, we rely heavily on Data and Analytics to demonstrate the value of the Virta Treatment to our customers (both patient outcomes and ROI). We collect and organize disparate forms of patient data from both internal and external sources (clinical data from our continuous remote care platform coupled with claims and eligibility data provided by our customers) to generate insightful reports and do complex analyses. We are looking for a data scientist with experience working with healthcare data to help us collect, organize, and analyze this data, as well as generate insights and reports that we can share with our customers.<br><br>Check out our technical blog to find out how Virta is developing the next generation of healthcare technology: <u>https://www.virtahealth.com/health-tech<br><br></u><em>This role is open to remote applicants, so please apply regardless of your location.<br><br></em><strong><u>Responsibilities<br></u></strong><ul> <li>Quantify the economic impact of Virta on the healthcare system, and devise insights to share with Virta decision makers and enterprise partners</li> <li>Build pipelines that translate claims, clinical, and engagement data from our warehouse to polished reports and client-ready analytics, with an eye towards scalable solutions</li> <li>Interface directly with our Sales and Customer Success teams to determine how to best leverage our data to improve client relationships</li> <li>Support our billing and finance teams in ensuring integrity of reporting for forecasting and corporate reporting</li> <br></ul><strong>90 Day Plan<br><br></strong>Within your first 90 days at Virta, we expect you will do the following:<br><ul> <li>Teach and inspire your team members through knowledge sharing, pair programming, and/or giving feedback during code reviews</li> <li>Model value of the Virta treatment and calculate expected savings based on claims and internal data</li> <li>Create customer reports (annual business reviews, monthly outbound reporting)</li> <li>Provide analytics support to our various business units to answer questions about our business, patients, outcomes, etc.</li> <li>Immerse yourself in the rich, longitudinal data we collect on our patients</li> <br></ul><strong>Must-Haves<br></strong><ul> <li>3-5 years in a Data Science, Healthcare Analytics, BI or similar role</li> <li>2+ years working with healthcare administrative data experience (claims, clinical outcomes, population health, etc.)</li> <li>Familiarity with data capture, ETL, validation, and test methods to standardize and automate analyses</li> <li>Proficient in SQL and relational databases</li> <li>Experience using varied statistical methods using Python, R or similar</li> <li>Ability to partner with the Data Infrastructure teams to inform infrastructure roadmap to best support your work</li> <li>Experience working with cross-functional business partners to understand analytics or reporting needs</li> <li>Nice to have:<br><ul> <li>Advanced degree (M.PH/M.S./PhD) in Data Science, Stats, or similar</li> <li>Experience working at a technology company, bonus points for working at a \"full-stack\" company or marketplace where there is a complex relationship between different types of users </li> <li>Proficient in Looker, Airflow, Jupyter, Pandas</li> <li>Experience calculating cost savings or economic impact of a value based program</li> </ul> </li> <br></ul><strong>Values-driven culture<br><br></strong>Virta's company values drive our culture, so you'll do well if:<br><ul> <li>You put people first and take care of yourself, your peers, and our patients equally</li> <li>You have a strong sense of ownership and take initiative while empowering others to do the same</li> <li>You prioritize positive impact over busy work</li> <li>You have no ego and understand that everyone has something to bring to the table regardless of experience</li> <li>You appreciate transparency and promote trust and empowerment through open access of information</li> <li>You are evidence-based and prioritize data and science over seniority or dogma</li> <li>You take risks and rapidly iterate</li> <br></ul><em>As part of your duties at Virta, you may come in contact with sensitive patient information that is governed by HIPAA. Throughout your career at Virta, you will be expected to follow Virta's security and privacy procedures to ensure our patients' information remains strictly confidential. Security and privacy training will be provided.<br><br></em><em>For this role the compensation range for candidates in Colorado is </em><em>$122,846 - $159,699</em><em>; information about Virta's benefits is on our careers page at: https://www.virtahealth.com/careers. <br><br></em><em>Note: Starting pay will be based on a number of factors and commensurate with qualifications &amp; experience. Virta has a location based compensation structure; there may be a different range for candidates in other locations.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T05:04:29.000Z"
+  },
+  "company": {
+    "name": "Virta Health",
+    "link": "https://www.linkedin.com/company/virta-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 128000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

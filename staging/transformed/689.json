@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (100% remote)",
+    "industry": "Financial Services,Hospital & Health Care,Management Consulting",
+    "description": "<p>***100% REMOTE - available for direct hire (or contract to hire through us here at Eliassen Group)***</p><p><br></p><p>We're looking for a highly skilled Natural Language Processing Data Scientist to support our innovative global client. This is an excellent opportunity to work with world-class analytics consultants to help a wide array of partner organizations!</p><p><br></p><p>Responsibilities of the Data Scientist:</p><ul><li>Design, develop, and implement solutions for NLP use cases, leverage problems for AI, NLP, Computer Vision and Speech</li><li>Create, augment, and maintain state-of-the-art scalable NLP solutions in Python (bonus points if you can understand Java/.NET code to collaborate with development team, we aren't needing a full stack developer, but we strive towards the best architectural design possible!)</li><li>Interact with internal/external stakeholders to perform solution feasibility, design, and development/rollout</li></ul><p>Requirements of the Data Scientist:</p><ul><li>Bachelor's degree and at least 3 years of Data Science/Natural Language Processing (NLP) experiences with data exploration, preprocessing, and tuning NLP/Deep learning</li><li>AI/Machine Learning experience (Deep Learning, working with various sources like MongoDB, domain specific ontologies, external databases)</li><li>Work with our other Data Scientists to aid in enterprise-level/external analytical computing initiatives (Scipy, Pandas, Numpy, NLTK, Scrapy, Pattern, sklearn, scikit-learn, Django/Flask to improve Neural Networks, Markov models, Clustering, Random Forests, K-Means, Gradient Boosting etc.)</li></ul><p>Job ID: 353283</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T20:49:42.000Z"
+  },
+  "company": {
+    "name": "Eliassen Group",
+    "link": "https://www.linkedin.com/company/eliassen-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Durham",
+    "region": "NC",
+    "postal_code": "27717",
+    "street_address": null,
+    "latitude": 35.99695,
+    "longitude": -78.899025
+  }
+}

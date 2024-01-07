@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>About Jitsu</strong></p><p>Jitsu delivers the power of AI/ML transparently for high quality decision making. Ad hoc querying large amounts of data is expensive and slow, cloud TCO is high, and existing solutions have scaling challenges. Cloud data warehouses are expensive proprietary silos. There is a need to query data directly from the data lake without having to make a data copy into a DW.</p><p><br></p><p><strong>About The Role</strong></p><p>We are looking to hire a Software engineer to join our early-stage team. In this role, you will be a critical part of our engineering team, developing in the Jitsu Server, Jitsu Management/Control plane and developing on cloud and on-prem infrastructure.</p><p><br></p><p><strong>Role/Responsibilities</strong></p><ul><li>Lead and drive projects that span our stack including C++, Java, Scala, Node services and a Web UI written in Typescript and React.</li><li>Develop and automate the infrastructure to deploy and upgrade Jitsu software in various environments such as AWS and On-premises platforms in a scalable and robust manner.</li><li>Integrate deployment with security infrastructure such as LDAP, AD and IAM.</li><li>Work on the Containerization of services via Docker (e.g., DockerHub/Harbor, YAML files) and Docker orchestration software (e.g., Kubernetes).</li><li>Develop operational tools to monitor and control cloud instances running Jitsu software.</li><li>Take ownership of internal systems (CI, Source code control &amp; review, artifact management, etc).</li><li>Promote strong collaboration within a cross functional team.</li><li>Build for scale and high performance.</li></ul><p><br></p><p><strong>Desired Skills/Experience</strong></p><ul><li>3-5 Years of relevant experience</li><li>BS/MS in Computer Science (or equivalent experience).</li><li>Significant software development experience.</li><li>Distributed system development experience is a big plus.</li><li>Deep understanding of algorithms and datastructures.</li><li>Demonstrated technical leadership experience, such as being an architect or tech lead for high impact customer facing projects is a big plus.</li><li>Deep understanding of modern web applications design architecture, good API design patterns, performance and scale.</li><li>Experience in modern technologies such as Javascript, Typescript, React, Angular, Node, Java, Scala, Kubernetes, and SQL.</li><li>At least 1+ years in cloud computing (AWS).</li><li>AWS infrastructure development experience.</li><li>Working knowledge of AWS security, IAM, Cloudformation, Lambdas and other services.</li><li>Experience and knowledge of Git, Github, Gitlab etc.</li><li>Experience with Cloud computing toolsets - Terraform, Vault, Packer etc.</li><li>Experience with configuration management tools (Ansible, Chef, Puppet).</li><li>Interest and ability to learn other coding languages as needed.</li><li>Tremendous attention to details and ability to build reliable and scalable software systems.</li><li>Excellent communication skills and experience working in high-performance teams.</li><li>Interest in working in a small, fast-moving, early stage startup environment.</li></ul><p><br></p><p><strong>Contact</strong></p><ul><li>If interested in the position please send your resume to jobs@jitsu.ai. Principals only.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T18:16:34.000Z"
+  },
+  "company": {
+    "name": "Jitsu, Inc.",
+    "link": "https://www.linkedin.com/company/jitsuai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

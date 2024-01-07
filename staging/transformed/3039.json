@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Solve Finance is an independent debt advisor transforming an industry built on lead-generation and hidden cost business models. We aren't your typical \u201cfintech\u201d or \u201cfindata\u201d company: we\u2019re building an interface for borrowing that works for users, not their lenders. So no referral fees or advice you can\u2019t rely on. Instead, we offer a simple plain-free shopping, refinancing, and monitoring hub that works for the user through aligned incentives (we earn a tenth of what they save).</p><p></p><p>We are seeking talented Software Engineers to add to our team to help people save money on debt. We are looking for mission-driven candidates who want to use their skills for meaningful and challenging work. Join us in delivering back over $100 billion of savings per year into pockets of US households.</p><p></p><p>As an early team member, you will build out our systems, front to back and everything in between. We use Jamstack and leverage Google Cloud Platform serverless compute, big data, and AI capabilities.</p><p><br></p><p>We are primarily a Javascript shop (Node/React), but are always open to using the right tool for the job. We take every opportunity to integrate a DevOps and DataOps philosophy.</p><p><br></p><p>Our values drive our interactions with users and each other:</p><ol><li>Ownership and trust - we own key deliverables and trust teammates within their role</li><li>Transparency - we keep decision logs and the state of the company open to all</li><li>Be smarter, get smarter - we aren\u2019t afraid of challenging the status quo</li><li>Encourage diversity, uniqueness, and idiosyncrasy</li><li>Take our mission seriously and ourselves lightly</li></ol><p><br></p><p><strong>Requirements</strong></p><ul><li>3+ years of experience in modern programming languages, with a preference for Node.js/JS/ES</li><li>3+ years of experience contributing to architecture and design of software systems</li><li>Experience with public cloud services, especially GCP</li><li>Experience building and maintaining production software systems</li><li>Experience designing and consuming financial APIs</li></ul><p><br></p><p><strong>Preferred Qualifications</strong></p><ul><li>Experience architecting and exploring technical tradeoffs and capabilities (reliability, scaling)</li><li>Startup mindset, ownership, and the appropriate balance of quality and urgency</li><li>Interest in mentoring teammates and growing into a leadership role</li></ul><p><br></p><p><strong>Benefits</strong></p><p>We offer between 100k-130k for Software Engineers within our experienced band, plus participation in our equity plan. </p><p><br></p><p>We are remote first. We won\u2019t ask you to come back to the office. We have hubs in Portland, ME, and NYC if you\u2019d like to co-work with other team members. We 401k matching, health, vision, and dental insurance.</p><p><br></p><p>We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, or basis of disability or any other federal, state or local protected class.</p><p><br></p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T22:23:05.000Z"
+  },
+  "company": {
+    "name": "Solve Finance",
+    "link": "https://www.linkedin.com/company/solve-finance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

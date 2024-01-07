@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "PHY Systems Engineer - Cellular",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Dynamic, smart people and inspiring, innovative technologies are the norm here. Join us to help deliver the next groundbreaking Apple product. <br><br><br>Do you love working on challenges that no one has solved yet? Are you ready to join a team transforming hardware technology? We are searching for a talented engineer with 10+/- years\u2019 experience to join our exciting team of innovators. In this role, you will be a key member of the system engineering team working on modem systems features and requirements.<br><br> <br><strong>Key Qualifications<br></strong> <br>In-depth knowledge of wireless communication systems with hands-on experience in lab testing &amp; characterization.<br><br>Deep-knowledge of communication system theory and signal processing will be essential for this role to design algorithms such as timing recovery, filter design, signal estimation and detection, automatic gain control, RF impairments estimation and correction, channel estimation, equalization, forward-error correction, OFDM, MIMO detection, etc.<br><br>Experience with Matlab, C/C++ and/or Python for algorithm development, modeling (floating-point and fixed-point) and link-level simulation.<br><br>Experience in low power algorithm design and High Level Synthesis (HLS) for power critical applications is helpful.<br><br>Experience in chip bring-up including the use of lab equipment such as protocol test equipment, spectrum analyzers, signal generators, power meters, etc..<br><br>Knowledge of cellular communication standards: 5GNR, 4G LTE, 3G (HSPA), 2G GSM.<br><br>Strong analytical skills (linear algebra, random processes, detection and estimation, etc.)<br><br> <br><strong>Description<br></strong> <br>-  Design and simulate state-of-the-art physical layer wireless communication algorithms.<br><br>-  Implement system models and perform detailed performance investigations to allow performance sign-off and enable RTL development.<br><br>-  Collaborate with digital designers and firmware developers to realize algorithms with power and area efficient implementation.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>MS/PhD in Computer Science or Electrical/Computer Engineering or equivalent experience.<br><br> <br>Role Number: 200200697<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:43:41.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

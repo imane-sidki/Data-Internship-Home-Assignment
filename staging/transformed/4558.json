@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Defense & Space",
+    "description": "<p><strong>Overview</strong></p><p>Software engineer shall support a distributed system providing various Platform-as-a-Service (PaaS) features to a diverse customer set. The PaaS system shall support several applications as standalone instances or configured with several supporting components.</p><p><br></p><p><strong>Qualifications</strong></p><p>Master's degree in Computer Science or related discipline from an accredited college or university, plus five (5) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity.</p><p>OR</p><p>Bachelor's degree in Computer Science or related discipline from an accredited college or university, plus seven (7) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity</p><p>OR</p><p>Nine (9) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity.</p><p>AND</p><p>U.S. Citizenship</p><p>AND</p><p>TS SCI w/FS Poly</p><p><br></p><p><strong>Task Required Skills</strong></p><ul><li>Experience using the Unix command line</li><li>Experience writing scripts using Bash</li><li>Basic understanding of Source Control Systems, specifically Git</li><li>Experience with CI/CD principles and methodologies</li><li>Familiarity with Ruby and the Rails Framework</li><li>Familiarity with Javascript, specifically Node.js</li><li>General SQL database knowledge, preferably Postgres</li><li>Experience with GitLab CI/CD and pipelines</li></ul><p><br></p><p><strong>Task Desired Skills</strong></p><ul><li>Experience with containerization technologies such as Docker</li><li>Experience with container orchestration technologies such as Kubernetes, OpenShift and Helm</li><li>Experience with in-memory data structure stores such as Redis</li><li>Demonstrated domain knowledge in distributed systems (cloud-based technologies)</li><li>Demonstrated understanding of the core software development lifecycle</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:01:51.000Z"
+  },
+  "company": {
+    "name": "Wrench",
+    "link": "https://www.linkedin.com/company/wrench-io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis Junction",
+    "region": "MD",
+    "postal_code": "20701",
+    "street_address": null,
+    "latitude": 39.121826,
+    "longitude": -76.78431
+  }
+}

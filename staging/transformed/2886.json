@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Link to req https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3365648</p><p><br></p><p><strong>Back End Software Engineer for Machine Learning Team</strong></p><p><strong>Location: San Francisco</strong></p><p>Do you want to join a Machine Learning team committed to personalizing the PlayStation experience for millions of users? The work we do delivers impactful insights to build an increasingly dynamic and interactive experience! The Backend/server Software Engineer will deliver and optimize interactions across PlayStation experiences and systems by designing, building, testing and cost-effectively deploying real-time client-facing online Machine Learning service.</p><p>We are looking for someone who can build delightful products and experiences for millions, in an agile environment, collaborating with teams-across Engineering, Product and Design. Further, you will be immersed in ML technologies, tools and processes, as you help to advance our technical objectives and architectural initiatives.</p><p>This is a mid-level backend/server engineer position, but we will also gladly consider senior level candidates.</p><p>Responsibilities:</p><ul><li>Design, build, deploy and maintain Java-based backend micro service that integrates with Machine Learning pipeline</li><li>Optimize resource and infrastructure cost and extend micro service to use new technology</li><li>Support production issues and actively serve on-call schedule</li><li>Own the implementation end to end by effectively communicate with non-technical stakeholders on requirements and deliverables</li></ul><p>Qualifications:</p><ul><li>BS in engineering or computer science</li><li>Proficiency in Java and knowledge in Python or Scala</li><li>3+ years of industry work experience in large scale and low latency Java/Kubernetes service that serves real-time customers.</li><li>Machine Learning knowledge and experience is a big plus.</li></ul><p>Preferred qualifications:</p><ul><li>Experience with system distributed cloud-based environments, such as AWS.</li><li>Experience with tech stacks such as Spark, Kubernetes, Jenkins, Prometheus.</li><li>Experience with machine learning tools such as MLlib, Tensorflow, and scikit-learn.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T16:20:05.000Z"
+  },
+  "company": {
+    "name": "Sony Interactive Entertainment",
+    "link": "https://www.linkedin.com/company/sony-interactive-entertainment-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 229000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

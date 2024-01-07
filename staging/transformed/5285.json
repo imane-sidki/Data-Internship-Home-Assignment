@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cellular System Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>In this role, you will be at the center of a silicon design group responsible for designing and productizing state of the art cellular SoCs. As a cellular system engineer, you will be responsible for architecture, simulation, bringup, and validation of end-to-end cellular systems.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience in design and bringup of wireless communication systems with experience in cellular systems preferred. <br><br>Good understanding of communication theory and signal processing, AGC, beamforming, Tx power control, mitigation of radio impairments, calibration algorithms <br><br>Strong technical background in 5G-NR/LTE/UMTS (3G/2G) physical layer and protocols is a plus<br><br>Experience with silicon prototyping, emulation systems, and virtual platforms a plus<br><br>Hands on experience in bring up of real silicon in lab, ability to efficiently use lab equipment (such as spectrum analyzer, signal generator, power meter, etc).<br><br>Good experience with Matlab, Python, and/ C/C++ and efficient analysis and automation scripting<br><br>Strong working knowledge of multiple 4G/5G signaling and physical layer test equipment (Keysight/Anritsu/R&amp;S) along with their automation interfaces is a plus<br><br> <br><strong>Description<br></strong> <br>\u2022\tUnderstanding and mapping of systems algorithms and requirements to HW/FW architecture<br><br>\u2022\tSimulation based validation of the control flows and algorithms<br><br>\u2022\tImplement fixed-point models and perform detailed performance investigation to allow performance sign-off and enable RTL bit-exact development<br><br>\u2022\tPre-silicon prototyping and emulation based bringup and validation of the cellular system<br><br>\u2022\tBringup of the cellular end-to-end system including characterization and optimization of performance in the lab<br><br> <br><strong>Education &amp; Experience<br></strong> <br>MS or Ph.D. with 5+ Years\u2019  Experience<br><br> <br>Role Number: 200204958<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:35:08.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

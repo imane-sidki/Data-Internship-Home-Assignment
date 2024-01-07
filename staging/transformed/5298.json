@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Senior Site Reliability Engineer - Observability, Siri Search, Knowledge &amp; Platform",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Senior Site Reliability Engineer will be a key member of the over-arching Siri Production Engineering team which is focused on scaling and re-tooling the observability platform across Siri\u2019s technology stack. You will be working alongside other engineering and support teams at Apple, and your experience in logging, metrics, and synthetic tracing will be critical in this role. This is a leadership role for someone prepared to inspire change in long-standing systems and practices.<br><br> <br><strong>Key Qualifications<br></strong> <br>6+ years experience running high availability systems and supporting distributed infrastructure!<br><br><br>Expertise in application instrumentation and monitoring with open-source monitoring tools such as Graphite, Grafana, Prometheus etc.<br><br><br>Proficiency with one or more modern programming languages!<br><br><br>Expert understanding of Linux systems, high and low level.<br><br><br>Advanced knowledge of application, data, and infrastructure architecture disciplines<br><br><br>Experience in NoSQL, Kafka (pub/sub), and time-series databases with large volumes of data.<br><br><br>Understanding of architecture and design across all systems.<br><br><br>Proficiency in one or more technology domains with a proven track record as a cross-domain expert able to solve complex and mission-critical problems.<br><br><br>Knowledge of industry-wide technology trends and best practices and experience influencing the industry.<br><br><br>Understanding of software skills such as business analysis, development, maintenance, and software improvement.<br><br><br>Passionate about building great products that address real problems.<br><br><br>Outstanding communication and presentation skills, written and verbal. Excellent listening skills and a high degree of empathy.<br><br><br>Ability to work in large, collaborative teams to achieve organizational goals. Passionate about building an innovative and inclusive culture.<br><br> <br><strong>Description<br></strong> <br>-  Provide architectural guidance to improve and optimize Siri\u2019s observability stack.<br><br><br>-  Troubleshoot, diagnose and resolve performance and reliability issues affecting the observability infrastructure.<br><br><br>-  Identify gaps in the observability of Siri\u2019s software and design solutions to fill those gaps.<br><br><br>-  Build dashboards to provide insights and visibility into critical business metrics for a variety of audiences from engineering leaders to senior executives.<br><br><br>-  Design and develop solutions that deliver value for Siri\u2019s internal customer teams.<br><br><br>-  Participate in incident reviews to create improved alerts for detection and potential proactive mitigation.<br><br><br>-  Build relationships across the Apple\u2019s AI/ML organization, educating teams on the right way to drive instrumentation.<br><br><br>-  Partner with Engineering and SRE teams to improve process, automate and enhance incident response focussed on maintaining and improving SLA\u2019s.<br><br><br>-  Build a practice of observability ownership that provides guidance and tools for Siri\u2019s teams.<br><br><br>-  Understand the nature of Siri\u2019s customer interactions and value privacy as a core tenet of the infrastructure.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>-  BS/MS EE/CS/CE or equivalent in areas, such as computer science, electrical engineering, and data sciences. Strong plus for candidates with MS/MBA with a focus on data science, AIML, and software engineering<br><br> <br>Role Number: 200219799<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:20.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

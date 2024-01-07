@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist (Remote)",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong><strong>At Shipt, we are transforming the grocery shopping experience and giving time back to consumers. Shipt shoppers handpick fresh groceries and household essentials, then deliver them to your door in as little as one hour.<br><br></strong></strong><strong> At Shipt, we\u2019re using machine learning (ML) and analytics to drive our business forward. We\u2019re looking for help understanding our data, optimizing our processes, and making predictions to improve our product and customer experience. <br><br></strong><strong> The data science team builds data driven solutions using machine learning and modeling techniques. Our solutions include predictive models, clustering, segmentation, complex reporting, and quantitative research. Our ideal candidate will be data-driven, intellectually curious, and a clear communicator with experience building machine learning models. <br><br></strong><strong><u>Responsibilities<br></u></strong><ul><li> Develop best practices for our internal data processes that include model building, insight development, model/insight delivery, and education of consumers to encourage data-driven action </li><li> Design and build new predictive models and optimization routines that have an enterprise level impact. Applications include modeling and capitalizing on demand in a given market, delivering search recommendations, and optimizing internal processes that affect Shipt\u2019s bottom line </li><li> Coach, lead, and advise other members of the Data Science and engineering teams on ways to approach problems, augment code, and share new techniques. </li><li> Act as a technical advisor to leadership within data science and external teams </li><li> Work with functional team leaders (in Product, Operations, Marketing, etc.) to deploy modeling deliverables and ensure their continued success <br></li></ul><strong><u>Requirements<br></u></strong><ul><li> Multiple years of experience with machine learning and data science in an operational setting </li><li> High degree of proficiency with one of R or Python </li><li> Proficiency with SQL </li><li> Experience with a data visualization tool (Tableau, Chartio, Looker, Spotfire, Power BI, etc.) </li><li> Experience with cloud computing services or platforms </li><li> Comfortable giving verbal presentations and communicating with technologies like Zoom and Slack </li><li> Bachelor\u2019s degree in a quantitative field or related experience <br></li></ul><strong><strong>Nice To Haves <br></strong></strong><ul><li> Experience deploying predictive models in a cloud environment </li><li> Experience with batch processing frameworks </li><li> Familiarity with AWS or GCP, version control, and peer code review systems </li><li> Familiarity with on-demand and/or multi-sided marketplaces </li><li> Proficiency in both R and Python </li><li> Graduate degree in a quantitative field <br></li></ul><strong> This position can be 100% remote. <br><br></strong><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br></em><em>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:36:43.000Z"
+  },
+  "company": {
+    "name": "Shipt",
+    "link": "https://www.linkedin.com/company/shipt"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

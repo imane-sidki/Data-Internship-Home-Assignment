@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Computer Software",
+    "description": "<p><strong>Job Purpose</strong></p><p>Sophos is seeking a talented, experienced Software Development Engineer in Test to join our Sophos Central team. As a member of the Sophos Central Software Development Engineer in Test team, you will be working directly with Development, UX, PM and other functional groups to ensure highest quality software development and releases for the Central product. We look forward to welcoming another fantastic member onto our team!</p><p><br></p><p><strong>Main Duties</strong></p><ul><li>Ability to partner effectively with Development, UX, PM and other developers to design and implement meeting the spirit of Quality Engineering standards</li><li>Assist with writing and executing sound test cases against product features and functionality</li><li>Identifying and implementing process improvements for Quality Engineering efficiency</li><li>Participate in all phases of the SDLC from design to delivery on team projects</li><li>Write test automation code to deliver against project timescales, quality and requirements in various languages for Sophos Cloud products</li><li>Conduct technical presentations on Test Automation/Quality Engineering specific topics</li><li>Conduct Unit, System and Integration testing and fixing errors, with guidance if required</li><li>Define Test scenarios and Test cases to ensure quality of the team\u2019s deliverables</li><li>Ability to identify major issues and escalate accordingly</li></ul><p><br></p><p><strong>Essential Skills</strong></p><ul><li>Thorough knowledge of an object-oriented programming language (Java, C#, and JavaScript)</li><li>Knowledge of web frameworks, such as Angular, ReactJS, NodeJS, and etc\u2026</li><li>Expert knowledge of industry standard testing techniques and best practices</li><li>Very strong Quality Engineering skills in test execution, test planning, test case design, and test result reporting</li><li>Experience executing or writing Test Automation that performs actions such as: HTTP Requests/Responses, query of remote databases, access and execute commands on external systems/VMs.</li><li>Very strong verbal and written communication skills</li><li>Very strong troubleshooting skills</li><li>Good understanding of Linux or Unix Systems fundamentals</li><li>Good understanding of Networking fundamentals</li><li>Exposure to Cloud computing (AWS experience a plus)</li><li>Experience in Agile Scrum SDLC environment</li><li>Knowledge of Continuous Integration and Continuous Deployment SDLC patterns</li><li>Strong multi-tasking skills and technical leadership skills</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>5+ years of experience in a Test Automation role</li><li>2+ years of experience in a Quality Engineering role</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T14:20:44.000Z"
+  },
+  "company": {
+    "name": "Sophos",
+    "link": "https://uk.linkedin.com/company/sophos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

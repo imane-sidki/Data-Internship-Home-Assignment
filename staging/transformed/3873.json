@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong><em>Local Seattle Area Candidates Only Please!</em></strong></p><p><br></p><p><strong>The digital nexus where ESG and price signals merge.</strong></p><p><strong>Xpansiv is the global market for ESG (Environmental, Social, and Governance)-inclusive commodities. These Intelligent Commodities\u2122 bring transparency to markets, empowering participants to value energy, carbon, and water to meet the challenges of an information-rich, resource-constrained world.</strong></p><p><br></p><p><strong>We\u2019re the marketplace for an ever-expanding ecosystem of proven environmental commodities, like RECs (Renewable Energy Certificates), offsets, and differentiated fuels. We connect buyers and sellers of Intelligent Commodities in a global liquidity hub that accelerates the transition to a net-zero future.</strong></p><p><br></p><p><strong>Job Description</strong></p><p><strong>As a Site Reliability Engineer, you will design, implement, and support our core infrastructure. The SRE team is responsible for reliability, scalability, and automation while keeping an eye on latency,security, performance, and capacity. You will also mentor, share knowledge, and guide technical decisions toward long-term success. As a key hire on a growing engineering team, you\u2019ll have a deep impact on engineering practices and culture. As an SRE you will:</strong></p><p><br></p><ul><li><strong>Deploy and maintain our infrastructure, and improve the process to make it as boring as possible.</strong></li><li><strong>Document every action into repeatable actions\u2013and then automation.</strong></li><li><strong>Debug production issues across all services and levels of the stack.</strong></li><li><strong>Own, maintain, and continuously improve all systems provided as a service, such as monitoring and datastores.</strong></li><li><strong>Research and implement changes to increase reliability and operate more efficiently.</strong></li></ul><p><br></p><p><strong>Who We're Looking For</strong></p><ul><li><strong>Someone with intense curiosity and humility.</strong></li><li><strong>Someone who can get challenging projects across the finish line.</strong></li><li><strong>Someone who is empathetic, patient, and passionate about helping teammates grow.</strong></li><li><strong>Someone who is collaborative, and who can influence diverse engineering teams.</strong></li><li><strong>Someone with experience running applications in production.</strong></li><li><strong>Someone who takes engineering best practices seriously, who cares about reliability and end-user trust, and who will advocate for all of these things.</strong></li></ul><p><br></p><p><strong>Technical Requirements</strong></p><ul><li><strong>Fluency in a programming language. (We use Python and Bash where possible.)</strong></li><li><strong>Familiarity with command-line Linux.</strong></li><li><strong>Familiarity with version control. (We use git.)</strong></li><li><strong>Familiarity with some form of infrastructure as code. (We use Terraform where possible.)</strong></li><li><strong>Familiarity and comfort with at least one cloud provider. (We use AWS where possible.)</strong></li><li><strong>Three years of experience in some combination of software engineering, systems administration, backend automation, testing automation, data engineering, or similar work. This should include operational responsibility for business-critical systems in a collaborative environment.</strong></li></ul><p><br></p><p><strong>Bonus Points</strong></p><ul><li><strong>Six, ten, or more years of experience, in a diverse range of environments and architectures.</strong></li><li><strong>Strong fluency in Python, and experience writing software.</strong></li><li><strong>Strong fluency in Linux, and experience with medium-to-large scale environments.</strong></li><li><strong>Familiarity with running systems with a microservice architecture.</strong></li><li><strong>Familiarity with data persistence technologies (for example, Elastisearch, Kafka, or Redis).</strong></li></ul><p><br></p><p><strong>We encourage you to apply if this role excites you\u2014We are always looking for outstanding individuals with diverse backgrounds and perspectives who embody trust, transparency, collaboration, and a can-do attitude. We\u2019re excited to meet you!</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T15:32:38.000Z"
+  },
+  "company": {
+    "name": "Xpansiv",
+    "link": "https://www.linkedin.com/company/xpansiv-data-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

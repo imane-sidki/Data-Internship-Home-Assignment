@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Description<br>UberMedia (UM) is now Near.<br><br>Near is looking for a Software Engineer who can be part of its backend Engineering team & contribute to its products & platform. You will be responsible for the design, implementation and maintenance of systems as part of Near Platform in coordination with various business teams.<br><br>We are looking for a driven and ambitious engineer who can play a pivotal role in the next phase of our journey. You will need to collaborate with other API developers, Data Engineers, Data Scientists and UI Engineers and work as a part of a high-performance team and solve problems. Experience as a technical lead across the full software development lifecycle is highly desirable.<br><br>You will be part of one of the fastest-growing Enterprise SaaS companies \u2013 a great opportunity for people who can work independently and are self-driven.<br><br>Tasks include<br><br>Build, improve, and maintain back-end systems to support multiple business areas<br>Work with cross functional team like product management, data engineers, QA and others to constantly improve our products and adapt to new customer needs<br>Work with other engineers to constantly improve the capabilities, reliability, and cost of our systems<br>Requirements<br>5+ years professional software engineering experience<br>Expert in building reliable, performant distributed systems<br>Excellent troubleshooting and problem-solving skills<br>Proficiency in Java, Scala or C++, and object-oriented design skills<br>Experience serving as technical lead throughout the full software development lifecycle, from conception, architecture definition, detailed design, scoping, planning, implementation, testing to documentation, delivery and maintenance is preferred<br>AWS Cloud Experience using EC2, Lambda, ECS, RDS and DocumentDB<br>Experience building event driven architectures at high scale using Kafka<br>Proficient with shell scripting, basic Unix command-line tools, git, Docker<br>Familiar with distributed data processing platforms such as Apache Spark<br>Strong CS fundamentals<br>Ability to build good rapport and relationships across teams<br>Excellent critical thinking, problem solving, and mathematical skills, and sound judgment<br>Familiarity with mobile location data and ad tech industry<br>Experience breaking down complex problems into manageable steps to solve<br>Experience in CI/CD environment is plus.<br>Familiarity with GIS concepts and tools a plus<br>Benefits<br>About Near<br><br>UberMedia (UM) is now Near. Near is the world\u2019s largest source of intelligence on people and places, processing data from over 1.6 billion monthly users across 44 countries. The Near Platform powers data-driven marketing and enrichment offerings through a suite of SaaS products. The users of the platform can leverage audience, spatial, retail, among other data in a privacy-led environment.<br><br>Founded in 2012, Near is headquartered in Singapore with offices in California, New York, London, Bangalore, Tokyo and Sydney. Today, marquee brands such as News Corp, MetLife and The We Company work with Near to provide enhanced customer experiences. Near is backed by leading investors including Sequoia Capital, JP Morgan Private Equity Group, Cisco Investments and Telstra Ventures. Visit www.near.co to find out more.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T10:05:01.000Z"
+  },
+  "company": {
+    "name": "Near",
+    "link": "https://sg.linkedin.com/company/-near"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

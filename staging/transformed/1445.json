@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<strong><u>Opportunity Overview<br><br></u></strong>Cohere Health is illuminating healthcare for patients, their doctors, and all those who are important in a patient\u2019s healthcare experience, both in and out of the doctors office. Founded in August, 2019, we are obsessed with eliminating wasteful friction patients and doctors experience in areas that have nothing to do with health and treatment, particularly for diagnoses that require expensive procedures or medications. To that end, we build software that is expressly designed to ensure the appropriate plan of care is understood and expeditiously approved, so that patients and doctors can focus on health, rather than payment or administrative hassles.<br><br>In this role, you\u2019ll join our growing team of world-class engineers, statisticians, and clinical experts to deploy machine learning algorithms that help automate burdensome administrative clinical practices. You will be tasked with finding the most promising opportunities for impact and then delivering on them.<br><br>This is a unique opportunity to join a high caliber engineering team that is growing quickly. You will build impactful healthcare technology on a modern tech stack.<br><br><strong>What You Will Do<br><br></strong><ul><li>Find the signal in incoherent clinical data</li><li>Build reliable and scalable production machine learning systems</li><li>Work on feature engineering, statistical analysis, developing novel ML techniques, understanding classifier performance, and ensuring fit-for-purpose.</li><li>Work cross-functionally across diverse stakeholders, including product managers, statisticians, EHR data specialists and physicians.<br></li></ul><strong>What You Will Have<br><br></strong><ul><li>You have at 5 years experience in applied ML in the industry with a degree or higher (MS/PhD) in computer science, machine learning, mathematics or similar field</li><li>Clear understanding of model building, model maintenance and the measures that optimize models for product use</li><li>Understand experimental design and can independently perform collection, measurement, and interpretation of results</li><li>Expert in R, SQL,Python or other common analytical data tools</li><li>Expert in linear regression and classification approaches</li><li>Hands-On experience with ElasticSearch <br></li></ul><strong>Bonus Points If<br><br></strong><ul><li>Have experience with healthcare data such as claims and EMR data</li><li>Have hands on experience building NLP models using Spacy from clinical narratives</li><li>Experience with TensorFlow is also a plus.<br></li></ul><strong>Equal Opportunity Statement<br><br></strong>Cohere Health is an Equal Opportunity Employer. We are committed to fostering an environment of mutual respect where equal employment opportunities are available to all. To us, it\u2019s personal.<br><br>We can\u2019t wait to learn more about you and meet you at Cohere Health!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T04:20:05.000Z"
+  },
+  "company": {
+    "name": "Cohere Health",
+    "link": "https://www.linkedin.com/company/coherehealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

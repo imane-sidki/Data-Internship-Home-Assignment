@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "PatientPop is the leader in practice growth with the only all-in-one solution that empowers healthcare providers to improve every digital touchpoint of the patient journey. As experts in the healthcare technology space, PatientPop makes it easy for providers to promote their practices online, attract patients, and retain them for life.<br>We've grown from a small, scrappy team to a workforce of 500+ driven individuals who are committed to scaling smarter. As we move into our next phase of growth, we're looking for passionate and dedicated people to focus on innovative solutions while ensuring that we maintain a superb customer experience. That, in part, means finding highly qualified candidates who want to invest their energy to align with our company's long-term goals.<br>You will be joining our Scheduling team, which is part of a product offering that streamlines and automates the patient journey by booking appointments online. We are constantly building in new features and functionalities to improve the user experience.<br><strong>How you will contribute:<br></strong>Your primary focus will be the development of our event-driven, microservices architecture and developing workflows to help enhance parts of our product service offering. This highly technical and hands-on position requires you to contribute to all aspects of design, design review, peer development, unit testing, debugging and implementation while helping benchmark performance. You should be comfortable with taking on new engineering challenges, defining potential solutions, and implementing designs in a team environment. A self-starter with the ability to plan, organize and establish priorities to meet goals and achieve results.<br><strong>Our tech stack:<br></strong><ul><li>Language: Python 3</li><li>Infrastructure: AWS</li><li>Framework: Flask, Django</li><li>Database: Postgres, Elasticsearch, DynamoDB, Redis</li><li>Events: Kinesis, SQS, SNS<br></li></ul><strong>About you:<br></strong><ul><li>Bachelor\u2019s or Master\u2019s degree in computer science or relevant working experience</li><li>Strong experience in Python, Java or PHP and a passion to learn new language</li><li>Experience with event-driven technologies (Kafka, kinesis, SQS, ActiveMQ, RabbitMQ)</li><li>Experience with relational databases (MySQL, Postgres) and a few non-relational databases (Redis, Dynamo, Cassandra, Elasticsearch, Hbase)</li><li>Strong experience with Microservices and scalable object-oriented REST-ful web services</li><li>You have an understanding of distributed design patterns using cloud-based systems including AWS</li><li>You are team-oriented and collaborative, with the capacity to mentor team members<br></li></ul><strong>In 90 days you will:<br></strong>Contribute to the development and support of microservices and workflow systems. You should prepare to have an immediate impact on the organization from day one. You\u2019ll take this far beyond your first 90 days. Expect to constantly be learning, challenging yourself and strategizing with your team on building world-class engineering practices.<br><strong>Benefits<br></strong>:<br><ul><li>Opportunity to create impact</li><li>Ownership and autonomy</li><li>Opportunities to host PatientPop talks</li><li>Paid maternity and paternity leave</li><li>Remote friendly or relocation assistance provided</li><li>100% fully-paid health, dental and vision options</li><li>Stock options</li><li>401 (k)</li><li>Our HQ is 2 Blocks from the beach, next to the promenade and dog friendly</li><li>And many more perks!<br></li></ul>We will consider for employment all qualified Applicants, including those with Criminal Histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles\u2019 Fair Chance Initiative for Hiring Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:40:54.000Z"
+  },
+  "company": {
+    "name": "PatientPop Inc.",
+    "link": "https://www.linkedin.com/company/patientpop-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77200,
+    "max_value": 121000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

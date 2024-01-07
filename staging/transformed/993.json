@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology,Pharmaceuticals",
+    "description": "We are seeking a Data Scientist to join our team to develop an insight driven sensing capability with a focus on revolutionizing decision making. As part of this role you will be solving big data problems and developing insights as part of a product team of data scientists, business analysts, and software engineers. The team will rely on your expertise in data science to build this visionary new capability for Amgen.<br><br><strong><u>Core Responsibilities For The Role<br></u></strong><ul><li>Build supervised and unsupervised algorithms to provide meaningful insights across Amgen\u2019s value chain (R&amp;D, Commercial, Operations)</li><li>Work closely with machine learning engineers to develop production code and deliver end-to-end solutions</li><li>Transform ambiguous business questions into measurable and impactful projects</li><li>Collaborate cross-functionally with teams of biologists, clinical experts, doctors, and commercial leads</li><li>Translate complex problems and solutions and provide actionable insight to executives</li><li>Serve as technical lead on projects and mentor junior and experienced data scientists</li><li>Help further build the team, including contributing ideas, establishing best practices, following trends in industry and academia<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Advanced degree in a quantitative field (MS, PhD, or equivalent experience)</li><li>3+ year of industry experience in quantitative analytics and applied data science</li><li>Strong proficiency in Python</li><li>Extensive experience building a variety of machine learning models</li><li>Experience writing SQL queries, mining large and imbalanced datasets, using data visualization tools</li><li>Ability to translate complex data sets and research into simple business recommendations</li><li>Excellent communicator able to write and speak about technical concepts to business, technical, and lay audiences<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience working with healthcare data (e.g. electronic medical records, claims)</li><li>Experience with distributed (Spark, Dask) and cloud (AWS, GCP) computing</li><li>Experience with Git or similar version control tool</li><li>Experience building deep learning models</li><li>Full stack experience with building and deploying modeling pipelines<br></li></ul>Join Us<br><br>If you're seeking a career where you can truly make a difference in the lives of others, a career where you can work at the absolute forefront of biotechnology with the top minds in the field, you'll find it at Amgen.<br><br>Amgen, a biotechnology pioneer, discovers, develops and delivers innovative human therapeutics. Our medicines have helped millions of patients in the fight against cancer, kidney disease, rheumatoid arthritis and other serious illnesses.<br><br>As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other but compete intensely to win. Together, we live the Amgen values as we continue advancing science to serve patients.<br><br>Amgen is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T06:06:35.000Z"
+  },
+  "company": {
+    "name": "Amgen",
+    "link": "https://www.linkedin.com/company/amgen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79900,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Thousand Oaks",
+    "region": "CA",
+    "postal_code": "91358",
+    "street_address": null,
+    "latitude": 34.176083,
+    "longitude": -118.84874
+  }
+}

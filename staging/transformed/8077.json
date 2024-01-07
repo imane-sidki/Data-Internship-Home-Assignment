@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps / Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.<br><br><br>Are you a passionate operations engineer? Want to work on solving large scale problems? Come join us to help build best in class CI/CD solutions and in implementing complex software applications across Corporate Systems Engineering at Apple. Our DevOps engineering team develops and deploy software which ensures that Apple\u2019s corporate applications are delivered accurately, reliably and with speed. We support both open source and home-grown technologies to provide internal Apple developers with the best possible CI/CD platform. In this role you will have the unique opportunity to own and improve tooling for best of the class large-scale CI/CD platform and help build modern software systems.  <br><br><br>The DevOps engineering team is part of the engineering operations team for corporate systems. This team is directly responsible to build, manage and expand on tools that enable software releases in a fast paced enterprise environment. We operate in on-premise, private, and public cloud (AWS, GCP etc.) environments. As a DevOps Engineer, you will be partnering closely with software development teams and infrastructure teams. And, be responsible for building and supporting CI/CD platforms, automating repeatable infrastructure needs, environment buildout, software build and releases, creating automated solutions, installing and configuring application software, and upkeep of systems through patching, upgrades, monitoring, and maintenance support.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience designing and working with modern Continuous integration and deployment solutions.<br><br>1-3 years of experience in DevOps/SRE, systems engineering, build/release/deployment automation.<br><br>Experience with hosted services in a high-volume enterprise environment<br><br>Implementing applications in private/public cloud infrastructure and container technologies, like Kubernetes and Docker.<br><br>Exceptional analytical and troubleshooting skills in complex Unix/Linux systems environment and applications implementations.<br><br>Experience designing and building CI/CD pipeline with tools such as Terraform, CloudFormation, Ansible, and Kubernetes toolset (e.g, kubectl, kustomize).<br><br>Excellent understanding of microservices architecture.<br><br>Develop full-fledged software tooling to deliver programmable infrastructure &amp; environments (infrastructure as code).<br><br>Demonstrated ability to write programs using a high-level programming languages or scripting, such Java, Python, Shell, Golang.<br><br>Experience with logging infrastructure and using tools such as Splunk, Logstash, or Kibana.<br><br>Experience with networking load balancers such as Ngnix, Netscaler, HAProxy.<br><br>Operational experience with public cloud (AWS, GCP) platforms through migrations, scaling operations.<br><br>Background building distributed, server-based infrastructure supporting a high volume of transactions in a mission critical environment.<br><br>Demonstrated ability to work on small, focused teams to complete critical milestones under pressure with tight deadlines.<br><br>Experience with Kafka, MongoDB, Cassandra and Oracle is highly desirable.<br><br>Passion for driving automation into how software development and delivery is done.<br><br>Experience on Mac OS, iOS (mobile apps) desirable.<br><br>Excellent written and verbal communication skills.<br><br>Partner with global teams, development teams and infrastructure teams.<br><br>In-Depth knowledge on AWS services including VPC, IAM, EC2, EKS, CloudWatch, S3, RDS, Route53.  Experience in similar services for GCP is preferred.<br><br>Working experience with Spinnaker or Tekton is a plus.  <br><br>AWS Cloud Architect and/or Certified Kubernetes Administrator (CKA) certifications are highly desired.<br><br> <br><strong>Description<br></strong> <br>Working in DevOps engineering team will expose you to a variety of challenges. Our team enables CI/CD capabilities for large numbers of applications by building, tuning and supporting highly available system. You will be working closely with U.S. and India based teams and in a multi-vendor resourcing model. As member of this team you will be empowered to work across multiple tools to improve and expand the capabilities the team has to offer. This may include:<br><br><br>Design and implement new software to streamline manual operations<br><br><br>Triage production issues along with other operational team members<br><br><br>Conduct root cause analysis of critical issues<br><br><br>Expand the capacity and performance of the system<br><br><br>Maintain primarily Linux and other types of systems<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\u2019s in Computer Science or equivalent.<br><br> <br><strong>Additional Requirements<br></strong> <br>The ideal candidate will be a self-motivated, hands-on, dynamic and detail oriented individual with a strong technical background.<br><br> <br>Role Number: 200281860<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T05:28:15.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

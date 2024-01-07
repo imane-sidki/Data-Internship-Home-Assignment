@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer & Network Security,Computer Software",
+    "description": "It's fun to work in a company where people truly BELIEVE in what they're doing!<br><br><em>We're committed to bringing passion and customer focus to the business.<br><br></em><strong><u>Company Overview<br><br></u></strong>At Proofpoint, we have a passion for protecting people, data, and brands from today\u2019s advanced threats and compliance risks. We hire the best people in the business to<br><ul><li>Build and enhance our proven security platform</li><li>Blend innovation and speed in a constantly evolving cloud architecture</li><li>Analyze new threats and offer deep insight through data-driven intel</li><li>Collaborate with customers to help solve their toughest security challenges<br></li></ul>We are singularly devoted to helping our customers protect what matters most. That\u2019s why we\u2019re a leader in next-generation cybersecurity\u2014and why more than half of the Fortune 100 trust us as a security partner.<br><br><strong>The Role <br><br></strong>Proofpoint is seeking a highly skilled programmer with experience in full-stack development. \u2028\u2028You will be working with several teams across the company in identifying requirements and designing and implementing features for new and existing services to support internal needs. You will play a critical role in helping the company achieve its aggressive goals for revenue and market growth. The applications engineering team you of which you will be a part has a daily impact through its services on the Proofpoint\u2019s ability to market, sale, deliver and monitor our products and services.<br><br><strong>Your day-to-day <br></strong><ul><li> Enhance and maintain services on MEAN stack on Docker in AWS</li><li>Design and develop new services on MERN or equivalent on Docker in AWS</li><li>Work with individuals and teams across the globe via collaboration tools including chat, audio, and video conferencing<br></li></ul><strong><u>What You Bring To The Team<br></u></strong><ul><li> A passion for developing robust, performant and user-friendly systems</li><li>An ability to drive the development of features and services from the requirements phase all the way through to deployment</li><li>5-7 year\u2019s experience developing UI HTML, CSS, JavaScript and frameworks such as Angular or React</li><li>Familiarity with version control tools like Git and issue tracking like Jira</li><li>Understanding of continuous integration development and use of build automation tools (Jenkins, Harness, etc.)</li><li>Experience using and designing RESTful APIs and micro-services</li><li>Experience working with a container toolset (Docker, Kubernetes, etc.)</li><li>Experience with NodeJS application development</li><li>Ability to work with Agile software development methodologies</li><li>Ability to mentor junior Software Engineers</li><li>Ease in working with non-technical co-workers at all levels and in all areas of a large enterprise<br></li></ul><strong>Why Proofpoint<br><br></strong>As a customer focused and driven-to-win organization with leading edge products, there are many exciting reasons to join the Proofpoint team. We believe in hiring the best the brightest and cultivating a culture of collaboration and appreciation. As we continue to grow and expand globally, we understand that hiring the right people and treating them well is key to our success! We are a multi-national company with locations in 10 countries, with each location contributing to Proofpoint\u2019s amazing culture!<br><br><em>If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:03:11.000Z"
+  },
+  "company": {
+    "name": "Proofpoint",
+    "link": "https://www.linkedin.com/company/proofpoint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 153000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

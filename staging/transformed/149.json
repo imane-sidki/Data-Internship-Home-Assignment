@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Management Consulting,Information Technology and Services",
+    "description": "<p><strong>Experience:</strong> 3 to 10 Years</p><p><strong>Responsibilities:</strong></p><ul><li>Contribute to adoption of cloud &amp; cloud-based technologies and good design practices, while finding opportunities to simplify and scale</li><li>Resolve problems and roadblocks as they occur with peers and help unblock junior members of the team. Follow through on details and drive issues to closure</li><li>Define, develop, and maintain artifacts like technical design or partner documentation</li><li>Drive for continuous improvement in Data engineering process within an agile development team</li><li>Own and deliver assigned sprint tasks and help drive the team forward</li><li>Communicate and work effectively with geographically distributed cross functional teams</li></ul><p><strong></strong></p><p><strong>Skills:</strong></p><ul><li>Big Data: Spark, SQL, Kafka/Hadoop/Hive/NoSQL</li><li>ML Ops tools: TensorFlow/Sagemaker</li><li>Programming languages: Scala, Python, Java</li><li>Agile and scrum experience and working with a remote team (nice to have)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T16:33:35.000Z"
+  },
+  "company": {
+    "name": "Affine",
+    "link": "https://in.linkedin.com/company/affine"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

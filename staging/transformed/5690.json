@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Symphony Enterprises, is seeking the following. Apply via Dice today!<br><br>Position Azure SRE (Site Reliability Engineer) Location Cincinnati, OH Type Fulltime JD I would consider below skills as MUST have. Please let me know if this helps. Azure(basics, can be trained) Python scripting(basics, can be trained) Should have worked in support environment Python ndashmost of the scripts automations are already created, should be able to understand the code, implement changes, and maintain. Azure ndash basics of Azure, should be able to learn and work on Azure Data Factory, Functions, Logic App, Log Analytics Sentinel. Implementation completed, changes and maintenance going forward. Google Cloud Platform ndash basics of Google Cloud Platform, should be able to learn and work on Google Data Studio BigQuery. Implementation completed, changes and maintenance going forward. CIAMCCPAGDPR ndash should be able to understand the ecosystem.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T01:18:30.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

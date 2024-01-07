@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Automation Engineer / Original Machine Learning Engineer<br><br></strong></p><p><strong>Fort Collins, Colorado, USA, 80528<br><br></strong></p><p><strong>Location: </strong><strong>Fort Collins, CO<br><br></strong></p><p><strong>Duration: 6 Months<br><br></strong></p><p> <br><br></p><p><strong>Required Skills<br><br></strong></p><ul><br><li><strong>7+ years of professional work experience optimizing DL/ML models for commercial deployment</strong></li><li><strong>7+ years of bench-marking, testing, and debugging models for most efficient performance on x86 CPU and Nvidia GPU architectures</strong></li><li>Hands-on experience using scripting languages such as Python, C/C++</li><li>Familiarity with hardware architectures beyond CPU and GPU (e.g., TPU, VPU, FPGA, etc.)</li><li>Experience with most popular Deep Learning frameworks (e.g., PyTorch, TensorFlow, etc.) and Machine Learning Techniques</li><li>Proven track record of successful implementation and deployment of DL/ML models at scale</li><li>Familiarity with general test automation for complex systems in public/private cloud</li></ul><br><br>TPU, VPU, FPGA,PyTorch, TensorFlow,GPU architectures, Python, C/C++,DL/ML models,x86 CPU",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T16:54:58.000Z"
+  },
+  "company": {
+    "name": "Collabera Inc.",
+    "link": "https://www.linkedin.com/company/collabera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Collins",
+    "region": "CO",
+    "postal_code": "80521",
+    "street_address": null,
+    "latitude": 40.58897,
+    "longitude": -105.08246
+  }
+}

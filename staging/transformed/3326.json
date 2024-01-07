@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong><u>Site ReliabilityEngineer</u></strong></p><p></p><p>Excellent opportunity to be part of this high growth business unit transforming on premise applications to Google Cloud Platform.</p><p></p><p>You will work with a dedicated team to design, configure, deploy, and support enterprise applications to GCP in a large, data intensive environment.</p><p></p><p><strong>RESPONSIBILITIES:</strong></p><ul><li>Work with business and IT team to transform enterprise applications from on prem to GCP</li><li>Design, configure, deploy, and triage applications into production</li><li>Code deployment utilizing terraform</li><li>CI/CD</li><li>Write scripts, performance monitoring</li><li>Support and on call duties</li><li>Document new processes</li></ul><p><br></p><p>This is an excellent 6+ month contract opportunity working witha high growth business unit as they transform to GCP. Outstanding opportunity to learn and grow your skills in a team that is seeking innovation in product and technology. Potential for conversion to full time employment. Ideally in Saint Louis or Atlanta but you can work 100% remotely.</p><p></p><p><strong>REQUIRED SKILLS:</strong></p><ul><li>5+ years as an SRE - Site Reliability Engineer</li><li>GCP - 1 year - experience deploying code to cloud platforms</li><li>Experience deploying/supporting .Net/C# applications</li><li>Windowsand related scripting skills in PowerShell, Python, or Bash</li><li>Knowledge of CI/CD, Jenkins pipelines</li><li>Excellent troubleshooting skills and a problem-solver mindset</li></ul><p></p><p><strong>PREFERRED SKILLS:</strong></p><ul><li>Kubernetes - certifications</li><li>GKE</li><li>AppDynamics</li></ul><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T15:15:22.000Z"
+  },
+  "company": {
+    "name": "Visionaire Partners",
+    "link": "https://www.linkedin.com/company/visionaire-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

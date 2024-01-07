@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SRE",
+    "industry": "",
+    "description": "<p><strong>DevOps consultant/SRE</strong></p><p><strong>NYC</strong></p><p><strong></strong></p><p><strong>Required Qualifications:</strong></p><ul><li>4-5 years of work experience year work experience in a DevOps or Site Reliability Engineer role.</li><li>Good working knowledge in production/application support</li><li>Good with OOP concepts and Python programming/scripting</li><li>Strong Computer Science fundamentals in Data Structures, Algorithms, Complexity Analysis, Object-Oriented Design and Designing Large Scale Data-Intensive Applications.</li><li>4+ years industry experience in Expert Knowledge in Linux, Python, Shell, JavaScript, MongoDB, Elasticsearch, Redis</li><li>Comfortable multi-tasking, managing multiple stakeholders and working as part of a team</li></ul><p></p><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience in ELK Stack (Elasticsearch, Logstash, Kibana) or Prometheus + Grafana</li><li>Experience with continuous deployment/delivery practices</li><li>AWS Certifications such as Solution Architect, DevOps Engineer</li><li>Experience with Container technologies like Docker, Kubernetes</li><li>Experience with cloud computing systems</li><li>Networking including TCP, HTTP, DNS, SSL certificates</li><li>Knowledge of Slang/SecDB is a plus</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:37:46.000Z"
+  },
+  "company": {
+    "name": "Zentek  Infosoft ",
+    "link": "https://www.linkedin.com/company/zentekinfosoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

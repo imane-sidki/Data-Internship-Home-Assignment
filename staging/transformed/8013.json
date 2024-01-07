@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p>The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Analyze raw data: assessing quality, cleansing, structuring for downstream processing</li><li>Design accurate and scalable prediction algorithms</li><li>Collaborate with engineering team to bring analytical prototypes to production</li><li>Generate actionable insights for business improvements</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or equivalent experience in quantative field (Statistics, Mathematics, Computer Science, Engineering, etc.)</li><li>At least 1 - 2 years' of experience in quantitative analytics or data modeling</li><li>Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms</li><li>Fluency in a programming language (Python, C,C++, Java, SQL)</li><li>Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)</li></ul><p><br></p><p><strong> Role</strong>: Lead experimental design to test business use cases, analysis of experiment results and development &amp; deployment of advanced data science models \u2013 propensity, uplift predictive. Resource expected to be able to successfully complete tasks independently.</p><p><strong>Required Skills</strong>:</p><ul><li>3+ years of industry experience</li><li>Experimental Design</li><li>Deep understanding of Data Science models</li><li>Experience with Propensity &amp; Uplift Models</li><li>Advanced statistical knowledge (Bayesian methods, causal inference)</li><li>Python Development is mandatory</li><li>ML Framework is a plus</li></ul><p><br></p><p><strong>AvistaTech is an equal opportunity employer committed to diversity in the workplace. We evaluate qualified applicants without regard to race, color, age, religion, sex, sexual orientation, gender identity or expression, marital status, domestic partner status, national origin, genetics, disability, military and veteran status, and other protected characteristics.</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-12T14:45:09.000Z"
+  },
+  "company": {
+    "name": "AvistaTech",
+    "link": "https://www.linkedin.com/company/avista-tech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

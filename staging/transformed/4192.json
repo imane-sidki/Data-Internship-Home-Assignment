@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer I",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>The Economics Technology team (ET) applies Machine Learning, Causal Inference, and Econometric/Economic Methodologies to derive actionable insights about the complex economy of Amazon\u2019s retail business. We also develop Statistical Models and Algorithms to drive strategic business decisions and improve operations. We are an interdisciplinary team of Economists, Engineers, and Scientists incubating and building day one solutions using cutting-edge technology, to solve some of the toughest business problems at Amazon.<br><br>This is a unique, high visibility opportunity for someone who wants to have business impact, dive deep into large-scale economic problems, enable measurable actions on the Consumer economy, and work closely with scientists and economists. If you are interested in Machine Learning, Reinforcement Learning, large-scale, low-latency distributed systems and can build the software that use the models, this is the role you have been looking for.<br><br>We are a Day 1 team, with a charter to be disruptive through the use of ML and bridge the Science and Engineering gaps that exist for engineers today. You will start on green field projects working with Principal Scientists to bring our models to life. We are an inclusive team, and are looking for SDEs that aren't averse to learning and building predictive models alongside our scientists.<br><br>We are seeking talented and experienced leaders to design, implement and deliver ML components along with high quality (e.g., secure, testable, maintainable, low-defects, efficient, etc.) software to solve complex economics problems, while independently authoring, testing and rolling-out new models in an existing system with coordination from scientists in order to generate positive feedback. You'll have the freedom (and encouragement) to experiment, improve, invent, and innovate when analyzing tradeoffs of selecting source data; building tools that accelerate the development of ML models by scientists; developing ML models using variety of ML design approaches and solid breadth of knowledge such as data processing, regression, clustering, recommendations, classification, experimentation, model optimization. You will be working closely with multiple scientists, economists, product managers and engineering leaders from ET team and partner teams in Amazon.<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li><li> Bachelor's degree in computer science related fields OR 1+ years equivalent experience in software development</li><li> Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design</li><li> 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.</li><li> 1+ years of non-internship professional software development experience<br></li></ul><strong><u>Additional Basic Qualifications<br></u></strong><ul><li> Bachelor\u2019s Degree in Computer Science or related field</li><li> Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis</li><li> Experience building large-scale machine-learning models</li><li> Experience with machine learning, data mining, and/or statistical analysis tools<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Master\u2019s Degree in Computer Science or related field</li><li> Experience with Big Data technologies such as AWS, Hadoop, Spark</li><li> Experience with ML libraries/frameworks such as Keras, Tensorflow, AWS Sagemaker</li><li> Experience building complex software systems that have been successfully delivered to customers</li><li> Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations<br><br></li></ul><strong>Company</strong> - Amazon.com Services LLC<br><br>Job ID: A1677166",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T09:57:46.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

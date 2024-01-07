@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ConverseNow is looking for a Software Engineer to build the ultimate voice-based conversational AI. We're looking for coders and creators with a refined code sense: people who've built cool things, but who can also maintain and scale those things, and who feel proud seeing their code in production.<br><br>The ideal candidates would have professional experience on a stack serving millions of users, be proficient with Python and/or Golan, and have some amount of experience(either professional or personal)in NLP.<br><br><strong> Experience <br><br></strong>2-4years of experience in the development(at least 1year in Python or Golang)<br><br><strong> Preferred NLP Experience. <br><br></strong>Education Qualification<br><br>Bachelor\u2019s Degree in Computer Science.<br><br><strong> Requirements <br></strong><ul><li>Build and maintain the core server stack, working with either a Golang or Python backend.</li><li>Proactively identify and fix infrastructure bottlenecks to scale the core services to tens of thousands of requests per minute.</li><li>Develop the APIs that our apps and web frontend consume.</li><li>Take ownership of features at a product as well as a technical level, working closely with other engineers, designers, and colleagues across the company to define feature specifications.</li></ul>Technology Expertise<br><ul><li>Proficiency in Python or Golang language. (one of them is mandatory). Good understanding of data structures and algorithms. </li><li>Good design and problem-solving skills.</li><li> Exposure to NLP/AI/ML is a huge plus.</li></ul>ConverseNow.AI is a conversational AI company (based out of Austin, TX) specializes in providing voice-based intelligent agents for food ordering. Our systems offer a smooth, human-like ordering experience while providing personalized recommendations to end customers that result in increased sales and reduced expenses for restaurants. Our team is fun, friendly, diverse, global, and includes a wide variety of restaurant industry veterans, talented product designers, data scientists, and engineers. ConverseNow is backed by leading investors and growing quickly. If you are ambitious and driven and want to work with great colleagues on interesting and challenging problems, we encourage you to apply.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T06:26:45.000Z"
+  },
+  "company": {
+    "name": "ConverseNow.AI",
+    "link": "https://www.linkedin.com/company/conversenow-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

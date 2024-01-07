@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer - Microsoft Azure",
+    "industry": "Construction,Food & Beverages,Retail",
+    "description": "Today, with our current team members, we have the strength to help you grow in any career direction you want, whether in our stores, distribution centers, manufacturing facilities or our Midwest corporate offices. It's your future, maybe it starts with Meijer.<br><br>Please review the job profile below and apply today!<br><br>Meijer is investing in digital technologies, with a large amount of growth planned for talent. We're hiring in several key areas - Digital, eCommerce, mobile (Native iOS and Android), Cloud technology, Full stack development, User Experience design, and Leadership.<br><br>Meijer is currently seeking a Senior Software Engineer with Microsoft Azure development experience NOT DevOps. (Logic Apps, Function Apps, CosmosDB, Storage Account) The Senior Software Engineer will design, develop, test, maintain, and enhance APIs. The focus of this digital development team is to advance our digital shopping and loyalty program capabilities within the Meijer mobile app and our eCommerce website (Meijer.com).<br><br><strong><u>What You'll Be Doing (Responsibilities)<br></u></strong><ul><li>Designs, codes, tests, and implements applications. Microsoft Azure (Logic Apps, Function Apps, CosmosDB, Storage Account)</li><li>Performs unit tests, monitors results, and takes required corrective actions as needed.</li><li>Optimizes and enhances applications and interfaces to meet SLA/functional requirements.</li><li>Works within the SAFe Agile framework and utilizes CI/CD best practices.</li><li>Assists product owners in systems analysis and creation or updating of documentation for all business processes.</li><li>Interfaces with the Product Owner and IT partners to develop acceptance criteria for features and user stories and ensures acceptance criteria are met.</li><li>Participates with other IT members, customers and other stakeholders in new product reviews, tests and pilots.</li><li>Performs feasibility studies/proofs of concept to evaluate solutions.</li><li>Participates in structured walk-throughs, secure coding, and technical reviews ensuring application coding and design follows secure coding and design principles.</li><li>Assists in the production support and maintenance of applications.</li><li>Actively participates in all team Agile ceremonies.<br></li></ul>This job profile is not meant to be all inclusive of the responsibilities of this position; may perform other duties as assigned or required.<br><br><strong><u>What You Bring With You (Qualifications)<br></u></strong><ul><li>Bachelor's degree or equivalent combination of education, training and experience.</li><li>Experience on Agile teams in Agile development environment. SAFe certification or training is preferred.</li><li>Minimum 2 years of experience in systems development and programming (.NET, C#, Azure: Logic Apps, Function Apps, CosmosDB, Storage Account, and Restful APIs)</li><li>Experience with POSTman, Swagger, GIT source code control, and experience a variety of design patterns.</li><li>Experience developing unit test cases preferred.</li><li>Knowledge and understanding of structured analysis and technical design techniques.</li><li>Strong technical communication and collaboration skills.</li><li>Knowledge of agile practices in a cross-functional environment preferred.</li><li>Ability to effectively adapt to rapidly changing technology and apply it to business needs.</li><li>Ability to establish and maintain a high level of customer trust and confidence.</li><li>Ability to provide high level of quality and productivity.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:09:47.000Z"
+  },
+  "company": {
+    "name": "Meijer",
+    "link": "https://www.linkedin.com/company/meijer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75100,
+    "max_value": 105000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Grand Rapids",
+    "region": "MI",
+    "postal_code": "49516",
+    "street_address": null,
+    "latitude": 42.96546,
+    "longitude": -85.67017
+  }
+}

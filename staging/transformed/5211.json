@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Software Engineer - Concept Engineering",
+    "industry": "Internet",
+    "description": "Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.<br><br>The AR/VR Oculus Concept team at Facebook is helping more people around the world come together and connect through world-class VR hardware and software. With global departments dedicated to VR research, computer vision, haptics, social interaction, and more, Oculus is committed to driving the state of the art forward through relentless innovation. VR\u2019s potential to change the world is immense\u2014and we\u2019re just getting started.<br><br>The AR/VR Oculus Concept Engineering team within the Augmented Reality product team that actively participates in concept development and design ideation of cutting-edge technologies. The team is responsible for rapidly building and iterating polished high-fidelity prototypes and development platforms that bring new ideas to life by expressing design intent and user experience - using the best and most appropriate tools and techniques for the task. While we want these prototypes to be optimized for speed, the hardware and software should be designed with the ultimate goal of mass production. These prototypes and development platforms will be used to prove and sell concepts through establishing end-user value to development teams and leadership; additionally, they would be used in testing and data collection in support of hardware technology and computer vision algorithm development.<br><br>We are seeking a System Software Engineer who has a passion for working across disciplines to turn early cutting-edge concepts and technologies into reality. You will be responsible for the architecture and design of software that will drive new concepts and technologies.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Ownership of system software design for hardware prototype projects and development platforms</li><li>Collaborate in a team environment across engineering disciplines</li><li>Experimenting with and implementing interfaces to various sensors and software components</li><li>Developing framework-centric software to enhance algorithm development and integration</li><li>Devising and implementing low-latency network interface protocols</li><li>Work closely with various core tech teams and other organizations to define prototyping scope and applications towards various technology roadmaps and products<br></li></ul><strong>Minimum Qualification<br></strong><ul><li>BS in Electrical Engineering or Computer Science</li><li>5+ years experience with system software design and development</li><li>Experience with protocol design, specification, and implementation</li><li>Experience debugging and problem-solving in unfamiliar code bases and environments</li><li>Experience with low-level (kernel/drivers/HAL), as well as user-space system software</li><li>Experience with software framework design for rapid prototyping</li><li>Experience with multimedia (video/audio) use cases<br></li></ul><strong><u>Preferred Qualification<br></u></strong><ul><li>Experience with Embedded Linux/Android system software</li><li>Experience with ARM based processors and micro-controllers and various communications protocols such as I2C, UART, SPI, USB, MIPI, I2S, etc.<br></li></ul>Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:14:06.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

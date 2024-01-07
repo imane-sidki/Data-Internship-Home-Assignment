@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "<br><strong>Do what you love. Love what you do. <br><br></strong> At Workday, we help the world\u2019s largest organizations adapt to what\u2019s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we\u2019re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. <br><br><strong>About the Team<br></strong>The Site Reliability Engineering team at Workday maintains the reliability and availability of our customer environments. The team builds and crafts solutions to scale our day to day operations and support Workday customers!. We are a fast paced and diverse team located across the globe.<br><strong>About the Role<br><br></strong>In this role, you must think about our customers (both internal and external), delivering quickly on a wide range of daily tasks - from environment provisioning, performance monitoring, environment troubleshooting, ad-hoc walk ups and automation efforts; while creating transparency of work being performed.<br><br>This position requires a good understanding of Linux systems in a Production Environment as you will be part of a team that is directly responsible for writing and maintaining scripts (bash, ruby, python) that support the environment provision process.<br><br><strong>About You<br><br></strong>You understand moving fast is key for the company and ensuring our Workday Service is available 24/7/365 requires on-call participation, careful maintenance planning of changes, detailed runbooks - documentation, collaboration and team due diligence around the 100's configuration tasks that we perform daily!. If the work performed is manually repeated often, you find a way to automate the task. More so, you deliver!<br><br><strong> Basic Qualifications:  <br></strong><ul><li>5-7+ years of Environment Operations experience</li><li><strong>MUST</strong> have, Experience running and maintaining a 24x7 Internet-oriented production environment, preferably across multiple data centers.</li><li><strong>Must</strong> have BS or MS degree in Computer Science, Engineering, or related technical field, or equivalent experience</li><li>Experience deploying and operating: Apache Tomcat and HTTPd, MySQL, Cape Clear ESB, Subversion, Java web applications.</li><li>Proven expertise on Linux: SSH and Tunnels are your only means to gain server access. You can debug with the best of 'em using command line basics like \"top, sar, tcpdump, iptables dmesg\" to name a few.</li><li>Experience with many tool sets: Chef, Puppet, OSSEC, SPLUNK, SOLAS, Bladelogic, Ansible, JIRA, Confluence<br><br></li></ul><strong> Other Qualifications <br></strong><ul><li>Strong understanding of enterprise level thinking on a few levels; documentation, runbooks, root cause analysis, capacity-trending, bug fixes and scripting</li><li>Secret passion about monitoring. When false positives show up on your radar you quickly address it. Your inner wish list is to \"make monitoring phenomenal again\".</li><li>Can balance multiple tasks, make the right business decisions and tackle problems while under pressure, and prioritize and organize effectively.</li><li>Able to work some nights and weekends is required as part of the on-call support and production update rotation.</li><li>Experience with (CentOS, SunOS, Solaris/Linux/DevOps) is a plus.<br><br></li></ul> Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T07:01:21.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85800,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

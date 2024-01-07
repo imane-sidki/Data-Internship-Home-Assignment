@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Quality Engineer",
+    "industry": "Medical Devices,Biotechnology,Pharmaceuticals",
+    "description": "An in-vitro diagnostic medical device organization, who are scaling at a rapid rate, are looking for a motivated Senior Software Quality Engineer to join their talented team on a remote basis.<br><br><strong><u>Senior Software Quality Engineer Responsibilities<br></u></strong><ul><li> Establish end-to-end automated tests using JavaScript, Selenium WebDriver, Appium, and other technologies.</li><li> Independently work through developing, executing, and reporting of V&amp;V plans and complex test protocols.</li><li> Work with team to create and execute an SDLC with automated traceability.</li><li> Create detailed, comprehensive test cases and plans.</li><li> Execute manual system integration tests.</li><li> Identify and thoroughly document bugs.</li><li> Assure that our product matches or exceeds our patients\u2019 and clinicians\u2019 expectations.<br></li></ul><strong><u>Senior Software Quality Engineer Skills And Qualifications<br></u></strong><ul><li> BS in computer science or related discipline, or equivalent work experience.</li><li> 6+ years experience in the software quality industry.</li><li> 3+ years experience in medical devices.</li><li> Expertise in test methodologies, writing test plans and cases, and debugging.</li><li> 2+ years exposure to automation testing frameworks and paradigms.</li><li> Prior experience developing or testing in compliance with recognized regulatory standards (21 CFR Part 820).</li><li> Demonstrable aptitude towards learning new technologies.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T22:49:40.000Z"
+  },
+  "company": {
+    "name": "X4 Life Sciences",
+    "link": "https://uk.linkedin.com/company/x4-life-sciences"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76900,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

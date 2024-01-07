@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Seeking extraordinary software engineers with deep experience in scalable data processing systems. You will have a passion to push the limits of distributed computing frameworks to get every ounce of performance out of them.<br><br><br>Looking for engineers with In depth knowledge of systems like Spark, Flint, Storm, and other existing frameworks. Also someone who will be passionate by the prospect of working reciprocally with other groups internal to Apple and also communities outside Apple.<br><br> <br><strong>Key Qualifications<br></strong> <br>A successful track-record or demonstrated aptitude as an engineer who has worked on distributed systems.<br><br><br>Experienced Engineer or Contributor or Committer to Spark and/or related technologies with: <br><br>Good knowledge of Apache Spark internals (Catalyst, Tungsten and related query engine details).<br><br>Good knowledge of data formats like Parquet, ORC internals.<br><br>Experience working on or building connectors from Spark to any of the data sources.<br><br>Knowledge of Yarn, Mesos, Kubernetes or other compute substrate.<br><br>Knowledge of consensus management systems like Zookeeper and caching solutions.<br><br> <br><strong>Description<br></strong> <br>We are team who provide Apache Spark as a service to many Apple internal organizations like iCloud, Maps, iTunes, Business intelligence and others. This service forms the basic platform upon which most of the Apple\u2019s data engineering and data science systems and use-cases are built. <br><br>The Apple Cloud Infrastructure Spark Engineering team needs a strong self driven engineer who can work both on open source Spark community as well as internal teams to take Spark and related technologies to next level.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>We are team who provide Apache Spark as a service to many Apple internal organizations like iCloud, Maps, iTunes, Business intelligence and others. This service forms the basic platform upon which most of the Apple\u2019s data engineering and data science systems and use-cases are built. <br><br>The Apple Cloud Infrastructure Spark Engineering team needs a strong self driven engineer who can work both on open source Spark community as well as internal teams to take Spark and related technologies to next level.<br><br> <br>Role Number: 200260924<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T08:23:51.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

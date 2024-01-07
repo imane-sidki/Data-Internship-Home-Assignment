@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Summary:<br>The main function of the Data Scientist is to produce innovative solutions driven by exploratory data analysis from complex and high-dimensional datasets.<br>Working on commerce products on Facebook including Marketplace and shops.<br><br>Skills:<br>Experienced in either programming languages such as Python and/or R, big data tools such as Hadoop, or data visualization tools such as Tableau.<br>The ability to communicate effectively in writing, including conveying complex information and promoting in-depth engagement on course topics.<br>Experience working with large datasets.<br>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T21:56:15.000Z"
+  },
+  "company": {
+    "name": "Vertisystem",
+    "link": "https://www.linkedin.com/company/vertisystem"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

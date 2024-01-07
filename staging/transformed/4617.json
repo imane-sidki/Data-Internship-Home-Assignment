@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>PreciseSource, a nationwide professional recruitment firm, is currently undertaking a search for a Sr. Site Reliability Engineer to run a large-scale, massively distributed, and fault-tolerant systems for an established an growing cloud services company. The Engineer will have the opportunity to manage the complex challenges of scale, while using expertise in coding, algorithms, complexity analysis, and large-scale system design. This is a new role as part of the company's East Coast expansion. This role will be located in Miami, FL, but will work remote for the foreseeable future. This is a full-time, direct hire role offering a great base salary, stock options, and great benefits including unlimited PTO.</p><p><br></p><p><strong>Candidate should:</strong></p><ul><li>Have a strong foundation in developing, deploying and operating high performance distributed Web services.</li><li>Have Automation first mindset.</li><li>Have the ability to design systems from ground up providing detailed technicalanalysis or the pros and cons of each approach.</li><li>Hands-on knowledge of Docker technologies.</li><li>Have expertise in Azure technologies - Compute, Storage, Database.</li><li>Good understanding of security practices while developing software will be helpful.</li><li>Have a sound understanding of OS concepts especially *nix OSes, and tools especially those related to performance benchmarking, profiling, troubleshooting and measurement.</li><li>Have the ability to work in a fast-paced, agile development environment with small, focused teams delivering product regularly.</li><li>Be a solid team player. Excellent interpersonal and oral/written communication skills.</li><li>Leads teams focused on quality and continuous improvement initiatives across business units within the company.</li><li>Experience of operating in a Continuous delivery environment.</li><li>Knowledge of Git, Jenkins, and CI/CD.</li><li>Build, design and support cloud-based infrastructure.</li><li>Support 24/7 operations of the company's SaaS service.</li><li>Influence future product features and requirements.</li><li>Contribute to existing documentation.</li><li>Participate in on-call rotation.</li><li>5 to 10 years supporting large scale, distributed installations</li></ul><p></p><p><strong>Your Past Experience &amp; Future Success:</strong></p><ul><li>Bachelor\u2019s degree in Computer Science or closely related field.</li><li>5 to 10 years supporting large scale, distributed installations with cloud experience.</li><li>Exposure to and experience with the following tools Ansible, Docker, Kubernetes, Python, Terraform / Terragrun.</li><li>Participating in and contributing to agile methodologies and best practices.</li><li>Articulate and personable with strong spoken and written language abilities.</li><li>You engender a sense of mentoring and knowledge sharing amongst your team, creating a synergistic learning environment.</li><li>Experience working and collaborate with a distributed SRE and Engineering team.</li><li>Self motivated and sensitive about on-time delivery.</li><li>We would be thrilled if you had experience with:</li></ul><p>-Jenkins and CI/CD pipeline</p><p>-Apache Cassandra, Apache Kafka</p><p>-Open Source Software Development</p><p>-ElasticSearch / OpenDistro / OpenSearchHashiCorp Vault</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T19:23:18.000Z"
+  },
+  "company": {
+    "name": "PreciseSource, LLC",
+    "link": "https://www.linkedin.com/company/precisesource-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Florida",
+    "region": "United States",
+    "postal_code": "33805",
+    "street_address": null,
+    "latitude": 28.595512,
+    "longitude": -82.48734
+  }
+}

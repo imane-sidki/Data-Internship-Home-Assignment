@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer ",
+    "industry": "Information Technology and Services",
+    "description": "<p>PriceSpider is revolutionizing retail data technology by capturing actionable insights that improve the customer experience. Combining decades of data on consumer shopping behaviors with its proprietary data collection platform, PriceSpider arms brands with intelligence from thousands of ecommerce sites and marketplaces to help them drive sales conversions and protect brand integrity at every possible digital touch point. PriceSpider helps the world\u2019s biggest brands enrich the consumer journey and build long-lasting relationships with their shoppers, resulting in more revenue and higher profit margins.</p><p>We are looking for enthusiastic and passionate engineers to join our team. If you would enjoy working to bring real world value to many of the world\u2019s largest companies, we would love to hear from you. Our platform runs thousands of jobs and processes millions of requests each day as we strive to collect the most accurate information about the way our customers\u2019 products are used and consumed around the globe.</p><p></p><p><strong>Essential Functions &amp; Responsibilities:</strong></p><ul><li>Work individually and collaboratively with global teams to createboth scalable andmaintainable solutions towards team and companygoals</li><li>Promote high quality coding standards through the employment of industry best practices, including unit-testing,CI/CD, and our expanding cloudonlystrategy</li><li>Take responsibility for project quality, represented primarily by user adoption and data usability and accuracy</li><li>Identify and engage in opportunities to reduce legacy application inefficiencies as newer projects and solutions progress</li><li>Create and maintain documentation and training material</li><li>Research and explore new technology and systems for the application of improved solutions to internal and external client obligations</li><li>Participate in project and team planning, including those responsible for the identification and enumeration of product requirements</li></ul><p></p><p><strong>Requirements and Qualifications:</strong></p><ul><li>4+ Years of experiencein web application development preferablyinvolving technologies promoting the movement, maintenance, and quality ofdata</li><li>Experience with cloud service providers, preferably AWS (handledstandard cloud service technologies including VMs,containers,queueing systems...)</li><li>Thorough understanding of SQL Databases (MSSQL and Postgres)</li><li>Experience with multiple languages,preferablyGo and NodeJS (Typescript)</li><li>Experience with ReactJS and functional components</li><li>Strong understanding of REST architecture and how to build scalable API\u2019s</li><li>Experience with CI / CDprocedures andtools(GitHub Actions, Jenkins,...)</li><li>Very analytical thinking and adaptability to frequently changing needswithan absolutesolution orientation</li><li>Excellent communication skills in an international environment</li></ul><p></p><p><strong>Tech Stack:</strong></p><ul><li>Any of: NodeJS, Golang, C#</li><li>PostgreSQL, MSSQL</li><li>GithubandGithubActions,CI/CD</li><li>AWSingeneral</li><li>Container,Kubernetes, Linux</li><li>Messaging(e.g.RabbitMQ)</li><li>Nice to have, any of:Jenkins, C#, Elastic Search, Kafka</li></ul><p></p><p><strong>Location:</strong></p><p>We are hiring for this position in Irvine, CA or remote (PST). Remote work allowed.</p><p><em>PriceSpider is an equal opportunity employer that is committed to inclusion and diversity.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T21:08:36.000Z"
+  },
+  "company": {
+    "name": "PriceSpider",
+    "link": "https://www.linkedin.com/company/pricespider"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

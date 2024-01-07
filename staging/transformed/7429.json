@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Remote",
+    "industry": "Computer Software",
+    "description": "<strong>About Reciprocity!<br><br></strong>Reciprocity is shaping the future of Information Security with our modern SaaS approach to enable easy risk, audit and security relationship management. The market is growing fast and will be a $1T market by 2025. With our great product, 100s of brand-name customers, solid funding, and our impressive exec team, we have the confidence to be a software juggernaut for years to come.<br><br>Exciting companies share a common set of traits: large growing markets, disruptive technologies, kick-A teams, and a focus on a future state that\u2019s infinitely better than the current state. If this excites you, look no further.<br><br>Our collaborative team is composed of smart and driven people with diverse interests. We pride ourselves on being family friendly, striking a healthy work-life balance, and cultivating an open and supportive working environment. We are a 100% remote workforce, with presences in San Francisco, Argentina, and beautiful Ljubljana, Slovenia. If you\u2019re mission-driven, excited to solve tough problems, care deeply about values, and are a strong team player, keep reading and hopefully you can jump on this rocketship with us.<br><br><strong><u>Job Description<br><br></u></strong>Our Technical Operations and SRE team supports the growing needs of the company by working collaboratively with multiple teams. We partner with the Product Engineering team to architect, maintain, and improve the reliability and performance of ZenGRC for our growing list of both on-prem and hosted customers. We are responsible for investing in the technology, processes, and automation to handle the growth of the company and maintain the security and integrity of our customers\u2019 data.<br><br><strong><u>What You Will Get To Do<br></u></strong><ul><li>Get up to speed with our software and systems architecture, including understanding the fundamentals of AWS and Kubernetes</li><li>Maintain documentation (e.g., deployment procedures, disaster recovery, backup procedures, security settings)</li><li>Build and deploy monitoring infrastructure</li><li>Maintain and improve CI/CD infrastructure</li><li>Ensure system integrity, safety, and security of customer data, and security of internal systems</li><li>Plan and execute configuration change operations both at the application and the infrastructure level</li><li>Propose, plan, and execute on ideas and solutions to improve the overall effectiveness of the engineering organization </li><li>Partner with multiple engineering teams to:</li><ul><li>Define Service Level Objects and appropriate availability guarantees for software</li><li>Review architecture for new features and deployment requirements</li><li>Plan capacity, provisioning, and change management</li><li>Understand application security model and plan for mitigating possible threats<br></li></ul></ul><strong><u>What We Are Looking For<br></u></strong><ul><li>3+ years experience in a DevOps / SRE role</li><li>Proven experience building, scaling and operating software in Kubernetes</li><li>Proficiency with Linux systems and at least one dynamic programming language (e.g., Go, Python)</li><li>Implement \"Infrastructure as Code\" using Terraform</li><li>A working understanding of Docker, AWS, and MySQL/Postgres</li><li>Demonstrated ability to prioritize and work in a complex environment</li><li>The ability to separate good from perfect with a bias to get things done</li><li>Proficiency in configuration management tools (e.g. Ansible)</li><li>A strong desire to continue learning</li><li>Comfortable being on-call rotation to support ZenGRC availability incidents and provide support for service engineers<br></li></ul><strong><u>What We Offer<br></u></strong><ul><li>We are committed to the health and safety of our people. Our people are working 100% remote, collaborating online and connecting over video, as they continue to deliver high quality technology solutions, flexible working time.</li><li>You can work anytime you want. We have fixed meetings in the afternoon.</li><li>A great and talented team to learn from and work with.</li><li>Get to work on software used by top Silicon Valley Startups.</li><li>Internal knowledge sharing sessions.</li><li>Collaborating with smart coworkers that put Customers First and GSD</li><li>Attend conferences that help you grow professionally.<br></li></ul><strong><u>Equal Employment Opportunity Statement<br><br></u></strong>We value a diverse environment. Reciprocity provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran, sexual orientation, gender identity or expression, or any characteristic protected by federal, state or local laws.<br><br>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br><br>The statements herein are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required for personnel so classified.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T00:50:15.000Z"
+  },
+  "company": {
+    "name": "Reciprocity, Inc",
+    "link": "https://www.linkedin.com/company/reciprocity-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

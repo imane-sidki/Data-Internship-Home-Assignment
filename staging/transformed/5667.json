@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<strong>Hybrid Model (3 days at the office, 2 days remote) perfect for Greenville, SC &amp; Spartanburg, NC engineers!<br><br></strong>This Jobot Job is hosted by Craig Rosecrans<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $120,000 - $145,000 per year<br><br><strong>A Bit About Us<br><br></strong>Jobot is looking for a Site Reliability Engineer for the leading provider of software and support in the healthcare industry.<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>The work we do is rewarding &amp; if you enjoy saving lives &amp; working on cutting edge technology like we do, please apply! We are known for incredibly low turnover because of the work life balance we offer. That said, we are conscious of the fact that we cannot be successful unless our customers are successful which is at the core of all we do.<br><br><strong>Job Details<br><br></strong>Develop applications from customer services side/liability - that gear towards application transactions and less in application infrastructure- Incident response and problem management towards application development and monitoring<br><ul><li> Contribute to a light amount of application development, working very closely with development teams on reliability / observability.</li><li> Provide reasoning about application architecture as well as be comfortable looking at code and offering feedback on how it can be improved to increase reliability.</li><li> Participate and lead incident resolution efforts and subsequent postmortems.</li><li> Work laterally with our other engineering teams to identify root causes, characterize and track problems and collaborate to address them</li><li> Defining required performance and expected load, taking actions to address disruptions and monitoring operation.<br></li></ul>What You Need for this Position-<br><br>3-5 years working experience<br><br>Good blend of Software Development + Operations (DevOps)<br><br>Kubernetes<br><br>Helm<br><br>Docker<br><br>Git<br><br>CI/CD<br><br>Internet protocols<br><br>Scripting languages<br><br>Linux<br><br><strong>Preferred<br><br></strong>Jira<br><br>AWS<br><br>Azure<br><br>Kafka<br><br>Prometheus<br><br>Grafana<br><br>Ansible<br><br>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T21:49:15.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greer",
+    "region": "SC",
+    "postal_code": "29651",
+    "street_address": null,
+    "latitude": 34.939312,
+    "longitude": -82.229195
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Medical Devices,Computer Software,Pharmaceuticals",
+    "description": "<p>The Software Engineer is part of the Software Applications Development Team and is responsible for analyzing component requirements, designing software solutions, and implementing Bigfoot software systems on mobile and cloud platforms. Bigfoot Software Engineers are also responsible for developing and maintaining automated software component tests and test frameworks. The right person for this role will be a detail-oriented, results-oriented self starter with the flexibility to adapt to change in a fast-paced startup environment.</p><p><br></p><p><strong>Essential Duties and Responsibilities</strong></p><ul><li>Software Development: Design and Implement component software requirements; Write detailed design documentation; Implement automated tests for component requirements</li><li>Test Frameworks: Implement and maintain testing frameworks and infrastructure</li><li>DevOps: Implement and maintain CI and CD infrastructure</li></ul><p><br></p><p><strong><span class=\"ql-cursor\"></span>Skills &amp; Experience Requirements</strong></p><ul><li>2+ years recent hands-on software development experience in a lean/agile environment.</li><li>Proficient in Java and Typescript or Javascript.</li><li>Experience building Web Applications, Mobile Applications, and RESTful web services.</li><li>Experience with writing tests and using test frameworks.</li><li>Ability to rapidly learn and adopt new skills and technology.</li><li>Strong written and verbal communication skills.</li><li>Detail oriented, self-motivated, self-organizing, and committed to delivering high quality work.</li><li>Additionally, the ideal candidate will possess the following:</li><li>Experience with React and React Native</li><li>Experience with iOS development(Swift) and Android development (Java/Kotlin)</li><li>Experience with AWS including EC2, Kinesis, Redis, Elastic Search</li><li>Strong technical and leadership skills: decisive, determined, strategic, and able to lead, motivate, and inspire others.</li></ul><p><strong>Education Requirements</strong></p><ul><li>BSc STEMs or higher</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T13:38:14.000Z"
+  },
+  "company": {
+    "name": "Bigfoot Biomedical",
+    "link": "https://www.linkedin.com/company/bigfoot-biomedical-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

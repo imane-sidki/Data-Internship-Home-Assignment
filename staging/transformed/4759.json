@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (NLP) - Up to $180k Salary",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<p><strong>** We are one of the top rated companies on Glassdoor.com and founded by the former Head of Health at Apple</strong>!</p><p><br></p><p><br></p><p><strong>About Us</strong></p><p>We are a health technology platform that enables patients with cancer and rare neurologic disorders to collect, digitize, and share their health information. Funded by Andreessen-Horowitz and founded by a serial entrepreneur and former head of Health at Apple.</p><p>It began with the simple idea that anyone should be able to manage their own medical records, but was motivated by the harder reality of helping Anil\u2019s own sister fight her battle with cancer.</p><p><br></p><p>Our mission is for patients to control their healthcare data so that they can control their healthcare options.</p><p><br></p><p><br></p><p><strong>The Role</strong></p><p>In this role, you will be working with other data scientists and engineers to help build our unstructured data extraction pipeline. You will be responsible for leveraging the latest machine learning and natural language processing technology to structure and normalize data from medical records. The ideal candidate will have no issue digging into messy data, working with clinical subject matter experts to develop annotation guidelines to produce high-quality machine learning models. As a data scientist at Ciitizen, you will have the opportunity to touch all parts of the machine learning project lifecycle from dataset curation to model deployment.</p><p><br></p><p><strong>Basic Qualifications</strong></p><ul><li><strong>2+ years</strong> of experience prototyping and deploying production <strong>NLP / Machine Learning models</strong></li><li><strong>3+ years</strong> of experience with <strong>Python</strong> and solid software development skills</li><li>Familiarity with common <strong>NLP/ML frameworks (Spacy, Pytorch, TensorFlow, Keras)</strong></li><li>Fluency in state-of-the-art machine learning techniques including <strong>Transformers, CNNs, RNNs to solve NLP tasks like Named Entity Recognition, Information Extraction, Named Entity Linking.</strong></li><li>Excellent ability to communicate technical information to non-technical audiences</li></ul><p><br></p><p><strong>Nice to have</strong></p><ul><li>Experience with medical ontologies <strong>(SNOMED CT, LOINC, RxNorm, etc.)</strong></li><li>Experience working with <strong>clinical data</strong></li><li>Experience in <strong>Kubernetes</strong> <strong>/ cloud-based micro-services</strong></li><li>Experience working with document images <strong>(OCR)</strong></li><li>Familiarity with <strong>Java</strong></li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T05:02:23.000Z"
+  },
+  "company": {
+    "name": "Stealth Startup",
+    "link": "https://www.linkedin.com/company/astealthmodestartup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

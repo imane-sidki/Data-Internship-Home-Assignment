@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (US)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Fortanix is a dynamic start-up solving some of the world\u2019s most demanding data protection challenges for companies and governments around the world. Our disruptive technology maintains data privacy across its entire lifecycle -- at rest, in motion, and in use across any enterprise IT infrastructure -- public cloud, on-premise, hybrid cloud, and SaaS. With key strategic partners like Intel and Equinix, Fortanix customers like PayPal, Google &amp; Addidas are reaping the benefits. Recognized by Gartner as a \u201cCool Vendor\u201d, Fortanix is revolutionizing cyber security.<br><br>Join the revolution!<br><br>You will <ul><li>Contribute to a friendly and helpful company culture</li><li>Design, implement, test, and maintain one or more of</li><ul><li>The backend of our cloud security platform, written in Rust, C</li><li>Our Runtime Encryption\u00ae software for SGX, written in Rust and C</li></ul><li>Help deploy, monitor, and tune the performance of our software</li><li>Participate in peer code review, which we believe results in a higher-quality product</li><li>Follow security best practices (don\u2019t worry, we\u2019ll tell you what they are)<br></li></ul><strong><u>Requirements<br><br></u></strong>You are someone who<br><ul><li>Exhibits uncompromising integrity</li><li>Pays attention to detail</li><li>Thinks critically about complex technical problems</li><li>Can work independently, while also being an effective member of a team<br></li></ul>You have<br><ul><li>2 to 5 years experience.</li><li>Experience in Rust, C/C++, Java, Python, or G.</li><li>Coursework and/or professional experience in computer architecture and operating systems</li><li>A bachelor\u2019s degree in Computer Science, Information Systems, or related field, or equivalent training or work experience</li><li>Security experience is a plus, but is not required<br></li></ul><u><strong>Benefits<br><br></strong></u><strong>Benefits<br></strong><ul><li>Free catered lunch every day</li><li>Unlimited PTO (it\u2019s between you and your work)</li><li>Friendly culture that brings the best out of everybody</li><li>Great working environment, we believe this in its truest form, \"Never Doubt that a small group of thoughtful committed technologists can change the world. Indeed, it is the only thing that ever has\" - Margaret Mead</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:41:11.000Z"
+  },
+  "company": {
+    "name": "Fortanix",
+    "link": "https://www.linkedin.com/company/fortanix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

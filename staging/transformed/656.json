@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>About Us<br><br></u></strong>LumApps teams across the world all share the same objective. We want to help teams in their quest to develop strong cultures and share knowledge across communities, the way we do every day.<br><br>LumApps helps organizations transform the way they communicate, collaborate, and engage with their customers, partners, and most importantly, their employees. Leading companies rely on our solutions, LumApps Social Collaborative Intranet and LumApps Employee Social Advocacy, to make their teams more productive. Our solutions contribute to smarter, more efficient, and better-connected workforces around the world. Because ultimately, our mission is to make people feel that they belong and have a purpose.<br><br><strong><u>About The Role<br><br></u></strong>LumApps is seeking to add a Migrations Engineer to our current team of 4. This individual will work predominantly with our customers as well as across multiple internal teams to develop, execute, test, and improve the process of data migration into LumApps. As the Migrations Engineer for LumApps you will provide your technical expertise and product knowledge to ensure successful project implementations and project migrations, working closely with customers and Professional Services teams as the SME of LumApps\u2019 APIs, LumApps\u2019 technical functionality and integrations, and LumApps\u2019 migration expert. This position will allow you to work side by side with our customers to define technical expectations and to address technical roadblocks.<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Work with LumApps\u2019 customers, internal stakeholders and partners to migrate data into LumApps using REST APIs (extract - transform - load)</li><li>Improve LumApps\u2019 data migration tools (Python code) to meet new business requirements from our customers</li><li>Responsible for maintaining and improving python code, collaborating occasionally with other developers</li><li>Responsible for the QA, execution and delivery of data migrations into LumApps</li><li>SME of the LumApps\u2019 APIs and LumApps\u2019 SDK </li><li>Help create and maintain new tools that will allow Customers to migrate data into LumApps from any source (export, CSV, XML, JSON, APIs)</li><li>As part of the Professional Services Org (PSO) you will have to occasionally meet with customers to gather migration requirements and/or to explain migration strategies to non-technical audiences<br></li></ul><strong><u>What We Are Looking For<br></u></strong><ul><li>2+ years of practical experience as a Migrations Engineer, or Software Developer.</li><li>2+ years of experience reading/debugging/writing/maintaining code (Python)</li><li>2+ years of experience with REST APIs; proficient in ETL processes </li><li>Experience with SQL Databases (Postgres)</li><li>Experience with Python libraries like html2text, beautifulsoup, pdfkit, redis, requests, httpx, xmltodict, pypandoc, or willingness to learn</li><li>Experience with Flask</li><li>Comfortable working with Google\u2019s set of collaboration tools (Workspace)</li><li>Ability to work in multiple projects, with different deliverables and deadlines</li><li>Ability to thrive in ambiguity and a fast paced environment<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Working experience with Angular, React.js, Vanilla JavaScript is a plus</li><li>Experience with Google Cloud Platform (GCP) is a plus</li><li>System administrator level knowledge of Linux is a plus<br></li></ul><strong><u>What We Offer<br></u></strong><ul><li>A program designed with your success in mind. We're looking for intelligent, hard-working, and ethical individuals that will appreciate a well-coached path to a rewarding career</li><li>100% employer-paid benefits for employees, starting day one</li><li>Awesome coworkers and culture</li><li>401(k) with employer match</li><li>So much more!<br></li></ul><strong>If our core values of: \u201cBe bold, do amazing things\u201d, \u201cSay what you mean, Do what you say\u201d, \u201cOne team, Same mission\u201d, and \u201cAlways be evolving,\u201d speak to you, apply to join our team today!</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:44:51.000Z"
+  },
+  "company": {
+    "name": "LumApps",
+    "link": "https://fr.linkedin.com/company/lumapps"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "6+ years experience<br>Must have experience with AWS and Python",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T18:29:46.000Z"
+  },
+  "company": {
+    "name": "Enterprise Solutions Inc.",
+    "link": "https://www.linkedin.com/company/enterprise-solution-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

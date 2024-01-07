@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Below is the Job Details:  <br>Title:  Data Scientist, Associate<br>Location: Thousand Oaks, CA (Remote \u2013 Need to visit site whenever needed)<br>Contract:  13+ months (with possible extension)<br><br>Comments:<br>\u2022\tFlexible commuter, local candidates are highly preferred in case they need to go onsite.<br>\u2022\tSome Pharma/Healthcare industry experience is a huge plus.<br>\u2022\tMust have Databricks and Smartsheet.<br>Description:<br>\u2022\tThis ideal candidate will be responsible for providing support to advance artificial intelligence and data analytics efforts by building machine learning models and supporting their implementation and deployment through collaborations with stakeholders.<br>Responsibilities include:<br>\u2022\tBuild machine learning models through integration of multiple data sources<br>\u2022\tLeverage large datasets to conduct end-to end analytics that include data gathering and requirements specifications, processing, analytics, and presentations<br>\u2022\tInteract cross-functionally with a wide variety of people and teams.<br>\u2022\tWork closely with subject matter experts to deliver value by developing novel, practical, scientific data-driven solutions to meet business needs<br>Basic Qualifications:<br>\u2022\tBachelor\u2019s degree (mathematics, computer science, engineering, or other quantitative discipline)<br>Preferred Qualifications:<br>\u2022\tKnowledge of comprehensive set of data analytics and modeling methods, such as unsupervised (i.e. PCA, K-Means), supervised (i.e. PLS, tree-based algorithms and deep learning) approaches, and in their application to biotechnology processes<br>\u2022\tFamiliarity working with large data sets, data mining and machine learning tools<br>\u2022\tFamiliarity with various artificial intelligence applications<br>\u2022\tProficiency in Python and SQL Programming Languages<br>\u2022\tStrong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy<br>\u2022\tIndependent, self-motivated, organized, able to multi-task in project environments, and skilled in communication, facilitation, and collaboration.<br>\u2022\tTeam player, prepared to work in and embrace a team-based culture that relies on collaboration for effective decision-making<br>\u2022\tFamiliarity with DevOps and good software practices (i.e. version control, continuous integration, test driven development)",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T21:09:56.000Z"
+  },
+  "company": {
+    "name": "SSi People",
+    "link": "https://www.linkedin.com/company/ssipeople"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Thousand Oaks",
+    "region": "CA",
+    "postal_code": "91358",
+    "street_address": null,
+    "latitude": 34.176083,
+    "longitude": -118.84874
+  }
+}

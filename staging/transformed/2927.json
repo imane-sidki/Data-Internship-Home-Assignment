@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Python)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong>Software Engineer - Python<br><br></strong><strong><u>Who We Are<br><br></u></strong>Fivestars is America\u2019s largest local commerce network, driving over $3 billion of sales and 100 million transactions annually. Our mission is to help businesses and communities thrive by turning every transaction into a relationship. We offer an all-in-one payments, loyalty and marketing automation platform that brings more customers to local businesses. Founded in 2011, Fivestars is backed by Lightspeed, DCM, Menlo Ventures, HarbourVest, and others. Together, let\u2019s #LoveLocal.<br><br>For more information visit: www.fivestars.com .<br><br>As part of the Engineering team at Fivestars, our mission is to deliver applications which impact and improve the day to day lives of small business owners and consumers using our products across our network. In this role you\u2019ll plan, design, and implement new features in our merchant and consumer applications, impacting both our in-store and out-of-store experiences.<br><br><strong><u>Who You Are<br><br></u></strong>You\u2019re a willing and passionate Software Engineer with 3+ years experience turning code into product. You demonstrate a high level of curiosity and keep up with the latest technologies. You have developed and maintained multiple full stack web applications throughout the entirety of their lifecycle. You want to tackle tough technical challenges and have a desire to impact local businesses and communities.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li> Own, design and code product initiatives from start to finish for our complex payment products </li><li> Maintain a high level of quality in our code bases through well-written automated tests, good architecture and code review practices </li><li> Work collaboratively with designers, PMs, QA, Analytics and Support to ensure our products' quality. </li><li> Always be shipping software <br></li></ul><strong><u>What We\u2019re Looking For<br></u></strong><ul><li> B.S. in Computer Science or equivalent work experience </li><li> Experience working with Python and building API\u2019s </li><li> Strong team player - We work in small product teams that work very closely together and are constantly collaborating in order to move as fast as possible </li><li> Commitment to testing, code reviews, updating dependencies and general best practices. <br></li></ul>Fivestars provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Fivestars complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.<br><br>Salary negotiable. We do adjust for cost-of-living by location.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T20:59:21.000Z"
+  },
+  "company": {
+    "name": "Fivestars",
+    "link": "https://www.linkedin.com/company/fivestars"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91800,
+    "max_value": 199800,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

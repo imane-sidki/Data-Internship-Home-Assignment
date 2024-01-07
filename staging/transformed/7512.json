@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Data Scientist, Apple Media Products - Experimentation",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Do you want to make impact on how decisions are made by Engineering teams? If you love statistics, data, analysis and influencing teams on how to run experiments then look no further. This team in the Apple Media Products group provides insights through data that drive decision-making for our engineering and product teams. We are looking for a Data Scientist that can derive valuable insights and help us build automated reporting tools from the data we collect on AppStore, Apple Music, Movies &amp; TV, etc. This role will be working daily with researchers and engineers on the Search and Recommendations teams as they develop better algorithms and improve their models. This in turn improves the customer experience for Apple\u2019s products. You will be helping to drive innovation and improve our product decision making process while developing new experimentation methodologies, statistical techniques, and causal-inference approaches.<br><br> <br><strong>Key Qualifications<br></strong> <br>Three or more years relevant industry experience preferred.<br><br>Extensive knowledge in statistical methods and data mining.<br><br>Excellent application skills in experimentation methodologies and causal inferences.<br><br>Experience with common data science toolkits, such as R/Python and libraries like pandas, dplyr and GGplot.<br><br>Proficiency in using query languages such as SQL and Hive.<br><br>Experience with Big Data systems and distributed computing, such as Hadoop and Spark.<br><br>Excellent interpersonal skills with the ability to explain findings in layperson terms and influence decision makers.<br><br>Attention to data detail with regards to quality, transformation and potential impact.<br><br> <br><strong>Description<br></strong> <br>You will design, execute and craft tools for online experiments (A/B tests) and offline experiments (human relevance judgment) that help us improve and fine tune our data focused features (Search, Recommendations, etc.). Your primary focus will be on applying statistical methods, developing A/B testing procedures, and automating data pipelines to develop new metrics. In this role you will: Work with engineering teams to improve data collection procedures. Process, clean, and verify the integrity of data. Investigate new sources that can extend and improve our insights. Design experiments that will measure and test for key performance indicators. Model and analyze data using state-of-the-art methods. Generate reports (that can be automated) to present key insights to partners across a variety of teams. Drive end-to-end data applications to address business needs.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Master\u2019s Degree in Computer Science, Statistics, Applied Math or related discipline. PhD preferred.<br><br> <br>Role Number: 200280593<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:11:11.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

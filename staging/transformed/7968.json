@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. You bring passion and dedication to your job and there's no telling what you could accomplish.   <br><br><br>We provide the machine learning infrastructure, data products, and algorithms supporting some of Apple's newest and fastest growing services. Going beyond accuracy we are driven to develop fair, explainable algorithms that preserve user privacy. Machine Learning solutions at Apple require rigorous data engineering; we always launch at scale.<br><br> <br><strong>Key Qualifications<br></strong> <br>3+ years proficient experience programming in an enterprise language (C/C++, Java, Go, etc)<br><br>3+ years experience in another language suited to machine learning (R, Python, Scala, etc)<br><br>3+ years experience with big data environments and tools (Hadoop, Spark, Jupyter Notebook, etc)<br><br>2+ years experience crafting and implementing data product pipelines at scale<br><br>2+ years experience with a variety of machine learning / deep learning libraries (TensorFlow, Scikit-learn, etc), and data visualization libraries (MatPlotLib, D3.js, etc)<br><br>Working knowledge of governance/security concepts and technologies including (encryption, anonymization, PCI, PII, HIPAA, etc)<br><br> <br><strong>Description<br></strong> <br>We are looking for candidates with broad experience from system integration, developing data pipelines, and data governance through to model training, deployment, and monitoring in production. We are especially interested in proven ability to solve problems, continuous learning, and digging deep into the domain when necessary. We want to collaborate with team members that have a balance of theory and practice.  <br><br><br>Job duties include the following:  <br><br><br>Multi-functional collaboration during data discovery, review of data specifications and identification of data with potential to improve machine learning services   <br><br>Scoping, design, and implementation of reliable system integrations for data acquisition   <br><br>Data cleaning, feature development, and data product governance   <br><br>Full lifecycle analytic model ownership including model selection, training, evaluation, deployment and maintenance<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science or related technical field, equivalent work experience will be considered<br><br> <br>Role Number: 200289743<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T05:11:43.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97500,
+    "max_value": 171000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

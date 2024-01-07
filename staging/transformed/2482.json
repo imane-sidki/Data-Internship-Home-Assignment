@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, we work every day to create products that enrich people\u2019s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Today, our technology and services power advertising in Search Ads in the App Store and Apple News. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. <br><br><br>We are looking for an ambitious individual who can thrive in an agile environment. You will develop distributed systems and apply cutting edge algorithms and ML models to improve relevance across a range of advertising applications. The position involves building large scale data infrastructure as well as the capability to analyze big data. Detecting meaningful data patterns; assuring the integrity and breadth of the data; measuring user, campaign and app performance; and finally analyzing the results of extremely large-scale experiments. In addition, the successful candidate will apply advanced ML techniques for federated learning where privacy mechanisms are safeguarded at the very onset and delightful relevance experiences are built by applying encryption techniques, on-device segmentation, advanced language models, ranking algorithms by utilizing the best of aggregated server and on-device data.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience in Algorithms, Architecture, Artificial Intelligence, Data Mining, Distributed Systems, Machine Learning, Networking, Statistics or Systems Software implementation of new algorithms<br><br>Proficiency with databases, SQL, and scripting languages<br><br>Practical understanding of the mathematics behind modern machine learning, linear algebra and statistics<br><br>Ability to take requirements from design through to implementation, both independently and with larger teams<br><br>Closely working with operational teams on deployment, monitoring, management concerns<br><br>Experience in distributed machine learning architectures or federated learning<br><br> <br><strong>Description<br></strong> <br>You will have the opportunity to work on a platform with extreme scale requirements. You should have experience developing and implementing relevant personalization algorithms, revenue optimization solutions and network data processes within a content + audience network. You have excellent understanding of scalable architectures including operational concerns. <br><br><br>You will join and contribute to a culture that emphasizes observability and understandability, reliability, resiliency, simplicity, reusability, extensibility, scalability, velocity and productivity. We are one team, nurturing each other\u2019s growth and supporting each other in delivering for our customers and Apple.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in Computer Science, Distributed Systems, Software Engineering, or related field; and experience designing, building, maintaining, and extending web-scale production systems, with exposure to AB testing and machine learning methodologies.<br><br> <br>Role Number: 200258269<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T07:45:42.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

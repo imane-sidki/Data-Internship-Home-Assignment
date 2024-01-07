@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Internet,Information Technology and Services",
+    "description": "<p><strong>NOTE</strong>: This role is remote and can be based anywhere in Americas or similar timezones. </p><p><br></p><p><strong>About Us</strong> </p><p>LeadIQ is a remote-first, Series A funded B2B SaaS startup with offices in SF Bay Area and Singapore. Founded on world-class culture to enable sales intelligence, productivity, and insights with cutting edge technologies and innovation.</p><p><br></p><p>We are backed by Draper Associates, Jason Calacanis, Fresco Capital, and Eight Roads and some of our amazing customers are MuleSoft, AppDyanmics, WalkMe, Gainsight, and many more. </p><p><br></p><p><strong>Role</strong></p><p>Site Reliability Engineers (SREs) at LeadIQ are responsible for working with different developer teams to keep our systems running smoothly. They are a blend of pragmatic operators and software craftspeople that apply excellent problem-solving and communication skills to develop or configure tools that will automate, monitor, and alert the reliability of LeadIQ Systems. </p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Be on-call rotation to respond to LeadIQ availability incidents and support developers with customer incidents.</li><li>Use your on-call shift to prevent incidents from happening. Step-in either actively or in support of the engineers when they do.</li><li>Run our infrastructure with AWS, Terraform, and Kubernetes (EKS).</li><li>Think about systems - edge cases, failure modes, behaviors, specific implementations.</li><li>Make monitoring and alert on symptoms and not on outages.</li><li>Document every action, so your findings turn into repeatable actions\u2013and then into automation.</li><li>Improve the deployment process to make it as boring as possible.</li><li>Design, build and maintain core infrastructure pieces that allow LeadIQ scaling to support hundreds of thousands of concurrent users.</li><li>Debug production issues across services and levels of the stack.</li><li>Plan the growth of LeadIQ infrastructure.</li><li>Support the definition and building of SLI and SLO for engineering teams</li></ul><p> </p><p><strong>Must have</strong></p><ul><li>4+ years working with Terraform and AWS</li><li>2+ years working with Gitlab as CI tool, Datadog as Alerting tool and Kubernetes</li><li>Know your way around Linux and the Unix Shell.</li><li>Programming skills on NodeJS and/or Go</li><li>Have experience with Nginx, Docker, Kubernetes, Terraform, Terragrunt, AWS, Gitlab, Helm, ArgoCD, Datadog, or similar technologies</li><li>Good communication &amp; interpersonal skills with an enthusiastic, go-for-it attitude. When you see something broken, you can't help but fix it.</li></ul><p> </p><p><strong>Nice to have</strong></p><ul><li><em>AWS certifications</em></li><li>Terraform Certifications</li><li>Kubernetes Certifications</li></ul><p><br></p><p><br></p><p> <em>LeadIQ is an equal opportunity employer and makes employment decisions on the basis of merit. We are committed to building a diverse and inclusive workplace. We do not discriminate on the basis of race, religion, national origin, gender, gender identity, sexual orientation, disability, age, education status, or any other legally protected status</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T11:51:30.000Z"
+  },
+  "company": {
+    "name": "LeadIQ",
+    "link": "https://www.linkedin.com/company/leadiq-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

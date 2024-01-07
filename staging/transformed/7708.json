@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Software Engineer",
+    "industry": "Computer Software",
+    "description": "<p>Vaco is working with a leading Managed IT Services client based in Greater Hartford Area. The Software Engineer position is responsible for maintaining, enhancing, and growing out their web sites. Candidate will work on everything from front-end HTML, CSS, and JavaScript to the server-side code and database. We are looking for people who want to work with the latest technologies on customer facing web sites. This role is currently remote, however will be onsite pending the COVID Pandemic.<br><br></p><p><strong>Job Requirements:<br></strong>*Bachelor's degree in Computer Science, Software Engineering, or a related degree concentration &amp; 2+ years of proven experience developing desktop and web-based applications<br>*Proficient in modern HTML, CSS, JavaScript, PHP, and SQL<br>*Proficient with various web browsers (Chrome, Firefox, Edge, Safari)<br>*Strong written and verbal communication skills<br>*Self-motivating and self-learning<br><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T21:19:01.000Z"
+  },
+  "company": {
+    "name": "Vaco",
+    "link": "https://www.linkedin.com/company/vaco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hartford",
+    "region": "CT",
+    "postal_code": "06156",
+    "street_address": null,
+    "latitude": 41.765774,
+    "longitude": -72.673355
+  }
+}

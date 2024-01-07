@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Industrial Automation",
+    "description": "<p>*Multiple roles available at the junior, intermediate, and senior levels in Toronto and San Francisco.</p><p><br></p><p>At Kindred, we are on a mission to build human-like intelligence in machines.</p><p><br></p><p>Since 2014, we've been paving the way for a world filled with more powerful and helpful AI systems.We bring together reinforcement learning, machine learning, and remote human guidance to create intelligent robots that solve real-world problems alongside humans in complex, changing environments like today's supply chain.</p><p><br></p><p>As a Software Developer, you will work within an agile Engineering Team, that works with rapid iterations and continuous improvement, to create the most intelligent robotics system for our customers. You\u2019ll collaborate cross-functionally with roboticists, software and machine learning developers, researchers, product managers, and mechanical engineers, to design, build, and support software features, across multiple codebases, for robot control, motion planning, perception, sensor fusion, human-robot interaction, and device drivers.With a focus on product performance, safety, usability, scalability and maintainability, you\u2019ll test these features in our lab, cut releases for QA, and deploy, experiment, monitor and optimize them on Kindred\u2019s fleet of robots in production.In this role, you will be part of an on-call rotation in order to service our customers across North America.</p><p><br></p><p>In this role, you will be part of an on-call rotation which will be outlined during the interview process.</p><p><br></p><p>We are currently hiring software developers of all levels for both our San Francisco and Toronto locations.</p><p><strong>Every day will bring new and exciting challenges on the job while you:</strong></p><ul><li>Design and develop software against functional and system requirements</li><li>Work closely with a cross-functional team to understand and clarify requirements</li><li>Ensure architectural integrity and product quality across team efforts</li><li>Design, code, test, debug, and document software components</li><li>Assist troubleshooting problems in development and production environments</li><li>Mentor, grow, and motivate junior team members, interns, and peers</li></ul><p><br></p><p><strong>What you bring:</strong></p><ul><li>Expertise in designing, developing and operating complex software solutions, both greenfield and evolving</li><li>Significant development experience in modern C++, Python, on Linux</li><li>Reliable production of quality software within time and resource constraints</li><li>Complete familiarity with modern software development processes such as design documentation, code reviews, CI/CD, testing, project management workflow, and source control conventions</li><li>Excellent analytical, problem solving, communication and organization skills</li><li>Dedication to meeting project deadlines and an ability to propose well-reasoned options under pressure</li><li>Excellent understanding of the organization\u2019s goals and objectives</li><li>Bachelor's degree in computer science, computer engineering or equivalent</li><li>Depending on level, you will have 2- 6+ years of varied and progressive professional experience</li></ul><p><br></p><p><strong>Bonus qualifications:</strong></p><ul><li>Proficiency in Go</li><li>Specific expertise in any of: control systems, real-time systems, distributed systems, machine vision, machine learning, robotic manipulation, material handling, industrial automation, physical or discrete event simulation, applied statistics and design of experiments, data visualization</li><li>Any mechanical, electrical or mechatronic design, assembly, and hardware-in-the-loop testing experience</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T16:58:09.000Z"
+  },
+  "company": {
+    "name": "Kindred",
+    "link": "https://www.linkedin.com/company/kindred.ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

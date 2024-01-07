@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer & Network Security",
+    "description": "<p><strong>Data Scientist</strong></p><p>Our client is looking for a Data Scientist to collaborate with our team on current projects and contribute to the architecture, design, and development of their AIML powered Passwordless Continuous Authentication. Your primary focus will be on applying data mining techniques, doing statistical analysis, and building high-quality prediction systems integrated with our products.?</p><p>This position may require participation in customer meetings to discuss the software requirements, and present solution architectures and designs to our customers. Therefore, strong verbal and written communication skills, as well as good presentation skills, are required for this position.</p><p><br></p><p><strong>Responsibilities Include:</strong></p><p>Calculate and automate scoring using machine learning techniques.</p><p>Build recommendation systems.</p><p>Improve and extend the features used by the existing data classifier.</p><p>Develop and test AIML algorithms.</p><p>Build a system for automated fraud detection.</p><p>Selecting features, building and optimizing classifiers using machine learning techniques.</p><p>Data mining using state-of-the-art methods.</p><p>Extending the company\u2019s data with third party sources of information when needed.</p><p>Enhancing data collection procedures to include information that is relevant for building analytic systems.</p><p>Processing, cleansing, and verifying the integrity of data used for analysis.</p><p>Doing ad-hoc analysis and presenting results in a clear manner.</p><p>Creating automated anomaly detection systems and constant tracking of its performance</p><p><br></p><p><strong>Skills &amp; Experience We\u2019re Looking For:</strong></p><p>2+ years of hands-on experience in data science, data analytics, or a related quantitative field.</p><p>MS degree in a quantitative discipline (applied mathematics, statistics, computer science, operations research, or related fields).</p><p>Strong knowledge of Python programming language (extensive experience working with Numpy and Pandas and additional experience in one or more of scikit-learn, PyTorch, or Tensorflow) and ability to write neat and well-documented code.</p><p>Proficiency in using query languages such as SQL.</p><p>Solid knowledge of machine learning techniques (Clustering, Neural Networks, decision trees, Naive Bayes, SVM, etc) and their advantages/drawbacks.</p><p>Strong mathematical skills and working knowledge of applied statistics (regression, distributions, statistical tests, time series, etc.) and their applications.</p><p>Comfortable working with git version controlling and command-line interface.</p><p>Excellent verbal and written communication skills.</p><p><br></p><p><strong>Nice to have:</strong></p><p>Knowledge of semi-supervised learning methods.</p><p>Knowledge of operations research.</p><p>Software development experience in Python.</p><p>Strong knowledge of cybersecurity.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:33:53.000Z"
+  },
+  "company": {
+    "name": "VanderHouwen",
+    "link": "https://www.linkedin.com/company/vanderhouwen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "Oregon Metropolitan Area",
+    "postal_code": "97215",
+    "street_address": null,
+    "latitude": 45.553497,
+    "longitude": -122.90853
+  }
+}

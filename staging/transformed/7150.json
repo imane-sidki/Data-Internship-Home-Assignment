@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Backend Software Engineer (100% remote; Relo to San Francisco post-Covid)",
+    "industry": "Marketing and Advertising,Computer Software,Financial Services",
+    "description": "Founded in 2008, our Customer represents a global travel community that offers magical end-to-end trips, including where you stay, what you do, and the people you meet. They exist to create a world where anyone can belong anywhere, providing healthy travel that is local, authentic, diverse, inclusive, and sustainable. Their website and app uniquely leverage technology to economically empower millions of people around the world to unlock and monetize their spaces, passions, and talents to become hospitality entrepreneurs.<br><br>We are looking for a <strong>Sr. Backend Software Engineer</strong> on a <strong><em>contract basis</em></strong>. This role will build critical functionality that saves us about (USD)X million annually and improves SMS reliability. In addition, this role will also help us improve our vendor operations work, like changing SMS shortcodes for certain countries, updating APIs based on vendor updates.<br><ul><li> This role will be remote while COVID restrictions are in place. The expectation is to be onsite at our Customer\u2019s San Francisco, CA office once it is determined to do so.<br></li></ul><strong><u>What You'll Do<br></u></strong><ul><li>Gather clear requirements from stakeholders upstream (engineering, product, data) and downstream (vendor providers)</li><li>Own technical design for projects while working with the relevant engineering, product, and data stakeholders.</li><li>Ability to scope multi-task projects and give reasonable timeline estimations</li><li>Demonstrate productivity as expected by Tech Lead, Managers.</li><li>Ability to communicate blockers/need for help proactively, and able to unblock themselves.<br></li></ul><strong><u>Must-Haves<br></u></strong><ul><li>5+ years of experience in the backend, distributed systems</li><li>Be able to understand and build and scale high throughput / high availability systems</li><li>Proactively monitor system health, and improve the system and integrations with the existing vendors.</li><li>Proficient with AWS technologies like SQS, Kafka, SNS, etc, and MySQL.</li><li>Proficient in Java / Kotlin, Ruby (preferred).</li><li>Experience with third-party vendors that use REST.</li><li>Bonus: Experience with SMS Notifications.</li><li>Experience with API.</li><li>Experience with Distributed Systems.</li><li>Experience with Technical Design.</li><li>Experience with JAVA.</li><li>Experience with Apache Kafka.<br></li></ul><strong><u>Education<br><br></u></strong>Bachelors Degree.<br><br><strong>Hours &amp; Location: <br><br></strong>Standard M-F, 40 hours/week. This role will be remote while COVID restrictions are in place. The expectation is to be onsite at our Customer\u2019s San Francisco, CA office once it is determined to do so.<br><br><strong>Perks are available through our 3rd Party Employer of Record<br><br></strong>Health Benefits: Medical, Dental, Vision, 401k, FSA, Commuter Benefit Program",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:17:51.000Z"
+  },
+  "company": {
+    "name": "The Mom Project",
+    "link": "https://www.linkedin.com/company/the-mom-project"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

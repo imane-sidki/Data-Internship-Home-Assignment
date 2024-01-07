@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Internet,Online Media",
+    "description": "<p><strong><em><u>******NO C2C/3RD PARTY, LOOKING FOR W2 CANDIDATES ONLY, must be able to work in the US without sponsorship now or in the future***</u></em></strong></p><p><br></p><p><strong>Job Title: Software Engineer</strong></p><p><strong>Location: Burlingame, CA (Remote)</strong></p><p><strong>Duration: 6-12 Months</strong></p><p><br></p><p><strong>Summary:</strong></p><p>Looking for software engineers to contribute towards adopting our libraries, build systems, and dependencies on a new (non-posix) operating system. Software engineers will work alongside our computer vision staff, using multiple repositories to fix build systems and dependencies to bring up a Computer Vision stack (SLAM).</p><p><br></p><p><strong>Job Responsibilities:</strong></p><p>\u2022 Integrate computer vision libraries to a new OS and identify and fix missing dependencies.</p><p>\u2022 Back propagate all changes in libraries to the main repository.</p><p>\u2022 Regularly report job progress to team management.</p><p><br></p><p><strong>Skills:</strong></p><p>\u2022 Expertise in C++</p><p>\u2022 Design of portable libraries for Linux and Android.</p><p>\u2022 Strong knowledge of build systems. </p><p>\u2022 Knowledge of version control. </p><p>\u2022 Experience configuring, building, and testing libraries for Linux and Android.</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-19T15:50:18.000Z"
+  },
+  "company": {
+    "name": "Creospan Inc.",
+    "link": "https://www.linkedin.com/company/creospan"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlingame",
+    "region": "CA",
+    "postal_code": "94012",
+    "street_address": null,
+    "latitude": 37.584194,
+    "longitude": -122.366264
+  }
+}

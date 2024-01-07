@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Our Company<br><br></u></strong>Changing the world through digital experiences is what Adobe\u2019s all about. We give everyone\u2014from emerging artists to global brands\u2014everything they need to design and deliver exceptional digital experiences! We\u2019re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.<br><br>We\u2019re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!<br><br><strong><u>Job Description<br><br></u></strong><strong>Position Summary:<br><br></strong>The Adobe Analytics platform processes billions of transactions daily in our public and private cloud data centers across the globe. The Adobe Analytics team is seeking a dedicated and hardworking Site Reliability Engineer (SRE) with top-notch technical, design, and development skills to join our Analytics Site Reliability Engineering team in Lehi, Utah. In this role, you will collaborate closely with engineers and Ops building and deploying the next generation of highly reliable, high-performance, scalable solutions. You will have the opportunity to build and deploy solutions handling Big Data for enterprise customers worldwide.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Engage with product and engineering team to craft, build and maintain the system / software for high availability and resiliency.</li><li>Write software layers, scripts, deployment frameworks, tracers, monitors, self-healing/auto remediation tools to automate the processes.</li><li>Ensures smooth operations by designing scalability and failure resistance into automation and monitoring of services.</li><li>Build and maintain software modules for use and reuse in cloud systems automation.</li><li>Solve and root-cause analysis of issues from physical to presentation layers.</li><li>Participate in shared on-call rotation.</li><li>Estimate schedules, breaking tasks down to reasonable 1-3 day tasks.<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Computer Science BS or equivalent subject area, with at least 3 years\u2019 experience (or equivalent experience)</li><li>Programming experience with one or more relevant languages: C++, Java, Python, Scala, etc.</li><li>Experience with automation/configuration management using either Puppet, Salt or an equivalent.</li><li>Proficient in multi-threaded design and implementation.</li><li>Solving problems and system engineering exposure in UNIX/Linux production environments.</li><li>Developing, running, and/or consuming cloud technologies such as AWS, Azure, Docker/Kubernetes, etc.</li><li>Experience with existing open source projects such as Mesos, Hadoop, Spark, Zookeeper, Kafka, Cassandra, Docker.</li><li>Ability to quickly learn and apply sophisticated subjects and technologies.</li><li>Experience desired with Big Data, streaming technologies, SaaS based environments, Web Analytics</li><li>Must be detail-oriented and demonstrate initiative and high self-motivation. Hardworking, creative and positive attitude.</li><li>Excellent verbal and written communication skills. Highly collaborative working style.<br></li></ul>At Adobe, you will be immersed in an exceptional work environment that is recognized throughout the world on Best Companies lists (http://www.adobe.com/careers/awards.html). You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In (http://www.youtube.com/watch?v=hmL6uQZhYhw&amp;list=UUlDSu3-Y4-BfI08784K-P4g&amp;feature=share&amp;index=1) approach where ongoing feedback flows freely.<br><br>If you\u2019re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog (http://blogs.adobe.com/adobelife/) and explore the meaningful benefits (http://benefits.adobe.com/) we offer.<br><br>Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, religion, age, sexual orientation, gender identity, disability or veteran status.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T22:30:46.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75200,
+    "max_value": 109000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

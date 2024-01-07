@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer - 100% Remote",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Headquartered in Seattle, WA, we are a venture-backed startup that has created a new category of voice tech infrastructure. Our conversational intelligence API unlocks proprietary machine learning algorithms that integrate with a brand's communication systems to identify &amp; highlight priorities, actions, and insights born from conversational workforce collaboration in real-time. Backed by Amazon, Techstars, and the same folks behind SendGrid, Microsoft Speech, &amp; FlowRoute, Bixby. In addition, we count Twilio, Google Cloud &amp; Nvidia as our technical partners. We operate at the forefront of ML/NLP!!<br><br>We are actively seeking a Principal SRE to empower our entire R&amp;D organization. Alongside a diverse distributed Infrastructure group, you'll participate in building the next iteration of our service platform; focusing on the reliability, operability, observability, flexibility, and cost-effectiveness of our production infrastructure.<br><br>What You Will Be Doing<br><ul><li> Build, maintain, automate, and introspect production systems</li><li> Mentor teams to reliably and cost-effectively operate and maintain services</li><li> Build the next version of our platform (focused on deployment and observability) to support teams in deploying hundreds of services across a multi-region cloud environment</li><li> Take proactive steps to improve our availability, reliability, and efficiency</li><li> Participate in driving us as a market leader in the conversation intelligence ecosystem</li><li> Participate in an on-call rotation to support our business-critical infrastructure<br></li></ul>What You Need for this Position<br><ul><li>5+ years of production-level experience</li><li>Large-scale, distributed systems</li><li>Cloud Computing (we use GCP)</li><li>Go, Python, NodeJS, Bash, or similar</li><li>Understanding of Linux systems administration and programming<br></li></ul>(+) Kubernetes, EKS, ECS<br><br>(+) Kafka or related<br><br>(+) Linux kernel internals and networking protocols<br><br>(+) Datadog or NewRelic<br><br>So if you are an SRE with experience, please apply today and email caroline.veillon@Optello.com!<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Caroline.Veillon@Optello.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : CV5-1643250 -- in the email subject line for your application to be considered.***<br></li></ul>Caroline Veillon - Lead Recruiter - Optello<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>Optello is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Optello will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T13:23:40.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

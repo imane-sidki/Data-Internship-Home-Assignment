@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Food & Beverages",
+    "description": "<p>PepsiCo is a global food and beverage leader with a product portfolio including 22 brands that generate more than $1 billion each in annual retail sales. Our main businesses \u2013 Quaker, Tropicana, Gatorade, Frito-Lay and Pepsi-Cola \u2013 make hundreds of enjoyable foods and beverages that are loved throughout the world.</p><p><br></p><p>At PepsiCo, you get the best of both worlds: an entrepreneur\u2019s mindset plus reach and resources. Our collaborative culture and worldwide presence generate a stream of new opportunities to define the future and propel your life\u2019s work. Bring your unique perspective. Bring curiosity. Bring ingenuity, and drive. We\u2019ll give you a platform to be daring on a global scale.</p><p><br></p><p>About Data &amp; Analytics:</p><p><br></p><p>With data deeply embedded in our DNA, PepsiCo Data &amp; Analytics transforms data into consumer delight. We build and organize business-ready data that allows PepsiCo\u2019s leaders to solve their problems with the highest degree of confidence. Our platform of data products and services ensures data is activated at scale. This enables new revenue streams, deeper partner relationships, new consumer experiences, and innovation across the enterprise.</p><p><br></p><p>Job Description:</p><p><br></p><p>Your role will be to be part of a growing team called \u201cDigital Hub\u201d, based in Plano, to create and support global digital developments for PepsiCo. These developments will be around topics like revenue management, supply chain, manufacturing, logistics.</p><p><br></p><p>You will be part of a collaborative interdisciplinary team around data, where you will be responsible of our continuous delivery of statistical/ML models. You will work closely with process owners, product owners and final business users. This will provide you with the correct visibility and understanding of the criticality of your developments.</p><p><br></p><p>You will be an internal ambassador of the team\u2019s culture around data and analytics. You will provide stewardship to colleagues in the areas that you are a specialist or you are specializing.</p><p><br></p><p>This Role Will Support The Following Activities:</p><ul><li>Partner with data scientist working on discovery, prototypes and pilot. Focus on experiment tracking.</li><li>Partner with data engineers regarding data pipelines and data versioning.</li><li>Coordinate work activities with IT services and as required.</li><li>Drive the use of the Platform toolset.</li><li>Build, deploy or publish machine learning models that run efficiently in cloud pipelines.</li><li>Help drive optimization, testing, and tooling to improve quality (unit tests).</li><li>Monitor model performance, working with data scientists assessing bias and fairness.</li><li>Prototype new approaches and build solutions at scale.</li><li>Support large-scale experimentation was done by data scientists.</li><li>Influence product teams through data-based recommendations.</li><li>Research in state-of-the-art methodologies.</li><li>Create documentation for learnings and knowledge transfer.</li><li>Create and audit reusable packages or libraries.</li></ul><p><br></p><p>Qualifications/Requirements</p><p><br></p><ul><li>2+ years working in a team to deliver production-level analytic solutions.</li><li>3+ years experience in ETL and/or data wrangling techniques.</li><li>3+ years experience in Statistical/ML techniques to solve supervised (regression, classification) and unsupervised problems. Experiences with Deep Learning are a plus.</li><li>3+ years experience in developing business problem related statistical/ML modeling with industry tools with a primary focus on Python or Scala development.</li><li>Strong communications and organizational skills with the ability to deal with ambiguity while juggling multiple priorities</li><li>Experience with Agile methodology for teamwork and analytics \u2018product\u2019 creation. Fluent in Jira, Confluence.</li><li>Fluent with Azure cloud services. Certification is a plus.</li><li>Fluent in git (version control)</li><li>Fluent in Docker</li><li>Fluent in Jenkins</li><li>Fluent with design and management of APIs.</li><li>Experience with K8s is a plus.</li><li>Experience with working with FAIR data is a plus.</li><li>Experience with Responsible AI is a plus.</li><li>Experience with distributed systems is a plus.</li><li>Experience with Databricks and Mlflow is a plus</li><li>Experience with ELK is a plus.</li><li>Experience with ML security is a plus.</li></ul><p><br></p><p>Relocation Eligible:Not Eligible for Relocation</p><p><br></p><p>Job Type:Regular</p><p><br></p><p>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.</p><p><br></p><p>PepsiCo is an Equal Opportunity Employer: Female / Minority / Disability / Protected Veteran / Sexual Orientation / Gender Identity</p><p><br></p><p>Our Company will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Fair Credit Reporting Act, and all other applicable laws, including but not limited to, San Francisco Police Code Sections 4901 - 4919, commonly referred to as the San Francisco Fair Chance Ordinance; and Chapter XVII, Article 9 of the Los Angeles Municipal Code, commonly referred to as the Fair Chance Initiative for Hiring Ordinance.</p><p><br></p><ul><li>If you'd like more information about your EEO rights as an applicant under the law, please download the availableEEO is the Law&amp;EEO is the Law Supplementdocuments. ViewPepsiCo EEO Policy</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-01T14:41:16.000Z"
+  },
+  "company": {
+    "name": "PepsiCo",
+    "link": "https://www.linkedin.com/company/pepsico"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

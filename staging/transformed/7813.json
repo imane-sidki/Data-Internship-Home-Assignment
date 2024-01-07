@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "We are now looking for a Data Scientist to join the NVIDIA Solution Architecture team focused on Artificial Intelligence, including Deep Learning, Machine Learning, and Accelerated Analytics. If these areas are exciting to you, we should talk. NVIDIA is the world leader in GPU accelerated computing and is looking for Solution Architects to design, build, and deploy AI solutions with our partners. As a Data Scientist on the Solution Architecture team, you will work closely with partners in our North American region to seek challenging problems in the industry and deploy AI solutions at scale by collaborating with partner engineering teams and building a successful NVIDIA practice.<br><br><strong><u>What You'll Be Doing<br></u></strong><ul><li>A considerable part of the day-to-day job is staying up on state of the art in the production Deep Learning and Machine Learning ecosystem. You'll be called on to help architect and scale high-performance, distributed AI deployments that are built on the latest NVIDIA GPU supercomputers.</li><li>Document what you know, and teach others. This can vary from building targeted training for partners and other Solutions Architects to writing whitepapers, blogs, and wiki articles, to work through challenging problems with a partner on a whiteboard.</li><li>Answer questions and provide mentorship. Work with Partner Business Managers to assist partners and customers on their mission-critical projects. You will help them build their GPU enabled Accelerated Compute datacenters and get the most out of their investment.</li><li>We make heavy use of conferencing tools, but some travel is required for this role. You are empowered to find the best way to get your job done and do what it takes to make our partners successful.</li><li>Above all, you will be the person that partners call on when they need to get technical in crafting AI solutions for customers using NVIDIA technology. Backed up by the other Solution Architects, NVIDIA Engineering, and the whole of NVIDIA, you'll get to be the face and brains of NVIDIA that our partners will be relying on.<br></li></ul><strong><u>What We Need To See<br></u></strong><ul><li>BS or MS in Engineering, Mathematics, Physics, or Computer Science (or equivalent experience)</li><li>2+ years of work-related experience in Deep Learning and Machine Learning, including deep learning frameworks TensorFlow or PyTorch, GPU and CUDA experience extremely helpful.</li><li>Experience working with DevOps, including but not limited to Docker/Containers, Kubernetes, and Data Center deployments.</li><li>Deep understanding of dense datacenter design including compute, storage, and networking.</li><li>Ability to multitask effectively in a dynamic environment.</li><li>Strong analytical and problem-solving skills.</li><li>Clear written and oral communication skills with the ability to effectively collaborate with management and engineering.</li><li>Have a strong desire to share knowledge with clients, partners and co-workers.<br></li></ul><strong><u>Ways To Stand Out From The Crowd<br></u></strong><ul><li>Experience with Deep Learning frameworks, data-heavy applications, C and Python programming, shell scripting, virtualization, cloud services, and Linux</li><li>Have a willingness and ability to dig into unfamiliar territories to tackle complex problems.<br></li></ul>NVIDIA is widely considered to be one of the technology world\u2019s most desirable employers. We have some of the most forward-thinking and hardworking individuals in the world working for us. If you're creative and autonomous, we want to hear from you!<br><br>NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T00:44:26.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

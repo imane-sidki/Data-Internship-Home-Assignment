@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong><u>Introduction To Demandbase<br><br></u></strong>The biggest and fastest-growing companies in the world rely on Demandbase to drive their account-based strategies and maximize B2B go-to-market performance. We pioneered the ABM category nearly a decade ago, and today we lead the industry as an indispensable part of the B2B tech stack. Demandbase offers the only end-to-end Account-Based Experience (ABX) solution that helps B2B companies find, engage, and close the accounts that matter most. Our success would not be possible without the driven and collaborative teams here at Demandbase. As a company, we\u2019re as committed to growing careers as we are to building world-class technology. We invest heavily in people, our culture, and the community around us. We have offices in the Bay Area, New York, and London, and allow employees to work remotely from anywhere in the US. We have also continuously been recognized as one of the best places to work in the Bay Area.<br><br>Our success depends on our ability to create a diverse, equitable and inclusive environment. We're committed to attracting, developing, retaining and promoting a diverse workforce. By ensuring that every Demandbase employee is able to bring a diversity of talents to work, we're increasingly capable of living out our mission and providing real insight from our products to support our customers. We encourage people from underrepresented backgrounds and all walks of life to apply. Come grow with us at Demandbase!<br><br><strong><u>About The Role<br><br></u></strong>The team focuses on building data pipelines using large datasets, builds machine learning models to run predictive analytics (in AWS) and presents the valuable metrics to the customer dashboard about their accounts scores. Our goal is to deliver wow-features that our customers love using machine learning technology. If you are an experienced engineer with a background that combines data engineering, devops, and machine learning then we\u2019d like to talk to you!<br><br><strong><u>What You'll Be Doing<br></u></strong><ul><li>Build out all aspects relating to the Demandbase Data ecosystem and move products from R&amp;D into production scale which includes Machine learning pipelines and model deployments.</li><li>Design and build data pipelines with thorough understanding of source data and mechanism to fetch the data using most optimized mode</li><li>Dockerize apps for deployments to Kubernetes clusters</li><li>Apply experience with cloud computing for data pipelines (AWS and/or GCP)</li><li>Perform software design and development with Scala and Java</li><li>Ensure all code and pipelines are tested and of the highest quality at delivery time.</li><li>Collaborate with data scientists, and architects to improve the architecture, scalability, stability, and improve performance on ML pipeline deployment</li><li>Build new services and integrations to connect machine learning intelligence with the Demandbase SaaS platform<br></li></ul><strong><u>What We're Looking For<br></u></strong><ul><li>Four year degree in Computer Science, or related field</li><li>Progressive experience in all of the following areas:</li><ul><li>5+ years of software engineering experience in Scala (preferred)/Java </li><li>2+ years of experience in productionizing and deploying ML models as well-tested Python-based services</li><li>Experience architecting, building and deploying scalable data pipelines into AWS cloud using EKS; including batches and real-time streams.</li><li>Strong Knowledge of Kubernetes, Docker containers, and other microservice technologies</li><li>Experience with developer-facing products like APIs and Database objects.</li><li>Experience with event streaming with modern event streaming tooling like Pulsar, Kafka, Kinesis.</li><li>Experience working with data storage systems like AWS S3, RDBMS and NoSql databases systems.<br></li></ul></ul><strong>Even better if you have\u2026.<br></strong><ul><li>Built a data pipeline and the infrastructure required to deploy machine learning models (in AWS Sagemaker) and real-time analytics in low latency environments.</li><li>Have automated data pipelines and model training pipelines.</li><li>Have experience with GCP and services such as Dataproc, BigQuery, BigTable, and Cloud Composer (Apache Airflow)<br></li></ul><strong><u>Benefits<br><br></u></strong>Our benefits include 100% paid for Medical, Dental and Vision for you and your entire family, short-term/long-term disability, life insurance, flexible vacation policy and 401K. Due to the COVID pandemic the Demandbase offices are closed for the foreseeable future. When the office reopens, we also offer commuter benefits, free snacks, catered lunch every Friday, chair massages, weekly yoga and much more!<br><br><strong><u>More About Demandbase<br><br></u></strong>Demandbase is the leader in Account-Based Experience (ABX) and an indispensable part of the B2B Go-to-Market tech stack. The company offers simply the best account-based platform to find, engage, and close the accounts that matter. The biggest and fastest-growing companies in the world, such as Accenture, Adobe, DocuSign, GE, Salesforce, and others, rely on Demandbase to drive their ABX strategy and maximize their marketing performance. Demandbase has been named to the JMP Securities list \u201cThe Hot 100: The Best Privately Held Software Companies,\u201d the Deloitte Fast 500, and named a Gartner Cool Vendor for Tech Go-To-Market.<br><br>For more information, please visit www.demandbase.com or follow the company on Twitter @Demandbase.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:50:39.000Z"
+  },
+  "company": {
+    "name": "Demandbase",
+    "link": "https://www.linkedin.com/company/demandbase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

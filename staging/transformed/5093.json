@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "Computer Software,Financial Services,Internet",
+    "description": "At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives. We\u2019re a purpose-driven company, and our beliefs are the foundation of how we conduct business every day. We\u2019re guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Collectively, these values inspire us to work together as One Team with our customers at the center of everything we do, and to take care of ourselves, each other, and the communities in which we live and work. We challenge the status quo, ask questions, and find solutions. Join us as we enable the hopes, dreams, and ambitions of millions of people around the world.<br><br><strong>Job Description Summary:<br></strong>We are looking for a talented and highly motivated senior engineer for a technical domain that comprises of customer data analytics and ML/DL models development to support different business use cases.<br><br><strong>Job Description:<br></strong><ul><li>Discovering, analyzing, structuring and mining data</li><li>Statistical hypotheses validation and model performance analysis</li><li>Developing neural network models supporting business use cases</li><li>Design and coordinate implementation of DL based solutions for production usage</li><li>Deep understanding of data mining algorithms and statistical methods</li><li>Experience in successfully applying machine learning to real-world problems</li><li>Strong knowledge of Deep Learning frameworks: Keras, Tensorflow, PyTorch, etc</li><li>Knowledge in python and packages for data analysis (scipy, numpy, pandas, matplotlib)</li><li>Proficient in one or more of programming languages Scala, Java, C++</li><li>Strong knowledge of extracting and processing data with RDBMS/NoSQL</li><li>Good communication skills and team player attitude</li><li>Experience in Natural Language Processing/Understanding using deep neural networks ( RNN (LSTM, GRU) / CNN) is a plus</li><li>Experience in working with GPU, profiling/low-level optimizations, Cuda/CuDNN is a plus</li><li>Experience with one or more Container-ecosystem (Docker, Mesos, Kubernetes) is a plus</li><li>Experience with BigData ecosystem Hadoop, Hive, Spark/PySpark is a plus<br><br></li></ul>For more than 20 years, PayPal has remained at the forefront of the digital payment revolution. By leveraging technology to make financial services and commerce more convenient, affordable, and secure, our open digital payments platform gives PayPal\u2019s 400 million active account holders the confidence to connect and transact in new and powerful ways. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying, or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.<br><br>PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.<br><br>REQ ID R0063015",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T23:16:25.000Z"
+  },
+  "company": {
+    "name": "PayPal",
+    "link": "https://www.linkedin.com/company/paypal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

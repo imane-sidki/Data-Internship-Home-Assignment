@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>Title: DBA / Data Scientist</p><p>Location: Remote (EST)</p><p>W2 only, C2C not eligible</p><p><br></p><p>Overview: Seeking someone with experience in: Regression modeling, Machine leaning (Text analytics nice to have), Python and / or R, and Tableau (nice to have).</p><p><br></p><p> Ideal Qualifications:</p><p>Data Science and Machine Learning Experience \u2013</p><p>Needs to manipulate data and building Models</p><p>Python and/or R experience(someone with only SAS will not be a fit)</p><p>Regression Modeling</p><p>VBA development</p><p>Database \u2013 Oracle(preferred)</p><p>Data warehousing (Snowflake Preferred)</p><p>Text Analytics Experience \u2013 NLP (Natural Language Processing)</p><p>ODBC</p><p>SQL server</p><p>ETL</p><p>Tableau is nice to have</p><p>Excel is also preferred</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T14:30:22.000Z"
+  },
+  "company": {
+    "name": "ettain group",
+    "link": "https://www.linkedin.com/company/ettain-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

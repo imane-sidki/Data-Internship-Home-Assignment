@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps/ Site Reliability Engineer ",
+    "industry": "Health, Wellness and Fitness,Computer Software",
+    "description": "<p>Our client in the HealthTech space is looking for DevOps/SRE Engineer to join their growing team</p><p><br></p><p>About You</p><p><br></p><p>You are an energetic person with a passion to learn and can quickly and effectively take those learnings and apply them to their work. You prescribe to the DRY principle and have strong technical chops with an eye towards automation. You shine as a collaborator and excel as an individual contributor. A majority of our engineers work remotely. You are comfortable with working remotely and thrive in the balance it offers to pursue your personal passions.</p><p><br></p><p>The Position</p><p><br></p><p>Integral to the Engineering team, an SRE is a pivotal and growth driven role. They are at the intersection of operations and development. They use their software development craft to build a global operation to ensure our customers achieve their mission. Their performance will set the direction of their desired growth trajectory. As a fast-growing organization, we expect every engineer to put their fingerprint on what we do and how we do it.</p><p><br></p><p>Our culture values every voice. What binds us is our commitment to make a long-lasting impact on quality of life.</p><p><br></p><p><strong>What You'll Be Working On:</strong></p><p><br></p><ul><li>Work with the development team in the design and construction of software.</li><li>Design, create and maintain cloud infrastructure on Amazon Web Services.</li><li>Development automation, processes and tools with an eye towards availability, latency, performance and capacity.</li><li>Provide an application security and compliance lens on designs and code reviews.</li><li>Support a running production environment and aid Product Owners in responding to customer facing issue</li><li>Develop and enhance tools to improve observability of the events of our sub-systems (as championed by Charity Majors)</li></ul><p><br></p><p><strong>What You Bring:</strong></p><ul><li>Strong development skills in any modern programming language.</li><li>Knowledge of network architecture and internet security best practices</li><li>Skilled at containerizing applications with Docker or similar technology</li><li>Ability to create, manage, and deploy infrastructure-as-code using Terraform or CloudFormation</li><li>Ability to deploy, configure, and utilize monitoring and tracing services, such as New Relic and Datadog</li><li>Skilled at communicating technical concepts to peers and non-technical persons respectfully and clearly</li><li>Ability to troubleshoot performance problems and system outages.</li><li>Strong knowledge of Linux based operating systems</li><li>Skilled at implementing secure, public facing AWS Cloud based systems.</li><li>Ability to configure and manage AWS services such as CloudFront, IAM, Route 53, S3, RDS</li></ul><p><br></p><p><strong>Stand Out</strong></p><ul><li>Experience with regulatory regimes such as HIPAA and GDPR</li><li>Experience implementing security controls for AWS environments, including setup and management of authentication controls, VPN\u2019s, KMS, etc</li><li>Experience operating and querying an ELK stack or similar solution</li><li>Knowledge of functional programming languages and philosophy (or existing Clojure chops!)</li><li>Experience in a startup environment, or as a fully remote employee - we use Slack and Zoom extensively, and our team is largely comprised of remoters</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T20:55:40.000Z"
+  },
+  "company": {
+    "name": "Syntagma Group",
+    "link": "https://www.linkedin.com/company/syntagmagroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

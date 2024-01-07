@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Factory Software Systems",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "The Role<br><br>The Core Automation Services (CAS) team at Tesla is building applications to enable manufacturing, with an eye towards reliability, availability, scalability, speed and security. We're a diverse team composed of Controls Automation Engineers, Software Engineers, and various other disciplines that help facilitate automated manufacturing processes.<br><br>As an SRE on the CAS team you'll be working with the infrastructure, systems and applications that act as the middleware layer between Programmable Logic Controllers (PLCs) and the outside world, such as Databases, MES systems and other services.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Support interim HMI/SCADA vendor application (Ignition from Inductive Automation)</li><li>Building tooling around it, evaluating its usage, and helping to ensure its reliability, availability and security</li><li>Design software and systems that enable automated manufacturing at Tesla</li><li>Assist Software, Controls, Manufacturing and other types of Engineers with onboarding and integrating services into the Tesla stack (Kubernetes/VMWare/Bare-metal)</li><li>Ensuring best practices and observability of the service, such as metrics, logging, tracing, and alerting</li><li>Automate configuration and deployment of services</li><li>Consult on and design infrastructure, systems and application architecture</li></ul> Requirements<br><ul><li>5+ years as DevOps/Site Reliability Engineer</li><li>Experience with Virtualization or Containerization (VMWare/Kubernetes preferred, or Xen, OpenStack, etc.)</li><li>Expert skills in Linux and its administration (Ubuntu preferred, or CentOS, RHEL, etc.)</li><li>Understanding of networking (Routing/Switching, VLANs, Firewalls, Load Balancers)</li><li>Understand the concepts of Observability and Infrastructure as Code (Prometheus, AlertManager, Grafana, Jaeger and/or Splunk)</li><li>Able to read/understand code (Bash, Python, Java, Go preferred, or any other high level alternative)</li><li>CI/CD pipeline experience (GitLab preferred, or Jenkins/CircleCI/TravisCI, etc.)</li><li>Systems Automation (Ansible preferred, or Chef/Puppet)</li><li>Artifact storage/retrieval (Artifactory preferred, or alternative)</li><li>Monitoring/Visualization (Prometheus/AlertManager/Gafana/OpsGenie preferred, or TICK stack, Nagios, Zabbix, PagerDuty, etc.)</li><li>Secrets management (Hashicorp Vault and Ansible-Vault preferred, or Azure Key Vault, AWS Secrets Manager, etc.)</li><li>Understand the concepts of Observability and Infrastructure as Code</li><li>Comfortable on an on-call rotation</li><li>Comfortable doing live troubleshooting of issues on NOC bridges/outage calls</li><li>Habitual documenter and spreader of knowledge</li><li>Willing to mentor other team members and engineers with less SWE/IT type knowledge</li><li>Strong bias for action vs endless planning, willing to get hands dirty and make mistakes sometimes</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T21:43:47.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

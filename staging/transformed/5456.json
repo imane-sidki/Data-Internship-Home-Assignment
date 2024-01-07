@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<strong><u>Job Description<br><br></u></strong>A Software Development company is looking for a Site Reliability Engineer to join their team on a full-time Direct Hire basis. You\u2019d be joining a team of unique problem solvers with a multitude of skills and perspectives. You\u2019ll be responsible for taking the lead on relevant projects while surrounded by people who will provide support and mentorship.<br><br>As a Site Reliability Engineer, you\u2019ll mainly be focused on running better production application and systems, creating a strict engineering discipline and utilizing software and systems to help find creative engineering solutions to operational problems.<br><br><strong><u>Required Skills &amp; Experience<br></u></strong><ul><li>Azure and AWS</li><li>Azure DevOps</li><li>Scripting in either Java or Powershell</li><li>Terraform and ansible</li><li>Kubernetes<br></li></ul><strong><u>Desired Skills &amp; Experience<br></u></strong><ul><li>5+ years of experience in an DevOps Environment.</li><li>Oracle</li><li>Springboot</li><li>Docker<br></li></ul><u>The Offer<br></u><ul><li>Competitive Salary: Up to $155K/year, DOE<br></li></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul><li>health, dental, vision</li><li>401(k)</li><li>Casual and Flexible Work Culture and Environment</li><li>Ability to work in a Tech-driven company<br></li></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.<br><br><strong>Posted By:</strong> Connor Bowles<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T08:50:45.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

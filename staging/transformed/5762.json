@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Backend Software Engineer",
+    "industry": "Computer Software",
+    "description": "<p><em>This position may work in the Lessonly office in Indianapolis, IN or remotely from any of the following states:Alabama, Florida, Georgia, Illinois, Indiana, Kentucky, Maine, Maryland, Massachusetts, Michigan, Missouri, Minnesota, Nevada, North Carolina, Ohio,Tennessee,Texas, Virginia or Washington.</em></p><p><br></p><p>We are a tight-knit group with diverse backgrounds who value our culture. Individually, we strive to be humble, hungry, and people-smart. As a team we put learners first, we share before we are ready, we ask clarifying questions, we highlight what\u2019s working, we have difficult conversations, we get agreements, and we make time for life. These aren\u2019t just slogans we put on the wall\u2026we love and live by our culture.</p><p>So, if you are a hungry engineer who is looking to jump on a path of continuous learning, continuous improvement, and a team that values impacting real people in a real way\u2026 look no further, you may be a llama and just don\u2019t know it yet.</p><p>The candidate in this role will be most successful if they have a desire to grow in our entire stack but specialize immediately in the backend. Specifically, a love for SQL and APIs will take you a long way!</p><p>Candidates for this role will typically have at least 2 years of experience building production software, but if you've gained equivalent experience in another way, we'd still love to talk.</p><p><br></p><p>Roles &amp; Responsibilities</p><p>Backend Engineering (80%)</p><ul><li>Backend engineering at Lessonly includes the following server-side tech stack; Ruby, Rails, PostgreSQL, Redshift, Algolia, Redis, Memcached, and whatever comes next.</li><li>This job will require the ability towrite code according to ourRuby style guideandRails style guidewhich will include fixing bugs, authoring and modifying gems, as well as authoring and modifying core and supporting application functionality.</li></ul><p>Code Reviewer (20%)</p><ul><li>A strong peer review culture is incredibly important to us. Everyone strives to improve every day, and the code review process is vital to this goal.</li></ul><p>Skills</p><p>Essential Abilities</p><ul><li>You have experience building server-side tools, applications, APIs, or similar.</li><li>You have experience writing and maintaining code with a team at scale.</li><li>You have experience working closely with back-end engineers, designers, testers, and product managers. People skills, along with a desire to both learn and teach, are essential.</li><li>You frequently ask clarifying questions about the intended impact of the work, weighing options, and devising creative solutions to complex problems.</li><li>You take a big problem and decompose it into shippable chunks that can ensure all parties are aligned on the outcome.</li><li>You are able to translate the non-technical business needs into a clear technical action plan and vice versa, seamlessly.</li><li>You are known for the ability to make an estimate, establish a deadline collaboratively, and hit that mark.</li><li>Server-side tech (especially Ruby, Rails, Postgres, Docker)</li><li>Working Cross-Functionally</li><li>Producing value, not work</li><li>Showing progress through iteration</li><li>Business and technical translation</li><li>Promises delivered</li></ul><p>Nice-to-have Abilities</p><ul><li>As demonstrated by having written production-quality integrations that involve JSON, XML, and open protocols such as SAML or xAPI.</li><li>Integration tech</li></ul><p><br></p><p><strong>Lessonly Benefits</strong></p><ul><li>A whole person approach to taking care of you with medical, vision, dental, disability, financial, mental, and life benefits</li><li>Time for life with unlimited PTO, Summer Break (all-company week of vacation in July) and Winter Holiday (all-company time off in December)</li><li>Paid parental leave for primary and secondary caregivers</li><li>Giving back to our communities with dollars and volunteer time through ourBrighter Indyprogram</li><li>Flexibility to #dobetterwork in the location that works best for you \u2013\u2013 the Indianapolis office, your home office or that local coffee shop you love</li><li>Recognition for the work you do and the success of our team \u2013\u2013 shout outs, weekly MVPly award, quarterly Golden Llama award, and a team that is always excited to celebrate meeting a challenge</li></ul><p><br></p><p>Lessonly is an Equal Opportunity Employer, we do not discriminate against any protected class including,race, color, religion, sex, national origin, sexual orientation, gender identity, genetic information, disability or protected veteran status. Lessonly will provide reasonable accommodation to qualified individuals with disabilities. Please contact careers@lessonly.com if you require a reasonable accommodation to apply for a job.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:25:33.000Z"
+  },
+  "company": {
+    "name": "Lessonly",
+    "link": "https://www.linkedin.com/company/lesson-ly"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 52800,
+    "max_value": 92500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>About Outlet</strong></p><p>Outlet provides the best cash accounts in America, with a 6%+ APY - over 100x what traditional banks are paying. This is made possible through the use of blockchain and all the advances the tech brings with it. We are a high growth startup looking to change how banking is done, and are looking for a team of badass techies to help us do it.</p><p>We are hiringemployee #1to help us take Outlet to the next level. We are looking for a full stack, React software engineer. Since you'll be employee #1, you'll be a founding employee. You'll be contributing ideas, owning the development of new features, analyzing data, and putting out fires. You'll also be influential in laying out the framework future engineers will follow. As employee #1, you'll need to be self sufficient and be able to work under pressure. You understand lean methodologies, and understand that we need to build quality features as quickly as possible.</p><p>All in all, you'll be working along side the founders, from Ideation, to feature development to help Outlet reach it's full potential.</p><p><br></p><p><strong>Tech Stack:</strong></p><p>Our Stack is all JS (and Typescript) based, and consists of the following</p><ul><li>React Native</li><li>React</li><li>Node</li></ul><p><br></p><p><strong>What we are looking for:</strong></p><ul><li>4+ years full stack experience, building JS applications, specifically using React or React Native</li><li>Experience implementing tests</li><li>Experience working with AWS Lamda Functions (or similar cloud function library)</li><li>Self-drive to improve the product, beyond specified requirements</li></ul><p><br></p><p><strong>Bonus Points:</strong></p><ul><li>Have experience implementing End to End tests on React Native</li><li>Experience with Microsoft App Center</li><li>Familiar with the Ethereum development ecosystem</li><li>If you are ready to change banking we'd love to hear from you. At Outlet we are looking for people who are want to play a role in shaping the future of finance.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T19:23:25.000Z"
+  },
+  "company": {
+    "name": "Outlet.Finance",
+    "link": "https://www.linkedin.com/company/outlet-finance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postal_code": "11239",
+    "street_address": null,
+    "latitude": 40.692528,
+    "longitude": -73.991
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer / Software Engineer / Web API Developer",
+    "industry": "",
+    "description": "<p>At SchoolPass, we're changing the way schools think about campus movement and wellness. Parents love using SchoolPass to communicate wellness, attendance, and dismissal changes to everyone at the school with the tap of a button, and schools love using SchoolPass to streamline their dismissal process and make sure every kid goes where they're supposed to at the end of the day.</p><p>We're headquartered in the Greater DC Area, and we have customers in 36 states from California to New York. Our work is dynamic, responsive, and stimulating.</p><p>We are looking for a remote, full-time Software Engineer with web API backend experience to join our API and Integrations team. We build and maintain web APIs and build integrations between our APIs and Third Party APIs.</p><p><strong>What you will do</strong></p><ul><li>Work in a small, fully-remote, multi-functional team that maintains the systems at the core of our business</li><li>Understand the full technology stack and how all the pieces fit together</li><li>Deliver testable, maintainable, and high-quality code</li><li>Share knowledge, promote best practices, and collaborate with other engineers</li><li>Develop and deploy web APIs and integrations with web APIs</li><li>Take operational responsibility for the services we deploy</li></ul><p><strong>What we are looking for</strong></p><ul><li>You have 3+ years of Object Oriented programming languages and best practices with experience in or a desire to learn C#</li><li>You have experience building web APIs built on top of MVC Frameworks</li><li>You are familiar with SQL based databases</li><li>You are comfortable running your software in Windows environments</li><li>You are interested in keeping up with current best practices in your areas of expertise</li></ul><p><strong>Our Technology Stack</strong></p><ul><li>We have a TypeScript/Angular web application and several Xamarin (C#) Mobile Apps for our Front End</li><li>We use ASP.NET Core MVC (C#) back end communicating with a relational database through Entity Framework</li><li>We also have a MVC Web App we are transitioning to the Angular site</li><li>We use Amazon Web Services</li><li>We use Microsoft's Azure Devops and custom solutions for integration, deployment, and project management</li></ul><p>Job Type: Full-time</p><p>Pay: $106,000.00 - $126,000.00 per year</p><p>Benefits:</p><ul><li>Dental insurance</li><li>Health insurance</li><li>Paid time off</li><li>Vision insurance</li></ul><p>Schedule:</p><ul><li>Monday to Friday</li></ul><p><br></p><p>Supplemental Pay:</p><ul><li>Bonus pay</li><li>Signing bonus</li></ul><p>Education:</p><ul><li>Bachelor's (Preferred)</li></ul><p><br></p><p>Experience:</p><ul><li>OOP: 3 years (Preferred)</li><li>Web API: 3 years (Preferred)</li><li>MVC: 3 years (Preferred)</li></ul><p>Work Location:</p><ul><li>Fully Remote</li></ul><p><br></p><p>This Job Is:</p><ul><li>Open to applicants who do not have a college diploma</li><li>A job for which people with disabilities are encouraged to apply</li></ul><p>Company's website:</p><ul><li>https://schoolpass.com/</li></ul><p><br></p><p>COVID-19 Precaution(s):</p><ul><li>Remote interview process</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T03:54:40.000Z"
+  },
+  "company": {
+    "name": "SchoolPass",
+    "link": "https://www.linkedin.com/company/school-pass"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30345",
+    "street_address": null,
+    "latitude": 33.85543,
+    "longitude": -84.28748
+  }
+}

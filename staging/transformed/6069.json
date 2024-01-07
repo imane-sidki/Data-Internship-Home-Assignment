@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology",
+    "description": "Headquartered in South San Francisco, Calif., CareDx, Inc. is a leading precision medicine solutions company focused on the discovery, development and commercialization of clinically differentiated, high-value healthcare solutions for transplant patients and caregivers. CareDx offers products, testing services and digital healthcare solutions along the pre- and post-transplant patient journey, and is the leading provider of genomics-based information for transplant patients.<br><br><strong>Data Scientist<br><br></strong>As a member of Data Sciences &amp; Bioinformatics group \u2013 you will bring your in-depth knowledge in statistics and probability theory for development of new analyses and algorithms. Currently, analytical frameworks are being developed on a Transplant Data Platform \u2013 a repository of large and complex data and AI engines - which provides the opportunity of RWD to RWE for clinical decision making in the transplant domain. You should have excellent working skills in multiple programming languages (R, Python, SQL) with in-depth understanding of applied statistics, probabilistic and dynamic modelling with an eye towards solving computational biology problems. Your contributions will be foundational to the company\u2019s mission of improving the lives of organ transplant patients.<br><br><strong><u>Responsibilities Include But Are Not Limited To<br></u></strong><ul><li>Design develop and support novel and reproducible analyses for RWD to RWE \u2013 driven by in-depth statistical knowledge.</li><li>Provide analysis backbones based on strong fundamentals in(but not limited to) Bayesian probability, machine-based learning, logistic regression technique, multi-scalar dimensional models, iterative model development and hypothesis testing.</li><li>Collaborate proficiently across functions from software engineers to clinical scientists.</li><li>Develop visualization of complex experiments to derive biological insights \u2013 this is particularly desirable since all analyses is performed in the low-level Transplant Data Platform.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Ph.D in Applied Math, Statistics, BioStatistics or Epidemiology with significant training/experience in Statistics/Math/Computational Biology.</li><li>7+ years of experience developing/deploying scalable statistical/probabilistic models.</li><li>Applied knowledge in the area of RWD to RWE</li><li>Expertise in clinical data standards, controlled vocabularies and ontologies</li><li>Experience in supporting pharmacoepidemiology studies with proven track record (eg. Publications) of advancing approaches with data science \u2013 highly desirable</li><li>Applied knowledge with general Bioinformatics tools and database queries - preferred</li><li>Experience using TensorFlow, PyTorch, Keras, NumPy, Scipy, MLib \u2013 preferred</li><li>Familiarity with high-performance cluster computing infrastructures, especially PySpark programming - preferred</li><li>Experience leveraging AWS-based services (e.g., EC2, S3) to speed analyses \u2013 preferred</li><li>A self-driven approach with an ability and desire to communicate to a non-technical audience how complex systems work and can be applied to challenging data processing problems <br></li></ul><strong><u>Additional Details<br><br></u></strong><em>Every individual at CareDx has a direct impact on our collective mission to improve the lives of organ transplant patients worldwide. We believe in taking great care of our people, so they take even greater care of our patients.<br><br></em><strong><u>Our Competitive Total Rewards Package Includes<br><br></u></strong>Competitive base salary and incentive compensation<br><br>Health and welfare benefits including a gym reimbursement program<br><br>401(k) savings plan match<br><br>Employee Stock Purchase Plan<br><br>Pre-tax commuter benefits<br><br>And more!<br><br>In addition, we have a Living Donor Employee Recovery Policy that allows up to 30 days of paid leave annually to a full-time employee who makes the selfless act of donating an organ or bone marrow.<br><br><em>With products that are making a difference in the lives of transplant patients today and a promising pipeline for the future, it\u2019s an exciting time to be part of the CareDx team. Join us in partnering with transplant patients to transform our future together.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T16:05:59.000Z"
+  },
+  "company": {
+    "name": "CareDx, Inc.",
+    "link": "https://www.linkedin.com/company/care-dx-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "South San Francisco",
+    "region": "CA",
+    "postal_code": "94083",
+    "street_address": null,
+    "latitude": 37.65568,
+    "longitude": -122.41248
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Remote",
+    "industry": "Information Technology and Services",
+    "description": "<p>Our client has 2 large projects and is looking for Software Engineers to help support them.</p><p><br></p><p></p><p><strong><u>WHAT YOU\u2019LL DO</u></strong></p><ul><li>Build solutions that meet our customer\u2019s needs and are maintainable, cost-effective and responsive.</li><li>Partner with our product, design and infrastructure teams to build or enhance applications and services.</li><li>Own the reliability of the application and services by partnering. operations and infrastructure to build, scale and monitor services and applications.</li><li>Design, develop, test, debug and maintain software code for our high-performance business applications.</li><li>Analyze and optimize User Interface and Backend Application code for efficiency.</li></ul><p><br></p><p><strong><u>WHAT YOU'LL NEED</u></strong></p><ul><li>At least 5 years of professional experience building high-performance, reliable systems in a complex, multi-tiered and distributed environment.</li><li>Design and implement services in a variety of programming languages including Nodejs, Golang.</li><li>Successful deployment of production code at scale.</li><li>Proven track record of writing maintainable code which includes unit tests, readable code and decent implementations of design patterns.</li><li>Expertise with learning new technologies and familiarity with our tech stack: JavaScript, Node.js, Go, React.js, ElasticSearch, NSQ, GraphQL and Postgres.</li></ul><p><br></p><p>To schedule an interview with our recruiter, please visit : https://calendly.com/lauren-jessup/vaco_needs</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:38:16.000Z"
+  },
+  "company": {
+    "name": "Vaco",
+    "link": "https://www.linkedin.com/company/vaco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

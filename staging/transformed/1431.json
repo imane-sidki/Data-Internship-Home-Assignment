@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.</p><p><br></p><p><strong>Minimum Requirements:</strong></p><ul><li>8 years Hands on development of Machine Learning.</li><li>4 years Provide administration support for ML environment (MLOps) which includes installation, configuration, upgrades and business continuity support in AWS Cloud</li><li>4 years Experience creating scripts to automate ML administration tasks, schedules, and deployment activities.</li><li>4 years Demonstrated experience with Linux administration and troubleshooting activities.</li><li>2 years Excellent oral and written communication skills.</li><li>2 years Effectively manage multiple responsibilities, prioritize conflicting assignments, and switch quickly between assignments, as required.</li><li>2 years Experience working in an agile sprint team.</li><li>2 years Prior experience with an HHS agency</li></ul><p><br></p><p><strong>Educational Requirements:</strong></p><ul><li>4 years Bachelor\u2019s degree in Computer Science, Information Systems, or Business or equivalent experience.</li></ul><p><br></p><p><strong>Preferred</strong></p><ul><li>AWS Certified Machine Learning \u2013 Specialty certification</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-29T15:24:17.000Z"
+  },
+  "company": {
+    "name": "ACloudX",
+    "link": "https://www.linkedin.com/company/acloudx-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "About us:<br>DressX is the biggest digital fashion marketplace partnering with some of the greatest tech and fashion companies in the world to bring the vision of the digital future of fashion to life. Founded around the strong ethos of sustainability, DressX aims to show that some clothes don't have to be produced, they can only exist in their digital versions, worn across various virtual platforms without polluting the environment.<br> <br>We are a team of believers based in the cloud between Los Angeles and Ukraine, working with partners across the globe, and united by the big mission to disrupt the fashion industry.<br> <br>About the project: <br>The project is related to the development of a product for automating many processes related to 3D / 2D clothing, work with AR kit, video streaming, ML and AI frameworks. The Data Science role is to define, develop, test, analyze, and maintain new ML-software applications in support of the achievement of business requirements. The Data Scientist will also research, design, document, and modify ML-software specifications throughout the production life cycle.<br> <br>Your professional qualities:<br>Fluency in at least one programming language (C/C++, Python, Julia)<br>Strong programming skills utilizing Scikit-learn, OpenCV, Keras and/or Tensorflow libraries, PyTorch framework<br>OOP experience<br>Experience in image processing, including traditional statistical methods and feature extraction approaches<br>Familiarity with a broad set of supervised and unsupervised ML-based solutions to image or signal processing<br>Strong analytical, creative problem-solving skills, and experience with fast prototyping of a minimum viable product<br>Experience in implementing real-time machine learning and computer vision algorithms in large scale environments<br>Challenges you\u2019ll need to meet:<br>Solutions research and development <br>Solve difficult and non-routine image/signal processing problems while prototyping and building machine learning tools and pipelines<br>Developing and supporting API<br>For your success we offer:<br>Flexible working hours with remote work<br>Opportunities for professional development and personal growth;<br>Competitive salary, reasonable and fair working conditions<br>Team of strong IT professionals working in a vibrant product environment<br>If you are interested in this opportunity, please apply by sending your CV & portfolio at tech@dressx.com, hello@dressx.com. Include the job title you are applying for in the email subject.<br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T18:59:52.000Z"
+  },
+  "company": {
+    "name": "DRESSX",
+    "link": "https://www.linkedin.com/company/dressx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

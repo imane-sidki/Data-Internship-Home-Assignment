@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "WebXT Platform Team is building a brand new service, with an ambition to scale to all products in WebXT providing necessary intelligence and infrastructure to discover product gaps, synthesize comprehensive set of scenarios in collaboration with product teams, validate large number of scenrios leveraging crowdsourced platforms, auto generate user perceived quality score representative of the health of functionalities offered by the product. This will enable teams to be in control of their feature quality and take pride in their product, with minimal effort.<br><br>Central to this system will be ML models which can take user behavior logs and visual session logs as inputs and detect anomalies in data coverage/click patterns/information density and visual layouts across products. These anomalies that are detected will seed the patterns of product quality gaps, to be further analyzed and submitted by the teams as inputs into the system for regular validations. This is a new key investment for entire WebXT Org. To name a few products this service is expected to support are - Bing, Maps, Edge, Windows Feeds.<br><br>We are looking for someone who is passionate about formulating this ML problem and solving it in a generic way across products with high coverage and minimal noise, leveraging the richness of data available. The role requires quick prototyping to deliver on the vision in collaboration with a strong team of software engineers.<br><br><strong><u>Responsibilities<br><br></u></strong><li> Large scale data mining of various signals available.</li><li> Establish success criteria and metrics.</li><li> Train the Anomaly detection models with high P/R.</li><li> Manage deployment of models.</li><li> Build generic models which are applicable to all products and canvases.<br><br></li><strong><u>Qualifications<br><br></u></strong>Required Qualifications:<br><ul><li>3+ years of hands-on experience with building large scale ML models</li><li> BS degree in CS, Data Science or equivalent field.</li><li>2+ years expeience with large scale data mining </li><li>Experienced in programming languages like Python, C#</li><li>Having an eye for detail and being results oriented</li><li>Excellent communication and collaboration skills<br><br></li></ul><strong><u>Preferred Qualifications<br><br></u></strong><li> Degree in Machine Learning</li><li> Publications in reputed conferences in the area of Machine Learning</li><li> Contributions to open sources Machine Learning packages<br><br></li>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.<br><br>#WebXTPrincipal<br><br>#WebXTPlatform<br><br>#DataScientist",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T12:12:33.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

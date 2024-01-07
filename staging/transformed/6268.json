@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Aviation & Aerospace,Computer Software,Defense & Space",
+    "description": "<p>Smith Hanley Associates</p><p>Machine Learning Engineer</p><p>Austin, TX area</p><p>Base salary $60,000 - 80,000 depending on experience</p><p><br></p><p>Leading edge company is seeking a Machine Learning Engineer to develop data sets and build and test models. The role will involve procuring and cleaning data from a variety of sources including from sensors, labs modeling software and more. You will prototype algorithms, evaluate neural networks for computer vision tasks, debug scripts, assist in software development utilizing python and C++, produce research and present work. Use your deep experience in data modeling and analysis in this challenging and high visibility role.</p><p><br></p><p>Note: No visas or OPT candidates will be processed at this time.</p><p><br></p><p>Requirements of the Machine Learning Engineer:</p><p><br></p><p>--Proficiency with multiple machine learning techniques including deep learning, k-means clustering, Bayesian classifiers and tree-based models.</p><p>--Proficiency using Python, C++, Matlab.</p><p>--Experience using Tensorflow or PyTorch to train and tune machine learning models.</p><p>--Experience producing production quality code.</p><p>--Expertise with linear systems, graph theory, probability, and statistics.</p><p>--Minimum 1-2 years of solid experience in a professional environment.</p><p>--Minimum Bachelor's degree in Computer Science, Engineering, Statistics, Mathematics or other quantitative discipline. Master's degree preferred.</p><p>--Ability to work with a variety of platforms.</p><p><br></p><p>If this job isn't for you, see our other open positions at www.jobs.smithhanley.com.</p><p><br></p><p>Smith Hanley Associates takes pride in being the premier recruiting agency serving the marketing analytics industry. For more information, please visit our website at www.smithhanley.com.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T20:22:55.000Z"
+  },
+  "company": {
+    "name": "Smith Hanley Associates",
+    "link": "https://www.linkedin.com/company/smith-hanley-associates"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Role</strong>: Data Scientist</p><p><br></p><p><strong>Roles and Responsibilities</strong></p><p><strong><span class=\"ql-cursor\"></span></strong></p><p><strong>Suitable candidates will be part of Wipro Digital-Intelligent Enterprise practice. The role entails leveraging Data Science and Machine Learning to solve typical problems within an organization and create IP that could be deployed in a productizedmode. This will entail significant hands-on work on multiple Big Data Technologies, Data Analysis, Identifying data patterns, ML models, Insights generation. The role entails deployment in a customer context and managing customer expectations. </strong></p><p><strong></strong></p><p><strong></strong></p><p><strong>Technical Skills Required:</strong></p><p><strong>\u00b7Hands on with Python or R</strong></p><p><strong>\u00b7Analytics using industry leading BI tools and technologies</strong></p><p><strong>\u00b7Implementation knowledge of supervised\\un-supervised machine learning algorithms</strong></p><p><strong>\u00b7Good statistical analysis skills for data pre-processing and data wrangling</strong></p><p><strong>\u00b7Experienced in using big data frameworks like Hadoop</strong></p><p><strong>\u00b7Knowledge of business intelligence tools or reporting tools </strong></p><p><strong></strong></p><p><strong>Data Preparation for Modeling</strong></p><p><strong>\u2022Missing Data Imputation,Outlier Treatment</strong></p><p><strong>\u2022Scaling, Normalization, Standardization</strong></p><p><strong>\u2022Encoding for Categorical Variables</strong></p><p><strong>\u2022Oversampling\\Undersampling for reducing class imbalance</strong></p><p><strong></strong></p><p><strong>Experience in building solutions using Model Library</strong></p><p><strong>\u2022Feature Selection</strong></p><p><strong>\u2022Tree-based Ensemble Models</strong></p><p><strong>\u2022Gradient\\Adaptive Boosted Trees</strong></p><p><strong>\u2022Hyper-parameter tuning </strong></p><p><strong></strong></p><p><strong>Building Prediction mechanisms using methods like Logistic regression, voting classifier stacking etc</strong></p><p><strong></strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T10:15:53.000Z"
+  },
+  "company": {
+    "name": "Wipro Technologies",
+    "link": "https://in.linkedin.com/company/wiprotechnologiessjp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Bengaluru",
+    "region": null,
+    "postal_code": "577566",
+    "street_address": null,
+    "latitude": 12.976747,
+    "longitude": 77.57528
+  }
+}

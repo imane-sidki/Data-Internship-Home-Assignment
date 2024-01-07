@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Role: </strong>Software Engineer</p><p><strong>Location:</strong> Menlo Park, CA</p><p><br></p><p>Our client is shaping the future of Ads in a world that is becoming increasingly privacy aware by giving users control over their data and experience and by gaining their trust. Your work will help define the future of online advertising, and meaningfully impact on all stakeholders: users, advertisers and regulators.</p><p><br></p><p><strong>Responsibilities:</strong></p><p>- Drive project technical direction and effectively communicate complex features and systems in detail.</p><p>- Work closely with product, design and other cross functional teams to define and refine project specifications.</p><p>- Technical design, implement and test (unit and end to end) complex project features and ensure hitting the project release timeline.</p><p>- Design and develop front-end interfaces, underlying APIs, or backend systems across a number of programming languages such as JavaScript, Python, PHP (Hack) or C++</p><p>- Create consumer products and features on a large scale</p><p>- Master development standards from developing to releasing code in order to take on tasks and projects with increasing levels of complexity</p><p>- Partner closely with infrastructure and operations teams to build and scale back-end services</p><p><br></p><p><strong>Day to day activities include but not limited to:</strong></p><p>- Collaborating with TL, Design and other teams to implement the desktop UI. Skills used: React, javascript, GraphQL, Hack (Php)</p><p>- Collaborating with TL, Design and other teams to implement the Mobile UI. Skills used: Bloks (a mobile Framework with syntax similar to Hack (php), general UI knowledge</p><p>- Working on adding data pipelines to aggregate data and create dashboards for the product. Skills used: SQL, Spark</p><p>- Working on mid layer API connecting the backend ML data to topic control APIs used by the UI. Skills used: PHP, general ML knowledge</p><p><br></p><p><strong>Minimum Qualifications:</strong></p><p>- Experience leading projects with industry-wide impact</p><p>- Experience communicating and working across functions to drive solutions</p><p>- Experience in influencing senior engineers across organizations</p><p>- Proven track record of delivering complex projects within a challenging timeline.</p><p>- Experience in driving large cross-functional/industry-wide engineering efforts</p><p>- Proficient on React/Vue/Angular and/or other morden JavaScript framework/libraries.</p><p><br></p><p><strong>Preferred Qualifications:</strong></p><p>- Experience shipping products to millions of customers or have started a new line of product</p><p>- Experience building and scaling large products or systems</p><p>- Experience with building privacy and ads related products is a big plus.</p><p><br></p><p><strong>Education/Experience:</strong></p><p>\u2022 Bachelor's degree in computer science, software engineering or relevant field required.</p><p><br></p><p><strong>Note:</strong></p><p>- Experience with database, Full Stack, UI, and API experience</p><p>- Want a quick learner so they can ramp up quickly</p><p><br></p><p>Warm Regards,</p><p></p><p>Simran Khanduja</p><p>Digital Intelligence Systems, LLC (DISYS)</p><p>1301 Fannin St, Suite 1600</p><p>Houston, TX 77002</p><p>Phone: 562-453-3983| www.disys.com</p><p>Email: Simran.khanduja@disys.com</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-20T00:47:52.000Z"
+  },
+  "company": {
+    "name": "DISYS",
+    "link": "https://www.linkedin.com/company/disys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71000,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

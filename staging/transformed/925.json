@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Getting together with real people in real life makes powerful things happen. Side hustles become careers, ideas become movements, and chance encounters become lifelong connections. Meetup brings people together to create thriving communities. Show up. Change lives.<br><br>Every year, millions of people RSVP to an eclectic variety of Meetups around the world. Activity on Meetup is growing faster than ever and by studying it, we're learning how to help members discover the groups and events that are right for them -- sparking new ways to make their worlds come alive than ever before.<br><br>As Software Engineer, you will solve problems of scale, security, performance, and user experience across several products and domains. You'll work closely with product, design, and engineers to design and execute platform critical solutions on both new and legacy codebases. You'll be expected to mentor and work with other engineers utilizing pair programming/mobbing and support the engineering organization with top software design, delivery, and operational practices.<br><br>You're our ideal team member if you:<br><br><ul> <li>5+ years of experience building scalable and reliable applications and APIs</li> <li>3+ years of experience developing and maintaining client-facing applications and their underlying APIs using Javascript/Typescript, and ideally experience with GraphQL, React and Next.js.</li> <li>3+ years of experience in Agile/XP practices (TDD/Pairing/Continuous Integration)</li> <li>Proficient and comfortable with cloud computing services</li> <li>Proficient with source control, code merging, conflict resolution (we use GitHub)</li> <li>Experience mentoring others, in formal or informal capacities</li> <li>Passionate about learning, coding and leaving the code base better than how you found it</li> <li>Have great communication and collaboration skills.</li> <br></ul>Our teams use a multitude of technologies and coding languages including: Scala, Java, Javascript, Typescript, NodeJS, AWS Fargate, EKS and Lambda and more. There are tons of opportunities to learn and contribute to our platform.<br><br>Meetup employees are bold, supportive, and passionate about enabling people coming together and creating the future of real community; a future where people embrace their differences and similarities, show up, do things, and turn to each other to improve their lives. We care about moving fast, real-world change, and proud to be an equal opportunity employer committed to hiring and developing diverse, dynamic teams in a safe and inclusive environment. You in?",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:04:42.000Z"
+  },
+  "company": {
+    "name": "Meetup",
+    "link": "https://www.linkedin.com/company/meetup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81400,
+    "max_value": 177400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

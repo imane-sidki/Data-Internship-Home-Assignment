@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<strong><u>Job Summary<br><br></u></strong>The Red Hat OpenShift Site Reliability Engineering Platform team (SRE-P) is looking for an Site Reliability Engineer (SRE) to join our team in Raleigh, NC. In this role, you will participate in the development and operations of the Azure Red Hat OpenShift. Red Hat OpenShift is Enterprise Kubernetes and SRE-P delivers Azure Red Hat OpenShift as a cloud service for large enterprise customers. You will interact with other SREs and product engineers around the world to deliver a large cloud-based container orchestration platform for sophisticated enterprise IT customers. You'll develop Kubernetes Operators and other software to autonomously manage the environment, and resolve faults by analyzing distributed systems and data when issues arise. As an Associate Site Reliability Engineer, you\u2019ll work in a fast-paced globally distributed team while quickly learning new skills and creating ways to consistently meet service-level agreements (SLAs) for our global Azure Red Hat OpenShift cloud service. OpenShift SRE-P is a growing, sophisticated, global, fast-paced team inside the world's Open Source leader with constant opportunities to learn new skills and innovate new solutions to meet our customers' demands. As an SRE on this team, you'll directly contribute to Red Hat's success in the rapidly growing Kubernetes-as-a-service market.<br><br><strong><u>Primary Job Responsibilities<br></u></strong><ul><li>Develop and maintain software to automatically provision, upgrade, monitor, and heal a large global fleet of Red Hat OpenShift clusters deployed in public clouds</li><li>Support the operations of Azure Red Hat OpenShift by responding to and troubleshooting system alerts </li><li>Provide engineering support to Red Hat's global technical support team to resolve customer issues</li><li>Participate in the development of new features and capabilities for Azure Red Hat OpenShift</li><li>Participate in a follow-the-sun on-call rotation, including periodic weekend and holiday on-call duties<br></li></ul><strong><u>Required Skills<br></u></strong><ul><li>Software development experience using a general purpose language; Goland is a plus</li><li>Linux administration experience; Red Hat Enterprise Linux (RHEL), CentOS, or Fedora are a plus</li><li>Basic knowledge of software development life cycle tools like GitHub and Jenkins </li><li>Basic knowledge of monitoring systems; Prometheus is is a plus</li><li>Basic experience with public cloud platforms like Amazon Web Services (AWS), Google Cloud Platform, or Microsoft Azure</li><li>Experience supporting a running service</li><li>Passion to learn new technologies</li><li>Passion to build elegant software systems</li><li>Passion to troubleshoot complex technical issues</li><li>Passion for automation<br></li></ul><strong><u>About Red Hat<br><br></u></strong>Red Hat is the world\u2019s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.<br><br><strong><u>Benefits<br></u></strong><ul><li>Comprehensive medical, dental, and vision coverage</li><li>Flexible Spending Account - healthcare and dependent care</li><li>Health Savings Account - high deductible medical plan</li><li>Retirement 401(k) with employer match</li><li>Paid time off and holidays</li><li>Paid parental leave plans for all new parents</li><li>Leave benefits including disability, paid family medical leave, and paid military leave</li><li>Additional benefits including employee stock purchase plan, family planning reimbursement, tuition reimbursement, transportation expense account, employee assistance program, and more! <br></li></ul><strong>Note</strong>: These benefits are only applicable to full time, permanent associates at Red Hat located in the United States.<br><br>Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.<br><br>Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T06:02:33.000Z"
+  },
+  "company": {
+    "name": "Red Hat",
+    "link": "https://www.linkedin.com/company/red-hat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Senior Data Scientist</strong></p><p><strong>Reply</strong>is looking for a <strong>Developer with experience in experience in Data Analytic, modelling techniques</strong>. Position is located at our office in Burr Ridge IL or ability to work remotely.</p><p>The first project will be in the Energy Industry and it will consist in the migration, refactoring and upgrading of an existing application to model contracts with customers based on meters data and tariffs. </p><p><br></p><p><strong><u>Requirements:</u></strong></p><ul><li>Degree in Computer Science, Mathematics, Physics, Engineering or another technical field (B.S. or higher)</li><li>3 or more years\u2019 experience in software development (web applications, integration via web services).</li><li>Experience working with tabular data in R and R packages (shiny,testthat,ggplot,lubridate, markdown,renv,devtools,data.table/dplyr)</li><li>Understandingof microservices and Java APIs</li><li>Hands in experience with of AWS, Docker</li><li>Bash/Unix fundamentals (scripting).</li><li>Experience with time-series data (experience withtime zones, DST)</li><li>Excellent communication skills</li></ul><p></p><p><strong><u>Main Responsibilities:</u></strong></p><ul><li>Implement dynamic pricing and forecasting</li><li>Enhance battery modeling</li><li>Improve data cleaning techniques for meter and tariff data</li><li>Support international calendars and measures</li><li>Ensure test coveragefor models</li><li>Restructure existing libraries to work with new angular front end</li></ul><p></p><p><strong><u>Preferred qualifications:</u></strong></p><ul><li>Documentation in R Markdown, sphinx, or LaTeX</li><li>Experience in Multyphysics and Linear Probability Modeling</li><li>Experience with Python modeling</li><li>Experience with optimization methods</li><li>Experience with forecasting methods</li><li>Experience with Energy storage and arbitrage</li><li>Basic understanding of battery chemistry/physics/engineering</li></ul><p></p><p><strong><u>Tools:</u></strong></p><ul><li>GitHub</li><li>Jira/Confluence</li></ul><p><br></p><p><strong><u>Soft skills:</u></strong></p><ul><li>Clear, concise communication + interpersonal skills</li><li>Interest in improving grid resiliency and clean energy technology</li><li>Test-driven, agile development mentality</li><li>Fluency in English</li><li>Ability to work in a highly autonomous environment and be highly self-directed.</li><li>Ability to schedule communications with USA Pacific Standard Time</li></ul><p></p><p></p><p><strong>Reply offers:</strong></p><ul><li>Market competitive compensation (base salary and bonus).</li><li>Health &amp; Dental Insurance.</li><li>Vision, Disability and Life Insurance (100% company paid).</li><li>401(k) company match</li><li>Paid Time Off Vacation and Sick time.</li><li>Company Paid holidays.</li><li>Opportunities for training and certification in a skill area.</li><li>Appropriate mentoring and training, to be successful in their position.</li><li>Opportunities to learn and grow in a global environment</li><li>Flexible schedule</li></ul><p></p><p><strong></strong></p><p><strong>About Reply</strong></p><p><strong></strong></p><p>Reply US is part of Reply Group, a leading consulting company, specializing in innovative solutions based on new cutting-edge technologies. With more than 8000 employees globally, Reply is a center of excellence in a variety of technologies and practices. Reply provides to leading industrial groups, both in Europe and North America, with effective support in terms of the definition and development of business models enabled by the new technology and communication-based paradigms, such as Social Networking, Cloud Computing, and the Internet of Things, to optimize and integrate processes, applications, and devices.</p><p><br></p><p><br></p><p>Industrie Reply is the Reply Group company focused on delivering innovative technology-based solutions to address Customers\u2019 most complex Supply and Value Chain needs. Industrie Reply specializes in three major areas including Supply Chain Execution (SCE), Manufacturing/IoT, and Customer Experience (Cx). Industrie Reply\u2019s focus on Industrie 4.0 methodologies, helps customers to achieve the highest levels of efficiency, through comprehensive consulting and technology solutions. Focusing on understanding the needs of our customers, and thanks to the potential offered by different technologies, we provide tailored solutions to fit client needs.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:09:40.000Z"
+  },
+  "company": {
+    "name": "Industrie Reply US",
+    "link": "https://www.linkedin.com/company/industry-reply-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Chicago Area",
+    "region": null,
+    "postal_code": "60618",
+    "street_address": null,
+    "latitude": 41.948055,
+    "longitude": -87.655754
+  }
+}

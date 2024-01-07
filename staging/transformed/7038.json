@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "<strong><u>Who We Are<br><br></u></strong>We are a part of Emerging Technologies and Incubation Group passionate about identifying breakthrough emerging solutions that build new markets and businesses for Cisco. We incubate these new opportunities in partnership with our business groups, partners and other startups. The team also continues to progress Cisco\u2019s important work with Standards bodies and manage research partnerships with leading-edge Universities.<br><br><strong><strong>What You'll Do<br><br></strong></strong>As an SRE team member, you will be responsible for crafting and evolving the environments, tooling, and practices used by continually evolving application teams as they transform research ideas into products that will be taken to market to make a significant difference for Cisco and the industry. Specifically, you will<br><br>Use sound systems design to deliver available, observable, and scalable common services<br><br>Collaborate with our partners from the multiple application teams who are demonstrating our services, working to ensure their success<br><br>Participate in evaluations and build vs. buy decisions across open source and the greater Cisco community for each service required, as well as its implementation, including deployment, monitoring, and evolution<br><br>Develop software \u2013 code, scripts, and configuration \u2013 to optimally and repeatedly deploy, monitor, and evolve services.<br><br>Develop standards and practices used by all teams \u2013 application and platform \u2013 to build operable services<br><br>Participate in the on-call rotation for the services delivered by the SRE/Platform team<br><br>Participate in \u201cIncident Command\u201d, assisting application service owners with triage, remediation, and postmortems for their incidents, ensuring lessons learned are implemented across all teams<br><br><strong><strong>Who You'll Work With<br><br></strong></strong>The Emerging Technologies and Incubation (ET&amp;I) team is a highly visible group which reports directly to Cisco\u2019s CEO. ET&amp;I focuses on the next wave of innovation by anticipating, investing in, and incubating new technologies and business ventures.<br><br>You will be part of the Incubation team in the US, to develop new solutions, and bring them to market in a startup like environment.<br><br><strong><strong>Who You Are<br><br></strong></strong>Start-up experience strongly preferred; you have worked in startups or startup ventures within larger organizations<br><br>Outstanding verbal and written communication skills.<br><br>Systems-level thinker; you consider where a problem should be solved, not just how.<br><br>Ability to thrive in a multifaceted, ever-changing environment.<br><br>Willingness to lead and do; while this is an individual contributor role, you will be responsible for taking the initiative to drive your own projects to completion, as well as ensuring the success of those who you are building for.<br><br>Expertise and experience in delivering large-scale systems using cloud technologies including but not limited to public cloud platforms such as GCP, Azure &amp; AWS.<br><br>Well versed with engineering, QA and technical operations practices with agile application development and delivery vehicles.<br><br>2+ years\u2019 experience with software development. We build repeatable systems through automation<br><br>2+ years\u2019 experience with \u201cDevOps\u201d or infrastructure-as-code tools such as Puppet, Chef, Ansible, or Terraform<br><br>Bachelor\u2019s Degree in Computer Science, CIS, Engineering, or related field or equivalent experience<br><br><strong>We Are Cisco<br><br></strong>#WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference. Here\u2019s how we do it.<br><br>We embrace digital, and help our customers implement change in their digital businesses. Some may think we\u2019re \u201cold\u201d (30 years strong!) and only about hardware, but we\u2019re also a software company. And a security company. An AI/Machine Learning company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do \u2013 you can\u2019t put us in a box!<br><br>But \u201cDigital Transformation\u201d is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)<br><br>Day to day, we focus on the give and take. We give our best, we give our egos a break, and we give of ourselves (because giving back is built into our DNA.) We take accountability, we take bold steps, and we take difference to heart. Because without diversity of thought and a commitment to equality for all, there is no moving forward.<br><br>So, you have colorful hair? Don\u2019t care. Tattoos? Show off your ink. Like polka dots? That\u2019s cool.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:18:01.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Embark Trucks is a leading self-driving truck company bringing autonomous freight mainstream. We have raised $117m by partnering with Tiger Global ($70m Series C) and Sequoia Capital ($30m Series B) to help grow our team and introduce our technology to the public. Currently, we move freight daily between LA and Phoenix using our purpose-built transfer hubs. We have aligned ourselves with truck manufacturers , shippers, and carriers to integrate our technology into the freight ecosystem, pursuing a business model where fleets own and operate our trucks. This is an incredibly exciting time for autonomous vehicles and our team is looking to grow.<br><br>Our deep learning team focuses on developing systems that sense and perceive the world around our self-driving truck. Within our deep learning team, you will focus on optimizing deep learning algorithms into production-ready self-driving perception systems.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Build and maintain pipelines and benchmarks to improve model performance</li><li>Optimize the training process for deep learning models</li><li>Design in-truck validation experiments and conduct full-system integration and tests<br></li></ul><strong><u>Experience Should Include<br></u></strong><ul><li>2-5+ years of professional experience in software engineering with exposure to backend systems</li><li>Interest in deep learning and self-driving</li><li>Interest in building metrics and visualization systems to track model performance</li><li>Strong C++ and Python skills<br></li></ul><strong><u>Preferred Experience<br></u></strong><ul><li>Experience training and optimizing deep learning networks</li><li>Experience in designing and building UIs to help monitor experiments, plot results, and visualize benchmarks </li><li>Experience in designing and building machine learning/deep learning data pipelines</li><li>Prior academic or industrial experience in autonomous driving<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>A full time, competitive salary with equity</li><li>Flexible paid vacation from the start</li><li>100% of the base insurance option covered for Medical, Dental, and Vision and a buy-up option for other plans</li><li>Life insurance covered by Embark</li><li>Access to a Flexible Spending Account &amp; 401K Plan</li><li>Snacks &amp; catered lunches</li><li>Work in a fast-growing startup revolutionizing transportation as we know it<br></li></ul><em>At Embark we celebrate diversity and are committed to creating an inclusive environment for all employees.<br><br></em>When you apply, address the application to Kiana and let me know why you want to join our team.<br><br><strong><u>A Few Company Highlights<br><br></u></strong>CNBC - Our Partner Development Program<br><br>Forbes - The Embark Universal Interface<br><br>Navigating Highway Work Zones with the Embark Driver<br><br>Forbes - 70 Million Dollar Series C<br><br>Video - Day in the life of a self-driving truck<br><br>30 Million Dollar Series B led by Sequoia<br><br>At Embark we celebrate diversity and are committed to creating an inclusive environment for all employees. Embark provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.<br><br>San Francisco, CA /<br><br>Engineering \u2013 Perception /<br><br>Full-time",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T06:29:35.000Z"
+  },
+  "company": {
+    "name": "Embark Trucks",
+    "link": "https://www.linkedin.com/company/embarktrucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 94400,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

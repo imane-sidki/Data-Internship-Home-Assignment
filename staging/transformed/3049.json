@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "We are hiring!  Looking for someone with:<br>2 years plus of software engineering experience.<br>Git and git frontends <br>Javascript/Typescript web technologies such as React, Vue.js, and Angular.<br>B.S. degree in computer science, software engineering, or other technical engineering<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T19:10:46.000Z"
+  },
+  "company": {
+    "name": "Force-X",
+    "link": "https://www.linkedin.com/company/force-x"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Orlando",
+    "region": null,
+    "postal_code": "32803",
+    "street_address": null,
+    "latitude": 28.298353,
+    "longitude": -81.36416
+  }
+}

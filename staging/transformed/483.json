@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Remote)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>We're looking for a talented Data Scientist to join our team! This position is remote (work from home).<br><br></strong><strong>About Us:<br><br></strong>MachineMetrics was founded by a small group of software and manufacturing professionals unified by a mission to deliver meaningful products that can change the manufacturing world. MachineMetrics has simplified Industrial IoT to digitize the shop floor and enable teams to drive decisions with machine data.<br><br>Manufacturing impacts almost every aspect of how we interact with the physical and virtual world today, from the technology we use at work to the way we communicate with each other in our daily lives. Today is the internet moment for manufacturers and MachineMetrics is a pioneer in empowering a more sustainable, resilient, automated factory of the future.<br><br>To accomplish this we've combined world-class talent in both advanced manufacturing and cutting edge technology to build a company focused on solving real manufacturing problems. Our work environment is busy, non-political, and comfortable. People that do well here can self-manage but aren't afraid to reach out for guidance and thrive in a creative problem-solving environment. We are proud to be recognized as one of the top workplaces in the tech industry.<br><br>MachineMetrics was named by <strong>Forbes as one of the top IoT companies to watch in 2019</strong> and voted one of <strong>Built In's 2020 Best Places to Work in Boston</strong>!<br><br><strong>About The Role:<br><br></strong>Data Science's mission at MachineMetrics is to provide advanced analytics to the organization, employing predictive modeling skillsets not otherwise found in the company, manifesting ultimately in a predictive machining product. The predictive machining product allows MachineMetrics to deploy algorithms to edge devices and actuate commands remotely to machines - all the way from creating an alarm to stopping the machine. We employ methods such as physics modeling, machine learning, and big data analysis with cross-company data to achieve our goals. We work heavily with Engineering to productize our work - with Data Science focusing largely on the creation of effective algorithms, which are then handed over to the Edge team for deployment.<br><br>The Data Scientist will be tasked with key aspects of data science and data analytics development, guided by engineers with significant development experience. You'll help discover new ways to look at the information being collected and assist in designing solutions that address customer needs, including large-scale anomaly detection on manufacturing data and physics-based models to help discern various errant phenomena on machines before failure. You should be familiar with time-series analysis and signal processing, and have a working knowledge of machine learning methods.<br><br><strong>What You'll Do:<br><br></strong><ul> <li>Clean large, complex data sets and customer metadata</li> <li>Develop algorithms related to anomaly detection, supervised and unsupervised learning methods</li> <li>Partner with cross-functional teams including Product, Engineering, Customer Success, and Sales to assist in various efforts around data analysis</li> <li>Maintain deep and up-to-date knowledge of the data warehouse; troubleshoot data inconsistencies</li> <li>Translate business needs into analytical tasks, documenting and presenting results</li> <li>Interpret results using a variety of techniques, ranging from simple exploratory data analysis to statistical modeling</li> <li>Own discrete portions of the data science pipeline, including but not limited to data cleaning procedures, exploratory data analysis, and feature-selection methodologies</li> <li>Present our work on calls to prospective customers, partners, and industry leaders and be a champion of data science products</li> <li>With guidance, interview and gather feedback from customers and internal parties on data problems. Work with other team members to devise solutions to these problems as appropriate</li> <br></ul><strong>What You'll Have:<br><br></strong><ul> <li>Bachelor's or above in the physical sciences, computer science, electrical engineering, mechanical engineering, economics, or other similar quantitative field</li> <li>3-5+ years of relevant experience in a customer-facing data science environment; direct experience presenting to customers and selling data science products by translating technical material into language understandable by laypersons</li> <li>High degree of proficiency in R or Python, and SQL and ability to rapidly prototype and turn around complex analyses on-demand.</li> <li>Comfortable operating in a Linux environment, has familiarity with bash, Git, and other auxiliary tools needed to support productionalization and operate efficiently as a Data Scientist.</li> <li>Familiarity with big data tools such as Spark, Databricks, and AWS needed to build automated large-scale anomaly-detection systems.</li> <li>Excellent communication and writing skills and the ability to adapt communication styles to a wide array of audiences.</li> <li>Ability to work independently and think strategically about business initiatives and how efforts can contribute to the Company's goals.</li> <br></ul><strong>Other Requirements:<br><br></strong><ul> <li>All qualified candidates must be legally authorized to work in the United States, as we deal with ITAR-related data (US Citizen or Permanent Resident only)</li> <li>You'll need a valid driver's license, passport, ability to travel without restriction and reliable transportation</li> <br><br></ul><em><strong>We are proud to be an equal opportunity employer who values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status</strong></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-19T05:36:09.000Z"
+  },
+  "company": {
+    "name": "MachineMetrics",
+    "link": "https://www.linkedin.com/company/machinemetrics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78500,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

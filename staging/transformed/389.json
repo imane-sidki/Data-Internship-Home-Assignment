@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff JAVA Software Engineer",
+    "industry": "Civil Engineering",
+    "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world\u2019s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the can\u2019t be done, solving the most daunting challenges facing our customers.<br><br>Peraton is seeking a Staff JAVA Software Engineer to work in our Annapolis Junction, MD office. You will design or implement complex algorithms requiring adherence to strict timing, system resource, or interface constraints; Perform quality control on team productsImplement recommendations for improving documentation and software development process standards. Oversee one or more software development teams and ensure the work is completed in accordance with the constraints of the software development process being used on any particular project. Confer with system engineers and hardware engineers to derive software requirements and to obtain information on project limitations and capabilities, performance requirements and interfaces. Coordinate software system installation and monitor equipment functioning to ensure operational specifications are met<br><br><strong><u>Basic Qualifications</u></strong> <ul><li>Bachelors degree and fourteen (14) years experience relevant experience or a high school diploma and eighteen (18) years of relevant experience. </li><li>Object oriented software development experience working in a team environment. 3+ years (minimum) to include:</li><ul><li>Java programming</li><li>Object oriented programming proficiency: encapsulation, abstraction, inheritance, and polymorphism</li><li>Software development lifecycle processes experience in and enterprise environment</li><li>CM tools experience: Subversion, Git</li></ul><li>Linux command line experience: 1 year minimum (3+) years desired</li><li>Demonstrated interpersonal skills to include experience collaborating with system engineers, tester and operator.</li><li>Active TS/SCI with poly clearance<br></li></ul><strong>Preferred Qualifications<br></strong><ul><li>The ideal candidate will be an organized, detail oriented, self-starter with the ability to quickly and efficiently grasp and apply new concepts. </li><li>Demonstrated ability to organize and prioritize tasks and deliver quality results in a dynamic fast paced environment</li><li>Demonstrated written communications skills and MS Office proficiency to document test plans, status and results</li><li>Analytical skills to perform problem evaluation </li><li>Scripting experience (BASH, Python, Perl etc.) to improve productivity</li><li>Programming experience in any of the following: C, Assembly, Lua</li><li>Experience maintaining VMware virtual machines to include machine and account creation/ deletion and collaboration with System Administrators to resolve connectivity issues </li><li>Experience with collaboration tools: Jira - Atlassian, Confluence<br></li></ul>We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.<br><br>#AJ2021",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:07:40.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 168,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis",
+    "region": "MD",
+    "postal_code": "21403",
+    "street_address": null,
+    "latitude": 38.97829,
+    "longitude": -76.49568
+  }
+}

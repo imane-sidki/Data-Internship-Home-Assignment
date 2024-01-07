@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Front-End",
+    "industry": "Computer Software",
+    "description": "<p>At Styra we are creating a new category of services designed to help businesses take control of their cloud operations. We empower people and software to make reliable authorization decisions in dynamic, complex, and large-scale environments with tools that provide direct, real-time visibility and control over applications and infrastructure. Styra is the company behind the extremely fast-growing Open Policy Agent (OPA) open source project \u2013 we deliver industry-leading SaaS software, built on OPA, for cloud-native environments.</p><p></p><p>Our team is seeking an experienced Front-End Engineer with a proven track record of designing and delivering world-class products. You will be building new features on top of Styra's state-of-the-art cloud-native platform, working on policy authoring and visualizations using Node.js/React/Redux.</p><p></p><p><strong>What You Will Do:</strong></p><p><em>In this role, you will work closely with the team to:</em></p><ul><li>Implement robust front-end solutions, large and small</li><li>Contribute to high-level strategic discussions</li><li>Organize large, complex data for optimal benefit</li><li>Work from design at various stages to polished, elegant implementations</li><li>Manage requirements and priorities</li><li>Improve existing solutions</li></ul><p><br></p><p><strong>What You Bring to the Team:</strong></p><p><em>Great candidates often have these qualifications:</em></p><ul><li>BSCS, MSCS or equivalent experience</li><li>5+ years developing web browser-based applications</li><li>A track record for taking features and products from concept to production</li><li>Fluent in Node.js, React, Redux, ES6, HTML5, CSS3, and cross-browser development</li><li>Excellent communication and presentation skills, both written and oral, as well as exceptional listening skills</li></ul><p></p><p><strong>What We Offer</strong></p><p><em>These are a few highlights of the benefits and perks of working at Styra:</em></p><ul><li>Competitive salary and stock options</li><li>Full medical coverage (health, dental, and vision)</li><li>401(k) program with match</li><li>Flexible vacation policy</li><li>Paid parental leave</li><li>Monthly health and wellness stipend</li><li>Can work remotely anywhere in the US</li></ul><p></p><p><em>We at Styra recognize that people come with a wealth of experience and talent beyond just the requirements of a job. If your experience is close to what you see listed here, please still consider applying. Diversity of experience and skills combined with passion is a key to innovation and excellence; therefore, we encourage people from all backgrounds to apply to positions. Please let us know if you require accommodations during the interview process.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T20:27:06.000Z"
+  },
+  "company": {
+    "name": "Styra",
+    "link": "https://www.linkedin.com/company/styra"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Title: </strong>Machine Learning Engineer</p><p><strong>Location:</strong> Cambridge, Massachusetts</p><p><strong>Position Type:</strong> Full-time</p><p><br></p><p><strong>Company Mission:</strong></p><p>The Iterative Scopes mission is to empower doctors with real-time computer-aided detection and diagnostic tools powered by state-of-the-art computer vision and machine learning technology; improving patient outcomes by helping gastroenterologists detect and classify lesions in real-time, including those that often elude the human eye; and improving care worldwide by providing doctors across the globe with access to deep neural networks trained by the world\u2019s best and most experienced GI specialists.</p><p></p><p>Iterative Scopes is a venture backed company established by Jonathan Ng, MD a second time founder. The company has raised over $14M and is on track to be one of the fastest growing MIT startups. The scientific advisory board includes world-class gastroenterologists primarily based in Boston and leading MIT computer vision and machine learning researchers and faculty.</p><p></p><p><strong>Job overview:</strong></p><p>Iterative Scopes is seeking a Machine Learning Engineer. The core responsibilities of this role include designing and implementing advanced and scalable deep learning models on medical images and videos to detect, classify, segment, and register various conditions and objects given different spatial, temporal, and resolution constraints. This is a dynamic, fast-paced role that will require creative thinking and strong machine learning and software development fundamentals. The successful candidate will work collaboratively with a diverse team of engineers and scientists in addition to having a track-record of developing machine learning and especially deep learning and computer vision models for solving challenging real world scientific problems.</p><p><strong>Minimum Qualifications:</strong></p><ul><li>Graduate Degree in computer science or other quantitative fields, or Bachelor of Science with similar practical experience in an industrial or research setting.</li><li>3+ Years\u2019 experience with Python, Matlab, or C++</li><li>2+ Years\u2019 experience with developing, troubleshooting, and validating deep learning models using PyTorch or TensorFlow working in the areas of video and image processing.</li><li>Knowledge of computer vision tasks including detection, segmentation, and classification.</li><li>Experienced with computer vision libraries such as Pillow, scikit-image, and OpenCV.</li><li>Strong written/verbal technical communication and interpersonal skills</li></ul><p></p><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience with semi-supervised, unsupervised learning method, or statistical learning</li><li>Cloud Computing (AWS)</li><li>PostgreSQL</li><li>Docker</li></ul><p></p><p><strong>Additional Information:</strong></p><p>The Iterative Scopes advisory board includes leading MIT computer vision and machine learning researchers/faculty and world-class Boston-area physicians and gastroenterology experts</p><p></p><p><strong>Recruitment &amp; Staffing:</strong></p><p><em>Agencies: Iterative Scopes does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Iterative Scopes or its employees is strictly prohibited unless contacted directly by Iterative Scopes' internal operations team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Iterative Scopes, and Iterative Scopes will not owe any referral or other fees with respect thereto.</em></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T21:18:48.000Z"
+  },
+  "company": {
+    "name": "Iterative Scopes",
+    "link": "https://www.linkedin.com/company/iterative-scopes"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineer, Embedded Software",
+    "industry": "Industrial Automation,Computer Software",
+    "description": "<strong><u>Job Description<br><br></u></strong>Rockwell Automation is doing things never before possible . We connect the imaginations of people with the potential of technology to make the world more intelligent, more connected and more productive. We help the world work better and people work smarter and are looking for bright minds to make that happen. The makers, the forward thinkers, the problem solvers. That\u2019s where you come in.<br><br>Rockwell Automation is looking for an innovative engineer to join our global Software and Control organization in Milwaukee, WI. You will be part of a new product development team, with a focus on design, development, and test of embedded software and features for programmable logic controllers (PLCs). You will also contribute to the overall product requirements, process, and tools. An ideal candidate will exhibit the ability to flex between product software design, development, and test activities. Given tightly coupled hardware and software in our products, previous embedded software experience is a plus.<br><br><strong><u>Essential Functions<br></u></strong><ul><li>Design, and develop embedded software for Programmable Logic Controllers</li><li>Build and maintain automated tests in support of new and existing product features</li><li>Work in a variety of hardware and software environments, ranging from commercial off-the-shelf to custom System on Chip architectures, and from general purpose to embedded real-time operating systems</li><li>Use modern continuous integration and development tools, and promote continuous improvement of tools and practices across the global development organization</li><li>Demonstrate a strong understanding of object-oriented programming concepts, C++ and Python are preferred</li><li>Operate across the entire software development life cycle requirements management, design, implementation, test, release, and maintenance</li><li>Work on an Agile development team within a larger Scaled Agile Framework organization, participating in short term (sprint), medium term (program increment) and long term (product roadmap) planning</li><li>Mentor less experienced personnel, and encourage knowledge sharing and learning among the development community<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor\u2019s degree in Computer Engineering, Computer Science, Electrical Engineering or similar discipline<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience developing software and automated tests and tools in object-oriented languages such as C++ or Python</li><li>Bachelor\u2019s degree in Computer Engineering, Computer Science, Electrical Engineering</li><li>Typically requires a minimum of 5 years of software engineering experience with demonstrated professional development in software design and implementation</li><li>Ability to understand and apply knowledge of object-oriented analysis, design, and programming techniques</li><li>Experience with automation frameworks and tools development</li><li>Experience in requirements decomposition and test traceability</li><li>Experience in using open source tools like Git and Jenkins</li><li>Knowledge of unit testing using tools like CppUnit, unittest, etc.</li><li>Experience with continuous integration environments, automated test, and acceptance testing</li><li>Experience working in an Agile development setting and Agile project tools</li><li>Experience working with industrial protocols, especially Common Industrial Protocol (CIP)</li><li>Experience developing software and test to safety and security standards such as IEC 61508 or IEC 62443</li><li>Advanced courses or degree in engineering, computer science, or controls</li></ul><strong> *This position is part of a job family. Experience will be the determining factor <br><br></strong>We are an Equal Opportunity Employer including disability and veterans.<br><br>If you are an individual with a disability and you need assistance or a reasonable accommodation during the application process, please contact our services team at +1 (844) 404-7427.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:08:07.000Z"
+  },
+  "company": {
+    "name": "Rockwell Automation",
+    "link": "https://www.linkedin.com/company/rockwell-automation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69000,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milwaukee",
+    "region": "WI",
+    "postal_code": "53215",
+    "street_address": null,
+    "latitude": 43.041073,
+    "longitude": -87.909424
+  }
+}

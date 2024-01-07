@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "As a Software Engineer on our Launch Engineering team, you will bring a broad experience of successfully ideating and delivering value that enables Nike to increase productivity, realize efficiencies and build profitable customer experiences. You will be responsible for building simple and intuitive Libraries and help Nike teams to migrate and adopt our new centralized OAuth service. Interest and experience in the latest methodologies goes a long way here and we're looking for people who are passionate about the world of value-driven solution delivery. You'll get to work alongside truly talented teams and help them enhance their performance by promoting collaboration and innovation.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li> Work in a fast-paced agile environment</li><li> Work in true DevOps fashion, owning the entire tech stack</li><li> Solve big engineering challenges to serve our worldwide athletes* at scale</li><li> Build and maintain libraries in different languages to work with Nike OAuth services.</li><li> Help Nike teams to adopt and migrate to the new OAuth services.</li><li> Grow and keep our APIs fast, efficient, available</li><li> Collaborate with other amazing engineers to power the most exciting digital experiences for athletes on the market<br></li></ul><strong><u>What We\u2019re Looking For<br></u></strong><ul><li> 1+ year(s) of experience writing Restful APIs</li><li> Significant experience writing software in Java or Node.js</li><li> Evidence of exposure to architectural patterns of a large, high-scale web application (e.g., well-designed APIs, high volume data pipelines, efficient algorithms)</li><li> Proven ability to produce high-quality software that is unit tested, code reviewed, and checked in regularly for continuous integration.</li><li> Hands on experience in AWS</li><li> Strong communication skills and great product sense</li><li> Passion for sports!</li><li> Bachelor\u2019s degree in Computer Science or a related Engineering field or any combination of relevant equivalent experience, education, and training<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T07:49:27.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

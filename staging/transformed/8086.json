@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Scalability",
+    "industry": "Computer Networking",
+    "description": "As a Site Reliability Engineer, you will be focused on supporting a specific, highly available, and extremely secure production environment. You will analyze the reliability of our environments, use your coding skills to improve the way we operate, and debug sophisticated events as part of a 24/7 on-call rotation.<br><br>You\u2019re passionate about connecting with peer development teams, embrace the *nix way and you automate away tedious tasks while building infrastructure-as-code.<br><br>In this role, you will join our committed, caring, and close-knit engineering team based out of our office in San Francisco - while collaborating with our peers in London and Australia.<br><br>We are an engineering-driven organization that encourages you to take the time to explore new technology and create prototypes that make us better.<br><br>As SREs at Meraki, we are building the cloud that supports millions of Meraki customers and their devices across the world. How big? Meraki\u2019s customer base has grown by a factor of 2-3 every year, serving more than 4 billion HTTP requests per day across 10+ data centers! Our customers depend on our products to run their critical infrastructure of network switches, security appliances, wireless APs, and security cameras.<br><br>Example projects (Cloud Platform/Scalability):<br><ul><li>Collaborate in the expansion and implementation of new servers and deployments.</li><li>Work across teams to understand and implement client-specific workflows and processes.</li><li>Working in a Ruby codebase to update and modernize patterns and systems.</li><li>Debug a real-world, global web application, triaging issues while working with security or app teams to bring long-term solutions.</li><li>Mentor peer engineers, write code, and do code reviews.<br><br></li></ul>You are an ideal candidate if you:<br><ul><li>Can demonstrate designing, deploying, and operating mid to large-scale enterprise or cloud environments.</li><li>Feel very comfortable with scripting or coding with languages like Ruby, Scala, Go, Python, or Bash.</li><li>Daringly jump into other people's source code to seek a problem.</li><li>Know your way around *nix systems.</li><li>You automate all the things!</li><li>You care about the customer experience. You have experience supporting an externally-facing production environment, ideally in a team that follows the sun.</li><li>You empathize with your coworkers, and you are a positive influence on others.<br><br></li></ul>Keywords: SRE, Site Reliability Engineering, DevOps, ELK, Grafana, Graphite, Ansible, Chef, Ruby, Scala, Docker, Kubernetes, Marathon, Terraform, AWS,<br><br>At Cisco Meraki, we\u2019re challenging the status quo with the power of diversity, inclusion, and collaboration. When we connect different perspectives, we can imagine new possibilities, inspire innovation, and release the full potential of our people. We\u2019re building an employee experience that includes appreciation, belonging, growth, and purpose for everyone.<br><br>Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T05:01:24.000Z"
+  },
+  "company": {
+    "name": "Cisco Meraki",
+    "link": "https://www.linkedin.com/company/cisco-meraki"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

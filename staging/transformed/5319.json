@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior DevOps Operator",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Shape the next generation of big data solutions at Apple by working on the bleeding-edge technologies and solutions for the Strategic Data Solutions (SDS) team. SDS is looking for exceptional DevOps operators to help bring our environment to the next level. Be a member of the team that is responsible for the data collection and reporting for all of Apple\u2019s products around the world. You will build systems that every iPhone, iPad and Mac have interacted with. Apple\u2019s engineering and operations teams will utilize your systems to build the next insanely great product. Do something amazing and be a critical part of a company that everyone recognizes and loves.<br><br> <br><strong>Key Qualifications<br></strong> <br>Production experience with:<br><br>Kubernetes application cluster<br><br>BigData technologies (Hadoop, Spark Streaming, Kafka, CDH is a plus)<br><br>Relational DB experience (mysql)<br><br>Instrumentation: Grafana, logstash, Kibana or AppD<br><br>Incident management, reporting, communication, production feedback process<br><br><br> <br><strong>Description<br></strong> <br>In this role, you will be managing a very large-scale, highly-available Hadoop infrastructure supporting many-Petabytes of data and growing very rapidly. You will be a key part of operating and maintaining the design, architecture, instrumentation and delivery of a massive data platform empowering Apple\u2019s products.<br><br><br>As a member of a cross-functional global team, you'll have the opportunity to solve challenging operational problems across a broad range of Apple manufacturing services. You will be leading innovation by exploring, investigating, instrumenting, recommending, benchmarking and implementing data centric technology solutions for the platform.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>\u2022 Bachelor\u2019s degree in computer science, mathematics or relatable field<br><br> <br><strong>Additional Requirements<br></strong> <br>Natural influencer, and selfless team player<br><br>Excellent problem solving skills; proven technical leadership and communication skills<br><br>Provide hardware architectural guidance, planning, estimating cluster capacity, and creating roadmaps<br><br>Methodical with the ability to Simplify and Refine<br><br>Continuous learner<br><br>Relentless Customer Focus<br><br> <br>Role Number: 200237512<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:37:53.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Elk Grove",
+    "region": "CA",
+    "postal_code": "95757",
+    "street_address": null,
+    "latitude": 38.418133,
+    "longitude": -121.39326
+  }
+}

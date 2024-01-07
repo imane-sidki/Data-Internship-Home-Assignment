@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong><u>Site Reliability Engineer II: ONLY W2 </u></strong></p><p>- 100% Remote </p><p>- 6 month contract with likely extension</p><p>Rate is $50/hr on W2</p><p></p><p>skills that are REQUIRED:</p><p>- Heavy Service Mesh exp <strong>(Istio)</strong></p><p><strong> -</strong>Exp with cloud service provider <strong>GCP</strong></p><p>- <strong>Kubernetes</strong></p><p>- CI/CD exp (<strong>Gitlab</strong>)</p><p>- <strong>DevOps</strong> exp</p><p><br></p><p>Most important must-have\u2019s:</p><ul><li>Someone with experience with cloud providers (GCP and AWS)</li><li>Someone having configuration management software/scripting experience with Ansible, Chef or Puppet</li><li>Familiarity with automation and proficient with programming language (Python/Go)</li><li>Familiarity with Google cloud platform/Kafka</li><li><em>\"Looking for candidates with a background in networking and Istio\"</em></li></ul><p><br></p><p> </p><p> Site Reliability Engineers (SREs) at Frontdoor are responsible for maintaining the availability and uptime of infrastructure. SREs use software engineering principles to solve operational challenges to create reliable infrastructure. We try to reduce the toil from our everyday work using as much automation as possible.</p><p> </p><p> <strong><u>Responsibilities:</u></strong></p><p> * Implement SRE principles and practices across organization to improve performance and efficiency</p><p> * Research and implement solutions to build an always-up, always-available, resilient services</p><p> * Integrate and automate existing manual solutions and processes</p><p> * Participate in an on-call rotation for availability incidents</p><p> * Plan for growth and capacity of the infrastructure</p><p> * Troubleshoot and support productions issues</p><p> * Participates on cross functional company project teams responsible for implementing technology.</p><p> * Investigates anomalies/outages and determines steps to reproduce, root cause, and solutions options.</p><p> * Monitors environment performance and provides all necessary reporting analysis.</p><p> * Attends relevant conference/seminars to remain current on new and upcoming technology.</p><p> </p><p> <strong><u>Skills Requirements:</u></strong></p><p> * Hands-on experience with cloud service providers(at least one of GCP, AWS)</p><p> * Hands-on experience with at least one configuration management software (Ansible/Chef/Puppet)</p><p> * Experience with setting up Logging (e.g. ELK) and Monitoring(e.g. Prometheus) solutions</p><p> * Working knowledge of containers and any one container orchestration platform(Kubernetes/Nomad/Mesos/Swarm)</p><p> * Understanding and experience in at least one CI/CD pipeline (Jenkins/Travis/CircleCI/Gitlab etc.)</p><p> * Good understanding of Unix/Linux operating systems and its internals</p><p> * Well-versed with Linux CLI</p><p> * Apart from shell scripting(sh/bash), proficient with one other programming language(Python/Ruby/Go/Perl)</p><p> * Working knowledge of any one distributed version control systems (git/bzr/hg)</p><p> * Ability to write good technical user document</p><p> * Exposure to managing Infrastructure as Code with tools like Terraform/CloudFormation or using Cloud Provider SDKs</p><p> </p><p> <strong><u>Experience Requirement:</u></strong></p><p> * At least 4-6 years of hands-on DevOps/SRE experience</p><p> * At least 1-2 years of experience developing code, either maintaining scripts or applications</p><p> * Bachelor\u2019s degree in Engineering or related technical or quantitative degree (e.g. mathematics)</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T19:51:39.000Z"
+  },
+  "company": {
+    "name": "TALENDICA",
+    "link": "https://www.linkedin.com/company/talendica"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Full Stack ",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<p>Ekata, a Mastercard company, is the global standard in identity verification, providing businesses worldwide the ability to link any digital transaction to the human behind it. Our Ekata Identity Engine, the first and only of its kind, uses complex machine learning to combine features derived from the billions of transactions within our proprietary network and the data from our graph to deliver industry leading risk assessment solutions.</p><p><br></p><p>We are looking for a <strong>Senior Full Stack Engineer</strong> based in Seattle that thrives on designing, coding, and maintaining web applications written in Ruby and JavaScript. Our ideal candidate would have the skills and desire to understand our entire stack, from Postgres to Redis to Rails, and the passion to champion new and exciting technologies to solve Ekata's unique and challenging problems.</p><p><br></p><p>Your ideal job should be one where you work in a small team and are empowered to make yourself and your team more productive on a daily basis. You should want to be part of a team where your desire to grow and learn is valued and aptly rewarded; where using and contributing to open source are looked upon as an asset; where innovating and executing are core to your teams' beliefs.</p><p><br></p><p><strong><u>In the Senior Full Stack Engineer Role, you will: </u></strong></p><ul><li>Build complex web applications in a web framework (Ruby on Rails and React)</li><li>Design features where the business problem is defined but technical strategy is not</li><li>Write a cross\u00ad-domain JavaScript application</li><li>Follow and create best practices for clean code and architecture</li><li>Deploy and operate apps in the cloud (Amazon, Rackspace, Heroku, etc.)</li><li>Ensure code follows the design and insist on the highest coding standards</li><li>Maintain sufficiently generic yet simple and economical solution</li><li>Provide mentorship across teams and help to hire and grow the best</li></ul><p><br></p><p><strong><u>Our ideal Senior Full Stack Engineer will have:</u></strong></p><ul><li>Knowledge of REST, GraphQL, SSO, and client/server interaction</li><li>Fluency in one or more languages like Ruby, Clojure, Scala, JavaScript, TypeScript, Java, Python</li><li>Deep understanding of internet protocols and standards</li><li>Proficiency with writing and optimizing cross\u00ad-browser CSS and HTML</li><li>Knowledgeable of scaling techniques (caching, asynchronous/background job queues, etc.).</li><li>Experience with SQL and NoSQL databases, and browser plugin development</li><li>Aptitude to quickly learn new languages and technologies as necessary</li><li>Experience with Agile development methodologies</li><li>Proven experience building highly scalable and available production web apps, from glass to the database</li><li>A philosophy of iteration and continuous improvement</li><li>B.S. or M.S. in Computer Science or equivalent experience</li></ul><p><br></p><p><strong>This position is located at our headquarters in Seattle, WA.</strong></p><p><br></p><p>Unwavering in our pursuit of standardizing global identity data, we are approachable, real people that genuinely care about the success of those we partner with. With a commitment to service, innovation, and ownership, Ekata is a dynamic place to work for folks who want to make an impact on a global scale. We provide learning &amp; development opportunities for each employee and promote work-life flexibility through self-managed time off. Headquartered in downtown Seattle, Ekata is growing internationally with offices in Budapest, Hungary, Amsterdam, and Singapore.</p><p><br></p><p>To learn more about the experience of working at Ekata visit https//ekata.com/careers/</p><p><br></p><p>Ekata prides itself on celebrating diversity, inclusivity, and being an equal-opportunity employer.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:11:32.000Z"
+  },
+  "company": {
+    "name": "Ekata",
+    "link": "https://www.linkedin.com/company/ekataglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

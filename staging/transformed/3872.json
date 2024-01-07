@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Site Reliability Engineer Remote</strong></p><p><strong>12 Month Contract + extensions + conversion to full-time!</strong></p><p><strong></strong></p><p><strong>Project:</strong></p><p><strong><u>Demonware has a large number of products. They have written lots of small pieces of software they have written that\u2019s all custom. Have 30-40 production services that are running in AWS all need to be migrated to GCP.Need ability to write GLUE Code and understand integration into open source products and propriety products written in their own code.</u></strong></p><p><strong></strong></p><p><strong>Must haves:</strong></p><ul><li>5+ years experience in a Devops/SRE role</li><li>Expert with Python development</li><li>Experience using Python to GLUE applications together</li><li>Experience with AWS</li><li>Experience with GCP </li><li>Strong experience with Kubernetes </li><li>Must have worked and written Helm Charts</li><li>YAML files</li><li>Kubernetes cluster deployments</li></ul><p><strong></strong></p><p><strong>Day to Day: </strong></p><p><strong><u>This person will need an in-depth knowledge of complex systems with lots of unknowns. We need them to have the ability to look at the system and understand what decisions people have made in the past.We will need them to have the ability to reason with complex systems and be able to reason and make decisions. This person needs to be able to look at infrastructure and reverse engineer problems in order to see decisions people have made and fix problems or reimplement that in a different place.They do not need to be the decision makers but capable of understanding the problem and make informed decisions later down the road on different projects. They do not need to write software but instead have the ability to move complex software from a complex environment and move it to a different complex environment. Items like: de-bugging, troubleshooting, high scale looking at logs, understanding services at scale.</u></strong></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T18:20:48.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Woodinville",
+    "region": "WA",
+    "postal_code": "98072",
+    "street_address": null,
+    "latitude": 47.754467,
+    "longitude": -122.16324
+  }
+}

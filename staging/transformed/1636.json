@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Data Scientist - Communities<br>The Selling Partner Communities (SPC) organization builds lasting connections with and among our Selling Partners, helps drive their success, and ensures that public perception mirrors the reality that Amazon\u2019s stores are a great place for our Selling Partners to build and maintain thriving businesses. Forums are used by over a million Selling Partners to connect with each other and Amazon, and get important information and advice on how to successfully run their Amazon business. Amazon\u2019s role in this is to: (1) Proactively communicating and actively engaging in multi-directional channels for Selling Partners and Amazon; (2) Fostering an active and helpful community and information exchange among Selling Partners; (3) Understanding Selling Partners\u2019 perceptions of, and being internal advocates to improve, their experience selling on Amazon; and (4) Accelerating and strengthening evangelism, advocacy and partnerships among and on behalf of Selling Partners. These strategic initiatives are built upon the data that SPC Data Science and Analytics curates and provides, alongside the insights that we are able to deliver through collaborative analyses with our business leaders.<br><br>Data Scientists on this team have end to end range and capabilities. They work directly with our program leaders to understand how they use data to gain a sense of a voice of the seller at scale. They will dive into the data to identify trends, draw similarities, draw correlations between how sellers engage within the Communities space and how that translates into their bottom line. They will be responsible for deriving a value proposition for our business in the lens of a downstream impact. They design modeling frameworks to dive deep into these raw sources of information to get the most out of the data they have. They work directly with data engineers to build automated pipelines and production scale information systems and models. They collaborate with BI engineers to build automated tools which will allow their results to be shared with the business at scale. They align with business owners to continuously track their work to ensure maximum impact from their projects. They monitor performance of their work to evaluate whether improvements are needed after tracking has started in production<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> 5+ Years of experience in data science/analysis/engineering</li><li> 3+ Years of experience applying Statistics/Data Science/Machine Learning</li><li> 3+ Years of Scripting experience in Python/R or other scripting languages</li><li> 2+ Years of SQL experience</li><li> 2+ Years of experience in Data Visualization, using Tableau, R Shiny, other off the shelf products, or scripting directly</li><li> Bachelor\u2019s Degree in Data Science, Computer Science, Information Systems, Data Analytics, or related scientific, technical, or engineering field<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Expert-level knowledge of SQL</li><li> Working knowledge of AWS tech stack. Glue, Redshift, EMR, S3, EC2, Lambda will be used regularly in this role</li><li> Experience as a leader/mentor of data analytics resources</li><li> Proficient in Scala/Spark/Hadoop</li><li> Experience documenting modeling for technical and business leaders</li><li> Experience working with data engineers/business intelligence engineers collaboratively</li><li> Experience in ETL Management/Data Pipeline experience</li><li> Experience interpreting forum/natural language data</li><li> Master\u2019s Degree in scientific, technical or engineering field<br></li></ul>Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1649986",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T01:10:12.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

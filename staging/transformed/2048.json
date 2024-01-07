@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Dev Ops Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>As an engineer in the System Firmware and Diagnostics Team, you will be part of a team building hardware-on-demand infrastructure and tools for use by developers across Apple. We build a product that enables remote development, control and testing of new hardware. We also develop tools for enhancing developer workflows, and automation pipelines for product development.<br><br> <br><strong>Key Qualifications<br></strong> <br>At least 5+ years hands-on experience in Continuous Integration and/or infrastructure engineering/DevOps<br><br>Excellent Python/ bash, and scripting fundamentals<br><br>Experience with cloud platforms such as AWS, GCE, Azure, or similar<br><br>Experience with infrastructure-as-code tools such as Ansible, Chef, Terraform, or CloudFormation<br><br>Experience with containerization and cluster management technologies like Docker and Kubernetes<br><br>Knowledge of build/release processes and CI/CD systems such as Jenkins<br><br><br>Great To Haves:<br><br>Experience working in an agile software development lifecycle<br><br>Experience with physical hardware lifecycle projects.\u00a0(Proto, EVT, DVT, and PVT)<br><br>Experience working within lab environments<br><br>Experience managing external vendors is a huge plus.<br><br>Experience with Git<br><br>Experience with languages, tools, and frameworks for embedded systems and embedded systems testing is great to have (Make, gcc or clang tool chain, cunit, google test, clang static analysis, cppcheck, gcov, etc.)<br><br> <br><strong>Description<br></strong> <br>Working on core technologies you'll have the opportunity to make a major impact in the way that Apple develops, tests and manufactures all of its products. Our environment fosters product innovation, rapid product iteration and a liberating amount of autonomy.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>B.S. or higher in Computer Science, Computer Engineering or equivalent experience<br><br> <br>Role Number: 200265895<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:47:37.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 94100,
+    "max_value": 190000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

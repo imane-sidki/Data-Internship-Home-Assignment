@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Frontend, Vault Cloud",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>About HashiCorp<br><br></u></strong>HashiCorp is a fast-growing startup that solves development, operations, and security challenges in infrastructure so organizations can focus on business-critical tasks. We build products to give organizations a consistent way to manage their move to cloud-based IT infrastructures for running their applications. Our products enable companies large and small to mix and match AWS, Microsoft Azure, Google Cloud, and other clouds as well as on-premises environments, easing their ability to deliver new applications for their business.<br><br><strong><u>About The Team<br><br></u></strong>We are looking for an experienced engineer to join the Vault UI team and focus on Ember application development. You will help design, prototype, and implement UI features while ensuring the scalability and stability of Vault.<br><br>This person will be a part of the Vault engineering team at HashiCorp, working to provide a fantastic and broadly used secrets tool for businesses and individuals handling all sizes and types of infrastructure.<br><br><strong>You can learn more about the Vault product with our Co-Founder &amp; CTO by watching this video here: </strong>Introduction to HashiCorp Vault with Armon Dadgar<br><br><strong><u>In This Role, You Can Expect To<br></u></strong><ul><li>Collaborate remotely on a cross-functional team including Engineering, Product, and Design to deliver excellent user experiences</li><li>Continuously improve the product by writing code for our single page application built using Ember.js</li><li>Participate in our cross-team frontend working group while deepening your knowledge as a subject matter expert</li><li>Maintain a reliable production application for our customers while working alongside infrastructure engineering</li><li>Enable your teammates through technical mentorship, code reviews, and pairing <br></li></ul><strong><u>You\u2019re a Great Addition If You<br></u></strong><ul><li>Have production experience working on an application using a JavaScript framework (e.g. Ember.js), building responsive layouts with CSS and HTML</li><li>Be familiar with web accessibility standards and inclusive design principles</li><li>Strive for quality through maintainable code and comprehensive testing from development to deployment</li><li>Communicate clearly while remaining empathetic and kind</li><li>Have an eagerness to learn through humility and reflection<br></li></ul>At HashiCorp, we are committed to hiring and cultivating a diverse team. If you are uncertain about applying, we encourage you to please do. We\u2019d love to hear from you!<br><br><strong>Why HashiCorp?<br><br></strong>We operate according to a strong set of company principles described in The Tao of HashiCorp. We\u2019ve had a remote-first culture from the beginning. Our entire company, processes, and tools have been designed around this to ensure everyone is able to be successful from wherever they work. Learn more about how we work together.<br><br>We are dedicated to supporting the needs of our employees and their families in a way that is inclusive of all family structures. We\u2019ve an extensive and generous list of benefits (which vary by country) to cover things such as parental leave, mental health days and assistance, medical insurance, and more.<br><br>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:07:13.000Z"
+  },
+  "company": {
+    "name": "HashiCorp",
+    "link": "https://www.linkedin.com/company/hashicorp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76200,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

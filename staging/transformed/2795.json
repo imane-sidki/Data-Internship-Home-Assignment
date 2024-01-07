@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist 1",
+    "industry": "Information Technology and Services,Computer Software,Hospital & Health Care",
+    "description": "<em><strong>This position can be based remotely in the continental United States<br><br></strong></em>Prognos is a NYC-based healthcare company whose mission is to improve health by driving the best actions learned from the world's data. In order to achieve this goal we have curated one of the world\u2019s largest clinical lab datasets, and are currently deploying cutting-edge technology for predicting disease at the earliest possible time.<br><br>The Mission of the Data Science team at Prognos is to develop, deploy and maintain analytic and machine learning pipelines within Prognos\u2019 products, addressing business-relevant problems in close collaboration with our Engineering, Clinical and Product teams.<br><br><strong><u>Candidate Profile And Responsibilities<br><br></u></strong>We are looking for a Data Scientist with a strong sense of data analytics, and intuition on insights extraction from large datasets. This position will be focused on writing both backend and frontend code to surface insights from multiple datasets.<br><ul><li>You have a strong bias for action in a collaborative environment with a demonstrated track record of communicating clear insights from complex data</li><li>You are proficient in a scripting language (preferably javascript)</li><li>You are comfortable developing backend systems</li><li>You are a self-starter with a get-it done attitude</li><li>You are nimble and thrive in a fast environment where product specifications change frequently</li><li>Candidates must have at least one year of prior professional experience working with large datasets. A bachelor\u2019s degree or higher in Computer Science, Engineering or a similar quantitative field is preferred but not strictly necessary, depending on industry experience.<br><br></li></ul><strong><u>Required Skills And Experience<br></u></strong><ul><li>At least two years of professional experience in a software engineering/data analytics context.</li><li>Professional experience writing production code</li><li>Experience using NLP frameworks and sampling and inferential statistics (A/B and hypothesis testing, familiar probability distributions, confidence intervals, regression analysis, comparison of means, etc.)</li><li>Experience building a modular analytics software library</li><li>Experience with data manipulation in Spark/Dask/Python.</li><li>Accustomed to working with git and shared codebases.<br><br></li></ul><strong><u>Preferred Skills And Experience<br></u></strong><ul><li>Experience with common AWS products and tools (EC2, S3, Athena).</li><li>Bonus points for experience with healthcare data (lab diagnostics/healthcare claims datasets).<br><br></li></ul><strong><u>About Prognos Health<br><br></u></strong>Prognos is a leading clinically-focused healthcare analytics company with a platform that can query patient-centric data to answer key healthcare questions in minutes not months. The prognosFACTOR\u2122 platform addresses payer, life sciences and provider needs, enabling clients to securely, efficiently and cost effectively analyze billions of lab and health records on more than 325 million de-identified patients. prognosFACTOR is HIPAA compliant and harmonizes and integrates lab data with other healthcare data assets from a trusted and diverse data ecosystem. For more information, visit prognoshealth.com.<br><br><strong>Values &amp; Culture<br></strong><ul><li>We are collaborative. We put team trust and energy ahead of individual stardom. We are humble and willing to admit when wrong.</li><li>We go above and beyond. We exceed the needs of our partners and are not limited by our job descriptions. We are accountable for our actions, work, decisions, and results.</li><li>We are purposeful in all that we do. We focus on what matters and prioritize. We think in perspective and see the full picture.</li><li>We are curious. We learn from solving big problems. We are never satisfied and always strive for a better way. We aim to continually develop ourselves.</li><li>We are courageous and honest. We are not afraid to speak out. We challenge the process. We deal with conflict head on.</li><li>We are enthusiastic. We are optimistic for change and a better future. We believe in the greater good. We celebrate accomplishments and have fun.<br><br></li></ul><strong>Our Mission<br><br></strong>To improve health by driving the best actions learned from the world\u2019s data<br><br><strong>Our Vision<br><br></strong>To prevail over disease and empower people everywhere to live life to the fullest<br><br><strong>Selected Perks<br></strong><ul><li>Flexible work arrangements (e.g. no set hours), fully remote work, and unlimited PTO</li><li>Health Insurance</li><li>Life Insurance</li><li>Long Term Disability</li><li>Dental</li><li>Vision</li><li>401(k)</li><li>HSA</li><li>FSA</li><li>Dependent Care Flexible Spending</li><li>Commuter benefits</li><li>Free access to One Medical Group</li><li>Gym discounts</li><li>Flexible work hours and locations</li><li>Health Advocate</li><li>Employee Stock Option Plan<br></li></ul>Powered by JazzHR<br><br>FUi7hIyird",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T07:00:36.000Z"
+  },
+  "company": {
+    "name": "Prognos Health",
+    "link": "https://www.linkedin.com/company/prognos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

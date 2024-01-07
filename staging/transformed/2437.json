@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>Empower the Individual Through Crypto<br><br></strong>Gemini is a crypto exchange and custodian that allows customers to buy, sell, store, and earn more than 30 cryptocurrencies like bitcoin, bitcoin cash, ether, litecoin, and Zcash. Gemini is a New York trust company that is subject to the capital reserve requirements, cybersecurity requirements, and banking compliance standards set forth by the New York State Department of Financial Services and the New York Banking Law. Gemini was founded in 2014 by twin brothers Cameron and Tyler Winklevoss to empower the individual through crypto.<br><br>Crypto is about giving you greater choice, independence, and opportunity. We are here to help you on your journey. We build crypto products that are simple, elegant, and secure. Whether you are an individual or an institution, we want to help you buy, sell, and store your bitcoin and cryptocurrency. Crypto is not just a technology, it's a movement.<br><br>At Gemini, our mission is to <strong>empower the individual </strong>and that includes giving our employees flexibility of choice \u2014 our Office Optional Policy allows employees to choose to work from one of our physical locations or from home.<br><br><strong>Select roles that are location-specific will still be eligible for flexible schedules.<br><br></strong><strong>The Department: </strong>Infrastructure<br><br>Gemini\u2019s Infrastructure team are key experts in building and operating Gemini's world class cryptocurrency exchange systems and networks, using a combination of high-speed data center equipment and cloud-hosted components. With a focus on building, automating, and scaling Gemini\u2019s product offerings, the Infrastructure keeps a close eye on the horizon and thinks steps ahead of the company\u2019s business needs to collaboratively build and scale its growing footprint.<br><br><strong>The Role: </strong>Site Reliability Engineer (SRE)<br><br>As a member of the team, you\u2019ll have a hand in building innovative and robust solutions to stay ahead of our business growth. The ideal candidate is passionate about helping developers build the best products in the market, ensuring that they have the infrastructure to maintain our standards of high performance; they possess a strong sense of ownership and a desire to produce excellent results on the first try.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Utilize automation (via Ansible) to improve productivity, workflow, and technology deployment</li><li>Build and support optimized network infrastructure</li><li>Evaluate and implement new technologies</li><li>Troubleshoot infrastructure and application performance issues, and find and improve performance bottlenecks</li><li>Participate in the team's 24/7 on-call rotation<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>4+ years experience with Linux system administration</li><li>2+ years experience with configuration management systems (Ansible, Puppet, Chef, Salt)</li><li>2+ years experience with metrics collection and monitoring (open source or commercial)</li><li>A keen sense of automation to create consistent and predictable infrastructure</li><li>Working knowledge of industry best practices with regards to information security</li><li>Understanding of IP network functionality (e.g., TCP, UDP, multicast)</li><li>Working knowledge of how to debug networking issues</li><li>Experience building and scaling distributed, highly available systems</li><li>Familiarity with infrastructure management and operations lifecycle concepts and ecosystem<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>5+ years running bare-metal systems</li><li>System tuning and kernel optimization</li><li>2+ years experience in cloud platform administration <br></li></ul><strong>It Pays to Work Here<br><br></strong>We take a holistic approach to compensation at Gemini, which includes:<br><ul><li>Competitive Compensation and Profit-Sharing Equity</li><li>Flexible vacation policy</li><li>Retirement Plan Matching</li><li>Generous Parental leave</li><li>Comprehensive health plans</li><li>Training and professional development<br></li></ul><em>At Gemini, we strive to build diverse teams that reflect the people we want to empower through our products, and we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. Equal Opportunity is the Law, and Gemini is proud to be an equal opportunity workplace and affirmative action employer. If you have a specific need that requires accommodation, please let a member of the People Team know.<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T03:00:09.000Z"
+  },
+  "company": {
+    "name": "Gemini",
+    "link": "https://www.linkedin.com/company/geminitrust"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

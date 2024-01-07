@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "<strong>Job Description:<br><br></strong>Responsible for developing, enhancing, modifying and/or maintaining applications in the Global Markets environment. Software developers design, code, test, debug and document programs as well as support activities for the corporate systems architecture. Employees work closely with business partners in defining requirements for system applications, and manage a high level of risk. Employees typically have in-depth knowledge of development tools and languages. Is clearly recognized as a content expert by peers. Individual contributor role. Typically requires 5-7 years of applicable experience. This job code is only to be used for associates supporting Global Markets.<br><br>SRE/DevOps role supporting nextGen Platforms built around Big Data Technologies (Hadoop, Spark, Kafka, Impala, Hbase, Docker-Container, Ansible and many more). Requires experience in cluster management of vendor based Hadoop and Data Science (AI/ML) products like Cloudera, DataRobot, C3, Panopticon, Talend, Trifacta, Selerity, ELK, KPMG Ignite etc. DevOps Analyst is involved in the full life cycle of an application and part of an agile development process. They require the ability to interact, develop, engineer, and communicate collaboratively at the highest technical levels with clients, development teams, vendors and other partners. The following section is intended to serve as a general guideline for each relative dimension of project complexity, responsibility and education/experience within this role.<ul><li>Works on complex, major or highly visible tasks in support of multiple projects that require multiple areas of expertise.</li><li>Team member will be expected to provide expertise (or ability to self-learn) to build frameworks (APIs, Java, Scala, Scripting) which can be used for</li><ul><li>Application Configurations (e.g. Cloudera Admin related tasks \u2013 flume setup, Oozie scheduling)</li><li>Deployment orchestration</li><li>State-of-World Monitoring &amp; Metric solutions (experience with ELK, Prometheus, SPLUNK, Grafana and other metrics/monitoring frameworks)</li><li>Integrates solutions with other applications and platforms outside the framework</li></ul><li>He / She will be responsible for managing platform operations across all environments which includes upgrades, bug fixes, deployments, metrics / monitoring for resolution and forecasting, disaster recovery, incident / problem / capacity management.</li><li>Serves as a liaison between client partners and vendors in coordination with project managers to provide technical solutions that address user needs<br></li></ul><strong><u>Required Job Skills<br></u></strong><ul><li>Hadoop, Kafka, Spark, Impala, Hive, Hbase etc.</li><li>Knowledge with Cloudera Big Data stack, Docker-Container, Openshift</li><li>Strong technical knowledge: Unix/Linux; Database (Sybase/SQL/Oracle), Java, Python, Perl, Shell scripting, Infrastructure.</li><li>Experience in Monitoring &amp; Alerting, and Job Scheduling Systems</li><li>Being comfortable with frequent, incremental code testing and deployment</li><li>Strong grasp of automation / devops tools \u2013 Ansible, Jenkins, SVN, Bitbucket<br></li></ul><strong><u>Desired Job Skills<br></u></strong><ul><li>Experience working on Big Data Technologies</li><li>Cloudera Admin / Dev Certification</li><li>Certification in Cloud, Docker-Container, Openshift Technologies<br></li></ul><strong>Bank of America's Global Banking and Markets Technology Organization....<br></strong><ul><li>Believes diversity makes us stronger so we can reflect, connect and meet the diverse needs of our clients and employees around the world.</li><li>Is committed to building a workplace where every employee is welcomed and given the support and resources to perform their jobs successfully. </li><li>Wants to be a great place for people to work and strives to create an environment where all employees have the opportunity to achieve their goals.</li><li>Provides continuous training and development opportunities to help employees achieve their career goals, whatever their background or experience.</li><li>Is committed to advancing our tools, technology, and ways of working to better serve our clients and their evolving business needs. </li><li>Believes in responsible growth and is dedicated to supporting our communities by connecting them to the lending, investing and giving them what they need to remain vibrant and vital.<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T18:31:56.000Z"
+  },
+  "company": {
+    "name": "Bank of America",
+    "link": "https://www.linkedin.com/company/bank-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

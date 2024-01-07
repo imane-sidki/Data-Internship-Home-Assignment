@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer",
+    "industry": "",
+    "description": "<p><strong><u>Description:</u></strong></p><ul><li>We\u2019re prioritizing full-stack with more <strong>backend heavy experience</strong></li><li>For front-end folks HTML/CSS/JavaScript expertise (React is what we use)</li><li>Strong experience with scripting languages such as JavaScript / Python</li><li>Experience with AWS, Lambda, serverless, SQL</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T16:00:00.000Z"
+  },
+  "company": {
+    "name": "Rang Technologies Inc",
+    "link": "https://www.linkedin.com/company/rang-technologies-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

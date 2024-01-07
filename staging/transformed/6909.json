@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Who We Are<br><br></u></strong>Nuro exists to better everyday life through robotics. We have an elite team of entrepreneurs and engineers, designers, and scientists. We believe AI and robotics are at the cusp of transforming daily life and we are dedicated to building meaningful products with this technology. Join us and play a critical role in our mission.<br><br>Join us in our mission, as you'll play a significant role in our development and impact on everyday lives.<br><br><strong><u>About The Role<br><br></u></strong>Our software team is growing, and we are looking for talented engineers who are graduating by June 2022 to join us and be instrumental to one of the following areas: product engineering, infrastructure, embedded systems, machine learning, mapping &amp; localization, perception, prediction, or planning &amp; controls.<br><br><strong><u>About The Work<br><br></u></strong>Depending on your skillset and areas of interest you will work on some or all of the following:<br><ul><li>Product Engineering: Building a robust and automated service for our clients, partners and customers including back-end, front-end and full-stack software.</li><li>Infrastructure: Building foundational software to support Product Engineering, Autonomy, Hardware and Operations including but not limited to storage systems, processing pipelines, security, bot connectivity, simulation, data collection and machine learning infrastructure.</li><li>Site Reliability Engineering: Providing a solid foundation of infrastructure through metrics, monitoring, operational support, and collaboration with infrastructure teams; this team is where everything comes together.</li><li>Security: Architects and builds our security infrastructure and processes. </li><li>Embedded Systems: Design the brain stem software of Nuro's robots - the critical code that makes the robot sense and move in the world.</li><li>Autonomy:</li><ul><li>Machine Learning: Work across the software organization to research and develop novel machine learning methods and algorithms.</li><li>Mapping &amp; Localization: Research, develop and deploy algorithms to resolve large-scale mapping and real-time localization problems for our fleet of self-driving delivery robots.</li><li>Perception: Research, develop and deploy algorithms to understand the scene around the robot from sensor data. Resolve real-world perception problems like object detection, tracking and classification using computer vision, machine learning, sensor fusion and state estimation.</li><li>Prediction: Develop novel algorithms that process large amounts of real-world data to train and tune behavior models for a variety of agents around our autonomous vehicles.</li><li>Planning &amp; Control: Work on manipulating and controlling our self-driving vehicles including path planning, navigation, optimization and control.<br></li></ul></ul><strong><u>About You<br></u></strong><ul><li>You are a current Bachelor's Degree or Master's Degree candidate in Computer Science, Electrical Engineering, Robotics, or related field, graduating before June 2022. (PhD candidates - please apply to specific PhD jobs)</li><li>You have experience in one or more of the following areas: backend API design, applications development, large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc.</li><li>You have strong problem solving and programming skills.</li><li>You are passionate about our mission to accelerate the benefits of robotics for everyday life.<br></li></ul><em>At Nuro, we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees. Nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other legally protected characteristics.<br><br></em><em>You must be fully vaccinated against COVID-19 by your hire date to be eligible to start the role. Proof of vaccination will be required by your start date. Nuro will consider and review reasonable accommodation requests based on medical or religious grounds for qualified candidates.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T05:16:09.000Z"
+  },
+  "company": {
+    "name": "Nuro",
+    "link": "https://www.linkedin.com/company/nuro-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 123000,
+    "max_value": 162000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

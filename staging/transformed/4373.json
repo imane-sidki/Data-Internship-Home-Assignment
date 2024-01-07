@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Advansys Inc, is seeking the following. Apply via Dice today!<br><br>Role Data Analyst Location Chevy Chase, MD Duration Long term Requirements Qualifications 5+ years knowledge of Data transformation, Data management ETL processes 5+ yearsrsquo experience documenting business and system requirements, processes, workflows and test plans 5+ yearsrsquo experience with Relational Database (Snowflake, Hive, Microsoft SQL, Oracle or DB2) 3+ yearsrsquo experience on writing queries using SQL Strong SQL, data mapping, and data profiling skills 3+ yearsrsquo working knowledge of Data Vault modelling, Azure DevOps, Hadoop, Hive, Microsoft Power BI, and Python 3+ yearsrsquo working knowledge of Big Data and the AzureSnowflake ecosystem Assists developers with more complex and detailed projects including root cause analysis, gap analysis etc. Desirable Qualifications Proficient in SQL and be able to extract validate data using SQL query Ability to work independently while supporting multiple projects in a dynamic environment Understanding of software development, web technologies, and testing approaches Ability to discern data inaccuracies through technical experience and knowledge. Develop an understanding of the business and the data needed to promote success Ability to query, organize and interpret large amounts of data Research data from key business systems, assess data quality, and map data to requirements for analysis and reporting Mandatory Technical Skills Data transformation, Data management SQL Queries Azure",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T22:01:20.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chevy Chase",
+    "region": "MD",
+    "postal_code": "20861",
+    "street_address": null,
+    "latitude": 38.98284,
+    "longitude": -77.08646
+  }
+}

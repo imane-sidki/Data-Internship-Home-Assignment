@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer - Site Reliability Engineering",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Media Products Engineering team is one of the most exciting examples of Apple\u2019s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple\u2019s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries.<br><br><br>These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services.<br><br><br>Thanks to Apple\u2019s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple\u2019s privacy policy, one of Apple\u2019s core values. Although services are a bigger part of Apple\u2019s business than ever before, these teams remain small, forward-thinking, and cross-functional, offering greater exposure to the array of opportunities here.<br><br> <br><strong>Key Qualifications<br></strong> <br>At least 5 years in a Reliability Engineering, DevOps or infrastructure focused role<br><br>Passion for designing and building reliable systems<br><br>Advanced experience with programming languages (GoLang, Python, Java, C++)<br><br>Deep systems and infrastructure knowledge<br><br>Automation advocate - you truly believe in removing operation load with software<br><br>Experience with deploying, supporting and monitoring new and existing services, platforms, and application stacks<br><br>Excellent troubleshooting and problem solving skills<br><br>Experience with scale testing, disaster recovery, and capacity planning<br><br>Familiarity with microservices architecture and container orchestration with Kubernetes<br><br>Demonstrated ability to deliver results on time with high quality<br><br> <br><strong>Description<br></strong> <br>Apple Media Content SRE is responsible for designing, building and running a diverse set of services that ingest, transform and manage all media content across products like the App Store, Apple Music and, Apple TV+. Whether it\u2019s the latest episode of the Morning Show, a new album from your favorite artist or a brand new iOS app destined for the App Store you will make sure our systems are highly available, fast and efficient. You\u2019ll interact with a diverse range of system types -- public facing web &amp; API developer services like App Store Connect &amp; TestFlight, pipeline based transformation systems such as iOS binary processing and audio &amp; video transcoding as well as internal business systems and machine learning models. Culturally we believe in a close partnership with our development teams and aim to design &amp; build new services together. We're passionate about software and automation in SRE and develop a variety of tooling and infrastructure. Our services run on mixed platforms - many run on our bare metal fleet which you will help transition to new Kubernetes microservices.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in Computer Science or Equivalent (5+ years of software development or production operations experience in a large-scale environment)<br><br> <br>Role Number: 200275674<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T02:42:54.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

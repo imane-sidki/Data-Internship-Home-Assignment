@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "If you\u2019re ready to innovate and lead in the Digital space, join Nike\u2019s Global Technology organization. We bring together technology and process expertise to deliver one-stop solutions that enable Nike, Inc.'s digital products and services. We are responsible for creating, developing and deploying seamless experiences to its Digital consumers. Working with our organization will be rewarding, ambitious, and most definitely not be just another job.<br><br>Nike is seeking a Senior Site Reliability Engineer to help drive our Core Site Reliability strategic programs and initiatives. As a Senior Site Reliability Engineer, you will be responsible for continuously driving best practices and consumer experience improvements. You will focus on enforcing core operations principles through the development and continuous delivery processes.<br><br>This role will be accountable for helping with our AWS cloud infrastructure, supporting observability instrumentation and uncovering any gaps for Nike production systems, and put in place mitigations to lower the effects of any failures on consumers. As an SRE, you will establish global observability solutions for In-Season experiences for our demand and supply management teams. It will also include building tooling to improve our automatic failure detection and devops focus.<br><br>SREs perform deep problem analysis, detect infrastructure problems versus code defects, define and report on scale metrics and incidents and provide long term solutions for reporting.<br><br>What you will work on<br><br>We are looking for talented and passionate full stack developers with knowledge of the datacenter infrastructure and cloud platforms.<br><br><strong><u>The Responsibilities Are<br></u></strong><ul><li>Ensure solutions are designed and developed for large-scale, highly distributed systems</li><li>Building Continuous Resilience through automation and deployment pipelines</li><li>Guiding product teams to build systems designed to handle failures</li><li>Incorporating strategies for full automation, auto-remediation, and comprehensive monitoring</li><li>Collaborate with and consult Architecture, Security, Privacy, and other Nike SWE teams.</li><li>Deliver well-documented and well-tested code and participate in peer code reviews.</li><li>Build and maintain micro services in Node.js and Java.</li><li>Build and maintain reusable components and libraries in JavaScript and Java.</li><li>Develop and drive real time observability solutions that provide visibility into system health.</li><li>Diagnose and develop fixes to implement quickly and efficiently for production incidents.</li><li>Participate in a 24x7 on-call rotation.</li></ul> What you bring<br><ul><li>7+ years of software development experience.</li><li>3 - 5+ years\u2019 experience in building cloud-based enterprise systems, ideally on AWS.</li><li>Proficient in Java 8 and newer</li><li>Proficient with JavaScript on frontend (React, Angular, etc.) and backend (Node.js) components.</li><li>Proven knowledge of Linux operating system internals, TCP/IP, filesystems, disk/storage technologies</li><li>Basic understanding of DNS, Networking, Virtualization</li><li>Experience with Docker and/or Serverless patterns.</li><li>Expertise in designing and building scalable Micro Services</li><li>Expertise in web and web-app patterns</li><li>Expertise in NoSQL datastore systems to build highly scalable solutions</li><li>Experience with expertise in other modern enterprise languages (functional or other - Scala, Python, Golang, etc.)</li><li>Experience with securing Restful APIs and Apps using OAuth and OpenID Connect and JWT</li><li>Good understanding of async/non-blocking Restful APIs approaches and frameworks</li><li>Experience within messaging (pub-sub) patterns</li><li>Demonstrated negotiation and influencing skills</li><li>Basic understanding of most of the following: ServiceNow, Jira, Jenkins, Splunk, New Relic, SignalFx, or equivalent Application Performance Monitoring Tool</li><li>Background with ITIL or Lean a plus</li><li>Bachelor\u2019s degree in Computer Science, Engineering, IT or a related field; MBA a plus or relevant work experience.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:40:19.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Telecommunications",
+    "description": "<p>Mission Essential HCS is seeking a Junior Software Engineer for a full-time opportunity with our client in San Diego, CA.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Participating in the full software development cycle starting from requirement identification</li><li>Performing software and API design for upcoming release features</li><li>Coding and testing of assigned release features</li><li>Leading system and subsystem integration of new release features</li><li>Assisting in software defect triage and resolution</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>Bachelors degree in computer engineering or computer science or equivalent</li><li>3 Years of experience as a software developer (design, coding, and testing) in commercial environment from requirements identification to deployment</li><li>3+ years of solid C and C++ Programming, including strong Object Oriented Design principles</li><li>Proactive candidate with excellent oral and written communication skills, and the ability to provide direction or training to other team members</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T17:51:23.000Z"
+  },
+  "company": {
+    "name": "Mission Essential Human Capital Solutions",
+    "link": "https://www.linkedin.com/company/missionessentialhcs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

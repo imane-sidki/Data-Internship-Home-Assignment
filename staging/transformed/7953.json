@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Entry-Level",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong>DoorDash is building the world's most reliable on-demand, logistics engine for delivery! We're looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7, global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers.<br><br></strong>At DoorDash, our product engineers implement and operate technological solutions to improve the experiences of our merchants, dashers, and consumers. From creating beautiful, user-friendly flows to crafting scalable backend architectures, we strive to deliver reliant, performant technology that delights our customers.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Develop, maintain and ship technical elements with the support of your team members </li><li>Act on feedback, coaching, and mentorship from your manager and team members</li><li>Actively learn about the elements to which you contribute</li><li>Make a direct impact on our business by collaborating with your team to solve problems for our customers</li><li>Understand the \"why\" behind your work and empathizes with your customers<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>B.S., M.S., or PhD. in Computer Science or related disciplines</li><li>At least 2 previous Software Engineering internships or equivalent work experience </li><li>Experience working with databases (e.g. SQL) </li><li>Solid understanding of algorithms and data structures</li><li>Experience working with at least one object-oriented programming language (e.g. Python, Java, Kotlin, etc)</li><li>Experience writing clean code, working with version control, and unit testing<br></li></ul><strong><u>Nice To Haves<br></u></strong><ul><li>Able to analyze and improve efficiency, scalability, and stability of various systems</li><li>Excited to develop, release and run large-scale web applications</li><li>Experience with solutions for systems monitoring, live deployments and continuous integration</li><li>Experience with real-time technology problems</li><li>Experience working with service oriented architecture, writing APIs, and designing systems<br></li></ul><strong>Why You\u2019ll Love Working at DoorDash<br></strong><ul><li>We are leaders - Leadership is not limited to our management team. It\u2019s something everyone at DoorDash embraces and embodies.</li><li>We are doers - We believe the only way to predict the future is to build it. Creating solutions that will lead our company and our industry is what we do -- on every project, every day. </li><li>We are learners - We\u2019re not afraid to dig in and uncover the truth, even if it\u2019s scary or inconvenient. Everyone here is continually learning on the job, no matter if we\u2019ve been in a role for one year or one minute.</li><li>We are customer obsessed - Our mission is to grow and empower local economies. We are committed to our customers, merchants, and dashers and believe in connecting people with possibility.</li><li>We are all DoorDash - The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights. </li><li>We offer great compensation packages and comprehensive health benefits.<br></li></ul><strong><u>About DoorDash<br><br></u></strong>DoorDash is a technology company that connects customers with their favorite local and national businesses in all 50 US states, Canada, and Australia. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash blog or at www.doordash.com.<br><br><strong>Our Commitment to Diversity and Inclusion<br><br></strong>We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-10T01:20:32.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99600,
+    "max_value": 198000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

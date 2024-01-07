@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer/Developer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Initiate Government Solutions, is seeking the following. Apply via Dice today!<br><br>Founded in 2007, Initiate Government Solutions (IGS) a Woman Owned Small Business, specializes in healthcare information solutions with an emphasis on technology spectrum. IGS partners with government and commercial clients to tackle the most challenging healthcare information technology issues including large scale implementations, business informatics, analytics, and electronic health record support. IGS is currently recruiting for the position of a full-time, Software EngineerDeveloper to support our work with the National Library of Medicine (NLM). Responsibilities and Duties (Included but not limited to) Design, software development and coding, prototyping, documentation, testing, and configuration Software development projects will use agile development principles, with necessary documentation, human-centered design, and an extensible infrastructure Develop web-based interactive systems using agile principles Work with NLM to ensure that the system is compliant with security policies Post all code to a publicly available code repository, consistent with a Public Domain (CC0) license Ensure that the architecture is extensible to allow for further development, including integration with compatible internal or external systems Secure coding practices, particularly where those practices impact development of information systems that meet FISMA requirements C, C++, C, Python, Java and Perl programming in a predominantly Linux application development environment including Windows and MacOS environments Minimum Qualifications Bachelor's degree in computer science or related degree, or equivalent experience Knowledge of the software development life-cycle Ability to develop unit testing of code components or complete applications Strong understanding of software engineering Experience working on a variety of software development projects Deep programming language knowledge Experience handling large amounts of data or working in a distributed computing environment Programming experience in a Linux environment Experience with cloud technologies Proficiency in at least one modern programming language, such as Java, C, C++, Golang Fluency in scripting languages such as BASH, csh, Perl, or Python Ability to work with common structured documents (at least one of XML, JSON) Experience with open-source projects Experience with CICD pipelines, unit testing, integration and regression testing Ability to obtain or maintain an NLM Public Trust Preferred Qualifications and Core Competencies Must be a self-motivator with ability to work remotely as part of a team, or independently with little supervision or direction An NLM Public Trust Benefits Initiate Government Solutions offers competitive compensation and a strong benefits package including comprehensive medical, dental and vision care, matching 401K, paid time off, flexible spending accounts, life insurance, disability coverage, and other benefits that help provide financial protection for you and your family. Initiate Government Solutions participates in the Electronic Employment Verification Program. Initiate Government Solutions is an equal opportunity employer. Our company policy is to provide equal opportunity in all areas of employment practice without regard to race, color, religion, sex, sexual orientation, national origin, age, marital status, veteran status, citizenship or disability.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:00:47.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69900,
+    "max_value": 92700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bethesda",
+    "region": "MD",
+    "postal_code": "20894",
+    "street_address": null,
+    "latitude": 38.984856,
+    "longitude": -77.09269
+  }
+}

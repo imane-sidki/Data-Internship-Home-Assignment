@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>CALA makes it easy to design, produce, and deliver your own fully-custom fashion products \u2014 and we're hiring a full-stack engineer to join our team. We have some incredible customers but we\u2019re still a small crew; you'll help define our engineering team culture, technology choices, and roadmap, and be a key part of the next phase of our growth.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Contribute across the whole stack; web, iOS, backend services and more. Our tech stack is mostly TypeScript, node.js, React / React Native, and PostgreSQL, but we try to use the best tools to solve each problem.</li><li>Work closely with your team to solve problems, plan solutions, and bring them to life; anything from 3D rendering to analytics engines. You'll have deep product ownership and be an important stakeholder as we plan new features.</li><li>Help us build the processes and tools we need to take things to the next level.</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>4+ years professional software development experience.</li><li>Strong knowledge of JavaScript and web technology.</li><li>Experience writing unit &amp; integration tests.</li></ul><p><br></p><p><strong>Nice to have</strong></p><ul><li>Experience building performant native iOS apps</li><li>Experience with TypeScript, Flow, or a strongly-typed language.</li><li>Experience with React or another component-driven framework.</li><li>Experience building distributed, scalable systems.</li><li>We\u2019re a distributed team, but we do have an office in NYC that you\u2019re able to work from if you\u2019re in the area.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T20:16:37.000Z"
+  },
+  "company": {
+    "name": "CALA",
+    "link": "https://www.linkedin.com/company/this-is-cala-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

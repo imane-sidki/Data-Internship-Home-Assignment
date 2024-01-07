@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - 82365",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<p>Job Title:</p><p>Site Reliability Engineer</p><p><br></p><p><strong>Job Summary</strong></p><p>As a Site Reliability Engineer, you'll manage a portfolio of customer-facing cloud services (SaaS/IaaS) ensuring overall availability, performance and security.This role can be located near any US based NetApp campus location (RTP, North Carolina;San Jose, California, Boulder Colorado; Wichita, Kansas)and reports directly to an SRE manager.You'll work in a highly collaborative environment with NetApp and Microsoft teams from all over the world (Reykjavik, Bangalore, Sunnyvale, Redmond, and more) to deploy, manage, and incrementally improve our services.This position includes rotational on-call escalation support work as part of a global team due to the critical nature of the services we support.Customer service and troubleshooting skills in addition to advanced scripting and automation experience are critical attributes for this role.</p><p><br></p><p><strong>Job Requirements</strong></p><p>You will administer cloud-based environments that support our SaaS / IaaS offerings that are implemented on a microservices, container-based architecture (Kubernetes).You will automate repetitive and error prone tasks and processes, using tools like Ansible, Python, PowerShell and other scripting languages.You will ensure adequate monitoring is in place to quickly be alerted for any issues on the production environments, using tools like Prometheus, Observium, ElasticSearch. Splunk.You will continuously measure the availability, latency and overall system health, using tools like Grafana, OpsRamp and others.You'll secure our environment from security threats deploying patches and least-privilege configurations.You'll respond to escalated incidents and drive change that prevents issues from re-occurring.You'll look for opportunities to automate the recovery for incidents that we cannot prevent in advance.You will use Atlassian Jira to manage your daily assignmemts and track issues to resolution based on their priority.</p><p></p><p>You'll design and implement tools for automated deployment of multiple environments.You'll work deeply in one or more cloud environments AWS, Google, Azure.You'll document findings and solutions you create using Atlassian Confluence.Preference for candidates with Azure experience, but learning/training is a critical element with this role, so Azure experience is not a hard requirement.</p><p><br></p><p><strong>Education</strong></p><p>Typically requires a minimum of 8 years of related experience with a Bachelor's degree; or 6 years and a Master's degree; or a PhD with 3 years experience; or equivalent experience within the key characteristics listed.</p><p><br></p><p>Key characteristics:</p><p>You are generally curious and highly motivated with a passion for ensuring the delivery and support of scalable, performant and highly-available solutions. You are great at and love debugging and solving technical problems throughout a technology stack - have a mindset that if you must do the same thing twice, you're going to automate it! Familiarity with Linux and Windows operating systems. The ability to write automation and understanding of a least one language such as:Bash, Python, PowerShell, Ansible, Go - Python preferred. A basic understanding of public cloud vendors such as AWS, Azure, Google Cloud or others.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T11:15:13.000Z"
+  },
+  "company": {
+    "name": "NetApp",
+    "link": "https://www.linkedin.com/company/netapp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

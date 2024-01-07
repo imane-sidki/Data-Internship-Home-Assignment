@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Consumer Services,Internet",
+    "description": "Tinder connects people. With tens of millions of users and a presence in every country on earth, our reach is expansive \u2014 and rapidly growing. Your daily work here will cause millions of people to spark new and meaningful connections. Our small, dedicated engineering team has one of the highest ratios of users to engineers in the industry, which makes every member of the team critical to our success. You'll have a unique opportunity to join a company with a global footprint while working on a team that's small enough for you to feel the impact each day.<br><br>We are looking for a great candidate to join the revenue machine learning team at Tinder. Our mission is to monetize Tinder's global user base through subscriptions and premium features. Tinder has massive diversified users, and various revenue products to offer. Our team uses data driven approaches to understand user preferences, generate business insights, and shape revenue roadmap. Our machine learning projects cover conversion prediction, churn prediction, LTV prediction, and pricing optimization. You will help us explore a vast amount of data and derive knowledge to improve monetization. If you are a relentless problem-solver and can transform large amounts of data into optimized subscriptions and premium features, we want to hear from you.<br><br><strong>In this Machine Learning Engineering role, you will:<br></strong><li>Work on exciting problems on revenue machine learning with a focus on subscriptions and premium features</li><li>Collaborate with key partners to explore opportunities to develop data driven solutions by developing and utilizing statistical modeling and machine learning algorithms</li><li>Translate ambiguous statements into structured problem statements and testable hypotheses</li><li>Collaborate with a team of data scientists, engineers, and business partners to take an opportunity or problem from concept to scaled solution</li><li>Design and implement state-of-the-art machine learning algorithms in distributed machine learning frameworks such as Spark<br><br></li><strong>We're looking for: <br></strong><li>PhD or MS in machine learning, computer science, physics, statistics or other highly quantitative fields</li><li>2+ years professional experience</li><li>Hands-on experience in designing and building highly scalable distributed ML models</li><li>Proficiency in Python, SQL<br><br></li><strong>Bonus points if you have: <br></strong><li>Experience with causal inference and uplift modeling</li><li>Proficiency in Spark, Scala, and Hadoop.</li><li>Experience with one or more of the following: Targeting systems, recommendation systems, ranking systems or similar <br><br></li><strong>As part of our team, you\u2019ll enjoy:<br><br></strong><li> Working on a product that has an immediate impact on people\u2019s lives all around the world</li><li> Collaborating with a team of creative, fun and driven colleagues</li><li> Comprehensive health coverage, competitive salary, 401(k) employer match, Employee Stock Purchase Plan (ESPP)</li><li> Other perks and wellness benefits like a fitness membership subsidy, paid concierge medical membership, pet insurance offerings, and a commuter subsidy</li><li> A robust Learning + Development offering including our MentorMatch program, access to a library of 6,000+ online learning courses through Udemy, and an annual L+D stipend</li><li> Access to mental health resources</li><li> Fertility preservation benefits</li><li> No Meeting Wednesdays and access to a wide range of product and service discounts through Perkspot</li><li> Charitable donations match up to $15,000 annually</li><li> Monthly and weekly interactive virtual events including Book Club, trivia with prizes and yoga workouts</li><li> The opportunity to join six active Employee Resource Groups (ERGs)<br><br></li>At Tinder, we don\u2019t just accept difference \u2014 we celebrate it, we support it, and we thrive on it for the benefit of our employees, our product, and our community. We strive to make our workplace an inclusive and diverse environment, giving people from all walks of life the opportunity to have a voice. We champion and encourage those who bring different perspectives, ideas, and creativity to join our team dedicated to bringing people together across the globe. Tinder is proud to be an equal opportunity workplace where we welcome all people regardless of sex, gender identity, race, ethnicity, disability, or other lived experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T05:09:16.000Z"
+  },
+  "company": {
+    "name": "Tinder",
+    "link": "https://www.linkedin.com/company/tinder-incorporated"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100300,
+    "max_value": 217900,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

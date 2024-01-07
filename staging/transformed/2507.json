@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Automotive",
+    "description": "<p>Modis is looking for Machine Learning Engineers. Our opportunities are either long-term engagements, contract to hire or permanent placement roles. If you're looking for work in an enterprise level environment with a Fortune 100 company - make sure to apply today!</p><p><br></p><p><strong>RESPONSIBILITIES:</strong></p><ul><li>Plan, Configure, Deploy and Operate a cloud solution</li><li>Deliver Proof of Concepts for new Solutions on Cloud</li><li>Works well under pressure, independent and meets deadline</li></ul><p><br></p><p><strong>REQUIRED SKILLS:</strong></p><ul><li>Hands on/working Knowledge of Google Cloud Platform(GCP)</li><li>Experience Hosting applications on GCP using Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Big Query etc..</li><li>Good understanding of cloud design considerations and limitations and impact of pricing</li><li>Knowledge of Networking principles and protocols including not limited to Load Balancing, firewall rules</li><li>Proficient in scripting languages including Python, yaml.</li><li>Knowledge of Application Monitoring using GCP(Google stackdriver)</li><li>Prior experience working with: container technology, docker files, doscker images, Github, CI/CD concepts</li><li>Experience with infrastructure configuration management tools such as Terraform, Puppet and Chef.</li></ul><p><br></p><p><strong>PREFERRED SKILLS / EXPERIENCE:</strong></p><ul><li>Machine Learning experience</li><li>GCP Stack</li><li>Kubeflow</li><li>NLP</li><li>Platform vision</li><li>Migration to GCP</li><li>Understanding or desire to learn end to end Machine Learning technology stack (Tools such as Domino Data Labs, Kubeflow, Kubernetes, SeldonCore, GCP, Jupyter Notebook,Hive, etc).</li><li>Ability to work cross functionally</li><li>1-2+ years of experience developing GCP ML app\u2019s</li></ul><p><br></p><p><strong>ADDITIONAL INFORMATION:</strong></p><ul><li>Modis offers Visa sponsorship and Green Card services</li></ul><p><br></p><p>Please feel free to contact Leticia Oliveira for further assistance at leticia.oliveira@modis.com</p><p><br></p><p><em>Equal Opportunity Employer/Veterans/Disabled</em></p><p><em>To read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.modis.com/en-us/candidate-privacy/</em></p><p><em>The Company will consider qualified applicants with arrest and conviction records.</em></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T14:06:36.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Detroit Metropolitan Area",
+    "region": null,
+    "postal_code": "48215",
+    "street_address": null,
+    "latitude": 42.339054,
+    "longitude": -83.04875
+  }
+}

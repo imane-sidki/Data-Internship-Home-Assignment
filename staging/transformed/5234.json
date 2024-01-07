@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Development Engineer",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "<strong>Our Purpose<br><br></strong>We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team \u2013 one that makes better decisions, drives innovation and delivers better business results.<br><br><strong>Job Title<br><br></strong>Lead Software Development Engineer<br><br><strong><u>Overview<br><br></u></strong>Be part of the Operations &amp; Technology Fraud Products team developing new capabilities for MasterCard's Decision Management Platform, which serves as the core for multiple business solutions to combat fraud and validate cardholder identity. Our patented Java-based platform processes billions of transactions per month in tens of milliseconds using a multi-tiered, message-oriented approach for high performance and availability.<br><ul><li> Would you like to develop industry leading solutions for fighting fraud?</li><li> Are you motivated by speeding business solutions to market?</li><li> Do you want to innovate, using cutting edge technologies on challenging business problems?<br></li></ul>Role<br><ul><li> Work closely with technical leads for assigned projects to assist in design and implementation tasks</li><li> Assist with production support issues by acting as a subject matter expert in resolving incidents and problem tickets.</li><li> Plan, design and develop technical solutions and alternatives to meet business requirements in adherence with MasterCard standards, processes and best practices.</li><li> Participate in PoCs (Proof of Concept) and help the Department with selection of Vendor Solutions, Technologies, Methodologies and Frameworks.</li><li> Conduct brownbag sessions on new and upcoming technologies, methodologies and application appropriate frameworks.</li><li> Actively look for opportunities to enhance standards and improve process efficiency.</li><li> Be an integral part of the Agile SAFe discover and elaboration sessions. Perform requirements and design reviews, peer code reviews and PCI security reviews to ensure compliance with MasterCard standards.<br></li></ul><strong><u>All About You<br></u></strong><ul><li> Must be high-energy, detail-oriented, proactive and have the ability to function under pressure in an independent environment.</li><li> Must provide the necessary skills to have a high degree of initiative and self-motivation to drive results.</li><li> Must have knowledge about automation and cloud engineering principles.</li><li> Possesses strong communication skills -- both verbal and written \u2013 and strong relationship, collaborative skills and organizational skills.</li><li> Willingness and ability to learn and take on challenging opportunities and to work as a member of matrix based diverse and geographically distributed project team.</li><li> Knowledge of software development processes including agile processes and test driven development</li><li> Experience with the design and development of complex, multi-tier cloud native architectures.<br></li></ul><strong><u>Essential Skills Required<br></u></strong><ul><li>Technical experience using Java/JEE</li><li>Spring Framework (including Spring Boot).</li><li>Strong Linux and shell scripting</li><li>Oracle &amp; PL/SQL and advanced SQL scripting</li><li>IDE such as JBoss Developer Studio/IntelliJ<br></li></ul><strong><u>Desirable Skills<br></u></strong><ul><li>Messaging \u2013 MQ and JMS</li><li>Business rules execution systems (e.g. IBM Operational Decision Manager (ODM - formerly ILOG))</li><li>Experience integrating vendor and open source products into an overall system</li><li>Experience in Pivotal Gemfire Grid<br></li></ul>Due to COVID-19, most of our employees are working from home. We\u2019ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we\u2019re all in this together.<br><br><em>Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. <br><br></em><em>If you require accommodations or assistance to complete the online application process, please contact </em><em>reasonable.accommodation@mastercard.com</em><em> and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:22:45.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "O'Fallon",
+    "region": "MO",
+    "postal_code": "63304",
+    "street_address": null,
+    "latitude": 38.808643,
+    "longitude": -90.69996
+  }
+}

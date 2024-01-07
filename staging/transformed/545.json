@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Development Engineer in Test - System Foundation",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "At Sonos, we want to create the ultimate listening experience for our customers, and connect them to the content they want, where they want it. As part of the Sonos team, you\u2019ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do to the best work of their lives.<br><br>As a Sr SDET, you will represent the Software Quality Engineering discipline in the Software Engineering group. You will strive for service engineering excellence and work closely with the SW team in the design, implementation and testing of embedded systems, APIs and SDK integration as well as mobile to make our validation strategy a reality in this new domain. Be part of the team building and integrating the next generation IoT platform, API, and developer portal for controlling the Sonos system to bring these experiences to businesses, their customers and employees.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li> Engineer new automated frameworks to support embedded devices and cloud services/features </li><li> Drive and document test strategies, design edge cases, and conduct manual and automated testing for various features across all platforms: Mac, Win, Linux, Android and iOS </li><li> Constantly perform gap analysis to ensure good test coverage, assess and provide proactive advice or solutions </li><li> Investigate logs and triage bugs to determine root cause and establish prioritization of any issues discovered during manual and/or automated testing that runs in a CI environment </li><li> Review requirements, behavior specifications, and design documents to begin test development early and uncover issues prior to implementation </li><li> Mentor other members of the team to expand their technical competencies and to adapt the best software engineering practices <br><br></li></ul><strong><u>Basic Qualifications<br><br></u></strong><strong>What You\u2019ll Need<br></strong><ul><li> Bachelor's Degree in Computer Science, Software Engineering or equivalent experience </li><li> 5+ years of experience in a back-end or service side automation and testing role </li><li> Demonstrated proficiency writing code for automation with one or more of the following: Python, Pytest, Java, C/C++ <br></li></ul><em> Additional technologies we use across our teams <br></em><ul><li> Embedded, Restful API and Cloud automation testing tools in a B2B model </li><li> Test Automation Frameworks in Python </li><li> App automation tools such as Earl Grey, Simulators, XCode </li><li> Jira, TestRail and CI/CD tools such as Jenkins, Ansible, SonarQube and Coverity </li><li> Kubernetes and Docker containerization </li><li> AWS Cloud Services </li><li> Linux as a development platform </li><li> Tableau, DataDog and other system reliability and quality tracking tools </li><li> Open API Specifications, Data Telemetry and Code Instrumentation</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T17:14:30.000Z"
+  },
+  "company": {
+    "name": "Sonos, Inc.",
+    "link": "https://www.linkedin.com/company/sonos-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 98000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Barbara",
+    "region": "CA",
+    "postal_code": "93105",
+    "street_address": null,
+    "latitude": 34.420868,
+    "longitude": -119.69834
+  }
+}

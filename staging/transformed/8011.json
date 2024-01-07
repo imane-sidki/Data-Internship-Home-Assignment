@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "CoreMedia Video Toolbox Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Interactive Media Group (IMG) provides the media and graphics foundation across all of Apple's innovative products. IMG takes the media experience to the next level on the iOS, tvOS, watchOS, macOS and Windows platforms with technologies such as AVFoundation, CoreMedia, CoreAudio and VideoToolbox.<br><br><br>The CoreMedia engineering team within IMG is responsible for implementing software services around linear audiovisual media. This includes local media playback, video-on-demand and live streaming of multimedia content. Our media engine is used across Apple products such as Safari, TV, Photos, Music, Videos, FaceTime, iMovie on iOS and macOS as well as 3rd party applications.<br><br><br>Our team is looking for a software engineer with a technical and programming background to develop, improve and debug the VideoToolbox framework. This framework provides services for working with video encoders and decoders and performing other manipulation and conversion of video data.<br><br> <br><strong>Key Qualifications<br></strong> <br>Excellent coding skills in C or C++ on embedded platforms<br><br>Proficiency in debugging a media software system<br><br>Direct experience with integrating video encoders and decoders into the media pipeline<br><br>Experience with and understanding of real-time multithreaded programming systems<br><br> <br><strong>Description<br></strong> <br>The successful candidate for this role is a collaborative professional with phenomenal communication skills and is comfortable in a fast-paced environment. The ideal candidate has experience in systems-level programming and has worked as part of a team implementing video playback and/or capture functionality. <br><br><br>The role requires the ability to help design, build and solve media services for playback and transcoding. The ideal candidate has experience in systems-level programming with an understanding of media components.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>B.S. or M.S. in EE/CS or equivalent demonstrated ability with a strong focus in software engineering<br><br> <br><strong>Additional Requirements<br></strong> <br>Desired but not required:<br><br>Experience with Xcode and the iOS/macOS development toolchain<br><br>Familiarity with video operations such as scaling, color and format conversion<br><br>Experience with GPU shaders<br><br>Development experience with ARM processors<br><br> <br>Role Number: 200255133<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:43:19.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

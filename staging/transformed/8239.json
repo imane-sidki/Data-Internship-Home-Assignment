@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<strong><u>Job Description<br><br></u></strong>My client is a global provider of legal, regulatory and business information and analytics that help customers increase productivity, improve decision making outcomes, and advance the rule of law around the world. They provide corporations with insights about their markets, benchmarking brands against competition, and strengthen legal infrastructure. They are currently working on a $50 million project migrating $5 billion worth of products to azure.<br><br><strong><u>Required Skills &amp; Experience<br></u></strong><ul><li>5+ years experience and proven background working in a technical, Cyber Security related position.</li><li>BSc Engineering/Computer Science/IT Security or relevant experience.</li><li>Industry certification such as CSSP, AWS Certified Security, CSSLP desirable</li><li>Use of orchestration tools such as Terraform, Ansible or CloudFormation</li><li>Previous Analytic and troubleshooting experience is required</li><li>Experience migrating application from on-premises to public cloud.</li><li>Experience with Blue-Green deployment methodologies.</li><li>Experience working with containerised workloads such as Docker and Kuebernetes.</li><li>Experience with Log Management tools e.g \u2013 Elastic Stack, Graylog or Splunk</li><li>Experience working with an enterprise RDBMS such as MySQL and/or Microsoft SQL Server.</li><li>Knowledge of change control and associated procedures.</li><li>Use of Secret Management services e.g - Hashicorp Vault</li><li>Experience with any high-level programming language.</li><li>Configuration Management tools \u2013 e.g. Ansible, Puppet, Chef or equivalents.</li><li>Professional experience of working within the public cloud \u2013 Azure, AWS or GCP.</li><li>Hands-on experience of Linux and Windows server including support and troubleshooting.</li><li>System and application monitoring \u2013 e.g. Prometheus, Grafana, Nagios etc.</li><li>Professional Experience with common source control tools \u2013 e.g Git, SVN</li><li>Cloud Architecture and system design to solve key business problems and facilitate team goals.</li><li>Strong and enthusiastic technologist, able to demonstrate a broad technical knowledge</li><li>Ability to act as a point of expertise, advise others in the team on best practise and impart knowledge.</li><li>Coding and scripting experience \u2013 e.g. Powershell, Bash, Python or equivalent </li><li>Continuous Integration/Delivery Tools \u2013 e.g. Gitlab, Github, Jenkins</li><li>Cloud Architecture and system design to solve key business problems and facilitate team goals.</li><li>Hands-on experience performing application static/dynamic security and penetration assessment with tools such as \u2013 SonarQube, CheckMarx, AppScan, BurpSuite, OWASP ZAP Proxy, WebInspect, Fortify, Veracode, Nessus etc.</li><li>Good understanding of defensive, corrective and detective controls and requirements</li><li>Knowledge of OWASP Top 10/ SANS Top 25, identify vulnerabilities via manual and automated testing methods and how to effectively remediate vulnerabilities associated with each. Ability to recognize and escalate Security issues</li><li>Exposure to application security testing (source code review and web/mobile application penetration tests)</li><li>Familiarity with different types of security vulnerabilities and tools for countermeasure</li><li>The candidate should be well versed in Information security principles at an Intermediate level</li></ul> Desired Skills &amp; Experience<br><ul><li>Desirable \u2013 AWS / Azure Certifications</li></ul> The Offer<br><ul><li>Competitive Salary: Up to $55-65/hour, DOE<br></li></ul><strong><u>You Will Receive The Following Benefits<br></u></strong><ul><li>Medical Insurance &amp; Health Savings Account (HSA)</li><li>401(k)</li><li>Paid Sick Time Leave</li><li>Pre-tax Commuter Benefit<br></li></ul>Applicants must be currently authorized to work in the United States on a full-time basis now and in the future.<br><br><strong>Posted By:</strong> Noah Mackeprang",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T08:48:40.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

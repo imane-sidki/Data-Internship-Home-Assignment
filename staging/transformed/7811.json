@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p>Join us in transforming the patient experience for those suffering from chronic conditions. Our goal is to create an industry leading remote monitoring solution that allows patients to be continuously monitored by their doctor while having the freedom to live their life. Alio (https://alio.ai) has offices in San Francisco and Denver Metro and also virtual teams across North America.</p><p><br></p><p>We have a growing team that is passionate about technology and driving to come up with the best experience possible for both the end patient and the clinicians that support them. You will work with a unique multi-sensor data stream to help drive algorithm development for vital metrics, some of which have never previously been measured non-invasively.</p><p><br></p><p>Responsibilities:</p><p>\u25cf Be passionate about solving critical problems. Our mission is to produce the best</p><p>possible product for patients and clinicians. We want an environment where you are</p><p>bringing your ideas to the table so that our product excels.</p><p>\u25cf Design, build and maintain machine learning models that take multi-sensor data as</p><p>input and output predictions of biological metrics and health outcomes.</p><p>\u25cf Whether working in notebooks, local scripts or deployed containers, write and test</p><p>clean, well-documented code.</p><p>\u25cf Clean, label and maintain datasets that mix time series sensor data and health</p><p>information to enable efficient model development.</p><p>\u25cf Perform tests, apply rigorous statistical analysis and present results to a variety of</p><p>audiences comprising everyone from laypeople to domain experts.</p><p>\u25cf Define product requirements as part of a cross-functional team and write excellent</p><p>documentation as part of our quality system.</p><p><br></p><p>Successful candidates will possess the following experience, skills, and interests:</p><p>\u25cf Bachelor\u2019s degree in computer science, mathematics or related field.</p><p>\u25cf 4+ years of experience with Python required.</p><p>\u25cf 2+ years of experience with machine learning frameworks, such as PyTorch,</p><p>TensorFlow or Keras.</p><p>\u25cf Experience with time-series data strongly preferred.</p><p>\u25cf Extensive experience with and knowledge of mathematics, statistics, data structures</p><p>and algorithms.</p><p>\u25cf A great communicator who knows how to work in an agile environment.</p><p><br></p><p>Preferred qualifications:</p><p>\u25cf Post-graduate degree in a relevant discipline.</p><p>\u25cf Experience with neural networks or other deep learning architectures.</p><p>\u25cf Experience working with healthcare data.</p><p>\u25cf Experience working with IoT devices and associated data.</p><p>\u25cf Experience deploying software utilizing the AWS Well Architected Framework.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T23:10:55.000Z"
+  },
+  "company": {
+    "name": "Alio",
+    "link": "https://www.linkedin.com/company/aliomedical"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver Metropolitan Area",
+    "region": null,
+    "postal_code": "80205",
+    "street_address": null,
+    "latitude": 39.756443,
+    "longitude": -104.99415
+  }
+}

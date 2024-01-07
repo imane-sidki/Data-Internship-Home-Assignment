@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Banking,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong>DevOps style SREs with the skills listed below<br><br>Distributed systems knowledge like Hadoop/HBase, Kafka etc<br><ul><li>Average coder in Java.</li><li>Python + Shell scripting knowledge is a plus.</li><li>Production maintenance experience.</li><li>Basic Kubernetes knowledge.</li><li>Telemetry domain knowledge is huge plus.</li><li> Hubble expertise<br></li></ul><strong><u>Responsibilities<br></u></strong><ul><li>Production maintenance and on-call.</li><li>Debug and fix Java code. </li><li>Help customer support team in answering few complicated user questions.</li><li>Improve automation and tooling.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T05:13:45.000Z"
+  },
+  "company": {
+    "name": "Tata Consultancy Services",
+    "link": "https://in.linkedin.com/company/tata-consultancy-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 90000,
+    "max_value": 131000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

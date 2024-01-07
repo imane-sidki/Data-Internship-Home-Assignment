@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p>Our client continues to grow and is adding a Data Scientist to their team.The Data Scientist will independently pursue research tasks to achieve objectives defined by senior researchers and product owners. This is not an analyst position, but rather an R&amp;D role where the scientist works with developers, operations, and quality assurance engineers to integrate novel and state-of-the-art artificial intelligence algorithms with a high-availability, scalable platform. The Data Scientist automates the path from data to decisions.</p><p></p><p><strong>Here\u2019s what you\u2019ll be doing:</strong></p><p><strong></strong></p><p>\u00b7Develop and tune statistical learning models for data analysis in fraud environments.</p><p>\u00b7Collaborate with senior researchers and cross-functional members to understand team needs and devise possible solutions.</p><p>\u00b7Keep up-to-date with the latest technology trends.</p><p>\u00b7Communicate results and ideas to team members and project stakeholders.</p><p>\u00b7Implement statistical and mathematical methodologies as defined in papers and other references.</p><p>\u00b7Validate and verify models before and after deploying to production.</p><p>\u00b7Adhere to appropriate data management, model governance, and version control policies.</p><p></p><p><strong>Here\u2019s what you bring to the team:</strong></p><p><strong></strong></p><p>\u00b73+ years project experience (or Masters + 2 years or Ph.D. + 0 years) in network science, graph theory, and supervised and unsupervised classification techniques: Bayesian analysis, support vector machines, neural networks, or boosted or bagged decision trees.</p><p>\u00b7Successful research documented by publications and/or a Ph.D. or Master\u2019s Degree in computational science, natural science, applied math, or engineering field.</p><p>\u00b7Programming skills in Python, Scala, or Java, and machine learning packages such as Spark MLlib (preferred), Scikit-learn, TensorFlow, or Keras.</p><ul><li>\u00b7Experience with large-scale data storage and retrievals like RDBMS, NoSQL databases, or HDFS.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T17:57:42.000Z"
+  },
+  "company": {
+    "name": "Advanced Career Networks",
+    "link": "https://www.linkedin.com/company/advanced-career-networks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boise Metropolitan Area",
+    "region": null,
+    "postal_code": "83709",
+    "street_address": null,
+    "latitude": 43.604378,
+    "longitude": -116.204384
+  }
+}

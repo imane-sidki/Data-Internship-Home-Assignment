@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>About Us</strong></p><p>We're an innovative tech consultancy - a team of problem solvers. Since 1993 we have been finding better ways to solve complex technology problems for some of the world\u2019s leading organizations and delivered solutions that millions of people use every day.</p><p>We bring together experts from diverse backgrounds and experiences in a collaborative and open culture to deliver outstanding outcomes for our clients, and a stimulating and rewarding environment for our people.</p><p>Our clients tell us that our people are the best they\u2019ve worked with \u2013 not only because of their professional ability, but also their behavior and attitude. As part of the BJSS Software Engineering team, you will hone all these skills delivering real engagements for a variety of clients.</p><p><br></p><p><strong>About the Role</strong></p><p>We love to experiment with the latest tools, technologies, and techniques to improve how we deliver our solutions and as a software engineer you can expect to be involved in:</p><ul><li>Engineering software solutions - working with prototypes and proof of concepts and developing fully functioning applications based on frameworks such as .Net and Spring/Spring Boot, and using languages including Java, Scala, JavaScript, Python, C# andGo<em>.</em></li><li>Producing rich front-end UI and efficient services with technologies likeReact,Angular andVue.</li><li>The automation of environmental and application deployment, scaling, and management usingKubernetes,Terraform, both in the cloud (AWS,AzureorGCP) or on-premise.</li></ul><p><br></p><p><strong>About You</strong></p><ul><li>You're an engineer at heart and enjoy the challenge of building complex software solutions</li><li>You want to work across a range of tech environments. Your priorities will be building new systems and improving stability, security and efficiency</li><li>You're keen to learn new technologies and languages</li><li>You're comfortable operating in an Agile environment with a good working knowledge in areas such as CI/CD, build pipelines, testing and architecture</li><li>You have a good understanding of computing fundamentals (e.g. logic, data structures, algorithms, low-level architecture, networks stack) along with strong software design skills, including OO, and knowledge of version control systems such as Git</li><li>You love nothing more than grabbing a pen and whiteboarding the next challenge</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T15:40:32.000Z"
+  },
+  "company": {
+    "name": "BJSS",
+    "link": "https://uk.linkedin.com/company/bjss"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 61900,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

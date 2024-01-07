@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist / Machine Learning Engineer for AVConference",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Our team is responsible for implementing software services for realtime video conferencing and media distribution systems. Our custom AV pipeline is used for marquee features such as FaceTime, Group FaceTime, SideCar, AirPlay4K and HomeKit IP Camera. Apple's Interactive Media Group (IMG) is looking for a proactive and hardworking data scientist to help deliver the best real-time video user experience.<br><br> <br><strong>Key Qualifications<br></strong> <br>\u2022 Expertise in statistical data analysis, data visualization and AB testing<br><br>\u2022 Excellent understanding of machine learning algorithms including regression, clustering, classification and dimensionality reduction.<br><br>\u2022 Experience in retrieving and processing large amounts of data from structured and unstructured databases<br><br>\u2022 Proficiency in Python using data science libraries and machine learning frameworks<br><br><br>\u2022 You demonstrate strong communication skills and the ability to explain and understand complex technical concepts<br><br>\u2022 You are a highly motivated, self-directed and fast learner<br><br>\u2022 You have excellent judgment and integrity with the ability to make timely and sound decisions<br><br> <br><strong>Description<br></strong> <br>As a data scientist you will contribute to evaluating and improving the performance of Apple\u2019s realtime media solutions. The ability to build advanced data visualizations, perform comprehensive analysis and deliver solid conclusions is essential for this position. <br><br><br>Our team builds automated pipelines and cloud services to support data and machine learning processing. You will collaborate with a team of software engineers and cross-functional leaders to bring analytics rigor and drive key decisions.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>B.S/M.S/PhD in EE/CE/CS or relevant quantitative field with a strong focus in data science and machine learning<br><br> <br><strong>Additional Requirements<br></strong> <br>Software development experience in C or Objective-C is preferred but not required<br><br> <br>Role Number: 200146783<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-17T15:18:05.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 218000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

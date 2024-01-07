@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Test Engineer",
+    "industry": "Mental Health Care",
+    "description": "<p><strong>Who is Mindstrong?</strong></p><p><br></p><p>Mindstrong is a human-centered technology company, focused on optimizing the consumer experience for receiving and providing best-in-class mental healthcare across the illness and demographic spectrum. We are actively deploying a new learning behavioral health system, which relies on rapid innovations in low- burden measurement science and coordinated care delivery, focused on helping individuals living with a serious mental illness (SMI) live their fullest lives.Our services are offered to people with an SMI through active partnerships with several nationwide health insurance payers.</p><p><br></p><p>We\u2019re setting out to radically simplify mental healthcare for those living with a serious mental illness. Join us on this important journey!</p><p><br></p><p><strong>What is the Senior Software Engineer in Test role?</strong></p><p><br></p><p>Our Caseworks provide care using the Care Web application. We are looking for a stellar and passionate Senior Software Engineer in Test - Web to perform manual and automation testing of our Care Web application and its interaction with backend microservices and nosql databases to ensure correct functionality. In this role you will actively participate in manual testing, writing automated tests and application troubleshooting. You will need to understand how the web application uses backend services to deliver its functionality. You will use this understanding to set up specific test scenarios, to automate these scenarios and to help identify the root cause of defects.</p><p><br></p><p>Our ideal candidate is a bright and motivated Engineer who is excited about shipping quality products andeager to apply their experience with manual and automated testing. This is a great opportunity for someone who wants to learn and grow as they are contributing to the quality of our products.</p><p><br></p><p><strong>What you'll be doing:</strong></p><p><br></p><ul><li>Writing new test cases or modifying existing to cover new or changed functionality</li><li>Defining test requirements, test strategies and test designs</li><li>Conducting manual testing of Care Web application and its interaction with backend microservices and nosql databases.</li><li>Write End to End automated tests for Web app and REST services.</li><li>Manage multiple priorities and tasks in a dynamic work environment</li></ul><p><br></p><p><strong>Who you are:</strong></p><p><br></p><ul><li>You feel good about your work knowing that what you do will affect the lives of millions of people around the world</li><li>Entrepreneurial and eager to thrive in a startup environment</li><li>Strong communicator (oral and written)</li><li>A good person, highly ethical and accepting of others</li></ul><p><br></p><p><strong>Your background and skills:</strong></p><p><br></p><ul><li>Delivering quality products across a wide range of running environments excites you</li><li>You are familiar with web and REST API testing and have programming experience in Java, Ruby or Python.</li><li>You are familiar with Front End automation frameworks such as Selenium, Cypress and REST API automation frameworks such as REST Assured.</li><li>Working knowledge of Cloud technologies (AWS EC2, Docker) is a plus</li><li>Working knowledge of no-sql databases such as MongoDB is a huge plus.</li><li>Experience with CI/CD (Jenkins, TeamCity, Bamboo, Fastlane etc.) is a plus</li><li>Strong aptitude for learning new technologies</li><li>You use judgment in selecting methods, techniques and evaluation criteria for successful results</li><li>B.S. in Computer Science or related field OR equivalent experience</li><li>5+ years of experience in testing web applications, back end services and databases.</li></ul><p><br></p><p><strong>Competitive Benefits:</strong></p><p><strong></strong></p><ul><li>Remote work! While we have offices in the Bay Area and would love to see you in person, we\u2019re a flexible first company - work where you do your best work.</li><li>A robust healthcare package, including Medical, Dental, and Vision plans, plus more!</li><li>Wellness programs designed to help you stay financially, emotionally, and physically healthy!</li><li>Savings through a company sponsored 401k plan</li><li>We take self care personally, we offer 11 paid holidays + Flexible, untracked PTO so you can create balance between work and play</li><li>Flexible schedules - we\u2019re all over the U.S., so we can flex schedules easily with core hours to ensure solid collaboration time and flex beyond that</li></ul><p></p><p><br></p><p><em>Mindstrong is proud to be an Equal Employment Opportunity employer that celebrates diversity. We are committed to providing equal employment opportunities to all employees and applicants. All individuals seeking employment at Mindstrong are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other characteristic protected by federal, state, or local laws. This policy applies to all terms and conditions of employment. Mindstrong also strives for a safe and robust workplace and prohibits harassment of any kind. If you have a disability or special need that requires accommodation for interviewing, please let us know by emailingcontact-recruiting@mindstronghealth.com</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:14:06.000Z"
+  },
+  "company": {
+    "name": "Mindstrong ",
+    "link": "https://www.linkedin.com/company/mindstrong"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

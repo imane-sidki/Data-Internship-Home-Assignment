@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer",
+    "industry": "Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>At Fannie Mae, futures are made. The inspiring work we do makes an affordable home a reality and a difference in the lives of Americans. Every day offers compelling opportunities to modernize the nation&apos;s housing finance system while being part of an inclusive team using new, emerging technologies. Here, you will help lead our industry forward, enhance your technical expertise, and make your career.<br><br><strong><u>Job Description<br><br></u></strong>Our Integrated Technology Solutions (ITS) team is looking for multiple Full-Stack Software Engineers to help develop and support our mission critical applications. These applications support some of the most important financial activities happening at Fannie Mae today (a critical element in the national economy). Additionally, you will be a part of an on-going effort to modernize our platforms across ITS as we work in an agile and collaborative manner.<br><br>We are looking for highly motivated engineers who want to solve tough technical challenges and learn and incorporate new technologies into their skillset. In this role, you would use a tech stack including Java, Spring Boot, and Microservices-based architecture in AWS. You will be engaged across the software development life cycle to create, enhance, and maintain platforms and capabilities in a collaborative and Agile environment.<br><br><strong><u>Key Job Functions<br></u></strong><ul><li>Participate in all team ceremonies including planning, grooming, product demonstration and team retrospectives.</li><li>Deliver software features using high end development tools to assist or facilitate development process.</li><li>Leverage Fannie Mae DevOps tool stack to build, inspect, deploy, test and promote new or updated features.</li><li>Collaborate with other teams to set up, configure and maintain a continuous integration environment.</li><li>Work with product owners and other development team members to determine new features and user stories needed in new/revised applications or large/complex development projects.</li><li>Support complex architecture and design sessions</li><li>Participate in code reviews with peers and managers to ensure that each increment adheres to original vision as described in the user story and all standard resource libraries and architecture patterns as appropriate.</li><li>Respond to trouble/support calls for applications in production in order to make quick repair to keep application in production.</li><li>Create or update documentation in support of development efforts. Documents may include detailed specifications, implementation guides, architecture diagrams or design documents.<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>EDUCATION <br></strong><ul><li>Bachelor&apos;s Degree or equivalent required <br></li></ul><strong><u>Minimum Experience<br></u></strong><ul><li>2+ years of related enterprise experience<br></li></ul><strong><u>Required Skills<br><br></u></strong><strong>SPECIALIZED KNOWLEDGE &amp; SKILLS<br></strong><ul><li>Experience with full-stack development/design using Java/JEE, Python, or other modern programming language</li><li>Experience with Spring related technologies such as Spring Core, Spring Boot, Spring MVC, and Spring Integration</li><li>Experience with CI/CD with knowledge of Git Hub, Maven and Jenkins</li><li>Experience in production support that has high visibility/SLA</li><li>Strong problem-solving skills in troubleshooting issues and maintenance of Web Services</li><li>Ability to collaborate and work with stakeholders across multiple groups</li><li>Ability to effectively communicate and collaborate with other engineering teams and key business stakeholders <br></li></ul><strong><u>Desired Skills<br></u></strong><ul><li>AWS or other cloud technology experience or strong desire to work on cloud technology implementation and development</li><li>Experience with implementing integration solutions with Microservices, RESTful Web Services and Web APIs</li><li>Experience as a technical lead on projects</li><li>Ability to lead in an Agile environment</li><li>Knowledge or experience in basic DevOps support and deployment</li><li>Strong development/technical skills in Tomcat, Maven, Git and Oracle</li><li>Experience in front-end technologies such as Angular, JavaScript, etc.<br></li></ul><strong><em>Fannie Mae has multiple Software Engineer opportunities currently available across our Integrated Technology Services division. For more information about Fannie Mae, visit</em></strong> <strong><em>http://www.fanniemae.com/progress<br></em></strong><ul><li>Please note that this invitation is NOT an active opening/posting. Submitting an application constitutes an expression of interest in similar current and future openings at Fannie Mae. A recruiter will review your qualifications and if your skillset aligns to our openings , you may be contacted. <br></li></ul><strong><em>EMPLOYMENT<br><br></em></strong><em>As a condition of employment with Fannie Mae, any successful job applicant will be required to successfully complete a background investigation.<br><br>Fannie Mae is an Equal Opportunity Employer.<br><br></em><strong><u>Additional Information<br><br></u></strong>Job REF ID: REF2648U<br><br>The future is what you make it to be. Discover compelling opportunities at Fanniemae.com/careers.<br><br>Fannie Mae is an Equal Opportunity Employer, which means we are committed to fostering a diverse and inclusive workplace. All qualified applicants will receive consideration for employment without regard to race, religion, national origin, gender, gender identity, sexual orientation, personal appearance, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation in the application process, email us at careers_mailbox@fanniemae.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:04:36.000Z"
+  },
+  "company": {
+    "name": "Fannie Mae",
+    "link": "https://www.linkedin.com/company/fannie-mae-corporation_19722"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

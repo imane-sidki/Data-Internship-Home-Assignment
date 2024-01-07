@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "SimpliSafe's Internal Monitoring team is on a mission to level up the alarm monitoring and dispatch experience, both for the call center dispatchers who handle alarms, and for the customers who need information delivered to their fingertips so they can understand what's happening inside and outside their homes when alarms do happen. We're looking for motivated early-career Software Engineers to design, develop, maintain and own software solutions. We're a full-stack team, with problems ranging from basic data capture to at-scale distributed systems; because we deal with life safety, reliability, simplicity, and performance are our key pillars. This is an entry-level position; new graduates and non-traditional backgrounds are welcome!<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Develop quality solutions based on collaborative designs, working with more senior engineers to understand product requirements.</li><li>Develop and maintain tests to ensure the solution continues to function at a high level, and can be maintained &amp; refactored safely.</li><li>Long-term support &amp; maintenance work, such as performance optimization, bug fixes, feature additions, design and usability improvements, automation, etc.</li><li>Document the systems you are building to ensure they can be maintained by the next generation of developers.</li><li>Serve as an on-call first responder for software owned by your team.<br></li></ul>You're a good fit if...<br><ul><li>SWE I: You have worked on pieces of a feature or small not-for-production projects, and have consumed web APIs built by other developers.</li><li>SWE II: You have worked solo on small features or delivered small, tightly scoped projects, including designing and building APIs for others to consume.</li><li>You have experience with at least one major programming language (JavaScript/TypeScript, Python, Java, C#, Go, etc.).</li><li>You're driven by curiosity and a desire to continuously learn and grow.<br></li></ul>Nice-to-Haves<br><ul><li>At least 1 year of professional experience in any of the major programming languages from above.</li><li>Experience with lean/agile software development principles and practices, including continuous integration &amp; delivery, test automation, etc.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-03T17:09:19.000Z"
+  },
+  "company": {
+    "name": "SimpliSafe",
+    "link": "https://www.linkedin.com/company/simplisafe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

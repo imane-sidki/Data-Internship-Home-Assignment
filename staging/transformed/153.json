@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<p><strong>Machine Learning Research Engineer</strong></p><p><br></p><p><strong>Overview</strong></p><p>We are looking for an experienced Machine Learning Research Engineer to join our fast-growing technology team. This role will require you to help with design, implement and commercialize driver monitoring and driver assistance algorithms. You will have access to very large datasets and will get to deploy new algorithms/models into thousands of vehicles.</p><p><br></p><p><strong>Responsibilities</strong></p><p><br></p><ul><li>Design and commercialize algorithms characterizing driving behavior</li><li>Design, implement and track key metrics; and architect data-driven solutions</li><li>Improve machine learning infrastructure for scalable training and inference</li><li>Innovate and develop proof of concept solutions showcasing novel capabilities</li></ul><p><br></p><p><strong>Requirements</strong></p><p><br></p><ul><li>Masters or PhD with 3+ years\u2019 experience in Computer Science, Electrical Engineering or a related area</li><li>Excellent programming skills- Python (required) and C++ (desired)</li><li>Research or industry experience with machine learning models</li><li>Ability to take abstract product concepts and turn them into reality</li><li>Ability to innovate on cutting-edge problems without documented solutions</li><li>Experience with successfully applying machine learning to solve a real-world problem</li><li>Experience with conducting successful statistical experiments</li></ul><p><br></p><p><strong>Desired Skills</strong></p><p><br></p><ul><li> Experience with image, video and time-series data</li><li>Experience with road scene understanding (objects, lanes, interactions, signs, etc.)</li><li>Experience with person/driver scene understanding (pose, distracted, eye status etc.)</li><li>Experience with Predictive analytics</li><li>Publications in top conferences (CVPR/NeurIPs/ICML/ICLR)</li></ul><p><br></p><p>We are committed to an inclusive and diverse team. Netradyne is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T17:15:51.000Z"
+  },
+  "company": {
+    "name": "Netradyne",
+    "link": "https://www.linkedin.com/company/netradyne"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego County",
+    "region": "CA",
+    "postal_code": "92101",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "We are looking for an experienced and self-motivated Machine Learning Engineer to join the Data Services team at Anvyl. You will collaborate with skilled designers, data scientists and data engineers to deliver machine learning products for modern supply chains managed on Anvyl. You should demonstrate a deep understanding of statistics and applied Machine Learning, curiosity, data fluency, and a collaborative work ethic.<br><br>What You'll Do<br><ul><li>Build products that unlock supply chain insights using data science</li><li>Develop machine learning models and pipelines for research and production</li><li>Build robust, lasting, and scalable products</li><li>Create models which help drive value for users, and our company<br><br></li></ul>This is a remote position.<br><br><strong>Requirements<br><br></strong>What We\u2019d Love to See:<br><ul><li>You have 3 or more years of experience with a degree in Computer Science, Artificial Intelligence, Machine Learning, or related field.</li><li>You have experience in developing Machine Learning models such as: Classification/Regression Models, NLP models, and Deep Learning models; with a focus on productionizing those models into product features.</li><li>You have experience with data processing, feature development, and model optimization.</li><li>You have a solid understanding of statistics such as forecasting, time series, hypothesis testing, classification, clustering or regression analysis, and how to apply that knowledge in understanding and evaluating machine learning models.</li><li>You have data wrangling skills and can easily handle complex datasets using SQL, including complex joins.</li><li>You are familiar with python\u2019s math, science, and data libraries, including pandas, numpy, scipy, and nltk.</li><li>You have worked with cloud based data warehouse technology such as Bigquery and Amazon Redshift.</li><li>You have at least some experience with large-scale data processing and distributed systems such as: BigQuery/Redshift, Spark/Dask.</li><li>You are comfortable owning your project timelines, prioritizing tasks with user and business impact in mind, assessing speed/precision tradeoffs, and proactively communicating project statuses to stakeholders and teammates.</li><li>You work well collaboratively, both in a technical and cross-functional context.</li><li>You are curious and excited to learn new methods, approaches and perspectives, and are eager to investigate interesting trends in the data.<br><br></li></ul>Example projects you could work on at Anvyl:<br><ul><li>Develop machine learning models to identify supply chain risks</li><li>Develop NLP models to unpack communications between brands and suppliers</li><li>Discover and integrate data from external sources to form the foundation of a new Data Product</li><li>Design workflows and analysis tools to streamline the development of new Machine Learning models<br><br></li></ul>What we value:<br><ul><li>Desire to learn and grow </li><li>Bias towards action </li><li>Team-oriented attitude, you derive joy from seeing others succeed </li><li>Enthusiasm for, and interest in, how technology impacts the physical world we live in</li><li>Great restaurant recommendations!<br><br></li></ul><strong>Benefits<br><br></strong>We are a team that believes in cooperation, learning, quality, and putting our people and customers up front. We are a small company offering large company benefits - health, dental, and vision offerings, 401k availability, and many more perks. We are a remote company and want to make sure our employees have the flexibility to do their work where they feel best, and know that they can step away to recharge with our unlimited paid time away.<br><br>We are a diverse team spanning all professions, cultures, races, gender, and orientations. Our teammates are located across the country as well as in China, giving us a truly global footprint. We enjoy spending time together in person when - especially if there is Korean BBQ - or having a group brain-storming session on the next product innovation.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T00:52:21.000Z"
+  },
+  "company": {
+    "name": "Delbi Promotions",
+    "link": "https://za.linkedin.com/company/delbi-promotions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<strong>An early stage startup with secure revenue and funding is looking to build out their data team with several data scientists of all levels! 100% remote, but someone on the East Coast preferred!<br><br></strong>This Jobot Job is hosted by Christine McNamara<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $90,000 - $150,000 per year<br><br><strong>A Bit About Us<br><br></strong>We are a small startup looking to double in size over the next year. Our bleeding edge solutions are helping change the way the insurance industry operates on a daily basis and we are looking for Data Scientists to help us achieve these goals. The role would be entirely greenfield development and would offer you the opportunity to be involved in the overall technical direction of our data and analytics environment. We have the luxury of offering you all of the ownership and impacts as a small startup, while also giving you the security of a stable organization.<br><br><strong><br><br><strong>Why join us?<br><br></strong></strong><ul><li>Opportunity to build something from scratch</li><li>Medical, dental, vision coverage</li><li>401k with company match</li><li>Full remote work </li><li>Exponential growth opportunities</li><li>Unlimited PTO</li><li>Competitive compensation packages<br></li></ul><strong>Job Details<br><br></strong><strong>Requirements<br></strong><ul><li>2+ years of professional work experience</li><li>Experience building out data pipelines from scratch (Python, R)</li><li>Good exposure to data warehousing and ETL tools (Snowflake, Redshift, etc)</li><li>Strong database experience with extensive experience using SQL</li><li>Experience with cloud based technologies (Azure, AWS)</li><li>Comfortable building out CICD pipelines and deploying ML models into production</li><li>Version Control experience (Git)</li><li>Extensive problem solving experience and self-starter attitude<br></li></ul>Nice to Haves<br><ul><li>Bachelors in STEM related field</li><li>Experience with Spark or other streaming technologies</li><li>Domain knowledge experience working with insurance related data sets</li><li>Experience working on projects from end to end</li><li>Customer facing experience to gather requirements and deliver solutions effectively</li><li>Machine Learning (xGBoost, GLMs, Random Forest, NLP, NLTK, Computer Vision)</li><li>Experience working with structured and unstructured data sets</li><li>Mentoring junior level engineers<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

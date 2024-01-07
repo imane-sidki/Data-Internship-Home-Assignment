@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Infotrend, Inc. is seeking for a cryptocurrency expert who has the understanding and on-hands experience with the following:</p><p><br></p><p><strong>Responsibilities:</strong></p><p>\u00b7Hands on experience with setting up nodes for Bitcoin and Ethereum.</p><p>\u00b7Understand the major and critical data points in cryptocurrency transactions.</p><p>\u00b7Extract mempool data from nodes.</p><p>\u00b7Understanding smart contracts and extract transactions from nodes.</p><p>\u00b7Understand links and correlation between transactions within crypto data</p><p>\u00b7Identify, track and corelate how transactions work within different exchanges</p><p>\u00b7Do in-depth analysis of connection/co-relations between the blockchain and Exchange data.</p><p>\u00b7Provide ad-hoc assistance on questions related to cryptocurrency data.</p><p>\u00b7Provide guidance on data analysis and visualization of blockchain/exchange data.</p><p>\u00b7Use scripting languages to perform extract crypto data and run analytics.</p><p><strong>Requirements:</strong></p><p>\u00b7Bachelor\u2019s degree in Computer Science, Data Analytics or similar program</p><p>\u00b7Hands on experience with setting up nodes on Bitcoin and Ethereum</p><p>\u00b7In depth experience with managing block and transaction data for cyptocurrencies.</p><p>\u00b7Experience with creating products and services that interface with public, private, and . permissioned blockchains.</p><p>\u00b7Knowledge of data structures, especially crypto technology preferred.</p><p>\u00b7Experience with SQL, Java Script, Python or R and ability to drill into the data and gain valuable . insights.</p><p>\u00b7Strong problem-solving skills, attention to detail and high-quality output</p><p>\u00b7Experience developing software applications and features in an Agile environment.</p><p>\u00b7Self-motivated and able to tackle challenging, complex problems in an individual or</p><p>team-based setting.</p><p></p><p><strong>US Citizenship Required</strong></p><p><strong>Ability to obtain and maintain Public Trust Security Clearance</strong></p><p><br></p><p><br></p><p><em>Infotrend, Inc. is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by federal, state, or local law.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T20:00:16.000Z"
+  },
+  "company": {
+    "name": "Infotrend Inc",
+    "link": "https://www.linkedin.com/company/infotrend-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 47700,
+    "max_value": 85300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington DC-Baltimore Area",
+    "region": null,
+    "postal_code": "21201",
+    "street_address": null,
+    "latitude": 38.873062,
+    "longitude": -77.007385
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Technology Development Group (TDG)",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Are you ready to explore applications for augmented reality with a talented and collaborative team? Do you thrive on building solutions rapidly and then iterating on them? We are the team that built many of the key computer vision, computer graphics and machine learning algorithms for ARKit. We're looking for a driven and dedicated Senior Software Engineer to join the ARKit team. As a member of this dynamic group, you will have the unique and rewarding opportunity to shape upcoming products that will delight and inspire millions of Apple\u2019s customers every day.<br><br><br>To succeed within this role, you should have shown experience in several of the following areas:<br><br> <br><strong>Key Qualifications<br></strong> <br>3+ years of software design, development, and shipping production level code<br><br>Experience in C/C++ or ObjC to write clean and well structured code required <br><br>Ability to write clean, high performing code<br><br>Experience developing and/or maintaining large frameworks<br><br>Strong object-oriented programming and design skills with an emphasis on API design, efficiency, and scalability<br><br>Understanding of SW/HW parallelism, threads, processes, and asynchronous processing<br><br>Experience working with cross-functional collaborative teams<br><br>Demonstrated ability to learn and grow when approaching new features and technology<br><br>Proven ability to effectively prioritize and deliver tasks on schedule<br><br>Passion for delivering high quality software to end users<br><br> <br><strong>Description<br></strong> <br>Your job responsibilities will include:<br><br><br>-Work with researchers and engineers to integrate state-of-the-art algorithms into software frameworks to ship in upcoming products <br><br>-Collaborate closely with cross-functional teams at Apple to design, implement, and maintain application programming interfaces (APIs) <br><br>-Enable algorithms to run efficiently on resource constrained devices <br><br>-Benchmark, improve performance, and refine implementation to deliver high quality production code <br><br>-Write unit tests for robustness and reliability <br><br>-Contribute to code reviews and architectural reviews <br><br>-Ensure the framework is modular, efficient, and scalable for different applications and platforms<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\u2019s degree or higher in Computer Science or equivalent field<br><br> <br>Role Number: 200260206<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:16.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

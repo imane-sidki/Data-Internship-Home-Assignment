@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong>Primary Skills:</strong></p><p><br>1. Good hands on experience on AWS Container Orchestration ( Kubernetes, ECS</p><p>)<br>2. Good to have knowledge of REST API, Spring Boot and Microservice architectur</p><p>e.<br>3. Experience on tools like bitbucket/GitHub, Postman, Swagg</p><p>er <br>4. Good to have knowledge of CI/CD pipeline like Bamboo, Jenki</p><p>ns. <br>5. Good knowledge and experience on AWS ECS Farget, Lambda, S3, CloudWatch, SQS/SNS, Dyna</p><p>moDB.<br>6. Experience on Distributed Traceability tools like HoneyComb, X-Ray, Splu</p><p>nk etc<br>7. Good knowledge and experience on Synthetic Monitoring, Performance tools like</p><p> JMeter<br>8. Good knowledge of SRE concepts like Resiliency, Availability, Circuit- Breaker , Chaos Testi</p><p><br></p><p><strong>ng, SPOG<br><br>Seconda</strong></p><p>ry Skills:<br>1. Nice to have experience on Agile m</p><p>ethodology.<br>2. Nice to have Configuration Management tools (C</p><p>hef, Puppet)<br>3. Nice to have Infrastructure as Code (Terraform, Cl</p>oudFormation)",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-14T21:53:26.000Z"
+  },
+  "company": {
+    "name": "Sky Solutions",
+    "link": "https://www.linkedin.com/company/sky-solutions-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Malvern",
+    "region": "PA",
+    "postal_code": "19355",
+    "street_address": null,
+    "latitude": 40.033436,
+    "longitude": -75.51271
+  }
+}

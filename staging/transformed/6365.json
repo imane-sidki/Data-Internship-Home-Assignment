@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Data Scientist</strong></p><p><strong>Location:</strong> Bellevue, WA (mostly remote work)</p><p><strong>Contract:</strong> 10 month contract with potential to extend</p><p><strong>Benefits: </strong>3 weeks of PTO annually</p><p><strong>Pay Rate:</strong> $50/hr on W2</p><p><br></p><p><strong>DRI tickets (10-25 a week) &amp; Experimentation support</strong></p><ul><li>Respond to tickets, flag if need to be raised to EXP or guide teams. Typical issues.</li><li>Debug why scorecards aren\u2019t running/ late, build interesting slices etc.</li><li>How to analyze a scorecard (needs ramp up with DS/Dev)</li></ul><p><br></p><p><strong>Experimentation health</strong></p><ul><li>Build back P0 (auto shut down) reporting - no reports today to see scorecard delays.</li><li>Metrics and templates clean up to reduce load on COSMOS where unnecessary</li><li>Make sure metrics have updated descriptions</li><li>Monitor and remove certain repeat scorecards as needed </li><li>Triage new metric additions / MG changes to follow best practices (description, use cache) etc. (include DS/Dev)</li></ul><p><br></p><p><strong>Dashboard</strong></p><ul><li>Monitor platform experimentation health</li><li>Ensure updates are done at least weekly for syncs</li><li>Updates to dashboard for new data</li></ul><p><br></p><p><strong>Experiment program</strong></p><ul><li>Arrange and or share exp brownbags and remind / rally folks experiments</li><li>Maintain a FAQs / Wiki</li></ul><p><br></p><p><strong>Communication</strong></p><ul><li>Share monthly updates on health, top changes, top asks, top questions (offline or office hrs)</li><li>Share live sites via emails / banners</li><li>Update banners in exp or tools etc.</li><li>Update or follow up on tooling messages to give self-serve directions -&gt; propose fixes/solutions.</li><li>Office hours support - Host it, Pull experts, Gather questions and follow ups, answer frequent ones</li></ul><p><br></p><p><strong>Required Qualification</strong></p><ul><li>SQL, Python, basic coding/scripting skills</li><li>Dashboarding - PowerBI or Tableau</li><li>Excellent communication and partnerships skills</li><li>Problem solving skills</li><li>6mo+ A/B Experimentation &amp; Testing</li><li>Data Science experience</li></ul><p><br></p><p><strong>Preferred Qualification</strong></p><ul><li>Operations or Technical support handling experience</li><li>C family language programming experience</li><li>MS data stack experience like Cosmos/SCOPE</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-26T17:01:46.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

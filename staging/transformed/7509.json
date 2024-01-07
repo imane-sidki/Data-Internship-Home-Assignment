@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Search Data Infrastructure - Apple Media Products - Seattle",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Media Products (iTunes) Search Team is looking for extraordinary engineers to help build next-generation search data pipelines for Apple's ground breaking devices and platforms. We are a key part of the Apple ecosystem, supporting all users. iTunes Store and related platforms are the largest online marketplace for Apps, Music, Movies, Books, Podcasts and more on iOS, macOS, tvOS and watchOS. We operate globally in languages around the world. We strive to provide the best search experience for our customers.<br><br> <br><strong>Key Qualifications<br></strong> <br>5+ years of relevant industry experience building and scaling off line data systems<br><br><br>Experience developing high quality, high performance, containerized data pipelines in Scala and Spark<br><br><br>Hands on experience across the software engineering stack<br><br><br>Experience in the design and delivery of state of the art production infrastructure <br><br><br>Strong debugging and performance tuning skills<br><br><br>Passion. Our customers love what we do at Apple and we want the same from our engineers<br><br>PREFERRED SKILLS<br><br>Understanding of the search and information retrieval fundamentals including instrumentation, logging, indexing, retrieval and ranking <br><br><br>Experience building real-time data ingestion pipelines using big data / streaming technologies like Kafka, Spark, Hadoop, Akka etc<br><br><br>Familiarity with A/B experimentation and data/metric-driven product development<br><br> <br><strong>Description<br></strong> <br>We\u2019re a diverse collective of thinkers and doers, continually reimagining what\u2019s possible to help us all find what we love in new ways. Our engineers have created some tough acts to follow, and they continue to lead us to innovative breakthroughs. Because they\u2019re driven not by what would be easy, but by what would be amazing. The AMP Search team powers search for iTunes, App Store, Apple Music, Apple TV, Podcasts, Books and more on iOS, macOS, tvOS, watchOS, web browsers, 3rd party devices, and Windows. We are looking for extraordinary researchers to help build next-generation search features for Apple's ground breaking devices and platforms. We are a key part of the Apple ecosystem.<br><br><br>Search is driven by data. On our team you will have a major impact on the way people search &amp; discover Apple Media content on Apple devices worldwide. We work on improving and scaling next generation Search across Apple Media Products for iTunes, App Store, Apple Music, Apple TV, Podcasts, iBooks, and so much more! You will build search off line data pipelines &amp; infrastructure to better support recall, relevance, ranking, real-time indexing, and personalization. You will contribute to a large scale system design, query/document processing, index generation, and result set analysis and enhance the performance and latency of the core search data platform. You will also design &amp; Implement solutions for automated unit and integration tests that catch anomalies and bugs early, guaranteeing the stability of our data sets all while working cross-functionally with other engineering teams.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelors in Computer Science or related discipline, Masters or PhD preferred.<br><br><br>Apple is an equal opportunity employer that is committed to inclusion and diversity. Visit jobs.apple.com to learn more. If you do not consent to Apple storing your information in our system for Recruiting purposes, please reply to this email requesting deletion. For more information on Apple\u2019s privacy policy please visit https://www.apple.com/legal/privacy/.<br><br> <br>Role Number: 200268947<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:12:15.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

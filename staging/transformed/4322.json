@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Cloud",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "<strong>NVIDIA is looking for an outstanding Site Reliability Engineer to join its Digital Marketing Organization.<br><br></strong>Site Reliability Engineer is responsible for ensuring that all of NVIDIA\u2019s Digital Marketing Services are reliable, fast and efficient, all the time. The person in this position will be responsible for the managing and improving AWS Infrastructure, scripting and Datadog platform management. SRE will have all the existing tools and software at fingertips to dedicatedly help monitor the Platform and Services. In addition, SRE will assist in the development or improvement of new monitoring and alerting tools, tests plan, updates to existing infrastructure, and further automate our deployment pipeline. The ideal candidate will be encouraged to act and respond to urgent issues and outages (globally and regionally), validating the deployment process, tackle issues in the field, and most significantly communicate current status to both internal and external stakeholders.<br><br><strong><u>What You Will Be Doing<br></u></strong><ul><li>Rapidly debug and triage user-reported issues on the Digital Marketing Organization</li><li>On-board new applications and services on AWS Infrastructure</li><li>Make valuable contribution to the overall health, performance, and uptime of our services running in Linux and Windows</li><li>Implement monitors, alerts and SOPs to ensure early detection, and accurate response to service-impacting issues</li><li>Taking ownership of automating, scripting, and tooling of new/existing scripts to help the team achieve 100% automation of daily tasks<br></li></ul><strong><u>What We Need To See<br></u></strong><ul><li>MS or BS in Computer Science/Engineering or a related field or equivalent practical experience</li><li>5+ years of experience supporting technical operations in a live-site production environment with a real passion for automation and tooling</li><li>AWS Certifications preferred</li><li>Built and ran critical production services packaged or custom (Java/PHP) on Windows or Linux</li><li>Strong Knowledge of AWS Lambda and AWS WAF, AWS Patch Manager CI/CD Pipeline buildout</li><li>Strong knowledge of AWS CDN or Akamai CDN configurations</li><li>Make valuable contributions to the incident management process for early detection of all service-impacting issues, accurate triage, partner communication, impact containment, service restoration, and post-incident follow-up</li><li>Experience with scripting and development in any of the languages (Python, bash, Lambda). fully automating the steps with a \u201cone-click\u201d rapid solution</li><li>Proven strengths in problem-solving and root causing issues, while continuously seeking ways to drive optimization, efficiency and the bottom line<br></li></ul><strong><u>Ways To Stand Out From The Crowd<br></u></strong><ul><li>Previous experience with Zabbix, New Relic, Data Dog or Splunk like alerting and monitoring systems. Development, support, and scripting against these systems</li><li>Jenkins (Continuous Integration) setup, configuration, deployment is a requirement</li><li>JFROG Artifactory integrations with Jenkins</li><li>Strong Experience with AWS Cloud Platform, Terraform scripting, Lambda</li><li>Excellent communication, presentation, social, and analytical skills; the ability to communicate complex interaction concepts clearly and persuasively across different audiences and varying levels of the organization<br></li></ul>NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing \u2014 with the GPU acting as the brains of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as \u201cthe AI computing company.\u201d We're looking to grow our company and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.<br><br>With competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the technology world\u2019s most desirable employers. We have some of the most brilliant and talented people in the world working for us and, due to unprecedented growth, our outstanding engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.<br><br>NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:08:32.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

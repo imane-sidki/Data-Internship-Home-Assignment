@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "<p><strong>Junior to Mid (1-4yrs commercial experience) ETL/Data Engineer/Analytics role</strong> </p><p><em>nChoose2 acting as agency for social and environmental start-up, equal opportunity employer</em> </p><ul><li>Onboard/extract new feeds into PostgreSQL database, Fivetran sync/load them to Snowflake on AWS, transform data with DBT (SQL-based) for reporting layer (Tableau internal user or Ruby/React Web App external user) </li><li>US working rights (no sponsorship) required + ability to work Pacific/Mountain time (GMT-6/7), though 99% remote working autonomously and updating team over slack/Zoom </li><li>Open communicator to stakeholders of hands-on Head of Data in Denver + CFO in San Fran + Senior Engineer in Perth Australia </li><li>USD 65-85k base + generous package ( e.g.     20d paid-time-off + ~6.5k Equity Options + 2k personal development budget + 401k and matching contribs) </li><li>B E Eng/CS  preferred</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:07:15.000Z"
+  },
+  "company": {
+    "name": "nChoose2",
+    "link": "https://au.linkedin.com/company/nchoose2-io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

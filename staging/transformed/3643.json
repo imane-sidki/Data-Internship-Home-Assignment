@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Staff Engineer- IT Site Reliability Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Semiconductors",
+    "description": "<strong>Position Summary<br><br></strong>Samsung is a world leader in Memory, LCD and System LSI technologies. We are currently looking for exceptional software and hardware talent to join our Samsung Austin R &amp; D Center (SARC) in Austin, TX and our Advanced Computing Lab (ACL) in San Jose, CA. SARC was established in Austin, TX in 2010 to be one of Samsung\u2019s strategic investments in high performance low power ARM based device technology. Presently our GPU design teams, located in Austin (SARC) and San Jose (ACL), are developing a GPU that will be deployed in Samsung mobile products.  Our System IP team located in Austin (SARC) is working on Coherent Interconnect and memory controller architectures.<br><br>           <strong> Role and Responsibilities </strong>           <br><br><br><br>As a Site Reliability Engineer you will be a highly experienced, skilled, and driven engineer with a strong understanding of the CI/CD lifecycle, cloud native technology, and legacy software systems. You have likely been an application Software Engineer in the past and have gained a deep understanding of infrastructure and operations, or have been a Systems Administrator with extensive experience across technologies who has spent the last few years learning modern automation and cloud native infrastructure skills.<br><br><br><br>You must enjoy working alongside solution owners, systems architects and software engineers to maintain and improve a highly available, highly-scalable IT infrastructure platforms.<br><br><br><br>You must be able to troubleshoot production issues, implement automation tools and frameworks (CI/CD pipelines), collaborate with team members to improve the existing and develop new engineering tools, optimize company\u2019s computing architecture, manage infrastructure, and design and conduct security, performance, and availability tests.<br><br><br><br>You will report to the Enterprise IT Senior Manager and work in close collaboration with Networking, Data Services, Engineering (CAE), and InfoSec.<br><br><br><br>Key responsibilities include:<br><br><ul><li>Running a production system at a significant level of scale, with a number of modern distributed systems technologies</li><li>Developing deployment strategies and building configuration management (CI/CD pipelines - design &amp; implementation) including infrastructure as code</li><li>Working closely with the architecture, product development and services teams. Supporting architectural and infrastructure decision-making where appropriate as the SRE liaison/expert</li><li>Continuously engaging IT and Engineering teams to deliver quality services</li><li>Developing and maintaining infrastructure as code, observability and monitoring, alerting, continuous integration and deployment</li><li>Deploying and updating system and application software (Linux &amp; Windows)</li><li>Ensuring regular, effective communication happens with team members and cross-functional resources including blameless postmortems</li><li>Experience with and understanding of Agile and ITIL methodologies</li><li>Performing other duties as assigned<br><br></li></ul>                                    <strong> Skills and Qualifications </strong>                                    <br><br><br><br>Minimum requirements:<br><br><ul><li>5 +\u00a0years of proven experience working in a DevOps or SRE environment and continuous integration/deployment pipelines</li><li>Experience with Configuration Management platforms, and CI/CD pipelines and tools such as Ansible, Jenkins, and OpenShift.</li><li>Experience with scripting or programming languages (PowerShell, Bash, Python, PHP, Perl, etc.)</li><li>Proven critical thinking and decision-making abilities at the system level</li><li>Experience with relational databases</li><li>Experience in monitoring tools like (Orion, New Relic, Splunk, ELK, Application monitoring, etc.)</li><li>Solid understanding of networking and security best practices<br><br></li></ul>Preferred qualifications:\u00a0<br><br><ul><li>Experience with Microsoft Exchange, Proofpoint, and SMTP mail flow</li><li>Understanding and implementation of micro services architecture and general software architecture design principles, Clean Architecture concepts, DDD, etc.<br><br></li></ul> * Please visit  Samsung membership  to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click   here .<br><br><br><br>* Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and \u00a0provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:49:09.000Z"
+  },
+  "company": {
+    "name": "Samsung Electronics America",
+    "link": "https://www.linkedin.com/company/samsung-electronics-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

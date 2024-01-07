@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>Join a leading fintech company that\u2019s democratizing finance for all. <br><br></strong>Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers, removing fees, and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.<br><br><strong><u>We Are Proud Of The World Class Products And Company Culture We Continue To Build And Have Been Recognized As<br><br></u></strong>Just as we focus on our customers, we also strive to create an inclusive environment where our employees can thrive and do impactful work.<br><ul><li>A Great Place to Work</li><li>A CNBC Disruptor 50 in 2019 and 2020</li><li>A LinkedIn Top Startup in 2017, 2018, 2019 and 2020<br></li></ul>Robinhood is backed by leading investors that include DST Global, Index Ventures, NEA, Ribbit Capital, Thrive Capital, and Sequoia.<br><br>Check out life at Robinhood on The Muse!<br><br><strong><u>About The Role<br><br></u></strong>As a Software Engineer, you will be building and owning backend services and infrastructure that power our core financial products. You will also gain a unique look into how the US financial systems works on the inside and strengthen your financial-domain knowledge. We strive for high standard of engineering quality while solving unique scalability challenges. You will have high impact roles at a relatively small company for our user base.<br><br><strong><u>About The Team<br><br></u></strong>Our mission is to continue raising the quality bar for Robinhood's apps and set the bar for the entire financial industry. We focus on the core brokerage activities that support how our customers participate in the markets as well as own the end to end customer journey through Robinhood. Lastly, we continue to work toward expanding our products to help us serve customers at different stages of their financial journey.<br><br><strong><u>Your Day-to-day Will Involve<br></u></strong><ul><li>Building, testing, and releasing product-facing features with stringent correctness and scalability requirements; these features could be related to market data, trading, accounting, authentication, or security.</li><li>Designing a solution with other engineers and the ops team to fix a scalability problem and then implement it</li><li>Working with our frontend team to fine tune our REST API</li><li>Collaborating with our data team to support millions of customers</li><li>Contributing to open source projects<br></li></ul><strong><u>About You<br></u></strong><ul><li>2+ years of software engineering experience</li><li>Solid understanding of relational databases and transactions</li><li>Familiarity with writing highly concurrent systems</li><li>Good intuition for REST API design<br></li></ul><strong><u>Bonus Points<br></u></strong><ul><li>Intimate familiarity of Python/Django or Go<br></li></ul><strong><u>Technologies We Use<br></u></strong><ul><li>Python/Django, Go as the main languages and frameworks of choice</li><li>PostgreSQL as our primary data store</li><li>Redis and Memcached as our caching layer</li><li>Celery as our task queue using RabbitMQ<br></li></ul>We\u2019re looking for more growth-minded and collaborative people to be a part of our journey in democratizing finance for all. If you\u2019re ready to give 100% in helping us achieve our mission\u2014we\u2019d love to have you apply even if you feel unsure about whether you meet every single requirement in this posting. At Robinhood, we're looking for people invigorated by our mission, values, and drive to change the world, not just those who simply check off all the boxes.<br><br>Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants' privacy rights. To review Robinhood's Privacy Policy please click here.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T15:18:37.000Z"
+  },
+  "company": {
+    "name": "Robinhood",
+    "link": "https://www.linkedin.com/company/robinhood"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

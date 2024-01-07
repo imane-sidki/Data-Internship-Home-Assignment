@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<p><strong>Principal Duties and Responsibilities</strong></p><p>As an embedded software engineer, you will write software enabling our next-generation of cloud-connected, IoT wireless audio ecosystem of products.You will work closely with other functional teams to support our currently deployed products, help bring new products to market, and work on our next generation platforms. The ideal candidate has strong C++ experience in an embedded Linux environment and thrives working in a fast-paced, extremely collaborative agile team.</p><p><br></p><p><strong>Responsibilities include:</strong></p><p>\u2022Contribute to an enthusiastic and talented team of Software Engineers to bring new products and compelling experiences to the market</p><p>\u2022Take a leadership role in supporting, improving, and enhancing a very large and complex software ecosystem</p><p>\u2022Work closely with other engineering disciplines to resolve difficult technical issues with deployed software and with software in development</p><p>\u2022Build platforms by architecting reusable building blocks enabling faster and more efficient product creation</p><p>\u2022Take part in full stack software development which includes embedded, mobile apps, cloud, and everything in between</p><p>\u2022Work with QA on developing testing processes, frameworks, and automation strategies</p><p>\u2022Focus on innovating new and better ways to create solutions that add value and amaze the end user, with a penchant for simple elegant design in every aspect from data structures to code to systems architecture</p><p>\u2022Stay up to date on relevant technologies, plug into user groups, understand trends and opportunities to ensure we are using the best techniques and tools</p><p><br></p><p><strong>Qualifications:</strong></p><p>\u2022B.S. in Computer Science or equivalent; advanced degree a plus</p><p>\u2022Excellent object oriented design (OOD) and object oriented programming (OOP) using C++</p><p>\u20227+ years experience using C++ with at least one embedded operating system (Linux-preferred)</p><p>\u2022Experience with Bluetooth, WiFi or other similar wireless protocols</p><p>\u2022Excellent interpersonal, communication, collaboration, and presentation skills</p><p>\u2022Strong sense of ownership, passionate, fast learner, detail-oriented, analytical mindset, perfection seeker</p><p>\u2022Strong experience with one scripting language like Python, Perl or Shell</p><p><br></p><p><strong>Highly Desirable:</strong></p><p>\u2022Embedded firmware programming in C</p><p>\u2022Writing/modifying device drivers and boot loaders on embedded systems</p><p>\u2022Experience working with common peripherals such as USB, I2C, I2S or SPI</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:19:33.000Z"
+  },
+  "company": {
+    "name": "Bose Corporation",
+    "link": "https://www.linkedin.com/company/bose-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Framingham",
+    "region": "MA",
+    "postal_code": "01703",
+    "street_address": null,
+    "latitude": 42.28156,
+    "longitude": -71.41882
+  }
+}

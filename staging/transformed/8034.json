@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Music,Computer Software,Entertainment",
+    "description": "<p>We\u2019re looking for a Data Scientist for a music creation platform working to change the way we think about the ecosystem of music creation and production, making it easier and more affordable for anyone at any skill level to create music at the touch of a button.</p><p><br></p><p>This role requires is a specific skillset focused on learning, scale, and agility in the music tech space, but we know you\u2019re out there.</p><p><br></p><p>We're open to candidates from all over the U.S. - ideally, you'd want to relocate to San Diego, but happy to have a conversation about the best scenario.</p><p><br></p><p><strong> Benefits:</strong></p><ul><li>Industry-leading healthcare covering medical, dental, vision, and life paid by the company</li><li>Health Savings and Flexible Spending accounts</li><li>401K</li><li>Unlimited PTO with an employee-focused work approach</li><li>Flexible work schedule and a remote-friendly environment</li><li>Parental leave</li><li>Participation in profit sharing</li><li>200% Pay on your Birthday</li><li>Employee Referral Bonus Program</li><li>Maternity Leave Program</li><li>Company outings, retreats, and events (when permissible)</li></ul><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Collect, analyze, and present processed and unprocessed data pertaining to music creation tech to make the business more powerful and increase enterprise opportunities. To be honest, the right person can probably better tell us how this role should work. And we'll happily empower you to do that</li><li>Design accurate and scalable prediction algorithms in pertinence to business objectives</li><li>Collaborate with the engineering team to bring analytical prototypes to production, make product adjustments, and geek out on product opportunities. GET FIRED UP. (sorry)</li><li>Based on the insights you gather, make clear recommendations to improve and work with other department leads to execute</li><li>Help design data team hiring roadmaps</li><li>Produce regular analytics reports for internal and external stakeholder (board, investor, etc.) purposes.</li></ul><p><br></p><p><strong>Requirements and some nice-to-haves:</strong></p><ul><li>Bachelor's in statistics, comp sci, math, engineering</li><li>Deep ML/AI experience (including machine learning modeling and ensemble methodology)</li><li>Python expertise (NumPy, SciPy), SQL, MongoDB, C++</li><li>Understanding of digital signal processing techniques (filtering, spectral/FFT analysis, convolution, etc.)</li><li>Experience with machine learning, especially as it applies to music analysis and/or generation</li><li>Experience with the following technologies: Django, Heroku, AWS, S3</li><li>Familiarity with python audio processing libraries such as Librosa</li><li>Passion for or experience in music - ML, production, and creation</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-12T00:42:42.000Z"
+  },
+  "company": {
+    "name": "KTeam",
+    "link": "https://www.linkedin.com/company/kteam-co"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

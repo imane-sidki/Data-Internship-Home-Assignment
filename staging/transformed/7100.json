@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Java Software Engineer",
+    "industry": "Information Technology and Services,Insurance,Financial Services",
+    "description": "<strong><u>Description<br><br></u></strong>Flex Payroll is looking for a software engineer to join our energetic team! This high performing group follows an Agile methodology, working together to get through though challenges and allowing the team to succeed! This full stack team works on a range of efforts within our Flex Client Facing application space. Tasks are assigned requiring skills in design, SQL, Java, JavaScript, Incidents, and/or anything in between. No worries if you are not an expert in everything; we focus on growing bench strength in everyone so there are no silos or dependencies on SMEs!<br><ul><li>As an engineer, you should know about full stack development in the web space. This includes Oracle, Java, Javascript, HTML/CSS, along with webservices and Openshift.</li><li>We are also using Angular but will be moving to REACT; as an example, that means adaptability is a must since change never stops in the Java and Web space.</li><li>Other technical areas involved are Mongo, Kafka, Openshift, Webservices, Splunk, AppDynamics (Appd), GIT, Intellij, Jenkins, ECS, Mobile development, and continuous deployments.</li><li>Great communication, leadership, skills in mentoring, and a team player.</li><li>Creativity, innovation and the ability to help with efforts in Continuous Delivery space.</li><li>Our developers participate in all levels of software development from high level t-shirt estimating, design, documents reviews, architecture reviews, Release Planning, active development and testing, deployment, and support.</li></ul> <strong>Requirements<br></strong><ul><li>Bachelor's Degree in Computer-related discipline or equivalent work experience</li><li>Expertise in SQL, JAVA, and Javascript</li><li>But most importantly, be supportive and a role model of our Paychex Values</li><li>Integrity! Service! Innovation! Partnership! Accountable! Respect!<br></li></ul><strong>Our Commitment<br><br></strong>Paychex is dedicated to fostering a culture of intentional Inclusion and Diversity (I&amp;D). Our valued employees and commitment to I&amp;D is the essence of our internal and external success. Inclusivity is a key value of our corporate culture and is exemplified through our reputation as a top employer for employee development, diversity, and ethics, as well as a focus on fairness in recruitment, selection, and decision making.<br><br>Click here for more information on our corporate social responsibility.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:09:01.000Z"
+  },
+  "company": {
+    "name": "Paychex",
+    "link": "https://www.linkedin.com/company/paychex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

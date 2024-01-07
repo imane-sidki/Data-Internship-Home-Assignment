@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services",
+    "description": "Stilt (YC W16) is building a bank focused on 45 million immigrants in the US. Immigrants are traditionally shut out of the financial system because they lack a financial identity. We are building technology to democratize access to financial services.<br><br>Improving access to financial services for everyone, especially for the underserved and immigrants has never been more important. They contribute $1.6T to the economy, have built many $100B+ companies, and generated millions of jobs. Still, immigrants don't get the services they deserve. We are building technology to help immigrants from day 1 of their arrival. Since launch, we have helped hundreds of thousands of immigrants from 160+ countries. We are growing fast and now at an inflection point in our journey to help millions of immigrants.<br><br>We are based in San Francisco (open to remote), founded by an immigrant team with expertise in finance, technology, and machine learning. 70% of the team is immigrants and from underrepresented backgrounds. We are working hard to make financial services simple by using non-traditional data, building a modern scoring and decision engine, and improving operational efficiency.<br><br>It is a challenging and fulfilling opportunity for someone looking to make a difference in the lives of immigrants across the world. As we rewrite the approach to banking, we are looking for a Data Scientist who is experienced, knowledgeable, and believes in making this happen with us.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Continuously explore new alternative data sources to add incremental predictiveness in the models though orthogonal signals/features.</li> <li>Build end to end machine learning models, from design, learning, evaluation, validation &amp; monitoring.</li> <li>Create, expand, explore, rank &amp; maintain logs of innovative internal feature sets for credit, pricing &amp; fraud.</li> <li>Expand the performance data using organic &amp; synthetic methods wherever possible.</li> <li>Develop automation capabilities &amp; advanced dashboards required for faster processing and monitoring.</li> <li>Own end to end model implementation, model iteration, model versioning, for production and sandbox environment</li> <li>Collaborate with the engineering and product teams to implement, ship, test and monitor the risk models.</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Quantitative Background Bachelor\u2019s (preferably Master\u2019s) degree in Computer Science, Statistics, Mathematics, Financial Engineering etc.</li> <li>Programming Ability Expert knowledge of Python or R, &amp; SQL. Experience using cloud technologies (AWS, GCP) and distributed data/computing tools.</li> <li>Proficiency in writing and maintaining production level code. You will ship what you write.</li> <li>ML Delivery Experience Built key ML system/s from large raw data to production &amp; scaled, monitored &amp; improved it over 1-3 years. Right candidate with more experience (3-6 years) can also be considered for senior position.</li> <li>Statistical Mindset Understanding of the right tools for a given data analysis. Focussed on model selection, interpretability, biases, explainability &amp; monitoring.</li> <li>Data Friendly Revel in data cleaning, feature engineering &amp; data generation.</li> <li>Clear Communicator Able to collaborate across functions and explain difficult concepts in written, visual &amp; verbal.</li> <li>Self Organized Belief in data &amp; code review/versioning, reproducible work with clear/concise documentation.</li> <li>Self Starter Willing to quickly learn new things, test &amp; share with the team.</li> <br><br></ul><u><strong>Benefits<br></strong></u><ul> <li>The opportunity to collaborate with a team of creative, fun, and driven colleagues on products that have an immediate and significant impact on people's lives</li> <li>Competitive Compensation</li> <li>Comprehensive medical, dental, and vision coverage</li> <li>401(k)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T01:10:27.000Z"
+  },
+  "company": {
+    "name": "Stilt Inc.",
+    "link": "https://www.linkedin.com/company/stilt-loans"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

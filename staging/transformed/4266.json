@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Job Title: Software Engineer<br>Location: Orlando, FL<br>Duration: 12 Months<br><br>The Role:<br>We are seeking software engineers in Orlando as part of a core team developing DirectX/Direct3D drivers for desktop/laptop systems. This team is essential to the success of as a growing company. You will be working with the very best in our technology, on some of the most exciting projects the industry has to offer, including Cloud Gaming, Machine Learning, Virtual Reality, Ray Tracing, Direct3D 12, and new game titles.<br><br>The Person:<br>Good communication skills and an ability to communicate well with teams around the globe<br>Ability to work independently and as part of a team<br>Passionate about learning, good software engineering, problem solving, and new technologies.<br><br>Key Responsibilities:<br>The development, debugging, and performance tuning of graphics software running on Microsoft Windows.<br>Collaborating with ASIC design engineers and hardware/software architects, OS engineers and peers in related development teams.<br>The ability to debug low level hardware and operating system functionality is desired.<br><br>Preferred Experience:<br>Excellent C/C++ programming skills.<br>Experience programming and optimizing games<br>Knowledge of computer hardware architecture and organization<br>Experience with Virtualization technologies<br>Experience with Linux and Windows OS<br>3D Graphics API knowledge and experience (D3D or Vulkan)<br>3D graphics driver knowledge and experience<br>Windows development experience<br>OS and performance knowledge and experience<br>Experience with multi-threading and concurrent programming<br>Familiarity with performance analysis tools<br><br>Academic Credentials:<br>BS Degree; MS or PhD desired.<br>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T16:06:58.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

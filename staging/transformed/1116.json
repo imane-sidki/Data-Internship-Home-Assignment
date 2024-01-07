@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Consumer Electronics,Automotive",
+    "description": "<strong><u>Job Description<br><br></u></strong>At Bose, we are passionate about helping people reach their fullest human potential so that they can feel more, do more, and be more. Working as a member of the Embedded Software Team, come astonish our Bose Automotive Division with your outstanding ability to create software solutions for a superlative audio experience in a car.<br><br>As an Embedded Software Engineer working for the Bose Software Organization, you will be part of a close-knit team within the world-wide Bose Automotive Software and Systems Group. You will help developing and maintaining cutting-edge and highly customized audio amplifier software for various OEMs that lead to unique and exciting experiences. These solutions will involve a variety of technologies, including AutoSAR, CAN A2B, and Ethernet communications and built-in diagnostic protocols with the goal to deliver the exceptional Bose experience to OEMs and their end customers.<br><br><strong><u>Required Skills And Experience<br></u></strong><ul><li>MS in Electrical or Computer Engineering with an emphasis on software development for embedded systems</li><li>10+ years of experience developing software for real-time embedded systems for automotive OEMs in the domains such as AutoSAR, Ethernet, UDS, A2B including the expertise in using the involved industry-wide design and modeling tools</li><li>Solid software development skills focused on software engineering best practices such as object oriented designs, modularity, extensibility, reusability and maintainability</li><li>Thorough knownledge in C/C++</li><li>Ability to build comprehensive unit and system tests in software to verify implemented functions</li><li>Strong motivation to work in world-wide distributed and cross-functional teams to work on challenging problems such as as supporting project management, electrical, mechanical and quality engineering teams</li><li>Excellent communication skills including the ability to produce clear and concise technical software documentation<br></li></ul><strong><u>Preferred Skills And Experience<br></u></strong><ul><li>Experienced in the areas of requirement management, problem definition, solution planning using industry leading methods and tools</li><li>Solid understanding of the need for industry software quality and agile development processes (e.g. SCRUM, CMMI, ASPICE)</li><li>Prior experiences with the configuration/integration of 3rd party software layers into a pre-defined source code base</li><li>experience and familiarity with scripting or software modelling languages</li><li>abitily to act as a software technical contact partner for internal and external customers is a plus<br></li></ul><strong>Tools<br></strong><ul><li>Hardware Analysis: Oscilloscope, Logic Analyzer</li><li>Network &amp; Protocol Analysis: CAN, Ethernet, UDS, A2B</li><li>Software development: Debuggers, Emulators, Version Control and Bug Tracking Systems, Software Design and Modelling Tools</li><li>Office Productivity: Microsoft Office Tools including Visio and Project</li><li>Specific: DaVinci Developer &amp; Configurator, CANdela, CANoe, CANanlyzer</li></ul>Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665_PrescribedNondiscriminationPostingLanguage_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:02:56.000Z"
+  },
+  "company": {
+    "name": "Bose Corporation",
+    "link": "https://www.linkedin.com/company/bose-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81300,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Framingham",
+    "region": "MA",
+    "postal_code": "01703",
+    "street_address": null,
+    "latitude": 42.28156,
+    "longitude": -71.41882
+  }
+}

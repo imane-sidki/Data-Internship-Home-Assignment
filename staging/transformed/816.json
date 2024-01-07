@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SAP ABAP Software Engineer",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Hospital & Health Care",
+    "description": "Cerebral Staffing, LLC is seeking a <strong>SAP ABAP Software Engineer</strong> to work at our direct client <strong>John Deere in Moline, IL.<br><br></strong>SAP ABAP with focus on FICO and Sales &amp; Distribution (SD)<br><br>Required Skills:<br><ul><li>5+ years of experience in developing using core SAP ABAP. This includes using OOP and all SAP enhancement techniques</li><li>2+ years of experience in HANA data modeling using Hana Studio. This includes creating and maintaining attribute, analytic and calculation views</li><li>2+ years of experience in development using Fiori/UI5</li><li>2+ years of experience working with IDocs, Proxies, and Webservices</li><li>2+ years of experience in developing in Gateway, and OData technologies</li><li>2+ years of functional and technical experience in FICO and SD modules<br><br></li></ul><strong><u>Desired Skills/Experience<br></u></strong><ul><li>1+ years of experience configuring, developing, and/or troubleshooting PI interfaces</li><li>1+ years of functional and technical experience the following core SAP modules SD, FICO and MM.</li><li>1+ years of experience in cloud development with platforms like AWS, Azure, SAP Cloud Platform</li><li>1+ years of experience working with agile software design methodology for development and documentation<br></li></ul><strong>Cerebral Staffing offers health/vision/dental insurance, Paid Holiday/PTO short-time disability, 401k and paid life insurance<br><br></strong>Powered by JazzHR<br><br>jNaIdRZsdV",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T07:57:21.000Z"
+  },
+  "company": {
+    "name": "Cerebral Staffing, LLC",
+    "link": "https://www.linkedin.com/company/cerebral-staffing-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93600,
+    "max_value": 148000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Moline",
+    "region": "IL",
+    "postal_code": "61266",
+    "street_address": null,
+    "latitude": 41.492226,
+    "longitude": -90.48927
+  }
+}

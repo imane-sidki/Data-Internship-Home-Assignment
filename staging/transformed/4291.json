@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<ul><li>Outstanding quantitative background. Minimum of a master's degree (Ph.D. preferred) in Computer Science, Statistics, Math, Physics or other related technical fields.</li><li>7 + years of professional experience in developing AI/ML or statistical models and solutions.</li><li>Deep understanding of statistics, machine learning techniques, their mathematical concepts, and industry trends.</li><li>Solid production engineering development experience with Python, SQL, Sklean, TensorFlow, PyTorch or any of the prevailing AI/ML frameworks.</li><li>Proficient understanding of ETL processes, model lifecycle management, and engineering design standard methodologies.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T20:30:31.000Z"
+  },
+  "company": {
+    "name": "LanceSoft, Inc.",
+    "link": "https://www.linkedin.com/company/lancesoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

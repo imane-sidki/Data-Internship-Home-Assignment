@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer - Python / Data Streaming ",
+    "industry": "Information Technology and Services",
+    "description": "<p>Ippon Technologies is a global technology consulting firm that unlocks possibilities by setting new standards for excellence and delivery. We accelerate our customers\u2019 digital roadmaps and our consultants\u2019 careers.</p><p><br></p><p>We are looking for a Data Engineer based in Washington DC (or NYC, or Richmond, VA, or North Carolina, or Atlanta, GA), but we're Remote Friendly.</p><p><br></p><p>The Ippon story started in 2002 in Paris, France - cue in the accordion. Our founder and CEO Stephane Nomis used his unique experience as an international Judo champion to create a culture based on the sports values of ambition and excellence. Ippon Technologies has the brains and brawn summarized by our five COACH values: Creative, Open, Agile, Courageous, and Hungry. Do you want to work with other talented individuals who are driven and fun to work with? Do you enjoy providing solutions and value to clients? Then Ippon is where you belong!</p><p>It\u2019s your lucky day because we are growing fast in the US and are currently seeking Data Engineerto join our team!</p><p><br></p><p>Ippon values talented individuals who are fun to work with. We also value diversity and the different perspectives our employees bring to Ippon Technologies everyday. We are an Advanced AWS Consulting Partner. Do you love Data, Cloud and Open Source Technologies? Are you driven by providing solutions and value to clients? Are you the one everyone comes to for all things Tech? Then Ippon USA is where you belong! And It\u2019s your lucky day, because we are currently seeking a Data Engineer.</p><p><br></p><p>Take your next career step with Ippon Technologies, a Global Data leader!</p><p><br></p><p>We build tailor-made architectures</p><p>Because there is not one solution that fits all needs, we give special care to design pragmatic and simple data architectures to serve our customers demonstrated needs.</p><p>We are looking for data engineers who are comfortable with different architectural approach such as:</p><ul><li>Batch processing for historical data (e.g. Hadoop, Spark)</li><li>Streaming processing for near-real time analysis (e.g. Kafka, Flink)</li><li>Machine Learning for classification, prediction, root-cause-analysis, etc. - e.g. Sci-Kit Learn, Keras, Tensorflow</li></ul><p><br></p><p>Since we are a Cloud First Digital Company, it\u2019s even more attractive if you are skilled with cloud counterparts technologies.</p><p><br></p><p>What you will do:</p><p><br></p><ul><li>Design and implement Data Architectures</li><li>Create and optimize data pipelines</li><li>Enhance real-time data processing</li><li>Work with Data Scientists and Data Owners to understand use cases and hypothesis to test with the data</li><li>Build complete data platforms by assembling major Big Data solutions such as: EMR, Kafka, Spark, Airflow, Flink, Snowflake, Elasticsearch, etc.</li><li>Python / Scala / Java / coding</li></ul><p><br></p><p>What we are looking for:</p><p><br></p><ul><li>Bachelor's degree in Computer Science or a related field</li><li>At least three (3+) years of software development experience</li><li>Data Streaming techniques: Apache Kafka, Amazon Kinesis, Flink, Spark Streaming, etc.</li><li>Experience with AWS technologies: DynamoDB, Glue, Athena, Redshift, Kinesis, EMR</li><li>Cloud Certifications (AWS/AZURE/GCP): Solution Architect Associate or Pro, Big Data Specialty</li><li>Good knowledge of NoSQL solutions, must be able to recommend the best fit for NoSQL solutions (MongoDB and/or Cassandra is a plus)</li><li>Snowflake experience desirable</li><li>CI/CD, Kubernetes, Docker</li><li>Productionalization of ML models a plus.</li><li>Agile development</li><li>ETL / ELT tool experience</li><li>Judo optional</li><li>Attention to details. Mention the word \u2018pineapple\u2019, in your interview</li><li>Must love croissants</li></ul><p><br></p><p>Ippon values talented people who are fun to work with. We also value diversity and the different perspectives our employees bring to Ippon Technologies.</p><p>So, do YOU speak Ippon?</p><p><br></p><p>Ippon USA is an Equal Opportunity Employer</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:29:05.000Z"
+  },
+  "company": {
+    "name": "Ippon Technologies USA",
+    "link": "https://www.linkedin.com/company/ippon-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

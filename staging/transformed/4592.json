@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p></p><p>Detailed JD: </p><p>\u2022Participate in architecture reviews. </p><p>\u2022Participate in operations reviews. </p><p>\u2022Identify and automate measurement of operations KPIs. </p><p>\u2022DevOps rollout and implementation </p><p>\u2022Automated the deployment of production ready technical solutions. </p><p>\u2022Writing automation that can be easily supported and extended by others. </p><p>\u2022Take full responsibility for the availability and performance of the platform. </p><p>\u20223+ years of software development experience</p><p>\u2022Expert at problem solving, algorithms, and data structures. </p><p>\u2022Passionate about investigating, employing, and managing 3rd party and open source solutions when building a cloud native platform. </p><p>\u2022Experience operating solutions based on a microservice architecture </p><p>\u2022Experience in integrating and automating solutions to provide a highly scalable, high throughput platform. </p><p>Experience working with mature development practices and tools for source control, security, and deployment.</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T18:08:30.000Z"
+  },
+  "company": {
+    "name": "Scrumlink",
+    "link": "https://www.linkedin.com/company/scrumlink"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

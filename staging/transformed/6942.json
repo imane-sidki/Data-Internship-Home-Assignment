@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Wrapmate is seeking a Junior Software Engineer to assist in the creation &amp; maintenance of the software that powers our day-to-day business operations.<br><br>At Wrapmate we begin with the end in mind. We\u2019re committed to building a collaborative environment that nurtures growth and rewards excellence. We support flexible working hours and ensure you may perform your role in a mix of working at the office or from home at whatever ratio suits you best. We want you to be effective, and the choices you make, meaningful.<br><br>We now seek an enthusiastic Junior Software Engineer to join our growing team and help pave the way for an exciting future in the wrapping industry. We are looking for someone who thrives in a learning &amp; growth environment, is unafraid to push themselves a little out of their own comfort zone, and ultimately seeks to grow their skillset as a developer.<br><br>This is a full-time salaried position with an estimated salary range of $53,000 to $70,000 / yr. Wrapmate offers a benefit package including medical, dental, and vision plans, along with a 401(k), life insurance, and generous vacation.<br><br>Job Responsibilities<br><ul><li>Work closely with the engineering team to implement new features and eliminate defects from Wrapmate\u2019s respective code bases.</li><li>Move between front- and back-end systems as needed. As it is a junior position, we do not expect you to be an expert in all, but we do expect you to be ready to learn, taking it on piece by piece.</li><li>Adopt our engineering team\u2019s best practices, leveraging source control, CI/CD, building unit tests, participating in code reviews, and documenting your work.</li></ul>Job Requirements<br><ul><li>You are either a recent College, University or Bootcamp graduate, and/or you have some demonstrable experience developing web applications.</li><li>You possess a fundamental understanding of the components that underpin web application development: client/server architecture, HTTP, HTML, CSS, and JavaScript.</li><li>You have worked with a middle tier language that ties the components together, such as Node.js, Ruby, C#, PHP, ColdFusion, etc. </li><li>You have worked with a database technology, either SQL (eg. MySQL, MS-SQL, PostgreSQL, etc.) or NoSQL (Mongo, Dynamo, Redis, etc.)</li><li>You have familiarity with task- and project-management tools (eg. JIRA, Trello, Basecamp, Asana, etc.)</li><li>Any experience with JavaScript frameworks (eg. Angular, React, Vue) is a plus.</li><li>Any experience with static-site CMS technology (eg. Eleventy) is a plus.</li></ul>About Wrapmate<br><br>Headquartered in Denver, Colorado, Wrapmate is an Equal Opportunity Employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability.<br><br>We do not accept unsolicited agency resumes. We will not pay fees to any third-party agency, outside recruiter or firm without a mutually agreed-upon contract and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes will be considered our property and will be processed accordingly.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T17:13:24.000Z"
+  },
+  "company": {
+    "name": "Wrapmate",
+    "link": "https://www.linkedin.com/company/wrapmate"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood",
+    "region": "CO",
+    "postal_code": "80111",
+    "street_address": null,
+    "latitude": 39.61437,
+    "longitude": -104.88814
+  }
+}

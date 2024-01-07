@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Salesforce Sr. Software Engineer",
+    "industry": "Sports",
+    "description": "<p>Parsons Xtreme Golf (PXG) was founded by American entrepreneur and philanthropist Bob Parsons with the sole intent to design and develop the world\u2019s finest golf clubs \u2013 and we believe we have done just that!With no cost or time constraints, PXG is committed to the long process of researching various alloys, exploring new technologies, and identifying the unique properties that make PXG clubs perform unlike anything else. With no set product release cycles, the company takes its time and pours every ounce of innovation into each new club design. PXG offers a full lineup of right and left-handed golf clubs, including drivers, fairway woods, hybrids, irons, wedges, and putters, as well as a complete line of high-performance, fashion-forward apparel.Ready to join the PXG team?</p><p><br></p><p>Description:</p><p>The Senior Software Engineer is responsible for developing Salesforce Commerce Cloud e-commerce websites and applications through the entire development lifecycle, from gathering requirements to quality assurance, deployment, and maintenance phases. Responsibilities include implementing assigned development tasks and ensuring quality deliverables.</p><p><br></p><p>Responsibilities:</p><ul><li>Gathering requirements from internal stakeholders</li><li>Planning and developing websites and web applications</li><li>Effectively presenting engineering decisions</li><li>Working with team members to ensure quality code and deliverables</li><li>Mentoring team members</li><li>Improving processes to evolve change based on technological advances</li><li>Keeping up with current technology and industry best practices</li><li>Other responsibilities as requested</li></ul><p><br></p><p>Experience and Education:</p><ul><li>Experience with Salesforce Commerce Cloud (SFCC)</li><li>7+ years developing web applications</li><li>7+ years working with JavaScript and/or NodeJS</li><li>7+ years working with SQL databases</li><li>Working knowledge of source control systems such as Git</li><li>Familiar with developing cloud-based applications using NodeJS</li><li>Familiar with client-side frameworks such as React and VueJs</li><li>Familiar with service-oriented applications, deployment strategies, continuous integration, Gitflow, and test-driven development</li><li>Familiar with web-based content management systems</li></ul><p><br></p><p>Skills Required:</p><ul><li>Salesforce Commerce Cloud development skills</li><li>Excellent understanding of object-oriented languages and design patterns</li><li>Excellent understanding of relational database design and SQL</li><li>Excellent interpersonal skills for communicating effectively with internal and external teams</li><li>Ability to prioritize and organize workflow to ensure quality and timeliness</li><li>Thrive in a fast-paced multi-project environment</li></ul><p><br></p><p>Working Conditions:</p><p>This position is located in an office environment and will be required to sit or stand for long periods of time working on a computer and talking on the phone. This position will be required to attend events and meetings outside of the office.</p><p><br></p><p>PXG is a drug-free, smoke-free, and fragrance-free work environment.</p><p><br></p><p>PXG believes in a diverse environment and is committed to equal employment opportunity and non-discrimination for all employees and qualified applicants without regard to a person's race, color, religion, creed, national origin or ancestry, ethnicity, sex, sexual orientation, gender (and gender identity or gender nonconformity), age, physical or mental disability, citizenship, past, current or prospective service in the uniformed services, genetic information or any other characteristic protected under applicable laws.PXG will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable laws.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:08:51.000Z"
+  },
+  "company": {
+    "name": "PXG (PARSONS XTREME GOLF)",
+    "link": "https://www.linkedin.com/company/parsons-xtreme-golf"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82900,
+    "max_value": 122000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Scottsdale",
+    "region": "AZ",
+    "postal_code": "85266",
+    "street_address": null,
+    "latitude": 33.494907,
+    "longitude": -111.92606
+  }
+}

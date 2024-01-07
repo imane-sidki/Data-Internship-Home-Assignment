@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer / Data Scientist",
+    "industry": "",
+    "description": "<p><strong>Machine Learning Engineer / Data Scientist</strong></p><p>Clairways is building technologies for smart monitoring of respiratory health. 1 in 8 people suffers from a chronic respiratory disease, such as asthma, COPD, or cystic fibrosis, and treatment of these diseases currently is hindered by the limited respiratory data available to inform both drug development and disease management decisions. Our technologies help obtain this data and improve the health of people living with respiratory diseases.</p><p><br></p><p>Clairways is seeking a machine learning and data science engineer to support the development of edge machine learning algorithms for our novel wearable respiratory monitor. As part of this role, the ML engineer will work on the backend data infrastructure as well as pipelines for model generation, continuous integration and deployment (MLOps).</p><p><br></p><p><strong>Requirements</strong></p><ul><li>Advanced degree in computer science, math, statistics or related discipline.</li><li>Strong programming experience in Python and C/C++.</li><li>Hands-on experience in on Machine/Deep Learning projects, specifically with audio and/or video data.</li><li>Familiarity with machine learning frameworks such as PyTorch and Tensorflow.</li><li>Extensive data modeling and data architecture skills.</li><li>Great communication skills, both written and verbal.</li><li>Strong cross-discipline collaboration skills.</li></ul><p><br></p><p><strong>Extra</strong></p><ul><li>Experience with EdgeML</li><li>Experience with AWS Cloud Computing Services (EC2, S3, Lambda, etc.)</li><li>Knowledge of distributed computing systems like Hadoop &amp; Spark.</li><li>Experience in deployment of machine learning based solutions</li><li>Audio signal processing</li></ul><p><br></p><p><strong>Location</strong></p><ul><li>Lebanon, New Hampshire 03766, United States</li></ul><p><br></p><p><strong>Website</strong></p><ul><li>www.clairways.com</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T22:03:03.000Z"
+  },
+  "company": {
+    "name": "Clairways",
+    "link": "https://www.linkedin.com/company/clairways"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lebanon",
+    "region": "NH",
+    "postal_code": "03784",
+    "street_address": null,
+    "latitude": 43.642426,
+    "longitude": -72.250595
+  }
+}

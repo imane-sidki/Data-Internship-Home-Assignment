@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "<strong>Job Description:<br><br></strong>TO BE USED ONLY IN ORGANIZATIONS DELIVERING SOFTWARE SOLUTIONS: Responsible for developing and delivering software to accomplish business goals. Ensures that software is developed to meet functional and non-functional requirements. Codes solutions, unit tests, and is aware of the development practices of the bank. Contributes to story refinement/defining requirements. Participates in estimating work necessary to realize a story/requirement through the delivery lifecycle. Understands and utilizes basic architecture components in solution development. Codes solution and unit tests to deliver a requirement/story per the defined acceptance criteria. Executes automated test suites (integration, regression, performance); collects results and flags issues. Documents and communicates required information for deployment, maintenance, support, and business functionality. Adheres to team delivery/release process and cadence pertaining to code deployment and release. Individual contributor.<br><br>Minimum Expectations<br><ul><li>Familiarity with tools/products used in data analysis and understanding of data technologies, such as ETL, Relational databases, and SQL.</li><li>Familiarity with standard software development methodologies (Waterfall, Agile, etc.)</li><li>Experience translating business requirements into functional and technical requirements</li><li>Experience creating data mappings, including source, target, and transformations</li><li>Ability to work with diverse sets of stakeholders including: change management, developers, technology architects, program leads, business leads</li><li>Experience in the financial industry and global financial markets including product expertise (Equities, FX, Derivatives, etc.)<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T21:37:45.000Z"
+  },
+  "company": {
+    "name": "Bank of America",
+    "link": "https://www.linkedin.com/company/bank-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

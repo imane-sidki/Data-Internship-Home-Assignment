@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Video Computer Vision organization is working on exciting technologies for future Apple products. Our focus is on ML based solution around real time image and video. We have contributed to the FaceID and FaceKit project in the past and more recently the new LIDAR iPad sensor. We are looking for the right Site Reliability Engineer to help us take our efforts to the next level.<br><br><br>In this role, you will be part of the core data infrastructure team for the Video Computer Vision organization. You will be a core contributor in our SRE team to develop and maintain a modern deployment system for cloud services and applications. You will be responsible for system bringup, deployment, reliability, security and service scalability. This role is highly multi-functional and you will work very closely with various highly skilled software development / ML teams developing cutting edge algorithms.<br><br> <br><strong>Key Qualifications<br></strong> <br>3+ years in managing Site Reliability Engineering teams and supporting mission critical applications<br><br><br>5+ years managing large fleet of *nix systems<br><br><br> 3+ years of Hybrid Cloud (data center, AWS, GCP, Azure)<br><br><br>5+ years with configuration management tools such as Ansible or Terraform<br><br><br>2+ years of programming experience (preferably Python)<br><br><br>2+ years of managing Relational and NoSQL Databases<br><br><br>2+ years of building fully automated CI-CD pipelines<br><br><br>You should also be self-directed, analytical, and work well in a team environment.<br><br> <br><strong>Description<br></strong> <br>Your core responsibility is to provide operational support of multiple cloud based applications with an emphasis on deployment, security, scalability and reliability running on AWS and Apple infrastructure. Operations tech stack: Ansible, Terraform, Go, Python, Prometheus, with some bash scripting. Common technologies include: Django, Docker, Kubernetes, Postgres, Redis, and Cassandra. We make have a hybrid infrastructure and make use Amazon Web Service extensively along with home-grown compute clouds.<br><br><br>What qualities will make you successful? We are looking for a driven and dedicated Site Reliability Engineer possessing hands-on experience with:<br><br><br>-  Core Operations experience with Linux, Ansible (or similar), Docker, Kubernetes, Postgres.<br><br><br>-  Engage various software development teams to collaborate and build services from the ground up<br><br><br>-  Expertise in networking with an emphasis on security<br><br><br>-  Experience building systems both on-premise (data center) and on public cloud (AWS, GCP or Azure welcome)<br><br><br>-  Working knowledge of deploying microservices (Django, Go, JVMs\u2019)<br><br><br>-  Have worked with schedulers such as Kubernetes, AWS ECS or EKS.<br><br><br>-  Ability to write code in one of many high level languages (Python preferred)<br><br><br>-  Vast experience using Linux with knowledge of kernel/system tuning<br><br><br>-  Last but not least, you are battle-tested and have a few interesting production tales<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in Computer Science/Computer Engineering (or equivalent experience).<br><br> <br>Role Number: 200238427<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T18:13:38.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

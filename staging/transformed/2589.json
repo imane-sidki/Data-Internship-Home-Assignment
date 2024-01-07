@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Skills Required:<br>\u2022\tMedical device or any regulatory industry company experience required <br>\u2022\tDegree in computer science or software engineering or electrical engineering <br>\u2022\t5-10+ years\u2019 experience in software development within Linux OS with the help of C/C++.<br>\u2022\tScripting in python is good to have.<br>\u2022\tTranslating software requirements into software design experience.<br>\u2022\tSomeone who understands threading and processes in Linux, real time operating systems, UML, software architecture, ITC (interface protocol), write API <br>\u2022\tCyber security private or public keys or encryption is a plus<br>\u2022\tIEC 62304 or ISO 14971 risk regulations is a plus<br>\u2022\tSoft skills: work well in a team environment under agile methodology<br>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T16:30:47.000Z"
+  },
+  "company": {
+    "name": "SSi People",
+    "link": "https://www.linkedin.com/company/ssipeople"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Computer Hardware,Research",
+    "description": "<p>Lightmatter is a photonic computer company redefining what computers and human beings are capable of by building the engines that will power discoveries and drive progress in a sustainable way. With modern human progress relying heavily on computers, the world has hit a dead end with traditional transistors and the prospect of constantly building data centers is an environmental nightmare. Lightmatter has created a solution in photonic computing: using photons instead of electrons to take advantage of their higher bandwidth. We build chips for artificial intelligence computing. Our architecture leverages unique properties of light to enable fast and efficient inference and training engines.</p><p>Our company has combined electronics, photonics and new algorithms to create a next generation computing platform for artificial intelligence. Lightmatter\u2019s new processor is faster, more efficient and cooler than anything created before.</p><p>Founded and headquartered in Boston, MA, Lightmatter also has an office in the California Bay Area to be close to the top tech talent. Lighmatter has grown to more than 80 employees and has raised over $100 millions in funding from backers like Google Ventures, Matrix Partners, Spark Capital, and Viking Global.</p><p><br></p><p>If you're a collaborative engineer or scientist who has a passion for innovation, solving challenging technical problems and doing impactful work you should join us!</p><p><br></p><p>Responsibilities</p><p><br></p><ul><li>Lead the design and the implementation of our software.</li><li>Develop, maintain, test, and review code for training, visualizing, and deploying neural networks.</li><li>Work closely with Machine Learning Scientists to build state-of-the-art and novel machine learning algorithms that learn semantics of multi-modal data.</li><li>Understand, analyze, and exploit the interplay between machine learning accelerator software and hardware.</li><li>Adapt standard machine learning methods to best leverage modern heterogeneous computing environment which includes our revolutionary computing chips.</li></ul><p><br></p><p>Requirements</p><p><br></p><ul><li>Masters or PhD in computer science, electrical engineering, physics, mathematics, or any related field.</li><li>Minimum of 5 years experience in software engineering for machine learning applications.</li><li>Highly proficient in scientific object-oriented programming languages, e.g. Python, C++, and Julia, with good code hygiene.</li><li>Solid understanding of artificial intelligence, machine learning, and neural networks.</li><li>Highly experienced in deep learning programming languages and framework, e.g. Tensorflow, PyTorch, Caffe, MXNet.</li><li>Experience programming in CUDA or OpenCL is a plus.</li></ul><p><br></p><p>Benefits</p><ul><li>Health Care Plan (Medical, Dental &amp; Vision)</li><li>Retirement Plan (401k, IRA)</li><li>Life Insurance (Basic, Voluntary &amp; AD&amp;D)</li><li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li><li>Family Leave (Maternity, Paternity)</li><li>Stock Option Plan</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T20:39:21.000Z"
+  },
+  "company": {
+    "name": "Lightmatter",
+    "link": "https://www.linkedin.com/company/lightmatter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>The Fulfillment Optimization (FO) team is responsible for developing tools and models to optimize our current network and drive the design of our future networks. We apply machine learning, operations research, analytics and commons sense to large volumes of data in an effort to solve a wide range of problems. As a data scientist, you will help identify opportunities and implement solutions to improve systems, processes and tools. You will be responsible for modeling complex/abstract problems and discovering insights through the use of statistical modeling, data mining and data visualization. You will help automate processes by developing deep-dive tools, metrics and dashboards to communicate insights in real time to multiple teams. Successful members of this team collaborate effectively with internal end-users, cross-functional software development teams and operations teams.<br><br><strong><u>Job Duties And Responsibilities<br></u></strong><ul><li> Use analytical and statistical rigor to solve complex problems and drive business decisions.</li><li> Manipulate/mine data from databases to create unique insights for senior leadership.</li><li> Develop analytical tools to promote fast and consistent decision making at scale.</li><li> Perform deep-dives and root cause analysis to answer business questions.</li><li> Work with engineering teams to enable the appropriate capture, storage and manipulation of data.<br><br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelors in Statistics, Applied Mathematics, Operations Research, Engineering or closely related field.</li><li> Domain knowledge and experience in the following areas: data-driven statistical modeling, discriminative methods, feature extraction and analysis, supervised learning.</li><li> Fluency in a high-level modeling language such as MATLAB, R or .</li><li> Knowledge of relational databases and experience writing SQL queries.</li><li> A natural curiosity and desire to learn.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Masters in Statistics, Applied Mathematics, Operations Research, Engineering or closely related field.</li><li> Experience with large data sets.</li><li> Ability to convey technical concepts and considerations to non-experts.</li><li> Experience with AWS and distributed programming.</li><li> Familiarity with supply chain management and logistics concepts.</li><li> Working knowledge of data visualization tools (e.g. Tableau, Shiny, D3).<br><br></li></ul><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1598321",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-17T16:56:39.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

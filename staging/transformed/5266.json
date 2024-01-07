@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience with containers and container management platforms such as Kubernetes.<br><br>Familiarity with workflows system and state convergence model.<br><br>Familiarity with Software as a Service.<br><br>Familiarity with Postgres technologies.<br><br> <br><strong>Description<br></strong> <br>We are a software development team that develops and operates large scale database services such as Cassandra, Redis and Postgres. Our work involves the development of the control plane and infrastructure to operate these databases at scale. We are currently building new infrastructure to operate relational databases at scale, starting with Postgres. We are in the process of building a team of software engineers to help us accomplish this goal.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science / related fields or equivalent work experience.<br><br> <br>Role Number: 200230357<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:30:25.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

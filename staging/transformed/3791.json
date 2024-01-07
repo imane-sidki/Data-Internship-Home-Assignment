@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "At Noom, we use scientifically proven methods to help our users create healthier lifestyles, and manage important conditions like Type-II Diabetes, Obesity, and Hypertension. Our Engineering team is at the forefront of this challenge, solving complex technical and UX problems on our mobile apps that center around habits, behavior, and lifestyle.<br><br>We are looking for a Data Scientist to join our Data team and help us ensure that we apply the best approaches to data analysis and research, artificial intelligence, and machine learning.<br><br><strong><u>What You\u2019ll Like About Us<br></u></strong><ul><li>We work on problems that affect the lives of real people. Our users depend on us to make positive changes to their health and their lives.</li><li>We base our work on scientifically-proven, peer-reviewed methodologies that are designed by medical professionals.</li><li>We are a data-driven company through and through.</li><li>We\u2019re a respectful, diverse, and dynamic environment in which Engineering is a first-class citizen, and where you\u2019ll be able to work on a variety of interesting problems that affect the lives of real people.</li><li>We offer a generous budget for personal development expenses like training courses, conferences, and books.</li><li>You\u2019ll get three weeks\u2019 paid vacation and a flexible work policy that is remote- and family-friendly (about 50% of our engineering team is fully remote). We worry about results, not time spent in seats.<br></li></ul><strong><u>What We\u2019ll Like About You<br></u></strong><ul><li>You have 4+ years of experience as a Data Scientist or Data Analyst in a similarly-sized organization, with a proven record of analysis and research that positively impacts your team.</li><li>You possess excellent communication skills and the ability to clearly communicate technical concepts to a non-technical audience</li><li>You possess excellent SQL/relational algebra skills, ideally with at least a basic knowledge of how different types of databases (e.g.: column vs row storage) work.</li><li>You have a superior knowledge of statistical analysis methods, such as input selection, logistic and standard regression, etc.</li><li>You are comfortable writing Python code, and have good working knowledge of pandas and numpy. We don\u2019t expect you to write production-quality code, but you should have some programming experience.</li><li>You are comfortable with at least \u201cmedium data\u201d technologies and how to transcend the \u201cmemory bound\u201d nature of most analytics tools.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T05:33:47.000Z"
+  },
+  "company": {
+    "name": "Noom Inc.",
+    "link": "https://www.linkedin.com/company/noom-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

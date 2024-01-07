@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Real Estate",
+    "description": "Job ID<br><br>27033<br><br>Posted<br><br>12-Aug-2021<br><br>Service line<br><br>Advisory Segment<br><br>Role type<br><br>Full-time<br><br>Location(s)<br><br>Richardson - Texas - United States of America<br><br><strong><u>Summary<br><br></u></strong>CBRE\u2019s Data Science Center of Excellence (CoE) is looking to hire a <strong>Data Scientist, </strong>based out of our Richardson, Texas campus<strong>. </strong>Remote work is an option for qualified candidates. S/he would be one of the torchbearers of Data-inspired work across CBRE and will help shape Data Science/Analytics for one or more key business lines. As one of the founding companies in Commercial Real Estate (CRE), CBRE is the world\u2019s largest company spanning the spectrum of CRE services. The CoE was established to help <strong>Differentiate with Data</strong> and, promote and productionize Data-inspired products/projects. <br><br><strong><u>Responsibilities<br><br></u></strong>This role will assist and support the evaluation of proprietary and third-party data, to develop machine learning algorithms to interrogate data, and to develop and implement a scaling stack to develop products for the purpose of business intelligence.<br><br><strong><u>Essential Duties And Responsibilities<br><br></u></strong>Works on assigned cross-functional research or analytical projects leveraging advanced computational algorithms.<br><br>Applies the tools of modern data science using open source architecture to the analysis of CBRE's proprietary data<br><br>Supports data research efforts for product development for internal and external clients.<br><br>Develops custom algorithms for solving real estate business problems across a wealth of structured and unstructured data across multiple data sources.<br><br>Supports the Senior Scientist in the tracking and evaluation of data sources.<br><br>Performs other duties as assigned.<br><br><strong><u>Supervisory Responsibilities<br><br></u></strong>No formal supervisory responsibilities in this position. May provide informal assistance such as technical guidance, and/or training to coworkers. May coordinate and assign tasks to co-workers within a work unit and/or project.<br><br><strong><u>Qualifications<br></u></strong><ul><li>Being an Analytics-focused role, this job mandates clear understanding of frameworks/tools to create reproducible and valid insights while slicing and dicing the data for various needs across business lines</li><li> Wrapping data insights into narratives and visualizations are great-to-haves</li><li>Must have anywhere between 2-4 years of impactful experience in creating Data-driven products and productionizing ML models, while being mindful of Data pipelines</li><li>Bachelors or Masters in disciplines such as Mathematics (Pure/ Applied), Statistics, Computer Science/ Engineering, Information Systems or any other Scientific discipline is ideal. But other quantitative fields of study are also considered<br></li></ul><strong><u>Technical &amp; Other Skills<br></u></strong><ul><li>Must have an intuitive understanding of algorithms underpinning various statistical and machine learning models from regression, classification, clustering to optimization and decision theory</li><li>Proven functional experience in generating quick and sturdy business insights using standard tools and frameworks, potentially across various tech stacks including Open Source</li><li>closely with Data and Software Engineers to provide robust and dependable Business Intelligence</li><li>Visual thinking of outputs, as Tableau/ Power BI/ Streamlit, etc. dashboards. Crispness in communicating the outputs is necessary</li><li>Strong coding skills in R and Python; and scripting in SQL and MS Excel. Any other relevant programming language skills like Java, Scala, Julia, etc would be gladly welcomed<br></li></ul>Excellent written and verbal communication skills. Strong organizational and analytical skills. Ability to provide efficient, timely, reliable and courteous service to internal customers. Ability to effectively present information.<br><br><strong>FINANCIAL KNOWLEDGE <br><br></strong>Requires knowledge of financial terms and principles. Ability to calculate intermediate figures such as percentages, discounts, and/or commissions. Conducts basic financial analysis.<br><br><strong>REASONING ABILITY <br><br></strong>Ability to comprehend, analyze, and interpret complex documents. Ability to solve problems involving several options in situations. Requires advanced analytical and quantitative skills.<br><br><strong><u>OTHER SKILLS And ABILITIES<br><br></u></strong>Demonstrated knowledge of R and/or Python, together with SQL.<br><br>Demonstrated knowledge of standard machine learning algorithms, based on \"An Introduction to Statistical Learning\" by James et. al. or similar textbook. Demonstrated knowledge of strengths, weaknesses, and real-world performance of the ML algorithms.<br><br>Demonstrated knowledge of web scrapping and data preprocessing.<br><br><strong>SCOPE OF RESPONSIBILITY <br><br></strong>Decisions made with thorough understanding of procedures, company policies, and business practices to achieve general results and deadlines. Responsible for setting work unit and/or project deadlines. Errors in judgment may cause short-term impact to department.<br><br>SAFETY",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T20:35:41.000Z"
+  },
+  "company": {
+    "name": "CBRE",
+    "link": "https://www.linkedin.com/company/cbre"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 73700,
+    "max_value": 111000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

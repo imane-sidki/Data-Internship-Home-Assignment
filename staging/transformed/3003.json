@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer - Site Reliability Engineering",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Media Products Engineering team is one of the most exciting examples of Apple\u2019s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple\u2019s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries.<br><br><br>These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services.<br><br><br>Thanks to Apple\u2019s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple\u2019s privacy policy, one of Apple\u2019s core values. Although services are a bigger part of Apple\u2019s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.<br><br> <br><strong>Key Qualifications<br></strong> <br>Deep understanding of the Linux operating system, including kernel, memory, process, threads, cgroups, static / shared libraries, IPC, signals. Standard UNIX utilities, programs and packaging.<br><br><br>Extensive experience in configuration management and fleet orchestration via Puppet, Chef, Ansible, or others.<br><br><br>Understanding of basic Internet infrastructure services including DNS, DHCP, LDAP, server virtualization, server monitoring, cloud services (AWS S3/EC2/CloudFront/Steps... or equivalent).<br><br><br>Demonstrated history in automating operations processes via services and tools<br><br><br>Fluency in one or more high-level programming languages like Java, Python, Go, Ruby or equivalent.<br><br><br>Consistent track record of troubleshooting and resolving issues in live production environments and implementing strategies to eliminate them. <br><br><br>Driven approach to continually improving service levels. <br><br>PREFERRED<br><br>Comfortable working with large-scale server deployments, both on premise and in public clouds<br><br><br>Knowledge of data platforms, including but not limited to: Apache, Kafka, Solr, Redis, MySQL, Cassandra, Hadoop. <br><br><br>Knowledge of continuous integration, testing methodologies, TDD and agile development methodologies.<br><br><br>Strong ability and enthusiasm to learn new technologies in a short time. We seek a self starter, visionary person with strong leadership capabilities. <br><br><br>Experience in understanding how applications operate across distributed resources in diverse geographies<br><br><br>Extraordinary communication skills, for collaborating across many participating teams.<br><br> <br><strong>Description<br></strong> <br>Architect, author and deliver software to improve the availability, scalability and security of Apple Media Product's internal data infrastructure.<br><br><br>Build and manage systems, infrastructure and applications through automation.<br><br><br>Deploy, support and monitor new and existing services, platforms, and application stacks.<br><br><br>Engage in improving the whole lifecycle of services from inception through deployment, operations, and refinement<br><br><br>Provide hands-on technical expertise during service impacting events<br><br><br>Collaborate with other engineers on code reviews, internal infrastructure improvements and process enhancements. <br><br><br>Use scalability testing to measure, tune and optimize system performance.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS degree in computer science or equivalent field with 5+ years experience or MS degree with 3+ years experience, or equivalent.<br><br> <br><strong>Additional Requirements<br></strong> <br>Participate in periodic 24x7 on-call duties<br><br>This role may require occasional international travel/transatlantic travel<br><br> <br>Role Number: 200241158<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T08:07:29.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

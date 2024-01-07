@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer - Site Reliability Engineering",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>What happens when the world\u2019s most innovative engineers collaborate with the world\u2019s most creative storytellers? TV gets reinvented. Meet the reinventors: The Apple TV Services teams created and manage the Apple TV app as well as tvOS, which redefined and refined the way people watch their favorite shows, movies, and so much more \u2014 including everything they love from the major subscription services. Today, these teams also manage one of the most exciting new realms at Apple: They bring viewers the critically acclaimed and award-winning Apple Originals in Apple TV+. And they\u2019ve engineered it so Apple TV+ can be enjoyed not only on Apple devices, but also directly on many new televisions and third-party streaming devices.  <br><br><br>To deliver Apple-level quality on a global scale, these engineers employ talent and tools to smoothly ingest and process a wide array of media assets. They work cross-functionally to handle video flow from content ingestion, playback, transcoding, and virtually everything else it takes to make the experience as seamless as possible. Join them to see what else is possible.  <br><br><br>Areas of work include macOS/iOS Engineering, Full-Stack Engineering, Front-End Engineering, Back-End Engineering, Quality Engineering, Machine Learning Engineering, Data Science, Data Engineering, Site Reliability Engineering, Commerce Engineering, and Engineering Project Management.<br><br> <br><strong>Key Qualifications<br></strong> <br>2-5+ years of managing large scale web services in a *nix environment<br><br>Cloud and on-prem networking experience<br><br>Load balancer experience<br><br>Fluent in a scripting language like Python or shell<br><br>Experience with configuration management automation (Puppet, Chef, Ansible, Salt)<br><br>Monitoring and log mining experience<br><br>Container platform(s)<br><br>Cloud architecture experience<br><br>DR architecture and testing<br><br>Experience deploying and supporting java applications<br><br>Deep experience with deploying/managing Kubernetes and/or Spinnaker (Helm, OPA, Networking)<br><br> <br><strong>Description<br></strong> <br>* Engage with engineering team to improve services from design to deployment to operation by building in DR, security, performance and reliability <br><br> * Experience building and delivering self-healing platforms and services via automation <br><br>* Real passion for quality and automation (automate the manual stuff)  <br><br>* An ability to understand large complex systems and a passion to constantly improve environments  <br><br>* Set priorities and work efficiently in a fast-paced environment  <br><br>* Demonstrated ability to deliver results on time with high quality and attention to detail  <br><br>* Strong interpersonal skills<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in engineering, computer science or other technical disciplines (or equivalent experience) plus 2-5+ years of related experience<br><br> <br>Role Number: 200241882<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T14:34:49.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 111000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

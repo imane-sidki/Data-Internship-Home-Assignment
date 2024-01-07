@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Remote)",
+    "industry": "Computer Software,Information Technology and Services,Computer & Network Security",
+    "description": "Braintree lets you move money from one place to another safely and securely. Every time you pay for an Uber ride, book a stay through Airbnb, or pay with PayPal when you check out online, you\u2019re using our product. It sounds complex (and it is), but we make it so simple you can\u2019t tell we\u2019re there.<br><br>We solve world-scale problems and provide opportunities to match. We build diverse teams that recognize our strengths and allow us to work on our weaknesses. You bring skills and a relentless focus on the customer, and we'll provide the support you need to do the best work of your life.<br><br>Check us out: GitHub | Blog | Twitter | LinkedIn | Facebook | The Muse | Glassdoor | Product and Tech Blog<br><br><strong><u>The Engineering Team<br><br></u></strong>Our focus is teaming with smart engineers who are passionate about their craft and excited to build software for our unique solutions in the space.<br><br>At Braintree, developers have the chance to work on various teams and stacks. Although much of our platform software is written in Ruby, we believe in using the best tool for the job. For example, we\u2019ve written data platforms in Clojure, payment gateways in Java, and contextual commerce in Python.<br><br><strong><u>Here\u2019s More<br></u></strong><ul><li>Communication is key to our process, and we don't want to hinder it with walls. Many teams program in pairs, which means you always have another set of eyes to help you.</li><li>We practice test-driven development and believe that it helps us deliver simple solutions focused on real customer needs.</li><li>We keep the team in sync with daily stand-ups and have regular retrospectives to discuss things that are going well and opportunities for improvements.</li><li>We value unique perspectives brought by diverse backgrounds and experiences. A broad range of ideas and perspectives help us to create the best possible product.<br></li></ul><strong><u>Job Description Summary<br><br></u></strong>The Braintree SDK team is looking for a software developer to help us develop and maintain the tools merchants use to integrate with PayPal. The team handles client SDKs (iOS/Android/JS), server libraries, and backend services that help them run. Usability is our core mission. We build to unobtrusively live within our merchants\u2019 codebases, and take their payments experiences to the vanguard of emerging technology and trends. We value repeatability\u2014we release well-documented tools that work just as well years from now as they do today.<br><br>As a software engineer on the SDK team, you'll work on developing and maintaining the server libraries merchants use to integrate with PayPal &amp; Braintree. That involves writing new code for server libraries, as well as working on our current SDKs. Since we rotate pairs frequently, there will be opportunities to learn from &amp; teach teammates working on the client SDKs too.<br><br><strong><u>Types Of Projects We Work On<br><br></u></strong>SDKs (server) - You'll work on developing and maintaining the server SDKs merchants use to integrate with PayPal &amp; Braintree. This means that on a given day you may find yourself working in Ruby, Python, Java, C# (.Net), JavaScript (Node.js), and more. Since we rotate pairs regularly, you'll also get the opportunity to work on our client-side SDKs and other projects we maintain.<br><br>Braintree's Core Values (Ask Why, Care A Lot, Solve Together) drive our work and interactions. We ask hard questions, we support each other and we team up to solve tricky problems. And at the end of the day, we close our computers and disconnect.<br><br><strong><u>What We Look For In You<br></u></strong><ul><li>4+ years experience building software or web applications Doesn\u2019t matter what language, just a focus on writing clean, well designed and scalable code</li><li>An interest and comfort in working in a distributed team. We've been spread out for as long as anyone can remember, with folks who are fully remote as well as several based in our Chicago and San Francisco offices (when they open up post-COVID)</li><li>Ability and desire to work in our collaborative environment: pair programming and regular cross-team problem solving with all products and operations teams</li><li>A commitment to documentation, including interest or experience in docs-driven development</li><li>Enthusiasm for pragmatic testing, valuing thorough tests more than total coverage. Experience using a test heavy approach to solve problems and create solutions</li><li>Focus on building solutions utilizing an agile approach: close relationships with Product Managers, communicating and digesting real time feedback, and working smart to build story cards on daily basis<br></li></ul><strong><u>Perks<br></u></strong><ul><li>Open dev days: every two weeks we spend a day working on projects that interest us and help us expand our skills and knowledge</li><li>Participation in the technology community: we help cover travel and attendance costs for conferences, and we offer opportunities and tools for speaking.</li><li>Check out our Careers page for more company perks.<br></li></ul>We know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don\u2019t hesitate to apply. You can also check out our FAQ!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:18:39.000Z"
+  },
+  "company": {
+    "name": "Braintree",
+    "link": "https://www.linkedin.com/company/braintree"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

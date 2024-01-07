@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Elk Grove, CA / Austin or Dallas TX / Denver, CO / Seattle, WA",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Seeking an experienced SRE responsible for engineering, upkeep, and automation of internet scale load-balancing and proxy services.<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong knowledge of TCP, HTTP, DNS and SSL protocols<br><br>Experience with distributed systems in a production operations environment<br><br>Systems configuration management experience with automation tools such as Puppet, Chef, Ansible, or Salt<br><br>Experience with programming and/or scripting languages (Python, Perl, Java, bash, Ruby)<br><br>Systems monitoring experience with tools such as Nagios, Sensu, Zabbix, graphite<br><br>Experience with devops tools, processes, and culture<br><br>Experience with microservices/cloud platforms such as Kubernetes a plus<br><br>Strong communication skills and ability to work effectively across multiple business and technical teams<br><br>Troubleshooting of traffic flows at a deep level to find anomalies and to optimize performance<br><br>Demonstrated ability to deliver results on time with high quality<br><br> <br><strong>Description<br></strong> <br>The Edge Traffic Delivery SRE team is a core engineering group with a mission of providing massively scaled load-balancing and proxy solutions to many of Apple's best known services.  We are passionate about design, implementation, and support of our cutting-edge products.  In addition to traffic engineering, we often work with encryption technologies, monitoring/alerting, cloud computing, automation, etc.  <br><br><br>We are looking for a motivated devOps engineer, who can work with internal customers, then ultimately engineer, deliver, and maintain sophisticated solutions.  Come join us and see what it means to \"Think Different\"!<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in Computer Science or equivalent experience<br><br> <br>Role Number: 200227180<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T18:15:08.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77000,
+    "max_value": 110000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Elk Grove",
+    "region": "CA",
+    "postal_code": "95757",
+    "street_address": null,
+    "latitude": 38.418133,
+    "longitude": -121.39326
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p><strong>No C2C</strong></p><p><strong>Must be a US Citizen or Green Card Holder</strong></p><p><br></p><p>As an SRE, you will work with leading edge technologies both on-premise and in the cloud. Automation and superior software quality/performance and resiliency will be your mindset. You will be an expert resource in software and operational high-performance design patterns and support different development, architecture and operational teams from start to finish to create scalable and resilient highly available solutions for multiple locations.</p><p><strong> </strong></p><p><strong> Responsibilities</strong> </p><ul><li>Support development, architecture and operational teams for performance/capacity related issues associated with complex multi-tier distributed platforms during the SDLC and post-production. </li><li>Support/coordinate new Build/Run initiatives prior to production and assure product readiness including infrastructure recommendations, software/script development, load/chaos testing, optimization, SLO definition, capacity planning, and observation/alerting. </li><li>Support Self-Service performance testing helping teams overcome test scenario design challenges. </li><li>Review source code and identify bottlenecks. Identify opportunities to improve performance and scale. </li><li>Perform new POCs for newer technologies and architectural patterns to help teams make informed decisions. </li><li>Define new SLOs for services and applications. Perform workload analysis/help teams define testing scenarios to meet non-functional SLA requirements defined by the business.</li><li>Work to reduce/minimize ongoing runtime costs through efficient throttling/queuing/pooling/autoscaling across application and infrastructure tiers. </li><li>Proactively identify anomalies and opportunities in platforms in production to achieve greater performance/scale and recommend to impacted teams for future planning.</li><li>Define performance quality gates and support canary development CI/CD scenarios around performance for teams.</li><li>Support Performance Analytics, Testing and Observation infrastructure as needed.</li><li>Introduce and evaluate new technologies and tools for performance measurement, observation, profiling, debugging, simulation, etc.</li></ul><p><br></p><p><strong> Required Skills and Qualifications</strong></p><ul><li>Experience supporting/troubleshooting large scale multi-tier distributed on-premise and cloud applications.</li><li>Experience architecting, developing and setting up new infrastructure solutions for hybrid in-cloud/on-premise applications</li><li>Experience in Capacity Planning or Performance Engineering and leveraging predictive analytics to determine needed scaling patterns for platforms.</li><li>Experience programming in languages such as Java, NodeJS, Go, Python, Ruby, Bash, Perl and JavaScript </li><li>Experience in Web Development and/or Web Service creation </li><li>Demonstrable cross-functional knowledge with systems, storage, networking, security, and databases.</li><li>Experience with Linux commands and OS related performance utilities</li><li>Experience using observation tools such as Splunk or Dynatrace.</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Experienced Architect in GCP, Kubernetes, and Google AppEngine</li><li>Experience leveraging messaging frameworks such as Kafka or Pub/Sub solutions</li><li>Experience with LRU/MRU caching schemes and solutions leveraging MemCached or Redis for achieving scale/performance.</li><li>Experience developing basic SpringBoot services and using the Spring Framework.</li><li>Experience or familiarity in web development creating web sites using modern single page MVC frameworks.</li><li>Experienced in performance tracing/profiling using Google Developer Tools</li><li>Experience with Jetty, Tomcat/F5 Load Balancers, Apache Web Servers, and Adobe Experience Manager</li><li>Expertise in Adobe Experience Manager optimization</li><li>Experience with SQL and database scaling/replication schemes</li><li>Familiar with tools used for front end analysis such as Lighthouse, Page Speed Metrics, WebpageTest, GTMetrix and browser developer tools. </li><li>Experience using MongoDB/Atlas and Postgres</li><li>Experience with AngularJS, React and Vue</li><li>Experience tuning/optimizing runtime environments for Java (JVMs), Nodejs and Python for the best performance.</li><li>Experience with DevOps/Quality gating concepts, Canary deployments and automation associated with CI/CD deployments.</li><li>Experience in Enterprise Architecture integration patterns and domain model driven design addressing proper separation of concerns for an application/microservices and core web services. </li><li>Experience working in operations and/or performance engineering/testing.</li><li>Experience using observation tools StackDriver, Dynatrace, Splunk, Quantum Metrics, and Akamai solutions. Experience using cloud profiling tools and JVM tools like JProfiler/Java Flight Recorder. </li><li>Experience in Testing methodologies and metrics using tools like JMeter, NeoLoad, LoadRunner or other.</li><li>Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.</li><li>Experience with CI/CD methodologies and having Agile/DevOps mindset</li><li>A passion for automation with a desire to eliminate toil whenever possible.</li><li>A proactive approach to spotting problems, areas for improvement, and performance bottlenecks</li><li>Experience using GIT and industry build tools.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:12:16.000Z"
+  },
+  "company": {
+    "name": "neteffects",
+    "link": "https://www.linkedin.com/company/neteffects"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

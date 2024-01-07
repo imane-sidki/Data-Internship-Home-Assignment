@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<li>Primary Location:</li><li>6325 Peachtree Dunwoody Rd, Atlanta, GA, USA*Division:</li><li>Cox Automotive*Job Level:</li><li>Individual Contributor*Travel:</li><li>No*Schedule:</li><li>Full-time*Shift:</li><li>Day Job*Requisition Number:</li><li>202102275 This Software Engineer will be part of the Site Reliability Engineering (SRE) team. The SRE team is an innovative team devoted to providing automated solutions and services for Cox Automotive to measure, evaluate and plan for visible, reliable application delivery and maintenance. As a member of the SRE team, you will work with development teams to help create automated pipelines and solutions required for continuous delivery in an Agile Dev/Ops environment. The tools and use-cases are diverse, and our challenge is to increase the development velocity by optimizing various parts of the pipeline and increase application stability. This is an opportunity to create automation, monitoring, and pipelines to improve deploy and response time across the board. We are looking for engineers who are passionate about infrastructure as code and continuous deployment to build scalable and highly reliable applications. If you love to figure out how all the pieces are put together and if automation and building tools to monitor and manage your applications sounds interesting to you, we want to talk to youWhat you will do: Automate anything and everything! (Infrastructure build out, testing, deploying, monitoring, etc Design and assist in the authoring of software tools that reliably manage application delivery- Design and assist in the setup and maintenance of application monitoring and alerting- Engage with Development/Capability Teams to ensure best practices are implemented- Improve predictability and reliability of software releases, workflows and operating software Reduce application deployment windows by leading company towards a Continuous Deployment environment- Reduce mean time to recovery (MTTR) by helping troubleshoot, monitor, alert, and automating recovery. Qualifications:</li><li>The skills we require: Python, Ruby, Go or other systems programming (moderate skills required Experience with configuration management systems (Octopus, Chef, Puppet Experience rolling out redundant, mission-critical applications in a highly available production environment- Experience with version control systems (Git or SVN Experience with Cloud Computing platforms (Amazon AWS, Kubernetes, Heroku, etc Experience with continuous integration tools (Jenkins, CircleCI, etc), Artifactory (or Nexus Excellent written communication, problem solving, and process management skills- Desire to work in a fast paced, evolving, growing, dynamic environment*The skills we prefer: Linux system engineering expertise<li>VMWare, VirtualBox experience Experience supporting Ruby or Java applications- Experience supporting Database Server infrastructure (MySQL, Postgres, etc Networking Knowledge- Experience with Hashicorp tools (Vagrant, Terraform, Packer, etc), Linux Containers (docker,rocket Experience with Java build tools such as Ant, Maven, Gant, or Gradle- Experience with agile development, continuous integration and automated testing- Experience with dashboarding, monitoringWho We Are*About Cox Automotive*Theres nothing ordinary about Cox Automotive. We are people of every background driven by our passion for mobility, innovation, client success and community outreach. We make buying, selling and owning (or simply using) cars easier for everyone. Touching more than 40,000 clients across five continents, we bring together the best brands and the best teams to propel the automotive industry forward. Some of those team members work for our iconic consumer brands like Autotrader and Kelley Blue Book, while others are creating the future of automotive at industry-facing brands like Dealer.com, Manheim and vAuto.<li>About Cox <li>We are the Cox family of businesses. Weve been making our mark since 1898 by building and evolving world-class businesses, staying true to our values, and encouraging top talent to always look for growth and impact while building a career with us.<br></li>Our primary divisions<li>Cox Communications and Cox Automotive - are driving a new wave of innovation, powering smart cities with powerhouse broadband communications and pioneering greener, more progressive transportation alternatives for individuals and fleet operators.<br><br>Were also expanding into new spaces like cleantech and healthcare to rev up our momentum toward building a better future for the next generation.<br><br>Were looking for the talent today who will be our leaders tomorrow. Sound intriguing? Learn more about where we are today, where we hope youll be going with us, and the common purpose that unites us at of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k, and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO<br><br>For more details on what benefits you may be offered, [visit our benefits page]( is an Equal Employment Opportunity employer<li>All qualified applicants/employees will receive consideration for employment without regard to that individuals age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.<br><br>Cox provides reasonable accomodations when requested by a qualified applicant or employee with disability, unless such accomodation would cause an undue harship.<br><br><strong><u>Statement To ALL Third-Party Agencies And Similar Organizations<br><br></u></strong>Cox accepts resumes only from agencies with which we formally engage their services.<br><br>Please do not forward resumes to our applicant tracking system, Cox employees, Cox hiring manager, or send to any Cox facility. Cox is not responsible for any fees or charges associated with unsolicited resumes.</li></li></li></li></li>",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-07-31T05:41:02.000Z"
+  },
+  "company": {
+    "name": "TechFetch.com - On Demand Tech Workforce hiring platform",
+    "link": "https://www.linkedin.com/company/techfetch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

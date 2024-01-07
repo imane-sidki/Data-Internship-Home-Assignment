@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (remote)",
+    "industry": "Computer Software,Automotive,Financial Services",
+    "description": "Vroom is an innovative end-to-end ecommerce company that is revolutionizing the car buying experience. Our scalable, data-driven technology brings all phases of the vehicle buying and selling process to consumers wherever they are and offers an extensive selection of vehicles, transparent pricing, competitive financing, and contact-free, at-home pick-up and delivery. We have experienced tremendous growth and have become a disruptive force in the automotive industry. Vroom is an exciting, dynamic workplace, and there's no better time to join the team than right now.<br><br>Join our pit crew of talented data experts transforming the auto sales industry! We are looking for a full-time data scientist to join our data science team and guide Vroom\u2019s pricing, both for purchasing and retailing. Accurate pricing and forecasting are paramount to Vroom\u2019s success so we need driven data scientists continuously creating and improving models.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Engage with stakeholders to find opportunities, understand requirements, and translate those requirements into mathematical models.</li><li>Train, test, track, productionize, and improve models<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Experience with gathering data, cleaning data, visualizing data, and modeling data.</li><li>Experience with working with stakeholders to identify situations where a mathematical model would be appropriate, gathering data for training the model, training the model, testing the model, and preparing the model for production use.</li><li>Experience with a machine learning platform like TensorFlow or Pytorch</li><li>Python / R</li><li>Jupyter Notebooks</li><li>AWS</li><li>Sagemaker</li><li>SQL</li><li>Spark<br></li></ul><strong><u>Education And Experience<br></u></strong><ul><li>Requires a minimum of 5 years of related experience with a Bachelor\u2019s degree; or 3 years and a Master\u2019s degree; or a PhD without experience; or equivalent work experience.<br></li></ul>We value your personal growth, and will gladly train you on any of our technologies that you don\u2019t currently have. Ours is a culture where your voice will be heard, and you\u2019ll be able to see the result of your work!<br><br>We\u2019re one of the few players in the ecommerce automotive space. As a member of our crew, you will become an industry expert.<br><br><strong><u>Benefits<br><br></u></strong>This full-time role offers competitive compensation; health, dental, and vision insurance; a 401k plan; fully company-paid short term disability, long term disability, and life insurance; access to a healthcare concierge service with virtual visits; and 15 annualized days of paid vacation.<br><br>But our biggest benefit is being part of a low-ego, high performing team that's transforming the used car market into a modern, online and data-driven industry. We are looking for people who want to be a part of a contemporary startup culture. What gets us out of bed is working with talented people on a mission that matters.<br><br><strong>Commitment to Diversity and Equal Employment Opportunity<br><br></strong>Vroom is an equal opportunity employer that is committed to creating a work environment where all employees can find their drive. To do that, we champion a workplace where each and every person is treated with dignity and respect and is valued for their unique perspective and contributions. Our values of SPEED: Service, Progress, Employees, Engagement, and Development are only possible in an environment where every individual has the ability to bring their whole selves to work and contribute fully.<br><br>Vroom\u2019s policy is to maintain a working environment that encourages mutual respect, promotes harmonious and congenial relationships between employees, and is free from all forms of discrimination and harassment of any employee (or applicant for employment or service provider) by anyone, including supervisors, co-workers, vendors, or clients. Harassment and discrimination in any manner or form is expressly prohibited. There is no tolerance for discrimination or unequal treatment of any kind on the basis of race, color, religion, creed, gender, sex, sexual orientation, gender identity or expression, pregnancy, sexual and reproductive health decisions, national origin, age, disability, genetic information, marital status or civil partnership/union status, familial status, military or veteran status, predisposition or carrier status, domestic violence victim status, alienage or citizenship status, unemployment status, sexual violence or stalking victim status, caregiver status, or any other characteristic protected by law.<br><br>This practice applies to all terms, conditions and privileges of employment including, but not limited to, recruitment, selection, promotion, demotion, transfer, layoff, rehire, termination of employment, development and training, compensation, benefits and retirement.<br><br>Please review our privacy and CCPA policies here .<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T03:22:41.000Z"
+  },
+  "company": {
+    "name": "Vroom",
+    "link": "https://www.linkedin.com/company/vroom"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85000,
+    "max_value": 103000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SIte Reliability Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "<em>Since 1935, Webster Bank has been helping individuals, families and businesses meet their financial goals. As a leading regional bank, Webster's strong foundation is built on our core values of responsibility, respect, teamwork, trust and commitment to our communities. Webster bankers remain our most valuable asset, and we pride ourselves on our diverse, equitable and inclusive work environment. Come join our team!<br><br></em>The SRE is a key Technical role in Webster Software Engineering organization. The primary focus of SRE is what ultimately matters to Webster internal and external customers: making sure the platforms and services customers rely on are highly reliable and available when customers need to use them. The SRE is expected to run the production environment by monitoring availability and taking a holistic view of system health. The SRE will combine engineering experience and the drive to improve existing systems and processes, with the creativity to develop novel solutions to evolving challenges. The SRE will bring fresh ideas, demonstrate a unique and informed viewpoint, and enjoy collaborating with a cross-functional team to develop real-world solutions and positive user experience. The SRE will also lead the technical efforts involved in moving / refactoring Webster in-house applications to a Cloud infrastructure. 1. Gather and analyze metrics from both operating systems and applications to assist in performance tuning and fault finding. 2. Set a high bar for reliability and availability -- and meet the bar via automation relentless improvement 3. Balance feature development speed and reliability with well-defined service level objectives. 4. As a key Tech resource on Agile teams, help improve services through rigorous development, testing and release procedures. 5. Lead the Diagnosis / Root Cause Analysis of Technology Incidents, pursue improvements to ensure incidents / problems do not recur. 6. Key player during deliberations on system design, platform management, and capacity planning. 7. Have a strong 'detective' mindset on why things don't work -- be among the first the offer and work on solutions. 8. Advocate for and lead Automation wherever possible 9. Be a 'link' between Technologists and Business --able to have conversations with Line of Business (LoB) and Tech Agile Teams to work through challenges. 10. Own the Tech work involved in migrating in-scope Webster business apps to the Cloud.<br><ul><li>Bachelor's degree required.</li><li>5+ years' experience working in designing, building, and maintaining business applications.</li><li>Experience in setting up SLAs/SLOs/SLIs for critical services and establishing monitoring around them.</li><li>Deep understanding of Operating Systems and Application architecture.</li><li>Experience with multiple programming languages, config management tools and containers strongly preferred.</li><li>Strong knowledge of various Agile methodologies: Scrum, Kanban, XP, etc., plus Scaled Agile (SAFe).</li><li>Hands on experience in cloud migration journey.</li><li>Deep understanding of the systems development life cycle. </li><li>Excellent written and verbal skills.</li><li>Ability to multitask in high paced, pressured environment.<br></li></ul>#ZR<br><br>Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T06:20:58.000Z"
+  },
+  "company": {
+    "name": "Webster Bank",
+    "link": "https://www.linkedin.com/company/webster-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New Britain",
+    "region": "CT",
+    "postal_code": "06051",
+    "street_address": null,
+    "latitude": 41.667526,
+    "longitude": -72.78344
+  }
+}

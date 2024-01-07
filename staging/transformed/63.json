@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Internet",
+    "description": "<p><strong>About the company</strong></p><p>Remind, the leading communication platform in education, helps educators reach students and parents where they are: their phones. With nearly 30 million active users, we\u2019re one of the fastest-growing companies in education technology, but we have our sights set on something bigger: giving every student the opportunity to succeed.</p><p>Remind runs one of the largest free services in education, one of the fastest growing school/district SaaS businesses (theRemind Plan), and a revolutionary new direct to consumer business (Remind Coaching). The common thread through each of our product lines is the belief that success in education is driven by relationships, and the Remind communication platform is where the next generation of education relationships live.</p><p><br></p><p><strong>About this role</strong></p><p>Reporting into the Head of Data, you will be the functional expert, leader, and architect of our data platform. You will drive improvements in our big-data infrastructure, partnering closely with our engineering leaders as much as with the data scientists and analysts in the data org. Data is essential to everything we do at Remind: from product and business strategy to prediction, recommendations and modeling, to actually being a key part of our offering to customers. You should be passionate about education, be insightful about data structure and governance, and have a strong desire to drive impact.</p><p><br></p><p><strong>About you</strong></p><ul><li>You are an expert in building complex, multistage data-pipelines with heterogeneous data sources using Spark and Redshift\u2014with demonstrated expertise in optimizing performance.</li><li>You have built scalable, performant, highly available services and understand the value of a good SLA.</li><li>You are proficient in Python and familiar with at least one other programming language.</li><li>You have expert level SQL skills, but more importantly you know how to design performant and understandable datasets for the whole Remind team.</li><li>You are a curious and communicative person\u2014you seek to understand before building and therefore more often build the right thing first.</li><li>You are fast and rigorous analytically, with a degree in engineering, math, statistics, analytics, or relevant alternative education (adult learning, on the job experience etc).</li></ul><p><br></p><p><strong>What you'll do</strong></p><ul><li>Delight data consumers (internal and external) by ensuring they have the data they need to inform decisions, where and when they need it.</li><li>Define and own organization-level data architecture for a trusted, governed, dimensionally-modeled repository of data that enables the Remind team to quickly and reliably answer their questions.</li><li>Partner closely with the Head of Data and the Head of Technology to define the vision and roadmap for data architecture at Remind.</li><li>Protect data sources against data quality issues: work with data producers to ensure data passes acceptance tests; design, develop and maintain data quality monitoring and assurance framework; and continuously improve the processes for developing new ones, raising the level of quality expected from our work.</li><li>Help democratize data at Remind: create data exploration processes and promote adoption of data sources across the company.</li></ul><p><br></p><p><strong>Compensation</strong></p><ul><li>Competitive salary and equity</li><li>401K</li><li>100% health coverage for you and your dependents</li><li>Open vacation policy</li><li>Paid parental leave</li></ul><p><br></p><p>Remind is an equal opportunity employer, and we're committed to diversity and inclusion in the workplace. We aim to represent the students, teachers, and parents we serve, and we welcome, support, and empower all the diverse individuals in our community.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:07:38.000Z"
+  },
+  "company": {
+    "name": "Remind",
+    "link": "https://www.linkedin.com/company/remindhq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

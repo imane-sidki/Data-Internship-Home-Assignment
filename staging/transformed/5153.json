@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Amazon\u2019s Middle Mile Planning &amp; Optimization team is looking for an exceptional Data Scientist to drive innovation within Amazon Transportation Services in our forecasting, machine learning, and stochastic optimization products that ensure we deliver on customer promises and minimize overall operational cost all while we continue to support Amazon\u2019s rapid growth. We use cutting edge technologies in Big Data and Machine Learning to optimize the flow of packages within the network to efficiently match network capacity with shipment demand. We build scalable systems that react to live signals in real time by using innovative forecasting and optimization algorithms. Our services already handle thousands of requests per second, make business decisions impacting billions of dollars a year, and improve the delivery experience for millions of online shoppers. That said, this remains a fast-growing business and our journey has just started. Our mission is to build the most efficient and optimal transportation solution on the planet, using our technology, science, and engineering excellence as our biggest advantage.<br><br>As a Data Scientist, you will be responsible for modeling complex problems, discovering insights and identifying opportunities through the use of statistical, machine learning, algorithmic, data mining and visualization techniques. You will need to collaborate effectively with internal stakeholders and cross-functional teams to solve problems, create operational efficiencies, and deliver successfully against high organizational standards. The candidate should be able to apply a breadth of tools, data sources and analytical techniques to answer a wide range of business questions and present the insights in a concise and effective manner. Additionally, the candidate should be an effective communicator capable of independently driving issues to resolution and communicating with both technical and non-technical audiences.<br><br><strong><u>Major Responsibilities Include<br></u></strong><ul><li> Design and contribute to the development of automated planning, forecasting, and optimization applications at the core of Amazon's Transportation network.</li><li> Design experiments, test hypotheses, and build actionable models to optimize the Middle Mile transportation space.</li><li> Utilize code (Python, Scala, R, etc.) for analyzing data and building models to solve specific business problems; improving upon existing methodologies by integrating new data sources, testing model enhancements, and fine-tuning model parameters.</li><li> Communicating verbally and in writing to business customers and leadership team with various levels of technical knowledge, educating them about our systems, as well as sharing insights and recommendations.</li><li> Work with engineering teams to deploy models to production.</li><li> Contribute to project plans from a scientific perspective, and contribute to the long-term roadmap.<br></li></ul>Want to learn more about working with Amazon Transportation Services? Check out this video!<br><br>https://www.youtube.com/watch?v=en5YqrtBGvY&amp;feature=youtu.be<br><br><br><strong><u>Basic Qualifications<br></u></strong><ul><li> Master\u2019s degree (or Bachelors degree or 5+ years of experience) in a quantitative discipline such as Statistics, Mathematics, Data Science, Business Analytics, Economics, Finance, Engineering, or Computer Science</li><li> 2+ years of experience working as a data scientist or a similar role involving data extraction, analysis, statistical modeling, and communication</li><li> 2+ years of experience using data querying languages (e.g. SQL, Hadoop/Hive)</li><li> 5+ years of quantitative and qualitative experience in Business Intelligence or Data Science</li><li> Bachelor's Degree in Computer Science, Information Management, Industrial Engineering, Maths, or related industry experience</li><li> Experience processing large scale datasets, analyzing data to solve business problems and presenting impactful insights to business teams</li><li> Advanced knowledge in SQL</li><li> Knowledge of visualization tools like Tableau<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> A demonstrated history of utilizing data driven testing techniques, such as A/B tests, to improve models and customer solutions.</li><li> Hands-on experience in either time series modeling or optimization and a demonstrated ability to work with models that cross into the other space.</li><li> Experience with machine learning techniques such as GBM, random forest, deep learning, and/or reinforcement learning.</li><li> Hands-on experience working with large datasets and deploying changes to machine learning models that will execute in a real-time environment.<br></li></ul>Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.<br><br>We believe passionately that employing a diverse workforce is central to our success and we make recruiting decisions based on your experience and skills. We welcome applications from all members of society irrespective of age, gender, disability, sexual orientation, race, religion or belief.<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br><br>Job ID: A1687638",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T08:46:31.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

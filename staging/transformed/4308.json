@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong>Job Description for SRE</strong></p><p>As we expand our service offerings, we are currently seeking an experienced solutions architect to analyze and improve existing complex architecture. Specifically, we are searching for someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a cross-functional team to develop real-world solutions and positive user experiences at every interaction.</p><p><strong>Objectives of this Role</strong></p><p></p><p>\u25cfMeasure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating to continually improve our processes.</p><p>\u25cfCommunicate to the executive team on the architectural approach that has been taken in our GCP landscape.</p><p>\u25cfPresent architecture via presentations and clear diagrams depictions.</p><p>\u25cfBreakdown the architecture into tangible tasks for a developer to execute in an Agile format.</p><p>\u25cfRun the production environment by monitoring availability and taking a holistic view of system health.</p><p>\u25cfImprove observability, reliability, and quality of our suite of software solutions.</p><p>\u25cfProvide primary operational support and engineering for our rapidly growing new business units.</p><p></p><p></p><p><strong>Daily and Monthly Responsibilities</strong></p><p>\u25cfGather and analyze metrics from both operating systems and applications to assist in performance tuning and fault finding</p><p>\u25cfParticipate in system design consulting, platform management, and capacity planning</p><p>\u25cfBalance feature development speed and reliability with well-defined service level objectives</p><p><strong>Required Skills and Qualifications</strong></p><p>\u25cfAbility to program (structured and OO) with one or more high level languages, such as Golang, Python, or Java</p><p>\u25cfExperience with Hyper Ledger blockchain technology</p><p>\u25cfStrong understanding of Kubernetes, GKE a plus</p><p>\u25cfStrong familiarity with Google Cloud Platform and related Google service offerings</p><p>\u25cfGitHub, GitLab, Confluence and Jira experience a must.</p><p>\u25cfExperience with Prometheus and Grafana.</p><p>\u25cfA proactive approach to spotting problems, areas for improvement, and performance bottlenecks</p><p>\u25cfA desire to take ownership of a new and growing production environment.</p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:16:52.000Z"
+  },
+  "company": {
+    "name": "LPT2 LIMITED",
+    "link": "https://www.linkedin.com/company/lpt2-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

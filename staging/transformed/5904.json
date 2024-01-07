@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Platform Engineer (Java)",
+    "industry": "Computer Software",
+    "description": "The Senior Software Engineer will work with the architects, leads, and fellow engineers to design, develop, implement, and deploy software architectural components and solutions for system-to-system integrations, cloud infrastructure provisioning automation, data integration pipelines, data modeling with high security, performance, and low total cost of ownership.<br><br>What You Will Be Doing<br><ul><li> Design, develop, and implement API based system-to-system integrations</li><li> Design, development and implement big data integration pipelines</li><li> Source data ranging from traditional data warehouses, curated data sets in Data Lakes, and real-time streaming</li><li> Implement cloud infrastructure lifecycle management automation leveraging Infrastructure as Code principles and framework on Azure</li><li> QA test automation for functional and regression testing key product features and capabilities</li><li> Partner with architects and tech leads to troubleshoot and resolve critical customer escalations on technical, stability, and performance issues<br></li></ul>What You Need for this Position<br><ul><li> Bachelors Degree or above in computer science or related field</li><li> 5 years of enterprise SaaS/IaaS/PaaS full stack software development experience with focus on big data platform and analytics</li><li> 3 years of Webservices/Microservices API development using Java plus Spring Boot, Python and Scala</li><li> 2 years of Azure or AWS or GCP cloud services platforms</li><li> 2 years of database development experience with any one of SQL Server, Oracle, MySQL, PostgreSQL, Cassandra, RedShift, or MongoDB</li><li> Security-- In-depth understanding of user authentication and authorization with SSO, SAML, and OAuth; knowledge of data encryption</li><li> DevOps -- hands-on experience with/modern CICD/automation/eco-systems such asAzure DevOps and/pipelines, Terraform, Azure Resource Manager, AWS Cloud Formation, Kubernetes, GitHub, and configuration management tools such as Puppet, Chef, or Ansible<br></li></ul>So, if you are a Senior Platform Engineer (Java) with experience, please apply today!<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Kyle.Martin@CyberCoders.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : KM3-1634426 -- in the email subject line for your application to be considered.***<br></li></ul>Kyle Martin - Recruiting Manager - CyberCoders<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:42:30.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Campbell",
+    "region": "CA",
+    "postal_code": "95009",
+    "street_address": null,
+    "latitude": 37.28766,
+    "longitude": -121.94243
+  }
+}

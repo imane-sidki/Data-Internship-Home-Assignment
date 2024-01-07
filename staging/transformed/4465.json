@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior DevOps Engineer",
+    "industry": "Commercial Real Estate",
+    "description": "<p>Our CONFIDENTIAL, growth clientis looking for experienced DevOps and Site Reliability Engineers who are interested in working with a fast-growing team in building industry-leading real estate data services. You will be working on a small team using cutting edge technology and tools to build and support infrastructure for our diverse environment including customer facing applications, large scale data processing, and APIs.</p><p><br></p><p>Technologies:</p><ul><li>Google Cloud (Compute, Storage, Networking)</li><li>Kubernetes</li><li>Helm</li><li>Terraform</li><li>CircleCI</li><li>Monitoring (DataDog or Stackdriver, StatusCake)</li><li>Linux</li><li>Bash</li><li>Python</li></ul><p><br></p><p>Application/Data Stack</p><ul><li>Airflow</li><li>Hasura</li><li>ETL processes</li><li>Database Development and support (Postgres, BigQuery, MongoDB)</li><li>GraphQL</li><li>Looker</li><li>Node.js,</li><li>React/Redux</li><li>Python</li></ul><p><br></p><p>If you can articulate the value of CI/CD and Infrastructure-as-code (IAC) and have hands-on coding experience with infrastructure management automation in the cloud (GCP OR AWS), would look forward to reviewing your background. </p><p><br></p><p><strong>Once you apply, we\u2019ll send you the full job spec, all company information and a highlight of their leadership team.</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:18:21.000Z"
+  },
+  "company": {
+    "name": "Talentpair",
+    "link": "https://www.linkedin.com/company/talentpair"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

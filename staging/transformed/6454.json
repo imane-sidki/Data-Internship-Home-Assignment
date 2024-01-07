@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "<strong><u>Position Summary... What You'll Do...<br><br></u></strong>Walmart's Asset Optimization team aims to build tools and technologies that will enable our business users to manage resources across our entire fleet of stores, from HVAC units to freezers throughout. As a part of this team, you will get to build highly scalable and reliable services which will bring Walmart\u2019s stores on to the cloud leveraging IoT.<br><br><strong><u>You\u2019ll Make An Impact By<br></u></strong><ul><li>Assists in providing guidance to small groups of two to three engineers, including offshore associates, for assigned Engineering projects by proving pertinent documents, directions, examples, and timeline.</li><li>Provides support to the business by responding to user questions, concerns, and issues (for example, technical feasibility, implementation strategies); researching and identifying needed solutions; determining implementation designs; providing guidance regarding implications of new and enhanced systems; identifying short and long-term solutions; and directing users to appropriate contacts for issues outside of associate's domain.</li><li>Manages small to large-sized complex projects by reviewing project requirements; translating requirements into technical solutions; researching and identifying alternative solutions; determining needed solution based on return on investment and value add to the business; gathering requested information (for example, design documents, product requirements, wire frames); writing and developing code; conducting unit testing; communicating status and issues to team members and stakeholders; collaborating with project team and cross functional teams; identifying areas of opportunity; interpreting information and identifying a solution; ensuring solution is sustainable across implementation and use; troubleshooting open issues and bug-fixes; and ensuring on-time delivery and hand-offs.</li><li>Troubleshoots business and production issues by gathering information (for example, issue, impact, criticality, possible root cause); performing root cause analysis to reduce future issues; engaging support teams to assist in the resolution of issues; developing solutions; driving the development of an action plan; performing actions as designated in the plan; interpreting the results to determine further action; and completing online documentation.</li><li>Participates in the discovery phase of small to medium-sized projects to come up with high level design by partnering with the product management, project management, business, and user experience teams.</li><li>Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices; supporting and aligning efforts to meet customer and business needs; and building commitment for perspectives and rationales.</li><li>Provides and supports the implementation of business solutions by building relationships and partnerships with key stakeholders; identifying business needs; determining and carrying out necessary processes and practices; monitoring progress and results; recognizing and capitalizing on improvement opportunities; and adapting to competing demands, organizational changes, and new responsibilities.</li><li>Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans; using the Open-Door Policy; and demonstrating and assisting others with how to apply these in executing business processes and practices. <br></li></ul><strong><u>Technical Skills<br><br></u></strong>Ample knowledge of Javascript language<br><br>Expertise in React 15+: class components, functional components, hooks, components design for modularity;<br><br>Redux: for global state, thunks for async actions, and middlewares;<br><br>React Router<br><br>Webpack bundler configurations;<br><br>Jest for unit testing<br><br>Responsive design<br><br><strong><u>Nice To Have<br><br></u></strong>Experience with Docker containers and Kubernetes<br><br>Experience with Redis Cache<br><br>Experience with IoT Hubs and Edge Modules<br><br>Microfrontend with Webpack and Module Federation<br><br>Cypress for integration testing<br><br>Knowledge of React Query library<br><br>Knowledge of React Hook Form<br><br>Docker<br><br><strong><u>Minimum Qualifications...<br><br></u></strong><em><em>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. <br><br></em></em>Bachelor\u2019s degree in Computer Science and 2 years\u2019 experience in software engineering or related field OR 4 years\u2019 experience in software engineering or related field. Preferred Qualifications...<br><br><em><em>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. <br><br></em></em>Masters: Computer Science Primary Location...5830 GRANITE PKWY, PLANO, TX 75024, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:33:30.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

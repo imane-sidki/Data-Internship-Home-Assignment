@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p>iVoyant is a fast growing startup with its headquarters in Atlanta, USA working with multiple fortune 100 clients. As a Site Reliability Engineer, you will work with iVoyant\u2019s clients to understand their business, and will work side-by-side to jointly accomplish their vision, mission and goals. We need our engineers to be versatile, display leadership qualities and be enthusiastic to tackle new problems across the full-stack as we continue to push technology forward. You must be out of the box thinker and get excited about introducing and maturing new technologies in reliability engineering.</p><p><br></p><p><strong>Responsibilites:</strong></p><ul><li>Design, write and build tools to improve the reliability, latency, availability and scalability of our products.</li><li>Engage in and improve the software development lifecycle \u2013 from inception and through development, deployment, operation, and refinement</li><li>Influence and design infrastructure, architecture, standards, and methods for large-scale systems</li><li>Support services prior to production via infrastructure design, software platform development, load testing, capacity planning and launch reviews.</li><li>Work within the team of DevOps Engineers developing infrastructure and applications, and focus on driving scalability, stability, reliability, operability of services, and security for development teams and their applications.</li><li>Maintain services during deployment and in production by measuring and monitoring key performance and service level indicators including availability, latency, and overall system health</li><li>Automate system scalability and continually work to improve system resiliency, performance, and efficiency</li><li>Practice sustainable incident response as part of an on-call rotation and through blameless postmortems</li><li>Remediate tasks within corrective action plan via sustainable, preventative, and automated measures whenever possible</li><li>Implement best practices for Continuous Integration and Continuous Deployment</li><li>Implement Infrastructure as Code principles to build and deploy cloud native applications.</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>BS degree in Computer Science or related technical field involving coding, or equivalent job experience required</li><li>2+ years of experience developing and/or administering software in public\u202fcloud</li><li>Experience in monitoring infrastructure and application uptime and availability to ensure functional and performance objectives.</li><li>Knowledge of languages such as Python, Ruby, Bash, Java, JavaScript.</li><li>Understanding and experience in automating and management of of API Gateways, Messaging Systems (JMS, Kafka), NoSQL and document databases like Cassandra, Redis, ElasticSearch and Streaming Systems like Apache Flink, Apache Spark needed.</li><li>Demonstrable cross-functional knowledge with systems, networking, security, and databases</li><li>Intermediate to advanced knowledge of container and container orchestration tools like Docker, Docker Swarm and Kubernetes (ECS/EKS/GKE)</li><li>Practical experience in using Ansible , Terraform and Helm needed and practical experience with Infrastructure as Code (IaC).</li><li>Proficiency with continuous integration and continuous delivery tooling and practices</li><li>Strong analytical and troubleshooting skills</li></ul><p><br></p><p><strong>Nice to have:</strong></p><ul><li>Expertise designing, analyzing, and troubleshooting large-scale distributed systems.</li><li>Ability to take a system problem-solving approach, coupled with strong communication skills and a sense of ownership and drive</li><li>Passion for automation with a desire to eliminate toil whenever possible</li><li>Experience building software or maintained systems in a highly secure, regulated, or compliant industry</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T20:35:55.000Z"
+  },
+  "company": {
+    "name": "iVoyant",
+    "link": "https://www.linkedin.com/company/ivoyant-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

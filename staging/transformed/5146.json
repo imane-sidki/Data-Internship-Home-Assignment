@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong>Software Engineer / Build Engineer Hybrid <br><br></strong><strong><u>Who We Are<br><br></u></strong>2K develops and publishes interactive entertainment globally for console systems, handheld gaming systems, and personal computers, including smartphones and tablets, which are delivered through physical retail, digital download, online platforms, and cloud streaming services. 2K publishes titles in today\u2019s most popular gaming genres, including shooters, action, role-playing, strategy, sports, casual, and family entertainment.<br><br>Mass Media is the premier engineering group for 2K Publishing\u2019s Global Services. Since 1995, we\u2019ve developed deep and multifaceted engineering expertise in video games. Whether it's platform optimization, multiplayer/networking, rendering, console certification, tools, and pipelines \u2013 we\u2019ve done it all! Because we're part of Global Services Technology, we're at the heart of all our games. We provide the engineering to support the matrix of platforms and storefronts of today, innovative technical solutions to the problems of tomorrow, and connective tissue across 2K's studios! In short, when some of the best studios in the world have needs, we can answer the call.<br><br>Our vision at 2K is to create a diverse and inclusive environment to \u201cCome as You are and Feel Equipped to do Your Best Work!\u201d We are dedicated to promoting diversity, multiculturalism, and equality in all that we do. Our communities are focused on increased access and personal growth, and their greatness depends on a diversity of race, gender, sexual orientation, religion, ethnicity, national origin, and perspective. We're an equal opportunity employer, and we're excited to build the future of co-living with the world's most hardworking and passionate people.<br><br><strong><u>What We Need<br><br></u></strong>We are looking for a skilled Build Engineer to create and maintain build systems who are comfortable with C++ and working within large codebases. If you're looking for a place to get your video game career started, this is an excellent opportunity to join a small, hardworking team of developers. Mass Media works on several projects at once, supporting a diverse array of games, on varying platforms and game engines. It's a phenomenal place to learn and to hone your skills in game engines, optimizations, rendering, physics, and more<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Create new and maintain existing build and automated testing systems to process both assets and code artifacts.</li><li>Make minor changes and fixes in large C++ game codebases.</li><li>Make alterations to building pipeline tools in C++ and other languages.</li><li>Proactively identify the data pipeline tools that will be needed throughout development.</li><li>Participate in the design of systems to assist in the creation of supporting tools and technologies.</li><li>Write and maintain documentation.<br></li></ul><strong><u>Who We Think Will Be A Great Fit<br></u></strong><ul><li>Experience programming in C++ on commercial software projects</li><li>Experience with CI/CD systems such as Jenkins, TravisCI, or Team City</li><li>Experience scripting with Batch, PowerShell, and Python</li><li>Self-motivated and able to drive ideas to completion</li><li>Strong ability to quickly learn new areas of development</li><li>Proven ability to work well with all game development disciplines</li><li>Ability to analyze a situation and communicate the most effective and efficient solution.<br></li></ul><strong>Bonus Points<br></strong><ul><li>Passionate video game enthusiast</li><li>Expertise with C++ and experience with C#/.NET programming languages</li><li>Bachelor\u2019s degree in Computer Science or equivalent work experience</li><li>Familiarity with SQL, concurrent processing (multithreading), client/server concepts</li><li>Familiarity with Perforce and bug-tracking software</li><li>Experience with UE4, Unity, and other game engines</li><li>In-depth knowledge of game content pipelines at previous projects.</li><li>Familiarity with MSBuild<br></li></ul>We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request an accommodation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T05:55:36.000Z"
+  },
+  "company": {
+    "name": "2K",
+    "link": "https://www.linkedin.com/company/2k-games"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Moorpark",
+    "region": "CA",
+    "postal_code": "93020",
+    "street_address": null,
+    "latitude": 34.285404,
+    "longitude": -118.88088
+  }
+}

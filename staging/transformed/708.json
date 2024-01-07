@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Big Data Engineer)",
+    "industry": "Information Technology and Services,Financial Services,Hospital & Health Care",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Job Description...<br><br><strong><u>Required Skills<br></u></strong><ul><li>Experience in large-scale IT Project/Product delivery with at least 3 years of work experience in current data streaming, messaging, management, and database technologies</li><li>Ability to establish and always maintain effective and professional working relationships with others in the course and scope of conducting business</li><li>Excellent communication, problem-solving, and organizational skills</li><li>Strong data integrity, analytical, and multitasking skills</li><li>Graduation from an accredited four-year college or university with major coursework in Computer Science or Engineering</li><li>Experience creating producer and consumer applications with Kafka</li><li>Experience with designing and building data platforms</li><li>Experience in tuning and troubleshooting streaming/messaging platforms</li><li>Experience coding and scripting (Python, Java, Scala) and design experience</li><li>Experience with ELT methodologies and tools</li><li>Hands-on experience with AWS and/or Azure</li><li>Experience with KStreams and KSQL</li><li>Experience with designing and automating build and deployment solutions/process for data solutions</li><li>Familiarity with data visualization, warehouse, and analytics tools/platforms such as Qlick, SAS Viya, Kibana, Snowflake</li><li>Experience with streaming/messaging platforms (Kafka, MQ, RabbitMQ, Elk, Elasticsearch)</li><li>Basic knowledge of database technologies (PostgreSQL, Vertica, Redshift, etc.)</li></ul> Able to work independently</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-09T02:06:54.000Z"
+  },
+  "company": {
+    "name": "LanceSoft, Inc.",
+    "link": "https://www.linkedin.com/company/lancesoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

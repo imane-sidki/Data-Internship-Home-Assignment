@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior C++ Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Who We Are<br><br></u></strong>Firebolt is a major shake-up to the cloud data warehouse space. So far we\u2019ve built the fastest, most scalable, and most hardware efficient cloud data warehouse in the market, by far, and have helped some of the most data-forward companies in the world with their biggest data challenges. But this is just the beginning. We are a strong team of world-class data experts, led by ex-founders from Sisense and Looker. With $164M of recent funding by top VCs, we are poised to grow quickly and change how we work with data and what can be done with data.<br><br><strong><u>About The Team<br><br></u></strong>Firebolt is a Cloud Native system, consisting of numerous components provisioning, orchestrating and exposing the unprecedented capabilities of our Analytical Database (Data Warehouse).<br><br>You will be working on the database itself - the Core Engine, which is written in modern C++, judiciously embracing the features of C++14/17/20 targeting the Linux platform.<br><br><strong><u>The Role<br></u></strong><ul><li>Take a key position in our R&amp;D team</li><li>Take part in the definition of our product design and architecture</li><li>Design, build and maintain our cutting-edge database core engine</li><li>Developing highly distributed, multithreaded, low latency core engine<br></li></ul><strong><u>Requirements<br><br></u></strong><strong>About you<br></strong><ul><li>BSc degree in Computer Science, Engineering, or a related field</li><li>3+ years of proven experience as a professional developer of production software</li><li>3+ years of experience working with C++ on a production software</li><li>Fluency in modern C++ (C++11 and above) language, compilers, libraries, and patterns</li><li>Familiarity with high performance, low latency, highly multithreaded development is an advantage</li><li>Experience developing for Linux</li><li>Excellent analytical skills<br></li></ul><strong>A big bonus if you have<br></strong><ul><li>Familiarity with OS internals, memory management, file systems</li><li>Familiar with cloud infra development</li><li>Familiarity with code profiling tools</li><li>Familiarity with distributed computing, networking, lockless algorithms, and datastructures</li><li>Familiarity with Golang, python, and shell scripting</li><li>Familiarity with one of the following: FoundationDB, Aerospike, or any high-performance KV-store</li><li>Background in playing any classical musical instrument</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:14:21.000Z"
+  },
+  "company": {
+    "name": "Firebolt",
+    "link": "https://www.linkedin.com/company/firebolt"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

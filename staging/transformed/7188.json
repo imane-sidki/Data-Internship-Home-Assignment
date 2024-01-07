@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong>Are valued and empowered, collaborative and team oriented, innovative in their approach and passionate about their work. They are reliable, trustworthy and open with a high level of integrity. We value diversity, are inclusive and are committed to a global approach!<br><br><strong><u>Position Summary<br><br></u></strong>Are you looking to be an integral part of a team delivering high-quality features for exciting next-generation products? Do you want to contribute to the cutting-edge technology and products we are known for worldwide? The System Performance and Solution Group is looking for an experienced Software Engineer with a software testing background to join us.<br><br>On our team, you will be responsible for the design and execution of solution and system-level software test plans for BIG-IP products. This includes automating test cases and contributing to test tools and infrastructure. You will also be responsible for documenting test results and validating product defects.<br><br><strong><u>Primary Responsibilities<br></u></strong><ul><li>Understand product design and functionality through hands-on experience</li><li>Perform manual exploratory testing and troubleshooting to help identify difficult to find bugs</li><li>Develop high-quality, end-to-end automation tests that match user scenarios</li><li>Improve and build automation infrastructure.</li><li>Proactively and openly communicate status, plan-of-action, and resolution of issues.</li><li>Work effectively to deliver on planned and committed schedules, through holistic ownership over assigned product areas and projects.</li><li>Openly engage on challenges with a growth mindset</li><li>Perform analysis to define design requirements for modification to existing tools, utilities, system structures, environments and provide technical perspective for input into project scope and estimating activities</li><li>Provide technical mentorship to junior level engineers</li><li>Assist with and drive customer solutions</li><li>Participates in hiring and onboarding process</li></ul><strong><strong>Knowledge, Skills and Abilities:<br></strong></strong><ul><li>Python or Golang programming skills.</li><li>A very good grasp of automation test methodologies and frameworks</li><li>Experience with networking and traffic generation tools</li><li>Must have a strong background in networking technologies &amp; protocols like IP, TCP, UDP, DNS, HTTP etc.</li><li>Solid experience with Linux operating systems</li><li>Experience with Kubernetes, Dockers, NFV, SDN controllers, OpenDaylight and OpenStack is a plus</li><li>Experience with GitLab/GitHub or other source code management systems.</li><li>Strong analytical and troubleshooting skills</li></ul><strong><strong>Qualifications: <br></strong></strong><ul><li>Typically requires a minimum of 8 years of related experience with a Bachelor\u2019s degree; or 6 years and a Master\u2019s degree; or a PhD with 3 years of experience; or equivalent experience.</li></ul> The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.<strong>Phishing Alert<br><br></strong>Please note that F5 only contacts candidates through F5 email address (ending with @f5.com) or auto email notification from Yello/Workday (ending with f5.com or @myworkday.com).<br><br><strong>Equal Employment Opportunity<br><br></strong>It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability,marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws.This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. Reasonable accommodation is available for qualified individuals with disabilities, upon request.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:29:36.000Z"
+  },
+  "company": {
+    "name": "F5",
+    "link": "https://www.linkedin.com/company/f5"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92300,
+    "max_value": 165000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

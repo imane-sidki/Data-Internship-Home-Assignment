@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "<p><strong>Responsibilities</strong>:</p><ul><li>Understanding the business, payment platforms, and customer flows that generate the source data for the project</li><li>Analyzing and understanding the data needed for modeling and platform features</li><li>Cleaning the data and ensuring the validity of the data</li><li>Preprocessing the data (via shell scripts and a programming language such as Python, Java, Scala, etc)</li><li>Iteratively computing features and tuning parameters to improve the quality of the model</li><li>Communicating your findings to the project team and client stakeholders</li><li>Assisting in decision making and making recommendations on Data Science aspects of the project</li><li>Collaborating with key stakeholders (data scientists, engineers, risk managers, users) on the project</li></ul><p></p><p><strong>Requirements</strong>:</p><ul><li>Proficient in Machine Learning (training and testing, avoiding overfitting, etc.)</li><li>Experience with applying machine learning techniques to predictive modeling</li><li>Knowledge of Big Data technologies such as Spark, Hadoop, and related platforms</li><li>Proficiency in Bash, Python, and either Java or Scala</li><li>Proficient in querying databases (Spark, PySpark, Hive, SQL, Oracle, Cassandra)</li><li>Experience with extracting insights from raw data and transforming them into useful features</li><li>Knowledge of resource monitoring and runtime optimization (both at JVM and OS level)</li><li>Knowledge of statistics or data visualization is a plus</li><li>Knowledge of tree-based algorithms (Random Forests, XGBoost, LGBM) is a plus</li><li>Knowledge of Deep Learning algorithms is a plus</li><li>Ability to communicate your findings in a clear way and prepare stakeholder presentations</li><li>Prior client-facing consulting experience is a plus</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T17:11:50.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwood Village",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.616886,
+    "longitude": -104.95051
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Backend",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "<strong><u>About The Role<br><br></u></strong>At Uber backend engineers have to seek a wide variety of problems and situations as we continue to innovate and develop products. We expect engineers to be proficient in algorithms, problem solving, and crafting scalable fault-tolerant architectures. This includes being a specialist at your programming language of choice. Effective communication is an attribute in any engineer as you and your team move in the fast paced development environment.<br><br><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor\u2019s degree in Computer Science or related technical field or equivalent practical experience</li><li>2+ years of professional experience writing production code with C++, Java, Python, or Go<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>At least five (5) years of software engineering experience<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-18T10:03:41.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94101",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

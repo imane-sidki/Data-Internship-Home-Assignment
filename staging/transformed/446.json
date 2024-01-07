@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>What You Will Be Doing<br></u></strong><ul> <li>Responsible for working with users and Product Managers to address customer needs by formulating machine learning and artificial intelligence solutions.</li> <li>Utilize software engineering and data science skills to collaborate with UX/UI teammates on the usability of data-driven product features and assess needs and solutions for large-scale data infrastructure.</li> <li>Drive the technical delivery of dataset creation, experimentation, prototyping, implementation, testing, deployment, monitoring and continuous improvement.</li> <li>Application of machine learning technologies to novel problems in the domains of software operations and security.</li> <li>Require the customization of machine learning models in order to generate useful insights across heterogeneous customer datasets, as well as the design and implementation of production software services to deploy and deliver these models to the customers; and,</li> <li>Own the uptime and reliability of machine learning-related services and capabilities</li> <br><br></ul><strong><u>Requirements<br><br></u></strong><strong>What we need from you<br><br></strong>Master\u2019s degree or foreign equivalent in Computer Science, Computer Engineering, Information Technology or a related field and two (2) years of experience as a Machine Learning Engineer, Software Engineer or in a related role.<br><ul> <li>Work experience with:</li> <li>Object-oriented programming experience in Java, Scala, Ruby, or C++;</li> <li>Machine learning/statistics;</li> <li>Software engineering of production-grade services;</li> <li>Software data related to operations and security; and</li> <li>Validate Machine Learning models on different platforms.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T09:30:42.000Z"
+  },
+  "company": {
+    "name": "Sumo Logic",
+    "link": "https://www.linkedin.com/company/sumo-logic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 156000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Automotive,Renewables & Environment,Utilities",
+    "description": "<strong>Role<br><br></strong>The Business Analytics team\u2019s mission is to enable a data driven business and generate knowledge from our data. The team is responsible for providing data and insights on our business operations\u2019 performance and associated processes, as well as customers\u2019 insights and products\u2019 insights including both our vehicles and energy products portfolio. The team directly supports business leaders up to our executive team.<br><br>We are looking for a data scientist who can lead key cross-functional projects for both energy and automotive business, leveraging data science and ML technics to drive business process automations and support sales &amp; service strategies by leveraging our data. Understanding of the broader automotive and energy markets is strongly valued, in addition to engineering background with energy storage solutions.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Contribute on all the stages of data science projects: from performing raw data mining to translating complex technical topics into business solutions.</li><li> Maintains and enhance a set of critical data models supporting our automotive and energy operations</li><li> Maintains complex data pipeline supporting our team\u2019s mission in democratizing data and enabling a data driven organization, partnering with our Sr. Analyst.</li><li> Effectively communicate actionable insights at all levels of the organization.</li><li> Collaborate closely with leadership, engineering, and other stakeholders to improve our view of modeling and decision engines.</li><li> Solve complex problems using advanced mathematical modeling and optimization techniques, including but not limited to, big data pre-processing, problem formulation, features engineering, algorithmic selection and evaluation, hyper-parameter tuning for machine learning, and deployment.</li><li> Build and Maintain a propensity model for Energy customers (both solar and storage) and build knowledge and metrics about Energy customers\u2019 demographics and Energy product life cycle.</li><li> Define and better understand the synergy between Energy and Vehicle sales process and operations.<br></li></ul><strong><u>Requirements<br></u></strong><ul><li> MS. or equivalent experience in a quantitative or engineering field (i.e. Statistics, Computer Science, Engineering).</li><li> Proven track record of building models and extracting data insights in sales, delivery and service domains. Experience solving problems in any or all of the following spaces - forecasting, predictive modeling, NLP, churn prediction.</li><li> Proficiency in Python, SQL and experience with ML libraries and frameworks like Scikit-learn, h2o or Spark ML.</li><li> Proficiency in one or more visualization tools like Tableau, Bokeh, RShiny etc.</li><li> Experience engineering information out of massive, complex and, in some cases, unstructured datasets.</li><li> Ability to apply a strong business sense with technical skills to effectively balance decisions around the complexity and speed of the project delivery.</li><li> Strong written, verbal, and interpersonal communication skills. Ability to effectively communicate at all levels in the organization.</li><li> Ability to self-start and self-direct work in an unstructured environment, comfortable dealing with ambiguity.</li><li> Excellent problem-framing, problem solving and project management skills and ability to change direction quickly.</li><li> Ability to balance and prioritize multiple projects<br></li></ul><strong><u>Preferred<br></u></strong><ul><li> Experience working within a Big Data environment.</li><li> Experience with git and version control workflows.<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-15T04:26:20.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78100,
+    "max_value": 141000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

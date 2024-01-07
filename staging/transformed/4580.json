@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Internet,Financial Services",
+    "description": "Join our team as a <strong>Data Scientist</strong> in Los Angeles, CA.<br><br>Magnite (NASDAQ: MGNI) is the world\u2019s largest independent sell-side advertising platform. Publishers use our technology to monetize their content across all screens and formats including CTV, online video, display, and audio. The world's leading agencies and brands trust our platform to access brand-safe, high-quality ad inventory and execute billions of advertising transactions each month. In April 2021 we acquired SpotX to further enhance our CTV business and better help our clients in this rapidly growing market. Anchored in sunny Los Angeles, bustling New York City, mile high Denver, historic London, and down under in Sydney, Magnite has offices across North America, EMEA, LATAM, and APAC.<br><br><strong><u>The Role<br><br></u></strong>We are looking for a highly talented and motivated <strong>Data Scientist</strong>. We are looking for someone who is versatile, methodical, excited by modern technology and enjoys focusing on tackling software challenges. Does that sound like you?<br><br><strong><u>What You Will Be Doing<br></u></strong><ul><li>Research and experiment with different machine learning algorithms and techniques for pattern analysis, statistical modeling, feature engineering and predictive model building</li><li>Prototype and produce the developed Machine Learning solutions</li><li>Work with Engineers to make sure the models scale well on high volumes of data</li><li>Use Hive, Scala, Java or Python to utilize Hadoop/Spark to process large-scale datasets</li><li>Able to identify, analyze, and interpret trends or patterns in complex log-based data sets</li><li>Explore and interpret data, analyze results using statistical techniques</li><li>Use big data skills to bring high volumes of data and data modeling together</li><li>Awareness of priorities of client-driven and internal projects</li><li>Partner with Data Engineers to get projects into production</li><li>Conduct and participate in design and code reviews for data science projects<br></li></ul><strong><u>What We Are Looking For<br></u></strong><ul><li>Masters or PhD degree in a quantitative field (e.g. mathematics, statistics, computer science or engineering)</li><li>At least 1+ years\u2019 experience working for a technology company</li><li>In depth knowledge and experience with: Regression, Random Forests, Support Vector Machines, Bagging, Boosting, Decision Trees, Clustering, Optimization, Stochastic Processes</li><li>Solid understanding of predictive analytics, statistical modeling, and data-mining (theory, algorithms, and application)</li><li>Able to make intelligent approximations and design effective, practical, and scalable mathematical models</li><li>Able to identify assumptions and the limitations of models/algorithms and the impact on reporting and decision-making</li><li>Proficient in Python (required)</li><li>Experience with Jupyter Notebooks</li><li>Experience with Spark and \"Big-Data\" is desirable</li><li>Experience with Version Control such as git</li><li>Comfortable working in a Linux/Mac development environment <br></li></ul><strong><u>When You Join Our Team, We Offer<br></u></strong><ul><li>We are an Equal Opportunity Employer and do not discriminate against applicants due to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation or any other federal, state or local protected class.</li><li>Perks/Benefits: Equity and Employee Stock Purchase Plan, Pension and Retirement Savings Plan in Several Countries, Comprehensive Healthcare Benefits for You and Your Family, Generous Time Off, Holiday Breaks and Summer Fridays, Family-Focused Leave Benefits, and Cell Phone Subsidy</li><li>Invest in You: Performance Management, and Investment in Diversity Initiatives, Bonusly Peer-to-Peer Recognition Program, Turning Recognition into Tangible Perks and Magnite Swag, Community Service Events, Wellness Coach\u2014Meditate and Recharge with an Unlimited User Account for You and a Plus One</li><li>COVID-19 Precautions: remote interview process, virtual onboarding for new hires</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Magnite",
+    "link": "https://www.linkedin.com/company/magnite"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

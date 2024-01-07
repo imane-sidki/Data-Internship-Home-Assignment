@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Data Engineer, Analytics - Apple Media Products",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The Apple Media Products Engineering team is one of the most exciting examples of Apple\u2019s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a substantial scale, meeting Apple\u2019s high expectations with high performance to deliver a huge variety of entertainment to millions of customers.<br><br><br>Apple Media Products Analytics is looking for an outstanding engineer to help develop an analytics platform that will generate insights into customer experiences on products such as the Apple Music, App Store, and Bookstore. Our stores reach hundreds of millions of customers around the world, and have revolutionized how people interact with their music, movies, TV shows, apps, books, and podcasts.<br><br> <br><strong>Key Qualifications<br></strong> <br>Demonstrated proficiency in data management and automation on Spark, Hadoop, and HDFS environments<br><br>Experience managing data in relational databases and developing extract-transform-load (ETL) pipelines<br><br>Knowledge of maintaining and debugging systems in Java runtime environments (JREs)<br><br>Proficiency in Java and Scala, or/and C#, Clojure, or a similar object-oriented language<br><br>Deep understanding and strong hands on experience with multithreading, networking (including non-blocking IO), etc.<br><br>Confidence with SQL databases like Oracle and with NoSQL databases like Cassandra<br><br>Experience driving product features, functional specifications, and development schedules,<br><br>Able to represent their team and the team\u2019s technologies<br><br>Passion and prior experience designing and implementing large distributed systems<br><br>Desire to be an advocate and driver for performance optimization, automation, and unit tests<br><br>Able to pick up new technologies quickly<br><br>Excellent debugging, critical thinking, and communication skills<br><br>Tireless attention to detail<br><br>Solid documentation and technical writing skills<br><br> <br><strong>Description<br></strong> <br>The AMP Analytics team is responsible for collecting, analyzing, and reporting on customer experiences. From this data we generate insights into how customers interact with our products and use these insights to drive improvements to user-facing features. You will be working on a small team that highly values cooperation and brainstorming, with equal emphasis on design and implementation. You will be responsible for developing systems, tools, and visualizations to make sense of the data. We are looking for a sharp engineer who also has a keen sense of how to build good products. You are also a great teammate -- ready to engage in lively design discussions and able to give and receive constructive code reviews. Your curiosity drives you to explore new technologies and apply creative solutions to problems. The ideal candidate pays close attention to details, but also keeps sight of the bigger picture.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS degree in Computer Science or a related field<br><br> <br><strong>Additional Requirements<br></strong> <br>-  Proficiency with source control systems (SVN, Git) and build tools such as Gradle, Maven, etc.<br><br><br>-  Experience with the Big-Data ecosystem (Spark, Hadoop, Hive, Pig, etc.)<br><br><br>-  Built and deployed large scale data pipelines (e.g. Kafka, Spark, Storm)<br><br><br>-  Understands different data storage solutions and when to use them (e.g. RDBMS, Cassandra, Solr, Redis)<br><br><br>-  Experience implementing and administering logging, telemetry and monitoring tools like Splunk is a plus<br><br><br>-  Experience in cluster management/orchestration software like Mesos, Aurora or Ansible using tools such as Docker is a plus<br><br><br>-  Experience working with Cloud based environment a plus<br><br> <br>Role Number: 200254229<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:03:11.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83700,
+    "max_value": 182100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

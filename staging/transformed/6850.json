@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer / Software Engineer - Bioinformatics &amp; Lab Informatics",
+    "industry": "",
+    "description": "<p><strong>Description</strong></p><p>Arzeda is a world-leader in protein design and synthetic biology. Leveraging our core expertise in structure-based computational protein design, machine learning and high-throughput testing, we design novel proteins and bio-catalytic processes for the sustainable production of performance ingredients and materials. A deep tech, mission-driven company, we are passionate about our mission to design novel proteins and products that enhance our lives and protect our planet.</p><p></p><p>Arzeda is searching for a talented software engineer to help build the largest and most comprehensive set of enzyme &amp; protein engineering data the world has seen. This is an opportunity to solve a rich and diverse set of problems crucial to the execution and tracking of the high-throughput laboratory experiments necessary to generate that dataset. You will work with a multi-disciplinary team and play a leading role in crafting the breadth of software tools necessary to enable streamlined workflows across all experimental activities at Arzeda, including genetic design, assay development &amp; testing, analytical chemistry, and strain engineering.</p><p></p><p>The preferred work location for this position is Seattle, Washington. However, remote work from other U.S. locations is a possibility. The position comes with a competitive salary and benefits, including health insurance, dental insurance, and paid time off, commensurate with applicant qualifications.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Developing software tools, workflows, and user interfaces for scientists executing high-throughput laboratory experiments, such as NGS and high-throughput enzyme assays.</li><li>Developing extensions for our LIMS and interfacing services to the LIMS.</li><li>Developing registries and databases of biological materials such as DNA and organisms.</li><li>Collaborating with scientists to produce actionable software specifications and requirements.</li><li>Communicating software engineering objectives, approaches, and outcomes to internal stakeholders.</li><li>Mentoring fellow software engineers.</li></ul><p></p><p><strong>Qualifications</strong></p><ul><li>Fluency in Java and/or Python.</li><li>Software development experience, including modern software practices such as version control and automated testing.</li><li>Experience developing bioinformatics or laboratory workflows, and/or biological databases.</li></ul><p><br></p><p><strong>Inquiries and Applications</strong></p><p>Please apply here on LinkedIn or send your CV and a cover letter to jobs[at]arzeda.com with the subject line \u201cSoftware Engineer - Informatics\u201d.</p><p><br></p><p><em>Arzeda Corp. (www.arzeda.com) is an equal opportunity employer promoting diversity and inclusion in the workspace.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:11:19.000Z"
+  },
+  "company": {
+    "name": "Arzeda",
+    "link": "https://www.linkedin.com/company/arzeda-corp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

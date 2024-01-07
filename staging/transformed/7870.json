@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p>Quil, a digital health company, delivers actionable and personalized health itineraries for patients and caregivers, answering the question \u201cWhat Happens Next?\u201d in their healthcare journeys. We combine the powers of precision data, state-of-the-art technology, and security with unparalleled consumer reach to help individuals navigate today\u2019s chaotic healthcare landscape. Headquartered in Philadelphia, PA, Quil is a joint venture of Comcast and Independence Health Group (Independence).</p><p><br></p><p>We are seeking an experienced Site Reliability Engineer to join our rapidly growing organization. In this role, the engineer will develop software solutions to operations problems, embedding in development teams, and perform operations work. The selected candidate will be responsible for building developer tooling, APIs, infrastructure, pipelines, testing, monitoring, and all other tooling necessary to ship high quality code in an Agile environment.</p><p><br></p><p>As a member of the Site Reliability Engineering team, you will:</p><ul><li>Write software to automate the entire lifecycle of production microservices and the environments they run on</li><li>Tackle architectural challenges around highly available services and data</li><li>Ensure our infrastructure and services are sufficiently observable</li><li>Continue to learn and expand your knowledge and skill set</li></ul><p><br></p><p>You have the skills to be successful in this role if you have:</p><ul><li>Generally 5+ years of software development experience</li><li>Writen code with empathy for the next person</li><li>Previous experience in operating production systems, ideally including node.js or JVM services</li><li>Bachelor of Science degree or greater in Computer Science, Electrical Engineering or another related field, or equivalent experience</li><li>Experience in one or more of the following: node.js, Java, Python, Go, PHP or Ruby</li><li>Desire to join a highly technical team in a fast-paced environment</li><li>Proven track record of ownership of maintainable, stable and scalable software</li><li>Expertise managing AWS infrastructure</li><li>Good understanding of continuous delivery</li><li>Good understanding of Monitoring/Alerting tools and best practices</li></ul><p><br></p><p>It is a plus if you have:</p><ul><li>Run Kubernetes in production</li><li>Familiarity with managing Kafka, Elastic Search, RDS, DynamoDB</li><li>Experience with AWS Lambda</li><li>Contributed to existing open-source projects as well as your own</li><li>Experience with Docker and/or Linux Containers</li><li>Experience with Microservices/SOA</li><li>Experience with HIPAA or SOC2</li></ul><p></p><p>Personal Requirements:</p><ul><li>Curiosity and interest in investigating issues to reveal their root causes</li><li>Have strong opinions that are loosely held</li><li>Work constructively in a distributed team and collaborate effectively</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T14:42:14.000Z"
+  },
+  "company": {
+    "name": "Quil",
+    "link": "https://www.linkedin.com/company/quilhealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

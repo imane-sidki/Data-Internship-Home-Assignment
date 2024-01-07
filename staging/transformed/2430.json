@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Remote (US)",
+    "industry": "Marketing and Advertising,Information Technology and Services,Staffing and Recruiting",
+    "description": "<strong>Why PandoLogic?<br><br></strong>PandoLogic delivers Hire Intelligence to Talent Acquisition organizations by sourcing quality applicants faster and more efficiently through the use of big data, artificial intelligence, and proprietary campaign algorithms that fully-automate and optimize the job advertising and decision-making process.<br><br>We are backed by premier early-stage venture capital companies and list a number of Fortune 500 enterprise clients.<br><br>When you join us, you'll become an important PandoPal of a well-established, global company. Professionally, you'll help us disrupt the recruitment advertising market and work on the most advanced technologies with experienced team members and from day one you'll be challenged to take risks while getting mentorship and support from the team.<br><br>What else? Competitive compensation, the flexibility to work from anywhere, a family-friendly culture, happy hours, social outings, hackathons, and more\u2026<br><br>To learn more visit http://www.pandologic.com.<br><br><strong>You are a PandoPal if you are: <br><br></strong>Excited about using bleeding edge technologies to help make the hiring process better and more equitable for millions of people.<br><br>You'll be working on a small team at a rocketship-growth tech company that's focused on building out the conversational AI product in PandoLogic's offering. Your work will streamline the hiring process for millions of job seekers, reduce bias in hiring, and help companies solve some of the most ambitious challenges in the world.<br><br><strong>Responsibilities:<br><br></strong><ul> <li>You will be the first dedicated SRE for the product: helping us with scalability and uptime as we grow to millions of users </li> <li>Optimize our applications </li> </ul><ul> <li>Performance and load testing </li> </ul><ul> <li>Support and debug our applications </li> <li>Virtualization of the system using tools like Docker </li> <li>Collraborate with and educate other developers on the team to build high performing scalable software together </li> <br></ul><strong>Requirements:<br><br></strong><ul> <li>5+ years of DevOps/SRE experience </li> <li>AWS </li> <li>Docker, Kubernetes, and Terraform </li> <li>CI/CD: experience setting up and supporting a mature build and deploy pipelines </li> <li>Scripting experience </li> <li>Experience managing scalability and uptime in a high-growth environment </li> <li>Experience scaling microservices in a high-growth environment </li> <li>Java </li> <li>Python </li> <br></ul><strong>Nice to have:<br><br></strong><ul> <li>Understanding and debugging microservice uptime issues </li> <li>Monitoring using tools like Datadog </li> <li>Managing and setting up tools like Amazon EKS </li> <li>A DevOps mindset </li> <li>Experience with databases </li> <li>Basic SQL skills </li> <li>CDN and Caching setup experience </li> <br></ul>PandoLogic is committed to providing equal opportunity employment to all individuals regardless of race, color, religion, gender identity, sexual orientation, citizenship, national origin, disability, veteran status, or any other characteristic protected by law. We are flexible. We are kind. We are PandoLogic.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T05:19:54.000Z"
+  },
+  "company": {
+    "name": "PandoLogic",
+    "link": "https://www.linkedin.com/company/pandologic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

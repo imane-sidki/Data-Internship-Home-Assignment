@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Hospital & Health Care",
+    "description": "<p><strong>STRATEGIC STAFFING SOLUTIONS HAS AN OPENING!</strong></p><p><strong>Strategic Staffing Solutions (S3) is currently looking for an Application Development Senior Advisor/SRE for a contract opening with one of our largest Healthcare clients located in Bloomfield, CT/ Remote! </strong></p><p><br></p><p>This is a<strong>Contract Opportunity</strong>with our company that<strong>MUST</strong>be worked on a<strong>W2 ONLY, NO visa sponsorship or C2C eligibility for this position</strong>.The details are below.</p><p><strong>Application Development Senior Advisor</strong></p><p><br></p><p>We are looking for a Site Reliability Engineer (SRE) who is passionate around solving business problems through innovation and engineering practices. The SRE would serve as the bridge between our operations members and service delivery members. The individual will be embedded in the operations team and enable the SRE community of practice by helping to bridge the needs and technologies of both teams while enabling the operations members to streamline and automate the repetitive and manual activities. The application environment is a blend between on premise &amp; cloud.</p><p><br></p><p><strong>Roles and Responsibilities:</strong></p><p><br></p><ul><li>Monitoring, Alerting and Communication</li><li>Manage and monitor production systems</li><li>Application Availability &amp; performance issues</li><li>Data and Integration issues</li><li>Stakeholder communication</li><li>Incident Management and root cause analysis</li><li>Facilitate the incident management</li><li>Guide the team on root cause analysis</li><li>Manage performance metrics</li><li>Work with stakeholders to identify &amp; define the service level indicators and objectives</li><li>Measure and report the performance metrics.</li><li>Automation and tools</li><li>Work with the service delivery teams in developing and testing automation of repetitive and manual efforts.</li><li>Work closely with engineering teams on monitoring and performance management tools initiatives to improve system reliability and performance.</li><li>Team building</li><li>Help teams transition to SRE mind set</li><li>Help with SRE adoption across teams</li></ul><p><br></p><p><strong>Desired Qualifications:</strong></p><p><br></p><ul><li>Bachelor\u2019s degree or equivalent experience</li><li>5+ years of experience in Developer, Operations roles</li><li>Knowledge of application, data and infrastructure architecture dislines</li><li>Working proficiency in development and monitoring tools</li><li>Ability to work in large, collaborative teams to achieve organization goals</li><li>A mindset focused on reliability, uptime and the customer experience</li><li>4+ years of SRE experience</li><li>3+ years of public cloud experience</li><li>Willing to work on a distributed team spanning multiple time zones.</li><li>Analytical and problem-solving skills</li><li>Good communication skills</li><li>The desire to continually learn and test your own boundaries</li><li>Exposure to standard software development practices including agile, deployment pipelines, continuous integrations and continuous delivery</li><li>Understanding of software skills such as business analysis, development, maintenance and software improvements</li><li>Experience with monitoring and observability systems like Dynatrace, CA APM, Splunk etc.</li><li>Experience in one or more programming languages Python, Java, Scala, PySpark</li><li>Experience with build and deployment pipeline technologies like Jenkins, Cloudbees, Terraform, Urban Code Deploy, Ansible, Maven, GitHub</li><li>Experience working with relational databases or HDFS or cloud storage</li><li>Hands on experiences in AWS technologies \u2013 Cloud Watch, Step Functions, Lambda, Glue, EC2, Redshift, DynamoDB, SQS, ECS/EKS, Elastic Search, SnowFlake, Elastic Cache, databricks, to name a few</li><li>Exposure to containerization \u2013 Docker and Kubernetes</li></ul><p><br></p><p><strong>Skills and Experience:</strong></p><p><br></p><ul><li>SITE RELIABILITY ENGINEER</li><li>JAVA</li><li>SQL</li><li>J2EE</li><li>MQ Series</li><li>KAFKA</li><li>PYTHON</li><li>OPENSHIFT</li><li>ORACLE</li><li>Additional Skills:</li><li>JENKINS</li><li>MAVEN</li><li>METRICS</li><li>PYSPARK</li><li>RELIABILITY ENGINEER</li><li>ROOT CAUSE ANALYSIS</li><li>SCALA</li><li>SOFTWARE DEVELOPMENT</li><li>SPLUNK</li><li>STRUCTURED SOFTWARE</li><li>PROBLEM-SOLVING</li><li>AMAZON DYNAMODB</li><li>AMAZON ELASTIC COMPUTE CLOUD</li><li>APACHE HADOOP HDFS</li><li>CACHE</li><li>CLOUD STORAGE</li><li>CLOUDBEES</li><li>CONTAINERIZATION</li><li>DATABASES</li><li>DOCKER</li><li>DYNAMODB</li><li>EC2</li><li>ECS</li><li>ENGINEER</li><li>HADOOP DISTRIBUTED FILE SYSTEM</li><li>HDFS</li><li>INCIDENT MANAGEMENT</li><li>INTEGRATION</li><li>INTEGRATOR</li><li>BUSINESS ANALYSIS</li><li>DEPLOYMENT</li><li>MAINTENANCE</li><li>OPERATIONS</li></ul><p><br></p><p><strong><em><u>The S3Difference</u></em></strong>:</p><p><em>The global mission of S3is to build trusting relationships and deliver solutions that positively impact our customers, our consultants, and our communities.</em><strong><em>The four pillars of our company are to:</em></strong></p><ul><li><em>Set the bar high for what a company should do</em></li><li><em>Create jobs</em></li><li><em>Offer people an opportunity to succeed and change their station in life</em></li><li><em>Improve the communities where we live and work through volunteering and charitable giving</em></li></ul><p><strong><em><u>As an S3 employee, you\u2019re eligible for a full benefits package that may include:</u></em></strong></p><ul><li><em>Medical Insurance</em></li><li><em>Dental Insurance</em></li><li><em>Vision Insurance</em></li><li><em>401(k) Plan</em></li><li><em>Vacation Package</em></li><li><em>Life &amp; Disability Insurance Plans</em></li><li><em>Flexible Spending Accounts</em></li><li><em>Tuition Reimbursement</em></li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T12:46:09.000Z"
+  },
+  "company": {
+    "name": "Strategic Staffing Solutions",
+    "link": "https://www.linkedin.com/company/strategic-staffing-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bloomfield",
+    "region": "CT",
+    "postal_code": "06002",
+    "street_address": null,
+    "latitude": 41.830956,
+    "longitude": -72.73743
+  }
+}

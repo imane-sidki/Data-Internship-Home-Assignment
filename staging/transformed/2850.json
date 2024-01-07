@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>You will be part of a team whose focus is to solve cutting edge AI problems and deploying models that constantly advance the state-of-the-art. You will be working across various Natural Language Processing (NLP) areas like Speech to Text, translation, summarization, sentiment analysis, Text to Speech, and other interesting challenges that are challenging at Zoom's scale. You will be one of the founding members of the team, you will have a unique opportunity to start from scratch and drive the direction of our products. <br></strong><ul><li> Build and deploy state of the art Machine Learning models for Natural Language Processing use cases </li><li> Build large scale training and inference pipelines </li><li> Build and scale realtime Machine Learning (ML) services which enable Zoom\u2019s products </li><li> Take ML models from Research all the way to production </li><li> Build metrics, dashboards to measure both ML and system performance </li><li> Build productivity tools and services for Research teams. This includes working on various tools like S3, MLFlow, Kubernetes, Docker, Pytorch etc </li><li> Integrate the ML services with product and operations teams, Salt stack, Kibana etc </li><li> Build data pipeline for data acquisition, cleanup and related tooling. </li></ul><strong><strong> Qualifications <br></strong></strong><ul><li> Undergraduate degree in Computer Science, Electrical Engineering or related degree </li><li> 1 plus years relevant work experience </li><li> Strong coding skills in Python, C/C++, or Java </li><li> Experience with one or more of the following: Natural Language Processing, text understanding, classification, ranking systems or similar </li><li> Experience in Machine Learning toolkits (TensorFlow, PyTorch) </li><li> Familiarity with large-scale data processing and distributed systems </li><li> Proven mathematical knowledge; understanding of machine learning, statistics </li><li> Relevant professional experience with applied data analytics and predictive modeling </li></ul><strong><strong> Bonus Qualifications <br></strong></strong><ul><li> Experience framework such as MLflow, Kubeflow, Airflow, Seldon Core, TFServing etc </li><li> Experience in distributed training and performance optimization on GPU\u2019s </li><li> Expertise in crafting Data Models for high performance and scalability </li><li> Autoscaling, containers, performance tuning and optimization </li><li> Experience with Deep Learning for NLP </li><li> Strong verbal and written communication skills </li><li> Masters/PhD degree Computer Science, Machine Learning or related degree <br><br></li></ul>Ensuring a diverse and inclusive workplace where we learn from each other is core to Zoom\u2019s values. We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records as well as any qualified applicants requiring reasonable accommodations in accordance with the law.<br><br>We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.<br><br>All your information will be kept confidential according to EEO guidelines.<br><br><strong><u>Explore Zoom<br></u></strong><ul><li> Hear from our leadership team </li><li> Browse Awards and Employee Reviews on Comparably </li><li> Visit our Blog </li><li> Zoom with us! </li><li>Find us on social at the links below and on Instagram</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T08:43:21.000Z"
+  },
+  "company": {
+    "name": "Zoom",
+    "link": "https://www.linkedin.com/company/zoom-video-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 102000,
+    "max_value": 177000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

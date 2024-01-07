@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "1) Python/PySpark<br>2) Hadoop tooling - HIVE, Spark, and Map Reduce<br>3) Big Data fundamentals - core understanding of building data pipelines, data modeling, Linux<br>4)AWS tooling so Glue, EMR, S3",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T00:19:54.000Z"
+  },
+  "company": {
+    "name": "Lyve Tech LLC",
+    "link": "https://www.linkedin.com/company/lyve-tech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

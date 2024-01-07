@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Automation Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<p><strong>Get your hands on the interface that millions of people use every single day</strong></p><p><br></p><p><br></p><p><strong>Roku is changing how the world watches TV</strong></p><p><br></p><p><br></p><p>Roku is the #1 TV streaming platform in the U.S., and we\u2019ve set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.</p><p><br></p><p><br></p><p></p><p>From your first day at Roku, you\u2019ll make a valuable \u2014 and valued \u2014 contribution. We\u2019re a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world, while gaining meaningful experience across a variety of disciplines.</p><p><br></p><p><br></p><p><strong>About the role</strong></p><p><br></p><p><br></p><p>Roku pioneered TV streaming and continues to innovate and lead the industry. The Roku Channel has us well-positioned to help shape the future of streaming. Continued success relies on investing in our automation.</p><p></p><p><br></p><p>As a Senior Software Automation Engineer on the User Team, you'll be building monitoring tools, load testing suites, functional tests and automation pipelines for our fleet of microservices. The User Team's mission is to build an extremely high scale services platform that enriches the Roku experience across millions of devices, mobile, and web. Our team charter includes activation of Roku devices and accounts, continuous improvement of our messaging infrastructure, and seamless channel authentication experience across multiple devices. To do this at massive scale, we ensure that our cloud platform offers low latency and is able to withstand millions of requests coming from Roku devices across the globe.</p><p><br></p><p></p><p>The ideal candidate will have endless curiosity and can pair a global mindset with locally relevant execution. You should be a gritty problem solver and self-starter who can drive programs with the product and commercial teams within Roku and across external strategic partner organizations. The successful candidate will display a balance of hard and soft skills, including the ability to respond quickly to changing business needs.</p><p><br></p><p><br></p><p><strong>What you\u2019ll be doing</strong></p><p><br></p><p><br></p><ul><li>Collaborate with developers, test engineers, and leaders across the company to deliver quality products that directly touch our users.</li><li>Drive our automation and quality approaches across all environments, including production.</li><li>Design and implement highly maintainable, automated test suites for critical backend services.</li><li>Go beyond functional testing alone, working on performance and failure mode testing.</li><li>Contribute to new ideas and best practices to achieve high efficiency and great quality.</li><li>Join the streaming revolution and helping transform an industry.</li></ul><p><br></p><p><br></p><p><strong>We\u2019re excited if you have</strong></p><p><br></p><p><br></p><ul><li>8+ years of experience in owning automation focused on APIs and web services.</li><li>Excellent programming skills in Python or Java.</li><li>Solid understanding of micro service architectures and supporting testing strategies.</li><li>Hands-on experience with Amazon Web Services - ELB, EC2, S3, RDS etc. is desirable.</li><li>Experience with a breadth of protocols and data formats such as REST, WebSockets, HTTPS, JSON, and Protobuf.</li><li>Strong understanding of CI/CD concepts and tools such as Jenkins, GitLab CI/CD, Circle CI or equivalent.</li><li>A passion for all aspects of testing and automation including functional,load and performance, and failure mode testing.</li><li>Thorough understanding of load testing strategies with Locust or Apache JMeter.</li><li>Demonstrated ability to be proactive, self-driven, and make practical trade-offs based on business needs.</li><li>B.S. or M.S. degree in Computer Science, Engineering, or equivalent.</li></ul><p><br></p><p><br></p><p><strong>What it takes to be successful:</strong></p><p><br></p><p><br></p><ul><li>A desire to script away routine tasks, coupled with a very low tolerance for manual testing.</li><li>Self-motivation coupled with a strong sense of ownership.</li><li>Ability to search out the right problems to solve, and a drive to solve them.</li><li>A desire to make yourself and the team around you better.</li></ul><p><br></p><p><br></p><p><strong>The Roku culture</strong></p><p><br></p><p><br></p><p>Roku is a great place for people who want to work in a fast-paced environment where everyone is focused on the company\u2019s success rather than their own. We try to surround ourselves with people who are great at their jobs, who are easy to work with, and who keep their egos in check. We appreciate a sense of humor. We believe a fewer number of very talented folks can do more for less cost than a larger number of less talented teams. We\u2019re independent thinkers with big ideas who act boldly, move fast and accomplish extraordinary things through collaboration and trust. In short, at Roku you\u2019ll be part of acompany that\u2019s changing how the world watches TV.</p><p></p><p><br></p><p>We have a unique culture that we are proud of. We think of ourselves primarily as problem-solvers, which itself is a two-part idea. We come up with the solution, but the solution isn\u2019t real until it is built and delivered to the customer. That penchant for action gives us a pragmatic approach to innovation, one that has served us well since 2002.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:20:35.000Z"
+  },
+  "company": {
+    "name": "Roku Inc.",
+    "link": "https://www.linkedin.com/company/roku"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "Zoox is looking for a site reliability engineer who will be responsible for measuring and maintaining the uptime of the many services critical to the development process for autonomous vehicles. In this role, you will be heavily involved in all phases of rolling out a service from designing systems that are easy to maintain and fault-tolerant through deployment, operation, and continual improvement. Zoox is a robotics company and our ethos of automation extends throughout the infrastructure components we build. Be prepared to work with systems handling large volumes of data and data-processing pipelines performing compute-intensive tasks on CPUs and GPUs.<br><br><strong><u>Qualifications<br></u></strong><ul><li>Bachelor's degree in an engineering, mathematics, or related field and 2+ years of relevant experience</li><li>Experience supporting multiple in production services</li><li>Experience utilizing tools like Ansible, Terraform, or Salt effectively</li><li>Ability to extract and report useful performance or service metrics</li><li>Linux, no matter the flavor</li><li>Familiarity with Python or C/C++<br></li></ul><strong><u>Bonus Qualifications<br></u></strong><ul><li>AWS, ECS, Kubernetes</li><li>Experience handling large data sets</li><li>Master's degree in computer science or related degree</li><li>Hiring at multiple levels!<br></li></ul><strong><u>About Zoox<br><br></u></strong>Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We\u2019re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.<br><br>A Final Note: You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.<br><br>The salary range for this position is $100,000 - $200,000",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T05:09:38.000Z"
+  },
+  "company": {
+    "name": "Zoox",
+    "link": "https://www.linkedin.com/company/zoox-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 161000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Foster City",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.561882,
+    "longitude": -122.26644
+  }
+}

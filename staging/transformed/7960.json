@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Job Summary:<br><br>Quality Platform supports a premium streaming service, offering live and on-demand TV and movies, with and without commercials, both in and outside the home. Operating at the intersection of entertainment and technology, Quality Platform consists of people who are passionate about redefining TV through innovation, unconventional thinking, and embracing fun. As a team, we are able to touch a wide stack of technologies and come up with many tooling solutions to many of the problems the Quality organization might face. By doing so, you will never be bored and siloed into one project, where you have the ability to move to other projects and increase your skillset on all sorts of different projects.<br><br>Responsibilities:<br><br><ul><li>Design, architect and implement across services and clients for large scope testing frameworks</li><li>Ownership of daily engineering work; ideate, review design, build, code-review, test, launch,</li><li>Monitor and maintain</li><li>Actively mentor other engineers</li><li>Treat quality as a habit and enforce software engineering best practices and appropriate design patterns<br><br></li></ul><strong>Basic Qualifications:<br><br></strong><ul><li>2+ year of relevant software engineering experience</li><li>Proficiency in Java or Python</li><li>Experience using Automation Testing Framework (such as Selenium, Appium, etc\u2026)</li><li>Does extremely well with communication, mentorship and collaboration skills.</li><li>Strong teamwork ethic and strive for perfection<br><br></li></ul>Preferred Qualifications:<br><br><ul><li>5+ years of relevant software engineering experience or software automation experience</li><li>Proficient in cloud infrastructure such as AWS, Spinnaker or Jenkins, and Kubernetes</li><li>Strong system design and analytical skills</li><li>CI/CD experience/knowledge<br><br></li></ul><strong><u>Preferred Education<br><br></u></strong>Bachelor\u2019s in Computer Science, Computer Engineering, Management Information Systems or related field.<br><br>869664BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T09:44:38.000Z"
+  },
+  "company": {
+    "name": "Hulu",
+    "link": "https://www.linkedin.com/company/hulu"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 106000,
+    "max_value": 182000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postal_code": "90403",
+    "street_address": null,
+    "latitude": 34.010933,
+    "longitude": -118.491516
+  }
+}

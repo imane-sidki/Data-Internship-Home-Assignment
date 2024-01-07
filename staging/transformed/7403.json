@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "The database market is massive (the IDC estimates it to be $119B+ by 2025!) and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.<br><br>The MongoDB Cloud Team is a diverse collection of individuals working together to provide MongoDB in the cloud at global scale. The Cloud Team is responsible for several services including MongoDB Atlas - our database as a service offering and fastest growing product, MongoDB Realm- our serverless platform offering that allows developers to build apps on MongoDB without managing any infrastructure, and our newest offering, Atlas Data Lake.<br><br>The Cloud Site Reliability Engineering Team designs and builds the global infrastructure on which we deploy our services. As our customers grow and globalize, our services must satisfy demands for low-latency requests around the globe, and comply with various data sovereignty requirements. The SRE Team\u2019s mission is to build this increasingly complex infrastructure, while continually lowering the operational burden associated with it, and increasing our internal visibility into the health of the system. We are strong believers in infrastructure-as-code and self-healing systems. The SRE Team is fully integrated with all the other Cloud teams, and the teams work closely together with a soft and traversable boundary between their areas of responsibility.<br><br>This role is based out of our New York City office.<br><br><strong>Responsibilities<br></strong><ul><li>Design and build the infrastructure for a global cloud service that comprises hundreds of thousands of MongoDB clusters, processes a billion metrics per day, and replicates tens of billions of database writes to our backup service</li><li>Design, implement, and troubleshoot the automation and monitoring of services that seamlessly spans the globe - including several cloud providers</li><li>Become an expert in infrastructure performance, helping us optimize from the application level all the way through the firmware</li><li>Build for resilience. Our goal is that nobody\u2019s pager goes off, ever. Are we there yet? No. Are we really close? Very. While we work on that - participate in a weekly on-call rotation</li><li>Improve our infrastructure capabilities, optimizing for cost, simplicity, and maintainability<br><br></li></ul><strong>Requirements<br></strong><ul><li>You have experience running a mission critical service at scale</li><li>An understanding of information security issues</li><li>Prior experience running critical production systems in a Linux environment</li><li>Firm grasp of at least one modern programming language, beyond basic scripting</li><li>Solid understanding of web and network protocols and standards (HTTP, TLS, DNS, etc)</li><li>Bachelor\u2019s degree in Computer Science or equivalent experience</li><li>Experience writing automation tools &amp; eagerness to \"automate all the things\"<br><br></li></ul><strong>Nice to haves<br></strong><ul><li>Experience building large applications from scratch, complete with CI/CD infrastructure</li><li>Experience in networking, security, hardware or OS performance tuning</li><li>Experience with at least one of the major cloud providers (Amazon Web Services, Google Compute, Microsoft Azure)</li><li>Experience managing kubernetes clusters or some other container orchestration infrastructure</li><li>Experience with observability of large scale distributed systems<br><br></li></ul><strong>What's In It For You<br></strong><ul><li>Generous compensation package (top-range salary: we pay in the top 95% percentile and our package includes equity and generous benefits)</li><li>Opportunities to learn on the job (time to up skill in new technologies)</li><li>High level of independence in your day to day work<br><br></li></ul>We are remote optional through November 1, 2021 afterwards this role will be in-office in our New York office long-term.<br><br>To drive the personal growth and business impact of our employees, we\u2019re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees\u2019 wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it\u2019s like to work at MongoDB, and help us make an impact on the world!<br><br>MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.<br><br>MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T16:31:49.000Z"
+  },
+  "company": {
+    "name": "MongoDB",
+    "link": "https://www.linkedin.com/company/mongodbinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

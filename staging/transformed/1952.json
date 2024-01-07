@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer - IoT",
+    "industry": "Marketing and Advertising,Computer Software,Hospital & Health Care",
+    "description": "Description Job LocationUSA, Louisville, KYJob Posting TitleEmbedded Software Engineer - IoTThe ChallengeJoin the Smart Home Solutions design team &amp; help develop the embedded controls for the next generation of high-end, consumer friendly connected appliances. We provide learning opportunities, challenges, and support for our software engineers. We are applying the latest techniques in software development such as Agile, TDD, Continuous Integration, and Testing Automation to embedded software. Every day, we push ourselves to find innovative solutions, produce higher quality code, and deliver it on schedule.What you will DoYou'll develop in C (production code) and scripting languages like Lua and JavaScriptYou will be responsible for the integration of our connected appliances with 3rd party home automation platforms such as Amazon Alexa, Google Assistant, Apple HomeKit, Nest, IFTTT and others.We work with a variety of Arm Core microprocessors, SDK's, open source libraries, and operating systems (RTOS and Linux) to develop our WiFi and Bluetooth connected productsWe use the industry-leading version control system GitWe're heavily invested in Test Driven Development (TDD) We use continuous integration to automate builds and identify issues quicklyWhat you need to SucceedMinimum QualificationsB.S. Electrical, Computer or Software Engineering or equivalent1-5 Years Embedded Software DevelopmentExperience with formal software development process (such as Agile)Experience in Embedded Software Development Tools &amp; software languages: CKnowledgeable of theory and use of Test Driven Development (TDD)Passion for softwarePreferred QualificationsExperience in project planning and project leadership skills and experienceMethodical mindset and ability to work in a team oriented environmentSoftware Languages: C++, Lua, Node, JSExperience developing in a Unix/Linux environmentExperience with network protocols HTTPS, XMPP, MQTT, BLE, JSON, XML, REST API'sExperience developing for an RTOS and Linux OSExperience with IoT platforms such as AWS IOTExperience with network security techniques, TLS, Authentication, Public Key Cryptography, Encryption, and Secure Firmware Updates Appliances is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.PDN-93ecd7ac-0de9-413a-af39-de7d6abf3987<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:43:12.000Z"
+  },
+  "company": {
+    "name": " Professional Diversity Network",
+    "link": "https://www.linkedin.com/company/prodivnet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Louisville",
+    "region": "KY",
+    "postal_code": "40270",
+    "street_address": null,
+    "latitude": 38.256077,
+    "longitude": -85.75157
+  }
+}

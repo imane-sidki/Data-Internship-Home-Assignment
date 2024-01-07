@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p>Dorsal Health is reshaping healthcare to free 50 million Americans from chronic pain and musculoskeletal conditions such as spine pain, arthritis, workplace injuries, and opioid addiction. Our end-to-end clinical care model combines technology with a human touch to provide members with on-demand access to elite specialists, empathetic care teams, and personalized treatment programs. We\u2019re backed by top Silicon Valley venture capitalists and founders of the fastest-growing digital health startups.</p><p><br></p><p><strong>About the role:</strong></p><p>As an early member of our engineering team, you\u2019ll partner closely with a world-class group of doctors, designers, operators, and founders to build products that deliver radically better clinical outcomes at significantly lower costs. You\u2019ll use your experience and expertise to raise the bar on code quality and take a lead role in setting technical direction. You\u2019re autonomous and self-driven but can work effectively in a highly collaborative setting. In your first few months, you may find yourself working on:</p><ul><li>Intuitive and engaging virtual care experiences such as video visits, 24/7 live messaging, provider matching, and appointment scheduling</li><li>Intelligent tooling and electronic health record systems to improve the efficacy of our in-house clinical staff</li><li>Connected wearable devices that monitor and reduce workplace injury risk</li></ul><p><br></p><p><strong>What you\u2019ll do:</strong></p><ul><li>Collaborate with designers, clinicians, and other engineers to build new features from start to finish through conception, research, implementation, and maintenance</li><li>Drive full-stack product development for care delivery platforms used by both internal providers and external consumers</li><li>Help set up and iterate on foundational engineering processes including version control, continuous integration, deployment infrastructure, and internal documentation</li><li>Uphold standards for quality by performing code reviews, fixing bugs, creating automated tests, and monitoring performance</li><li>Grow the team by onboarding and helping to recruit highly capable engineers</li></ul><p><br></p><p><strong>What you have:</strong></p><ul><li>2+ years of professional experience developing software for production environments</li><li>Strong written and verbal communication skills with the ability to convey complicated systems to both technical and non-technical audiences</li><li>Experience working across the stack on frontend, backend, and infrastructure (you don\u2019t need to be an expert in all of these but it helps to be interested in learning about them)</li><li>Proficiency with tools and frameworks for modern web / mobile application development. Our current favorites are TypeScript, React, React Native, Next.js, Apollo GraphQL, Hasura, PostgreSQL, and Terraform.</li><li>Excellent problem solving and debugging skills with the right balance between development velocity and designing for long-term scalability</li><li>Bachelor\u2019s degree in Computer Science, Computer Engineering, or a similar technical field</li></ul><p><br></p><p><strong>Bonus points if you have:</strong></p><ul><li>Experience designing, deploying, and managing cloud infrastructure</li><li>A passion for solving meaningful problems in healthcare through technology</li><li>Past entrepreneurial proof points (such as early-stage startup experience, building new products or teams at larger companies, exploring ideas or side projects, etc.)</li></ul><p><br></p><p><strong>What you\u2019ll gain:</strong></p><ul><li>Highly competitive salary and equity in a fast-growing startup</li><li>Comprehensive healthcare, dental, vision, and 401(k) plans</li><li>Generous PTO policy and 10 paid national holidays</li><li>Remote-friendly culture with local in-person office hubs and coworking</li><li>Exciting career growth opportunities (including mentorship from leading technical advisors and entrepreneurs)</li></ul><p><br></p><p>Dorsal Health is proud to be an Equal Employment Employer. We don\u2019t discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T21:47:00.000Z"
+  },
+  "company": {
+    "name": "Dorsal Health",
+    "link": "https://www.linkedin.com/company/dorsal-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

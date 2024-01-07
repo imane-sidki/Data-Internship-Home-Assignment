@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Platform",
+    "industry": "Research,Biotechnology,Pharmaceuticals",
+    "description": "At Roivant, we are passionate about discovering and developing new drugs to impact patients' lives. Since its inception in 2014, Roivant has launched over 20 portfolio companies (Vants), overseen 5 successful IPOs, established a $3B partnership with a global pharma, built a pipeline of over 40 assets across various modalities and therapeutic areas, and delivered 8 successful phase 3 readouts. Roivant is currently building new capabilities in drug discovery and expanding its existing development engine to become the world's leading tech-enabled pharmaceutical company.<br><br>Roivant's drug discovery capabilities are driven by our computational discovery platform, which combines preeminent physics-based tools with deep expertise in machine learning to generate unprecedented analytical power that can tackle previously intractable discovery challenges. The tight integration of this computational platform with our experimental capabilities enables the rapid design and optimization of new drugs to address a wide range of targets for diseases with high unmet need.<br><br>We believe that the future of drug discovery lies in integrating predictive sciences, biology and medicinal chemistry to accelerate the path to new medicines. This role is an opportunity to be an architect of this paradigm shift and generate transformative benefit for patients.<br><br><strong><u>Job Summary<br><br></u></strong>Roivant Discovery is seeking a highly motivated, collaborative, and talented Senior Software Engineer to work in a multi-disciplinary organization with a focus on overcoming challenging drug discovery bottlenecks using advanced molecular simulation methods to complement our integrated experimental capabilities.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Work closely with Silicon Tx scientists to design, develop, and deploy computational methods and software for our drug discovery efforts</li><li>Conceptualize, implement, and maintain software engineering best practices</li><li>Ensure scalability, extensibility, and portability of platform code</li><li>Create, integrate, and maintain databases for storage and access of results</li><li>Investigate latest trends and scientific advancements in data analytics and high performance computing and propose adoption where appropriate</li><li>Coordinate joint software development efforts between our Boston and Suzhou offices and facilitate their communications and collaborations <br></li></ul><strong><u>Required Qualifications<br></u></strong><ul><li>Fluent speaker in English and Chinese with strong communication skills</li><li>Outstanding development skills</li><li>Demonstrated track record of overcoming challenging problems</li><li>Experience leading projects with geographically distributed teams</li><li>Strong knowledge of Python</li><li>Familiarity with version control (such as Git) and test-and-release (such as Jenkins) frameworks.</li><li>Flexible work hours to accommodate colleagues in China<br></li></ul><strong><u>Additional Preferred Qualifications<br></u></strong><ul><li>Ability to mentor other software engineers and manage outsourced software development projects</li><li>Experience with parallel programming, especially data-parallel, using MPI, OpenMP, OpenACC or CUDA C/C++/Fortran</li><li>Experience working with containers</li><li>Ability to manage HPC clusters (CPU and GPU based)</li><li>Experience in using/deploying workflow frameworks such as Airflow, CWL, etc. </li><li>Experience with scientific computing systems and schedulers</li><li>Passionate about developing software to advance drug discovery<br></li></ul>Roivant Discovery provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:33:24.000Z"
+  },
+  "company": {
+    "name": "Roivant Sciences",
+    "link": "https://www.linkedin.com/company/roivant-sciences-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

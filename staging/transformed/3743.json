@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>ActiveLogic Labs designs and develops custom web-based and mobile software applications for a myriad of different industries and in several different technologies. We\u2019re looking for experienced and versatile software engineers who aren\u2019t afraid of working as a team, exploring new technologies, and pushing their personal skills to their full potential.</p><p><br></p><p><strong>What\u2019s in it for you?</strong></p><ul><li>Salary range $80k - $130k (Depending on skill &amp; experience)</li><li>Competitive total compensation package</li><li>Full Benefits, 50% of Medical premiums paid for by company</li><li>Company paid Disability and Life insurance</li><li>Flexible schedule &amp; work location</li><li>Locally owned, friendly, fun atmosphere</li></ul><p><br></p><p><strong>Technical Qualifications &amp; Skills</strong></p><p>We\u2019re not worried about whether your experience is perfectly aligned with everything we use but more that you want to learn and bring your experience building solid applications. Here are some of the things we do:</p><p><br></p><p><strong>Front-End Web Tech</strong></p><ul><li>CSS/HTML (SCSS, Webpack)</li><li>Bootstrap</li><li>Vue.JS</li><li>React</li><li>Javascript / JQuery</li><li>Angular</li></ul><p><br></p><p><strong>Back-End Web Tech</strong></p><ul><li>PHP / Laravel / Symphony</li><li>.NET / C#</li><li>Javascript / NodeJS / Express</li></ul><p><br></p><p><strong>Lower-Level Tech</strong></p><ul><li>Python</li><li>C / C++</li><li>Java</li></ul><p><br></p><p><strong>Required Qualifications:</strong></p><ul><li>3+ Years of professional development experience (School work does not count)</li><li>GIT Source Control (Pull Requests, Code Reviews)</li><li>Relational Database Experience (MySql, SQL, Postgres)</li><li>Dependency Management (Composer, NPM, Webpack, Bower)</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T20:35:20.000Z"
+  },
+  "company": {
+    "name": "ActiveLogic Labs",
+    "link": "https://www.linkedin.com/company/activelogic-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Leawood",
+    "region": "KS",
+    "postal_code": "66211",
+    "street_address": null,
+    "latitude": 38.91238,
+    "longitude": -94.62669
+  }
+}

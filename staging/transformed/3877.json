@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Apple Retail Online",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Our Online Retail Decision Automation team is looking for passionate highly motivated, ambitious, and hands-on applied machine learning engineer to lead the way by researching and developing the next generation of algorithms used to drive the Apple Online experience. This spans central areas of our Apple Online Store including developing models for product search, recommendation systems (e.g. ranking, page generation),\u00a0 personalization (e.g. evidence, messaging, marketing), media assets generation and optimizing Apple-wide systems &amp; infrastructure.\u00a0As a machine learning engineer, you will have the unique and rewarding opportunity to be part of a new projects and shape upcoming products that will delight and inspire millions of Apple\u2019s customers every day.<br><br> <br><strong>Key Qualifications<br></strong> <br>2+ years experience  as a machine learning engineer<br><br>Experience in Recommendation Systems, Personalization, Search, Computational Advertising or Natural Language Processing<br><br>Strong programming skills in Java, C/C++, Python, or similar language<br><br>Experience developing enterprise production machine learning models <br><br>Excellent problem solving and analytical skills<br><br>Excellent communication and collaboration skills<br><br>Passion for delivering business impact<br><br>Experience with Spark, TensorFlow, Keras, and PyTorch a plus<br><br>Experience using Deep Learning, Bandits, Probabilistic Graphical Models, or Reinforcement Learning in real applications a plus<br><br> <br><strong>Description<br></strong> <br>As an applied machine learning engineer, you will conceptualize, design, and develop core algorithms that power our buy-flows and personalize the experience across the Apple Online Store. This includes developing production algorithms for search, recommendations and personalization, running offline experiments and building online A/B tests to run in production systems. To be successful in this role, you need a strong machine learning background, solid software development skills, a love of learning, and to collaborate well in multi-disciplinary teams. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.\u00a0<br><br>The team responsibilities include: model development and deployment on-device and web, developing back-end data pipelines, and producing automation processes for machine learning tasks. You will closely collaborate with other engineering teams (including Hardware, QA, Infrastructure) to ensure the solutions are meeting the highest quality standards.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Ph.D. or Masters in a quantitative field, such as Computer Science, Applied Mathematics, or Statistics, or equivalent professional experience.<br><br> <br>Role Number: 200264484<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T16:23:07.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 135000,
+    "max_value": 214000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

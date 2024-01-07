@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Developer SalesForce Vlocity",
+    "industry": "Information Technology and Services,Insurance,Financial Services",
+    "description": "<strong><u><strong>Company Summary</strong></u></strong>Join a team that puts its People First! Since 1889, First American (NYSE: FAF) has held an unwavering belief in its people. They are passionate about what they do, and we are equally passionate about fostering an environment where all feel welcome, supported, and empowered to be innovative and reach their full potential. Our inclusive, people-first culture has earned our company numerous accolades, including being named to the Fortune 100 Best Companies to Work For\u00ae list for six consecutive years. We have also earned awards as a best place to work for women, diversity and LGBTQ+ employees, and have been included on more than 50 regional best places to work lists. First American will always strive to be a great place to work, for all. For more information, please visit www.careers.firstam.com.<strong><u><strong>Job Summary<br></strong></u></strong>We are looking for smart people to help us imagine, design, and build great software solutions leveraging the <strong>Salesforce Industries</strong> (<strong>Vlocity</strong>) platform to help our business partners succeed by solving challenging problems in a fast paced and results driven setting.<br><br><strong><u>As Salesforce Lead Developer, You Will<br></u></strong><ul><li>Translate business requirements into well-architected Vlocity product that showcase the Salesforce platform</li><li>Design and engineer new solutions on the Salesforce platform using Apex and Lightning Web Components</li><li>Provide hands-on development assistance to product team for technical issues</li><li>Provide guidance during business requirement evaluation on best solution with either declarative (point-and-click configuration) or code and customization</li><li>Follow modern software development methodologies including iterative and incremental development based on Agile principles</li><li>Continue learning new platform capabilities resulting from product release and acquisitions.</li><li>Apply design patterns like limits and bulkification patterns, efficient and reliable trigger handling, asynchronous operations, and effective unit testing</li><li>Conduct code reviews to ensure high code quality and design patterns are followed and help remediate vulnerabilities</li><li>Provide technical guidance/mentorship to other team members<br><br></li></ul><strong><u>Technical Skills Qualifications<br></u></strong><ul><li>Bachelor's degree in Computer Science or equivalent combination of education and experience</li><li>5+ years of direct experience working in Salesforce Platform (Vlocity or Industries a plus)</li><li>Demonstrable Apex development experience: classes, triggers, controllers, components and understanding of governor limits</li><li>Understanding of DevOps practices, change sets, scratch orgs and deployments</li><li>Development experience with Lightning Web Components (LWC) including JavaScript, HTML, CSS</li><li>Experience using platform automation tools (flows, process builder, data loader)</li><li>Experience with SQL, SOQL and SOSL best practices</li><li>Experience with Vlocity Interaction Platform (Omni Scripts, Data Raptors, Integration Procedures, Flex cards) highly desirable</li><li>Experience integrating Salesforce with other business applications via Mulesoft (REST &amp; SOAP endpoints)<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>In depth understanding of Salesforce Industries Insurance Data Model</li><li>In depth understanding of Insurance industry\u2019s key processes (quoting, policy admin, claims)</li><li>Comfortable coordinating with distributed teams (US + India)</li><li>Promotes openness, inquisitiveness, positivity, teamwork and especially integrity</li><li>Cost Conscious in self-declared timelines, balancing urgency, and importance</li><li>Salesforce Certifications, specifically, Platform Developer I and/or Service Cloud Consultant desired<br></li></ul>#techreferral<br>First American invests in its employees' development and well-being, empowers them to provide superior customer service and encourages them to serve the communities where they live and work. First American is committed to diversity and inclusion. We are an equal opportunity employer.Based on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:58:49.000Z"
+  },
+  "company": {
+    "name": "First American Title",
+    "link": "https://www.linkedin.com/company/first-american-title"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Ana",
+    "region": "CA",
+    "postal_code": "92703",
+    "street_address": null,
+    "latitude": 33.749737,
+    "longitude": -117.86978
+  }
+}

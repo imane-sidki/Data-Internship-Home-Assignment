@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Network Solution Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, extraordinary ideas have a way of becoming industry leading products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! <br><br><br>You will be part of the software defined infrastructure (SDI) team focusing on networking for the Cloud Platform. We build web services that work at scale to support infrastructure and security management and control. We are looking for a full stack developer who can build APIs, front ends, and tools that interact with our network infrastructure platform. If you are passionate about innovating and building systems from scratch for the massive scale of our network infrastructure, then our team might the right place for you!<br><br> <br><strong>Key Qualifications<br></strong> <br>Minimum 5 years of experience in hands-on development <br><br>Experience designing, building, and maintaining RESTful APIs<br><br>Good understanding of containers, build systems and infrastructure automations<br><br>Strong organizational, communication and presentation skills<br><br>Strong ability to prioritize, deliver on aggressive deadlines and drive closures<br><br>High level ownership, self-sufficient, hands-on leader to drive quality and maintain application stability<br><br>Experience in working with modern no-sql databases, other key-value stores (MongoDB, Elastic) and Kafka<br><br>High tolerance for ambiguity<br><br>We're seeking proven experience with Go, Python, Java, Kubernetes, Terraform<br><br> <br><strong>Description<br></strong> <br>-  Build orchestration that simplifies Software Defined Network Management.<br><br>-  Diagnose and remediate cloud network routing and protocol related issues.<br><br>-  Diagnose and remediate host network and system related issues.<br><br>-  Troubleshoot network access policy related issues.<br><br>-  Build and automate network connectivity to remote sites across the world in a hybrid cloud environment.<br><br>-  Champion AWS/GCP Network Solutions to solve business requirements for application teams like AMP, iCloud, Siri and Online Store.<br><br>-  Build services to collect metrics/data from distributed Software Defined Network systems.<br><br>-  Build tools to help simplify network operation for production environment.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS and MS in Computer Science or equivalent industry experience<br><br> <br><strong>Additional Requirements<br></strong> <br>We are seeking a team player who is excited to work with members having highly diverse technical background. You should have extremely good communication skill and should be self-motivated in pursuing the objective goals.<br><br> <br>Role Number: 200275745<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:38:37.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

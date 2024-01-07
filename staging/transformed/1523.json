@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Company Overview</strong></p><p><br></p><p>Our founding team has extensive experience in building, researching, and selling machine learning products and came together in search of a product that could leverage these skills for positive impact. Now, we\u2019ve set out to build software that works to address the generation defining issue of economic inequality in the face of climate change. We are running head first at the $150B+ coverage gap that faces the insurance industry as increasingly frequent and severe weather events challenge the status quo.</p><p><br></p><p>The problems we wrestle with every day are\u2026 </p><p><br></p><ul><li>Re-thinking the first principles of state of the art predictive and optimization mechanisms</li><li>Doing so in a multi-cloud infrastructure environment with significant security constraints</li><li>Enabling a lightweight, low-latency, and consumable UX despite the complexity</li></ul><p><br></p><p>The team is looking for talented, driven, and, above all, caring individuals to join us in that journey.</p><p><br></p><p><strong>Requirements</strong></p><p><br></p><ul><li>Demonstrated interest in engineering for impact</li><li>2+ years of hands-on industry experience in full stack / data engineering</li><li>Event backbone and job pool platforms (Kafka, etc)</li><li>Willingness to get hands dirty across a broad variety of internal and client software</li><li>2+ years of experience with React, Python (Django + Flask) and Node.js</li><li>Demonstrated ability to pick up new technologies quickly and learn on the fly</li></ul><p><br></p><p><strong>Nice-To-Haves</strong></p><ul><li>Undergraduate or Graduate work in a related field</li><li>Experience with ML or optimization</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T22:56:02.000Z"
+  },
+  "company": {
+    "name": "Federato",
+    "link": "https://www.linkedin.com/company/federato"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

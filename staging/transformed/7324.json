@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Developer Experience",
+    "industry": "Computer Software,Computer & Network Security,Computer Networking",
+    "description": "WeWork is hiring a Senior Software Engineer to build tooling and interfaces to accelerate software delivery of thousands of services. This is a full-stack software engineering position that spans command-line, web, and automated CI/CD.<br><br>This role will be working on an established team of experienced engineers responsible for building and extending the tooling that ensures WeWork engineers can reliably deliver first-class applications with minimal downtime and maintenance cost.<br><br>Hundreds of thousands of members around the world rely on WeWork services to book spaces at WeWork locations, get support, learn about and gain entry to their buildings, invite guests, and work efficiently while in our spaces.<br><br><strong>Responsibilities<br><br></strong><ul><li>Design, deploy, and develop the UX of our developer platform using a combination of open source, vendor, and in-house tools</li><li>Build tools that make it painless to release code and related infrastructure and easy to identify unhealthy applications</li><li>Work with our customers to understand their requirements and partner with our sister SRE teams to ensure the platform\u2019s featureset is fully utilized by WeWork engineers</li><li>Analyze and improve efficiency, reliability, and scalability of the platform</li><li>Strong ownership from design through to deploy and beyond</li><li>On-call rotation duties to maintain the release platform and provide support<br><br></li></ul><strong>About You<br><br></strong><ul><li>Excited to build tools that support thousands of deployments</li><li>Enjoy learning, debugging, and working in multiple stacks</li><li>Want to build clean code and developer environments that just work without complex documentation</li><li>Have excellent written communication, interpersonal communication, and documentation skills</li><li>Self-driven, curious, and seek to solve problems</li><li>Have strong computer science fundamentals<br><br></li></ul><strong>Requirements<br><br></strong><ul><li>4 years of full-stack or backend development experience.</li><li>Proficiency in Javascript and Go.</li><li>Experience with modern javascript frameworks such as React, Vue, or similar.</li><li>Experience with containers and scheduling technology</li><li>Experience working within a distributed organization<br><br></li></ul><strong><strong>Nice to Have<br><br></strong></strong><ul><li>Typescript, gRPC, and GraphQL experience</li><li>Experience building release management tools for other teams</li><li>Experience building distributed systems or asynchronous programming</li><li>Open source contributions<br><br></li></ul>WeWork is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon gender, sexual orientation, marital or civil status, pregnancy (or pregnancy-related conditions), gender identity or expression, transgender status or gender reassignment, race, color, national origin or ancestry, citizenship, religion or religious beliefs, age, physical or mental disability, genetic information (including genetic testing and characteristics), military or veteran status, or any other grounds or characteristic that is protected under the law.<br><br>As part of our commitment to health and safety, WeWork -- like a growing number of employers -- is requiring all U.S. employees to be fully vaccinated for COVID-19 as a condition of employment, absent a legal exception for reasonable accommodation. We provide unvaccinated new hires a 45-day grace period after their start date to get fully vaccinated or, if eligible, obtain a reasonable accommodation. If you believe that a legal exception may apply to you, please still apply for any role(s) you are interested in and, if you are hired, you will receive instructions on how to request a reasonable accommodation after your start date. Please note that roles that require in-person work -- currently, within our Community (excluding Member Experience), Facilities Management (including Security), Sales (excluding Sales Ops), and Member Technology teams -- will not be eligible for work-from-home as an accommodation because it poses an undue hardship on our business.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T02:07:01.000Z"
+  },
+  "company": {
+    "name": "WeWork",
+    "link": "https://www.linkedin.com/company/wework"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

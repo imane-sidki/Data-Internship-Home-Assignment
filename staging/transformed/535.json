@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Join us as we pursue our disruptive new vision to make machine data accessible, usable and valuable to everyone. We are a company filled with people who are passionate about our product and seek to deliver the best experience for our customers. At Splunk, we\u2019re committed to our work, customers, having fun and most importantly to each other\u2019s success. Learn more about Splunk careers and how you can become a part of our journey!<br><br>We give our engineers an environment in which they can contribute from day one while also providing opportunities for learning and growth. You will learn how our entire stack works \u2013 from data ingestion, storage, search, and analytics to implementing dashboards and tools to support operational requirements.<br><strong>Role <br></strong>Splunk is looking for a Front End-focused Software Engineer to join the effort in the development of Security Products and Applications on Cloud. You will get to work with a super smart bunch of folks who are doing state of the art development work in both the and back end. You will be interacting with product management, customers, and other engineering teams across Splunk to understand detailed requirements.<br><br><strong><u>Requirements<br></u></strong><ul><li>4+ years of experience building front end applications, UI components, or UI frameworks.</li><li>Bachelor\u2019s degree in Computer Science, Mathematics, or another quantitative field.</li><li>Strong front end development skills, particularly in JavaScript and React Typescript.</li><li>Understanding of GraphQL, CSS3.</li><li>Knowledge of REST API\u2019s and JSON.</li><li>Knowledge of react/redux or similar technologies.</li><li>Experience collaborating with design, product, and cross functional engineering teams.</li><li>Proven ability to develop and own moderate complexity features or sub-systems.</li></ul><strong>Additional Knowledge, Skills, and Abilities <br></strong><ul><li>Passionate about developer productivity.</li><li>Finds value in writing Unit Tests and Functional tests.</li><li>Thinks about the customer user experience, while keeping efficient performance in mind.</li><li>Ability to learn new technologies quickly and mentor junior team members.</li><li>Strong communication skills.</li></ul><strong>Preferences <br></strong><ul><li>Full web stack development experience.</li><li>Strong NodeJS fundamentals.</li><li>API design skills.</li><li>Accessibility experience.</li></ul><strong>What We Offer You <br></strong><ul><li>A constant stream of new things for you to learn. We are always expanding into new areas, bringing in open-source projects and contributing back, and exploring new technologies.</li><li>A set of exceptionally hardworking and dedicated peers, from engineering and QA to product management and customer support.</li><li>Growth and mentorship. We believe in growing engineers through ownership and leadership opportunities. We also believe mentors help both sides of the equation.</li><li>A stable, collaborative, and encouraging work environment.<br></li></ul>We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which you are applying.<br><br>For job positions in San Francisco, CA, and other locations where required, we will consider for employment qualified applicants with arrest and conviction records.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T08:16:56.000Z"
+  },
+  "company": {
+    "name": "Splunk",
+    "link": "https://www.linkedin.com/company/splunk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 166000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

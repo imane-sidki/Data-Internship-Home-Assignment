@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Oil & Energy",
+    "description": "<p><strong>Responsibilities</strong></p><p><br></p><ul><li>Work with a small team of data scientists, software engineers and domain experts to build the next generation of Novi\u2019s platform</li><li>Develop novel solutions to open-ended, challenging and long-standing industry problems</li><li>Engage in thought leadership within the company and community</li><li>Mentor other team members on domain knowledge and technical solutions</li><li>Develop software to deliver solutions to ill-posed problems using sparse, noisy spatiotemporal data</li></ul><p><br></p><p><strong>Required Skills &amp;</strong> E<strong>xperience</strong></p><ul><li>Minimum 5 years of hands-on data science and machine learning experience</li><li>Foundation in integrating data-driven methods with physics-based models</li><li>Strong foundation in statistics and machine Learning</li><li>Strong software engineering principles and software development lifecycle experience (e.g., git, unit tests, CI)</li><li>Strong familiarity with Python and PyData stack (e.g., pandas, numpy, scipy)</li><li>Strong familiarity with ML Frameworks (e.g., scikit-learn, PyTorch, TensorFlow)</li><li>Experience going from algorithm development to production code</li><li>Experience modeling time series and spatial datasets</li><li>Experience deploying callable ML models in a production environment (e.g., REST API, TensorFlow Serving)</li></ul><p><br></p><p><strong>Preferred Skills &amp;</strong> E<strong>xperience</strong></p><ul><li>Open-source plotting libraries (e.g., altair, matplotlib, holoviz)</li><li>Database query &amp; ETL (SQL &amp; NoSQL)</li><li>AWS tools (e.g., lambda, EC2, etc.)</li><li>Probabilistic programming (e.g., Stan, PyMC, Pyro)</li><li>Model interpretation and explainability tools (e.g., Shapley)</li><li>Linux systems and command-line interfaces (e.g., bash)</li><li>Container and orchestration tools (e.g., Docker, Kubernetes, Nomad)</li><li>Previous work on an agile team</li><li>Experience in oil and gas</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T15:26:04.000Z"
+  },
+  "company": {
+    "name": "Quest Groups LLC",
+    "link": "https://www.linkedin.com/company/quest-groups"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - 100% Remote",
+    "industry": "Information Technology and Services",
+    "description": "<p>Our client is looking for a Site Reliability Engineer to help build and support the ultimate voice-based conversational AI.</p><p><br></p><p><strong>Title </strong>- Site Reliability Engineer</p><p><strong>Location </strong>- 100 % Remote</p><p><strong>Duration </strong>- Fulltime</p><p><br></p><p><strong>Responsibilities </strong></p><ul><li>Be part of on-call rotation to respond to urgent bugs or production outages</li><li>Proactively identify and fix infrastructure bottlenecks</li><li>Choosing tooling for and understanding of CI / CD</li><li>GCP knowledge</li><li>Kubernetes (In a production environment)</li><li>Docker</li><li>Knowledge of working in an Agile environment</li><li>Infrastructure As Code</li><li>Develop, integrate and support features in the core server stack</li><li>Develop and support data pipeline and infrastructure</li></ul><p><br></p><p><strong>Desirable Skills Include</strong>:</p><ul><li>Microservices Architecture</li><li>Go</li><li>Python</li><li>ML Ops</li><li>Should be able to apply different tenants' configuration through code as well as tools.</li></ul><p><br></p><p><strong>Experience </strong></p><ul><li><strong>3-5 years of experience in working with infrastructure as code</strong></li><li><strong>At least 1 year in Python or Golan</strong>g</li><li>Comfortable developing, maintaining DevOps pipelines</li><li>Strong experience working with cloud services - AWS or GCP preferred</li><li>Exposure to NLP/AI/ML is a huge plus</li></ul><p><br></p><p><strong>If interested please email me your resume at rahul@avestacs.com</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T21:26:41.000Z"
+  },
+  "company": {
+    "name": "Avesta Computer Services",
+    "link": "https://www.linkedin.com/company/avesta-computer-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

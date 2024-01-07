@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Management Consulting",
+    "description": "Blue Rose is currently seeking someone with the skills to help us improve the public-facing systems of a federal client. Specifically, you will implement a new chatbot product to enhance customer experience and reduce operational costs by using conversational AI technology - natural language processing (NLP) and other cognitive APIs. You will develop, train, and evaluate natural language processing (NLP) models for the deployed Conversational AI Platform.<br><br>The successful candidate will:<br><ul><li>use statistical analysis and programming to analyze and interpret language datasets </li><li>provide expertise in AI services, including Natural Language Processing, and ML architecture</li><li>analyze training and test data to help fine tune semantic models to improve overall accuracy and performance</li><li>develop supervised and unsupervised learning models to provide actionable insights for business requirements.<br></li></ul><strong>Requirements:<br></strong><ul><li>Must be U.S. Citizen</li><li>Experienced in Machine Learning concepts and algorithms, Python (3.X), Scikit-Learn, Natural Language Tool Kit, and SQL (Relational or NoSQL)</li><li>Preferred experience with backend web development (Java, Mongo/DynamoDB, NodeJS) and RESTful Architecture<br></li></ul>The salary for this position is $110,000 - $130,000 annually.<br><br>Powered by JazzHR<br><br>QNXetDeDtQ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:09:01.000Z"
+  },
+  "company": {
+    "name": "Blue Rose Consulting Group, Inc.",
+    "link": "https://www.linkedin.com/company/blue-rose-consulting-group-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

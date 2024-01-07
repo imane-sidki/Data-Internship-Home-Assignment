@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Test",
+    "industry": "Information Technology and Services,Computer Software,Hospital & Health Care",
+    "description": "<strong>Who we are:<br><br></strong>As our co-founders transitioned from military to civilian life, they encountered barriers and inefficiencies navigating the most basic health and social services. Together, they set out to improve that experience for others. Recognizing that social care is essential for better health outcomes, they embarked on a mission to connect people to the care they need, when they need it, in communities across the country. Unite Us has developed an intuitive and seamless technology solution that goes beyond the traditional referral method. We work side-by-side with local organizations, and track data and outcomes to build coordinated care networks that support all aspects of community health. Unite Us is boldly changing the nation\u2019s care delivery system. If you want to do well and do good, join Unite Us\u2013 we can build healthier communities together.<br><br><strong>Description</strong>:<br><br>Software Development Engineer in Test (SDET) at Unite Us are developers with a passion for quality. As an SDET, your role will be to act as the team\u2019s subject matter expert in test engineering and contribute to code with a focus on testability. You will review designs and look closely at code quality and risk. On a day-to-day basis, you will work with cross functional team members to implement new automated testing solutions and diagnose problems with existing scripts, all running in Continuous Integration environment.<br><br>The Software Development Engineer in Test plays an important part in our company\u2019s product development process. Our ideal candidate will have demonstrated success in engineering test projects that are reliable and fast, supporting an efficient and effective testing cycle. If you have a passion for quality and engineer projects that are a joy to use and maintain, we\u2019d like to meet you.<br><br><strong>What You</strong><strong>\u2019</strong><strong>ll Do</strong>:<br><br><ul> <li>Review requirements, specifications, and technical design documents for completion and testability</li> <li>Define testing strategies and scope for user stories and technical development tasks</li> <li>Provide estimates on testing efforts to Product and Engineering team members</li> <li>Create, update, review automated test cases to match product feature sets, execute manually as required.</li> <li>Engineer solutions to improve efficiency and effectiveness of testing cycles, including full-stack tests, integration tests, and CI</li> <li>Script, run, monitor, and analyze load tests to identify bottlenecks</li> <li>Perform regression testing appropriate to application and system changes</li> <li>Identify, investigate, report, and track defects</li> <li>Continuously learn new tools, technologies, and testing disciplines</li> <br></ul><strong>What</strong><strong>\u2019</strong><strong>s Required</strong>:<br><br><ul> <li>6+ years of experience with development with tooling/test architecture</li> <li>Strong coding skills, proficient in at least one object-oriented programming or scripting language (e.g. Ruby, Java, C#, Python).</li> <li>Knowledge of professional software engineering best practices for the full software development life cycle, including code reviews, source control, build and release processes, containerization technologies, and test suite development and maintenance</li> <li>Strong working knowledge of AWS Cloud Services, Kubernetes, Linux, Docker.</li> <li>Proficient in a Continuous Integration environment (Jenkins, Spinnaker, CloudBees CodeShip)</li> <li>Performance / load testing experience preferred</li> <li>Experience working in Agile teams, particularly remotely</li> <li>Passionate about working with new technologies and sharing new discoveries</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T17:48:43.000Z"
+  },
+  "company": {
+    "name": "Unite Us",
+    "link": "https://www.linkedin.com/company/uniteus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

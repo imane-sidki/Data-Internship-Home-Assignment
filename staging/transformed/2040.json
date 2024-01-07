@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: Board Firmware",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! Dynamic, smart people and inspiring, innovative technologies are the norm here. The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it. Join us to help deliver the next groundbreaking Apple product!<br><br><br>We have a critical impact on getting high quality functional products to millions of customers quickly, and we are hiring all levels from junior to senior roles. As part of a highly talented board-design and SoC bring-up/validation team you will design, implement, test and support software used to control boards used for testing SoCs.<br><br> <br><strong>Key Qualifications<br></strong> <br>Proficient C programmer<br><br>Experienced with embedded software<br><br>Familiar with boot code, low-level OS code, device drivers, and IO devices<br><br>Experience with computer initialization, SoC bring-up, debuggers, and networking<br><br>Experience with embedded software implementations in FPGAs<br><br>Scripting (Python, Bash, Perl, TCL, Lua)<br><br>Unix system-level programming<br><br> <br><strong>Description<br></strong> <br>-  You will develop, test, release, maintain, and enhance micro-controller code running in FPGAs and controlling SoCs under test.<br><br><br>-  You will develop, test, release, maintain, and enhance low-level software running on Unix-compatible environments (mostly Linux, some Mac)<br><br><br>-  You will assist in the bring-up and debug of SoCs.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS / MS / Ph.D in EE or CS is required<br><br> <br>Role Number: 200149618<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:44:09.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

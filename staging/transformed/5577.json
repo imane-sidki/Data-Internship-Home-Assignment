@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>We are looking for a machine learning engineer with a mastery of AWS (training and deploying models, lambdas and endpoints).</p><p><br></p><p>To succeed in this role, you should possess outstanding skills in machine learning methods and statistics.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Create, implement, and train machine learning models</li><li>Clean and structure data</li><li>Create and test hypotheses</li><li>Train the developed models to run evaluative experiments to refine models and increase accuracy</li><li>Remain updated in the rapidly changing field of machine learning</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>Strong command of structured and unstructured data preparation</li><li>Master/commander of Python</li><li>Mastery of AWS</li><li>Experience in relational and non-relational databases (eg. dynamoDB, mySQL)</li><li>Degree in Computer Science, Mathematics, Statistics, Computational Linguistics or similar field</li><li>At least 2 years of experience in a <strong>non-academic</strong> production role.</li><li>The ability to meet agreed upon deadlines and responsibilities.</li></ul><p><br></p><p><strong>Desirable</strong></p><ul><li>An analytical mind with problem-solving abilities</li><li>Strong communication skills</li></ul><p><br></p><p><strong>Interview Process:</strong></p><p>1. Google meet interview (10-15 min.)</p><p>2. check your references</p><p>3. take-home project (1hr)</p><p>3. Google Meet interview (20-30min.)</p><p><br></p><p><strong>Compensation:</strong></p><p>Job Type: Full-time</p><p>Pay: $90,000.00 - $150,000.00 per year</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T18:44:42.000Z"
+  },
+  "company": {
+    "name": "TUP Solutions",
+    "link": "https://www.linkedin.com/company/trackunderstandpredict"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

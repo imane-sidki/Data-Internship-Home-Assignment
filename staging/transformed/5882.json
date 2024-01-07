@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Internet,Information Technology and Services,Media Production",
+    "description": "<p><strong>About GameChanger:</strong></p><p>We believe sports are important because they encourage leadership, teamwork, responsibility, and confidence\u2014critical life lessons that have the power to propel our youthtoward meaningful futures. We recognize that without coaches, parents, and volunteers, organized youth sports could not exist. We celebrate those dedicated heroes and make it our mission to help them do what they do best.</p><p><br></p><p>GameChanger provides teams across the country with team management and scorekeeping capabilities, as well as live fan experiences that keep parents, family, and friends engagedas games are announced, animated, and video streamed in real-time. With GameChanger, coaches and parents are able to organize and follow their athlete\u2019s journey in a simple and powerful way.</p><p><br></p><p>Based in downtown Manhattan, GameChanger is a cutting-edge technology company and a proud member of the DICK\u2019S Sporting Goods family.</p><p><br></p><p><strong>The Position:</strong></p><p>As a Senior Data Engineer, you will work together in a cross-disciplinary team of Data Scientists, Production Engineers, and Data Engineers to evolve our data pipeline, warehouse, and workflow systems to be more resilient, extensible, and maintainable.You will also design and extend data models for a normalized data warehouse with terabytes of data to be turned into sports and customer insights. Our solutions benefit everyone including Product Managers, Developers, Data Scientists, Marketing, Executives, Coaches, Players, and Parents.</p><p><br></p><p><strong>What You\u2019ll Do:</strong></p><ul><li>Partner with the analytics team to provide the data and tools they need to solve complex problems</li><li>Collaborate across the engineering organization to develop relational database designs and queries</li><li>Work with product teams to get feature data emitted into the data pipeline, and engage with them to leverage insights to inform their roadmap</li><li>Identify improvements in the flow of our data</li><li>Evaluate new technologies (both self-managed and services) for moving, transforming, modeling, and storing data and make recommendations</li><li>Improve ETL efficiency</li><li>Work with Engineers in other parts of DICK\u2019S Sporting Goods to design data flows across businesses</li></ul><p><br></p><p><strong>Who You Are:</strong></p><ul><li>3+ years of software development experience, preferably as a data or backend engineer</li><li>Experienced with Scala, Python, or Typescript</li><li>Familiar with Apache Kafka or other streaming technologies</li><li>Comfortable working across multiple languages, databases, paradigms, etc.</li><li>Eager to learn about a range of technologies. Our teams use a variety of languages, databases, and technologies to accomplish their objectives, so we're always learning and sharing</li></ul><p><strong>Perks:</strong></p><ul><li>Work remotely or from our well-furnished, modern office in NYC\u2019s FiDi.</li><li>Unlimited vacation policy.</li><li>Technology stipend - $3,500 every 2 years to purchase new technology.</li><li>Full health benefits - medical, dental, vision, prescription, FSA/HRA, etc., as well as coverage for family/dependents.</li><li>Life insurance - basic life, supplemental life, and dependent life.</li><li>Disability leave - short-term disability and long-term disability.</li><li>Retirement savings - 401K plan offered through Vanguard.</li><li>Generous maternity/paternity leave.</li><li>Commuter benefits.</li><li>DICK\u2019S Sporting Goods Teammate Discount.</li></ul><p><br></p><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:35:03.000Z"
+  },
+  "company": {
+    "name": "GameChanger",
+    "link": "https://www.linkedin.com/company/gamechangermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Biotechnology,Pharmaceuticals",
+    "description": "<strong><u>Position Summary<br><br></u></strong>As a Software Engineer, you will be a part of a collaborative team that develops with others in Resilience to provide applications and solutions for instruments and analytical software for novel therapeutics. This role will work with stakeholders to develop software-based solutions to manufacturing challenges and develop next-generation therapies and instruments. You will join a dynamic, fast-paced organization and team developing innovative solutions, and you will need to work independently in a collaborative team.<br><br>Resilience is looking for intelligent, motivated software engineers who enjoy taking on complex challenges, work well in an agile, dynamic environment, and care about high-quality engineering best practices.<br><br><strong><u>Job Responsibilities<br></u></strong><ul><li>Develop software (Python, C#) to interface, control, and monitor manufacturing instruments, quality assurance equipment, and visualization tools for analytical analysis.</li><li>Developing applications that are cloud-focused with</li><li>Gather requirements and generate specifications for software application systems.</li><li>Contribute to the improvement of our Software Development Life Cycle.</li><li>Comfortable working in a fast-paced Agile team environment</li><li>Contribute towards investigation and resolution of technical problems</li><li>Innovate at the SW component level and influence decisions in subsystem architecture and design.</li><li>Contribute towards unit testing, continuous integration, and deployment activities<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Strong knowledge of programming with C#, Java, or other object-oriented languages</li><li>Strong understanding of scripting languages, including Python and bash</li><li>Understanding of object-oriented analysis and design</li><li>Proven ability to self-manage and have an ability to deal well with ambiguity and work independently and as a multidisciplinary analytical research team member in a fast-paced environment.</li><li>Background knowledge in computational biology, immunology, wet-lab experimental procedures, and data analysis is a plus.<br></li></ul><strong><u>Preferred Experience<br></u></strong><ul><li>BSc/MS: 1-2 years of experience or Ph.D. in a scientific-analytical field, e.g., computer science, bioinformatics, data science, or neurology.</li><li>Experience with source control management repositories (such as GIT, SVN, etc.) and Configuration Management</li><li>Knowledge and experience with cloud application development<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-01T17:47:11.000Z"
+  },
+  "company": {
+    "name": "Resilience",
+    "link": "https://www.linkedin.com/company/weareresilience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

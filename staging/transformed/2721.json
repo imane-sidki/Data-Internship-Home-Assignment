@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p>Site Reliability Engineer (SRE)</p><p><br></p><p>Eventus Systems is looking to hire a highly motivated, talented and capable Site Reliability Engineer to join our dynamic, distributed team. As a Site Reliability Engineer you will be responsible for building, maintaining and enhancing our tools and processes for deploying, configuring, managing, monitoring, and debugging our Validus product implementations to ensure using a variety of technologies, and applying industry standards and best practices. Validus processes billions of records a day for a variety of financial institutions and provides trade surveillance, monitoring, and analysis capabilities to improve the overall health, robustness, and transparency of financial markets.</p><p><br></p><p>Site Reliability Engineer Responsibilities:</p><ul><li>You will be responsible for the operation, configuration, upgrades and maintenance of various components of the Validus product across multiple client configurations and environments</li><li>You will be responsible for identifying and documenting production incidents and bugs, conducting post-mortems, performing root cause analysis, and designing and implementing systemic improvements to prevent and mitigate future incidents</li><li>You will implement and refine monitoring capabilities around the production deployments</li><li>You will work closely with other members of the team to identify and prioritize (and in some cases implement) product and platform improvements</li><li>You will build and refine and enhance tools and processes to improve the reliability of the system, automate actions, and reduce the amount of manual maintenance tasks required</li><li>You will assist in refining validation, release, packaging, and deployment processes</li><li>You will help develop company standards and best practices for our client deployments, with an eye towards stability, scalability, and security</li><li>You will identify, measure, and improve key metrics related to the operation of our deployments</li></ul><p>Site Reliability Engineer Requirements:</p><ul><li>You have a Bachelor\u2019s Degree in Computer Science, other technical discipline, or equivalent experience</li><li>You have 5+ years of experience working as an SRE or similar role, with proven experience serving as the primary owner responsible for monitoring and maintaining complex capabilities deployed on (preferably) AWS or other cloud platforms</li><li>Experience in financial technology or other big data domains is a plus</li><li>You are proficient in Python 3</li><li>You have at least a working knowledge of SQL and understand basic relational database concepts</li><li>You have extensive experience with Linux or other Unix systems and feel most at home working in a shell</li><li>You have experience with Docker</li><li>You have experience with git or similar source code management systems</li><li>You have experience building and refining CI/CD pipelines</li><li>You have experience with Puppet, Chef, Salt, Ansible, or similar enterprise configuration management tools</li><li>You have experience with Prometheus, Nagios, Elasticsearch, or similar enterprise monitoring tools</li><li>You are able to work effectively remotely</li><li>You are able to work effectively both independently and collaboratively</li><li>You have excellent communication and task management skills</li></ul><p>Benefits &amp; Perks:</p><ul><li>Competitive Compensation &amp; Stock Option Offering</li><li>401k Plan with Employer Matching</li><li>Health, Dental, Vision &amp; Disability Coverages</li><li>HSA offering + employer contribution</li><li>Unlimited PTO + flexibility to enjoy it</li></ul><p></p><p>ABOUT EVENTUS SYSTEMS, INC.</p><p>Headquartered in Austin, Texas, and serving clients globally, Eventus Systems, Inc. offers one of the leading global trade surveillance and market risk platforms. Available as a cloud-based or real-time enterprise on-premise solution, the Validus platform provides sophisticated market surveillance and financial risk capabilities, enabling clients to solve some of the most pressing regulatory challenges. Validus combines multiple technology stacks including artificial intelligence (AI) to generate the optimum number of actionable alerts across equities, equity options, futures, foreign exchange (FX), fixed income and digital asset markets. Clients include Tier 1 banks, brokerages and futures commission merchants (FCMs), proprietary trading firms, exchanges, corporates and buy-side firms. Eventus has earned four major global recognitions in the past year for its Validus platform, including an FOW International Award for best Market Surveillance product, a Risk Technology Award for Market Surveillance Product of the Year and a Best Trade Surveillance Solution award from A-Team\u2019s RegTech Insight Awards. The firm also was one of only 19 U.S. companies to earn a spot on the global RegTech 100 list for 2020, the second consecutive year it made the list. Visit www.eventussystems.com. Follow Eventus Systems on LinkedIn and on Twitter @EventusSystems.</p><p><br></p><p>Eventus Systems is aiming to grow our fantastic team, add to our dynamic culture and continue building on our success. We are an equal opportunity employer and \u201cat will\u201d company. As part of our dedication to maintaining an inclusive and diverse workforce, Eventus Systems provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Eventus complies with applicable state and local laws governing nondiscrimination in employment. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. Eventus Systems expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Eventus\u2019 employees to perform their job duties may result in discipline up to and including discharge.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T15:37:17.000Z"
+  },
+  "company": {
+    "name": "Eventus",
+    "link": "https://www.linkedin.com/company/eventus-systems-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

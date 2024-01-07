@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Position: Data Scientist <br>Work Location: Seattle Washington 98109<br>Duration: 12 Months Contract <br>Onsite role <br><br><br>BS degree with 4+ years of experience, a M.Sc. degree with 2+ years of experience or a recent PhD in Statistics, Biostatistics, Computer Science, Bioinformatics or similar fields.<br>Experience with APIs, or ability to quickly learn how to use them (e.g. R httr or Python requests)<br>Experienced in data visualization and analytics",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T22:30:10.000Z"
+  },
+  "company": {
+    "name": "ACS Solutions",
+    "link": "https://www.linkedin.com/company/acs-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Seattle Area",
+    "region": null,
+    "postal_code": "98109",
+    "street_address": null,
+    "latitude": 47.591396,
+    "longitude": -122.33279
+  }
+}

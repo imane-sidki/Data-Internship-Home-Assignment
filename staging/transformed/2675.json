@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Title : Site Reliability Engineer<br>Location : Seattle WA ( Remote )<br>Position type : Full time<br><br>Title : Site Reliability Engineer.<br>Position type  : Full time<br>Location : Seattle WA<br><br>Job description<br><br>Summary of Experience:<br> <br>- Coding and Operations experience (5+ years combined)<br>- Designing, supporting and deploying all types of applications and tools (2+ years)<br>- Support of CI\\CD Dev Tooling (2+ years)<br>- Operating complex, large-scale Enterprise applications or web sites (4+ years)<br>- Experience working in an environment that implemented Agile (2+ years)<br>- Ecommerce experience (2+ years)<br> <br>Required Knowledge, Skills, and Abilities:<br> <br>- Continuous delivery tooling <br>- Cloud Experience, preferably with AWS & Terraform<br>- Security experience: Akamai CDN & Bot Manager<br>- Keen understanding of branching, versioning and release strategies<br>- Scripting languages, such as Python, Bash, Perl<br>- Infrastructure as code: Terraform<br>- Hands on experience with Jenkins and artifact repository (Nexus) administration<br>- Experience with automating software tests in a pipeline<br>- Proven experience with ELK stack, New Relic, Netdata, Graphite, Grafana <br>- Commercial retail website architecture.<br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T18:35:21.000Z"
+  },
+  "company": {
+    "name": "Cloudix Inc.",
+    "link": "https://www.linkedin.com/company/cloudix-cloudix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

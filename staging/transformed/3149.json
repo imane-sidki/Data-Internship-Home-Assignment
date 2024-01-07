@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML- Machine Learning Engineer, Information Intelligence",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The AI/ML - Information Intelligence teams are creating groundbreaking technology for algorithmic search, machine learning, natural language processing, and artificial intelligence. The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. Our universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will work with one of the most exciting high performance computing environments, with petabytes of data, millions of queries per second, and have an opportunity to imagine and build products that delight our customers every day.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience with one or more general purpose programming languages including but not limited to: Go, C/C++, Java or Python.<br><br>Experience with search engine, information retrieval, machine learning, NLP is a plus.<br><br>Experience working with large data sets and pipelines (e.g. MapReduce, Spark) is a plus<br><br>Excellent analytical and problem solving skills<br><br>Can write clean and effective code following modern software engineering best practices<br><br>Appetite to dig into data/logs and features to figure out why something does not work as expected<br><br>2+ years experience writing code which runs in containerized (Kubernetes/Mesos/Borg) environment a plus<br><br> <br><strong>Description<br></strong> <br>- Design and build infrastructures to support features that empowers billions of Apple users<br><br>- Perform language processing, statistical analysis, and query analysis to support your hypothesis for how to improve product-outcomes.<br><br>- Leverage proprietary MapReduce platform to process web scale data to deliver product features and improvements.<br><br>- Design &amp; run/deploy various metrics and evaluations of features/improvements using a variety of tools like grading, logs processing, pre-launch and holdback A/Bs.<br><br>- Present results of analysis to team and leadership across Apple.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in Computer Science, Mathematics, Statistics, or a related field, or equivalent proven experience. Masters/PhD preferred.<br><br> <br>Role Number: 200224378<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T07:57:01.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

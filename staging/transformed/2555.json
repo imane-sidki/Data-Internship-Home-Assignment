@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Drop Party is a DTC entertainment brand that rewards highly devoted fandoms with premium merchandise and experiences. We're here to allow fans to engage meaningfully in cultural moments during a time where our identities are increasingly defined by the products, brands, and experiences we buy.</p><p><br></p><p>We're a growing and diverse team of experienced operators nurturing a culture of collaboration, openness and diversity of thought.</p><p><br></p><p>We are giving preference to candidates that are Austin, TX based, or open to relocation.</p><p><br></p><p><strong>What you'll be doing:</strong></p><ul><li>Build and iterate on gamified commerce web experiences. An engaging and entertaining experience is crucial for drops centered around a fandom.</li><li>Gather requirements across a cross-functional team and prioritize features effectively. Our work spans a large breadth of fields and tech plays a large part.</li><li>Owning all stages of development process: development, testing, implementation, operational support.</li><li>Must be a team player, able to work within tight deadlines on multiple projects in a fast-paced environment.</li><li>Developing for scale and reliability. Traffic to drops are bursty and requires systems that won't fail in crucial moments.</li></ul><p><br></p><p><strong>Experience</strong></p><ul><li>2-3 years of React experience. Understands react hooks, functional components vs class components, etc.</li><li>Proficiency in front-end web development, including styling, animations, component libraries, etc.</li><li>Can handle complex logic required for gamification elements</li><li>Familiarity with Node.js, Babel, Webpack, and other modern javascript tooling.</li><li>Typescript experience preferred.</li><li>Demonstrated strong technical judgment in conjunction with passionate customer-focus</li></ul><p><br></p><p><strong>Benefits</strong></p><ul><li>Medical, Dental, Vision Insurance</li><li>3 weeks Paid Time Off &amp; Standard National Holidays</li><li>Remote-hybrid work environment, work from home as needed</li><li>Equity Participation</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T19:00:01.000Z"
+  },
+  "company": {
+    "name": "Drop Party",
+    "link": "https://www.linkedin.com/company/drop-party"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

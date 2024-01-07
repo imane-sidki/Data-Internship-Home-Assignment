@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Remote",
+    "industry": "Financial Services,Health, Wellness and Fitness,Hospital & Health Care",
+    "description": "Position description<br><br>This is a full time remote position within the United States.<br><br>Mayo Clinic is seeking a Software Engineer to design and build back-end services that support our portfolio of data-centric clinical and analytic applications. These applications leverage cloud computing, big data, mobile, data science, data warehousing, machine learning using state of the art software development applications and frameworks. Our Software Engineers ensures that these cloud-based micro-services adhere to uptime and accuracy targets, are resilient, and scale as data volumes and traffic increase. They work closely with the data engineering, platform, and solutions teams to develop applications as required to benefit our practice and patients.<br>Works closely with the Product Owners, Product Managers, Architects to translate requirements into code. Developing services around data warehousing, big data, cloud computing, business intelligence, analytics and machine learning. Participate in DevOps, Agile, continuous development and integration frameworks. Programming in high-level languages such as Go, Python, Java etc. Work on deployment automation/configuration management with tools including but not limited to ADO, Puppet, Chef or Ansible or Azure Pipelines, CloudFormation, Terraform following a DevOps model. Ensure all appropriate documentation of processes and source code is created and maintained. Communicate effectively with peers, leaders, and customers throughout the organization. Participate in expert level troubleshooting and resolve problems through root cause analysis, data and system investigation. Continues to build knowledge of the organization, processes and customers. Performs a range of mainly straightforward assignments. Uses prescribed guidelines or policies to analyze and resolve problems. Receives a moderate level of guidance and direction.<br><br>Mayo Clinic will not sponsor or transfer visas for this position.<br><br><strong><u>Qualifications<br><br></u></strong>Bachelor\u2019s Degree in Computer Science/Engineering or related field.<br><ul><li> Have working knowledge and experience of Software Engineering with a minimum of internships and a minimum of 1 yr. of experience, or 2yrs of experience coding applications or services in a high-level language (C, C++, Golang, Java, C# etc.).</li><li> Demonstrated problem solving and time management skills.</li><li> Possesses strong technical aptitude for designing and implementing software solutions.</li><li> Experience with modern application development frameworks</li><li> Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.</li><li> Deep hands-on technical expertise, excellent verbal and written communication skills.</li><li> Experience with Agile software development techniques.<br></li></ul><strong><u>Additional Qualifications<br><br></u></strong>Preferred qualifications for this position include:<br><ul><li> Ability to use a wide variety of open-source technologies and cloud-based services.</li><li> Experience with Google and Azure cloud environments</li><li> Experience in databases, analytics, big data systems or business intelligence products</li><li> Experience with building high-performance, highly available and scalable distributed systems.</li><li> Experience developing software for healthcare related industries.<br></li></ul>Site description<br><br>Mayo Clinic is located in the heart of downtown Rochester, Minnesota, a vibrant, friendly city that provides a highly livable environment for more than 34,000 Mayo staff and students. The city is consistently ranked among the best places to live in the United States because of its affordable cost of living, healthy lifestyle, excellent school systems and exceptionally high quality of life.<br><br>Compensation Detail<br><br>Required education, experience, and tenure may be considered along with internal equity when job offers are extended. The salary range every 2 weeks is approx. $3,496.00-$4,894.40 based on a full-time position.<br><br>Equal opportunity employer<br><br>As an Affirmative Action and Equal Opportunity Employer Mayo Clinic is committed to creating an inclusive environment that values the diversity of its employees and does not discriminate against any employee or candidate. Women, minorities, veterans, people from the LGBTQ communities and people with disabilities are strongly encouraged to apply to join our teams. Reasonable accommodations to access job openings or to apply for a job are available.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T03:52:11.000Z"
+  },
+  "company": {
+    "name": "Mayo Clinic",
+    "link": "https://www.linkedin.com/company/mayo-clinic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81300,
+    "max_value": 120000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rochester",
+    "region": "MN",
+    "postal_code": "55901",
+    "street_address": null,
+    "latitude": 44.019333,
+    "longitude": -92.45887
+  }
+}

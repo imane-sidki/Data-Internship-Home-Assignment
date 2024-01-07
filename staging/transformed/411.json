@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Frontend, Internationalization",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Squarespace is looking for experienced software engineers to join our Internationalization Platform engineering team. Internationalization Platform is the engineering owner for internationalization efforts across all Squarespace products and engineering teams. We manage the foundational building blocks that allow product engineers to create localized interfaces, and our ownership includes a suite of internal code-libraries, platform applications, and the development of user-facing features.<br><br><strong><u>Responsibilities For Our Team Include<br><br></u></strong>Our primary goal is to delight our international customers by empowering Product Engineering teams. As a Senior Software Engineer on a growing and business-critical team, you will work with engineering teammates and cross-functional partners to scope and implement improvements to our International platforms and products.<br><ul> <li>Implementing changes within codebases we didn't build and don't own, and leaving them better than we found them</li> <li>Defining and advocating for internationalization best practices across the organization</li> <li>Scoping future requirements for the internationalization platform and products in response to coworker and customer feedback and behavior</li> <br></ul>Our team works in JavaScript (vanilla, Node.js, Typescript, React), Java (Spring), Postgres and Kubernetes. You will report to the Engineering Manager of the team out of our NYC office.<br><br>All Squarespace employees are working remotely at this time. We are closely monitoring the status of COVID-19 as we continue our work to build a return-to-work plan that ensures a safe return to our offices and provides flexibility for our employees.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Ship well tested, idiomatic code to production, across code libraries, application code and microservices</li> <li>Set boundaries, priority and milestones around technical problems of wide scope</li> <li>Actively participate in technical discussions and code review</li> <li>Be comfortable ramping up on both legacy and modern technologies to accomplish outcomes</li> <li>Mentor teammates and colleagues across a spectrum of seniority</li> <li>Maintain a kind, collaborative, and psychologically safe working environment</li> <br><br></ul><strong><u>Qualifications<br></u></strong><ul> <li>5+ years industry experience shipping web applications across large codebases with many contributors</li> <li>Strong programming and architecture fundamentals in JavaScript</li> <li>Experience as a Product Engineer or writing developer tooling and libraries used by Product Engineering teams</li> <li>International experience is not required but a plus</li> <br><br></ul><strong><u>About Squarespace<br><br></u></strong>Squarespace makes beautiful products to help people with creative ideas succeed. By blending elegant design and sophisticated engineering, we empower millions of people \u2014 from individuals and local artists to entrepreneurs shaping the world's most iconic businesses \u2014 to share their stories with the world. Squarespace's team of more than 1,200 is headquartered in downtown New York City, with offices in Dublin, Los Angeles and Portland. For more information, visit www.squarespace.com/about.<br><br><strong><u>Benefits &amp; Perks<br></u></strong><ul> <li>Health insurance with 100% premium covered for you and your dependent children</li> <li>Flexible vacation &amp; paid time off</li> <li>Up to 20 weeks of paid family leave</li> <li>Equity plan for all employees</li> <li>Retirement benefits with employer match</li> <li>Fertility and adoption benefits</li> <li>Free lunch and snacks at all offices</li> <li>Education reimbursement</li> <li>Dog-friendly workplace in New York office</li> <li>Commuter benefit in the form of reduced tax (Ireland) and pretax (US)</li> <br></ul><em>Today, more than a million people around the globe use Squarespace to share different perspectives and experiences with the world. Not only do we embrace and celebrate the diversity of our customer base, but we also </em><em>strive for</em><em> the same in our employees. At Squarespace, we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:15:53.000Z"
+  },
+  "company": {
+    "name": "Squarespace",
+    "link": "https://www.linkedin.com/company/squarespace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 143000,
+    "max_value": 206000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

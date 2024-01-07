@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p><strong>Data Scientist \u2013 Machine Learning</strong></p><p><br></p><p>Creative Radicals is seeking a data scientist with an expertise in machine learning to join our exciting, entrepreneurial, startup-like atmosphere. The data scientist will work closely with the other data scientists and software engineers, to incorporate innovative machine learning techniques into our flagship product. </p><p><strong></strong></p><p><strong>Basic Qualifications</strong></p><ul><li>Master\u2019s degree in Data Science or Machine learning or a Bachelor\u2019s degree in a quantitative discipline such as Engineering, Statistics, Mathematics, or Physics and 3+ years industry experience working as a data scientist or a similar role with exposure to statistical modeling and/or machine learning.</li><li>Proficiency in Python and/or Java.</li><li>Proficiency with at least one machine learning library (e.g., Scikit-learn, MALLET).</li><li>Conceptual understanding of basic machine learning concepts and commonly used algorithms.</li><li>Outstanding written and verbal communication skills.</li></ul><p></p><p><strong>Preferred Qualifications</strong></p><ul><li>Experience working with Natural Language processing (NLP) related tasks.</li><li>Experience working with a deep learning framework (e.g., PyTorch).</li></ul><p></p><p></p><p><strong>Additional Requirements</strong></p><p>\u00b7Willing to obtain a Security Clearance and MUST be a US Citizen.</p><p></p><p><strong>About Us</strong> </p><p>Creative Radicals is a software company that develops specialized solutions for emergency management, first responder support, security, executive protection, and threat management. Our work is technically challenging and in support of important missions around the world. We are looking for talented, dedicated people to join our team and help us continue to deliver top-quality technical solutions for our customers. To learn more about our company, please visit http://www.creativeradicals.com. </p><p>We value our team members and offer the following benefits to our full-time employees: </p><ul><li>Competitive Salary</li><li>Premium Health Plan</li><li>Dental and Vision</li><li>Life/AD&amp;D Benefits</li><li>Casual Work Environment</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T15:15:49.000Z"
+  },
+  "company": {
+    "name": "Creative Radicals",
+    "link": "https://www.linkedin.com/company/creative-radicals"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76100,
+    "max_value": 165700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22102",
+    "street_address": null,
+    "latitude": 38.929565,
+    "longitude": -77.228096
+  }
+}

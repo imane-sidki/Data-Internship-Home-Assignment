@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>Our mission is to bring the power of AI to healthcare to improve patient treatment, drug development, and healthcare systems for better healthcare outcomes. We believe that the future of healthcare and the future of AI and machine learning are deeply interconnected, with healthcare delivery evolving towards precision medicine: An individual\u2019s care and treatment will be uniquely tailored to that patient\u2019s history and situation.</p><p></p><p>Our team is looking for Machine Learning Engineers to take our AI-driven healthcare platform to the next level. You will work in a highly collaborative, global environment of data scientists, machine learning engineers, domain experts and business leaders focused on delivering AI-driven healthcare solutions that have the potential to fundamentally alter how healthcare is thought about and delivered globally.</p><p></p><p><u>Responsibilities</u></p><ul><li>Hands-on machine learning development - designing, building, testing, deploying, and optimizing AI-driven healthcare solutions in collaboration with product managers, data scientists and data engineers.</li><li>Develop new features and tools for data scientists and machine learning engineers and continuously improve existing ones based on feedback from the team.</li><li>Automate model training and testing and deployment via machine learning continuous delivery pipelines.</li><li>Design and implement metrics to verify model and algorithm effectiveness.</li><li>Develop solution architecture for AI-driven applications, including production deployment of machine learning models.</li><li>Develop and integrate security technologies and controls to ensure the security and privacy of healthcare data provided by our partners.</li><li>Bring an entrepreneurial mindset, openness, transparency, and collegiality to your everyday work.</li></ul><p></p><p><u>Minimum Qualifications</u></p><ul><li>MS in Computer Science is required.</li><li>Good understanding of machine learning fundamentals including classical machine learning and deep learning techniques.</li><li>Experience implementing production machine learning systems in Java, Scala, Python, or similar languages.</li><li>DevOps mindset and experience with continuous integration and automation tools and processes, like Jenkins.</li><li>A strong desire to build meaningful solutions for a life sciences business.</li><li>Task oriented with an ability to set goals and complete deliverables.</li></ul><p><br></p><p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><p></p><p><u>Company Information</u></p><p>We are a new startup, currently in stealth mode. However, please reach out to us with a CV and a note on why you are interested, and we will be happy to share more information with you. We are backed by one of the most innovative biopharma companies to launch in the past decade, with a unique business model, one that is revolutionizing the way drugs are developed and brought to market.</p><p></p><p>We are located in the Kendall Square/MIT area of Cambridge, one of the major hubs of global innovation in healthcare technologies.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T18:35:23.000Z"
+  },
+  "company": {
+    "name": "AI Healthcare Company (stealth mode)",
+    "link": "https://www.linkedin.com/company/enovant-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Boston",
+    "region": null,
+    "postal_code": "02119",
+    "street_address": null,
+    "latitude": 42.36041,
+    "longitude": -71.05798
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Looking for work in a fun, up & coming startup? Want to help solve one of the most troubling issues for programmers across the globe? Do you think the code correction process is far too time consuming and tedious for developers?<br><br>Metabob is an AI assisted tool used to debug and visualize Python code. Using a combination of conventional status analysis, attention-based models, and a 360-degree Visualizer, Metabob is able to detect where problems are, how they interact with other aspects of your codebase, as well as offer plain-text recommendations on how to fix them. Metabob\u2019s model is written on open source code from python developers across the globe, creating a dynamic, uniquely intuitive base to help identify where problems will likely occur.<br><br>We would like to expand our growing Data science team by bringing on an additional team member to help us process and analyze our ever growing database. You will be working primarily with our existing tooling to help identify and boost the overall accuracy and coherence of our existing AI Models. However we are actively developing new techniques as well, and you will get to support that effort by developing exploratory models and assessing their performance based on specific characteristics.<br><br>Responsibilities:<br><br>- Assess the continuing growth of our ML/AI techniques to identify and resolve potential causes of performance degradation.<br>- Research and implement additional methods and techniques to improve our products.<br>- Develop automatable ML/AI training tasks to be deployed alongside our AI pipeline.<br><br>Requirements:<br><br>- Strong Python proficiency, both inside and out of jupyter notebooks.<br>- A solid background in Natural Language Processing (NLP), with experience using common tools (NLTK, SpaCy, Gensim, tomotopy)<br>- Knowledge of current technologies and ML frameworks (tensorflow, pytorch, sklearn, keras)<br>- Experience developing MLOps, in particular Argo<br>- Experience with cloud services like AWS.<br><br>Metabob is an Equal Opportunity Employer and does not discriminate on the basis of actual or perceived race, color, religious creed, sex, national origin/ancestry, physical/mental disability, medical condition, genetic information, marital status, gender identity, age, military status, gender/pregnancy, or sexual orientation. All correspondence related to this position and the application process will be conducted via email and/or phone.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T23:09:52.000Z"
+  },
+  "company": {
+    "name": "Metabob",
+    "link": "https://www.linkedin.com/company/metabob"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

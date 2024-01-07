@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet",
+    "description": "<strong>Company<br><br></strong>Dandy is a business-in-a-box for dentists. Our vision is to become the operating system for every dental office in America by leading the transition to digital dentistry for the $200 billion industry. Headquartered in New York City, Dandy is backed by the world's leading venture capital investors.<br><br><strong>Job Description<br><br></strong>Dandy is hiring a team of topflight software engineers to build digital products and scale our managed marketplace. As one of Dandy's first engineers, you will play a key role in building our tech team. You'll constantly be challenged to learn new technologies, and be given the freedom to solve problems on your own and learn by doing.<br><br>Our stack: TypeScript, NodeJS, NestJS, React/Redux, PostgreSQL<br><br><strong>What You'll Do<br></strong><ul><li>Build our core engineering infrastructure, including new product features and enhancements.</li><li>Work closely across different business functions, incorporating data from our operations, sales, and account management teams in order to craft elegant solutions to our most pressing challenges.</li><li>Reinvent a broken experience and disrupt a legacy industry through novel and scalable product design.<br><br></li></ul><strong>What We're Looking For<br></strong><ul><li>Software engineering experience, preferably at a big tech or high growth startup environment.</li><li>Ability to understand how our business functions and how challenges and bottlenecks can be addressed through the engineering team.</li><li>Collaborative, team-centric mindset. We are a small but mighty team and everyone must be aligned on our goals.</li><li>With the above stated, we are open to candidates of all backgrounds and encourage you to apply if interested! Dandy is committed to cultivating a diverse and inclusive team and none of the above points are 100% required.<br><br></li></ul><strong>Bonus Points For:<br></strong><ul><li>Experience documenting coding and architectural decisions</li><li>Experience with TypeScript</li><li>Time spent at a venture-backed startup during hyper-growth</li><li>Relentlessly positive attitude, strong sense of humor, and the ability to have fun at work<br><br></li></ul><strong>Benefits<br></strong><ul><li>Best in class healthcare including medical, dental, and vision</li><li>Competitive salary and equity packages</li><li>Fully stocked kitchen with snacks and coffee</li><li>401k program <br><br></li></ul>Dandy is proud to be an equal opportunity employer. We are committed to building a diverse and inclusive culture and celebrate authenticity. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, or any other legally protected characteristics.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Dandy",
+    "link": "https://www.linkedin.com/company/dandyofficial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

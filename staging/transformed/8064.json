@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Engineer",
+    "industry": "Computer Hardware",
+    "description": "Description:<br><p>SEMCON provides a highly qualified, professional, and responsive technical and managerial workforce to satisfy customer requirements that support the Federal Aviation Administration (FAA)&apos;s mission, vision, goals.  SEMCON's company culture aligns enriching career experiences, growth opportunities and collaborative engagement for all employees resulting in a company value being greater than the sum of our parts.<br><br></p><p><br><br><br></p><p>We are currently searching for a Network Engineer to join our team.<br><br></p><p><br><br><br></p><p>The Network Engineer should have advanced knowledge in the following areas: <br><br></p><ul><li>Cisco ASA, routers, and switches</li><li>Networking in a virtual environment and with Dynamic Virtual Switches</li><li>Configuring proxy servers and firewalls in secure enterprise networks </li></ul><p>The Network Engineer will provide remote support of branch offices ASA routers and monitoring of network equipment and remote upgrades and will support a tier-3 helpdesk including after-hours support as needed. Experience with Akamai Content Delivery Network and Cloud Architecture is  desired.<br><br></p><p><br><br><br></p><p>Strong written and verbal communication skills are required, as well as the ability to collect, and analyze data and communicate technical information. Experience in using basic software packages such as MS Office suite is desired.<br><br></p><p><br><br><br></p><p>A Bachelor&apos;s degree in Engineering, math, or science, and at least 15 years of related work experience is required. <br><br></p><p>  <br><br></p><p>SEMCON offers a competitive salary and complete benefits package which includes health benefits (medical, dental, vision and life), 401K with a generous employer match, paid time off and paid holidays.<br><br></p>.<br><br>Requirements:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T06:06:54.000Z"
+  },
+  "company": {
+    "name": "Semcon",
+    "link": "https://se.linkedin.com/company/semcon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Egg Harbor Township",
+    "region": "NJ",
+    "postal_code": "08234",
+    "street_address": null,
+    "latitude": 39.38301,
+    "longitude": -74.607956
+  }
+}

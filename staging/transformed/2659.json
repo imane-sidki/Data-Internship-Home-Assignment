@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Algorithms",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "At Lyft, our mission is to improve people\u2019s lives with the world\u2019s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.<br><br>Data Science is at the heart of Lyft\u2019s products and decision-making. As a member of the Science team, you will work in a dynamic environment, where we embrace moving quickly to build the world\u2019s best transportation. Data Scientists take on a variety of problems ranging from shaping critical business decisions to building algorithms that power our internal and external products. We\u2019re looking for passionate, driven Data Scientists to take on some of the most interesting and impactful problems in ridesharing.<br><br>As a Data Scientist, Algorithms, you will be developing mathematical models underpinning the platform\u2019s core services. Compared to other technology companies of a similar size, the set of problems that we tackle is incredibly diverse. They cut across optimization, prediction, modeling, inference, transportation, and mapping. We are hiring motivated experts in each of these fields. We're looking for someone who is passionate about solving mathematical problems with data, and are excited about working in a fast-paced, innovative and collegial environment.<br><br>You will report to a Data Science Manager.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Partner with Engineers, Product Managers, and Business Partners to frame problems, both mathematically and within the business context</li><li>Perform exploratory data analysis to gain a deeper understanding of the problem</li><li>Develop and fit statistical, machine learning, or optimization models</li><li>Write production model code; collaborate with Software Engineers to implement algorithms in production</li><li>Design and implement both simulated and live experiments</li><li>Analyze experimental and observational data; communicate findings; facilitate launch decisions<br></li></ul><strong><u>Experience<br></u></strong><ul><li>M.S. or Ph.D. in Statistics, Operations Research, Mathematics, Computer Science, or other quantitative fields or related work experience</li><li>5+ years professional experience</li><li>Passion for solving unstructured and non-standard mathematical problems</li><li>End-to-end experience with data, including querying, aggregation, analysis, and visualization</li><li>Proficiency with Python, or another interpreted programming language like R or Matlab</li><li>Ability to collaborate and communicate with others to solve a problem<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Great medical, dental, and vision insurance options</li><li>Mental health benefits</li><li>In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off</li><li>401(k) plan to help save for your future</li><li>18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible</li><li>Pre-tax commuter benefits</li><li>Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program<br></li></ul><em><em>Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.</em></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T23:04:04.000Z"
+  },
+  "company": {
+    "name": "Lyft",
+    "link": "https://www.linkedin.com/company/lyft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 124000,
+    "max_value": 198000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

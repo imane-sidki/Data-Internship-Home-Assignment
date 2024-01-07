@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p>We\u2019re looking for a Senior Site Reliability Engineer to join our tight infrastructure</p><p>team that gets to architect, build, and operate modern cloud-native AWS</p><p>environments and host enterprise-grade SaaS products. We use cutting edge</p><p>tooling and cloud solutions to create innovative, resilient, observable, and secure</p><p>solutions. We use Infrastructure as Code to define resources and configurations,</p><p>machine images to deploy idempotent VMs, and build Jenkins pipelines to</p><p>automate blue/green and canary deployments of applications. We\u2019ve embraced</p><p>working remotely and look forward to you joining the team.</p><p><br></p><p><strong>Who We Are</strong></p><p>AbsenceSoft is a rapidly growing Leave Management software company looking to hire</p><p>amazing people like you! We are a radically innovative provider of SaaS solutions for</p><p>FMLA, Disability, ADA, and other types of absences. We pride ourselves in having</p><p>created the most easily used, installed, and understood absence management system</p><p>and Human Resources Software. We value creative, innovative people who are</p><p>passionate about their work and who always believe there is always a better way.</p><p><br></p><p><strong>Leading With Our Core Values (THRIVE)</strong></p><p>\u2022<strong> Team</strong> - We are a team. We show up for each other, act with empathy, listen well, have</p><p>fun, collaborate, and bring our authentic selves to work every day.</p><p><strong>\u2022 Honesty </strong>- We are honest, trustworthy, and transparent with each other and our clients.</p><p>We act with integrity, ask the tough questions, and are open to honest feedback.</p><p><strong>\u2022 Results</strong> - We are results-driven and act with urgency, accountability, and commitment.</p><p>We strive for continuous improvement and operational efficiency.</p><p><strong>\u2022 Inspiring</strong> - We inspire and challenge each other every day. We bring a positive, can-do</p><p>attitude to the team and lift everyone up around us.</p><p><strong>\u2022 Value </strong>- We provide tremendous value to our customers, employees, and shareholders,</p><p>which drives everything we do and guides our decision making.</p><p><strong>\u2022 Entrepreneuria</strong>l - We are willing to try new things and take risks, without fear of</p><p>failure. We continuously learn and improve in a fast-paced environment.</p><p><br></p><p><strong>What You\u2019ll Do</strong></p><p>\u2022 Create and maintain well-architected, idempotent AWS environments</p><p>\u2022 Define infrastructure in Terraform</p><p>\u2022 Create ansible playbooks to build fully baked AMIs</p><p>\u2022 Build Jenkins jobs to deploy infrastructure and applications</p><p>\u2022 Build and maintain data streaming and lambda functions for automation and</p><p>monitoring</p><p>\u2022 Architect security and reliability solutions</p><p>\u2022 Manage and monitor centralized monitoring and logging</p><p>\u2022 Build an observability architecture with APM and SIEM</p><p>\u2022 Troubleshoot and resolve performance and capacity hotspots in the platform</p><p>\u2022 Create infrastructure self-service tooling to empower development and support</p><p>teams</p><p><br></p><p><strong>What\u2019ll Set You Up for Success</strong></p><p>\u2022 Bachelor\u2019s degree in Computer Science or equivalent experience</p><p>\u2022 3+ year SaaS / commercial for Market software experience</p><p>\u2022 3+ years plus Cloud Operations/DevOps experience on AWS</p><p>\u2022 Experience with CI/CD preferably with Jenkins</p><p>\u2022 Experience with Puppet or Ansible on Linux and/or Windows</p><p>\u2022 Experience Networking and DNS experience</p><p>\u2022 Experience managing microservice architectures a plus</p><p>\u2022 Experience with AWS serverless products a plus</p><p>\u2022 Entrepreneurial in thinking, outlook, and creative problem-solving</p><p><br></p><p><strong>What To Know Before You Apply</strong></p><p>\u2022 We\u2019re located in beautiful Golden, Colorado.</p><p>\u2022 This is a full-time, salaried position.</p><p>\u2022 AbsenceSoft provides a wide variety of perks and benefits. Including full medical,</p><p>dental, vision, 401K, and life insurance. Our brand new state of the art office has</p><p>automatic standing desks and a brand new oversized kitchen complete with</p><p>unlimited snacks and drinks. We support your professional growth including</p><p>industry training and CLMS Certification; opportunities for additional industry and</p><p>technology certifications, and continuing education.</p><p>\u2022 The salary range for this position is between $90,000 - $150,000.</p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T16:55:33.000Z"
+  },
+  "company": {
+    "name": "AbsenceSoft",
+    "link": "https://www.linkedin.com/company/absencesoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

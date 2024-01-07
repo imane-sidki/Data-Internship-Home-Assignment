@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Speech Recognition",
+    "industry": "Restaurants",
+    "description": "<p>We are currently looking for a Machine Learning Engineer \u2013 Speech Recognition, to help us build and improve our state-of-the-art streaming bilingual speech recognition system, using real-world data from our conversational AI Drive Thru product. The Speech Recognition Engineer will be a key member of the Speech/ML team within the core technology group at McD Tech Labs and will have the ability to make a large impact on our AI Drive Thru technology.<br><br></p><p>Responsibilities:<br><br></p><ul><li>Work closely with the Speech and Machine Learning groups to explore, implement, and evaluate state-of-the-art approaches to speech recognition</li><li>Contribute to ASR model optimization based on large scale real-world data</li><li>Deploy and support production ASR models in the real world</li><li>Collaborate with the Infrastructure, Data Engineering, and ML Evaluation teams to improve data pipelines and tooling for continuously training and benchmarking ASR at scale<br><br></li></ul><strong>Qualifications<br><br></strong><p>Must have received or be willing to receive the COVID-19 vaccination by date of hire to be considered. Proof of vaccination required.<br><br></p><p>Required Qualifications:<br><br></p><ul><li>M.S. or Ph.D. in Computer Science, Speech Recognition, or Machine Learning, or equivalent professional experience</li><li>2+ years experience using Python, C++, or similar languages</li><li>Research or experience in Machine Learning, Deep Learning and/or Speech Recognition</li><li>Experience with one or more deep learning frameworks, such as PyTorch, TensorFlow, MXNet, or similar tools</li><li>Excellent written and verbal communication skills</li></ul><p>Desired Qualifications:<br><br></p><ul><li>Experience with standard ASR toolkits such as Kaldi, HTK, or similar</li><li>Working proficiency in Spanish</li><li>Experience designing and deploying bilingual ASR models or systems</li><li>Experience with MLOps and/or ML at scale</li><li>Experience with Spanish NLP</li><li>Experience with Linux based development<br><br></li></ul><strong>Additional Information<br><br></strong><p>McDonald\u2019s is committed to providing qualified individuals with disabilities reasonable accommodations to perform the essential functions of their jobs. Additionally, if you (or another applicant of whom you are aware) require assistance accessing or reading this job posting or otherwise seek assistance in the application process, please contact recruiting.supportteam@us.mcd.com\u00a0<br><br></p><p>McDonald\u2019s provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to sex, sex stereotyping, pregnancy (including pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), race, color, religion, ancestry or national origin, age, disability status, medical condition, marital status, sexual orientation, gender, gender identity, gender expression, transgender status, protected military or veteran status, citizenship status, genetic information, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.<br><br></p><p>Nothing in this job posting or description should be construed as an offer or guarantee of employment.<br><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T14:55:39.000Z"
+  },
+  "company": {
+    "name": "McDonald's",
+    "link": "https://www.linkedin.com/company/mcdonald%27s-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Human Resources,Information Technology and Services,Marketing and Advertising",
+    "description": "<p><strong>Job Title:</strong> Backend Software Engineer</p><p><strong>Location:</strong> Fully remote but must be based in America or Canada. </p><p><strong>Job Type:</strong> Permanent role</p><p><br></p><p><strong>The Opportunity:</strong></p><ul><li>Shutterstock is looking for top technologists to join our software engineering teams and help drive the future of our platform. You will be working with highly motivated and extremely talented engineers on backend services with quality, performance, and scale in mind at every step of the way. Our core belief is that the customers are our number one priority so we work hard to deliver value back to them with everything we do. We believe strongly in team ownership of systems, which includes defining the vision of the services to prioritization of projects.</li><li><strong>Essentially we looking for someone that is proficient with Node.js, JavaScript / Typescript, is familiar with AWS and at least one relational DB.</strong></li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>At least 4+ years of relevant software development experience</li><li>Back-end software development experience</li><li>Node.js experience</li><li>Very strong knowledge of how the Web works and how to make it efficient (HTTP, caching, page rendering, etc)</li><li>Experience building and designing highly scalable services, and RESTful API\u2019s that power multiple consumers.</li><li>Experience with SOA architecture working on distributed/high trafficked systems.</li><li>Experience with AWS</li><li>Familiarity with at least one RDBMS and one NoSQL database.</li><li>Ability to craft simple and elegant solutions to complex problems.</li><li>Solid software development fundamentals (Data Structures, algorithms, problem-solving, OO Design, and system architecture).</li><li>Passionate about what you do and care deeply about the things you build.</li><li>Able to clearly communicate to technical and non-technical audiences.</li><li>Strong understanding of continuous delivery, writing unit tests, and automated testing.</li><li>BS or MS degree in Computer Science or related experience</li></ul><p><br></p><p><strong>Bonus Skills:</strong></p><ul><li>Experience building event-driven or message-driven architecture using tools like RabbitMQ and Kafka.</li><li>Docker, Kubernetes experience</li><li>Graph database experience</li><li>Experience working in an agile environment</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T08:52:21.000Z"
+  },
+  "company": {
+    "name": "LevelUP",
+    "link": "https://www.linkedin.com/company/leveluphcs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

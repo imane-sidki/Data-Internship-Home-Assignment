@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Core Services - Apple Media Products",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you can accomplish. Would you like the stimulation and challenges of building world-class, extraordinary scalable systems that power App Store, \uf8ffMusic, \uf8ffTV+, \uf8ffFitness+, \uf8ffArcade and many more? Then this is the opportunity for you at Apple! We strive to provide a flawless experience for millions of customers and developers. <br><br><br>Apple Media Products Core Services team is looking for a software engineer to help build creative features that will enhance the experience of using these services for our millions of customers around the world. We will work on building and enhancing large-scale systems using distributed data stores with a strong focus on scalability and performance. We partner with a variety of cross and multi-functional team members from a diverse array of groups across the company. You will join a hands-on development team that fosters creativity and generates novel solutions based on engineering excellence. Be a part of an innovative impactful team making a difference.<br><br> <br><strong>Key Qualifications<br></strong> <br>Expert knowledge of developing and scaling Java web applications with very stringent latency requirements.<br><br>Experience working with NoSQL solutions like Cassandra, Voldemort, Redis, and Memcached.<br><br>Experience working on data pipelines using Kafka, Spark, HDFS.<br><br>Experience working with Solr / Lucene.<br><br>Strong object oriented design and analysis skills coupled with a deep understanding of data structures and algorithms.<br><br>Experience working with object relational databases like Hibernate<br><br>Experience with protocols like TCP/IP, HTTP, SSL<br><br>Knowledge of JVM hosted languages like Clojure is a plus.<br><br>Experience writing effective unit and integration tests.<br><br>Outstanding critical thinking and debugging skills.<br><br>Ability to effectively work with cross functional teams to understand requirements and engineer highly performant implementations.<br><br>Ability to develop, advocate for, and build consensus on coding best practices.<br><br> <br><strong>Description<br></strong> <br>You will be part of the server team that powers customer-facing features within the Apple client applications - App Store, Apple Arcade, Apple Music, Apple TV+, Apple Books, Podcasts, iTunes etc. You will be working cross-functionally with various teams across Apple to deliver some really exciting features to our customers. Thinking about web service performance is a constant thing for us and we are searching for someone like-minded. If you are used to thinking about performance in terms of median, 95th percentile and 99th percentile, then we are looking for you! You would be someone who is not afraid to question assumptions, is a great teammate under tight deadlines and seeks problems with elegant technical solutions.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS in Computer Science. 5 years professional software engineering experience preferred.<br><br> <br><strong>Additional Requirements<br></strong> <br>Build large scale web-based projects and features, ensuring robust &amp; maintainable solutions are implemented with special attention to performance and usability details. Effectively demonstrate feature prototypes to executives. Develop, advocate for, and build consensus on, coding standard methodologies. Ability to effectively work with multi-functional teams to understand requirements and engineer highly performant implementations. Experience with crafting web applications that scale to millions of requests per second is highly preferred.<br><br> <br>Role Number: 200231096<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:32:33.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

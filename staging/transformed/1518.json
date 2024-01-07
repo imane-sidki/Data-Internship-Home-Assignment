@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Data",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Ring is looking for a Software Engineer with the passion to drive the execution and ongoing support of mission-critical data services, furthering large-scale data governance, data streaming, and data analytics. If you are passionate about data and technology, eager to seek challenging and innovative opportunities, and motivated to deliver the best customer experience, then this role is the right fit for you.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Design and document distributed systems and micro-services.</li><li> Implement robust and maintainable code with clear documentation.</li><li> Deliver customer value in an iterative fashion while working towards longer term systems goals.</li><li> Help shape the growth of data services.</li><li> Evaluate and implement efficient distributed storage and query techniques.</li><li> Interact and integrate with teams and systems to extract, transform, and load data from a wide variety of sources.</li><li> Develop automation tools for monitoring and measuring data quality, with associated user interfaces.<br><br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelor\u2019s degree in Computer Science or a related field</li><li> 3+ years of experience in Software Engineering / Data Engineering / Data Warehousing roles working in high traffic, fault tolerant, and highly available environments</li><li> 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of systems</li><li> 3+ years of experience with Golang, Python, Java, Scala or a similar programming language</li><li> 2+ years of experience with Test Driven Development or writing unit tests</li><li> 2+ years of experience with SQL skills</li><li> 2+ years of experience with Big Data Technologies (Hadoop, Hive, Pig, Spark, etc.)</li><li> 1+ years of experience with Streaming platforms like Kafka or Kinesis<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Experience with AWS</li><li> Having planned and/or participated in terabyte-scale data environments</li><li> Experience implementing solutions to comply with GDPR and/or other Data Privacy regulations</li><li> Experience designing and implementing Data Governance programs</li><li> Experience integrating NoSQL alongside RDBMS such as Postgres or MySQL in a multi-tiered, globally replicated environment<br></li></ul><strong><u>About Ring<br><br></u></strong>Since its founding in 2013, Ring has been on a mission to make neighborhoods safer. From the video doorbell, to Ring Alarm, which was named #1 in Customer Satisfaction for DIY Home Security Systems by J.D. Power, Ring\u2019s smart home security product line, as well as the Neighbors app, offer users affordable whole-home and neighborhood security. At Ring, we are committed to making home and neighborhood security accessible and effective for everyone -- while working hard to bring communities together. Ring is an Amazon company. For more information, visit www.ring.com. With Ring, you\u2019re always home.<br><br>Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us//.<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1352286",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T16:14:08.000Z"
+  },
+  "company": {
+    "name": "Ring",
+    "link": "https://www.linkedin.com/company/ring-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65300,
+    "max_value": 141000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hawthorne",
+    "region": "CA",
+    "postal_code": "90251",
+    "street_address": null,
+    "latitude": 33.916424,
+    "longitude": -118.35028
+  }
+}

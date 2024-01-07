@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Food & Beverages,Computer Software,Food Production",
+    "description": "Founded in 2015, Bowery Farming is on a mission to democratize access to high-quality, local, safe and sustainable produce. Bowery builds smart indoor farms near cities, growing fresher, pesticide-free Protected Produce with bold flavor in precisely controlled environments, 365 days a year. At the heart of each farm is the proprietary BoweryOS, which integrates software, hardware, sensors, AI, computer vision systems, machine learning models and robotics to orchestrate and automate the entirety of its operations. As a result, each farm creates far less waste and uses a fraction of the water and land compared to traditional agriculture.<br><br><strong><u>About The Role<br><br></u></strong>SRE\u2019s at Bowery deliver highly-available and fault-tolerant hybrid cloud infrastructure that services the most technologically advanced indoor farms in the world. In addition to our public cloud footprint, we design, deploy, and monitor Bowery\u2019s distributed on-premise server and network infrastructure at each of our farms. The next SRE at bowery will be primarily focused on the management and observability of our on-premise systems. This SRE will help us design and build the server and network infrastructure of our farms using best practice standards for server and data center management, while also updating our existing systems to be in line with these standards. In addition to our on-premise environments, Bowery uses the public cloud for many of our workloads which you will help monitor and maintain. You will work within a small infrastructure team to help establish the culture and processes Bowery will need to scale the business over the next 5-10 years.<br><br><strong><u>What You'll Do<br></u></strong><ul><li>Provisioning and monitoring Bowery\u2019s server fleet using automation tools and Infrastructure as Code so we can easily repeat work at each of our farms</li><li>Configuring and administering the on-premise services that we provide to our stakeholders, like a durable messaging client, SCADA, PostgreSQL, monitoring agents, and more</li><li>Designing the software and data infrastructure that underpins out hybrid cloud setup</li><li>Building out the teams and processes that Bowery will need in order to manage the datacenter footprint at our farms distributed all around the country and (eventually) the world</li><li>Responding to server and network incidents at the farms<br></li></ul><strong><u>Who You Are<br></u></strong><ul><li>You are self-motivated and autonomous in your work. You\u2019ll be working on large, complex problems that don\u2019t have clear answers. You\u2019ll be expected to break these problems down into smaller chunks and complete the work in a self-directed manner.</li><li>You love to DRY (don\u2019t repeat yourself) up your work and appreciate that you\u2019re a multiplier - everything you can automate now will allow Bowery to scale faster in the future.</li><li>You are proactive in seeking out work, not waiting for tasks to come to you. You will be on a small team and must be comfortable taking initiative and making decisions on your own (with support from the team).</li><li>You have hands-on experience with managing on-premise environments and are comfortable traveling on site when necessary.</li><li>You always strive to do things the \u201cright\u201d way, but you also understand that we must move fast and that sometimes \u201cdone\u201d is better than \u201cright\u201d.</li><li>You have programming experience and are comfortable writing small services and tools when there is nothing off-the-shelf that solves our use case.</li><li>You are compassionate and kind to the core, and are willing to work with and provide services to folks of all different backgrounds and technical abilities.<br></li></ul>Based in New York City, Bowery is the largest vertical farming company in the United States, serving major e-commerce platforms and more than 850 grocery stores in the Northeast and Mid-Atlantic regions, including Albertsons Companies (Safeway and Acme), Amazon Fresh, Giant Food, Walmart, Weis, Whole Foods Market, and specialty grocers, with produce that's harvested year-round at peak freshness, delivered within days of harvest. Bowery has raised $472 million from leading investors, including Fidelity Management &amp; Research Company LLC, Temasek, GV (formerly Google Ventures), General Catalyst, GGV Capital, First Round Capital, and individuals including Henry Kravis, Jeff Wilke, as well as some of the foremost thought leaders in food, including Tom Colicchio, Jos\u00e9 Andr\u00e9s and David Barber of Blue Hill. For more information on Bowery and its products, please visit www.BoweryFarming.com Press kit: https://boweryfarming.com/press/",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T18:08:25.000Z"
+  },
+  "company": {
+    "name": "Bowery Farming",
+    "link": "https://www.linkedin.com/company/bowery-farming"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

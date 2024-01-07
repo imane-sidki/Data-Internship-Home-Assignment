@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - New Grad",
+    "industry": "Marketing and Advertising,Internet,Retail",
+    "description": "At GOAT Group, the Engineering team is an integral part of our dynamic company. By joining the team, your skills will be front and center, working alongside other passionate individuals to solve problems and build software. From launching compelling new consumer experiences, tackling global logistics challenges to scaling infrastructure to facilitate our rapid growth \u2013 technology is essential to driving our vision forward. The work you do will change the way the world shops, while also empowering entrepreneurs, including individual sellers, brands and boutiques.<br><br>We are looking for a New Grad-Level Engineer with high potential to help implement new features in one of our many backend applications. As an entry-level contributor on a small team, you will learn and demonstrate the development practices and philosophies required to support both a monolithic Ruby on Rails app at the heart of the business and out a new, more scalable service-driven architecture.<br><br><strong><u>In This Role You Will<br></u></strong><ul><ul><li>Learn, adopt, and demonstrate GOAT\u2019s development practices and philosophies</li><li>Implement discrete changes and features, often within a single application or codebase</li><li>Write code that is correct, readable, and consistent with existing patterns</li><li>Ensure that your contributions are maintainable, stable, well-tested, and on-time</li><li>Support in troubleshooting issues and bugs, particularly related to changes you have made</li><li>Communicate clearly with other engineers and product managers</li><li>Be a helpful and supportive presence on the team<br><br></li></ul></ul><strong><u>We Are Looking For<br></u></strong><ul><ul><li>BS degree in a relevant technical field preferred</li><li>1 years of internship experience developing in Ruby, PHP, Java, Python, or Go</li><li>Internship experience with common web application patterns and frameworks (Rails, Symfony, Spring, etc.)</li><li>Experience developing features in an agile, product-driven workflow -- QA, Analytics, Product, Frontend and Mobile engineers </li><li>Familiar and comfortable with the technologies, the tradeoffs, and the design patterns emerging in web services</li><li>A quick learner, a self-starter, able to work independently, and you're willing (and able) to handle the pressures of an increasing level of responsibility<br><br></li></ul></ul>GOAT is the global platform for the greatest products from the past, present and future. Since its founding in 2015, GOAT has become the leading and most trusted sneaker marketplace in the world. Through its unique positioning between the primary and resale markets, the company offers styles across various time periods on its digital platforms and in its retail locations, while delivering products to over 30 million members across 170 countries.<br><br>The company is backed by strategic investor Foot Locker, Inc. as well as some of the leading names in venture capital including D1 Capital Partners, Accel, Andreessen Horowitz, Index Ventures, Matrix Partners, Upfront Ventures, Webb Investment Network and Y Combinator.<br><br>We encourage you to apply even if you feel unsure about whether you meet every single requirement. We look for people who are passionate about what we do, not just those who check off all the boxes.<br><br>GOAT Group will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance, if applicable. If you are a California resident, please review our California Privacy Rights Notice for Job Applicants .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-03T13:58:58.000Z"
+  },
+  "company": {
+    "name": "GOAT Group",
+    "link": "https://www.linkedin.com/company/goat---sneaker-marketplace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 105000,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

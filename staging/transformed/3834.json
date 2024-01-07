@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Restaurants",
+    "description": "<p>Looking for a System Engineer to help build and support the ultimate voice-based conversational AI. We\u2019re looking for coders and creators with a refined code sense: people who\u2019ve built cool things, but also enjoy scaling and operating those things, and who feel proud seeing their code run well in production.</p><p>The ideal candidates would have professional experience on a stack serving millions of users, be proficient with Python and/or Golang and have some amount of experience (either professional or personal) in NLP.</p><p></p><p><strong>Desirable Skills Include: </strong>Microservices Architecture GoPythonML OpsShould be able to apply different tenants' configuration through code as well as tools.</p><p></p><p><strong>Experience</strong>3-5 years of experience in working with infrastructure as codeAt least 1 year in Python or GolangComfortable developing, maintaining DevOps pipelinesStrong experience working with cloud services - AWS or GCP preferred Exposure to NLP/AI/ML is a huge plus</p><p><br></p><p>Responsibilities</p><p>\u00b7 Be part of on-call rotation to respond to urgent bugs or production outages</p><p>\u00b7 Proactively identify and fix infrastructure bottlenecks</p><p>\u00b7 Choosing tooling for and understanding of CI / CDGCP knowledge</p><p>\u00b7 Kubernetes (In a production environment)DockerKnowledge of working in an Agile environment infrastructure As CodeDevelop, integrate and support features in the core server stack</p><p>\u00b7 Develop and support data pipeline and infrastructure</p><p><br></p><p>This is onsite position post Covid in Austin TX.</p><p>Permanent position on W2 only.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T22:43:38.000Z"
+  },
+  "company": {
+    "name": "TalentPlug LLC",
+    "link": "https://www.linkedin.com/company/talentplug-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

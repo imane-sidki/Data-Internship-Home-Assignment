@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (Remote)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Innovate, Grow and Do Extraordinary \u201cTogether\u201d, is at the core of everything we do at Karsun!<br><br>At Karsun we defy assumptions and enable transformation as IT modernization experts. Our people and client-first focus, innovation and performance driven culture empowers and encourages our employees with the autonomy to innovate, and be accountable to take ownership and seek advancement opportunities for personal growth.<br><br>Karsun is looking for a Systems Reliability Engineer based out of our Herndon, VA office (Remote is an option as well). You would be joining a stealth and cutting-edge team within Karsun, charged with helping to build and perform within a larger team delivering Cloud Modernization solutions to our Federal Agency clients such as; The GSA, DHS-FEMA, FAA and others.<br><br><strong>What You Will Do:<br><br></strong><ul><li>Manage, support, and maintain a reliable environment for the site in order to ensure the stability and security of multiple systems/platforms that are run or operated in that environment.</li><li>Develop or contribute to solutions to a variety of problems of moderate scope and complexity.</li><li>Oversee the development of more robust systems by building a resilient infrastructure.</li><li>Build in redundancy, implement monitoring tools, and automate wherever possible and reduce toil by scripting routine tasks and automating self-repair. <br><br></li></ul><strong>What You Bring to Karsun:<br><br></strong><ul><li>Experience in developing and managing Service Level Objectives (SLOs) for production systems.</li><li>Demonstrated experience in managing incident response teams (i.e., triaging, prioritizing, and troubleshooting), detailing root cause analysis (RCAs), corrective actions and leading postmortems. </li><li>Experience in developing operational playbooks/runbooks, and disaster recovery testing.</li><li>Experience with reviewing system design and architecture documentation and preparing materials addressing security controls.</li><li>Experience working across product development teams to understand program goals.</li><li>Experience establishing or working with \u201chelp desk\u201d type ticket tracking and similar support processes.</li><li>Extensive experience with monitoring tools (e.g., Sysdig, New Relic, Twistlock, Splunk, etc.) and understanding and expertise to automate alerting functions.</li><li>3+ years of experience with Linux and Windows OS.</li><li>2+ years of experience with DevOps/DevSecOps through CI/CD pipeline tools such as Jenkins.</li><li>2+ years of experience with Jenkins and Github/Git/Gitflow.</li><li>1+ years of experience with Docker and Containers.</li><li>2+ years of experience with Agile Development.</li><li>2+ years of experience with Infrastructure as code: Terraform, Cloud Formation, Ansible, Packer.</li><li>2+ years of experience with AWS services: EC2, RDS, Secrets Manager, IAM etc.</li><li>2+ years of experience with troubleshooting application and testing automation (e.g., Selenium).</li><li>1+ year of experience analyzing observability metrics, logs, traces.</li><li>BA or BS Degree</li><li>AWS Certified DevOps Engineer - Professional</li><li>Ability to obtain and maintain Public Trust clearance</li><li>Must have AWS experience<br><br></li></ul><strong>What Karsun Offers You:<br><br></strong><ul><li>A career, more than just a job</li><li>Play a key role in the success and growth of Karsun</li><li>Do extraordinary and receive extraordinary</li><li>Work alongside seriously talented colleagues and who enjoy challenging each other</li><li>Work with integrity, honesty and fairness for customers and colleagues</li><li>Excellent Benefits from PTO, Medical Benefits, 401K Match, Health and Wellness Programs, Company Events and an overall Collegial Environment, and much more<br><br></li></ul><strong>About Karsun:<br><br></strong>At Karsun, we are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and teammates without regard to race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law. Karsun believes that diversity and inclusion among our teammates is critical to our success, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool.\u201d<br><br>The <em>Virginia Chamber of Commerce</em>, <em>Washington Business Journal</em> and <em>Inc</em><em>.</em> all recognize Karsun Solutions among the fastest-growing companies in the Washington, D.C. region. Its teams deliver modern software development, cloud solutions, and data and analytics solutions to customers at government agencies including the Department of Homeland Security, Federal Aviation Administration, and General Services Administration. It possesses a DCAA Approved Accounting System, CMMI Level 5 - DEV appraisal, and AWS Government Competency.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T14:50:04.000Z"
+  },
+  "company": {
+    "name": "Karsun Solutions, LLC",
+    "link": "https://www.linkedin.com/company/karsun-solutions-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Vehicle Diagnostics Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Automotive,Mechanical or Industrial Engineering",
+    "description": "<strong><u>About Xos<br><br></u></strong><strong>Description<br><br></strong>Xos is an innovative electric vehicle company on a mission to decarbonize transportation. Our zero-emission commercial vehicles and next-generation technologies empower fleets of Fortune 500 companies and positively impact our environment. The market is growing. The need is rising. The time is now.<br><br>At Xos, we design vehicles from scratch, invent efficient and durable battery systems, write software to control the vehicle and its interactions with the driver, and entice fleet owners into an electrified future with groundbreaking service.<br><br>We are a team of passionate doers that have banded together to do our part in the battle for a cleaner planet. We\u2019re go-getters, change-makers, and future-creators. Will you join us?<br><br><strong>The Role<br><br></strong>We are looking for a vehicle diagnostics software engineer who will work on developing diagnostics software for fault management and service test communications based on industry-standard protocols (J1939, J1708) for commercial vehicles. This person will perform testing and validation of the software both on the bench (HIL) and in the vehicle and communicates cross-functionally on design directions and requirements. An ideal candidate will have confidence in his ability to contribute significantly and independently to the vehicle-build as well as bring innovative ideas to the team.<br><br><strong><u>Requirements<br></u></strong><ul><li>B.S in Electrical Engineering or Mechanical Engineering or related discipline (M.S preferred)</li><li>3+ years of relevant experience in commercial vehicle diagnostics, software development or testing</li><li>Knowledge in control system theory and applications</li><li>Experience in vehicular communication networks such as CAN, CAN FD, and LIN</li><li>Understanding of CAN bus messaging protocols such as J1939, and UDS</li><li>Experience with MATLAB, Simulink and Stateflow</li><li>Proficient in embedded C code programming</li><li>Familiar with measurement, calibration and diagnostic tools such as ETAS INCA and Vector CANalyzer</li><li>Experience with validation hardware and Hardware-in-the-loop (HIL) systems and test bench setups.</li><li>Familiar with version control tools such as Git or SVN</li><li>Experience with change management tools such as JIRA<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Xos, Inc. is committed to offering competitive wages</li><li>The Company offers medical coverage, paid 100% by the employer for employees with dependent coverage partially off-set by the employer</li><li>Dental, Vision, and Life plans are also offered through the Company's health package</li><li>Generous PTO, sick, vacation, and holiday pay<br></li></ul><em>Xos, Inc is committed to hiring and retaining a diverse workforce. We are an Equal Opportunity/Affirmative Action Employer and will consider all qualified applicants for employment without regard to race, color, religion, gender, pregnancy, sex, sexual orientation, gender identity, gender expression, national origin, age, genetic information, protected veteran status, disability, or any other basis protected by local, state, or federal law.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-26T08:42:25.000Z"
+  },
+  "company": {
+    "name": "Xos Trucks",
+    "link": "https://www.linkedin.com/company/xostrucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

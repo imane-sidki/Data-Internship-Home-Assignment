@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>Role : Machine Learning Engineer ( Full Time )</p><p>Location : Dallas, Texas, USA.</p><p><br></p><p><br></p><p>We are looking for a motivated and passionate Machine Learning Engineers for our team.</p><p>As part of this job, you will be responsible for:</p><ul><li>Providing solutions for the deployment, execution, validation, monitoring, and improvement of data science solutions</li><li>Creating Scalable Machine Learning systems that are highly perform-ant</li><li>Building reusable production data pipelines for implemented machine learning models</li><li>Writing production-quality code and libraries that can be packaged as containers, installed and deployed</li></ul><p><strong>Requirements</strong></p><p></p><ul><li>Bachelor's degree or higher in computer science or related, with 5+ years of work experience</li><li>Ability to collaborate with Data Engineers and Data Scientist to build data and model pipelines and help running machine learning tests and experiments</li><li>Ability to manage the infrastructure and data pipelines needed to bring ML solution to production</li><li>End-to-end understanding of applications being created and maintain scalable machine learning solutions in production</li><li>Ability to abstract complexity of production for machine learning using containers</li><li>Ability to troubleshoot production machine learning model issues, including recommendations for retrain, re-validate, and improvements</li><li>Experience with Big Data Projects using multiple types of structured and unstructured data</li><li>Ability to work with a global team, playing a key role in communicating problem context to the remote teams</li><li>Excellent communication and teamwork skills</li></ul><p><strong>Additional Skills Required :</strong></p><ul><li>Python, Spark, Hadoop, Docker, with an emphasis on good coding practices in a continuous integration context, model evaluation, and experimental design</li><li>Test-driven development (prefer py. test/nose), experience with Cloud environments</li><li>Proficiency in statistical tools, relational databases, and expertise in programming languages like python/SQL is desired.</li></ul><p><strong>Good to have :</strong></p><ul><li>Knowledge of ML frameworks like Scikitlearn, Tensorflow, Keras, etc.</li><li>Knowledge of MLflow, Airflow, Kubernetes</li><li>Knowledge on any of the cloud native MLaaS offerings like AWS SageMaker, AzureML or Google AI platform</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T19:52:15.000Z"
+  },
+  "company": {
+    "name": "ALOIS Staffing",
+    "link": "https://www.linkedin.com/company/alois-staffing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet",
+    "description": "<strong>At </strong> <strong>Anyscale</strong> <strong>, we're looking for passionate, motivated people who are excited to build tools that will power the next generation of cloud applications. If the idea of an infinite laptop appeals to you, let's build the future of software development together.<br><br></strong>We're hiring exceptional software engineers for a variety of open roles, including:<br><br><ul><li> Distributed systems</li><li> Machine learning</li><li> Frontend</li><li> Observability</li><li> Production serving</li><li> Ecosystem</li><li> C++</li><li> Reinforcement learning<br><br></li></ul><strong>As Part Of Your Role, You Will<br><br></strong><ul><li>Develop high-quality software to empower software developers and simplify programming</li><li>Work with a team of leading experts in distributed systems and machine learning</li><li>Communicate your work to a broader audience through talks, tutorials, and blog posts</li><li>Help us build and shape a world-class company<br><br></li></ul>Once it's safe to do so, you must be willing to work onsite in our San Francisco office.<br><br><strong>About Anyscale<br><br></strong>Anyscale provides a platform for developers to build distributed applications. We\u2019re commercializing a popular open source project called Ray , which is a framework for distributed computing as well as an ecosystem of libraries for scalable machine learning. Building on its success (14k+ stars on GitHub and contributors from over 100 companies), our goal is to create a standardized platform for distributed computing.<br><br>Ray was developed at UC Berkeley by Robert Nishihara and Philipp Moritz, under the guidance of Ion Stoica and Michael Jordan , and the four of them have co-founded Anyscale. As a company, we've raised a $20.6M Series A and a $40M Series B from Andreessen Horowitz (a16z) and NEA. With industry leaders like Ben Horowitz on our Board, we're thrilled to be building the distributed computing platform of the future, and we want you to join us.<br><br>With Ray , we're making it easy to program at any scale (from your laptop to the datacenter) by providing easy-to-use, general-purpose, and high-performance tools. In addition, we're building a rich ecosystem of libraries (for reinforcement learning, hyperparameter search, experiment management, machine learning training, prediction serving, and more) on top of the core distributed system, so that users can rapidly build sophisticated applications.<br><br><strong>Here at Anyscale, we value diverse perspectives and backgrounds, and challenging the status quo is an integral part of our culture. Even if you don't meet the above specifications exactly, we encourage you to apply. <br><br></strong><strong>Building a diverse team isn't easy, so let's do it together \u2013 apply today!</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T17:45:24.000Z"
+  },
+  "company": {
+    "name": "Anyscale",
+    "link": "https://www.linkedin.com/company/joinanyscale"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

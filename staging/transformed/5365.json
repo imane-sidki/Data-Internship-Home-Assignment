@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Machine Learning Software Engineer, ML Platform &amp; Technology",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple builds world-class innovative products that integrate hardware with intelligent software experiences using machine learning, artificial intelligence, and computer vision. Machine Learning Platform and Technologies is the team that makes it possible for Apple engineers to innovate ML driven product features rapidly and at scale. The team enables future Apple intelligent products by making cutting edge ML technologies, large scale compute and data systems designed specifically for ML available to engineers within Apple. Come join the team that is making ML innovation possible here at Apple. <br><br>We\u2019re looking for strong software engineers to build a next generation Deep Learning framework geared towards fueling on-device machine learning capabilities and emerging innovations. You\u2019ll be part of a small team of developers and deep learning experts working in the area of device-aware neural network optimization and neural architecture search. We\u2019re looking for candidates with polished coding skills, passionate about machine learning, computational science and hardware. Any background and experience level is acceptable. In exchange we offer respectful work environment, flexible set of responsibilities, access to world class experts and growth opportunities in one of the best companies in the world.<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong Python programming skills.<br><br>Understanding of data structures, software design principles and algorithms.<br><br>Experience with Python scientific libraries like numpy, scipy.<br><br>Experience with one or more deep learning framework such as Tensorflow, PyTorch or Keras.<br><br> <br><strong>Description<br></strong> <br>* Design and develop APIs for common and emerging deep learning primitives: layers, tensor operations, optimizers and more specific hardware features.<br><br>    * Implement efficient tensor operations and DNN training algorithms.<br><br>    * Train and evaluate DNNs for the purpose of benchmarking neural network optimization algorithms. Our framework reduces latency and power consumption of neural networks found in many Apple products.<br><br>    * Perform research in emerging areas of efficient neural network development including quantization, pruning, compression and neural architecture search, as well as novel differentiable compute primitives.<br><br>    * We encourage publishing novel research at top ML conferences.<br><br> <br><strong>Additional Requirements<br></strong> <br>* Experience developing machine learning solutions.<br><br>    * Understanding of compute hardware design, CPU and GPU architectures.<br><br>    * Experience with C++, Objective-C, Swift.<br><br>    * iOS development experience.<br><br>    * Solid math skills: linear algebra, computational science and optimization.<br><br>    * Publication record in ML conferences is a plus.<br><br> <br>Role Number: 200269763<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T18:24:20.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

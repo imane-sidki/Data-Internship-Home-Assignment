@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Frontend",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "DoorDash is building the world's most reliable on-demand, logistics engine for delivery! We're looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7, global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers.<br><br>Platform Evolution is a new DoorDash engineering team based out of our newly formed Pittsburgh engineering hub. The team will be focused on supporting DoorDash\u2019s expansion globally through the modernization and evolution of DoorDash\u2019s service architecture. As a centralized platform team focused on accelerating cross-team migration efforts, you\u2019ll have the opportunity to learn and contribute to all of DoorDash\u2019s products and internal services. Initially, the focus of the team will be moving away from our existing Python based service architecture to our new Kotlin based platform.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Join as a founding member of the Pittsburgh Engineering Team.</li><li>Develop, release and run large-scale web applications</li><li>Design and build beautiful, intuitive user interfaces for our web applications to create the best delivery experience</li><li>Completely disrupt logistics by tackling bleeding-edge, technical problems<br></li></ul><strong><u>What We're Looking For<br></u></strong><ul><li>Understanding of cross-browser compatibility, progressive enhancement and graceful degradation, responsive design, website performance, and accessibility.</li><li>B.S., M.S. or PhD in relevant field or 5+ years of industry experience</li><li>Experience architecting large-scale frontend applications</li><li>Mastery of the foundations of the web: vanilla JS, HTML5, CSS3</li><li>Deep understanding of REST principles and experience working with and implementing backend APIs</li><li>Experience with React/Redux, or similar frameworks</li><li>Experience with documentation, unit and integration testing<br></li></ul><strong>Nice To Haves<br></strong><ul><li>Experience building large scale, real-time applications</li><li>Contributor to open source projects<br></li></ul><strong>Why You\u2019ll Love Working at DoorDash<br></strong><ul><li>We are leaders - Leadership is not limited to our management team. It\u2019s something everyone at DoorDash embraces and embodies.</li><li>We are doers - We believe the only way to predict the future is to build it. Creating solutions that will lead our company and our industry is what we do -- on every project, every day. </li><li>We are learners - We\u2019re not afraid to dig in and uncover the truth, even if it\u2019s scary or inconvenient. Everyone here is continually learning on the job, no matter if we\u2019ve been in a role for one year or one minute.</li><li>We are customer obsessed - Our mission is to grow and empower local economies. We are committed to our customers, merchants, and dashers and believe in connecting people with possibility.</li><li>We are all DoorDash - The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights. </li><li>We offer great compensation packages and comprehensive health benefits.<br></li></ul><strong><u>About DoorDash<br><br></u></strong>DoorDash is a technology company that connects customers with their favorite local and national businesses in all 50 US states, Canada, and Australia. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash blog or at www.doordash.com.<br><br><strong>Our Commitment to Diversity and Inclusion<br><br></strong>We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.<br><br>Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T13:13:58.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 58200,
+    "max_value": 102000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine learning Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Machine LearningData Engineer</strong></p><p>Long-Term Contract</p><p>Cincinnati, Ohio</p><p></p><p>You will havethe opportunity to work on challengingMachine Learningand AIprojects with the goal to improve the everyday life ofclient\u2019smembers.You willcollaborate with data scientist, analyst, business and IT teams todesign,implement, and deployMachine Learning and AIservices using Python,PySpark,Azure services,Databricks, Terraform,and other open-source software.Develop plans, designs, code,anddocumentation,andtoperformcode reviews,testing, anddebugging.You will embrace and enforce best practices in our data science community withautomated,repeatable data pipelines.</p><p>Some examples of how we add capabilities toMachine Learning Platforminclude:</p><p>\u00b7Creating templates for data scientists, embracing leading-edge modeling techniques</p><p>\u00b7Establishing a Feature Store with tens of thousands of features available to use in predictive models</p><p>\u00b7Defining monitoring, auditing, data lineage, and dependency tracking for data pipelines to improve quality</p><p>\u00b7Integrating ethical AI bias monitoring and drift analysis into modelling processing</p><p>\u00b7Standardizing the definitions of clinical, financial, and actuarial features for use across the business</p><p><strong>Tools used</strong></p><p>\u00b7Python, PySpark,Azure Databricks</p><p>\u00b7 Azure Data Factory,?Azure DevOps,?Azure Kubernetes Service,CosmosDB, AppInsights, Kafka,?Pulsar</p><p>\u00b7Terraform</p><p>\u00b7Open-source ML software, likeSciKitLearn,SparkML,TensorFlow,Horovod,Petastorm</p><p></p><p><strong>Job Description</strong></p><p>\u00b7Build and deployML modelson Azure, using best practices in security, and Azure services</p><p>\u00b7Understand best practices for effective predictive models, including cluster management and algorithms, and evangelize with Humana Data Scientists</p><p>\u00b7Thrivein a fast-paced agile environment, closely interacting with businessanalysts,software engineers, machine learning scientists, data engineers, and data scientists</p><p>\u00b7Put together production templates, review and test ML code, and deploy it toProduction</p><p></p><p><strong>Role Requirements</strong></p><p>\u00b7BS in Computer Science or related field</p><p>\u00b73+ years of experience working on cloud platforms\u2013 Azurepreferred</p><p>\u00b75+ years of experience withMachine Learningand AI</p><p>\u00b75+ years of software development experience, withsignificantPython experience</p><p>\u00b7Solid knowledge of data structures and algorithms</p><p>\u00b7Experience in production environments (ideally enterprise level).Directly responsible for creating productionjobs</p><p>\u00b7Abilityto learn new technologies and comprehendunfamiliardata domains and business processesquickly</p><p></p><p><strong>Role Desirables</strong></p><p>\u00b7Open-source contributions and portfolio of shipped code at GitHub</p><p>\u00b7Experience with Azure, particularly Azure Data Factory (ADF), Spark, Git, and other software engineering tools;</p><p>\u00b7Experience working with data scientists to streamline code, implement reliable production processes to score models, and/or building scalable, efficient processes to derive newdata</p><p>\u00b7Familiar withhealthcare applications, terminologies, and data</p><p>\u00b7Passion projects with ML/AI/NLP, for exampleKaggle competitions and Hackathons</p><p></p><p><strong>RoleBonus</strong></p><p>\u00b7Working multiple tools together on the Azure platform (Databricks, ADF, AppInsights and other monitoring/logging tools) to deploy to production;</p><p>\u00b7Experience in an enterprise production environment where they have hardened, refactored or otherwise improved upon the training code from DataScientists</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-26T17:16:51.000Z"
+  },
+  "company": {
+    "name": "MAPSYS Inc.",
+    "link": "https://www.linkedin.com/company/mapsys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati Metropolitan Area",
+    "region": null,
+    "postal_code": "45220",
+    "street_address": null,
+    "latitude": 39.097866,
+    "longitude": -84.508
+  }
+}

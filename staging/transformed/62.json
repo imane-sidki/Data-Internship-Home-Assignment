@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Cloud Software Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "Senior Cloud Software Engineer<br><br>Are you passionate about building highly scalable, fault tolerant, elastic, and secure services in public cloud environments like Google Cloud, AWS and Azure? Do you enjoy providing technical leadership to a team of engineers?<br><br>Teradata, the world's leading data analytics company is looking for software engineers who are passionate about building cloud services to join our Teradata Cloud team. This is a unique opportunity to join our team in a period of fast growth and expansion. If you are interested in working in a startup like environment where you can directly influence the future of cloud-based analytics solutions and services, then the Teradata Cloud is the place for you. You will join a team of engineers, to build cloud services like data streaming and cloud native integrations that bring Teradata\u2019s analytics capabilities to the public cloud platforms.<br><br><strong><u>Required Qualifications<br></u></strong><ul><li>Bachelor's degree in computer science or related field or equivalent experience</li><li>At least 4 years of hands-on software development experience.</li><li>At least 1 years of experience with designing, building, and operating distributed complex software systems on Google Cloud, AWS or Azure.</li><li>Strong computer science fundamentals in data structures, algorithm design, and complexity analysis</li><li>Demonstrated proficiency with at least one modern general-purpose programming languages like Java, C++, Go, Python, etc.<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience in full stack development.</li><li>Experience mentoring junior software engineers.</li><li>Experience influencing software engineering best practices within your team.</li><li>Familiarity with dev-ops software development methods.</li><li>Experience with Teradata (or other RDMS) and NoSQL technologies.</li><li>Experience with Docker container related technologies like Kubernetes, Mesos, etc.</li><li>Experience with supporting mission critical, 24x7 systems.</li></ul><li>Our total compensation approach includes a competitive base salary, 401(k), strong work/family programs, and medical, dental and disability coverage.<br><br></li>Teradata is an Equal Opportunity/Affirmative Action Employer and commits to hiring returning veterans.<br><br>Teradata helps businesses unlock value by turning data into their greatest asset. We\u2019re the cloud data analytics platform company, built for a hybrid multi-cloud reality, solving the world's most complex data challenges at scale. Collectively, we endeavor to serve equal parts innovator and contributor. Because our mission isn\u2019t just about the collection of data \u2013 it\u2019s about revolutionizing the future of transportation to save lives, optimizing energy costs to make the planet a cleaner place, and using data to predict and identify cancer risks.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:08:38.000Z"
+  },
+  "company": {
+    "name": "Teradata",
+    "link": "https://www.linkedin.com/company/teradata"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

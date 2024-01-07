@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Data Engineer (REMOTE)",
+    "industry": "Insurance,Financial Services",
+    "description": "<br><br><strong>Job Summary<br><br></strong>Allied World is seeking an individual to lead integration efforts of underwriting and claims platforms with our corporate Enterprise Data Warehouse (EDW). The successful candidate will work within our Agile environment as part of a Scrum team to develop new, and support pre-existing Extract, Transform &amp; Load (ETL) processes.\u00a0 We look for people who can work effectively within a team as well as take the lead on new initiatives.<br><br><strong>Job Duties<br><br></strong>  <ul><li>Work with EDW &amp; Architecture groups to define and implement integration of new systems and processes.</li> <li>Participate in peer code reviews and adhere to best practice development methodologies. </li> <li>Participate in an on-call rotation to provide warehouse support if issues arise.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:45:11.000Z"
+  },
+  "company": {
+    "name": "Allied World",
+    "link": "https://bm.linkedin.com/company/allied-world"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

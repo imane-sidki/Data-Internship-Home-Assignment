@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Research)",
+    "industry": "",
+    "description": "<p><u>Position Overview:</u></p><p>The Research Data Scientist primary responsibility will be in medical device safety and surveillance activities using real-world data from the NESTcc Research Network and data partners. This position will utilize their expertise to use novel data science tools to perform statistical analysis on large, complex datasets in order to uncover medical device safety signals or trends within the Active Surveillance environment.</p><p><br></p><p><u>Objectives and Responsibilities:</u></p><p>\u00b7 Develop data analytic programs within active surveillance for medical device safety and reliability</p><p>\u00b7Establish data analytics infrastructure to improve efficiency and to facilitate data-driven decisions. </p><p>\u00b7Develop and implement machine learning algorithms and predictive models/analytics.</p><p>\u00b7 Create automated data analysis workflow and meaningful data visualization dashboards, in support of trend reporting and escalation. </p><p>\u00b7 Utilize various data science programming tools to include Python, Java, R and SQL. </p><p>\u00b7Utilizes various statistical techniques and reliability tools such as Hadoop, Cloudera Data Science Workbench, Minitab, JMP, or Jupyter Notebook. </p><p>\u00b7Utilize various data visualization tools such as Tableau, Power BI, or Spotfire. </p><p>\u00b7Coordinate data quality, security, maintenance </p><p>\u00b7Establish policies and procedures related to data collection and accuracy of data</p><p>\u00b7Working with Network Collaborators to integrate their data into the cloud environment</p><p>\u00b7Provide end-to-end data integration </p><p>\u00b7Data intake, data quality assessment/evaluation, data curation, enrichment/preparation</p><p>\u00b7Design and implement scalable data integration processes including ingestion, cleaning, curation, unification, etc.</p><p>\u00b7Develop tools to support data profiling and data quality methodologies</p><p><br></p><p><u>Requirements:</u></p><ul><li>Graduate Degree in Biostatistics, Bioinformatics, Data Science, Machine Learning, Epidemiology or similar quantitative discipline</li><li>5+ years working as a data scientist or biostatistician</li><li>Proficiency in Python, R, SQL</li><li>Experience with AI frameworks and MLOps principles</li><li>Knowledge of big data analytics approaches using cloud services from Google Cloud Platform (preferred), AWS or Azure</li><li>Familiarity with healthcare data and sources of real-world data for safety signal detection</li></ul><p><br></p><p><u>Other Skills/Abilities:</u></p><ul><li>Strong problem-solving and analytical skills.</li><li>Ability to handle confidential and sensitive company information responsibly</li><li>Working knowledge of 21 CFR 820, FDA QSR, ISO 13485 (preferred)</li><li>Experience using RWD/RWE from multiple sources is a plus</li><li>Experience with healthcare common data models such as, OMOP, i2b2 or PCORnet a plus</li><li>Ability to translate technical jargon into layman\u2019s terms for explanatory purposes</li></ul><p></p><p><u>Reporting Relationships</u>:</p><p>\u00b7The employee will report to the Director of Medical Device Safety, NESTcc</p><p><br></p><p>To Apply, email your resume to careers@mdic.org with \u201cResearch Data Scientist, NESTcc\u201d as the subject of the email. Please include a cover letter with your resume.</p><p><br></p><p>NOTE:This scope of services is not intended to be all-inclusive. The Data Scientist may perform other related duties </p><p><em>MDIC is an Equal Opportunity Employer.</em></p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T16:53:49.000Z"
+  },
+  "company": {
+    "name": "Medical Device Innovation Consortium (MDIC)",
+    "link": "https://www.linkedin.com/company/medical-device-innovation-consortium-mdic-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

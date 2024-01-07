@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>To help Trust scale our products and our team, we need an engineer that wants to step into a central role in our company. We are looking for an engineer whose work will focus on our core API but will involve projects up and down our stack.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Work with product owners to define functional and non-functional requirements</li><li>Design software architecture and systems to meet specified requirements</li><li>Work closely with technical and non-technical team members</li><li>Produce documentation for software and systems</li><li>Maintain and improve the software as needed</li><li>Assist in building a team of software developers (assist with hiring, mentorship, etc.)</li></ul><p><br></p><p><strong>Required Qualifications</strong></p><ul><li>3+ years of software development experience.</li><li>Expertise with object-oriented programming languages. Particularly Python.</li><li>Expertise with relational databases. Particularly PostgreSQL</li><li>Experience with API frameworks (e.g. Flask, FastAPI, Ruby on Rails).</li><li>Proven ability to design, build, and document APIs</li><li>Strong technical communication skills</li><li>Results-focused, collaborative, and pragmatic</li></ul><p><br></p><p><strong>Nice-to-have Qualifications</strong></p><ul><li>FinTech / Finance experience</li><li>Familiarity / Expertise with FastAPI framework</li><li>Familiarity with Ops platforms tools and processes (AWS, GCS, etc.)</li><li>Data pipeline experience</li><li>Familiarity with Docker</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T22:26:51.000Z"
+  },
+  "company": {
+    "name": "Trust",
+    "link": "https://www.linkedin.com/company/trustplatform"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

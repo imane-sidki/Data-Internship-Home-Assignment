@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Sunstone Engineering is a rapidly growing original equipment manufacturer of precision micro-welding equipment. We are a fast-paced engineering organization with a focus on new products using technologies such as embedded control systems, LCD and touch screen interfaces, USB and Ethernet communication, and high power control circuitry. The design and manufacturing of all our equipment is in-house, so this position provides full exposure to, and involvement in, the technologies and processes of research and development of micro-welding products.</p><p><br></p><p>At Sunstone, we provide jewelers, manufactures and dreamers the equipment they need to make the world a better place. Our products include Laser, Pulse Arc, Capacitive Discharge, AC, and Hot Bar Reflow welding systems. These products are used by prestigious organizations like Apple, NASA, MIT, GE, HP, Lockheed Martin, Boeing, and many others. </p><p><br></p><p>Job Requirements: </p><p>\u2022 Bachelors of Science in Computer Science or equivalent </p><p>\u2022 2-4 year(s) experience in Java, Kotilin, or C# </p><p>\u2022 Experience with or willingness to learn the Android SDK </p><p>\u2022 Ability to work both as a member of a team and independently based on the project requirements </p><p>\u2022 Ability to implement simple and well-designed solutions to complex software problems </p><p>\u2022 Ability to mentor others and be mentored by others </p><p>\u2022 A strong work ethic and commitment to seeing tasks through to completion </p><p>\u2022 Passion for paying off technical debt early and often </p><p><br></p><p>Preferred Skills (but not required): </p><p>\u2022 Experience designing intuitive UI/UX </p><p>\u2022 Experience writing Android libraries shared across multiple applications </p><p>\u2022 Experience with C, HTML, CSS, D3.js, or AWS Lambda </p><p>\u2022 Experience with writing effective unit tests </p><p>\u2022 Experience with Micro-controllers, RTOS, or TCP-IP stack </p><p>\u2022 Experience with Firebase </p><p>\u2022 Experience with the Atlassian Suite (JIRA, Confluence, SourceTree), as well as Git or other source control </p><p>\u2022 Experience with Linux Servers </p><p><br></p><p>What you will be doing: </p><p>\u2022 Designing, implementing, and maintaining new and existing Android applications </p><p>\u2022 Working closely with firmware engineers to integrate hardware and software features of the welders </p><p>\u2022 Participating in code reviews from both sides. </p><p>\u2022 Reviewing and updating requirements and/or user stories </p><p>\u2022 Writing or updating technical documentation or providing technical assistance to support and sales </p><p><br></p><p>Benefits: </p><p>\u2022 Salary: $65,000 - $85,000 / year + Bonus </p><p>\u2022 15 days of Paid Time Off + 10 paid holidays </p><p>\u2022 Health insurance/Vision/Dental + $25/month towards Life Insurance </p><p>\u2022 Simple IRA with 3% contribution company match </p><p>\u2022 40 - 45 hour work week</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:11:39.000Z"
+  },
+  "company": {
+    "name": "Sunstone Welders",
+    "link": "https://www.linkedin.com/company/sunstone-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Payson",
+    "region": "UT",
+    "postal_code": "84651",
+    "street_address": null,
+    "latitude": 40.042534,
+    "longitude": -111.73384
+  }
+}

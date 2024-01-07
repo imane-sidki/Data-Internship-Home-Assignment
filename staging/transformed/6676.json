@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Hospital & Health Care",
+    "description": "<strong><u>Description<br><br></u></strong>Olive\u2019s AI workforce is built to fix our broken healthcare system by addressing healthcare\u2019s most burdensome issues -- delivering hospitals and health systems increased revenue, reduced costs, and increased capacity. People feel lost in the system today and healthcare employees are essentially working in the dark due to outdated technology that creates a lack of shared knowledge and siloed data. Olive is designed to drive connections, shining a new light on the broken healthcare processes that stand between providers and patient care. She uses AI to reveal life-changing insights that make healthcare more efficient, affordable and effective. Olive\u2019s vision is to unleash a trillion dollars of hidden potential within healthcare by connecting its disconnected systems. Olive is improving healthcare operations today, so everyone can benefit from a healthier industry tomorrow.<br><br>Olive Assures is an AI-enabled product that automates the revenue management cycle and pays providers for care when it\u2019s delivered. Currently, healthcare revenue cycle management requires providers to manage a cumbersome process to get paid for delivering care. Olive Assures uses intelligent automation to automate much of this process and leverages predictive algorithms to provide payment for care in real time. Olive Assures reduces administrative burdens and creates greater financial certainty for providers, freeing them to focus on what matters most - improving the access and quality of care for patients.<br><br>Supporting Assures is a cloud-native, event-driven, serverless architecture which requires novel thinking and practices for how the team owns and operates the solution. We\u2019ll be handling sensitive healthcare and financial data, so security is paramount as well. We\u2019re looking for an inspired engineer whose focus will be tackling quality starting at production and working backwards into the tooling and process needed to ensure we\u2019re set up to operate, maintain, and iterate to the highest standards of quality, agility, security, and compliance. Working with both the local engineering teams and other relevant Olive teams, you\u2019ll own the SLOs for the system at large. From there, you\u2019ll define the plan to achieve those objectives and the work needed to put the plan in motion. You\u2019ll then continue guiding the teams through iterations and evolutions as we continue to scale the solutions.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Integrate deeply with the engineering and product teams to understand core goals and drive execution</li><li>Partner with central operations, quality, and security teams to understand and drive cross-group requirements</li><li>Define and maintain Assures SLOs based on internal, company, and customer needs</li><li>Investigate technologies/patterns to determine the most optimal solutions for our needs - we thrive on pushing the envelope in all aspects of development</li><li>Evaluate, refine, and expand overarching plan to achieve SLOs, including pipelines, gates, metrics, live smoke tests, alarms, roll forward/back process</li><li>Determine tools and tactics for providing operational visibility at multiple levels of system depth</li><li>Define best practices, build and maintain runbooks, lead scalability reviews, and provide reliability guidance to teams</li><li>Actively participate in architecture, design reviews and operational readiness exercises for new and existing features, giving an eye to load testing, database performance, and other other potential choke point concerns in the system<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Minimum 5 years experience as an SRE or Software Engineer with a keen interest in performance and scalability of large systems</li><li>Experience with infrastructure as code (Terraform, AWS)</li><li>Experience running services at scale</li><li>Experience with testing in production (A/B, flighting, Simian Army, etc)</li><li>Knowledge of TCP/IP, HTTP, web application security</li><li>Experience in detecting deviation in performance metrics in a way that allows for proactive addressing of potential issues before they become a problem</li><li>Experience with APM tools like New Relic and Datadog </li><li>Excellent verbal and written communication skills and ability to influence at multiple levels in the organization</li><li>Experience with healthcare revenue cycle management is a plus.<br></li></ul>At Olive, we're committed to growing and empowering an inclusive community within our company and industry. This is why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives across our organization. Research shows that oftentimes women and other minority groups only apply to open roles if they meet 100% of the listed criteria. Olive encourages everyone \u2014 including women, people of color, individuals with disabilities and those in the LGBTQIA+ community \u2014 to apply for our available positions, even if they don't necessarily check every box on the job description.<br><br><strong><u>Disclaimer<br><br></u></strong><em>This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Duties, responsibilities and activities may change or new ones may be assigned.<br><br></em><em>This job description does not constitute a contract of employment and Olive AI, Inc. may exercise its employment-at-will rights at any time.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T23:53:18.000Z"
+  },
+  "company": {
+    "name": "Olive",
+    "link": "https://www.linkedin.com/company/oliveai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

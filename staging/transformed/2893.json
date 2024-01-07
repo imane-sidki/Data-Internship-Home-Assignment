@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>About Savi</strong></p><p>Savi is a social impact technology startup in Washington, D.C. working to solve the student debt crisis affecting 46 million borrowers by helping them discover new repayment and loan forgiveness options. Founded by long-time student loan experts and advocates, Savi is a public benefit corporation that works with the nation's largest employers, membership organizations, and financial institutions to provide our service as a unique student loan benefit.</p><p><br></p><p>We're looking for people who have the desire to build meaningful products and the drive to do great work as part of a team. We are looking for experienced engineers to join our growing engineering team and help scale a product to millions of borrowers.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Own entire features through all phases of the software development cycle.</li><li>Develop new services to support our growing business and product offerings.</li><li>Design, build, and maintain APIs that will be consumed internally and by external partners.</li><li>Improve functionality and performance of our Loan Repayment Calculation service.</li><li>Build monitoring, reporting, and admin tools for internal stakeholders.</li><li>Ship code on a weekly basis that solves meaningful customer problems.</li><li>Contribute to building out and monitoring our growing infrastructure in AWS.</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Demonstrated experience building and maintaining modern, customer-facing web applications.</li><li>Experience with AWS, LEMP, Laravel, Python, and/or React on production web applications.</li><li>Write readable, testable code.</li><li>Love tools, technologies, and frameworks, but are first and foremost pragmatic.</li><li>Willing to wear many hats and collaborate with technical and non-technical team members.</li></ul><p>Nice to have:</p><ul><li>Experience as a Cloud or DevOps Engineer (building and maintaining AWS cloud infrastructure for production environments).</li><li>Experience with Terraform</li></ul><p><br></p><p><strong>Benefits:</strong></p><p>Generous benefits include employee stock options, health insurance, 401k match and paid holidays and vacation time.</p><p><br></p><p><strong>Salary: </strong>$100,000/yr - $125,000/yr</p><p><br></p><p><em>Savi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Savi complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:56:28.000Z"
+  },
+  "company": {
+    "name": "Savi",
+    "link": "https://www.linkedin.com/company/bysavi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

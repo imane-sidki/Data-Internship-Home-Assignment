@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Retail",
+    "description": "<p><strong>Reports to: </strong>Principle Data Scientist, Nuuly</p><p></p><p><strong>What is Nuuly:</strong></p><p></p><p>Urban Outfitters, Inc. (NASDAQ: URBN, www.urbn.com) is a Fortune 1000 company with $3.5 Billion in revenues offering lifestyle merchandise to highly defined customer niches through brands including Urban Outfitters, Anthropologie, Free People, Terrain, BHLDN, and Nuuly. Nuuly is the newest brand under the URBN umbrella, focusing on circular fashion and offering a subscription rental experience for women\u2019s apparel. At Nuuly, we pride ourselves on a relaxed office culture, including flexible work from home, and campus perks, including a gym. When in the office, our employees enjoy our beautiful, dog-friendly workplace at the Philadelphia Navy Yard.</p><p><br></p><p><strong>What is Nuuly Data Science:</strong></p><p><br></p><p>The Nuuly Data Science team is part of the larger URBN Data Science organization and is responsible for the Data Science, Machine Learning, Analytics and Reporting functions at Nuuly. Our expertise spans project management, machine learning, software engineering, data engineering, and analytics. Unlike most Data Science organizations, our team is a full-service Machine Learning solution provider, taking projects from ideation and requirements through deployment of production services. We work closely with the Engineering organization on a very wide range of projects including an in-house on-site personalization system, dynamic pricing, and a warehouse optimization system for our fulfilment center in Bristol, PA.</p><p><br></p><p><strong>What is the Data Scientist role:</strong></p><p><br></p><p>As a rapidly growing brand, Nuuly has a broad array of fresh business campaigns that you will have the opportunity to help shape and execute. Nuuly is driven by a state-of-the-art Kafka-based streaming data platform, which provides unfettered access to data both in real-time and offline. This enables the Data Science team to flexibly iterate on prototypes, and seamlessly integrate new capabilities. You will design, build, evaluate, and support deployment of machine learning models and systems. This includes working closely with other data scientists, ML engineers, and data engineers to perform:</p><p><br></p><ul><li><strong>ML Modeling: </strong>Evaluate and build statistical and machine learning models with an emphasis on business impact and time-to-production. Approaches span from basic regressions to advanced neural networks.</li><li><strong>Analysis:</strong> Support opportunities to add value to the business through application of statistical and ML techniques. Quantify the impact of those opportunities and communicate the outcome to peers and leaders.</li><li><strong>ML Deployment: </strong>Support Nuuly ML engineers in deploying data science algorithms in production. This includes containerizing algorithm training and inference workflows, building data pipelines, and monitoring already-deployed ML systems.</li></ul><p><br></p><p><strong>Desired skills/experience:</strong></p><p><br></p><ul><li>Experience with python</li><li>ML tools (TensorFlow, pyTorch, scikit learn, Jupyter Notebooks, etc.)</li><li>Understanding of fundamental Machine Learning concepts, including: experience with train/dev/test sets, overfitting, scoring metrics, etc.</li></ul><p><br></p><p><strong>Opportunities to learn with the team:</strong></p><p><br></p><ul><li>Experience using ML approaches on real-world applications</li><li>Containerization (Docker)</li><li>Cloud platforms (Google Cloud Platform, Amazon Web Services, Microsoft Azure,etc.)</li><li>Cloud infrastructure (Virtual Machines, Cloud Storage, IAM, etc.)</li><li>Performance evaluation of deployed, customer-facing applications and ML models</li><li>Data or ML orchestration frameworks (KubeFlow, MLflow, Airflow, etc.)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T16:53:36.000Z"
+  },
+  "company": {
+    "name": "Nuuly",
+    "link": "https://www.linkedin.com/company/nuuly"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

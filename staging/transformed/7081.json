@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "",
+    "description": "<p><strong>Description:</strong></p><ul><li>Person leaving \u2013 moving, wanted a hybrid model,</li><li>Python, kubernetes, containerization, terraform, ansible</li><li>Apex downloads \u2013 used python,</li><li>Have an SRE \u2013 junior resource \u2013 offshore partner \u2013 managing that offshore resource</li><li>He was introducing their stack into kubernetes and docker</li><li>Setting up new environments</li><li>In charge of their release CI/CD pipeline</li><li>Bash script</li><li>Python nice to have</li></ul><p><strong>Responsibilities</strong></p><ul><li>Manage deployments in AWS to support workloads and services</li><li>Establish end-to-end monitoring and alerting on all critical components of the applications, including availability, latency and overall system health</li><li>Participate in the on-call rotation supporting the platform and/or the production application(s)</li><li>Work with development teams to make sure applications are production ready, scalable and reliable from the ground up</li><li>Perform deployment, configuration changes, and integration testing of the workload and services</li><li>Debug infrastructure/services/workloads and provide failure/root cause analysis</li><li>Write automation code for provisioning and operating infrastructure at massive scale</li><li>Work with security team to remediate security findings and implementing security features</li></ul><p><strong>Requirements</strong></p><ul><li>5+ years of AWS experience</li><li>5+ year of system engineering experience</li><li>2-3 years of DevOps experience</li><li>Proficient in tool development using one or more programming languages such as: Java, Ruby, Python, Perl and C. Passion for eliminating repetitive manual processes using automation and experience with Devops automation tools such as Terraform, Ansible, helm charts, Jenkins/Gitlab etc.</li><li>Experience with CI/CD pipeline configuration, deployment, and support</li><li>Understanding of DBs such as MySQL, ElasticSearch.</li><li>Deep understanding of the Linux Operating System, including: Kernel, Memory, Process, Threads, Static / Shared Libraries, IPC, Signals.</li><li>Understanding of standard networking protocols and components such as: HTTP, DNS, ECMP, TCP/IP, ICMP, the OSI Model, Subnetting and Load Balancing strategies.</li><li>Knowledge of best practices related to security, performance, and disaster recovery</li><li>Docker / Kubernetes experience</li><li>Excellent problem solving and analytical skills</li><li>Has general security awareness to support security remediation related to infrastructure</li><li>Must have strong infrastructure background</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T19:18:45.000Z"
+  },
+  "company": {
+    "name": "InfoObjects Inc.",
+    "link": "https://www.linkedin.com/company/infoobjects-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

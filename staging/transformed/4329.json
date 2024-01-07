@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Remote",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<strong><u>Job Summary<br><br></u></strong>The Red Hat OpenShift Site Reliability Engineering Platform team (SRE-P) is looking for a Site Reliability Engineer to join our global team. In this role, you will play a key role to contribute to solutions that make Red Hat OpenShift Dedicated scalable, featureful, resilient, and secure, while maintaining a balance between development and operations work. Red Hat OpenShift is enterprise Kubernetes and SRE is Red Hat's team that develops and operates Red Hat OpenShift Dedicated as a public cloud service for large enterprise customers. You'll be contributing to the design and development of automation software to provision, upgrade, monitor, and heal a large global fleet of Red Hat OpenShift clusters deployed across multiple public clouds. You'll participate in a follow-the-sun on-call rotation and help lead incident management, root cause analysis, and continuous improvement activities, managing engineering efforts against a service level agreement (SLA) and error budget. Red Hat OpenShift SRE-P is a growing, sophisticated, global, fast-paced team inside the world's open source leader with constant opportunities to learn new skills and innovate new solutions to meet our customers' demands. As an SRE on this team, you'll directly contribute to Red Hat's success in the rapidly growing Kubernetes-as-a-Service market. Successful applicants must reside in a state where Red Hat is registered to do business.<br><br><strong><u>Primary Job Responsibilities<br></u></strong><ul><li>Design and write automation software to provision, upgrade, monitor, and heal a large global fleet of Red Hat OpenShift clusters deployed across multiple public clouds</li><li>Identify single points of failure and other high-risk architecture issues; propose and implement more resilient and scalable solutions</li><li>Participate in product release cycles, deploying code to integration, staging, and production environments, integrating with continuous integration and continuous delivery (CI/CD) tooling, monitoring, and change management</li><li>Perform software updates, peer code reviews, testing, and common vulnerabilities and exposures (CVE) analysis; respond to security threats</li><li>Interact with automated monitoring and healing infrastructure to ensure healthy environments</li><li>Provide engineering support to Red Hat's global technical support team to resolve customer issues</li><li>Create and maintain standard operating procedures (SOPs) for performing maintenance tasks, applying configuration changes, and remediating problems in our environment</li><li>Participate in a follow-the-sun on-call rotation, including periodic weekend and holiday on-call duties<br></li></ul><strong><u>Required Skills<br></u></strong><ul><li>3+ years of software engineering experience using object-oriented languages; golang is a plus</li><li>3+ years experience managing Linux-based systems in a public cloud like Amazon Web Services (AWS), Google Cloud Platform (GCP), or Microsoft Azure</li><li>3+ years experience with enterprise systems monitoring; knowledge of Prometheus is a plus</li><li>3+ years experience with enterprise configuration management like Ansible, Puppet, or Chef</li><li>1+ years experience delivering hosted cloud services</li><li>1+ year experience with Kubernetes</li><li>1+ year experience with containers on Linux</li><li>Superior communications skills and experience working directly with and presenting to customers</li><li>Demonstrated ability to quickly and accurately troubleshoot systems issues</li><li>Solid understanding of standard TCP/IP networking and common protocols like DNS and HTTP<br></li></ul><strong><u>About Red Hat<br><br></u></strong>Red Hat is the world\u2019s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.<br><br><strong><u>Benefits<br></u></strong><ul><li>Comprehensive medical, dental, and vision coverage</li><li>Flexible Spending Account - healthcare and dependent care</li><li>Health Savings Account - high deductible medical plan</li><li>Retirement 401(k) with employer match</li><li>Paid time off and holidays</li><li>Paid parental leave plans for all new parents</li><li>Leave benefits including disability, paid family medical leave, and paid military leave</li><li>Additional benefits including employee stock purchase plan, family planning reimbursement, tuition reimbursement, transportation expense account, employee assistance program, and more! <br></li></ul><strong>Note</strong>: These benefits are only applicable to full time, permanent associates at Red Hat located in the United States.<br><br>Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.<br><br>Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:51:59.000Z"
+  },
+  "company": {
+    "name": "Red Hat",
+    "link": "https://www.linkedin.com/company/red-hat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

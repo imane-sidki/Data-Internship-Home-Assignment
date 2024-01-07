@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Role 1 : Software Engineer</p><p>Individual Contributor </p><p>Full Time Temporary Position :  12 months duration </p><p>Work Location: At Customer Site , USA </p><p>Skills:C/C++, Python, Java, Spring Framework, RabbitMQ, MQTT,Ubuntu Linux, Bash,</p><p>Visa Status : US Nationals / Green Card Holders / Valid H1B Visa </p><p><br></p><p>\t</p><p>Role 2 : Software Engineer</p><p>Individual Contributor </p><p>Full Time Temporary Position  :12 months duration </p><p>Work Location: At Customer site , USA </p><p>Skills: Android, RxJava, Java, Kotlin, RabbitMQ, MQTT, Junit, Git, Gradle</p><p>Visa Status : US Nationals / Green Card Holders / Valid H1B Visa</p><p><br></p><p>Industry : Aviation / Aerospace</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T10:16:46.000Z"
+  },
+  "company": {
+    "name": "ASCEND NeXTGEN Technologies",
+    "link": "https://in.linkedin.com/company/ascend-nextgen-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Health and Wellness",
+    "industry": "Construction,Food & Beverages,Retail",
+    "description": "<em>We\u2019re looking for geniuses. Dreamers. Inventors. Innovators. People with the will to get stuff done. Doers who\u2019ll rip an idea out of thin air. Make it a reality. Own it.And amaze their peers. Sound like you? Welcome home.<br><br></em><strong>As a Software Engineer for our Health &amp; Wellness team, you will be a member of the Hy-Vee delivery team following an agile delivery cadence. Your primary focus is to help us make data and system integration within the Hy-Vee ecosystem secure, highly scalable, and predictable. You will work in a hybrid cloud environment helping to build our core platform infrastructure that hundreds of client applications will consume. We are looking for people who can not only be great individual contributors, but also pair program and mentor other engineers.</strong><strong>.<br><br></strong><strong><u>Key Responsibilities<br></u></strong><ul><li>Commit code for new features that enhance our products according to a well defined roadmap.</li><li>Help us find insights and opportunities to improve our products through monitoring and data.</li><li>Pair with other team members to cross-pollinate ideas and skills.</li><li>Champion code quality, maintainability, and reliability.</li><li>Contribute heavily to user story definition that takes our technology stack into consideration, but also continue to push the bounds of what is possible.</li><li>Help maintain a positive, open, and productive team culture.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Expert level knowledge of one of the following programming languages: JavaScript, Java, C#</li><li>Production experience with JavaScript UI frameworks such as React or Angular</li><li>Production experience implementing RESTful APIs</li><li>Demonstrable understanding of the components, execution and security concerns of web applications</li><li>Demonstrable grasp of logical data modeling techniques (ex. entity relationship diagrams)</li><li>Experience using version control; preferably git</li><li>Experience writing tests for new code and the ability to articulate the benefits of tests<br></li></ul><strong><u>A Strong Candidate Will Also Have<br></u></strong><ul><li>Experience building cloud-native applications, especially Google Cloud Platform (GCP)</li><li>Experience working with containers (kubernetes, docker, etc.)</li><li>Production experience writing CSS/SASS/LESS</li><li>Production experience with data storage systems such as PostgreSQL, Mongo, or Elasticsearch</li><li>Understanding of event-oriented software architectures</li><li>Production experience with OAuth and Identity Provider integration</li><li>Degree level qualifications in a technical related subject</li><li>Demonstrable knowledge of secure programming techniques</li><li>Experience with test driven design and general automation</li><li>may be filled at a lower or higher level depending on experience.****<br></li></ul><strong><u>About Hy-Vee, Inc.<br><br></u></strong>Hy-Vee, Inc. is an employee-owned corporation operating more than 260 retail stores across eight Midwestern states with sales of $10 billion annually. The supermarket chain is synonymous with quality, variety, convenience, healthy lifestyles, culinary expertise and superior customer service. Hy-Vee ranks in the Top 10 Most Trusted Brands and has been named one of America\u2019s Top 5 favorite grocery stores. The company\u2019s 80,000 employees provide \u201cA Helpful Smile in Every Aisle\u201d to customers every day.<br><br><strong>Visit </strong><strong> to apply today and learn about all the exciting things our IT organization does!</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:13:26.000Z"
+  },
+  "company": {
+    "name": "Hy-Vee, Inc.",
+    "link": "https://www.linkedin.com/company/hy-vee"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Des Moines",
+    "region": "IA",
+    "postal_code": "50265",
+    "street_address": null,
+    "latitude": 41.575504,
+    "longitude": -93.71303
+  }
+}

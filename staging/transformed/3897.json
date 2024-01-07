@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Machine Learning Engineer (Deep Learning)",
+    "industry": "",
+    "description": "<p><em>Note: For this \"Senior\" role we require [multiple years of professional experience and/or a PhD] directly working with transformers to advance SOTA for NLP related problems. We are specifically looking for candidates who have worked on language generation, information retrieval, or reinforcement learning problems.</em></p><p><br></p><p>Glimpse.ai is looking for someone who thinks artificial intelligence is AWESOME.</p><p><br></p><p><strong>What we are doing now:</strong></p><p>We are a profitable and stable artificial intelligence startup that is building a tool that automatically writes content about any subject with the same level of quality, factual accuracy, and usefulness as a human.</p><p><br></p><p><strong>What we are building towards:</strong></p><p>Our goal is two parts:</p><p>Part one: Develop strong AI \u2013 artificial intelligence that is smarter than a human.</p><p>Part two: Do this<em>without</em>selling our souls to venture capitalists or outside investors who will be more focused on Q4 profit, than on making sure this technology creates a profoundly better society.</p><p><br></p><p><strong>How we plan on getting towards that goal:</strong></p><p>Glimpse.ai is entirely self-funded and is already profitable by selling awesome artificial intelligence products. We want to continue to advance artificial intelligence through sustainable, iterative, and self-funded improvements so that we can eventually reach our end goal while remaining independent and principled.</p><p><br></p><p>We have a product roadmap where we create and deliver products that our users love, with the requirement that everything we work on is furthering our research and understanding of complicated artificial intelligence concepts.</p><p><br></p><p><strong>What you will be doing:</strong></p><p>We currently sell a product that generates content based on user input using large transformer networks. Our customers love the product, the content looks and reads well, but still is lacking in factual accuracy and relevance.</p><p><br></p><p>You will be working directly with the Founder &amp; CEO (who is leading the artificial intelligence team, both as a manager and as an individual contributor) and other Machine Learning Engineers to bridge this gap and build a product that is able to generate high quality, factually relevant and interesting content about any keyword that a user inputs.</p><p><br></p><p>This will involve training new models and making improvements to existing ones. You will constantly be ingesting research papers, finding and implementing ways to take what is cutting edge, and writing production code to apply it to our goals. You will be analyzing where our current methods are falling short and devising and implementing ways to improve and iterate.</p><p><br></p><p><strong>What you\u2019ll mainly be working in:</strong></p><p>PyTorch (Hugging Face Transformers)</p><p><br></p><p><strong>What we want from you:</strong></p><ul><li>You read this job posting and mission statement and found it to be inspiring</li><li>You have multiple years of experience (professional or research) directly working with transformers to solve natural language generation or information retrieval problems</li><li>You are up to date on state of the art research in natural language generation and/or information retrieval</li><li>You can immediately contribute research direction and implementation on how to use deep learning and transformers to write higher quality and more factually accurate articles</li><li>You are an awesome developer with a very strong Computer Science (or very similar) background</li><li>You take immense pride in the work you do and think you are exceptional</li><li>You want to be contributing ideas, values, thoughts, and direction (we are a small company, and your boss is the Founder/CEO, so we want people who want to make a mark on our direction and vision!)</li></ul><p><br></p><p><strong>Some benefits of working at Glimpse.ai include:</strong></p><ul><li>Generous salary \u2013 We would rather have one superstar than two mediocre players</li><li>Equity - Ownership in what you are creating at a fast growing startup</li><li>Premium benefits \u2013 Completely paid health coverage, 401k, profit sharing, gym membership, and more</li><li>Offices located on the water in Baltimore\u2019s beautiful Fells Point district</li><li>Freedom of working at a small company \u2013 you will report directly to the CEO</li><li>The excitement of a startup with the stability of a profitable company</li><li>We work on interesting problems that push the envelope in AI</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:36:27.000Z"
+  },
+  "company": {
+    "name": "Glimpse.ai",
+    "link": "https://www.linkedin.com/company/glimpse-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Baltimore",
+    "region": "MD",
+    "postal_code": "21226",
+    "street_address": null,
+    "latitude": 39.290443,
+    "longitude": -76.612335
+  }
+}

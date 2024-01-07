@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<strong><u>Description<br><br></u></strong>Possible 3 Month CTH | No Fees | Do Not Re-Post | Confidential<br>Submit candidates under their legal name and use only Client template<br><br>Role: Site Reliability Engineer<br>Work location Richardson, Texas (Remote)<br>Start date: Immediate availability<br>Background check MANDA TORY<br>Request ID: 10135876<br><br>Pursuit Project<br><br><strong><u>Basic Qualifications<br><br></u></strong>4+ years of experience with creating CI/CD pipelines for Application Deployments<br><br>Must have implemented DevOps practices/tools in areas such as Continuous Integration, Release automation, Metrics Tracking on the Azure Platform<br><br>Strong experience with Gitlab, Bitbucket Server, Artifactory, Jenkins<br><br>Strong experience working with Database Technologies: MongoDB, PostgresSQL (Azure CosmosDB)<br><br>Experience with Cloud Environments such as Azure or AWS - Specifically deploying (Java, SpringBoot, NodeJS) Applications on Cloud<br><br>Application troubleshooting experience with Linux Operating Systems<br><br>Knowledge about Blue/Green, Canary Deployments<br><br>Preferred Qualifications: (Good to have)<br><br>Created application performance dashboards on Azure, using Application Insights and automated alerts.<br><br>Ability to write Terraform scripts to build complete App services for large complex applications.<br><br>Experience with Secrets management using Azure Key Vault, HashiCorp Vault<br><br>Configuration Management (Ansible, Chef) experience is a plus<br><br><strong><u>Resumes Will Be Rejected For The Following Reasons<br></u></strong><ul><li> Different format</li><li> Missing details in comments section</li><li> Missing text box in the header</li><li> Photo ID included containing personal information other than legal name and photo<br></li></ul>Maria Andrea Gomez<br>External Resource Manager (ERM) | SubCo Staffing Center<br>Client North America | Guatemala",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T11:45:39.000Z"
+  },
+  "company": {
+    "name": "Lorven Technologies Inc",
+    "link": "https://www.linkedin.com/company/lorventech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

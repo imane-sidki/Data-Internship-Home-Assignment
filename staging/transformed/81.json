@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Java Software Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>IDR is an employee-owned staffing firm that puts people first. We go above and beyond by empowering talent and developing leaders to deliver best-in-class solutions. Founded and headquartered in Atlanta, we\u2019ve grown organically since 1998 to serve businesses and professionals throughout the Nashville, Dallas, Fort Worth, Denver, and Birmingham markets.</p><p><br></p><p>We have a prestigious client looking for a Sr. Java Developer </p><p><br></p><p>Java Developer Job Duties:</p><ul><li>Defines site objectives by analyzing user requirements; envisioning system features and functionality.</li><li>Designs and develops user interfaces to internet/intranet applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.</li><li>Recommends system solutions by comparing advantages and disadvantages of custom development and purchase alternatives.</li><li>Integrates applications by designing database architecture and server scripting; studying and establishing connectivity with network systems, search engines, and information servers.</li><li>Creates multimedia applications by using authoring tools.</li><li>Completes applications development by coordinating requirements, schedules, and activities; contributing to team meetings; troubleshooting development and production problems across multiple environments and operating platforms.</li><li>Supports users by developing documentation and assistance tools.</li><li>Updates job knowledge by researching new internet/intranet technologies and software products; participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.</li><li>Enhances organization reputation by accepting ownership for accomplishing new and different requests; exploring opportunities to add value to job accomplishments.</li></ul><p><br></p><p><strong><u>REQUIRED</u></strong></p><ul><li>5+ years of industry experience focusing on<strong>Backend</strong><strong>development</strong></li><li>3+ years of experience working with<strong>Java/Spring Boot</strong>framework</li><li>3+ years of experience working with<strong>Go, NodeJS</strong>, and/or<strong>Python</strong></li><li>3+ year of experience in an<strong>AWS</strong>environment</li><li>Hands-on experience developing<strong>server-side applications</strong>and<strong>API\u2019s</strong></li><li>Experience designing and implementing architectural patterns, specifically<strong>microservices</strong></li><li>Unit testing and TDD best practices with tools like<strong>Junit, Mockito, Spock</strong></li><li>Experience with<strong>CI/CD</strong>, using SCM tools such as<strong>Git</strong>as well as an understanding of<strong>Gitflow</strong></li><li>Hands on experience with<strong>SQL</strong>and<strong>NoSQL</strong>(e.g. Dynamo, Mongo, etc.) database technologies</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:00:02.000Z"
+  },
+  "company": {
+    "name": "IDR, Inc.",
+    "link": "https://www.linkedin.com/company/idr-inc-_2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westminster",
+    "region": "CO",
+    "postal_code": "80035",
+    "street_address": null,
+    "latitude": 39.863514,
+    "longitude": -105.04112
+  }
+}

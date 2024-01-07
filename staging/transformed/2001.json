@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Research Engineer, Molecular Design Interface",
+    "industry": "Research,Biotechnology,Pharmaceuticals",
+    "description": "At Roivant, we are passionate about discovering and developing new drugs to impact patients' lives. Since its inception in 2014, Roivant has launched over 20 portfolio companies (Vants), overseen 5 successful IPOs, established a $3B partnership with a global pharma, built a pipeline of over 40 assets across various modalities and therapeutic areas, and delivered 8 successful phase 3 readouts. Roivant is currently building new capabilities in drug discovery and expanding its existing development engine to become the world's leading tech-enabled pharmaceutical company<br><br>Roivant's drug discovery capabilities are driven by our computational discovery platform, which combines preeminent physics-based tools with deep expertise in machine learning to generate unprecedented analytical power that can tackle previously intractable discovery challenges. The tight integration of this computational platform with our experimental capabilities enables the rapid design and optimization of new drugs to address a wide range of targets for diseases with high unmet need.<br><br>We believe that the future of drug discovery lies in integrating predictive sciences, biology and medicinal chemistry to accelerate the path to new medicines. This role is an opportunity to be an architect of this paradigm shift and generate transformative benefit for patients<br><br><strong><u>Position Summary<br><br></u></strong>Roivant Discovery is looking for a highly motivated Scientific Programmer to develop our next-generation molecular design interface. The candidate should be an expert in molecular visualization, structure manipulation, and developing graphical user interfaces for a multi-disciplinary organization. As a member of the software engineer team, the candidate will develop a state-of-the-art molecular design environment to ensure the best outcome of the Roivant computational platform to improve the drug discovery process. Our computational platform leverages molecular dynamics, free energy calculations, quantum chemistry, and machine learning methods.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li>Develop a state-of-the-art molecular design environment</li><li>Collect and understand requirement from drug discovery projects and key stakeholders</li><li>Utilize and expand the capabilities of open-source molecular visualization programs such as VMD and Chimera</li><li>Champion the implementation and adoption of the integrated design environment among colleagues</li><li>Develop modules for existing and to-be developed drug discovery workflows</li><li>Assist colleagues in integrating scripts for deployment in drug discovery projects</li><li>Collaborate with third-party programs developers<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Highly motivated to develop computational methods and software for discovering better medicines</li><li>Experience developing Graphical User Interfaces (GUIs) for scientific applications.</li><li>Excellent communication skills and strong team player</li><li>Outstanding development skills (Python, Tcl/Tk, and C/C++ preferred)</li><li>Demonstrated track record of conveying complex data in an intuitive graphical form</li><li>Experience developing plugins for molecular visualization programs such as VMD, Pymol, and Chimera</li><li>Experience with scientific computing systems and schedulers</li><li>Experience with version control (such as Git) and test-and-release (such as Jenkins) frameworks<br></li></ul><strong><u>Additional Preferred Qualifications<br></u></strong><ul><li>Experience working with a diverse team on an ambitious project</li><li>Experience with parallel programming, especially data-parallel, using MPI, OpenMP, OpenACC, CUDA</li><li>Experience working with containers</li><li>Ability to manage HPC clusters (CPU and GPU based)</li><li>Experience in using/deploying workflow managers in distributed computing facilities</li><li>Experience in molecular dynamics simulations, Monte Carlo simulations, or other computational physics simulations</li><li>Experience in cheminformatics, bioinformatics, and data science</li><li>Passionate about developing software to advance drug discovery<br></li></ul>Roivant Sciences provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:33:08.000Z"
+  },
+  "company": {
+    "name": "Roivant Sciences",
+    "link": "https://www.linkedin.com/company/roivant-sciences-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

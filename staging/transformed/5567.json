@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "",
+    "description": "<p><strong>What we\u2019re looking for:</strong></p><p></p><p>We are looking for a passionate DevOps Engineer based in Denver, who will join a newly created Cloud and Platforms team who are responsible for the operation, architecture, security, scalability and governance of the AWS environment for a high performing product team.</p><p></p><p>Continual learning and exploring of better approaches to problems are in our nature and you will have the opportunity to take a role in the adoption of best practices, standards and cutting-edge tools as the team grows.</p><p></p><p><strong>Who we are:</strong></p><p></p><p>Half of all SME\u2019s fail in the first two years and lack of marketing capability is a consistent issue in the organisations that fail. Metigy is changing that paradigm on a global scale.</p><p><strong>Metigy is the world\u2019s leading AI-powered Digital Marketing solution made for SMEs.</strong></p><p>Metigy is all about making the challenging yet critical elements of the marketing, easy and fun!</p><p>Our platform integrates with the leading social and digital marketing platforms, Facebook, LinkedIn, Twitter, Google, and provides the Strategy in the form of Insights, Recommendations and Decision support so even an inexperienced marketer can master marketing and grow their brand. Digital marketing has never been more important.</p><p>This is an exciting time to join Metigy as we are growing quickly! We have just completed a major capital raise and we are scaling globally and this means that there are lots of opportunities for you to have an influence and impact on our business. We aim to have a positive impact on the day to day work of our team, customers and the environment.</p><p></p><p><strong>What you will do:</strong></p><p></p><ul><li>Manage the operational aspects of our existing products and platforms and ensure the security, governance, reliability and performance of products and platforms.</li><li>Build and maintain systems that will monitor all aspects of the application and the infrastructure.</li><li>Monitor and manage infrastructure to support 24/7 availability and respond to operational incidents.</li><li>Assist development team with deployment strategy and capacity planning across development, staging and production environments.</li><li>Work with the development team to deploy and manage tools that support SDLC automation, configuration management, and release management.</li><li>Development of scripted deployments using Infrastructure as Code (IaC) and use of automated deployment tools.</li><li>Development and maintenance of Continuous Integration/Continuous Delivery (CI/CD) pipelines.</li><li>Development of documentation and knowledge-base articles to support the use of the platform.</li><li>Participate in an on-call roster.</li></ul><p></p><p><strong>What we\u2019re looking for in you:</strong></p><p></p><ul><li>Team player with experience of working in a DevOps culture.</li><li>Good experience with Amazon Web Services (AWS): EC2, RDS, Lambda, API Gateway, DynamoDB, SQS, SNS, Step Functions, Kinesis, S3, VPCs.</li><li>Good knowledge and experience of AWS Security best practices.</li><li>Certifications in AWS an advantage.</li><li>Infrastructure as code skills: Hashicorp Terraform, AWS CloudFormation or AWS CDK.</li><li>Experience with cloud monitoring and log management solutions.</li><li>Experience with revision control systems such as BitBucket.</li><li>Expertise in Continuous Integration/Continuous Delivery (CI/CD) pipelines and associated tooling.</li><li>Knowledge and exposure of container technology and orchestration is a plus.</li><li>Customer focused, friendly, and approachable.</li><li>Great communication skills and ability to contribute to ongoing product, project and organisational technical directions.</li><li>Excellent problem solving skills, taking responsibility to own issues, until full resolution.</li><li>Ability to adapt to a rapidly changing and growing environment.</li><li>You are highly autonomous but able to work collaboratively with engineering, design and product teams.</li><li>Attention to detail, the courage to innovate and fail, learning from the experience.</li><li>Excellent verbal and written communication skills.</li></ul><p></p><p><strong>What is on offer:</strong></p><ul><li><strong>A fantastic challenge to contribute to a great Australian scaleup taking on the world</strong></li><li><strong>An enjoyable work environment</strong></li><li><strong>A competitive salary and benefits</strong></li><li><strong>The scaleup lifestyle including the ability to collaborate in the office and work remotely the rest of the week</strong></li><li><strong>Options plan for passionate people after a qualifying period</strong></li></ul><p><br></p><p><strong><span class=\"ql-cursor\"></span>This is a permanent full-time position</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:25:59.000Z"
+  },
+  "company": {
+    "name": "Metigy",
+    "link": "https://au.linkedin.com/company/metigy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

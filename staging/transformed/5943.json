@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Mechanical or Industrial Engineering,Semiconductors",
+    "description": "ColdQuanta is developing a quantum computing platform utilizing a novel approach with neutral cold atoms. The core technology depends on carefully integrated software and hardware components. The software efforts are largely greenfield, so there is considerable opportunity to develop new architectures and solutions. We are looking for a Machine Learning engineer with teaching and mentoring experience to play an active role in our technical efforts as well as mentoring and training other engineers.<br><br>We are assembling a quantum \u201cchip\u201d at single-atom level every second and doing Rydberg magic with lasers to run quantum circuits that aim to help customers to discover drugs faster, optimize the power grid, and at some point mining crypto. There is a data paradise for an ambitious Machine Learning Engineer to solve challenging technical problems with ML algorithms.<br><br>The position will be based in Madison, WI or Boulder, CO, with collaboration at ColdQuanta's UK offices and the quantum computing research group at the University of Wisconsin - Madison.<br><br><strong><u>About ColdQuanta<br><br></u></strong>ColdQuanta is an advanced cold-atom technology and engineering company, with scientists and engineers comprising more than 75% of its staff. ColdQuanta is a world leader in the development of quantum atomics - technology based on atoms cooled and controlled by lasers. The company has 12 years of experience developing products and systems for scientific and industrial applications including atomic clocks, inertial positioning, and radiofrequency sensing. Some of our hardware currently orbits the earth on the International Space Station. We are leveraging this deep experience in atomic systems to build a highly scalable quantum computing platform.<br><br>At ColdQuanta we benefit from our diverse team in tackling some of the hardest problems in fundamental science and engineering. ColdQuanta is proud to be an equal opportunity employer, committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or veteran status.<br><br>This position may require access to information protected under U.S. export control laws and regulations, including the Export Administration Regulations (EAR) and the International Traffic in Arms Regulations (ITAR). Please note that any offer for employment may be conditioned on authorization to receive software or technology controlled under these U.S. export control laws and regulations without sponsorship for an export license.<br><br><strong><u>Requirements<br><br></u></strong><strong>Minimum Requirements</strong> <ul><li>Statistics </li><li>Good understanding of modern Machine Learning algorithms and tools </li><li>Ability to build accurate models using the above </li><li>Ability to implement models in production with high reliability </li><li>Python </li><li>Skilled in software engineering disciplines testing, error-handling, readability, documentation, general code health, etc - Comfortable working in a Linux environment </li><li>Nice to have skills</li><ul><li>Large datasets </li><li>Physics knowledge<br></li></ul></ul><strong><u>Responsibilities<br></u></strong><ul><li>Apply reinforcement learning for tuning system to keep quantum computer performance at spec without human intervention </li><li>Implement and test solutions in production </li><li>Improve classification performance from imaging data </li><li>Optimize optimizers </li><li>Make hybrid ML/physics models optimize performance </li><li>Anomaly detection on time series analysis of hundreds of signals </li><li>Meantime between failures/interrupts analysis</li><li>Characterize drift of critical parameters</li><li>Longitudinal studies </li><li>Determine good metrics for predicting system performance<br></li></ul><u><strong>Benefits<br><br></strong></u>The budgeted salary range for this position is between $114,000/year to $150,000/year based on background and experience.<br><ul><li>Health Care Plan (Medical, Dental &amp; Vision)</li><li>Retirement Plan (401k, IRA)</li><li>Life Insurance (Basic, Voluntary &amp; AD&amp;D)</li><li>Paid Time Off (Vacation, Sick &amp; Public Holidays)</li><li>Family Leave </li><li>Stock Option Plan</li><li>Student Loan Repayment Program</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:40:47.000Z"
+  },
+  "company": {
+    "name": "ColdQuanta",
+    "link": "https://www.linkedin.com/company/coldquanta-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

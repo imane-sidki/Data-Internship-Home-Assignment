@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large-scale applications and frameworks and have outstanding communication and leadership skills.\u00a0</p><p>\u00a0</p><strong>Responsibilities</strong><ul><li>Writing clean, high-quality, high-performance, maintainable code </li><li>Develop and support software including applications, database integration, interfaces, and new functionality enhancements </li><li>Coordinate cross-functionally to insure project meets business objectives and compliance standards </li><li>Support test and deployment of new products and features </li><li>Participate in code reviews</li></ul><p><strong><br></strong></p><p><strong>Qualifications</strong></p><p><ul><li>Bachelor's degree in Computer Science (or related field) </li><li>3+ years of relevant work experience </li><li>Expertise in Object Oriented Design, Database Design, and XML Schema </li><li>Experience with Agile or Scrum software development methodologies </li><li>Ability to multi-task, organize, and prioritize work</li></ul></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:37:32.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93600,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Michigan",
+    "region": "United States",
+    "postal_code": "48832",
+    "street_address": null,
+    "latitude": 44.874798,
+    "longitude": -85.73098
+  }
+}

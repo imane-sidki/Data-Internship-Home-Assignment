@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "The Site Reliability Engineer (SRE) position requires a mix of strategic engineering and design along with hands-on, technical work. An ideal candidate will have experience in being a Systems Administrator that has moved on to DevOps/Automation in their career, and have coding skills to automate tasks and build tools to help with our service operations. The SRE will configure, tune, and troubleshoot multi-tiered systems to achieve optimal application performance, stability and availability. The SRE will work closely with the software engineers, infrastructure and network engineers to deploy and maintain our services.<br><br>Technical and Professional Expertise<br><ul><li>Demonstrated knowledge of TRIRIGA system administration, configuration, development, including lease accounting functionality and BIRT reports</li><li>Passion for problem solving</li><li>Excellent communication (written and verbal), presentation, and interpersonal skills</li><li>Professional judgement demonstrated by decision making and prioritization skills</li><li>Experience and familiarity with Tririga BOs, Form Building, Portals, Workflows Designing, Modifying State Families, Navigations and Contact Roles Setup, Tririga Business Connect, Outbound/Inbound integrations.</li><li>Experience with the IBM Tririga platform including application development (workflows and object maintenance), API integration development and support.</li><li>Ability to see and address problem trends</li><li>Self-directed and comfortable with working in a fast-paced, results-oriented, and often ambiguous environment</li><li>Take pride in your work, show focus, high attention to detail, and build quality</li><li>Critical thinking and proactive problem solving</li><li>Work with the TRIRIGA development team to answer questions and provide guidance on options of how to best implement solutions</li><li>Work with the TRIRIGA development team to determine a Level of Efforts (LOE)</li><li>Work with the business sponsor to develop test cases and answer questions</li><li>Work with the TRIRIGA development team to answer questions and provide guidance on options of how to best implement solutionsProvide users applications support for helpdesk tickets escalated to you; if needed, triage and collect more information before escalating to a project manager.</li><li>Aid IT project managers in troubleshooting, operations, testing, and implementation.</li><li>Follow-up on open tickets with users after a change has been completed to see if their issues have been resolved. Follow-up with project managers on open tickets in their queues.<br></li></ul><strong><u>Preferred Technical And Professional Expertise<br></u></strong><ul><li>Bachelor's degree in Computer Science, Management Information Systems or related discipline / equivalent experience</li><li>Operate solutions with technologies such as Java, PHP, PowerShell, RESTful API, JavaScript, Bash Script, IBM Tririga, Apache, IIS, OKTA SSO, Service-now, and PHP.</li><li>Experience with IBM TRIRIGA</li><li>Knowledge of SRE</li><li>Knowledge of DEVOPS</li><li>Knowledge of Agile practices</li></ul>JPMorgan Chase &amp; Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.<br><br>We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.<br><br>Equal Opportunity Employer/Disability/Veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T14:36:44.000Z"
+  },
+  "company": {
+    "name": "JPMorgan Chase &amp; Co.",
+    "link": "https://www.linkedin.com/company/jpmorganchase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

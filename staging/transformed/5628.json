@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "I am hiring #DataScientist in #Seattle WA for a renowned #pharmaceutuical client.<br><br>Qualification and Experience:<br>\u2022\tBS degree with 4+ years of experience, a M.Sc. degree with 2+ years of experience or a recent PhD in Statistics, Biostatistics, Computer Science, Bioinformatics or similar fields<br>\u2022\tStrong desire to learn with an interest in immuno-oncology and cellular therapy<br>\u2022\tExperienced in interdisciplinary collaborations at the interface of data science and life sciences<br>\u2022\tProficient in good coding practices<br>\u2022\tCommand of data science stack of tools: R/Python, notebooks and git<br>\u2022\tExperience with R Shiny, Dash, Plotly, Streamlit, or other reactive visualization framework<br>\u2022\tExperience with APIs, or ability to quickly learn how to use them (e.g., R httr or Python requests)<br>\u2022\tExperienced in data visualization and analytics<br>\u2022\tExperienced in setting up data workflows that interface with diverse ecosystem of data platforms and APIs<br>\u2022\tComputing proficiency: Base knowledge of Linux OS and interaction with cloud-resources particularly AWS<br><br>Preferred: <br>\u2022\tExperience with practicing Agile<br>\u2022\tPreferred: Experience with clinical data practices and standards<br>\u2022\tPreferred: Experience working with omics and/or flow cytometry data<br>\u2022\tPreferred: Experience with CI/CD framework and SQL<br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T22:30:58.000Z"
+  },
+  "company": {
+    "name": "ACS Solutions",
+    "link": "https://www.linkedin.com/company/acs-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

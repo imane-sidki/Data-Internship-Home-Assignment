@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Defense & Space,Information Technology and Services,Electrical/Electronic Manufacturing",
+    "description": "<strong><u>The Optimal Candidate Will Be Responsible For<br><br></u></strong>The Naval Nuclear Laboratory is seeking a Data Scientist to join a team dedicated to collecting and transforming data from the Naval Nuclear fleet for analytics throughout the Laboratory.<br><ul><li>Presenting in-depth analysis in a clear and concise manner with a data-oriented approach to problem solving and decision making.</li> <li>Building predictive models to characterize various systems.</li> <li>Processing, refining, and verifying the integrity of data used for analysis.</li> <br></ul>The Data Scientist will display great collaboration and interpersonal skills, both written and verbal through leading improvement projects and providing regular updates to the organization. Preferred skills include<br><ul><li>Good scripting and programming skills, experience in Python, and R.</li> <li>Experience with data visualization packages, such as Tableau, SAS, and Rstudio.</li> <li>Understanding of machine-learning and its applications.</li> <li>Proficiency in working with databases.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:28:22.000Z"
+  },
+  "company": {
+    "name": "Naval Nuclear Laboratory (FMP)",
+    "link": "https://www.linkedin.com/company/naval-nuclear-laboratory-bmpc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81800,
+    "max_value": 111000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Niskayuna",
+    "region": "NY",
+    "postal_code": "12008",
+    "street_address": null,
+    "latitude": 42.805782,
+    "longitude": -73.896965
+  }
+}

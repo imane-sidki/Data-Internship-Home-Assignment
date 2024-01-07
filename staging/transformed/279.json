@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Infrastructure Software Engineer",
+    "industry": "Construction,Machinery",
+    "description": "<strong><u>Career Area<br><br></u></strong><strong>Description<br><br></strong>Engineering<br><br><strong><u>Job Description<br><br></u></strong><strong>Your Work Shapes the World<br><br></strong>Whether it be groundbreaking products, best in class solutions or creating a lifelong career, you can do the work that matters at Caterpillar. With a 95-year legacy of quality and innovation and 150 locations in countries around the world, your impact spans the globe.<br><br>When you join Caterpillar, you are joining a team of makers, innovators and doers. We are the people who roll up our sleeves and do the work to build a better world. We don\u2019t just talk about progress and innovation. We make it happen. And we are proud of that, because it helps our customers build and power the world we live in \u2013 the roads, hospitals, homes and infrastructure. Without a dedicated workforce Caterpillar could not effectively meet our customer\u2019s needs. Join us.<br><br><strong><u>Summary<br><br></u></strong>As a Machine Learning Infrastructure Engineer, you will be responsible for developing and deploying a robust full-stack pipeline that can support various perception/planning/prediction projects. In this role, you will build up various tools that will optimize efficiency when working with large data sets. This includes developing Data Stores, implementing Data Visualization utilities, and deriving quantifiable metrics to support the Machine Learning pipeline. Your actions will directly contribute to the development of safer, more efficient machines for Caterpillar's customers. Basic qualifications includes building and supporting the tools, scripts, and processes for managing data and training pipelines for machine learning.<br><br><strong><u>Description<br><br></u></strong>As a Machine Learning Infrastructure Engineer, you will be responsible for developing and deploying a robust full-stack pipeline that can support various perception/planning/prediction projects. In this role, you will build up various tools that will optimize efficiency when working with large data sets. This includes developing Data Stores, implementing Data Visualization utilities, and deriving quantifiable metrics to support the Machine Learning pipeline. Your actions will directly contribute to the development of safer, more efficient machines for Caterpillar's customers. Basic qualifications includes building and supporting the tools, scripts, and processes for managing data and training pipelines for machine learning.<br><br><strong><u>Responsibilities Will Include Creating Tools, Scripts, And Process For<br><br></u></strong>Extracting, processing, and organizing raw data (images, lidar)<br><br>Submitting images to external vendors for annotation<br><br>Retrieving image annotations from external vendors<br><br>Normalizing and integrating these annotations into our infrastructure.<br><br>Providing basic analytics, such as total number of datasets, frames, and annotations.<br><br>Interactive ML dataset creation and management.<br><br>Support for data visualization tools<br><br>ML model training, evaluation, and deployment.<br><br><strong><u>Basic Qualifications<br><br></u></strong>Bachelors in Computer Science, Engineering, Mathematics, or an equivalent discipline<br><br>3+ years experience in ML pipeline development/setup/maintenance<br><br>AWS S3 and SageMaker<br><br>Experience in Linux environments<br><br>Scala and scripting languages<br><br>Python and creating/managing Jupyter notebooks<br><br>Docker/containers<br><br>Database configuration, scripting<br><br><strong>Top Candidates will also have<br><br></strong>Masters in Computer Science, Engineering, Mathematics, or an equivalent discipline<br><br>Familiarity with ROS<br><br>Experience with Node.js and React<br><br>Exposure to with ML/deep learning, computer vision, perception algorithms<br><br>Experience working with data annotation vendors<br><br>Experience integrating with CI/regression testing frameworks<br><br><strong><u>Additional Information<br><br></u></strong>The location for this position is Mossville, IL or San Francisco, CA<br><br>Relocation assistance is not available for this position. Any relocation costs would be incurred by the selected candidate<br><br>This position may require less than 10% travel<br><br><strong>Employee benefit details<br><br></strong>Our goal at Caterpillar is for you to have a rewarding career. Our teams are critical to the success of our customers who build a better world.<br><br>Here you earn more than just a salary because we value your performance. We offer a total rewards package that provides benefits on day one (medical, dental, vision, RX, and 401K) along with the potential of an annual bonus.<br><br>Additional benefits include paid vacation days and paid holidays (prorated based upon hire date).<br><br><strong>Final details<br><br></strong>Please frequently check the email associated with your application, including the junk/spam folder, as this is the primary correspondence method. If you wish to know the status of your application \u2013 please use the candidate log-in on our career website as it will reflect any updates to your status.<br><br><em>This employer is not currently hiring foreign national applicants that require or will require sponsorship tied to a specific employer, such as H, L, TN, F, J, E, O. As a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at </em><em>www.Caterpillar.com/Careers</em><em>.<br><br></em>For more information, visit caterpillar.com. To connect with us on social media, visit caterpillar.com/social-media<br><br>EEO/AA Employer. All qualified individuals - Including minorities, females, veterans and individuals with disabilities - are encouraged to apply.<br><br>Not ready to apply? Submit your information to our Talent Network here.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T05:36:37.000Z"
+  },
+  "company": {
+    "name": "Caterpillar Inc.",
+    "link": "https://www.linkedin.com/company/caterpillar-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96400,
+    "max_value": 186000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

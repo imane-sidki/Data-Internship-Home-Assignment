@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising",
+    "description": "<p><strong>The Role<br><br></strong></p> <p>Jellyfish delivers digital marketing solutions across the world for a host of impressive brands from offices across five continents. Our award-winning combination of technology and talent help us deliver paid media, UX, SEO, social media, analytics, optimization, creative, and development solutions<br><br></p> <p>We have an exceptional opportunity for an ambitious and talented Data Scientist to join our team and assist in the Machine Learning and Artificial Intelligence applications that Jellyfish uses to drive thought leadership, innovate, and transform solutions and services for our clients. <br><br></p> <p>As a data scientist, you will work in a fast-paced cross-functional team interacting with a wide range of stakeholders. You will wrangle large and messy datasets of structured and unstructured data, build and implement models and algorithms, and design and run experiments to optimize media and customer experience. The ideal candidate will have a relentless curiosity about various business problems and a passion for inventing data-based solutions to those challenges. <br><br></p> <p><strong>Responsibilities<br><br></strong></p><br><ul> <li>Analyze data to discover hidden trends; deliver insights and analysis with clear recommendations</li> <li>Design, build, and implement predictive models and algorithms to improve and optimize media performance, customer experiences, revenue generation, and other business outcomes</li> <li>Build well-managed data solutions, tools, and innovative prototypes to enable self-service frameworks </li> <li>Deliver effective presentations of findings and recommendations to technical and non-technical stakeholders</li> <li>Document analytics projects in a manner that ensures specific processes can be replicated and scaled across an organization</li> <li>Collaborate with multiple teams and stakeholders in an agile, fast-paced, dynamic, and entrepreneurial environment</li> <br></ul><p>Requirements:<br><br></p><p><strong>Knowledge and Experience<br><br></strong></p><br><ul> <li>BS in Science, Technology, Engineering, Mathematics discipline</li> <li>Experience in data science and machine learning</li> <li>Demonstrated experience and knowledge of Machine Learning, e.g.: linear/logistics regression, random forest, and neural networks, etc.</li> <li>Hands-on experience in one of the machine learning frameworks, such as Scikit-Learn, TensorFlow, or Spark MLlib.</li> <li>Programming proficiency in Python or R</li> <li>Proficiency in manipulating large relational databases using SQL</li> <li>Experience with big data technologies and cloud platforms, such as GCP, AWS, or Azure, etc. </li> <li>Experience in analyzing media and web data, such as Google Ads, Campaign Manager, Facebook, and Google Analytics</li> <li>Experience with visualizing data using: Matplotlib, ggplot, D3JS, Looker, or Tableau</li> <li>Exhibit a drive to learn and master new knowledge and technologies</li> <li>Demonstrable skills in creative problem solving with strong attention to detail</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:30:48.000Z"
+  },
+  "company": {
+    "name": "Jellyfish",
+    "link": "https://uk.linkedin.com/company/jellyfishglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Baltimore",
+    "region": "MD",
+    "postal_code": "21226",
+    "street_address": null,
+    "latitude": 39.290443,
+    "longitude": -76.612335
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer in Test",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, we work every day to create products that enrich people\u2019s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. <br><br><br>Our technology and services power advertising in Apple News and Search Ads in App Store. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy!<br><br><br>We are looking for an engineer with skills and passion to help build out our large scale platform. The QE team fills the mission-critical role of ensuring that our complex, large-scale systems are healthy, monitored, automated, and designed to scale with consistent performance. As an engineer, you will work alongside our team of engineers to build and monitor quality data systems in the context of a micro-services architecture, identify continuous improvement opportunities and implement best practices. You will be performing design engineering analysis and development. You will contribute to ensure we provide a world-class user experience <br><br><br>Apple ad-platforms engineering is looking for functional, end to end, and resiliency testing of data platform components designed to work and scale on hybrid cloud environment. <br><br><br>The role here would be taking ownership of platform components in terms of functional and reliability testing to validate that the platform is stable and serve the requirements without any downtime.<br><br> <br><strong>Key Qualifications<br></strong> <br>8+ years writing test plans, defining test strategy, test data generation techniques and designing test specifications to test data products<br><br>Ability to work with agile methodology, experience in driving and delivering high quality products to production<br><br>Cloud testing of AWS stack of components (EMR, S3, IAM integration) and deploying using Terraform. Testing infrastructure as code for provisioning the cloud based components is required for this role<br><br>Experience with technologies like Hadoop, Oracle, Cassandra, Hive, Kafka messaging is ideal<br><br>High expertise in building test frameworks along with functional testing and end to end automation skills using Java/Python<br><br>Experience in working with maven, Gradle with scripting knowledge<br><br>Excellent analytical, problem solving and communication skills<br><br>Experience with Github, defect management and continuous automation is ideal <br><br>CI/CD Jenkin integration experience<br><br> <br><strong>Description<br></strong> <br>As a key contributor on this team, you will build and maintain Automation Frameworks in addition to developing tools to aid Continuous Integration/Delivery. You will work efficiently with cross-functional teams, understand product requirements, design test strategy and dive deep to understand and test machine-learning algorithms and pipelines. You are expected to build the product expertise needed to help debug production issues and integrate with monitoring infrastructures.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS degree in Computer Science or equivalent practical experience<br><br> <br>Role Number: 200212573<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:33.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

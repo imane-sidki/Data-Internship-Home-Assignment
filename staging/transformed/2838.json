@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Financial Services,Computer Software,Internet",
+    "description": "The Opportunity<br><br>Digits is hiring passionate, collaborative, customer-driven engineers who share in our belief that modern business software can be intelligent, fast, fluid, beautiful, and even joyful to use.<br><br>We believe that small businesses everywhere deserve the same cutting-edge technology that is currently available only to the largest tech companies, and that recent advances in deep learning have unlocked a new chapter in financial software and business operations.<br><br>We leverage state-of-the-art deep learning to solve critical customer problems, while investing heavily in seamless, automated MLOps infrastructure to allow our ML engineers to stay focused on innovative projects. We prioritize a high-ownership, low-overhead approach to machine learning, where you'll be expected to build, launch, and operate ML projects end-to-end.<br><br>Our team has experience shipping products at massive scale, with backgrounds at Crashlytics, Twitter, Google, Airbnb, and many others, and we're constantly learning and exploring new technologies and techniques in our quest to ship amazing business software powered by machine learning.<br><br><strong><u>What You'll Bring<br></u></strong><ul><li>2+ years of experience developing and training models in either PyTorch or TensorFlow</li><li>Proficiency with deploying and maintaining machine learning models in production</li><li>Proficiency with Transformer models and/or Natural Language Processing</li><li>Proficiency with relational databases and SQL</li><li>Proficiency with Natural Language Processing, Transformer models and/or Embedding Generation</li><li>Familiarity with test-driven development </li><li>Familiarity with Git and GitHub</li><li>Familiarity with Google Cloud or AWS machine learning products</li><li>Desire to work remotely full-time (from home or a co-working space)</li><li>Excellent spoken and written communication skills (English)</li><li>Obsession for delighting customers<br></li></ul><strong><u>Nice-to-haves<br></u></strong><ul><li>Experience in one or more areas: Knowledge Graphs, Probabilistic ML, ML Privacy, Semi-Supervised Model Training, MLOps</li><li>Familiarity with Kubernetes or container orchestration</li><li>Familiarity with TensorFlow Extended, Kubeflow Pipelines or other MLOps tooling</li><li>Educational background in machine learning or artificial intelligence</li><li>Experience with or interest in analytics dashboards</li><li>Experience with or interest in finance/accounting<br></li></ul>Get in touch!<br><br>If you're excited to push the bounds on what people imagine financial software can be, we'd love to talk!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T23:13:10.000Z"
+  },
+  "company": {
+    "name": "Digits",
+    "link": "https://www.linkedin.com/company/digits-financial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

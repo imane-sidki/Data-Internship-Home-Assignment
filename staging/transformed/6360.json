@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness,Medical Practice,Hospital & Health Care",
+    "description": "<strong>Work That Matters </strong>- Our work is 24 hours a day, 365 days a year.<br><br>No one has more expertise treating children than Children's Hospital Los Angeles. CHLA is the only children's hospital in California to make the prestigious U.S. News &amp; World Report Honor Roll of \"Best\" children's hospitals, and is nationally ranked in all 10 pediatric specialties.<br><br>Join a hospital where the work you do will matter\u2014to you, to your colleagues, and above all, to our patients and families. At times the work may be challenging, but it is always rewarding. We hope you\u2019ll come and find out for yourself.<br><br><strong>It\u2019s <em>Work That Matters</em>.<br><br></strong>The Data Scientist conducts research in medical applications of data science by applying techniques and models from machine learning and computational statistics to large amounts of clinical data.<br><br>In consultation with senior technical members of the team, designs and executes research and development projects and experiments, using advanced computational techniques to generate novel medical insights and to build clinical decision support systems.<br><br>Additional information about the team and previous projects can be found at http://vpicu.net/<br><br><strong>Minimum Qualifications/Work Experience: </strong>Bachelor\u2019s Degree in a Stem field <strong>and</strong> 2+ years\u2019 experience conducting research in computer science, statistics, or algorithm development or MS/PhD in Stem field Publications are a plus.<br><br><strong>Education/Licensure/Certifications: </strong>B.S in Computer Science, Statistics, Physics, Electrical Engineering, or related field. M.S. in Computer Science, Statistics, Physics, Electrical Engineering, or related field. Ph.D. preferred. Graduate-level coursework in machine learning, data mining, visualization, statistics, artificial intelligence, probabilistic models, or optimization.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T03:14:53.000Z"
+  },
+  "company": {
+    "name": "Children's Hospital Los Angeles (CHLA)",
+    "link": "https://www.linkedin.com/company/children%27s-hospital-los-angeles-chla"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 87800,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Glendale",
+    "region": "CA",
+    "postal_code": "91205",
+    "street_address": null,
+    "latitude": 34.148136,
+    "longitude": -118.24644
+  }
+}

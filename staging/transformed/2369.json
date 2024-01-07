@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote- Principal Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Principal Site Reliability Engineer</strong></p><p><strong>***Can be located anywhere in the US</strong></p><p><br></p><p>Are you interested in building large-scale distributed infrastructure for the cloud? HCGBU \u2013 Delivery Platform team is building new Software-as-a-Service technologies that operate at high-scale in a broadly distributed, multi-tenant cloud environment. Oracle\u2019s extensive enterprise customer base is looking for rock solid cloud solutions that provide the same reliability and effectiveness that they have come to expect from Oracle.</p><p>Our customers run their businesses on our cloud, and our mission is to provide them with best in class, foundational cloud services. Oracle's Cloud team is being built with an entrepreneurial spirit that promotes an energetic, creative, and collaborative environment; while ensuring that employees are supported in their career goals and have opportunities for training and education. We appreciate and value commitment to family and enthusiastically encourage work / life balance.</p><p><strong>What we\u2019re looking for:</strong></p><p>We are looking for a Site Reliability Engineer to join the HCGBU \u2013 Delivery Platform team. The ideal candidate is technically strong, and able to persevere through complexity and ambiguity \u2013 They\u2019ve directly worked on services that are highly available, scalable, and redundant. Automation is a core tenet for everything they do. They understand that simple systems are easier to operate and troubleshoot. They can balance speed with iteration and incremental improvements. They\u2019ve made life easier for other developers and have motivated their teams to make both process and service improvements.</p><p>If you are passionate about taking ownership of big technical challenges and producing software solutions that have broad, significant impacts - come join our team!</p><p>Candidates should have broad working knowledge across multiple domains, but we love to see specialization as well. The basics we expect are: Networking, Linux Systems Engineering, Software Engineering/Automation, Database Services (big data technologies) and Distributed Systems.</p><p><strong>In this role, you will:</strong></p><p>As a Site Reliability Engineer (SRE), within the HCGBU \u2013 Delivery Platform team, you will assist in designing and maintaining hosting, process, transform, and analyze operational processes. Your first mission will be to work closely with our software developers and Cloud architects to define a sustainable operational model for HCGBU services. This includes mechanisms to scale the systems by way of easy-to-use tooling and automation. You will work in concert with developers to evolve systems/products for better scalability, reliability and enable developer velocity. You will also author and maintain operational run books to help reduce mean Time of Incidents (TOI), and be responsible for managing and triaging operational tickets pertaining to the data platform services. Emphasis on driving prioritization and execution of work based on business impact is a must.</p><ul><li>Solve complex problems related to infrastructure cloud services and build automation to prevent problem recurrence.</li><li>Design, write, and deploy software to improve the availability, scalability, and efficiency of Oracle products and services.</li><li>Develop designs, architectures, standards, and methods for large-scale distributed systems.</li><li>Design, implement and integrate monitoring solutions to pursue the high reliability.</li><li>Investigate and implement approaches which makes system high alliable and fault tolerant.</li><li>Facilitate service capacity planning and demand forecasting, software performance analysis, and system tuning.</li><li>Work with other engineers within the HCGBU \u2013 Delivery Platform team on the shared full stack ownership of a collection of services and/or technology areas. Understand the end-to-end configuration, technical dependencies, and overall behavioral characteristics of production services.</li><li>Articulate technical characteristics of services and technology areas and guide development teams to engineer and add capabilities to internal Oracle services.</li><li>Act as ultimate escalation point for complex or critical issues that have not yet been documented as Standard Operating Procedures (SOPs).</li><li>Utilize a deep understanding of service topology and the dependencies required to troubleshoot issues and define mitigations.</li><li>Understand and explain the effect of product architecture decisions on distributed systems.</li><li>Serve as part of a 24x7 On Call rotation in support of the HCGBU \u2013 Delivery Platform.</li><li>Professional curiosity and a desire to a develop deep understanding of services and technologies.</li></ul><p><strong>Mandatory Qualifications:</strong></p><ul><li>Bachelor\u2019s or Master\u2019s degree in Computer Science or equivalent related field experience</li><li>Experience with Python, Ruby, bash, and other scripting programming</li><li>Experience working with fault tolerant, highly available, high throughput, distributed, scalable systems</li><li>Aptitude to be a good team player and the desire to learn and implement new Cloud technologies as needed</li><li>Excellent organizational, verbal, and written communication skills</li></ul><p><strong>Preferred Qualifications:</strong></p><ul><li>5+ years of experience in two or more of the following</li><li>Software development/operations</li><li>Developing/operating large scale distributed services/applications</li><li>System Administration including Linux internals, TCP/IP, DNS, Load balancing technologies</li><li>Container administration and development utilizing Kubernetes, Docker, Mesos, or similar</li><li>Infrastructure automation through Terraform, Chef, Ansible, Puppet or similar</li><li>Big Data Infrastructure including Hadoop, Spark, NoSQL, Object Storage, or similar</li><li>Experience with TCP/IP and socket programming</li><li>Knowledge of cloud compute technologies, network monitoring, data processing and analytics</li><li>Experience with CI/CD pipelines</li><li>Proficiency in working with git</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T13:15:19.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Ad Platforms",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, we work every day to create products that enrich people\u2019s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Today, our technology and services power advertising in Search Ads in the App Store and Apple News. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. <br><br><br>We are looking for an aspiring and ambitious individual who can thrive in a fast paced agile environment and work at the bleeding edge of ML and privacy frameworks. Our group is developing next generation of Ad Tech technology with a strong focus on user privacy and in the process it is redefining the industry. For end-users, we aim to provide high privacy guarantees and for advertisers we want to enable new mechanisms to build effective campaigns. This position involves working on large volumes of data, identifying meaningful data patterns, assuring the integrity and breadth of the data, measuring user, campaign and app performance, and finally analyzing the results of extremely large-scale experiments. The role involves using state of the art language models, collaborative filters and dense representations. In addition, the successful candidate will also apply advanced ML techniques for federated learning where privacy mechanisms are safeguarded at the very onset and delightful relevance experiences are built by applying encryption techniques, on-device segmentation, advanced language models, ranking algorithms by utilizing the best of aggregated server and on-device data.<br><br> <br><strong>Key Qualifications<br></strong> <br>3+ years relevant experience in in Algorithms, Artificial Intelligence, Distributed Systems, Machine Learning, Data Science or Statistics<br><br>Building language models, collaborative filtering and using cutting edge modeling techniques to solve hard Deep Learning problems <br><br>You should have experience in software development using a general purpose programming language (e.g., Python, Java, C/C++, C#, Objective-C, and/or Swift)<br><br>Previous experience working in any of the following:   Privacy preserving machine learning algorithms such as Differential Privacy; Developing Risk models for Ad Fraud and Spam Detection; Developing Anomaly Detection models; Building deep representations based on language modeling &amp; collaborative filtering; Developing audience segmentation models, attribution or lift models; Developing ML approaches, features for supporting search relevance &amp; advertising performance<br><br>Ability to design and implement both independently and with larger teams<br><br>Closely working with operational teams on deployment, monitoring, model retrain and other aspects of MLOps<br><br>Experience in distributed machine learning architectures and/or federated learning<br><br>Any previous experience working with a public cloud infrastructure such as GCP, Azure or AWS is an added advantage<br><br> <br><strong>Description<br></strong> <br>You will have the opportunity to work on a platform with extreme scale and performance requirements. You would be applying your skills to work across the stack to develop, test, deploy and maintain ML based software solutions. Develop machine learning models using relevant frameworks such as TensorFlow and PyTorch. Implement and adapt deep learning network architectures, such as CNN and RNN. You would participate in cutting edge research in artificial intelligence and machine learning applications.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>MS or PhD in Computer Science, Electrical Engineering or other STEM fields<br><br>Interest and ability to invest in continual learning of new technical and soft skills<br><br> <br>Role Number: 200244242<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-28T17:18:41.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

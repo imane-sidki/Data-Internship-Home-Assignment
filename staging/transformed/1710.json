@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "The xCloud Team (Xbox Game Streaming) is growing a team focused on using its server hardware to run alternative cloud workloads. The team is looking for a Senior Software Engineer with strong C++ skills, that is passionate about authoring and debugging native components running all over an Operating System, from user mode to kernel mode.<br><br>Cultivating a positive and inclusive culture is a top priority on the xCloud Team. We strive to be the team of choice, consistently learning and growing to ensure all members feel valued, supported, and empowered to do their best work.<br><br>Join xCloud and bring your unique skills, perspective and passion to your team and the broader org. Even if your experience is not an exact fit, there is a lot of flexibility to learn and grow in this role, so apply anyways!<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Drive significant feature development with relevant partner teams</li><li>Investigate, diagnose, and fix product issues in development and production</li><li>Contribute to an inclusive, creative, high-performance problem-solving team culture</li><li>Reliably deliver high quality, testable, measurable, and reliable code in a production setting</li><li>Coach, mentor, and grow junior team members<br><br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>5+ years of professional C/C++ coding experience</li><li>Comfortable debugging in a multi-process environment with a kernel debugger</li><li>Excellent skills in design, debugging, and problem solving</li><li>Great communication abilities<br><br></li></ul>Highly valued<br><ul><li>Professional experience coding/debugging kernel or driver changes (Windows or Linux)</li><li>Experience with container workloads and container runtimes.<br></li></ul>Passionate about video games<br><br>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:03:35.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

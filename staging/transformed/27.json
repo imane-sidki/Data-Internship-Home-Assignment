@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong><u>Responsibilities </u></strong></p><p>\u2022 Analyzing, designing, developing, implementing and maintaining automation code.</p><p>\u2022 Developing automation framework as per customer requirements in C# .Net and leveraging Microsoft tools and technologies like PowerShell, Visual Studio, Git.</p><p>\u2022 Own independently functional testing, test infra setup,test case management, defect management and test results analysis of SCCM product features.</p><p>\u2022 Strong communication skills: should be able communicate complex information to technical and non-technical stakeholders.</p><p>\u2022 Daily and weekly reporting to customer stakeholders.</p><p></p><p><strong>SKILLS:-  </strong></p><p><strong>Need experienced SDET (2 to 3 years)</strong></p><p>\u00b7C# coding, .NET framework, SQL.</p><p>\u00b7Knowledge on PowerShell or any scripting.</p><p>\u00b7System/Application Testing experience.</p><p>\u00b7Experience on Microsoft technologies like Domain Controller, Role &amp; Features, AD etc.,</p><p>\u00b7Knowledge on Visual Studio, GIT or any other version control tool.</p><p>\u00b7SCCM knowledge will be a plus. Experience in installing various Operating system with good knowledge of Networking concepts, HyperV, Virtualization.</p><p></p><p><strong><u>Education:</u></strong></p><p>MS in computer science or Equivalent degree</p><p></p><p><strong>ABOUT MINDTREE</strong></p><p>Mindtree delivers digital transformation and technology services from ideation to execution, enabling Global 2000 clients to outperform the competition. \u201cBorn digital,\u201d Mindtree takes an agile, collaborative approach to creating customized solutions across the digital value chain. We are co-headquartered in Bangalore, India and New Jersey.</p><p>Founded in 1999, we are now 16,000+ Mindtree Minds across the globe. Our annual revenue crossed $780+ million in 2016-17. Mindtree provides services in e-commerce, mobile applications, cloud computing, digital transformation, data analytics, EAI and ERP, with more than 290 clients and offices in 14 countries.</p><p>Visit http://careers.mindtree.com for more details</p><p></p><p><strong>Mode of Hiring</strong></p><p></p><p>Full time</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:40:22.000Z"
+  },
+  "company": {
+    "name": "Mindtree",
+    "link": "https://in.linkedin.com/company/mindtreeltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62300,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

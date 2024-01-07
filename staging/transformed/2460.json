@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (remote)",
+    "industry": "",
+    "description": "<p><em>This job is 100% remote - work from anywhere in the world.</em> </p> <p><br> </p> <p>Phaidra is building the future of industrial automation. </p> <p>We create hyper-intelligent and configurable control systems for the industrial sector, using AI as the core enabling technology. Specifically: </p> <ul> <li>The intelligence is provided by reinforcement learning algorithms, which convert raw sensor data into high-value actions and decisions. </li> <li>We focus on industrial applications, which tend to be well-sensorized with measurable KPIs \u2014 perfect for reinforcement learning. </li> <li>We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them. </li> </ul> <p>Our team has a track record of applying AI to some of the toughest problems. From AlphaGo to Google's Data Centers, we know AI and how to apply it in production. </p> <p> </p> <p>Phaidra is looking for a driven Site Reliability Engineer to be a part of our engineering team. You are bold and creative, and have deep empathy for customers who may not be tech-savvy. You will work directly with our Infrastructure lead to build and maintain world class infrastructure. You will have the opportunity to make an immediate impact with your work and guide the product and team as we grow. </p> <p><br> </p> <p><strong>Responsibilities</strong> </p> <p><br> </p> <p>The ideal candidate has expertise building and managing cloud infrastructure on AWS, GCP or Azure and has good knowledge of Docker &amp; Kubernetes. Your responsibilities will include flavors of Infrastructure Engineering, MLOps, SRE and DevOps. As an Infrastructure Engineer, it will be expected of you to be an Individual Contributor (IC) in the infrastructure team. </p> <ul> <li>You will help build and maintain infrastructure for: <ul> <li>Large-scale data ingestion and processing. </li> <li>Distributed model training, evaluation and inference. </li> <li>Automating the end-to-end system for continuous improvement and deployment. </li> </ul> </li> <li>You will work with cloud services like AWS, Azure, GCP. </li> <li>You will work with Cloud Native technologies like Kubernetes and Kubeflow. </li> <li>You will help build CI/CD pipelines and take part in DevOps duties. </li> <li>You will apply SRE principles for monitoring, automation and change management. </li> <li>You will write and maintain tooling and documentation for infrastructure, supported applications and processes. </li> <li>Build and maintain cross-functional relationships with internal teams to drive initiatives. </li> <li>Participate in general IT operations and support. </li> </ul> <p><br> </p> <p><strong>Key Qualifications</strong> </p> <p><br> </p> <ul> <li>Bachelors or Masters in Computer Science. </li> <li>Proven experience automating Cloud and Networking infrastructure on AWS, GCP or Azure. </li> <li>Good understanding of Linux-based Operating Systems, Containerisation and Orchestration technologies like Docker and Kubernetes. </li> <li>Experience with Terraform or other configuration management tools like Jsonnet, Kapitan, Helm or Kustomize. </li> <li>Experience with Monitoring stacks such as Prometheus, Influx, Stackdriver or Zabbix. </li> <li>Programming experience, ideally with Python, Go or Bash scripting. </li> <li>Good understanding of DevOps and SRE principles. </li> <li>Share our company values: curiosity, ownership, transparency &amp; directness, outcome-based performance, and customer empathy. </li> </ul> <p><br> </p> <p><strong>Preferred Skills &amp; Experience</strong> </p> <p><br> </p> <ul> <li>Expertise with multi and hybrid cloud environments. </li> <li>Expertise with some parts of our tech stack is a big plus. </li> <li>Experience in automating scalable multi-tenant systems architectures with high availability, fault tolerance, performance tuning, monitoring, and statistics/metrics collection. </li> </ul> <p><br> </p> <p><strong>Our Stack</strong> </p> <p><br> </p> <ul> <li>Python, Go </li> <li>Docker, Kubernetes, Terraform </li> <li>GCP, AWS </li> <li>Kafka / Kinesis </li> <li>PyTorch </li> <li>Apache Beam, Dataflow, Kubeflow </li> <li>Postgres, BigTable </li> <li>REST &amp; gRPC microservices </li> </ul> <p><br> </p> <p><strong>Benefits &amp; Perks</strong> </p> <p><br> </p> <ul> <li>Fast-paced and team-oriented environment where you will be instrumental in the direction of the company. </li> <li>Phaidra is a 100% remote company - work from anywhere! </li> <li>Competitive compensation &amp; early equity. </li> <li>Outsized responsibilities &amp; professional development. </li> <li>Training is foundational; functional, customer immersion, and development training. </li> <li>Medical / Dental / Vision (based on region). </li> </ul> <p><br> </p> <p><strong>On being Remote</strong> </p> <p><br> </p> <p>We are thoughtful about remote collaboration. We look to the pioneers - like Gitlab - for inspiration and best practices to create a stellar remote work environment. We have a documentation first culture and actively practice asynchronous communication in everything we do. We are deliberate about documenting and living our values - of which accessibility, transparency, and agility are key. Our team stays connected through tools like Slack and Video Chat. We meet daily and have dedicated all-hands meetings to build strong relationships. We hold virtual team building events - and even hold virtual socials to watch rocket launches! We will have in-person All-Hands meetings twice a year once travel opens back up too. </p> <p><br> </p> <p><strong>Equal Opportunity Employment</strong> </p> <p><br> </p> <p>Phaidra is an Equal Opportunity Employer; employment with Phaidra is governed on the basis of merit, competence, and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T01:22:56.000Z"
+  },
+  "company": {
+    "name": "Phaidra",
+    "link": "https://www.linkedin.com/company/phaidra-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

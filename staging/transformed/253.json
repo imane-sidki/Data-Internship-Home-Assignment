@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Defense & Space,Computer Software",
+    "description": "AINS has an exciting opening for a <strong>Machine Learning Engineer</strong> specializing in designing, developing, and deploying AI models.<br><br>We are looking for an AI/ML engineer with a specialization in NLP based applications to join a team of data scientists in designing and developing advanced technology-based solutions for contract research and development projects, and then applying these solutions to the design and deployment of mission-focused systems.<br><br>The <strong>Machine Learning Engineer</strong> will work with a team of system engineers to help design subsystems and components. Work with other senior data scientists to expand on existing AI/ML models and to evaluate third party services.<br><br><strong>C</strong><strong> urrently all staff are telecommuting for the foreseeable future <br><br></strong><strong><u>Required Skills<br></u></strong><ul><li>Relevant experience in building end-to-end Natural Language Processing Applications</li><li>Hands-on experience with: data modeling and data engineering, feature engineering, model lifecycle management, and cloud infrastructure; supervised and unsupervised deep learning algorithms such as convolutional neural networks (CNNs), recurrent neural networks (RNNs) like Gated Recurrent Units(GRUs) and Long-Short Term Memory (LSTMs); and working in data analysis, modeling, and visualization packages in Deep Learning Frameworks like TensorFlow, Keras and Pytorch; and developing or integrating analytics in programming languages such as Python</li><li>Experience with the following Python Libraries extensively: Numpy, scipy, scikit-learn, pandas, opencv, matplotlib/seaborn</li><li>Experience using Python NLP toolkits like spacy, NLTK and Stanza<br></li></ul><strong><u>Additional Required Skills<br></u></strong><ul><li>Supervised Learning - Linear and Logistic Regression, KNN, SVMs, Decision Trees, Random Forests, Gradient Boosting,</li><li>Unsupervised Learning Clustering Algorithms like K-means, Gaussian Mixture Model</li><li>Basics of Linear Algebra, Calculus</li><li>Back propagation, Loss, cost, accuracy, Gradient Descent, Batching, Variance/Bias Tradeoff, regularization, Hyper parameter tuning, Dimensionality Reduction</li><li>Sentence and Document Level Embeddings, word2vec, bag-of-words model</li><li>Knowledge of Auto-encoders, GANs, Attention models and Reinforcement Learning is a plus<br></li></ul><strong><u>Education<br></u></strong><ul><li>A degree in engineering, computer science, data science, or a related discipline, such as statistics or applied mathematics.<br></li></ul><strong><u>Clearance<br><br></u></strong><strong>US Citizen with an active or interim secret clearance<br><br></strong>SDL2019-128",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-14T06:59:57.000Z"
+  },
+  "company": {
+    "name": "AINS, Inc.",
+    "link": "https://www.linkedin.com/company/ains_inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

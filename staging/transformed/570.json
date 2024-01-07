@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Insurance,Financial Services",
+    "description": "At DealerPolicy, we're changing the way people shop for insurance through technology. We focus on collaboration, integrity, creativity and being a part of a team that finds passion and energy within our people. We strive to create autonomous product development teams aligned to solve complex technical problems needed to achieve our collective company goals. Through our \"internal open-source\" model it allows our engineers the ability to contribute to any aspect of the DealerPolicy Insurance Distribution Platform. We've built an award-winning product using modern technologies and have been named one the best Tech Startup in VT according to Tech Tribune, along with \u201cAgent of the Future\u201d award from Liberty Mutual and \u201cAgent of the Year\u201d from Travelers.<br><br>As an experienced <strong>Software Engineer </strong>at DealerPolicy you must have expert web development skills and direct experience building mobile-first and progressive web applications. You will work closely with our product and engineering team to build key product features continuously improving the experience for our customers and clients. The DealerPolicy software is built using C#, .NET core, Web API, JavaScript, HTML, CSS, React, React Native, Reduct, Material UI, and runs on cloud PaaS infrastructure in Azure.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Contribute to developing DealerPolicy core products supporting dealership auto retail sales and call center insurance agency operations</li> <li>Developing progressive mobile-first web applications in React</li> <li>Meticulously style professional user interfaces that work on a variety of devices and platforms</li> <li>Design, develop, test, and publish enterprise-grade software solutions</li> <li>Participate in and contribute to code reviews and pair programming</li> <li>Contribute to development operations and build infrastructure as code</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Bachelor\u2019s degree with a concentration in Computer Science or equivalent</li> <li>3+ years professional work experience in an engineering discipline</li> <li>Highly collaborative. Effective and professional communicator.</li> <li>Strong engineering aptitude and ability to learn new tools and technologies</li> <li>Experience building client-software using modern JS frameworks</li> <li>Comfortable working with unstructured and non-relational data</li> <li>Understanding of event-driven software architectures</li> <li>Exposure to cloud and serverless infrastructures</li> <li>Strong technical aptitude, analysis, and problem-solving skills</li> <li>Exposure to cloud and serverless infrastructures</li> <br><br></ul><strong><u>Preferred Qualifications<br></u></strong><ul> <li>Expert web development skills Significant experience building mobile-first, responsive and progressive web applications</li> <li>Enjoys designing and styling web applications based on mock-ups and wire-frames</li> <li>Experience with front-end build processes and best practices</li> <li>Deep understanding of HTTP protocols, REST, and AJAX</li> <li>Prior experience building progressive web applications in React</li> <li>Experience with event-driven and service-oriented architectures</li> <li>Familiarity and/or experience with C# or similar backend languages</li> <li>Exposure to .NET languages (C#) and frameworks and Microsoft Azure infrastructure</li> <br><br></ul><u><strong>Benefits<br><br></strong></u><strong>DealerPolicy offers a comprehensive Benefits Package, which includes<br></strong><ul> <li>Medical, Dental and Vision Insurance</li> <li>Health Savings Account with company match</li> <li>FSA, Dependent Care FSA and Commuter pre-tax benefit</li> <li>PTO allowance and holidays</li> <li>401(k) plan with company match</li> <li>Working remotely or Hybrid</li> <li>Paid Volunteer Hours</li> <br><br></ul><strong>About DealerPolicy</strong>DealerPolicy is the most trusted and complete digital insurance marketplace for automotive retailers and their valued customers. The company\u2019s innovative mobile technology enables car-buyers to view multiple insurance quotes and immediately connect with licensed insurance agents to purchase insurance. With an exclusive combination of partnerships among premier automotive retailers and data providers, an industry-best insurance carrier network, and access to DealerPolicy Insurance licensed agents, DealerPolicy is recognized for its place at the forefront of Insurtech. DealerPolicy Insurance is a licensed insurance agency, with licenses to operate in the lower 48 states. For more information, visit www.dealerpolicy.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T03:22:18.000Z"
+  },
+  "company": {
+    "name": "DealerPolicy",
+    "link": "https://www.linkedin.com/company/dpolicy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 53900,
+    "max_value": 105000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rochester",
+    "region": "NY",
+    "postal_code": "14612",
+    "street_address": null,
+    "latitude": 43.15571,
+    "longitude": -77.61255
+  }
+}

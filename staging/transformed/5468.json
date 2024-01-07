@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>UST is a leading provider of platforms, digital innovation, artificial Intelligence and end-to-end IT &amp; Business services and solutions for Global 1000 companies. We are transforming corporations through deep domain expertise, knowledge-based ML platforms, as well as profound anthropological efforts to understand the end customer and design products and interactions that create delight. We are deeply committed to developing a comprehensive understanding of our clients\u2019 problems and to develop platforms to address them.</p><p><br></p><p>Site Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that Customer\u2019s services\u2014both internally critical and externally-visible systems\u2014have reliability, uptime appropriate to user\u2019s needs and a fast rate of improvement. Additionally, SRE\u2019s will keep an ever-watchful eye on our systems capacity and performance. Much of the engineering focuses on optimizing existing systems, building infrastructure and eliminating work through automation.</p><p><br></p><p>On the SRE team, you\u2019ll have the opportunity to manage the complex challenges of scale which are unique, while using your expertise in coding, algorithms, complexity analysis and large-scale system design. SRE's culture of diversity, intellectual curiosity, problem solving, and openness is key to its success. Our organization brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.</p><p></p><p><strong>DESCRIPTION</strong><strong>OF DUTIES</strong></p><p></p><ul><li>Collaborate with software engineers in development, test, as well as CI infrastructure teams with the aim of improving the team\u2019s CI and CD services.</li><li>Partner with development teams by providing infrastructure assistance and guidance from the early phases of product development, including the development of software and processes to assist developers in infrastructure-related workflows (such as build, release and deployment automation).</li><li>Designs and implements infrastructure for new and existing products, ensuring all business policies for security, supportability and cost are met, while enabling efficient deployment of products through automated means.</li><li>Participates in project planning discussions to include the formulation and delivery of cost and labor estimates and options for assigned projects.</li><li>Designs and implements solutions to provide continuous integration, automated deployment, and configuration management of internally or externally developed applications.</li><li>Analyze new and existing products for performance and efficiency improvements, both as part of a structured release process, and as an ongoing process.</li><li>Monitor and tune the performance, reliability, and security of the infrastructure. Identify and correct bottlenecks in the system, while working with development teams on optimization and best practices.</li><li>Integrates internally developed products, externally developed products, and mixtures of both, to create working solutions from multiple disparate parts.</li></ul><p></p><p><strong>SUMMARY OF REQUIREMENTS</strong></p><p></p><ul><li>Experience with cloud services such as RH-Openshift, AWS, Azure, Google and On-prem DCs.</li><li>Strong programming and scripting knowledge, e.g. Groovy, Python, Ruby, PowerShell, Bash, Ansible.</li><li>Build automation and continuous integration tools (Jenkins, Bitbucket, Artifactory, Sonarqube, Bitbucket, Veracode, Jira, Confluence, Terraform..etc)</li><li>Strong knowledge &amp; understanding of tools/skills such as Hashicorp Vault, Apigee, Dynatrace, Kubernetes, Docker, Kafka, Kinesis, Sysdig, Cloud Watch, Cloud trail, Lambda, SQL / Postgres, Info Sec best practices, software security</li><li>Support and improve our tools for continuous integration, automated testing, automation and release management making the entirety of software engineering as efficient and effective as possible.</li><li>Continuous Delivery pipelines implementations</li><li>Monitoring and logging systems (e.g. Splunk, ELK)</li><li>Understand best practices for source control, build engineering, continuous integration and deployment.</li><li>Proficiency in the setup, configuration, maintenance, and upgrading of one or more server operating system families (Linux, Windows, etc)</li><li>Proficiency with server prototyping and virtualization tools.</li><li>Proficiency with version control tools (Bitbucket, Git)</li><li>Experience with SDLC processes (code review, release management, etc) and automation of same (continuous integration, continuous factory delivery)</li><li>Experience with networking protocols (TCP/IP, SSL, etc)</li><li>Soft skills in Tenacity,Communication, Troubleshooting (with real world examples of vexing problems), Tolerance for frustration working across disparate locations / time zones, Proactiveness (seeing something and saying or better yet, doing something</li><li>Bachelor of Science degree in Computer Science, Computer Engineering, Electrical Engineering, Information Technology, Information Systems, Industrial Engineering, or related field; or equivalent combination of education and experience.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T20:41:59.000Z"
+  },
+  "company": {
+    "name": "UST",
+    "link": "https://www.linkedin.com/company/ustglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Allen",
+    "region": "TX",
+    "postal_code": "75013",
+    "street_address": null,
+    "latitude": 33.104195,
+    "longitude": -96.67174
+  }
+}

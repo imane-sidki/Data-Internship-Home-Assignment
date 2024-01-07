@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>About Oracle GBU Cloud Services</p><p>Oracle GBU Cloud Service (GBUCS) is responsible for managing cloud infrastructure for hundreds of SAAS products developed internally at Oracle. In particular, our team is responsible to build, maintain, and operate the Monitoring-as-a-Service portfolio of monitoring solutions for the entire GBU organization. Our solutions monitor several million entities, at high frequency, that span all layers of the GBUCS stack that includes Storage, Network, Server and the Application services. The monitoring platform is a highly distributed, 24*7 system that collects, transports, processes time-series and log events and provides utilities to alert and visualize massive telemetry data accurately and reliably.</p><p></p><p>About the Job</p><p>Do you want the challenge of working in a cutting-edge environment, solving technical problems, identifying improvements, and implementing your recommendations?</p><p>This role lets you design, develop, troubleshoot, debug software for controlling and managing distributed services, multi-level abstractions, end-end automation, monitoring and telemetry and all activities to deliverinfrastructure services via code. If you have hands-on experience with analyzing, designing, testing, and implementing solutions, this key role might be for you.</p><p>What You'll Do</p><p>As an SRE in the monitoring services team you will be designing and maintaining hosting, process, transform, and analyze operational processes. Your first mission will be to work closely with our software developers and Cloud architects to define a sustainable operational model for monitoring services.This includes mechanisms to scale the systems by way of easy-to-use tooling and automation. You will work in concert with developers and other organization members to evolve systems/products for better scalability, reliability, and monitoring.Some of the responsibilities include:</p><ul><li>Solve complex problems related to infrastructure cloud services and build automation to prevent problem recurrence.</li><li>Facilitate service capacity planning and demand forecasting, software performance analysis, and system tuning.</li><li>Work as a member of the development team and share full stack ownership of a collection of services and/or technology area. Understand the end-to-end configuration, technical dependencies, and overall behavioral characteristics of production services.</li><li>Articulate technical characteristics of services and technology areas and guide development teams to engineer and add capabilities to internal Oracle services.</li><li>Understand and explain the effect of product architecture decisions on distributed systems.</li><li>Professional curiosity and a desire to a develop deep understanding of services and technologies</li><li>Analyze best practices and emerging concepts in SRE.</li></ul><p>What You Need to Have</p><p>You need to have the following knowledge, skills, and experience: Education and Work Experience</p><ul><li>Bachelor\u2019s/Master\u2019s degree in Computer Science or a similar field.</li><li>Infrastructure as code experience</li><li>Monitoring, orchestration, and configuration management experience in cloud infrastructure</li><li>Expertise in container management tools and solutions.</li><li>Expertise in building highly-scalable distributed solutions.</li><li>Experience implementing a continuous integration (CI) and continuous deployment (CD) pipeline with working knowledge of container management and orchestration tools.</li><li>Track record of delivering assigned projects on time with high quality, using Agile, DevOps, and SRE practices and toolsets.</li><li>Demonstrated experience in mentoring of team members and provide architectural guidance and lead detailed code reviews.</li></ul><p><strong>Technical Qualifications:</strong></p><p>Preference for demonstrated practical experience with the following technologies:</p><ul><li>Programming skills in Java and/or Python</li><li>Expert level skills in distributed computing.</li><li>Experience using streaming services (e.g. Kafka)</li><li>Hands on experience of configuration management frameworks (Terraform, Chef, Ansible, etc.).</li><li>Know-how of scripting/automation languages (PERL, Python, Bash etc.)</li><li>Experience with infrastructure or network automation tools and protocols e.g. chef, ansible.</li><li>Hands on experience understanding of container based deployments</li><li>Experience with large scale code optimization and performance tuning.</li><li>Experience with development and use of large scale monitoring systems.</li></ul><p></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T13:44:19.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

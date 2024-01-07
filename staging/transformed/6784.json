@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Civil Engineering",
+    "description": "US CITIZENSHIP REQUIRED FOR THIS POSITION: Yes<br><br>RELOCATION ASSISTANCE: No relocation assistance available<br><br>CLEARANCE TYPE: None<br><br>TRAVEL: No<br><br><strong><u>Description<br><br></u></strong>Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the worlds leading mission capability integrator, we are a trusted provider of highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies, including the Intelligence Community, Department of Defense, Department of Health and Human Services, and NASA. Every day, our 22,000 employees do the cant be done, solving the most daunting challenges facing our customers.<br><br>Peraton is seeking a <strong>Data Scientist</strong> to join our team of qualified, diverse individuals. The ideal candidate shall develop and implement technical or analytical applications to transform raw data to meaningful information to detect fraudulent activities or quality issues using data oriented programming language and visualization software. Put your years of experience and training into a future of excellence by joining a Peraton team delivering cutting edge technology solutions to our clients.This position will be as a remote employee and support the Department of the Interiors (DOI) Pandemic Response Accountability Committee (PRAC).<br><br>PRAC was established to promote transparency and conduct and support oversight of covered funds and the Coronavirus response to prevent and detect fraud, waste, abuse, and mismanagement (FWA&amp;M) and mitigate major risks that cut across program and agency boundaries. This position will work with a team to fulfill the IT objectives of this task order by building off of the existing technology architecture in PRACs secure Azure Moderate FedRAMP hosted environment. The high level project objectives include implementing new Analytics tools, developing analytic rules and models to identify fraud, waste, and abuse, and providing investigative support.<br><br><strong><u>Responsibilities Include (but Not Limited To) The Following Tasks<br><br></u></strong>The chosen candidate will be a member of a multi-disciplinary team developing analytical and decision support applications to support PRAC. The candidate will work with a team of 3-6 team members across 3 scrum teams (at the start of the program, but projected to grow) who could be situated in different geographical locations. He/She needs to be a strong collaborator and a team player to meet the project schedule. He/She will follow the agile methodology for developing the various capabilities and actively participate in sprint and system demos. The candidate should expect to wear multiple hats, take ownership of the solution and be able to adapt quickly to changing business priorities.<br><br><strong><u>Additional Roles And Responsibilities Include The Following<br></u></strong><ul><li>Manage various data files in applicable formats and manipulate data for analytics</li><li>Recommend and develop analytic rules and models using leading edge fraud analytic tools and best practices.</li><li>Analyze and profile data to model relationships</li><li>Develop mock data to support developer testing</li><li>Using statistical methodology in developing and refining predictive models that can be predictable and verifiable</li><li>Generate reports to document model accuracy and providing outcomes of datasets</li><li>Work with team and customers to refine and fine tune models<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>A Bachelors Degree in a related technical field and a minimum of 5 years related technical experience; 4 years of relevant experience may substituted in lieu of a degree.</li><li>Hands-on experience developing analytic rules and models using leading edge fraud analytic tools and best practices</li><li>Highly motivated with a strong passion for problem solving and innovation and the ability to provide recommend analytics solutions to detect fraud, waste, abuse, and mismanagement</li><li>Proven working experience as a data scientist, data analyst, or business data analyst</li><li>Technical expertise regarding data models, database design development, data mining and segmentation techniques</li><li>Knowledge of statistics and experience using statistical packages for analyzing datasets (e.g., Excel, SPSS, SAS etc.)</li><li>Candidate should have very good communication and leadership skills</li><li>Must be a US Citizen<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience with Microsoft Azure tool suite (Azure Data Factory, Azure Databricks, and Azure ML)</li><li>Experience with visualization tools such as PowerBI and/or Datawalk</li><li>Minimum of 2 plus years of data modeling experience</li><li>At least 2 years of experience writing with SQL</li><li>At least 2 years of experience writing scripts using Python</li><li>Extensive experience with big data analytics.</li><li>Demonstrated excellent analytical and research skills</li><li>Previous work in an Agile Environment</li><li>Experience working with vendors and government<br></li></ul>We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:46:49.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78900,
+    "max_value": 99900,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

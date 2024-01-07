@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "NLP Machine Learning Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<p><u>Job Description:</u></p><ul><li>Conducting research in the area of Language and Conversation AI, advancing the state of the art.</li><li>Efficiently implementing algorithms, defining data sets and benchmarks and running experiments on real data.</li><li>Constantly reviewing relevant literature to identify emerging methods or technologies and current best practices.</li><li>Following the market, products and understanding customer needs, to find innovative solutions to real customer problems.</li><li>Developing algorithms as software components and supporting their integration into actual products.</li></ul><p><br></p><p><u>Roles and Responsibilities:</u></p><ul><li>PhD/M.Tech/B.Tech in computer science or related fields / 3-6 years of work experience in fields of Natural Language Processing and Deep Learning.</li><li>Deep and broad understanding of foundations up to state-of-the-art machine learning and deep learning techniques, including hands-on experience with deep learning frameworks.</li><li>Experience in designing deep learning architectures, as well as implementing in a real-world setting.</li><li>Familiarity with NLP concepts and related tasks, such as language modeling, neural retrieval &amp; generation, text classification &amp; NER, machine translation, summarization.</li><li>Familiarity with AWS stack and cloud deployment.</li><li>Hands on experience in writing code in Python.</li><li>Innovative thinking, creativity, and self-learning preferred</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T11:09:46.000Z"
+  },
+  "company": {
+    "name": "Samsung Electronics",
+    "link": "https://kr.linkedin.com/company/samsung-electronics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Noida",
+    "region": null,
+    "postal_code": "201306",
+    "street_address": null,
+    "latitude": 28.58467,
+    "longitude": 77.352005
+  }
+}

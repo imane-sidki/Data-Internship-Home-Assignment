@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Office 365 continues to lead the cloud transformation for Microsoft and has become the locomotive for services across the Company. Customers and Partners are betting on the cloud and expecting Office 365 to deliver an unparalleled experience on the service. Office 365 is leading the transformation and redefinition of how we help customers on the service. Our mission is to distinguish O365 support as a cloud-first support model that is optimized for customer experience and based on a culture of satisfaction.<br><br><strong><u>Responsibilities<br><br></u></strong>The Software engineers and Data &amp; Applied Scientists from the Microsoft 365 admin center team explore big data from Microsoft 365 admin center and support in search of consistent patterns and systematic relationships, connecting the across all data sources involved. The goal of this team is to predict trends, find insights, and produce actionable, trustworthy recommendations and decisions for Microsoft 365 admin center, which is executed on through an analytical modelling process based on machine learning, by processing structured, semi-structed and unstructured data. We are seeking an outstanding individual with a passion for software development, data science and machine learning.<br><br><strong><u>Qualifications<br><br></u></strong>Preference given towards those with good experiences in statistical modelling and in using various data analysis tools, good computation skills and software development experience. The candidate needs to demonstrate proficiency in using SQL and C#/ Python.<br><br>The candidate also needs to demonstrate the capability of quickly extending their learning to new languages, tools, and environments.<br><br>Experience processing large data sets through statistical software (ex. R) and programming languages (ex. Python), or other methods and solid data storage experience. Strong algorithmic problem-solving skills a plus.<br><br>Understanding of statistics, hypothesis testing, p-values, confidence intervals, regression, classification, optimization, Cosmos/ADL (via Scope/U_SQL/Spark), <em><strong>Azure data explorer (Kusto), Azure data factory</strong></em> is a plus.<br><br>Preference also given to candidates with coursework or experience in statistical modeling and inference, machine learning, data mining, time series forecasting.<br><br>In terms of business accountability this role is expected to directly contribute to building data pipelines, and the optimization of Microsoft 365 admin center through delivering predictive models and insight discovery. This will include, building machine-learning-driven-automated data processes (such as pre-processing, feature extractions) and semi-automated / automated reporting services.<br><br><strong><u>Personal Attributes/Additional Skills<br></u></strong><ul><li>Demonstrated ability to work in ambiguous situations and across organizational boundaries.</li><li>Self-discipline and a drive for results.</li><li>Strong communication and collaborative skills, an excellent team worker.<br></li></ul><strong><u>Education / Experience<br></u></strong><ul><li>Masters or equivalent in quantitative field- Statistics, Engineering, Mathematics, Operations with experience in Analytics. </li><li>2+ years of experience with machine learning, natural language processing, survey methodology &amp; analysis and experiment design.</li><li>2+ years of experience applying statistical methods such as hypothesis testing, p-values, confidence intervals, regression, classifications, and optimization</li><li>Development experience in C#/R/Python/SQL </li><li>Strong communications skills, in particular written research results and effective presentations<br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T20:19:05.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

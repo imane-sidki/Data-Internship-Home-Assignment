@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Goods,Food & Beverages",
+    "description": "<strong><u>Job Description<br><br></u></strong>Budweiser. Bud Light. Stella Artois. Michelob ULTRA. That\u2019s right, over 100 of America\u2019s most loved brands, to be exact. But there\u2019s so much more to us than our top-notch portfolio of beers, seltzers, and more. We believe our people are our greatest asset, and we\u2019re looking for people like you to join our shared dream of bringing people together for a better world. Are you up for the Challenge?<br><br>In the role as Data Scientist you will own data structure and analysis for all new data science strategic processes and drive future data structure and platform solutions to ensure optimized performance and reliability of required data. You will assist the Data Science Team with data requirements to ensure efficient and effective data flow, align with the Data Science Team members on a strategic vision and plan for new technology systems and applications solution opportunities and work with Global TechSupply on a new technology roadmap and initiatives for the North America Zone.<br><ul><li>Data analysis of key processes to determine improvement opportunities either through process change or automated process control.</li><li>Process modeling and automated process control algorithm building and enhancements utilizing 3rd party solutions such as Sorba AI or Bonsai AI tools </li><li>Data management and utilization of all data sources (Historian, BPA, etc.) to provide a full data analysis capability</li><li>Meet and work with multiple process SMEs to understand the process capability, requirements, and targets that the data science can focus and improve on.</li><li>Project Management of key Brewery of the Future initiatives within the Data Science Strategy</li></ul><strong>Job Qualifications<br></strong><ul><li>Bachelors degree in a Computer Information Systems, Computer Science, or significant demonstration of experience with databases, datasets, stored procedure creation, data views, and tools to visualiz data (Power BI, SSRS, etc.)</li><li>At least 5 years of experience with a focus on data organization, analysis, and visualization</li><li>Preferred working knowledge of standard database platforms (MSSQL, Oracle, Sybase) &amp; their development tools (SSMS, Toad, etc.)</li><li>Passion for delivering business/operation value by creating excellent solutions</li><li>Excellent analytical and problem solving skills, combined with strong business judgement and an ability to present analysis in a clear and compelling manner</li><li>Passion for building a business/operation intelligence skillset</li><li>A complete Business Intelligence skill stack, from query to dashboard</li><li>Proactive mind set with a strong sense of personal ownership</li><li>Excellent time management and prioritization skills</li><li>Interest in user experience and design thinking</li><li>Understanding use of metrics and KPls and how to use them to guide a Supply Chain Operations</li><li>Experience participating in Agile development<br></li></ul><strong>Why Anheuser-Busch <br><br></strong>Anheuser-Busch is here for the times that matter. The moments where we celebrate, defy challenges, dream of the brighter future we are building today\u2013 and all the moments in between. We are a company that brings people together for richer conversations, sweeter celebrations and stronger communities.\u202f<br><br>Challenge Accepted! Apply Today!<br><br><strong><u>Benefits<br><br></u></strong>We offer generous benefit plan options that can be tailored for your unique needs and wellbeing and are effective on day 1. Here are just a few:<br><ul><li>Health benefits including Medical, Dental, Vision, Wellness and Tax-Advantaged Savings and Spending Accounts </li><li>Life Insurance and Disability Income Protection </li><li>Generous Parental Leave and FMLA policies </li><li>401(k) Retirement Savings options with a generous company matching contribution of up to 8.5% </li><li>Chance to work in a fast-paced environment among a company of owners </li><li>Free Beer! <br></li></ul><strong>Job Function</strong> Supply<br><br><strong>Primary Location</strong> United States-Missouri-St. Louis-A-B Headquarters Complex<br><br><strong>Schedule</strong> Full-time<br><br><strong>Job Type</strong> Permanent<br><br><strong>Salary</strong> $100,000.0 - $112,500.0<br><br><strong>Posting Date</strong> Sep 7, 2021<br><br><strong><strong>EEO Statement<br><br></strong></strong>As the leading global brewer, Anheuser-Busch InBev is committed to finding innovative ways to continually improve. It's this kind of thinking that creates a unique work environment by rewarding talent, celebrating diversity and encouraging forward thinking. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status or any other characteristic protected by applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:50:09.000Z"
+  },
+  "company": {
+    "name": "Anheuser-Busch",
+    "link": "https://www.linkedin.com/company/anheuser-busch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75400,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AWS DevOps Engineer",
+    "industry": "Staffing and Recruiting,Information Technology and Services",
+    "description": "<p>Our team needs a DevOps Engineer to help automate processes and create infrastructure as code. Needing someone who would be able to explain what thy have done and how they got there, help with deployments of their systems, etc. Helping with getting CI/CD pipelines to work, using terraform as infrastructure as code. THelp with terrafrom development. They will use Azure DevOps for most CI/CD. They will be deploying serverless resources with Lambda and deploying EC2 instances to AWS.</p><p><br></p><p>This is a 6 month contract to hire and will sit 100% Remoe (Working CST)</p><p><br></p><p>Requirements</p><ul><li>3+ years in a DevOps role </li><li>Extensive AWS Experience - Deploying Lambdas and API Gateways </li><li>Expert using Terraform (Experience creating terraform from scratch. Create and manipulate modules, resources </li><li>Experience with CI/CD Pipelines</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-15T21:56:50.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

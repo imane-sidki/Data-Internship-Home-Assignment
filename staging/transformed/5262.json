@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Software Delivery",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Our team is on a mission to deliver reliable services that help engineers at Apple do their work faster than ever before. Allowing rapid prototyping of ideas and code can help improve our products for other engineers and our customers.   We are looking for a site reliability engineer to join our efforts. In this role you will be developing tooling, monitoring, and improving distributed services that help improve software build and test cycles.  You would join a small, tight-knit group of engineers who build exciting new technology (and have fun while doing so). We are applying unique and innovative ideas to old problems and welcome new contributors who are excited by the opportunity to significantly impact the shape and direction of our product.  We believe that every engineer brings unique skills and perspective. Far more than any specific experience or skill, we are looking for engineers who want to build great software, learn and develop their skills, and ultimately enable others to develop amazing applications.<br><br> <br><strong>Key Qualifications<br></strong> <br>Positive and respectful attitude.<br><br>Strong interest in building reliable services.<br><br>Ability to efficiently design and develop new technologies in a changing environment.<br><br>Experience building and maintaining infrastructural distributed systems such as orchestration systems, distributed databases, or network proxies. Experience should include a strong understanding of distributed system fundamentals like consistency and availability, networking subsystems and implementation techniques, as well as security.<br><br>Excellent collaborative skills, with strong written and verbal communication.<br><br> <br><strong>Description<br></strong> <br>You will be working hand in hand with the engineering team to combine established distributed system techniques and site reliability techniques to achieve high performance, availability, and reliability. In this role you will be expected to analyze problem requirements and drive results within the team by using existing tooling or generating new tooling while helping define long short term goals. <br><br><br>You will be most successful here as a flexible and proactive site reliability engineer who thrives in a supportive, respectful, and balanced work environment with interesting and challenging problems to tackle. You have excellent judgement and integrity with the ability to make timely and sound decisions. You know how to drive constructive discussion of design points, learn from your team, and use your experience to advocate and teach others.<br><br><br>We welcome all applicants, but familiarity with the following areas will help you come up to speed fastest on our project:<br><br> - Existing modern distributed systems. <br><br>- Familiar with application and service monitoring tools and techniques. <br><br>- Involvement with incident management and response <br><br>- Familiarity with Cassandra / Swift / C++ <br><br>- Familiar with virtualization technology<br><br> <br><br>In your role as a site reliability engineer on our team: <br><br>- You\u2019ll spend a majority of your working on tooling and contributing to SRE standards used across the organization. <br><br>- You\u2019ll collaborate with your teammates to help refine problem requirements and work with teams to implement long lasting solutions. <br><br>- You\u2019ll engage with other SRE teams to help identify issues and establish long term relationships that include knowledge sharing. <br><br>- You\u2019ll provide valuable feedback loops to engineering teams backed by application metrics and log data. <br><br>- You\u2019ll drive areas of SRE focus (resiliency, redundancy, performance) by collaborating in planning meetings. <br><br>- You\u2019ll use modern continuous delivery development practices. <br><br>- You\u2019ll develop expertise and be given ownership over components critical to Apple's success. <br><br>- You\u2019ll contribute to engineering a high-performance system through algorithm design, optimization, and performance testing. <br><br>- You\u2019ll design new ways to scale Apple's build systems to ever increasing problem sizes. <br><br>- You\u2019ll prioritize and schedule issues, estimate scope of work, and investigate new issue reports in your areas of responsibility. - You\u2019ll analyze and improve the operability of our server software. <br><br>- You\u2019ll provide and be given technical guidance, software architectural review, and mentorship. <br><br>- You\u2019ll have access to the engineers who create Apple's full technology, tools, and operating systems stack.<br><br>  <br><br>Here you\u2019ll find that:<br><br>- We\u2019re a worldwide team responsible for various properties in Apple's Software Engineering organization. <br><br>- We strongly value the security and privacy of our users. <br><br>- We collaborate extensively with other SRE teams inside Apple. <br><br>- We prioritize developing automation and infrastructure to ease our own testing and development. <br><br>- We practice a blameless approach to operations and outages, and work together to define safety mechanisms and processes. <br><br>- We have a wide range of experience, from engineers who\u2019ve just joined to those who\u2019ve thrived at Apple their whole careers. <br><br>- We provide a peaceful work environment where you can choose when to socialize and when to close your office door and focus. <br><br>- We have an encouraging and growth-focused workplace culture.<br><br> - We value integrity and respect for others, and take the safety and comfort of our employees seriously. <br><br>- We encourage you to use accrued vacation time and maintain a healthy work-life balance. <br><br>- We offer excellent benefits.<br><br> <br>Role Number: 200242585<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:41.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81200,
+    "max_value": 209000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

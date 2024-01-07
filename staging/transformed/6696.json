@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "A Site Reliability Engineer in Unit21 is entrepreneurial, thoughtful, and a relentless executor. You will be filling a mission-critical role ensuring that our systems are healthy, monitored, automated, fault tolerant and designed to scale. You will collaborate and work closely with other engineering teams to continually improve our production services, facilitating fast delivery of new products, and reducing downtime.<br><br>We're building products that abstract complex concepts and minimize cognitive overhead for our users. This requires careful thought, high creativity, and a deep understanding of data processing at scale. Our stack is React, GraphQL, Python, Kubernetes, Terraform, PostgreSQL, and whatever allows us to solve the problem in the best way possible. That said, we don't require prior experience with any of them. We're looking for people with high integrity, low ego, and an insatiable drive to learn.<br><br>You will be working closely with two technical founders that have built a product leading fintechs and financial institutions are already paying for. They have both been early engineers at companies that have grown exponentially, and have garnered support from a coalition of top-tier institutional and angel investors.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T08:17:39.000Z"
+  },
+  "company": {
+    "name": "Unit21",
+    "link": "https://www.linkedin.com/company/unit21"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

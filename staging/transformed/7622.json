@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "GCP Cloud Engineer",
+    "industry": "",
+    "description": "<p>GCP Cloud Engineer</p><p>Remote Position</p><p><strong>LinkedIn profile,References Mandatory</strong></p><p>Visa: Any(No OPT/CPT)</p><ul><li><strong>Experience in building and supporting large-scale, business-critical systems on public cloud (GCP &amp; AWS)</strong></li><li>Hands on experience in GCP,Cloud composer,Big Query, and Looker.</li><li>Strong experience in performance tuning of Big Query SQL Scripts.</li><li>Good understanding of cloud design considerations and their impact on pricing.</li><li>Experience hosting an application on GCP using Compute Engine, App Engine, kubernetes engine,</li><li>cloud storage and cloud SQL.</li><li>Experience in Networking Protocols such as Cloud DNS,Cloud CDN etc.</li><li>Proficient in modern scripting language(Python) for automation on build tasks.</li><li>Knowledge of Applicationmonitoringusing google Stack driver.</li><li>Experience with Big Data on GCP : Big Query,PUB/SUB,Data Flow, Dataproc.</li><li>Priorexperience with container technologies with GitHub,Docker,CI/CD tools and Monitoring tools.</li><li>Experience with infrastructure configuration management tools Terraform, Puppet,Chef.</li><li>Experience withUNIX/Linux power</li><li>Prefer Google Cloud certifiedcandidates.</li></ul><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:35:14.000Z"
+  },
+  "company": {
+    "name": "Byte Link Systems, Inc.",
+    "link": "https://www.linkedin.com/company/bytelink-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

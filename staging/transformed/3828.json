@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps/Site Reliability Engineer - REMOTE",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Based just West of Boston, we are a leading provider of cloud-based applications for governance, risk and compliance (GRC) solutions provider. Our software as a service (SaaS) platform gives organizations the control to assess, measure, and mitigate risk and to ensure the optimal performance of key business processes. Our clients include the 10 ten largest banks in the world, the largest credit card companies and massive mortgage companies as well.<br><br>We are an organization where work/life balance is a real thing. In fact right now we are all working remotely, but as life gets back to normal you will need to come into our Concord , MA office every couple months for strategic meetings. As we continue to grow we really need someone who can lead the efforts for two critical initiatives: site reliability and DevOps.<br><br>What You Will Be Doing<br><ul><li> Work directly with the engineering team on establishing repeatable deployment processes that can be leveraged in working towards CI/CD capabilities</li><li> Drive complete oversight and monitoring of production environment to ensure consistent KPI's are established and consistently reported against</li><li> Architect CI\\CD build, release, deploy process with Visual Studio Team Services</li><li> Primary contributor to overall technology operations, including defining and creating the monitoring tools for appropriate SLOs, SLAs, and SLIs (Required)</li><li> Create build packages and deployment pipelines</li><li> Setup/manage automated infrastructure creation/deployment in Azure (Required)</li><li> Can set up and configure Azure environments (IaaS), services (PaaS), via automation and using the Azure portal.</li><li> Well versed in infrastructure solutions architecture design, implementation, and automation in Azure Cloud</li><li> Strong Microsoft SQL skills including administrative and query capabilities.</li><li> Azure ARM templating w\\custom script extensions for POC designs for auto-provisioning to meet Dev team's needs</li><li> Experience with Kubernetes (Preferred not required)</li><li> Experience providing operational support (production and/or non-production)</li><li> Experience with incident response in an on-call environment</li><li> Drive infrastructure as code adoption</li><li> PowerShell or other scripting languages such as Ruby or Python.</li><li> Can lead vision of application monitoring and observability using products using AppInsight, New Relic, etc</li><li> Infrastructure support (Strongly preferred)</li><li> Understand key networking fundamentals such as DNS, firewalls and load balancing</li><li> Working on DevOps team fostering DevOps culture of people, process &amp; technology</li><li> Strong experience supporting Windows environments (Required)</li><li> Development Skills (Preferred, not required)</li><li> Understands various aspects of application development, tools, and languages (Microsoft stack experience)</li><li> Cloud architecture</li><li> \"Nice to have\" Technology Skills</li><li> Redis</li><li> Containers- Dockers</li><li> Linux experience<br></li></ul>What You Need for this Position<br><ul><li> Bachelors Degree in Computer Science or Engineering</li><li> At least 5 years experience leading a DevOps or Site Reliability Engineering organization</li><li> At least 5 years of experience developing or challenging engineering practices through critical examination of problem and collaboration with team members and customers (developers, architects, engineers)</li><li> At least 7 years of experience with the full spectrum of software engineering (build, integration, testing, and releasing or deployment)</li><li> Preferred Qualifications:</li><li> Cloud &amp; DevOps Certifications are a plus e.g., Azure Architect, Developer or Ops</li><li> Experience with leading enterprise cloud transformation programs</li><li> Experience with SRE principles and transformations</li><li> At least 3 years of experience in delivering software in a highly regulated environment, preferably financial services</li><li> Outstanding interpersonal skills, innovation, and the ability to motivate, inspire, and lead cross group/functional teams with a high degree of independence and success</li><li> Hands on experience with establishing and tracking to SLAs, SLOs and SLIs<br></li></ul>We are a great team that is missing this important resource. If you'd like to be part of a great organization and get to work remotely, this is a great role, and we would love to talk.<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Paul.Miller@Optello.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : PMM-1642721 -- in the email subject line for your application to be considered.***<br></li></ul>Paul Miller - Lead Recruiter - Optello<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>Optello is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.<br><br>Optello will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T15:21:36.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Concord",
+    "region": "MA",
+    "postal_code": "01742",
+    "street_address": null,
+    "latitude": 42.45904,
+    "longitude": -71.355034
+  }
+}

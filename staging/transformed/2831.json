@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong><u>About Us<br><br></u></strong>At Cars.com, we help shoppers meet their perfect car match, and people find their perfect career match. As one of the top places to work in Chicago, according to The Chicago Tribune, Built-In Chicago and others, we pride ourselves on a culture of growth and innovation.<br><br>Cars.com has revolutionized the automotive industry for both shoppers and sellers through technology and solutions for buyers and sellers alike. We never shy away from a challenge, move fast, collaborate across functions to approach problems from every angle. We\u2019ve built a culture that\u2019s second-to-none and share core values that keep everyone working full-speed at the same goals with the same open, outcome-driven and bold attitudes.<br><br>Cars.com is a CARS brand. CARS includes the following brands: Cars.com, Dealer Inspire, DealerRater. Learn more here !<br><br><strong><u>About The Role<br><br></u></strong>Data is the driver for our future at CARS. We are looking for a Data Scientist III to join our data science team. This team is responsible to improve shopping experience, optimize sales and marketing pipelines and build measurement strategies. In simple terms, this is the team behind all machine learning products at CARS.<br><br>Data Science@Cars is a group of collaborative and humble individuals from diverse backgrounds. We are actively involved in the open source community and regularly participate in Data Science events. We learn from each other through regular algorithmic/code review sessions and stay connected through coffee chats in this remote world.<br><br><strong><u>About The Projects<br><br></u></strong>We deliver scalable ML products that are served to millions of users through our website and mobile app. Search, Recommendation Systems, Pricing and Churn are some of the example projects that we actively work on. Right from the start, each team member will own a product(s) and as the time progresses, you will gain exposure to working on diverse areas of ML. The team maintains a healthy balance between research projects and immediate deliverables.<br><br><strong><u>On a Typical Week You Will<br></u></strong><ul> <li> Collaborate with product and engineering teams to define, design, build and deploy machine learning models and frame AB tests </li> <li> Understand business impact of models and monitor model performances to make sure model outputs are of good quality at all times </li> <li> Apply robust and maintainable coding practices to ensure model outputs are provided reliably and efficiently at all times </li> <li> Work with business partners to identify business opportunities and trends </li> <li> Communicate modeling methodologies and analytical findings to business stakeholders </li> <li> Stay up-to-date with latest technology trends and publish research articles on science and innovations </li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li> 4+ years professional experience in developing machine learning models with a BS/MS in statistics, econometrics, machine-learning, applied mathematics or related quantitative fields </li> <li> Understanding of supervised and unsupervised machine learning concepts </li> <li> Experience with entire pipeline of deploying machine learning algorithms including development, validation, implementation and production launch </li> <li> Strong coding skills in Python/PySpark and knowledge of OOP and functional programming </li> <li> Experience in writing efficient SQL (or similar RDBMS) queries </li> <li> Understanding of AWS ecosystem </li> <li> Good documentation skills </li> <li> Be flexible in working on diverse problems instead of focusing on a particular ML area like Image Recognition, Natural Language Processing etc. </li> <li> Understanding of coding best practices and familiar with version control tools </li> <li> Experience with presenting technical work to executives in a concise and effective way </li> <br><br></ul><strong><u>Preferred<br></u></strong><ul> <li> Experience in delivering complex ML systems that use real time scoring </li> <li> Experience in mentoring other Data Scientists or data enthusiasts </li> <li> Involvement of any kind in data science community </li> <li> PhD in statistics, econometrics, machine-learning, applied mathematics or related quantitative field </li> <br></ul>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T23:20:41.000Z"
+  },
+  "company": {
+    "name": "Cars.com",
+    "link": "https://www.linkedin.com/company/cars-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

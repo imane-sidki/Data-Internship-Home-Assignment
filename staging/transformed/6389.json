@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>**This is a fulltime role and doesn't sponsor**</strong></p><p><br></p><p><strong>REQUIREMENTS/CHARACTERISTICS:</strong></p><ul><li>10 years\u2019 experiencebuilding large scale, real-time distributed systemswith solid coding,problem-solving, and design skills</li><li>Experience working in highly collaborative teams</li><li>Ability to demonstrate a team-first attitude towards software development</li><li>Hands on Experience with Python, Java, SQL</li><li>Experience working with variousdatastores: SQL, NoSQL, and/or key-value store</li><li>Matureengineeringpractices (CI/CD, testing, secure coding, etc)</li><li>Experience with, or willingness to learn:</li><li>Event-driven architecture and messaging frameworks (Pub/Sub, Kafka, and/orRabbitMQ)</li><li>Cloud infrastructure (Google Cloud Platform, AWS, and/or Azure)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:19:36.000Z"
+  },
+  "company": {
+    "name": "Innovative Systems Group",
+    "link": "https://www.linkedin.com/company/innovative-systems-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

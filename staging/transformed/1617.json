@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Software Engineer role is fulltime with [24]7.ai working onsite at our customer Capital One in Richmond, VA. We built their credit card IVR.</strong></p><p><br></p><p>The Software Engineer will be a member of the global team driving the development of world-class speech recognition applications, framework components, and delivery tools that impact millions of consumers interacting with major enterprises around the globe. A computer science or related degree, 2+ years in software development, ability to own software solutions from start to end, and capability to learn new technologies and processes are vital to your success.</p><p>As a Software Engineer at [24]7, you will apply computer science and engineering skills to the development of pioneering voice applications. You will be part of a team of senior software industry veterans, and, through clear thinking and hard work, should achieve much success while contributing to tools, applications and libraries.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Participate in the analysis, design, development, and debugging of software applications, libraries and tools.</li><li>Design and deliver applications as part of cross-functional teams that include client management, voice UI design, and QA.</li><li>Implement and enhance sophisticated real-time enterprise data integrations.</li><li>Design and implement data management solutions that support scalable, highly performing systems.</li><li>Work within a modern web services and DBMS environment to ensure [24]7\u2019s applications and support staff have reliable and accurate data supplied to them at all times.</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>Degree in Computer Science or related field</li><li>2+ years of Java design and development</li><li>Experience with web services technology and standards and best practices (i.e., AWS, SOAP, REST)</li><li>Agile experience</li><li>Solid communications skills, both written and verbal</li></ul><p><br></p><p><strong>Pluses</strong></p><ul><li>Experience with Speech Recognition development</li><li>Experience with web application development &amp; Web 2.0 technologies</li><li>Shell scripting experience</li><li>Ability to write SQL queries and design schemas in relational databases such as MySQL and Oracle</li></ul><p><br></p><p>This role is located in Richmond, Virginia.</p><p></p><p><strong>About [24]7.ai</strong></p><p>[24]7.ai is a leader in the Conversational AI market, with over 250+ Fortune 500/1000 customers. We continue to transform our business to drive greater value to our team, shareholders, customers through new product development and market growth.</p><p>[24]7.ai is redefining the way companies interact with consumers. Using Artificial Intelligence and Machine Learning to understand consumer intent, [24]7.ai\u2019s technology helps companies create a personalized, predictive and effortless customer experience across all channels. The world\u2019s largest and most recognizable brands are using intent-driven engagement from [24]7.ai to assist several hundred million visitors annually, through more than 1.5 billion conversations, most of which are automated and learn from each consumer experience.</p><p>For more information, visit: <u>www.247.ai</u></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T22:35:01.000Z"
+  },
+  "company": {
+    "name": "[24]7.ai",
+    "link": "https://www.linkedin.com/company/24-7-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68200,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

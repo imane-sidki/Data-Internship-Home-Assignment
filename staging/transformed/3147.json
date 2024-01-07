@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software and Machine Learning Engineer",
+    "industry": "Internet",
+    "description": "<p><strong>About us</strong>:</p><p>Wiser Solutions is a suite of in-store and eCommerce intelligenceand execution tools. We're on a mission to enable brands, retailers, and retail channel partners to gather intelligence and automate actions to optimize pricing, marketing, and operations initiatives, both in-store and online. Our Commerce Execution Suite is available globally.</p><p><br></p><p><strong>Position Summary:</strong></p><p>We are building thenext generation data science technology on top of massive amounts of structured and unstructured data.We are a fast-paced, dynamic (and fun) organization with many unique and interesting technology challenges. You\u2019ll get to help build ourmachine learning anddata science stack, design our architecture,train,and deploy models,fix things when they break and do it with smart, down-to-earth people that enjoy having fun while working together.<strong></strong></p><p><br></p><p><strong>Essential Functions</strong>:</p><ul><li>Design and build software systems for machine learning,model inferenceand analytics</li><li>Expand machine learning based intelligence capability of Wiser Data Platformby training models and deploying then for plethora of use cases</li><li>Partner closely with other scientistsand engineerson the team to develop algorithms and drive key product initiatives</li><li>Develop scalable, maintainable, high-quality production code to operationalize developed algorithms and models</li><li>Work with Engineering and Product Management to identifymodelinguse-cases</li><li>Present your research and insights to all levels of the company as well as academia</li><li>Maintain regular and reliable work attendance</li></ul><p><br></p><p><strong>Skills and Qualifications</strong>:</p><ul><li>BS/MS/PhDdegreeinComputer Science/Statistics/Data Science/Machine Learningorotherrelated quantitative field</li><li>At least 2-3 years of experience in heavilycoding-orientedsoftware- and/or data-science-rolewhere you built and deployed systems and trained and deployed models. This is a hands-on role where you will be touching all elements of thesystem including data,serverand model deployment layers</li><li>Must have significant background in Object-Oriented Design, assessing algorithm runtime and memory complexity and software building paradigms</li><li>Experience with feature engineering, imputationmethods, feature selection and input sampling for large datasets</li><li>Knowledge of machine learning and data mining techniques in one or more areas of statistical modeling,supervised and unsupervised learning,regression analysis, time-series prediction,tree-basedmodels,Bayesian modeling, deep learning,NLP, computer vision</li><li>Strong coding skills and ability to developmodelprototypesusing open-source tools in Python (scikit-learn,xgboost,tensorflow)</li><li>Familiarity with creating data pipelines and providing feed-and-care of models</li><li>Ability to establish runtime and memoryrequirements/constraints of machine learning and data science algorithms</li><li>Understanding of tradeoffs between model\u2019s statistical and deployment runtime performance</li><li>Familiarity with containers and commonly used techniques for deployment of models designed to generate predictions near-real-time</li><li>Experience with dynamic pricing strategy or time-series data is a strong plus</li><li>Ability to effectively work in Unix-based environment (Linux, MacOS etc.)</li><li>Familiarity withJupyter,Spark a strong plus</li><li>Familiarity with A/B testing a plus</li><li>Familiarity with reinforcement learning a plus</li></ul><p><br></p><p><strong>Other Characteristics:</strong></p><ul><li>Strong communication skills and ability to work effectively independently and in teams (local and distributed)</li><li>Intellectually curious, with a passion for continuous learning and growing professionally</li><li>Ability to multi-task, prioritize, work well in an interrupt driven environment, show initiative and respond quickly in a fast-paced environment.</li><li>Possess a strong work ethic and proactive approach to problem solving</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T18:23:07.000Z"
+  },
+  "company": {
+    "name": "Wiser Solutions, Inc.",
+    "link": "https://www.linkedin.com/company/wiser"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

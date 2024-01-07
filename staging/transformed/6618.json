@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - All Teams (All Levels)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "At Lyft, our mission is to improve people\u2019s lives with the world\u2019s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.<br><br>Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our passengers and drivers.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Help establish roadmap and architecture based on technology and our needs</li><li>Write well-crafted, well-tested, readable, maintainable code</li><li>Participate in code reviews to ensure code quality and distribute knowledge</li><li>Share your knowledge by giving brown bags, tech talks, and promoting appropriate tech and engineering best practices</li><li>Can help lead large projects from idea to positive execution</li><li>Unblock, support and communicate with internal partners to achieve results<br></li></ul><strong><u>Experience<br></u></strong><ul><li>5+ years of software engineering industry experience</li><li>Experience with object-oriented programming</li><li>Experience in distributed systems</li><li>Experience working with databases, relational or NoSQL</li><li>Write clear, scalable and clear design documentation</li><li>Design, build and improve a set of team owned components<br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Great medical, dental, and vision insurance options</li><li>Mental health benefits</li><li>In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off</li><li>401(k) plan to help save for your future</li><li>18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible</li><li>Pre-tax commuter benefits</li><li>Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program<br></li></ul><em>Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:20:58.000Z"
+  },
+  "company": {
+    "name": "Lyft",
+    "link": "https://www.linkedin.com/company/lyft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 106000,
+    "max_value": 230000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10001",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

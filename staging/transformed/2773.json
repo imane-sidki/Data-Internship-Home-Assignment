@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Job Title:  Machine Learning/ML Engineer</strong></p><p><strong>  Duration:  12 Months</strong></p><p>  <strong>Location:  Full Remote</strong></p><p><strong>  </strong></p><p><strong>Description:</strong></p><ul><li>Collaborates with ML engineers and other senior architects for ML model onboarding, deployment, Testability and availability for internal clients.</li><li>Write, automate, and execute performance and load running test scripts to measure latency and throughput of ML backend microservices at the edge-gateway with/without cache.</li><li>Help analyze and troubleshoot performance bottlenecks at edge-gateway and ML backend microservices. </li><li>Create client integration script/sample code for internal clients to integrate with gateway service.</li><li>Experience with programming in Java. </li><li>3-5 years of experience in RESTful APIs and distributed systems using Spring frameworks Spring boot.</li><li>Experience with Docker and Kubernetes. </li><li>Experience writing test automation suites using JUnit and Mockito. </li><li>Familiarity with performance testing, write, automate, and execute performance scripts. </li><li>Experience with CI/CD. Proficiency in Jira, Wiki, git, GitHub and Postman, and SOAPUI. Proficiency in JSON, SQL, and regular expressions. </li><li>Familiarity with agile software development lifecycle. </li><li>Excellent written and verbal communication skills. Experience working with multiple stakeholders to produce and review documentation.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T23:17:01.000Z"
+  },
+  "company": {
+    "name": "Aditi Consulting",
+    "link": "https://www.linkedin.com/company/aditiconsulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

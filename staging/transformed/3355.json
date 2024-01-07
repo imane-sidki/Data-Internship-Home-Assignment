@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>W2 Only - NO C2C</p><p><br></p><p>This lead <strong><u>Site Reliability Engineer</u></strong> (SRE) position will design and provision infrastructure such as RedHat OpenShift and Google Cloud Platform GKE supporting cloud native applications alongside a geographically distributed team.</p><p><br></p><ul><li>(3+ years) Strong Linux knowledge (i.e. RHEL, Ubuntu, SUSE).</li><li>(1+ years) Experience in use of Kubernetes.</li><li>(1+ years) Experience in use of container technologies.</li><li>(3+ years) In-depth use of Cloud-based PaaS and IaaS. GCP and Azure experience preferred.</li><li>(2+ years) Experience with GIT and CI/CD pipelines using Concourse and/or Jenkins.</li><li>Experience using PaaS solutions such as Cloud Foundry.</li><li>Demonstrable proficiency in at least one programming or scripting language. Go and/or Bourne Shell preferred.</li><li>Demonstrated knowledge of RESTFUL API concepts and JSON formats.</li><li>Working knowledge of application development architectures, web deployment methodologies and mobile technologies.</li><li>This position requires a wide breadth of skills and experience in-order to develop new application hosting platforms and strategies.</li><li>Experience with IT Automation products such as Terraform, Chef, etc.</li><li>Experience with VMWare ESX and vCenter.</li><li>Experience with network load balancers (SLB, GSLB). * Experience with Google Cloud technologies GCE and/or GKE. Supervisory</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T13:03:00.000Z"
+  },
+  "company": {
+    "name": "EPITEC",
+    "link": "https://www.linkedin.com/company/epitec"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dearborn",
+    "region": "MI",
+    "postal_code": "48120",
+    "street_address": null,
+    "latitude": 42.32214,
+    "longitude": -83.17594
+  }
+}

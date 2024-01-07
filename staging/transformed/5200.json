@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Title: Site Reliability Engineer</strong></p><p><strong>Remote role (Anywhere in the US)</strong></p><p><strong>Full-time</strong></p><p><br></p><p><strong></strong>Key Skills - Cloud Deployment, Agile, Kubernetes, Opensource, Python, and Elastic Search</p><p><br></p><p><strong>Your Past Experience &amp; Future Success</strong></p><p>5 to 10 years supporting large scale, distributed installations</p><p>Experience operating service in the cloud</p><p><strong>Exposure to and experience with the following tools Ansible, Docker, Kubernetes, Python, Terraform / Terragrunt</strong></p><p>Participating in and contributing to agile methodologies and best practices</p><p>Articulate and personable with strong spoken and written language abilities.</p><p>You engender a sense of mentoring and knowledge sharing amongst your team, hence creating a synergistic learning environment.</p><p>Experience working and collaborate with a distributed SRE and Engineering team</p><p>Self-motivated and sensitive about on-time delivery</p><p><strong>Jenkins and CI/CD pipeline</strong></p><p><strong>Apache Cassandra, Apache Kafka</strong></p><p><strong>Open Source Software Development</strong></p><p><strong>ElasticSearch / OpenDistro / OpenSearch</strong></p><p><strong>HashiCorp Vault</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:16:33.000Z"
+  },
+  "company": {
+    "name": "Triune Infomatics Inc",
+    "link": "https://www.linkedin.com/company/triune-infomatics-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo County",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.48478,
+    "longitude": -122.22815
+  }
+}

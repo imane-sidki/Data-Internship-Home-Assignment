@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>The people here at Apple don\u2019t just build products \u2014 we craft the kind of wonder that\u2019s revolutionized entire industries! It\u2019s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it!<br><br><br>The Site Reliability Engineer (SRE) position requires a mix of strategic engineering and design along with hands-on, technical work. An ideal candidate will have experience in being a Systems Administrator that has moved on to DevOps/Automation in their career. The SRE will configure, tune, and troubleshoot multi-tiered systems to achieve optimal application performance, stability and availability. The SRE will work closely with the systems engineers, network engineers, database administrators, monitoring administrators, and information security teams. For this position, strict application security and high availability requirements must be balanced to achieve optimal solutions.<br><br> <br><strong>Key Qualifications<br></strong> <br>5+ years of expertise with Linux (any distro, but especially RHEL). Standard UNIX utilities and programs<br><br>Expertise related to DevOps engineering including version control systems (Git, SVN), automated build and testing (jenkins, vagrant), configuration management (e.g. Puppet, Chef, Ansible, etc)<br><br>A detailed, test-and-measure approach to continually improving service operations<br><br>Solid knowledge of the operating system networking stack, TCP and UDP, and network interface drivers<br><br>Experience automating workflows with Python, Perl, or Ruby<br><br>Knowledge of hardware and tuning hardware performance to meet specific performance goals<br><br>Strong hands-on knowledge in Unix/Linux environment<br><br>Strong understanding of J2EE application servers<br><br>Track record of practical problem solving, excellent communication, and documentation skills<br><br>Experience with monitoring tools such as icinga/nagios and log aggregation tools such as splunk<br><br>Good understanding of Java is a major plus<br><br>Solid understanding of Oracle Database is a plus<br><br>Understanding of cryptography is a plus<br><br> <br><strong>Description<br></strong> <br>The successful candidate will be highly self-motivated with a passion for excellence, quality and attention to detail. The SRE will work on automation, deployments, aid in architectural design and work closely with the development engineers within the team to assist with the implementation of sophisticated features. <br><br><br>RESPONSIBILITIES OF THE SRE INCLUDE THE FOLLOWING:<br><br><br>Passion for quality and automation, an ability to understand complex systems and a desire to constantly make things better.<br><br><br>Determine efficient configurations for application software, application servers (i.e. JBoss, Tomcat, etc.), database connections and indexes, HSM drivers, etc.<br><br><br>Develop and maintain scripts used for environment monitoring and task automation (Perl, Shell, PHP, etc.)<br><br><br>Experience setting up and running monitoring tools such as Graphite, Prometheus, InfluxDB, Grafana<br><br><br>Set priorities and work efficiently in a fast-paced environment<br><br><br>Measure and optimize system performance<br><br><br>Plan and run capacity of the systems<br><br><br>Explore and evaluate new technologies and solutions to push the capabilities forward, getting ahead of customers\u2019 needs, innovate and continually improve<br><br><br>Strong interpersonal skills and ability to work effectively across multiple business and technical teams<br><br><br>Demonstrate ability to deliver results on time with high quality<br><br><br>Experience with tools such as Docker and Docker based deployments is a plus<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Prefer a BS in engineering, computer science or other technical subject areas plus 5 years of related experience<br><br> <br>Role Number: 200251910<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T05:32:42.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80300,
+    "max_value": 156000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

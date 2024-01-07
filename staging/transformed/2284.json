@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Internet,Financial Services",
+    "description": "<strong><u>Role Overview<br><br></u></strong>As a Software Engineer you'll be working closely with the product management, design and engineering staff, you are a key technical contributor to the design and assembly of new technology, components, capabilities, and products that grow Finder\u2019s capabilities.<br><br>A natural problem-solver, you will work alongside fellow Engineers, your Engineering Lead, Principal, and Product Manager creating solutions. You will act as a force multiplier, exemplifying high productivity, setting the standard as an inspiration for your team. You will champion and embody great software engineering principles to deliver a better experience for our users, and an engaging technology-led engineering environment. You are hungry, and always working on mastery of your craft.<br><br><strong><u>Main Responsibilities<br></u></strong><ul><li>Contribute to the Finder App and related infrastructure through the duration of sprint cycles.</li><li>Continuously work to iterate and improve code so that it\u2019s in a better place than it was left previously. </li><li>Review code from other team members, providing constructive, actionable feedback that represents Finder\u2019s engineering standards.</li><li>Play a critical role in creating architectural designs and diagrams for future services </li><li>Work with your teammates, engaging in discussions around the product development of the Finder App from an engineering lens, questioning decisions, and providing your viewpoint to improve the overall product.</li><li>Attend daily standups, biweekly backlog groomings (this may vary from team to team), retrospectives, and other agile rituals. <br></li></ul><strong><u>Essential Requirements Of The Role<br></u></strong><ul><li>Demonstrable ability to work in a cross-disciplinary delivery team including Software Engineers, Product Managers and Designers.</li><li>Experience working across the stack to deliver an outcome, including working with Node.JS, Typescript, React, React Native, MySQL and GraphQL (not all are required).</li><li>Experience writing well-thought out unit tests (in Jest, or other) that provide coverage in between feature updates and fixes.</li><li>Experience working from an MVP through to launch and Scale. </li><li>Experience working in a fast-paced, energized environment, being comfortable with a bit of ambiguity, and maintaining a curious attitude.</li><li>Expertise in Agile development methodologies.</li><li>Experience in architectural design; including SOA, Microservice architectures, messaging and event processing. </li><li>Continuous integration, deployment, and delivery practices. </li><li>Great communication, and a genuine desire to help the team work better together with a healthy dose of fun.<br></li></ul><strong>Nice to have<br></strong><ul><li>DevOps and networking experience; including monitoring, alerting, and support. </li><li>Crypto-currency passion and/or experience.<br></li></ul>This is not a checklist of requirements, don\u2019t worry if you don\u2019t satisfy all, we\u2019d still love to talk.<br><br><strong><u>Application Process<br><br></u></strong>If this sounds like the kind of opportunity you've been looking for, select the 'Apply Now' button below to submit your cover letter and resume. Use your cover letter to introduce us to you; we want to know who you are, what you've worked on and why you think you'd be a great addition to the Finder team.<br><br><strong>Inclusion<br><br></strong><em>To build technology and products that are used and loved by people and solve real-world problems, we need to build a team with many different perspectives and experiences. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. <br><br></em><em>We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible. Email talent@finder.com with any questions or feedback.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T02:20:51.000Z"
+  },
+  "company": {
+    "name": "Finder",
+    "link": "https://au.linkedin.com/company/finder"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66900,
+    "max_value": 144200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

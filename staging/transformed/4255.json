@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Force-X is seeking a Software Engineer for our client in Suwanee, GA. This is a full-time, Direct Hire position.</strong></p><p><br></p><p>QUALIFICATIONS:</p><ul><li>Requires at least 1 year relevant experience.</li><li>Must be a US person (US citizen or Green Card)</li><li>Adaptable, Flexible, Ability to Learn \u2013 must be able to work with different architecture and software </li><li>Experience with creative problem-solving \u2013 must be able to overcome obstacles with a unique perspective to benefit the team</li><li>Team Player \u2013 must be able to accept a role in a team and work well together, sharing goals, effort, and not afraid to ask for assistance</li><li>Experience with C++ and C# programming.</li><li>Experience with 3D software development (Gaming, Simulation, or Commercial) \u2013 experience in using modern 3D development software and understanding of engine-related optimization, limitation, and strengths.</li><li>Experience with object-oriented and component-oriented programming.</li><li>Experience with database management \u2013 interfacing with a database to external software for handling large amounts of save/load, and data management</li><li>Experience of programing with 3rd party SDK and API \u2013 utilizing 3rd party hardware and software</li><li>Experience with Unity \u2013 as well as packages, C#, and prefab management</li></ul><p><br></p><p>EDUCATION:</p><ul><li>Engineering degree in computer science or relevant field</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T13:44:14.000Z"
+  },
+  "company": {
+    "name": "Force-X",
+    "link": "https://www.linkedin.com/company/force-x"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Suwanee",
+    "region": "GA",
+    "postal_code": "30024",
+    "street_address": null,
+    "latitude": 34.057514,
+    "longitude": -84.0666
+  }
+}

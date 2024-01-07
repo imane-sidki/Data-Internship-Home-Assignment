@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>JOB DESCRIPTION</strong></p><p>Doron Precision Systems, Inc. is a world leader in driving simulation systems and now has an opening for a full-time Software Engineer in Binghamton, New York.</p><p><br></p><p><strong>REQUIREMENTS</strong></p><ul><li>Bachelor's degree in Engineering or Computer Science is required.</li><li>2-4 years related experience.</li><li>Design and programming experience with C, C++ (OOP), Microsoft Visual Studio.</li><li>Software development experience both in a team environment as well as working independently.</li><li>Significant experience with Windows UI and application development.</li><li>Experience with Interface Control Requirements and Documentation.</li><li>Background in real-time simulation and/or game development.</li><li>Some minimal travel may be required.</li></ul><p><br></p><p><strong>PREFERRED</strong></p><ul><li>Working knowledge of vehicle dynamics.</li><li>Experience interfacing to I/O hardware and real-time control loops.</li><li>Experience developing and working with distributed network applications</li></ul><p><br></p><p><strong>JOB DUTIES AND RESPONSIBILITIES</strong></p><ul><li>Responsible for the research, design and writing of software for Company Products.</li><li>Supports/installs software applications/systems.</li><li>Tests new and existing software for faults and corrects any deficiencies.</li><li>Modifies existing programs by analyzing and identifying areas for modification and improvement.</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T14:23:24.000Z"
+  },
+  "company": {
+    "name": "Doron Precision Systems Inc.",
+    "link": "https://www.linkedin.com/company/doron-precision-systems-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Binghamton",
+    "region": "NY",
+    "postal_code": "13904",
+    "street_address": null,
+    "latitude": 42.125893,
+    "longitude": -75.845924
+  }
+}

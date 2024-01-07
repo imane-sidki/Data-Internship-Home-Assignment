@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.</p><p></p><p><strong>Responsibilities</strong></p><p>Experience Band 5-10 years (Software Engineers)</p><ul><li>Extremely proficient in Embedded C, bare metal device driver development, board bring up and BSP/low level (closer to hardware) platform software development</li><li>Expertise in BSP and drivers for at least one or more of the following - PCIe/USB/UFS/NAND (Exposure to Linux drivers is nice to have but not mandatory)</li><li>Beyond the driver software a deep protocol level understanding of one or more of the following (USB/UFS/PCIe) is expected</li><li>Good knowledge on Microprocessors/Microcontrollers - ARM MPU (ARMv7/ARMv8) architectures</li><li>Should have experience in Linux Internals or RTOS, IPC (Message Queues, Shared memory, Semaphores), multithreading, Mutex, etc)</li><li>Familiarity with Open source Linux Kernel and development practices.</li><li>Hands on experience with lab instruments like oscilloscopes, waveforms analyzers, Lauterbach(JTAG) is a plus</li><li>A self-managed individual with excellent problem-solving skills.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T21:45:33.000Z"
+  },
+  "company": {
+    "name": "Wipro",
+    "link": "https://in.linkedin.com/company/wipro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60400,
+    "max_value": 74400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Golang",
+    "industry": "Information Technology and Services,Computer Software,Computer & Network Security",
+    "description": "<p><span>We are looking for a dedicated, hard-working <strong>Sr. Software Engineer</strong> with expertise in Golang to complement our existing engineering staff. This position can be based out of our Lake Mary, FL location, or remote. <br><br></span></p><p><span>We are a group that is passionate about making the Internet a safer place by helping identify the \u201cwho\u201d behind malicious activity. As a Software Engineer at <strong>Team Cymru</strong>, you will be at the forefront of threat intelligence and surrounded by highly experienced professionals in the field of Internet Security.<br><br></span></p><p><span>The right individual will share our passion and Mission to <strong>Save and Improve Human Lives</strong> by making the Internet safer. Team Cymru is THE LEADER in Internet intelligence providing unparalleled global coverage and insight to better monitor, analyze, and predict online activity.<br><br></span></p><p><strong><u><span>The skills you need<br><br></span></u></strong></p><ul><li><span>5+ years&rsquo; experience in enterprise software engineering</span></li><li><span>5+ years&rsquo; experience with Linux</span></li><li><span>1+ years&rsquo; experience with Golang</span></li><li><span>1+ years&rsquo; experience writing and using automated tests</span></li><li><span>1+ </span><span>years&rsquo; experience <span>as a team lead, leading 3+ other engineers</span></span></li><li><span>Experience with Agile Software Development methodologies</span></li><li><span>Experience creating highly concurrent systems</span></li><li><span>Deep understanding of fundamental Internet concepts</span></li><li><span>Ability to work effectively with various technical and non-technical departments</span></li><li><span>Ability to work effectively with geographically distributed teams</span></li><li><span>Ability to create and maintain SQL Database schemas</span></li><li><span>Ability to assess and improve SQL Query performance</span></li><li><span>Ability to use git for version control and code maintenance</span></li></ul><p><strong><u><span>The attitude you need<br><br></span></u></strong></p><ul><li><span>Passion for Software Development</span></li><li><span>Not afraid of asking questions</span></li><li><span>Enjoy learning and overcoming challenges </span></li><li><span>Place high value on collaboration and team success </span></li><li><span>Communication: early and often</span></li></ul><p><strong><u><span>Your day-to-day will involve<br><br></span></u></strong></p><ul><li><span>Writing code</span></li><li><span>Planning development cycles for team</span></li><li><span>Distilling concrete requirements from higher level strategic goals</span></li><li><span>Guiding and tasking the team to meet deliverables</span></li><li><span>Providing technical mentorship</span></li><li><span>Tracking deliverables and coordinating with various teams and stakeholders</span></li><li><span>Performing code reviews with the team</span></li></ul><p><strong><u><span>Technologies you will be working with<br><br></span></u></strong></p><ul><li><span>Golang</span></li><li><span>CentOS</span></li><li><span>PostgreSQL</span></li><li><span>ElasticSearch</span></li><li><span>Kafka</span></li><li><span>Kubernetes</span></li><li><span>Scala</span></li><li><span>Min.io</span></li><li><span>Ansible</span></li><li><span>Jenkins</span></li><li><span>Atlassian stack: JIRA, Confluence, Bitbucket</span></li></ul><p><strong><u><span>What We Offer<br><br></span></u></strong></p><ul><li><span>Competitive pay</span></li><li><span>Medical, Dental, Vision Insurance</span></li><li><span>Substantial PTO</span></li><li><span>Company-matched 401(k) plan</span></li></ul><p><span>The most important benefit of working at Team Cymru is the privilege of being part of a company that works every day towards accomplishing our Mission: <strong>To Save and Improve Human Lives</strong>.<br><br></span></p><p><br><br><br></p><p><strong><em>This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Duties, responsibilities and activities may change, or new ones may be assigned at any time with or without notice.<br><br></em></strong></p><p><strong><em> </em></strong><strong><em>Team Cymru is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.<br><br></em></strong></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:31:39.000Z"
+  },
+  "company": {
+    "name": "Team Cymru",
+    "link": "https://www.linkedin.com/company/team-cymru"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82700,
+    "max_value": 113000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lake Mary",
+    "region": "FL",
+    "postal_code": "32795",
+    "street_address": null,
+    "latitude": 28.759052,
+    "longitude": -81.31781
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer / Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<strong>Remote Unlimited PTO, latest frameworks, consistently voted best places to work!<br><br></strong>This Jobot Job is hosted by Amber Heigerick<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $160,000 - $200,000 per year<br><br><strong>A Bit About Us<br><br></strong>We are a leading cloud-based financial technology company that is looking to add a Senior DevOps Engineer to our dynamic team! The team is crucial to building/deployment/monitoring automation of products for our cloud offering using cutting edge technologies.<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>We believe that everyone deserves to thrive at the company they are part of! We treat our employees like our clients, without you we wouldn't have a company! We have very low turn-over, because we have happy employees. We like to promote from with in whenever possible and 90% of the time, are able to do that. Come join a company that you can learn, grow, have fun, and create memories and experiences that will last a lifetime!<br><br><strong>Job Details<br><br></strong>You will be a key member of our fast-growing and high-performing team;<br><ul><li>The DevOps Architect will, research, define and architect solutions for Source Control, Build and Deployment automation, Continuous Integration, Environment Monitoring, and general developer tools and provide strategic and tactical directions.</li><li>Build software releases and testing new code; as an automation expert using tools that automate the development, testing and integration of software releases/fixes</li><li>Design, develop, and implement software that defines and evolves our infrastructure.</li><li>Troubleshoot production issues and coordinate with the development team to streamline code deployment.</li><li>Implement automation tools and frameworks (CI/CD pipelines).</li><li>Analyze code and communicate detailed reviews to development teams to ensure a marked improvement in applications and the timely completion of projects.</li><li>Collaborate with team members to improve the company's engineering tools, systems and procedures, and data security.</li><li>Optimize the company's computing architecture.<br></li></ul>You should know the following<br><br>5+ years of experience in DevOps Engineering<br><ul><li>Experience with with Infrastructure-as-code concepts and tools, such as Terraform.</li><li>Experience in using template languages for definition of infrastructure provisioning (AWS CFN, OpenStack HOT)</li><li>Experience with Continuous Integration (CI) tools such as Jenkins/Bamboo, source control tools such as Git and Subversion.</li><li>Experience with Atlassian tools setup and administration like Jira, Confluence, Bitbucket, Hipchat</li><li>Must be proficient in one or more scripting languages Unix Shell, Perl, Python.</li><li>Experience in a production environment with Public IaaS and PaaS clouds, such as AWS, Azure, CloudFoundry, Heroku or Private cloud systems, such as OpenStack and Kubernetes<br></li></ul>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T10:13:23.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

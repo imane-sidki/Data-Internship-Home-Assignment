@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Santa Monica, CA Office or Telecommuting",
+    "industry": "Computer Software,Insurance,Financial Services",
+    "description": "Our Enterprise Software Services Department is seeking a Software Engineer to join our team and help pioneer Perr&amp;Knight's innovative next generation web platform and SaaS applications. The ideal candidate will have extensive knowledge of C#, .Net, HTML, CSS, JavaScript, and will be able to shape the application from day one.<br><br><strong><u>What We'll Bring To The Table<br></u></strong><ul><li>Competitive salary including merit-based bonus plan</li><li>Flexible Work Program</li><li>Clear opportunities for career progression</li><li>Company-funded professional educational program</li><li>Generous benefits including: PTO, medical/dental/vision insurance and 401K with matching Company contributions</li><li>Friendly, dynamic work environment</li><li>Visible management commitment to our company core values of: employee development, excellent work product, innovation, integrity, respect for each other and superior customer service<br></li></ul><strong><u>What You'll Be Doing<br></u></strong><ul><li>Architect, design, and implement new features end-to-end</li><li>Modify existing codebase to reflect changing business requirements</li><li>Work with product managers, designers, and engineers to prototype and implement product features</li><li>Other duties as assigned by the Manager of Software Development<br></li></ul><strong><u>What You'll Bring To The Table<br></u></strong><ul><li>Bachelor's degree from an accredited college or university</li><li>Three or more years of IT delivery experience with a solid understanding of Computer Science concepts and programing methodologies</li><li>Advanced knowledge of C# programming and Microsoft technology stack (.NET, ASP.NET MVC, Web APIs)</li><li>Experience using SQL, and understanding of relational database concepts.</li><li>Some experience with front-end web development using HTML5, Javascript, Angular</li><li>Experience using Git, including branching, merging, and resolving merge conflicts</li><li>Experience with CI/CD such as Jenkins, Docker containers and container orchestration tools such as Kubernetes, and AWS or Azure cloud technology a plus</li><li>Ability to effectively communicate verbally and in writing <br></li></ul><strong><u>About Perr&amp;Knight<br><br></u></strong>Founded in 1994, Perr&amp;Knight provides insurance consulting and software solutions to the property &amp; casualty and accident &amp; health industries. Services include actuarial consulting, product development, insurance policy and forms consulting, regulatory compliance, state filings, licensing, technology consulting, statistical reporting, data services, and predictive analytics. Software includes StateFilings.com, which is a leasing cloud-based state filings management solution. With offices in Santa Monica, Boca Raton, the New York metro Area, Fort Worth and Cincinnati, and more than 100 insurance professionals, Perr&amp;Knight is among the largest independent actuarial and insurance consulting firms in the United States.<br><br>Our <strong>mission </strong>as an actuarial and insurance operations consulting firm is to provide extraordinary value to our clients by offering innovative and unique solutions to complex challenges they face while providing a positive and motivating work environment for our employees that respects diversity and recognizes ingenuity and hard work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:02:54.000Z"
+  },
+  "company": {
+    "name": "Perr&amp;Knight",
+    "link": "https://www.linkedin.com/company/perrandknight"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postal_code": "90403",
+    "street_address": null,
+    "latitude": 34.010933,
+    "longitude": -118.491516
+  }
+}

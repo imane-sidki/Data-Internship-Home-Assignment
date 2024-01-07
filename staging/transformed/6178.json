@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "R&amp;D Engineer - Web Developer",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "<strong><u>Company Overview<br><br></u></strong>Hunter Engineering Company is a world leader in automotive service equipment, offering state-of-the-art wheel alignment systems, wheel balancers, lift racks and more. Hunter equipment is approved and used by vehicle manufacturers, dealers, and automotive service facilities around the world. Hunter is at the forefront of change, thanks to our remarkable people who bring cutting-edge products and services to life.<br><br><strong><u>Job Summary<br><br></u></strong>A new lead front end developer would focus on sophisticated high quality web page development. The new developer would support the continued advancement of HunterNET with a range of user centered features for the display and analysis of results.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Design and develop web applications and services that integrate with Hunter's products </li><li> Collaborate\u202fwith\u202fproduct managers, designers, and engineers\u202fto\u202fprototype and implement features \u202f </li><li> Recommend best approaches for front-end architecture, tooling, and processes \u202f <br></li></ul><strong><u>Required<br><br></u></strong><strong> Qualifications <br></strong><ul><li> Bachelor\u2019s degree in Computer Science, Software Engineering, or related engineering and technical field. </li><li> 3 + years of development experience in front end development </li><li> Skilled with HTML , CSS, JS </li><li> Basic familiarity with object-oriented programming concepts and technologies \u202f <br></li></ul><strong><u>Preferred<br></u></strong><ul><li> Experience with front-end frameworks\u202fsuch as React and Vue \u202f </li><li> Experience with Agile development </li><li> Some experience with a\u202fmajor cloud provider \u202f such as Azure </li><li> Skill in understanding and consuming RESTful APIs \u202f </li><li> Knowledge of continuous integration is an advantage.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:24:31.000Z"
+  },
+  "company": {
+    "name": "Hunter Engineering Company",
+    "link": "https://www.linkedin.com/company/hunter-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75400,
+    "max_value": 89500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bridgeton",
+    "region": "MO",
+    "postal_code": "63044",
+    "street_address": null,
+    "latitude": 38.755707,
+    "longitude": -90.4183
+  }
+}

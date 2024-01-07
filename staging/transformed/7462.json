@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer In Test - Windows",
+    "industry": "Telecommunications",
+    "description": "<p><strong>Come to Seattle, WA, to Help Build Public Safety Solutions with Comtech!</strong></p><p>To learn more about Comtech Telecommunications<strong>(CMTL)</strong>, visit our website atwww.Comtech911.com.</p><p>You can see the big picture and get excited about developing and maintaining applications that support emergency 9-1-1 (E911) systems. You also crave an opportunity to work with the best and brightest software development teams, in an environment that is rewarding and collaborative.</p><p></p><p><strong>Your New Opportunity</strong></p><p>Initially, you will be working with world-class software test engineers to learn about the E911 domain and Comtech\u2019s E911 solutions. You will create automated test scripts and utilize your scripting/programing skills in WINDOWS environment. You will implement automation for E911 solution applications to be tested against new requirements. You will be testing all E911 solutions, by simulating call traffic in a test lab. Eventually, as a Software Development Engineer in Test, you will be able to identify innovative approaches for test automation that will boost productivity in functional test as well as performance test. Your position will be vital for the success of Comtech\u2019s software solutions related to E911 calls nationwide.</p><p></p><p><strong>AS AN SDET - YOU WILL HAVE THE FOLLOWING EXPEIRENCE/SKILLS/EDUCATION:</strong></p><ul><li>Professional experience as Automation Engineer especially in Windows software test automation development(3+ years)</li><li>Experience in setting up complex test environments for functional and performance test.</li><li>Strong background in Power Shell scripting, Java, C#, and/or Python</li><li>Experience with automated testing types, tools and techniques (Unit, Functional, Load; JUnit, JMeter, Cucumber, Selenium, Ready API, SoapUI, Jasmine, Karma etc.)</li><li>Strong fundamental in TCP/IP stack.Capable of troubleshoot network related issues using network commands.</li><li>Fundamental knowledge SQL, relational Database, NOSQL.</li><li>Bachelor degree in related field or equivalent education/experience</li></ul><p></p><p><strong>ADDITIONAL VALUED CAPABILITIES INCLUDE:</strong></p><ul><li>In-depth understanding of SIP protocol, TCP/IP and related network protocols</li><li>Experience developing automated tests in an OOP language</li><li>Experience with a cloud technology: Azure or AWS.</li><li>Experience in containers/microservices.</li><li>Experience with performance test techniques and approaches.</li><li>Experience working in Telecommunications industry, familiar with wireless call flows and technology.</li></ul><p></p><p><strong>Comtech is an Equal Opportunity Employer \u2013 M/F/Veteran/Disability/Sexual Orientation/Gender Identity</strong></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:24:27.000Z"
+  },
+  "company": {
+    "name": "Comtech Telecommunications Corp.",
+    "link": "https://www.linkedin.com/company/comtech-telecommunications-corp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

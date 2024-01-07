@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Secure Systems Engineer, Platform Architecture",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Are you someone with an eye for the big-picture who understands how each element of a system affects all the others? Do you enjoy obsessing over the details of a new project and working with key partners to ensure projects are delivered on-time with a high degree of quality?  Does the idea of having a global impact on the security and privacy protections of individual people sound exciting to you?<br><br><br>At Apple, our Platform Architecture group is responsible for connecting our hardware, software, and services into one unified system. You\u2019ll join a team of engineers who are dedicated to securing the world\u2019s most advanced consumer devices. Our products are trusted for storing personal data, protecting individual privacy, and creating a quality user experience across an entire ecosystem of tightly integrated hardware, software, and services.  We're looking for hardworking and inspired individuals to help raise the bar on the security of Apple's products while continuing to ensure a quality user experience across Apple\u2019s growing product line up. <br><br><br>In this role, you will implement platform level security requirements for new products, define and maintain device-level security policies across multiple environments, and drive adoption of platform level security architectures incorporating hardware, software, and server elements, ensuring that we continuously enhance security standards. Together with the rest of the Platform Architecture team, your work will ensure millions of customers all around the world can confidently trust the devices they use every single day.<br><br> <br><strong>Key Qualifications<br></strong> <br>5-10+ years experience<br><br>Ability to effectively lead cross-functional initiatives<br><br>Initiative to provide architectural guidance to teams lacking resident security expertise<br><br>Breadth to work cross-functionally with Privacy, Safety, Service, Manufacturing, Software, and Product teams to resolve system-level security issues<br><br>Strong written and oral communications skills<br><br>Experience effectively communicating highly technical details to non-technical individuals<br><br>Ability to critically analyze security properties of a system and evaluate security policy requests via an established security architecture specification<br><br>Knowledge of basic cryptographic principles (e.g., symmetric vs asymmetric crypto, encryption vs authentication, and public key infrastructure implementations)<br><br>Programming experience with Python, C, and unix shell scripting a plus<br><br> <br><strong>Description<br></strong> <br>As a member of Platform Architecture, you will:<br><br><br>Work directly with security architects to define, maintain, and drive the integration of hardware, software, and server security policies.<br><br><br>Lead cross-functional teams throughout the product development cycle to resolve system-level issues without sacrificing the security architecture, including evaluating hardware and software implementations.<br><br><br>Collaborate with security architects and researchers across Apple including software, hardware, silicon, server, and product groups on this high-visibility team.<br><br><br>Use a wide range of skills to champion adoption of our elite security technologies including creation of golden unit tests, reference data, or sample libraries to aid integration across team boundaries (e.g. client/server).<br><br><br>Define and document secure architectures, and facilitate creation of certificate hierarchies employed in secure personalization, provisioning, and calibration systems.<br><br><br>Build upon existing security policy management processes and ensure a high degree of integrity for both existing and future policy implementation.<br><br><br>Improve the efficiency of on-boarding new security technologies into Apple platforms through the creation of new processes and procedures for common tasks.<br><br><br>Process, evaluate, and respond to access and policy requests from product, engineering, and operational teams in a friendly, customer service oriented manor.<br><br><br>Reduce development friction imposed by security policy through identification and prototyping of tools and process improvements.<br><br><br>Modernize and streamline existing toolchains for security policy management by developing system requirements and driving the implementation with internal support teams.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in Electrical/Computer Engineering or equivalent work experience required.<br><br> <br>Role Number: 200205716<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:42:55.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

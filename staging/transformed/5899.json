@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Front End Development - Remote",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "<strong><u>Job Summary<br><br></u></strong>The Red Hat Management and Automation Engineering team is looking for a Senior Software Engineer with frontend development experience to join us in the U.S. In this role, you will work as part of a diverse team on Red Hat Insights for Red Hat Ansible Automation Platform, a collection of tools that enable our users to make decisions around their organizations\u2019 Red Hat Ansible Automation Platform usage through data analytics, visualizations, and reporting. The application is provided as a cloud-based service which enables our idea-to-production workflow to move fast. You\u2019ll help us think in terms of MVPs and iterations to continuously improve and enhance our offerings to customers. Our agile development process is always evolving, and we want everyone on the team to be empowered to provide feedback to help us continuously improve that too. You\u2019ll enjoy this position if you have a curious and collaborative mindset and enjoy working as part of a team. You won\u2019t be expected to be an expert on everything right from the start. As a Senior Software Engineer, you\u2019ll need to have good problem-solving skills and willingness to learn and find information about best practices with the emerging technologies we use. You should have a passion for UI design and implementation and good attention to detail and get excited about adding the last 10% of UI polish to a feature before it goes live to customers. You\u2019ll should be a developer with some of the listed experience and qualifications, but we encourage you to apply even if you don\u2019t check every box. Successful applicants must reside in a state where Red Hat is registered to do business.<br><br><strong><u>Primary Job Responsibilities<br></u></strong><ul><li>Design, develop, support, and debug new UI features based on customer requirements; our core technologies are React.js, TypeScript, styled-components (CSS-in-JS), the PatternFly component library, Jest/React Testing Library unit testing, and D3.js as well as a custom solution based on Victory for visualization</li><li>Collaborate with UX designers, product management, and documentation experts to make decisions on how our offerings should operate</li><li>Support quality engineers and system reliability administrators through identifying and addressing issues in our staging and production environments</li><li>Mentor other engineers, including providing and receiving thoughtful feedback</li><li>Use source control tools like GitHub and project management tooling like Jira to provide empathetic code reviews and clear communication across the team</li><li>Use analytics tools including Pendo to help make metrics-driven business decisions so that we can constantly improve UX and increase the adoption of our offerings<br></li></ul><strong><u>Required Skills<br></u></strong><ul><li>Significant experience with React.js or other modern JavaScript frameworks</li><li>Familiarity with Python and REST APIs; we communicate with REST APIs written in Python, so understanding of backend architecture is a plus</li><li>Solid knowledge of automated unit, integration, functional, and end-to-end testing, both in terms of technologies as well as the best practices of writing testable code and useful tests</li><li>Working knowledge of English and good communication skills</li><li>Ability to use the browser\u2019s profiling tools to do analysis and improve performance issues as they arise is a plus</li><li>Experience working on enterprise applications and interest in DevOps and IT automation tooling like Red Hat Ansible Automation Platform is a plus<br></li></ul><strong><u>About Red Hat<br><br></u></strong>Red Hat is the world\u2019s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future.<br><br><strong><u>Benefits<br></u></strong><ul><li>Comprehensive medical, dental, and vision coverage</li><li>Flexible Spending Account - healthcare and dependent care</li><li>Health Savings Account - high deductible medical plan</li><li>Retirement 401(k) with employer match</li><li>Paid time off and holidays</li><li>Paid parental leave plans for all new parents</li><li>Leave benefits including disability, paid family medical leave, and paid military leave</li><li>Additional benefits including employee stock purchase plan, family planning reimbursement, tuition reimbursement, transportation expense account, employee assistance program, and more! <br></li></ul><strong>Note</strong>: These benefits are only applicable to full time, permanent associates at Red Hat located in the United States.<br><br>Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.<br><br>Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:46:54.000Z"
+  },
+  "company": {
+    "name": "Red Hat",
+    "link": "https://www.linkedin.com/company/red-hat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95100,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

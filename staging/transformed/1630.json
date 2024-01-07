@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web , Figma helps entire product teams brainstorm , create, test, and ship better designs, together. From great products to long-lasting companies, we believe that nothing great is made alone\u2014come make with us!<br><br>We are looking for an experienced Data Scientist to join our growing team. In this role, you will partner directly with one of our core product teams to uncover insights, influence decision making, and apply a data lens to business problems critical to Figma\u2019s growth. The ideal candidate will have experience in using data to influence product teams and help them achieve their goals, values up-leveling the broader team, and is a compelling data storyteller.<br><br><em>This is a full time role that can be held from one of our US hubs or remotely in the United States.<br><br></em><strong>What you'll do at Figma:<br><br></strong><ul><li>Leverage various data science methods such as machine learning, statistical modeling, and causal inference to understand user behavior and optimize the product experience</li><li>Design and evaluate experiments from A/B tests to more advanced designs to measure the effects of the collaborative nature of Figma</li><li>Generate ideas to creatively leverage data for shaping future product roadmaps</li><li>Drive democratization of data through creation of new datasets and tooling</li><li>Design and surface metrics to guide decision making</li><li>Collaborate with cross-functional teams including Product, Engineering, Research, Design, Sales, and Marketing<br><br></li></ul><strong>We'd love to hear from you if you:<br><br></strong><ul><li>Degree in a quantitative field(Advanced degree preferred)</li><li>2+ years relevant work experience</li><li>Fluency in Python, R or similar scripting language</li><li>Proficiency in SQL</li><li>Experience in distributed data processing systems(Hive, Redshift, Presto, Snowflake, etc)</li><li>Breadth of knowledge around statistical methods and experiment design, including A/B testing, sequential testing, synthetic control, cluster-randomized testing</li><li>Excellent judgment and creative problem solving skills</li><li>A self-starting mindset along with strong communication and collaboration skills<br></li></ul>At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you\u2019re excited about this role but your past experience doesn\u2019t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.<br><br><strong>Read more about our team:<br><br></strong><ul><li> By the numbers: one year of remote work </li><li> Figma's engineering values </li><li> Measuring the value of design systems </li><li> Investing in Figma: The Decade of Design </li><li> How work is changing at Figma </li><li> Figma's next product is a multiplayer whiteboard called FigJam </li><li> Software Design Startup Figma Is Now Worth $10 Billion <br><br></li></ul><strong><u>About Figma<br><br></u></strong>Dylan Field and Evan Wallace co-founded Figma in 2012 with the vision of building tools for designers in the browser. Their goal was to create the first design tool that combined the accessibility of the Web with the functionality of a native app. Today Figma is a platform with tools and spaces to support the entire product development process\u2014idea to design to build\u2014and has simplified collaboration for companies like Microsoft, Uber, and The New York Times to name a few.<br><br>At Figma, we celebrate and support our differences. We know employing a team rich in diverse backgrounds, experiences, and opinions allows our employees, products, and community to flourish. Figma is an equal opportunity workplace\u2014we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national orientation, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-05T03:14:49.000Z"
+  },
+  "company": {
+    "name": "Figma",
+    "link": "https://www.linkedin.com/company/figma"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118300,
+    "max_value": 256700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

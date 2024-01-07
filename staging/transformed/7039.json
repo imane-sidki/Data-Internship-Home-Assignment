@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Our Amazing #TeamSparkpost</strong></p><p>SparkPost is the industry\u2019s most trusted email optimization platform. SparkPost helps senders reliably reach the inbox with powerful solutions to help them plan, execute and optimize their email programs. The SparkPost platform is powered by the industry\u2019s largest data network, a team of email experts to help brands elevate every aspect of their email program, and a security and compliance posture to support even the most regulated industries. SparkPost is the world\u2019s largest sender, delivering 40% of all commercial email - 4-5 trillion sent annually - and also boasts the world\u2019s largest data footprint to help enterprise-level brands make data-driven decisions to improve their email performance. The world\u2019s most sophisticated senders, including The New York Times, Zillow, Adobe and Booking.com trust SparkPost to elevate their email.</p><p></p><p></p><p><strong>What You\u2019ll Do in This Role to Add Value</strong></p><p>At Sparkpost, we value Site Reliability Engineering methodologies and concepts. SRE\u2019s play a critical role at Sparkpost and are largely responsible for designing, building and maintaining the solutions for infrastructure and application deployment management with an emphasis in scalability, fault tolerance, performance and monitoring.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Build and maintain tooling to automate and continuously improve the provisioning of infrastructure in AWS with emphasis on scalability, reliability, resiliency, zero downtime and ability to rollback.</li><li>Design and develop tools, scripts and frameworks to enable self-service capabilities.</li><li>Design and develop automation workflows, performing unit tests and conducting reviews to make sure your work and work of others is elegantly coded and tuned effectively with emphasis in platform performance and resiliency.</li><li>Design and implement monitoring and alerting that are actionable and backed with detailed documentation on how to take action on alerts.</li><li>Ability to effectively coordinate with Architecture, SREs and engineering teams to propose and develop solutions.</li><li>Work closely with software development and testing teams assuring that software is reliable and scalable.</li><li>Excellent system and network troubleshooting skills with Linux/Unix.</li><li>Participate in 24x7 On-call rotation to support customers</li></ul><p></p><p><strong>Required Skills/Qualifications</strong></p><ul><li>Strong knowledge of Test Driven Development</li><li>Comfortable with Architecture Modelling, plus for familiarity with the C4 Model of Architecture Diagrams</li><li>1+ years of experience working under a scrum model</li><li>4+ years of experience working with public cloud infrastructure ( either AWS, Azure, or Google Cloud Platform)</li><li>4+ years of experience implementing and operating production workloads in public cloud provider, preferably with AWS using automated provisioning</li><li>2+ years of experience with Git</li><li>3+ years of experience building with infrastructure-as-code and configuration management tools (CloudFormation, Terraform, Chef, Puppet or Ansible)</li><li>4+ years of experience in software development or scripting, including deep knowledge of at least one of the following languages: Bash, Java, Ruby, or Typescript</li><li>3+ years of experience in application monitoring and log analytics tools (Datadog, New Relic, Splunk/ELK) with a solid understanding of how to implement effective automated application monitoring for mission critical applications</li><li>2+ years of experience in leading medium-to-large scale deployments of applications hosted on AWS which includes automating every aspect of delivering those applications</li><li>2+ years of experience in a public facing high-traffic production Web or Email Operations environment</li><li>In-depth understanding of SMTP, HTTP, TCP, REST APIs and related protocols</li><li>Experience with Apache/NGINX, Load Balancers, DNS, NTP, Virtual Machines, and OpenVPN</li><li>Strong understanding of modern virtualized server hardware, ability to identify resource issues related to utilization of CPU\u2019s, memory, disk IO, and network IO.</li><li>2+ years of experience with SQL and NoSQL databases</li><li>2+ years of experience implementing monitoring/alerting systems in an automated fashion using services such as Circonus, Datadog, New Relic, Nagios, etc.</li><li>Strong analytical and problem-solving skills including the ability to quickly identify trends and patterns and ability to identify root causes of problems and candidate solutions</li><li>Ability to work collaboratively across multiple teams in multiple locations, participate in code reviews</li><li>Proven track record of self-motivated expansion of technical knowledge</li></ul><p></p><p><strong>Desired Skills/Experience</strong></p><ul><li>Certification in AWS, either Devops, Sysops or SA</li><li>Experience with either Javascript, C or LUA</li><li>Experience with BGP, Internet Routing and AWS network stack would be a plus</li></ul><p></p><p><em>Sparkpost provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em></p><p></p><p><em>This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</em></p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T00:28:07.000Z"
+  },
+  "company": {
+    "name": "SparkPost",
+    "link": "https://www.linkedin.com/company/sparkpost"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Sports",
+    "description": "We are DraftKings. We\u2019re inspired by our shared passion for developing creative solutions to complex challenges and empowering the people around us to do their best work. We are industry leaders in the digital entertainment and technology space propelled by constant curiosity and diverse perspectives.<br><br>Our teams are fueled by innovation. We are looking ahead, building what\u2019s next, and continuously reinventing the industry. We\u2019re a publicly traded (NASDAQ: DKNG) technology company headquartered in Boston, with teams around the world and an expanding global presence.<br><br>Building the Possibilities.<br><br>We\u2019re growing rapidly. As a Site Reliability Engineer, you will help us continue running our applications smoothly as our business scales. DraftKings solves some of the most interesting challenges in the tech industry, and when you join our team, you\u2019ll have the opportunity to see your ideas and solutions directly impact our products.<br><br>What you will do as a Site Reliability Engineer:<br><ul><li>Create self-provisioning infrastructure using tools like Chef, Terraform, and Docker</li><li>Learn how to define key metrics and SLAs around new web services being created to support our rapid traffic growth</li><li>You will learn how to design and implement monitoring and alerting strategies to enforce application SLAs</li><li>You will also foster a continuous deployment ecosystem that will allow DraftKings to operate at a massive scale.<br><br></li></ul>What you'll bring:<br><ul><li>Your experience with cloud environments and provisioning automation</li><li>Understanding of common scripting languages (Ruby, Python, Bash).Experience working with at least one object-oriented language (Java, C#, etc.)</li><li>Working knowledge of networking and web concepts and ability to debug issues down to the packets</li><li>Understanding of the Linux/Windows command line and system operations</li><li>Working knowledge of basic systems metrics like CPU, memory, and processes<br><br></li></ul>Join Us!<br><br>We strive to create a place where all feel safe, empowered, engaged, championed, and inspired. DraftKings is proud to be an equal opportunity employer. This means we do not tolerate discrimination of any kind and are committed to providing equal employment opportunities regardless of your gender identity, race, nationality, religion, sexual orientation, status as a protected veteran, or status as an individual with a disability.<br><br>Ready to build what\u2019s next? Apply now.<br><br>As a regulated gaming company, you may be required to obtain a gaming license issued by the appropriate state agency as a condition of employment.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T21:39:51.000Z"
+  },
+  "company": {
+    "name": "DraftKings Inc.",
+    "link": "https://www.linkedin.com/company/draftkings-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

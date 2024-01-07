@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Test",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "At Genesys, we\u2019ve built the best cloud-based Customer Experience (CX) service offerings, which handles millions of interactions a day. Our infrastructure involves hundreds of services deployed across 9 environments globally, and we push out dozens of product builds per day using a top-notch CI/CD pipeline.<br><br>We are looking for a talented Software Engineer, Test to work with our Data Analytics team focusing on automated testing of big data processing and batch data actions.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Help develop new features for our platform service with quality built in. </li><li>Triage failed automated test executions and report defects when appropriate. </li><li>Participating in code reviews, direct collaboration, and open discussion of ongoing work. </li><li>Develop automation for new features and processes. </li><li>Assist development teams on testing best practices. </li><li>Determine whether to deploy new code to production regions. <br></li></ul><strong><u>Requirements<br></u></strong><ul><li>A Bachelor of Science degree in Computer Science or related degree or equivalent in work experience. </li><li>Proficiency using Java. </li><li>Previous experience using test frameworks like Selenium and TestNG. </li><li>Understanding of cloud computing, ideally AWS. <br></li></ul><strong><u>Nice To Have<br></u></strong><ul><li>Agile/Scrum experience. </li><li>Best practices for CI/CD. </li><li>Proficiency using Python. </li><li>Experience testing RESTful API\u2019s </li><li>Experience with big data tools like Apache Spark. </li><li>Experience with Amazon Elastic MapReduce (EMR) </li><li>Experience using version control systems like GitHub and BitBucket. <br></li></ul><strong><u>Benefits<br></u></strong><ul><li>Medical, Dental, and Vision Insurance </li><li>Telehealth coverage </li><li>Flexible work schedules and work from home opportunities </li><li>Development and career growth opportunities </li><li>Open Time Off </li><li>401(k) matching program </li><li>Adoption Assistance </li><li>Infertility treatments <br></li></ul>See more Genesys benefits information at https://mygenesysbenefits.com/",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-01T00:51:21.000Z"
+  },
+  "company": {
+    "name": "Genesys",
+    "link": "https://www.linkedin.com/company/genesys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Indianapolis",
+    "region": null,
+    "postal_code": "46201",
+    "street_address": null,
+    "latitude": 39.76474,
+    "longitude": -86.16893
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Internet,Consumer Services",
+    "description": "<strong><u>About Harvest<br><br></u></strong>Harvest is an industry-leading, independent software company that makes tools to help businesses run more smoothly. We believe that businesses only succeed by using their time intentionally. Our products support our customers through time tracking, reporting, and forecasting features.<br><br>Harvest started in 2006 as a team of three and has grown to today\u2019s current team of over 60 with Harvesters working from around the globe. We\u2019ve worked as a remote team since the beginning and we continue to hire the right people for the job no matter where they call home.<br><br>We strive to create a workplace culture where everyone feels valued, included, and heard. One important aspect of this is continuing to create spaces for diverse life experiences and work histories. If you are a member of a group that is historically underrepresented and disadvantaged in tech, business, and society in general, we want to meet you and we encourage you to apply.<br><br><strong>The Team<br><br></strong>The Harvest <strong>Site Reliability Engineering (SRE)</strong> Team is tasked with keeping all of our applications online and running smoothly. We have wide-ranging responsibilities and strive to self-select which projects we work on based on our individual interests. Our team of five (at present) is collaborative, curious, loves designing resilient infrastructure, and perhaps best of all - we are empowered to have fun in the process!<br><br><strong>The Role<br></strong>It\u2019s an exciting time on the infrastructure front at Harvest, and we are thrilled to be expanding our team by *two* site reliability engineers! We are designing new production systems in various cloud services, and folks with experience in designing resilient cloud infrastructure will have a lot of fun at this particular stage we are at.<br><br>The SRE Team has a weekly on-call rotation, and we are mindful of the overhead of being on-call. The week following your on-call shift you are free to take a day off of work to make up for the overhead of being on-call. That is a theme on our team Protecting your free time.<br><br>Based on our team\u2019s current geographical distribution, we are particularly interested in candidates in the US Pacific, and US Mountain Time Zones for this role, but we welcome applicants from anywhere in the world. More than half of the current SRE team is based in Europe.<br><br><strong><u>What You'll Do<br></u></strong><ul> <li>Deploy and manage a growing set of cloud services to host multiple applications</li> <li>Design backup and redundancy strategies to keep our customers' data safe</li> <li>Develop monitoring systems so we know when things stop working</li> <li>Respond if those monitoring systems ever generate alerts</li> <li>Help the various teams at Harvest be productive by building internal tools and collaborating on technical projects</li> <li>Interface with customers to troubleshoot issues</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Experience building and troubleshooting cloud hosting systems in either Google Cloud, or AWS.</li> <li>Experience supporting production deployments of a RDBMS, particularly MySQL or PostgreSQL</li> <li>Experience participating in regular on-call rotations as part of an SRE or DevOps team</li> <br><br></ul><strong><u>Helpful Experience<br></u></strong><ul> <li>Experience operating production infrastructure using Google Cloud Platform</li> <li>Experience with Kubernetes, and particularly Google Kubernetes Engine</li> <li>Experience with Prometheus</li> <li>Experience with ELK stack tools</li> <li>Ability to troubleshoot MySQL issues, such as slow SQL queries</li> <li>Some experience working remotely in a distributed team</li> <br><br></ul><u><strong>Benefits<br><br></strong></u>At Harvest, our compensation consists of three main components<br><ul> <li> <em>A competitive base pay </em> Every Harvester with the same role expectations receives the same base pay. And we aim to pay at the top of the market (informed by third-party data) for all roles.</li> <li> <em>Individual and company performance bonus plans </em> We believe in rewarding performance, so all Harvesters are eligible to receive an individual and company performance bonus after working with Harvest for a period of time.</li> <li> <em>Competitive benefits*</em> We offer a number of benefits, including<br><ul> <li>15 days of vacation in your first year, plus company holidays and a week off for winter break. And you\u2019ll get an addition two days per year until you reach twenty days.</li> <li>100% coverage of health insurance premiums across our medical, dental, and vision plan offerings for you, your spouse, and your dependents</li> <li>A yearly budget for your professional learning and development goals</li> <li>401k planning with a 6% company match after three months with the company</li> <li>16 weeks of paid family leave to all new parents with the option to use it all at once or throughout the baby\u2019s first year as well as a virtual platform providing support across fertility, pregnancy, adoption, and through your first year of parenting</li> <li>A charitable giving matching program to support your contributions to your favorite charitable organizations</li> <li>And much more...</li> </ul> </li> </ul><li>Some of the benefits described are only available to U.S.-based Harvesters. Benefits information for non-U.S.-based Harvesters will be provided to individuals who interview for those roles.</li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-24T03:30:57.000Z"
+  },
+  "company": {
+    "name": "Harvest",
+    "link": "https://www.linkedin.com/company/harvest_2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

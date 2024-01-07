@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "UI Software Engineer",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "<strong><u>Responsibilities<br></u></strong><ul><li>Contribute to flagship products as part of a creative cross-functional team</li><li>Work closely together with design team and UI/UX experts and leverage design as code concept.</li><li>Building automated frameworks for safe production deployments which can easily be maintained and operated by SRE's</li><li>Always learn and bring new concepts and technology to your team<br></li></ul><strong><u>Requirements<br></u></strong><ul><li>Work experience in some of the following areas: Javascript, Typescript, Python, Rest APIs, React, Angular, </li><li>Produce front-end code and visual components to create a polished and highly functional user interface with a focus on usability and simplicity of design</li><li>Eager to learn enough about whatever tools or tricks are needed to make things work</li><li>Cares about readable, performant, reliable, and secure code</li><li>UI developer that designs, develops, tests, reviews code, documents and deploys</li><li>3+ years of experience<br></li></ul><strong><u>Your Key Interests<br></u></strong><ul><li>Mobile development, using cross platform UI design and code</li><li>Following latest trends on UI technologies, and UI development processes</li><li>Automated testing of UI functionality</li><li>Cloud environments such as AWS, Google Cloud Platform and Azure</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:13:44.000Z"
+  },
+  "company": {
+    "name": "W3Global",
+    "link": "https://www.linkedin.com/company/w3global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

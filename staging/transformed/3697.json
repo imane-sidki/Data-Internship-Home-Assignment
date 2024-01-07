@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, New Graduate",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Our mission at Duolingo is to develop the best education in the world and make it universally available. But we\u2019ve got more left to do \u2014 and that's where you come in!<br><br>Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we have also entered into literacy with Duolingo ABC and English proficiency testing with the Duolingo English Test .<br><br>We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!<br><br>As an ML Engineer, you will apply your background in machine learning to develop state-of-the-art product features using classification, regression, and other techniques for applications in personalization, natural language processing, speech technologies, anomaly detection, forecasting, and so on. In many cases, you\u2019ll have to invent new technologies to tackle unique Duolingo data! You will be part of a fun and multi-functional team building intelligent software used by millions of people, around the world, every day.<br><br><strong>You Will...<br></strong><ul><li>Apply AI/ML methods to massive data sets</li><li>Prototype new models, evaluate with offline experiments, and then productionize solutions at scale to millions of daily users</li><li>Work with a multi-functional team of award-winning designers, researchers, engineers, and others to build new product features</li><li>A few example projects include:</li><li>The Duolingo English Test ( TACL paper )</li><li>Novel bandit algorithm for mobile notifications ( KDD paper )</li><li>Shared task on translation &amp; paraphrasing ( ACL paper )</li><li>Novel model of vocabulary forgetting ( ACL paper )<br></li></ul><strong>You Have...<br></strong><ul><li>PhD or MS in computer science or related field, graduating in 2021-22.</li><li>Experience implementing ML systems in Python, Java, Scala, or C/C++ (i.e., not just R or MATLAB)</li><li>Excellent presentation and communication skills</li><li>Strong debugging and critical thinking skills</li><li>Ability to relocate to Pittsburgh, PA<br></li></ul><strong>Exceptional Candidates Will Have...<br></strong><ul><li>2+ years industry experience as a software engineer (e.g., commercial products or government/industry research projects)</li><li>A portfolio of relevant publications or open-source projects</li><li>A desire to keep up with the field by attending or publishing at relevant conferences (ICML, NeurIPS, ACL, EMNLP, KDD, AAAI, ICLR, CVPR, etc.)<br></li></ul><strong>Why You'll Love Working Here...<br></strong><ul><li>Language learning opportunities</li><li>Catered in-house lunches, plus breakfast and dinner options</li><li>Company-wide Hackathon</li><li>PTO and company holidays</li><li>Frequent company-wide dinners, celebrations, social clubs, and more</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:12:59.000Z"
+  },
+  "company": {
+    "name": "Duolingo",
+    "link": "https://www.linkedin.com/company/duolingo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

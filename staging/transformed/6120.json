@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Staffing and Recruiting",
+    "description": "<strong><u>Essential Duties And Responsibilities<br></u></strong><ul><li>Deploy and maintain infrastructure in both AWS and DataCenter.</li><li>Generate documentation and clear communication on projects from development to delivery.</li><li>Be responsible for AWS, DataCenter, Windows and Linux systems up time and performance.</li><li>Manage and maintain: Kubernetes, Docker, Chef, JFrog Artifactory.</li><li>Work closely with software engineers and tech leadership to drive projects.</li><li>Build and run production environments in AWS using Infrastructure as code methods.</li><li>Orchestrate environment development using Kubernetes, Terraform and/or Cloud Formation.</li><li>Build &amp; Deploy CI pipeline automation to a combination of Kubernetes/Docker and VM based systems in both VMWare and AWS.</li><li>Work closely with System Architects, Engineers, Product Managers and System Administrators to meet their environment setup and service automation needs.</li><li>System monitoring &amp; analytics.<br></li></ul><strong><u>Required<br><br></u></strong><strong><u>Experience<br></u></strong><ul><li>Bachelor\u2019s degree</li><li>Experience in system build configuration automation</li><li>3+ years of experience in Linux.</li><li>2+ years of experience building and maintaining a SaaS platform</li><li>2+ years working experience with AWS: VPC, EC2, RDS, Cloudformation.<br></li></ul><strong><u>Preferred<br></u></strong><ul><li>Experience using Terraform</li><li>Must be passionate about automation.</li><li>Experience with task management and tracking.</li><li>Professional experience in software engineering and development.</li><li>Scripting skills in one of Ruby/Bash/Python.</li><li>Build and release automation tools: Jenkins, GIT, Docker.</li><li>Production system integration, log collection and analysis, build and performance monitoring/tuning.</li><li>Design and implement availability, security and performance monitoring.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T05:52:02.000Z"
+  },
+  "company": {
+    "name": "Sayva Solutions",
+    "link": "https://www.linkedin.com/company/sayva-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

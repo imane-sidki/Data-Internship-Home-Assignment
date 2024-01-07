@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Xignite Engineering is a talented, energetic team building out a highly scalable and reliable cloud-computing architecture that powers Xignite and enables the business to grow rapidly. Our engineering team creates complete end-to-end technology products and solutions to deliver financial market data timely and accurately to our customers.</p><p><br></p><p><strong>The Role</strong></p><ul><li>Design, build, and deploy high performance, fault-tolerant, scalable front end and back end servers for fast optimized web services.</li><li>Gain a deep understanding of the financial industry and business requirements, and work with the product team to create just-in-time deliverables</li><li>Leverage your knowledge and understanding to create innovative business solutions</li><li>Drive improvements in team productivity through tools, processes, test-driven development, and continuous refactoring</li><li>Take full ownership and responsibility for the success of your deliverables, from design through production deployment</li><li>Ability to work in a fast-changing environment</li></ul><p><br></p><p><strong>Required Skill Set</strong></p><ul><li>BS, MS or PhD in Computer Science or related discipline/experience</li><li>2-5 years experience with .NET</li><li>Proficiency with C#</li><li>Solid object oriented design and analytical skills</li><li>Highly self-motivated, with a strong sense of ownership and urgency</li><li>Good communication skills</li></ul><p><br></p><p><strong>Bonus Skills</strong></p><ul><li>Deep .NET Core skills in memory management, multi-threading, serialization</li><li>Experience developing for and deploying to the cloud, AWS or Microsoft Azure</li><li>Experience building large-scale server applications or distributed systems.</li><li>SQL experience, (SQL Server or MySQL)</li><li>Key/value stores</li><li>Experience with microservices, Linux, Docker, REST API,Akka.Net, gRPC, OAuth/OpenID</li><li>Experience with automated test frameworks</li><li>Knowledge of financial market data</li><li>Maintaining a GitHub like account, contributing to open source projects, posting answers on StackOverflow</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T01:12:23.000Z"
+  },
+  "company": {
+    "name": "Xignite",
+    "link": "https://www.linkedin.com/company/xignite"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

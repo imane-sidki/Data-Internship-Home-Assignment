@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Financial Services,Hospital & Health Care",
+    "description": "<strong><u>Job Description<br><br></u></strong>Participates in the development, validation and delivery of algorithms, statistical models and reporting tools. Solves moderately complex analytical problems.<br><br><strong><u>Fundamental Components<br><br></u></strong>Develops, validates and executes algorithms and predictive models to investigate problems, detect patterns and recommend solutions<br><br>Explores, examines and interprets large volumes of data in various forms<br><br>Performs analyses of structured and unstructured data to solve moderately complex business problems<br><br>Utilizing advanced statistical techniques and mathematical analyses<br><br>Develops data structures and pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needs<br><br>Uses data visualization techniques to effectively communicate analytical results and support business decisions<br><br>Creates and evaluates the data needs of assigned projects and assures the integrity of the data<br><br>Explores existing data and recommends additional sources of data for improvements<br><br>Documents projects including business objectives, data gathering and processing, detailed set of results and analytical metrics<br><br><strong><u>Required Qualifications<br><br></u></strong>3 years of relevant programming or analytic experience<br><br><strong><u>Preferred Qualifications<br><br></u></strong>Demonstrates good written and verbal communication skills. Able to present information to various audiences<br><br>Effectively resolves problems and roadblocks as they occur<br><br>Demonstrates proficiency in several areas of data modeling, machine learning algorithms, statistical analysis, data engineering and data visualization<br><br>Ability to work with large data sets from multiple data sources<br><br><strong>Education<br><br></strong>Bachelor's degree or equivalent work experience in Mathematics, Statistics, Computer Science, Business Analytics, Economics, Physics, Engineering, or related discipline.<br><br>Master's degree preferred<br><br><strong><u>Business Overview<br><br></u></strong>At CVS Health, we are joined in a common purpose: helping people on their path to better health. We are working to transform health care through innovations that make quality care more accessible, easier to use, less expensive and patient-focused. Working together and organizing around the individual, we are pioneering a new approach to total health that puts people at the heart.<br><br>We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an equal opportunity and affirmative action employer. We do not discriminate in recruiting, hiring or promotion based on race, ethnicity, sex/gender, sexual orientation, gender identity or expression, age, disability or protected veteran status or on any other basis or characteristic prohibited by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T02:40:51.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

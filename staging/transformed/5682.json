@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Operations)",
+    "industry": "Computer Software,Financial Services,Information Services",
+    "description": "<p>Trading Technologies creates professional trading software, infrastructure and data solutions for a wide variety of users, including proprietary traders, brokers, money managers, CTAs, hedge funds, commercial hedgers and risk managers. In addition to providing access to the world\u2019s major international exchanges and liquidity venues via its TT\u00ae trading platform, TT offers domain-specific technology for cryptocurrency trading and machine-learning tools for real-time trade surveillance.</p><p><br></p><p><strong><u>POSITION SUMMARY</u></strong></p><p><br></p><p>We are seeking Site Reliability Engineers for our team who thrive on pushing the limits of technology to produce state of the art solutions. Our SRE team is challenged with creating scalable solutions for monitoring live trading infrastructures, building command frameworks, and generating actionable alerts. SRE team members are tasked with keeping the TT trading platform running on a day-to-day basis, and ensuring a stable platform by working on a number of strategic initiatives to ease operational work. The SRE team continually builds tools to monitor the state of the TT platform and take action to correct as needed.</p><p><br></p><p><strong><u>WHAT WILL YOU BE INVOLVED WITH?</u></strong></p><p><br></p><ul><li>Provide troubleshooting and support of trading system issues across the software, hardware, and network stacks to ensure that services are restored immediately</li><li>Monitor the state of the TT platform, action alerts, and execute tools to restore the state of the system and escalate issues</li><li>Automate operational tasks using Python</li><li>Define metrics needed to measure service performance and health, and implement and maintain metrics collection tools</li><li>Participate in design discussions, review sessions and prototyping</li><li>Ensure the scalability and availability of the platform</li><li>Work one-on-one with other application teams to ensure proper monitoring and tools are in place before the application moves into a live environment</li></ul><p><br></p><p><strong><u>QUALIFICATIONS &amp; TT CULTURE</u></strong></p><p><br></p><ul><li><strong><em>What You Bring to the Table:</em></strong></li><li>Experience with Icinga2, Prometheus,ELK, or similar metrics logging and monitoring tools</li><li>Experience with AWS a plus</li><li>Minimum 2 years of scripting experience, Python preferred</li><li>Experience providing troubleshooting and support for trading systems is a plus</li><li>Good understanding of backend and server side components</li><li>Ability to work outside of standard business hours on an as-needed basis</li><li>Proven and strong communication skills</li><li>Must be self-directed, flexible and have the ability to prioritize and handle multiple projects simultaneously</li><li>Experience working in an Agile environment a plus</li></ul><p><br></p><ul><li><strong><em>What We Bring to the Table:</em></strong></li><li>Competitive benefits, including: medical, dental, vision, FSA, 401(k) and pre-tax transit/parking</li><li>Flexible work schedules, 22 PTO (paid time off) days per year with the ability to roll over days into the following year, robust paid holiday schedule with early dismissal, generous parental leave (for all genders and staff, including adoptive parents) and backup child care</li><li>Tech resources, including: company-provided Mac or PC laptop and/or mobile phone of your choice, \u201crent-to-own\u201d plans that deduct the buyout price of company-provided tech resources overtime; and a tech accessories budget for monitors, headphones, keyboards, etc.</li><li>Stipends and subsidy contributions toward personally-owned cell phones and laptops, gym memberships, and health/wellness initiatives (including weight-loss and smoking cessation)</li><li>Casual dress code and inspiring, motivating office environment</li><li>Forward-thinking, culture-based organization with collaborative teams that promote diversity and inclusion through efforts such as TT Women in Tech</li><li>Internal culture committee dedicated to evolving company-wide camaraderie through onsite, offsite and international team-building events</li></ul><p><br></p><p><em>Trading Technologies (TT) is an equal opportunity employer. Equal employment has been, and continues to be a required practice at the Company. Trading Technologies\u2019 practice of equal employment opportunity is to recruit, hire, train, promote and base all employment decisions on ability, rather than race, color, religion, national origin, sex, age, disability, sexual orientation, genetic information or any other protected status. Additionally, TT participates in the E-Verify Program for our US offices.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T22:04:55.000Z"
+  },
+  "company": {
+    "name": "Trading Technologies",
+    "link": "https://www.linkedin.com/company/trading-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66800,
+    "max_value": 89700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

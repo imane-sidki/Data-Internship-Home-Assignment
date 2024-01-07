@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>About The Role<br><br></u></strong>We\u2019re a rapidly growing team serving a highly results-oriented engineering organization. The Site Reliability Engineering (SRE) team provides a specialization within engineering focused on designing, engineering, evolving, and safely making changes to large-scale distributed systems; these systems are often composed of disparate components which are each individually complex. In the process of that work, they are also responsible for analyzing, repairing, and preventing unexpected issues that emerge from such systems.<br><br><strong><u>The SRE Team Has Three Goals<br><br></u></strong><li> Set high standards for reliable products at Robinhood.</li><li> Architect products and infrastructure that encourage and carry out high reliability.</li><li> Inspire change across the broader organization to adopt product reliability best practices and high reliability infrastructure.<br><br></li>We are seeking an experienced SRE to work with our SRE leadership team to help build, define the vision and roadmap of our newly formed SRE organization. Initially, you will embed with a product engineering team to understand their work, and look for opportunities to bring SRE wisdom to bear.<br><br><strong><u>Your Day-to-day Will Involve<br></u></strong><ul> <li>Combine software and systems knowledge to engineer high-volume distributed systems in a reliable, scalable, and fault-tolerant manner.</li> <li>Continually optimize systems and workflows by improving architecture, infrastructure, automation, CI/CD, and observability.</li> <li>Act as an owner and leader of Robinhood's infrastructure by ensuring project infrastructure needs are met and working proactively with customer teams to help them improve reliability and set best practices.</li> <li>Provide mentorship both formally and informally to engineers at Robinhood, define and formalize the architecture design process and guide the overall architectural direction.</li> <li>Represent Robinhood in the technology community (ex: conferences, technical blog posts, etc).</li> <br><br></ul><strong><u>About You<br></u></strong><ul> <li>Proficient in one or more programming languages (e.g. Go, Python, Java).</li> <li>Experience authoring and operating high-scale services.</li> <li>Experience with scalable distributed systems, either built from scratch or on public Cloud (e.g. AWS) primitives.</li> <li>A focus on software engineering best practices such as testing, static analysis, continuous integration, delivery, and deployment.</li> <li>Willingness to learn and use new technologies, and to learn the ins-and-outs of the financial system.</li> <li>Extremely data-driven.</li> <li>A minimum of 5+ years of industry experience.</li> <li>Ability to debug complex systems.</li> <br><br></ul><strong><u>Bonus Points<br></u></strong><ul> <li>Familiarity of Python/Django or Go</li> <li>Experience with high-growth startups</li> <li>Strong open source contributions</li> <br><br></ul><strong><u>Technologies We Use<br></u></strong><ul> <li>Python, Django/DRF</li> <li>Go</li> <li>CI/CD and test automation frameworks </li> <li>Container and container orchestration technologies (e.g. Docker, Kubernetes)</li> <li>Microservice-oriented architectures and related OSS technologies (e.g. Kafka, Celery/RabbitMQ, nginx, Redis, Postgres, Airflow, Consul, etc.)</li> <li>Cloud-native infrastructure (AWS, GCP)</li> <li>Linux internals and network configuration and protocols</li> <li>Infrastructure as Code and configuration management (Terraform, SaltStack)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T01:07:18.000Z"
+  },
+  "company": {
+    "name": "Robinhood",
+    "link": "https://www.linkedin.com/company/robinhood"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

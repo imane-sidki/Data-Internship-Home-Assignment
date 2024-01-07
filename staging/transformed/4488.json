@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "<p><strong>What we do:</strong></p><p>Uptake is the premier Industrial AI company, providing a predictive analytics SaaS platform that empowers major industry leaders to optimize performance, reduce asset failures, and enhance safety. At Uptake, we combine our strengths \u2014 machine learning, analytics, data visualization, and software development \u2014 to deliver actionable insights that make industry more reliable, productive, safe and secure.</p><p><strong>What Data Scientists Do Here:</strong></p><p>Data science is at the core of what we do at Uptake. We collaborate with customers, engineering, product, and other teams to contribute insights and data science best practices to all parts of the business.</p><p>Typical day to day tasks for a data scientist might include:</p><ul><li>Collaborating with sales and customers to analyze problems and assess needs.</li><li>Data readiness assessments for customers.</li><li>Learning a new programming language or data science technique - we continually build our skills and explore new things.</li><li>Building, testing, and deploying supervised or unsupervised learning models.</li><li>Writing data analysis reports for internal use.</li><li>Building tools to enable other data scientists to scale their knowledge and increase impact.</li><li>Working with customers to develop analyses that help them solve business problems and drive value.</li><li>Building and deploying models to cloud based solutions for customers</li><li>Presenting exploratory and modeling results to a customer</li></ul><p>What We Are Looking For:</p><ul><li>Bachelor's degree or higher in a relevant field</li><li>3-5 years experience, preferably in an analytical and client facing role</li><li>Passion for data science! We want candidates who love data science and are excited about what they do.</li><li>Some ways previous successful candidates have demonstrated this are by:</li><li>Writing relevant blog posts and/or articles.</li><li>Participating in relevant online communities.</li><li>Expressing detailed knowledge of and genuine interest in Uptake\u2019s unique methods, products, data, and technology within a cover letter.</li><li>Ability to write sophisticated machine learning and data analysis code in Python or R</li><li>Some ways previous successful candidates have demonstrated this are by:</li><li>Contributing to influential Open Source Projects like sklearn, XGBoost, tidyverse, Tensorflow, pytorch, Kafka, Spark, Elasticsearch etc.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T17:51:17.000Z"
+  },
+  "company": {
+    "name": "Uptake",
+    "link": "https://www.linkedin.com/company/uptake"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "<strong><u>Description<br><br></u></strong>As a Machine Learning Software Engineer, you'll be working on large-scale computer vision problems, turning new ideas and the latest research into industry-leading enterprise solutions. You will be applying state of the art deep learning techniques to vast datasets of imagery and video. You will be part of our machine learning team, responsible for developing deep learning solutions end-to-end from data processing to architecture development to deployment.<br><br><strong><u>Requirements<br></u></strong><ul> <li>Significant practical experience developing Deep Learning models.</li> <li>Specialization in Machine Learning or highly relevant experience</li> <li>Knowledge of at least one of the Deep Learning frameworks: TensorFlow, Caffe, Torch, Theano</li> <li>Experience with computer vision (OpenCV preferred)</li> <li>Solid software engineering skills across multiple languages including Python, C++</li> <li>Experience with deployment on cloud infrastructure preferred</li> <br></ul><strong><u>Bonus Points<br></u></strong><ul> <li>Experience with Ubuntu environment and the command line.</li> <li>Published peer-reviewed research and involvement with the community (conferences, meetups, etc)</li> <br></ul>Applications are accepted and reviewed on a rolling basis. More than one qualified applicant may be hired.<br><br><strong><u>Compensation &amp; Benefits<br><br></u></strong>Salary and stock, as well as unlimited paid time off. Awesome healthcare, dental, and vision benefits. Regular team outings and other startup-y things, like board games, team building activities, and even the occasional game of curling.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:18:29.000Z"
+  },
+  "company": {
+    "name": "CrowdAI",
+    "link": "https://www.linkedin.com/company/crowdai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93800,
+    "max_value": 204000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

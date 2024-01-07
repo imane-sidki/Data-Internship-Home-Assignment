@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Management Consulting",
+    "description": "<p><strong>Site Reliability Engineer</strong></p><p><strong>REMOTE </strong></p><p><br></p><p><strong>Job Description</strong></p><p><strong>We are looking for a strong site reliability engineer (SRE) to develop and own our system's delivery automation, security, high availability, and performance in service of our customers and end-users. This SRE would be the first one hired at CertifID and responsible for bringing automation, reliability, and security to our software delivery pipelines and infrastructure to enable more rapid delivery cycles with high visibility and insights in real-time while maintaining the quality of the product delivered.</strong></p><p><strong>Specifically, we are searching for someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a cross-functional team to develop real-world solutions and positive user experiences at every interaction in a healthy and rapid development environment.</strong></p><p><strong></strong></p><p><strong>Objectives of this Role</strong></p><ul><li><strong>With a focus on security, in coordination with the Engineering Lead:</strong></li><li>Run the production environment by monitoring availability and taking a holistic view of system health.</li><li>Build software and systems to manage platform infrastructure and applications.</li><li>Improve reliability, quality, and time-to-market of our suite of software solutions.</li><li>Measure and optimize system performance to push our capabilities forward, getting ahead of customer needs, and innovate to improve continually.</li><li>Provide primary operational support and engineering for the CertifID platform, comprising multiple distributed software applications</li><li>Support sustainable systems and services through automation and uplifts throughout the delivery pipeline, such as IaC, to break vendor lock-in as much as is practical.</li><li>Participate in system design consulting, platform management, and capacity planning.</li><li>Gather and analyze metrics from operating systems and applications to assist in performance tuning, fault finding, and security.</li><li>Partner with the product team to improve services through rigorous testing and release procedures.</li><li>Assist the Engineering Lead in maintaining, implementing, and enforcing our security posture.</li></ul><p></p><p><strong>Required Skills and Qualifications</strong></p><ul><li><strong>Bachelor's degree in computer science or other highly technical and scientific disciplines,</strong></li><li>or equivalent experience.</li><li>Experience in Information Systems Security, in a security-focused environment.</li><li>Ability to program (structured and OO) with one or more high-level languages.</li><li>Experience with IaC, such as Hashicorp's Terraform.</li><li>Experience with distributed storage technologies like NFS, HDFS, Ceph, S3, and dynamic resource management frameworks (Mesos, Kubernetes, Yarn).</li><li>A proactive approach to spotting problems, areas for improvement, and performance bottlenecks.</li><li>Strong communication, task management, and interpersonal skills.</li><li>Experience in cloud platforms and systems architecture.</li></ul><p></p><p><strong>Preferred Qualifications</strong></p><ul><li><strong>One or more cloud platform certifications with a preference towards Azure.</strong></li><li>Coding experience beyond simple scripts, with a preference for C#.</li><li>An active CISSP certification.</li></ul><p></p><p><strong>Why you want to join:</strong></p><ul><li><strong>Opportunity to own this domain.</strong></li><li>Opportunity for equity.</li><li>Flextime.</li><li>Benefits (Health, Dental, Vision).</li><li>401k matching</li><li>You want to build something that has a positive impact on the world.</li><li>Work alongside a bright, passionate, and experienced team.</li></ul><li></li>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:55:20.000Z"
+  },
+  "company": {
+    "name": "MSH",
+    "link": "https://www.linkedin.com/company/talentmsh"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Texas",
+    "region": "United States",
+    "postal_code": "76522",
+    "street_address": null,
+    "latitude": 31.463793,
+    "longitude": -99.333275
+  }
+}

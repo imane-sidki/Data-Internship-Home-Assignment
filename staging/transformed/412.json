@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Product Backend - Core Layout",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "If you are a server-side engineer who enjoys taking ownership of product programs and carrying them from concept to production, we want to hear from you! The Core Layout team manages how our customers edit and arrange block-based content on Squarespace websites. As a senior backend engineer, you will help transform how our users lay out blocks on their page, redefining a core user experience in the product. By helping us evolve how our layout engine system works, you'll shape how every user builds expressive layouts on their site. You will report to the Core Layout Engineering Team Lead in our New York City headquarters.<br><br>All Squarespace employees are working remotely at this time. We are closely monitoring the status of COVID-19 as we continue our work to build a return-to-work plan that ensures a safe return to our offices and provides flexibility for our employees.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Write server-side code, create high-volume production applications, and develop prototypes quickly.</li> <li>Develop new features into the Squarespace platform, building backend services with Java</li> <li>Work with other engineers and designers to provide strong customer-focused experiences.</li> <li>Ensure the reliability of systems essential to Squarespace users and businesses powered by Squarespace.</li> <li>Practice disciplined software engineering (e.g. automated testing, code reviews, and writing beautiful, readable code).</li> <li>Actively contribute to team and company standards.</li> <li>Mentor junior team members.</li> <br><br></ul><strong><u>Qualifications<br></u></strong><ul> <li>Development experience in Java, Python, Go or another Object-oriented language. Experience developing large-scale software.</li> <li>An understanding of, and practical experience with, web application development.</li> <li>A solid foundation in computer science, with competencies in data structures, algorithms, and software design practices.</li> <li>A sincere commitment to creating readable code.</li> <li>Understanding of database schema design, caching and scalability.</li> <li>A degree in Computer Science or related or equivalent industry experience.</li> <li>5+ years of experience</li> <br><br></ul><strong><u>About Squarespace<br><br></u></strong>Squarespace makes beautiful products to help people with creative ideas succeed. By blending elegant design and sophisticated engineering, we empower millions of people \u2014 from individuals and local artists to entrepreneurs shaping the world\u2019s most iconic businesses \u2014 to share their stories with the world. Squarespace\u2019s team of more than 1,200 is headquartered in downtown New York City, with offices in Dublin, Los Angeles and Portland. For more information, visit www.squarespace.com/about.<br><br><strong><u>Benefits &amp; Perks<br></u></strong><ul> <li>Health insurance with 100% premium covered for you and your dependent children</li> <li>Flexible vacation &amp; paid time off</li> <li>Up to 20 weeks of paid family leave</li> <li>Equity plan for all employees</li> <li>Retirement benefits with employer match</li> <li>Fertility and adoption benefits</li> <li>Free lunch and snacks at all offices</li> <li>Education reimbursement</li> <li>Dog-friendly workplace in New York office</li> <li>Commuter benefit in the form of reduced tax (Ireland) and pretax (US)</li> <br></ul>Today, more than a million people around the globe use Squarespace to share different perspectives and experiences with the world. Not only do we embrace and celebrate the diversity of our customer base, but we also strive for the same in our employees. At Squarespace, we are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, national origin, gender, sex, gender identity or expression, sexual orientation, age, citizenship, marital or parental status, disability, veteran status, or other class protected by applicable law. We are proud to be an equal opportunity workplace.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:15:46.000Z"
+  },
+  "company": {
+    "name": "Squarespace",
+    "link": "https://www.linkedin.com/company/squarespace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

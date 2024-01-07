@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "What is SRE? SRE is what you get when you treat operations as if it\u2019s a software engineering problem. Our mission is to improve the availability, latency, performance and security of the Identity systems behind Microsoft\u2019s cloud. Like traditional operations, we keep important revenue-critical systems up and running, even when natural disasters, bandwidth outages and configuration problems occur. Unlike traditional operations groups, we identify and address these software problems directly thru software improvements, innovative machine learning and systems automation.<br><br>As an SRE, you will provide leadership, direction and accountability for strategic application architecture plans, system design, and implementation. You will have opportunities to independently determine and develop architectural approaches and solutions, conduct business reviews, document current systems in the portfolio, and operate our production services. Strong collaboration skills will be required working closely with other engineering teams to ensure services/systems are highly stable and performant and meet the expectations of internal stakeholders and external customers and users. You will identify and tackle high value engineering &amp; software improvements using your expertise in coding, algorithms, complexity analysis and scalable system approaches. Additionally, you should possess strong collaboration skills, and be a good team player. #identityjobs<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Proven experience dealing with large scale data architecture, operational architecture and or network architecture</li><li>Designs components of a service delivery system that defines tools, hardware, processes, role assignments, dependencies, and documentation, resulting in complete system that supports service delivery and meets KPIs.</li><li>Design, write and deliver software to improve the availability, scalability, latency, and efficiency of Microsoft\u2019s Identity services.</li><li>Designs process or technology solutions that identify and resolve platform, system, deployment, and environmental issues prior to production release, and ensure an on-time release and measurable improvements against KPIs.</li><li>Influence and create new designs, architectures, standards and methods for large-scale distributed systems.</li><li>Communicates data and information among stakeholders and applies advanced diagnostic expertise during service issues to restore service with minimal disruption to the customer and business.</li><li>Collaborates with Development, Test and PM counterparts to translate customer, business, and technical requirements into components of a service architecture and operability and customer scenarios that meet compliance standards and KPIs such as quality, cost, and customer expectation.</li><li>Conduct periodic on call duties.<br><br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>5+ years industry experience coding/scripting PowerShell</li><li>5+ years practical experience operating and designing Active Directory Domain Services (LDAP, Kerberos, NTLM, Group Policy, Windows Time, Trusts, Delegation, Replication)</li><li>Experience working with Infrastructure as Code (IaC).</li><li>Experience with configuration management using PowerShell Desired State Configuration (DSC).</li><li>Experience with writing unit tests.</li><li>Experience with algorithms, data structures, complexity analysis and software design or automation.</li><li>Must have an understanding of network technologies and protocols, including TCP/IP and DNS<br><br></li></ul><strong><u>Preferred<br></u></strong><ul><li>BS degree in Computer Science or related technical field, or equivalent practical experience.</li><li>Systematic DevOps problem solving approach, coupled with a strong sense of ownership and drive.<br><br></li></ul><strong><u>Requirements<br><br></u></strong>These requirements include, but are not limited to the following specialized security screenings<br><br>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.<br><br>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br><br>Citizenship: Federal security screening requirements call for applicant to verify U.S. Citizenship. Permanent Residency (Green card) is not sufficient to meet this requirement due to the nature of the work.<br><br>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T21:30:59.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

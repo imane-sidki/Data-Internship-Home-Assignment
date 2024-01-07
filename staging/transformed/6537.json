@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "<p><strong>The Company</strong></p><p>Running a restaurant is a balancing act - it\u2019s a barrage of challenges from all directions and knowing how to maximize resources is the key to bringing it all together to make it a successful business. To make it work, ithas tobe clear where to focus.</p><p>Lineup.ai is a sophisticated digital tool that interprets contextual data to accurately predict how busy a restaurant will be \u2014 today, next week, or in three weeks. In partnership with best-in-class restaurants, and leveraging advanced machine learning models, the team at Lineup.ai has developed a solution by rooting our innovation efforts in our purpose \u2013 to help our customers mitigate risk and uncertainty. By considering multiple key factors that affect demand, Lineup.ai increases confidence and consistency in a manager\u2019s decisions.</p><p><br></p><p>Our easy-to-use software shows executives and managers exactly what they need to make better, faster decisions toward increasing efficiency and improving profitability. We\u2019ve built a custom prediction engine tailored to each store\u2019s specific geography, weather, and local events. Lineup.ai is up and running in multiple pilot locations, enabling continued iteration of the key features and refinement of the predictive model.</p><p><br></p><p><strong>What You Will Do:</strong></p><ul><li>Experiment witha variety ofmachine learningalgorithms to build, test, and refinepredictive models for restaurant sales, labor, and inventory</li><li>Identify and experiment with new data sourcesto increasethepredictivepower of our products</li><li>Design and develop incremental model improvements and data acquisition strategies</li><li>Develop monitoringmetrics to reflect real-world model performance and make recommendations to shape the future direction of models and digital solutions</li><li>Collaborate withProduct, UX, and the leadership teamto understandbusinessrequirements and prioritizesolutiondevelopment</li><li>Collaborate with ML Engineer to determine how to bestoperationalize andscale solutions</li><li>Partner withML Engineerandthe 1848 Ventures Data Science Practice Groupto create more robust features and algorithmsas well as develop shared best practices and broadly reusable components</li></ul><p><br></p><p><strong>How You Will Get Here:</strong></p><ul><li>Commercial experience applying data and machine learning to drive generate business value</li><li>A track record of designing and implementing time-series algorithms(forecasting)</li><li>Experience operationalizing modelsin a three-tiered environment(dev, test, prod)</li><li>A demonstrated ability tocommunicatetechnical findingstoa non-technical audience</li><li>A demonstrated ability to dive deep and solve new complex problems but the discernment to know when, and how deep to dive (progress over perfection; value driven)</li><li>High levels of competence withPython</li><li>High levels of competence with SQL</li><li>A high-level understanding of data architecture and database design</li><li>Proficient with a wide variety of machine learning and data munging libraries and tools (e.g.NumPy, scikit-learn,PyTorch,xgboost, etc.)</li><li>Prior experience working with data engineers, software engineers, and dev ops teams to set up appropriate technical resources to perform Data Science work and translating prototypes to production</li><li>Proficiency with at least one cloud-based platform (Google Cloud Platform, Amazon Web Services, or Microsoft Azure)</li></ul><p><br></p><p><strong>Nice To Haves:</strong></p><ul><li>Prior experience implementing deep learning algorithms</li><li>Experience with DAG / workflow orchestration tools (e.g.Airflow, Prefect)</li><li>Experience writing unit tests</li><li>Experience with other general-purpose programming languages</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T16:07:47.000Z"
+  },
+  "company": {
+    "name": "Lineup.ai",
+    "link": "https://www.linkedin.com/company/lineupai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westfield Center",
+    "region": "OH",
+    "postal_code": "44251",
+    "street_address": null,
+    "latitude": 41.02686,
+    "longitude": -81.94169
+  }
+}

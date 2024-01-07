@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Semiconductors",
+    "description": "<strong><strong>At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. <br><br></strong></strong>The candidate will be responsible for designing, developing, troubleshooting and debugging software programs in the areas of static timing analysis with a focus on delay calculation and signal integrity analysis.<br><br><strong><u>Position Requirements<br><br></u></strong>The candidate will have demonstrated excellent software engineering skills and must be proficient in C/C++ in a UNIX environment. Master Degree in EE, CS or related area is required, PhD is preferred. Strong knowledge of Tcl is preferred. The candidate must also possess good communication skills and team work skills.<br><br><strong> <strong>We\u2019re doing work that matters. Help us solve what others can\u2019t.</strong></strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:45:05.000Z"
+  },
+  "company": {
+    "name": "Cadence Design Systems",
+    "link": "https://www.linkedin.com/company/cadence-design-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Data",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Point is a technology and design company that transforms everyday spending into a delightful and rewarding experience. We're re-thinking the payment experience with an emphasis on transparency, delight, and personalization.<br><br>With the best benefits of both debit and credit, Point Card earns you points on every purchase redeemable for instant cash-back. Point App works side by side with Point Card to create an elegant, easy-to-use experience.<br><br>We recently closed our $46.5 million Series B funding round. To learn more, see TechCrunch's coverage here.<br><br>Backed by top investors like Peter Thiel (Valar Ventures) and Y Combinator, we're well-funded and ready to make a positive impact on people's daily lives.<br><br>We're looking for a <strong>Software Engineer, Data Platform</strong> to join our specialized team. We have the vision and resources, and need your talent and skills.<br><br><strong><u>Who We're Looking For<br><br></u></strong>Point is looking for <strong>Software Engineers, Data Platform</strong> to join our focused, growing, and passionate team. We want engineers who orient around solving customer problems, who understand the tradeoffs between different technical approaches, and who believe that a reliable data platform is composed of individually testable components.<br><br><strong><u>What We'll Build Together<br><br></u></strong>As the first <strong>Software Engineer</strong> on the Data Platform team at Point, you'll help to architect and build Point's data platform and systems, managing ingestion, processing and storage, building scalable pipelines, and developing frameworks &amp; tools to make data easily &amp; efficiently available to downstream teams and systems.<br><br>This platform will be used by Point's data consumers to inform new consumer-facing features, help to refine the core card product and power evolutionary new ways for consumers to pay.<br><br><strong><u>Requirements<br></u></strong><ul><li>3+ years developing production data platforms &amp; systems, using cloud-based data platform technologies, like Spark, Presto, Flink, Kafka, and Airflow/dbt.</li><li>Knowledge of data lake structures, relational databases, and SQL</li><li>Good logging, monitoring &amp; alerting habits and a belief that data observability is essential to a high performing system</li><li>Good collaboration skills &amp; the ability to work well with product, design, or other cross-functional teams<br><br></li></ul><strong>Bonus Points<br></strong><ul><li>Fintech or cryptocurrency experience, especially at a venture-backed startup</li><li>Experience with AWS's data tooling &amp; infrastructure (EMR, Glue, S3, etc.)</li><li>Experience with eventstream architectures</li><li>Familiarity with feature store architectures<br><br></li></ul><strong>Point Perks<br></strong><ul><li>Join a fast-growing brand that is building thoughtful spending products.</li><li>Competitive salary, stock options, and 401K.</li><li>Full health benefits (medical, dental, and vision insurance).</li><li>Unlimited vacation policy, paid company holidays, and WFH flexible. We shut down the office at the end of the year for a winter holiday.</li><li>Free Point Card membership + 10,000 ($100) monthly points.</li><li>Monthly stipends on your Point Card to use for lunch, commuting, and other essentials.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T07:22:21.000Z"
+  },
+  "company": {
+    "name": "Point Card",
+    "link": "https://www.linkedin.com/company/getpoint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

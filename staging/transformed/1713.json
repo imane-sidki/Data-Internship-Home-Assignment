@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "The Cloud Hardware Infrastructure Engineering Firmware Development team is responsible for design and development of Server and Rack Infrastructure Firmware for Microsoft's online services. We work closely with Microsoft product groups, industry partners and researchers to architect and develop server hardware solutions that meet the requirements for our cloud services platforms at the lowest possible cost of ownership (TCO). We need to be always learning and insatiably curious. We need to be willing to lean into uncertainty, take risks and move quickly when we make mistakes, recognizing failure happens along the way to mastery. And we need to be open to the ideas of others, where the success of others does not diminish our own.<br><br>#azurehwjobs<br><br><strong><u>Responsibilities<br><br></u></strong>This role is for a highly motivated Firmware Engineer with a background in Firmware development for embedded systems. You will be contributing to all phases of product development, from design through manufacturing and productization. You will create the firmware architecture for key systems and work closely with hardware teams to ensure hardware integrates well with the firmware. You will contribute to design of various firmware components, including driver interface, system libraries needed for SoC bring-up, protocol and feature development of low-level hardware.<br><br>The candidate should have strong technical leadership skills, coding skills, debugging and troubleshooting abilities, with experience in firmware development. The successful candidate should have experience with some or all the following: firmware development, SOC bring-up, bootloaders, platform initialization, board support package porting, peripherals such as PCIe, NVMe, I2C, SPI, USB, UARTs. OS primitives, memory management, scheduling, interrupts, threading.<br><br><strong><u>Qualifications<br><br></u></strong>Required Qualifications:<br><ul><li>12+ years of professional experience designing and architecting developing software solutions.</li><li>MS in Computer Science/Engineering or equivalent industry experience</li><li>Experience with firmware architecture.</li><li>Ability to debug and resolve issues spanning multiple subsystems.</li><li>Proven and demonstrable skill in C (Programming).<br><br></li></ul><strong><u>Desired Qualifications<br></u></strong><ul><li><strong>Collaboration</strong> (aligned with team, across teams).</li><li>Passionate about coaching team members and helping them grow.</li><li>Wants new technological challenges and able to deal with ambiguity.</li><li>Strong problem solving, debugging troubleshooting skills, advanced design, and development skills.<br><br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:02:51.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 140000,
+    "max_value": 228000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

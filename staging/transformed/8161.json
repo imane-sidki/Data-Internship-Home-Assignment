@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Computer Software",
+    "description": "Five9 is a leading provider of cloud software for the enterprise contact center market, bringing the power of the cloud to thousands of customers and facilitating more than three billion customer interactions annually. Since 2001, Five9 has led the cloud revolution in contact centers, helping organizations transition from legacy premise-based solutions to the cloud. Five9 provides businesses with cloud contact center software that is reliable, secure, compliant and scalable, which is designed to create exceptional customer experiences, increase agent productivity and deliver tangible business results.<br><br><strong>The role:<br><br></strong>You will be developing a Single Page Application and the required backend services using JavaScript, C, Node.js and Java technologies for our core Call Center products. Our SaaS team develops VOIP (voice over IP), Chat, Email, Predictive Dialing, Agent Desktop, Predictive and Progressive Dialing with an enormous data channel and Artificial Intelligence. If you love having big goals, real world challenges, and making customers incredibly happy whilst fostering your obsessive need for perfect code and user experience, this is the job for you.<br><br>Along with coding, you will be responsible for working with product managers, other developers and designers on our agile team structure. We love product engineers who lead the charge, communicating with customers and delivering the most innovative, intuitive application possible is a must.<br><br><strong>Required Skills: <br></strong><ul><li>Must have a Bachelor's Degree or Master's Degree (preference given to Computer Science, Engineering and STEM majors \u2013 and suitable industry coding or opensource experience is welcome too)</li><li>0-2 years experience</li><li>Excellent problem solver</li><li>Passionate about coding and customers.</li><li>Strong Computer Science fundamentals: Logic, OOP, Events, data structures, etc.</li><li>Classes to one or more of the following: Java, Javascript, C<br><br></li></ul><strong>Appreciated Skills:<br></strong><ul><li>2+ years of professional or open-source experience writing JavaScript (not just jQuery)</li><li>2+ years of professional or open-source experience writing RESTful APIs and middle tier coding in Node.js, Java, Python or C++</li><li>Agile coding experience, working in small teams that have made a big impact fast</li><li>Familiarity with standard javascript async patterns (events, closures, callbacks, promises, error handling, etc.)</li><li>Never ending desire to self-educate on the latest list of web technologies like HTML, CSS, javascript frameworks and bleeding edge browser features/idiosyncrasies</li><li>Similar experience in a modern consumer environment (Pinterest, Box, Quora, Facebook...) and/or open source projects (contributed to node.js, dojo toolkit, NPM modules, etc)</li><li>Experience with GIT SCM<br><br></li></ul>Five9 embraces diversity and is committed to building a team that represents a variety of backgrounds, perspectives, and skills.\u202f The more inclusive we are, the better we are.\u202f Five9 is an equal opportunity employer.<br><br>Our headquarters are located in the beautiful Bishop Ranch Business Park in San Ramon, CA.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-12T09:49:44.000Z"
+  },
+  "company": {
+    "name": "Five9",
+    "link": "https://www.linkedin.com/company/five9"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Ramon",
+    "region": "CA",
+    "postal_code": "94582",
+    "street_address": null,
+    "latitude": 37.777084,
+    "longitude": -121.96752
+  }
+}

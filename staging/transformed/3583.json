@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services,Information Services,Information Technology and Services",
+    "description": "<p>As a Site Reliability Engineer, you will join the development team to help release outstanding software and lead the Site Reliability process and technical management of cloud-native platforms and financial services. </p><p></p><p><strong>Employment locations for this opportunity:</strong> Lake Mary, FL; Austin, TX; Plano, TX; Mequon, WI; Norcross, GA</p><p><strong></strong></p><p><strong>There is no sponsorship or C2C available. You must currently live in the United States.</strong></p><p><strong></strong></p><p><strong></strong></p><p><strong>What you can expect:</strong></p><p><strong></strong></p><p>\u2022 Lead Site Reliability process and technical management of cloud-native platforms. </p><p>\u2022 Design authority for SRE patterns &amp; practices. </p><p>\u2022 Implement SRE practices for cloud-based financial services. </p><p>\u2022 Prepare and take part in Production Operating Reviews on a weekly basis. </p><p>\u2022 Be a part of on-call rotation to understand the patterns of production failures (capped at 25%). </p><p>\u2022 Conduct blameless postmortems of high severity production incidents. </p><p>\u2022 Implement resiliency improvements (Software or System). </p><p>\u2022 Conduct Application Reliability Reviews and ensure delivered code fulfils needs. </p><p>\u2022 Conduct periodic Game Day exercises. </p><p></p><p><strong></strong></p><p><strong>What you will need:</strong></p><p></p><p>\u2022 5+ years of experience in software engineering. </p><p>\u2022 Experience with object-oriented programming (Python, Go). </p><p>\u2022 Solution design and deployment of resilient, HA, Highly Scalable and DR architecture. </p><p>\u2022 Experience implementing SRE standards for Resiliency and Scalability of microservices in Cloud. </p><p>\u2022 Experience implementing SLIs, SLOs and Error Budgets as part of development/delivery practices. </p><p>\u2022 Experience leading Failure Mode Analysis of Architectures. </p><p>\u2022 Experience leading Root Cause analysis of Incidents using Incident Postmortems.</p><p>\u2022 Working knowledge of Cloud IaaS and PaaS Platforms \u2013 preferably Microsoft Azure. </p><p>\u2022 Experience designing, deploying, and managing container orchestration using Kubernetes (Certified Kubernetes Administrator preferable). </p><p>\u2022 Experience monitoring container based microservices &amp; Cloud Platform services. </p><p>\u2022 Use of Continuous Delivery tools \u2013 preferably Azure DevOps. </p><p>\u2022 Knowing agile methodology and being able to work by its principals. </p><p></p><p></p><p>Kw:site reliability engineer, software engineering, finance, oop, python, go, microservices, cloud platform services, sli, slo, failure mode analysis, incident postmortems, cloud iaas, paas, microsoft azure, kubernetes, certified kubernetes administrator, continuous delivery tools, azure devops, agile methodology</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T20:11:18.000Z"
+  },
+  "company": {
+    "name": "Big A Tech Search",
+    "link": "https://www.linkedin.com/company/big-a-tech-search"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

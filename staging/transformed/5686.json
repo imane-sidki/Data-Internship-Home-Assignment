@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<em>Electric is the industry leader in providing world-class IT technology and real-time support for small and mid-sized businesses. With over 400 customers and more than 20,000 employee end-users, Electric's IT platform includes: real-time support powered by 100+ IT technicians, security, device &amp; inventory management, network &amp; server management, application &amp; cloud management, employee on-boarding and off-boarding, procurement &amp; provisioning, and data monitoring &amp; insights. Electric is a Series C company funded by an all-star team of investors including: Bessemer Venture Partners, GGV Capital, 01 Advisors, Primary Venture Partners, Bowery Capital, Slack, Atreides Management, Vintage Investment Partners, and Greenspring Associates.<br><br></em><em>Electric is now over 250 employees and led by a seasoned executive team. Our company is a fun, fast-paced environment with enormous opportunities for career advancement. We are seeking highly motivated, detail-oriented go-getters who want to move up in a tech startup.<br><br></em><strong>Site Reliability Engineer (SRE/DevOps)<br><br></strong><em>Building a technology-powered organization is essential to our success. We are seeking a Site Reliability Engineer to help build our growing SRE and Infrastructure team. We use a microservices architecture with a Python and Ruby on Rails backend, employing technologies like AWS Lambda, RDS, and Dynamo. We are migrating off Heroku, and adding more AWS services to our stack. We seek a highly motivated SRE who will work with our technical leads to design and build fast, scalable, robust, and resilient systems. You will help evangelize SRE and DevOps insights and methodologies across the entire Engineering department.<br><br></em><em>As an engineer here, you'll have the freedom to help our team implement innovative solutions and have a significant impact on our product, and the business as a whole. We want someone who is passionate about moving fast while building highly performant, robust code that brings great value to our customers. We value experimentation, growth mindset, thinking outside of the box, and Getting S#!&amp; Done!<br><br></em><strong><u>Responsibilities<br></u></strong><ul><li>Build fast, scalable, robust, resilient infrastructure using Infrastructure as Code practices</li><li>Play a key role in several brand new and highly-visible operations, ranging from monitoring and observability to high-availability and internal tooling</li><li>Evangelize the underlying philosophy of SRE and DevOps to all your peers</li><li>Focus on building products that have measurable impact </li><li>Continuously pay off tech debt, refactor code, re-architect as necessary, and use the latest and greatest technologies</li><li>Help to build a culture of excellence in the engineering organization<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>BA/BS degree in Computer Science or a related field, or equivalent experience</li><li>2+ years of software development experience for infrastructure and DevOps</li><li>2+ years shipping and/or supporting production code in a fast-paced environment </li><li>Working familiarity with AWS, microservice architecture, and infrastructure as code (IaC)</li><li>Strong communicator, both verbally and written</li><li>Self-motivated, data-driven, perseverant, resilient, scrappy, hands-on. </li><ul><li>No job is too small, and you take a bias towards action. When something isn't working, your first instinct is to rip it apart and figure out why.</li></ul><li>Willingness to work through ambiguity, partnering with peers to derive reasonable solutions.</li><li>Exposure to SLIs/SLOs/SLAs.</li><li>Excited to learn; excited to share new discoveries with your team.<br></li></ul><strong><u>Preferred Technical Skills<br></u></strong><ul><li>Infrastructure as Code tools such as Terraform, CloudFormation, or Serverless Framework,</li><li>Competency in bash, python, or other relevant scripting languages,</li><li>Experience with a majority of the following AWS services: API Gateway, EC2, EKS, IAM (Roles, STS, Policies), Lambda, RDS, Route53, S3, SQS, VPC networking</li><li>CI/CD tooling (CircleCI, Jenkins, Travis, etc.)</li><li>Experience with Docker and container orchestration (Kubernetes, Docker Swarm, etc.) is a plus</li><li>Knowledge of configuration management tools (Ansible) is a plus</li><li>Experience with monitoring solutions (Datadog, Splunk, Prometheus)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:39:34.000Z"
+  },
+  "company": {
+    "name": "Electric",
+    "link": "https://www.linkedin.com/company/electric-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 157000,
+    "max_value": 244000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

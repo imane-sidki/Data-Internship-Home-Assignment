@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III (Backend)",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "<br><strong>Do what you love. Love what you do. <br><br></strong> At Workday, we help the world\u2019s largest organizations adapt to what\u2019s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we\u2019re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. <br><br><strong>About the Team<br></strong>The Reporting application is central to empowering users of Workday Planning to visualize finance, sales and other planning data through powerful, self-service and ad-hoc reports. We leverage our powerful compute engine to provide best-in-class reporting that scales against very large data sets and complex planning models.<br><strong>About the Role<br><br></strong>We are open for a Software Engineer II or and Software Engineer III.<br><br> You are a team-player, but also a leader and go-getter and motivated to excel. You care deeply for inclusivity, belonging and equity in relationships with workmates.  <br><br> Along side these attributes, if you are excited to join to a growing and talented bunch of fun folks in building a best-in-class reporting SaaS platform, you are looking in the right place! <br><br><strong>About You<br><br></strong><strong>Software Engineer II<br></strong><ul><li>2+ years of software development experience.<br><br></li></ul><strong>Software Engineer III<br></strong><ul><li>5+ years of software development experience.</li><li>Strong grasp for design patterns, coding best practices and be able to write unit-testable code.<br><br></li></ul><strong>Basic qualifications:<br></strong><ul><li>Fundamentals in algorithms and data structures.</li><li>Experience working with SQL and databases (Postgres, Oracle, etc.)</li><li>Strong communication, organizational skills, and ability to balance multiple priorities.</li><li>BS and/or Masters in Computer Science, Engineering or related field preferred.<br><br></li></ul> Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:56:47.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

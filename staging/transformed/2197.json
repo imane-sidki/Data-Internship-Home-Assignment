@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Payments",
+    "industry": "Computer Software,Internet,Consumer Goods",
+    "description": "<strong><u>Company Description<br><br></u></strong>Wish is a mobile e-commerce platform that flips traditional shopping on its head. We connect hundreds of millions of people with the widest selection of delightful, surprising, and\u2014most importantly\u2014affordable products delivered directly to their doors. Each day on Wish, millions of customers in more than 160 countries around the world discover new products. For our over 1 million merchant partners, anyone with a good idea and a mobile phone can instantly tap into a global market.<br><br>We&apos;re fueled by creating unique products and experiences that give people access to a new type of commerce, where all are welcome. If you\u2019ve been searching for a supportive environment to chase your curiosity and use data to investigate the questions that matter most to you, this is the place.<br><br><strong><u>Job Description<br><br></u></strong>The goal of the Payments Team is to provide buyers and sellers everywhere with a friction-less payments experience on our platform. In just over five years, we have built a business with a truly global reach and operations in over 70 countries. This is a great opportunity for an engineer to own high impact initiatives on a high-volume, mission critical system.<br><br>We are in charge of building and maintaining our own global payments infrastructure, at all levels of the stack. We are responsible for the payments experience end to end; from the seamless checkout flow that allows customers around the world to purchase goods in their preferred methods, to the backend APIs and payment processor integrations.<br><br>We are looking for strong full-stack and back-end software engineers to join a small and nimble team, and help define and execute Wish&apos;s strategy for global payments. The ideal candidate will combine solid engineering and product skills, and thrive in a fast-paced, iterative, and collaborative environment. You will tackle exciting technical challenges that come with scale (huge volumes of transactions, currencies, and methods to support) and have responsibility measured in billions.<br><br><strong>What you&apos;ll be doing:<br></strong><ul><li>Have a critical role in building and maintaining our payments platform processing billions of dollars per year</li><li>Manage all technical aspects of relationships with payment providers and integrate new payment methods into our payment platform</li><li>Implement and deliver new payment features leading to higher checkout conversion</li><li>Build reporting and monitoring tools to ensure the stability and security of the payments system<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Bachelor\u2019s degree in Computer Science or related field or equivalent work experience</li><li>4+ years of industry experience building data driven systems, but we do realize quality of experience is more important than actual years.</li><li>Bonus: Experience integrating with payment service providers (e.g. Stripe, Adyen)</li><li>Bonus: familiarity with our tech stack (Python, MongoDB, AWS, React.js)</li><li>Bonus: Experience with A/B testing and ETL process<br></li></ul><strong><u>Additional Information<br><br></u></strong>Wish values diversity and is committed to creating an inclusive work environment. We provide equal employment opportunity for all applicants and employees. We do not discriminate based on any legally-protected class or characteristic. Employment decisions are made based on qualifications, merit, and business needs. If you need assistance or accommodation due to a disability, please let your recruiter know. For job positions in San Francisco, CA, and other locations where required, we will consider for employment qualified applicants with arrest and conviction records.<br><br>Individuals applying for positions at Wish, including California residents, can see our privacy policy <u>here</u>.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:53:31.000Z"
+  },
+  "company": {
+    "name": "Wish",
+    "link": "https://www.linkedin.com/company/wishshopping"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 147000,
+    "max_value": 202000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

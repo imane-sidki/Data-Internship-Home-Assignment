@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p><strong><u>Qualifications</u></strong>:</p><ul><li>2+ years of experience leading work streams with 2+ data scientists, engineers, and other data &amp; analytics professionals, including innovation, quality management, utilizing analytics and software development processes for <strong>Natural Language Processing</strong>, <strong>Machine Learning</strong> on unstructured data, and/or information retrieval; multidisciplinary backgrounds..</li><li>Masters or PhD in Computer Science, Engineering, or related fields; PhD preferred. </li><li>Ability to apply artificial intelligence techniques to achieve concrete business goals and work with the business and team members to understand business objectives, available resources, and constraints around data (sources, integrity, and definitions), processing platforms, and security; provide assistance and resolve problems using solid problem-solving skills and verbal/written communication.</li><li>Solid experience performing data science from data discovery, cleaning, model selection, validation, and deployment; experience coding <strong>Artificial Intelligence</strong> methods using object-oriented programming in a software development process, and ability to restructure, refactor, and optimize code for efficiency.</li><li>Ability to utilize a diverse array of technologies and tools as needed, to deliver insights (<strong>R, Python, Spark, Hadoop</strong>), and emerging Cloud Capabilities on <strong>Azure, GCP</strong>, and/or <strong>AWS</strong>; experience with <strong>command-line scripting</strong>, data structures, and algorithms and the ability to work in a Linux environment.</li><li>Ability to travel up to 80% of the time. </li><li>Must be legally authorized to work in the United States without sponsorship of a visa.</li></ul><p><br></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-19T20:18:11.000Z"
+  },
+  "company": {
+    "name": "Brilliant Infotech Inc.",
+    "link": "https://www.linkedin.com/company/brilliant-infotech-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Princeton",
+    "region": "NJ",
+    "postal_code": "08540",
+    "street_address": null,
+    "latitude": 40.35198,
+    "longitude": -74.66074
+  }
+}

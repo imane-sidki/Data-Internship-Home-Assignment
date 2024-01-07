@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Banking",
+    "description": "<p>Short Description</p><p>  -Kubernetes</p><p>- Workflow (one of these: Kubeflow, Prefect, Airflow,...)</p><p>- Python</p><p>- Micro-service architecture</p><p>- CICD</p><p>- Preferably some exposure to a Cloud provider like AWS</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-07T22:31:57.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88400,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

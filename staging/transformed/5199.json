@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong>At Northwestern Mutual, we are strong, innovative and growing. We invest in our people. We care and make a positive difference. <br><br></strong><strong><u>Primary Duties &amp; Responsibilities<br><br></u></strong>As a SRE, you will lead day-to-day work to acquire, analyze, combine, synthesize, and structure data with clear definitions and sources for analytical consumption! This resource will collaborate with data consumers to identify meaningful datasets for analytical consumption.<br><br>Lead day-to-day development of data products using continuous deployment and integration practices...<br><br>Apply engineering standard methodologies in order to analyze, design, develop, deploy and support data analytics products...<br><br>Participate in agile story authoring, sizing, and demo sessions for product features...<br><br>Leading code reviews, providing feedback to the team and mentoring junior engineers are also part of this role!<br><br><strong><u>Knowledge, Skills, Abilities<br></u></strong><ul><li> Bachelor's Degree &amp; 4-5 years of professional experience </li><li> At least 4 years of professional experience in data acquisition, cleansing, feature engineering, debugging and software documentation, using modern languages and practices </li><li> Experience using continuous integration and deployment concepts </li><li> At least 3+ year experience with specific technical requirements/platforms will vary (i.e. AWS data science and analytics cloud technologies such as S3, EMR, Spark, PySpark, RDS, JupyterLab, Sagemaker, etc., data warehouses suchas Redshift or Snowflake; and digital analytics tools such as Adobe Analytics and Heap) </li><li> Proficiency navigating various types of database models and DBMS\u2019s to create data sets for analytics and model training and development </li><li> Experience developing solutions using agile methods </li><li> Experience working in data lake environments </li><li> Experience guiding the work of junior developers </li><li> Experience with testing or data accuracy/quality designs </li><li> Sophisticated programming skills </li><li> Strong Python, cloud compute, SQL skills and background in ETL </li><li> Deep understanding of distributed data systems and applications. </li><li> Proficiency with data lake design and implementation considerations such as columnar storage formats (Parquet) and partitioning </li><li> Solid understanding of analytics and data science applications </li><li> Strong knowledge machine learning systems </li><li> Development of requirement driven data models such dimensional and relational. </li><li> Understanding of the business domain and the meaning of the data in it to accurately identify key and associated data which can be extracted, transformed and loaded for effective consumption downstream. </li><li> Develop the data flow so that data can be shared across the company with one source of truth being the goal. </li><li> Understanding and awareness of regulations around the use of PII data. </li><li> See the big picture and able to incorporate business understanding into design and approach to achieve current value and prepare for future benefit. </li><li> Ability to provide thought leadership throughout the local scrum team </li><li> Ability to explain technical solutions to technical teams and non-technical teams </li><li> Exceptional analytical, conceptual, and problem-solving skills. </li><li> Excellent written and verbal communication skills </li><li> Self-motivated with ability to work autonomously <br></li></ul>Preferred: Experience with Agile methodologies, experience in DevOps environment, Experience with user adhoc tools: power bi, business objects, Tableau; Consulting experience<br><br><em> <strong> This job is not covered by the existing Collective Bargaining Agreement. </strong> <br><br></em><strong><u>Required Certifications<br><br></u></strong><strong> Grow your career with a best-in-class company that puts our client\u2019s interests at the center of all we do. Get started now! <br><br></strong><em> We are an equal opportunity/affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender identity or expression, sexual orientation, national origin, disability, age or status as a protected veteran, or any other characteristic protected by law. <br><br></em>FIND YOUR FUTURE<br><br>We\u2019re excited about the potential people bring to Northwestern Mutual. You can grow your career here while enjoying first-class perks, benefits, and commitment to diversity and inclusion.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:49:38.000Z"
+  },
+  "company": {
+    "name": "Northwestern Mutual",
+    "link": "https://www.linkedin.com/company/northwestern-mutual"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72800,
+    "max_value": 97700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "WI",
+    "postal_code": "53132",
+    "street_address": null,
+    "latitude": 42.900448,
+    "longitude": -88.02906
+  }
+}

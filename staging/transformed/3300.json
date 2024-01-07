@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer (Spacecraft Engineering)",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Mechanical or Industrial Engineering",
+    "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of\u202fenabling human life on Mars.<br><br><strong>SR. SITE RELIABILITY ENGINEER (SPACECRAFT ENGINEERING)<br><br></strong>The spacecraft engineering team in Hawthorne is hiring for R&amp;D satellite programs that are pushing the boundaries of in-space capabilities. Our missions support scientific research, classified national security space and commercial opportunities. Software engineering and innovation is at the core of these programs.<br><br>The spacecraft software team is building highly reliable in-space networks, designing secure systems to guarantee access to space, and creating autonomous satellite operation systems, and more. Aerospace experience is not required to be successful here - we want our engineers to bring fresh ideas from all areas, love solving problems, and seek to make an impact on an inspiring mission. As we expand this team, we're looking for versatile, driven, and collaborative engineers.<br><br>Our team is involved in designing the vehicle systems at every phase of development. We build tools that enable us to work more efficiently, and that help us build software systems that are secure, reliable, and autonomous. Our software engineers are responsible for the life cycle of the software they create, including development, testing, and operational support.<br><br>An active Top Secret security clearance, or ability to obtain one, is desired but not required.<br><br><strong>RESPONSIBILITIES:<br></strong><ul><li>Design and implement highly available and secure networks that operate for long periods of time with minimal maintenance</li><li>Deploy, upgrade, and scale our suite of mission critical services</li><li>Engage in and improve the whole life cycle of services, from design through deployment and operation</li><li>Closely collaborate with software engineers to design highly operable and maintainable services</li><li>Develop prototypes to prove out key design concepts and quantify technical constraints</li><li>Participate in architecture, design, and code reviews<br></li></ul><strong>BASIC QUALIFICATIONS: <br></strong><ul><li>5+ years of professional experience with site reliability or DevOps</li><li>Experience with the Linux operating system</li><li>Experience with networking protocols (TCP/IP)</li><li>Experience with large-scale application deployment and management systems such as Kubernetes<br></li></ul><strong>PREFERRED SKILLS AND EXPERIENCE: <br></strong><ul><li>Bachelor's degree in computer science, information systems, or engineering</li><li>Security-driven mindset and familiarity with standards and tools such as PKI, ISTIO, RSA, etc.</li><li>Experience with source code development tools and version control tools</li><li>Experience designing and implementing software in at least one language such as Python, C, C++, or scripting languages</li><li>Experience with software product deployment, and continuous integration/deployment systems</li><li>Ability to work creatively and effectively in a dynamic environment with changing needs and requirements</li><li>Ability to work independently and in a team, take initiative, and communicate effectively</li><li>Active Top Secret or Top Secret SCI clearance, or ability to obtain one desired but not required<br></li></ul><strong>ADDITIONAL REQUIREMENTS:<br></strong><ul><li>Willing to work extended hours and weekends when needed <br></li></ul><strong>ITAR REQUIREMENTS:<br></strong><ul><li>To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here. <br></li></ul>SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.<br><br>Applicants wishing to view a copy of SpaceX's Affirmative Action Plan for veterans and individuals with disabilities, or applicants requiring reasonable accommodation to the application/interview process should notify the Human Resources Department at (310) 363-6000.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T05:08:12.000Z"
+  },
+  "company": {
+    "name": "SpaceX",
+    "link": "https://www.linkedin.com/company/spacex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hawthorne",
+    "region": "CA",
+    "postal_code": "90251",
+    "street_address": null,
+    "latitude": 33.916424,
+    "longitude": -118.35028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>Experian is the world\u2019s leading global information services company, unlocking the power of data to create more opportunities for consumers, businesses and society. We are thrilled to share that <strong>FORTUNE has named Experian one of the 100 Best Companies to work for</strong>. In addition, for the last five years we\u2019ve been named in the <strong>100 \u201cWorld\u2019s Most Innovative Companies\u201d by Forbes Magazine</strong>.<br><br><strong><u>Job Description<br><br></u></strong>The Global Analytics and AI team is accelerating Experian\u2019s impact by bringing together data, tech, and data science and build game-changing products and services for our customers. We are looking for a Machine Learning (ML) Engineer to lead the development of our AI platform and products to serve the needs of Experian\u2019s clients, including those in the financial services and healthcare sectors.<br><br>Our team is tackling a key questions, like - How can we increase the rigor and scalability of our loan originations modeling approach? How can we tackle important issues in the lending space today like bias, fairness and explainable AI? And, for our healthcare clients, how can we reduce providers costs with sophisticated machine learning algorithms?<br><br>As a growing team, we embrace a start-up mentality while operating in a large organization. We value speed, agility, and impact \u2013 and our results and ways of working are transforming the culture of the larger organizations around us.<br><br><strong>Your role<br><br></strong>Joining our team in Global Analytics, you&apos;ll be responsible for developing and operationalizing our machine learning platform. As an engineer on our close-knit, cross-functional team, you\u2019ll be an active voice in shaping our products. This is a unique opportunity to get involved from the ground level as part of a growing, dynamic team.<br><br><strong><u>You Will<br></u></strong><ul><li> Drive customer impact by developing and maintaining a scalable machine learning framework for data science products</li><li> Design and development of complex frameworks for applying ML / data science techniques to large data volumes</li><li> Develop scalable pipelines, tools, and services for building production-ready machine learning models</li><li> Opine on technically complex features to inform our product roadmaps</li><li> Work closely with our data scientists to pilot our products with beta customers</li><li> Maintain our culture of high-quality code and full CI/CD automation<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> Deep experience with common data science algorithms and processes (e.g., xgboost, hyperparameter tuning)</li><li> Expert knowledge in Python/PySpark and SQL</li><li> Track record of building and maintaining large-scale machine learning systems in production</li><li> Familiarity with Python AIOHTTP or similar for writing asynchronous REST API backends</li><li> Familiarity with data-oriented workflow orchestration frameworks (e.g., Kubernetes)</li><li> Comfortable supporting troubleshooting and triage of production issues when needed</li><li> Strong test writing discipline and confident in standard development tools and processes, e.g., git, Jira, Slack</li><li> Experience in financial services and/or credit modeling and/or healthcare analytics<br></li></ul><strong><u>Minimum Qualifications<br></u></strong><ul><li> 5+ years of industry experience as a hand-on practitioner of machine learning engineering</li><li> Masters or Bachelors in computer science, engineering, or related field<br></li></ul><strong><u>Additional Information<br><br></u></strong>All your information will be kept confidential according to EEO guidelines.<br><br><em>Experian is proud to be an Equal Opportunity and Affirmative Action employer. Our goal is to create a thriving, inclusive and diverse team where people love their work and love working together. We believe that diversity, equity and inclusion is essential to our purpose of creating a better tomorrow. We value the uniqueness of every individual and want you to bring your whole, authentic self to work. For us, this is The Power of YOU and it ensures that we live what we believe.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T23:59:17.000Z"
+  },
+  "company": {
+    "name": "Experian",
+    "link": "https://www.linkedin.com/company/experian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

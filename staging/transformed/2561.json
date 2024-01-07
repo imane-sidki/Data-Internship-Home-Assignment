@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.They will have to work in Dallas, Texas on location in our offices. Our offices in the Uptown / West Village area.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Develop quality software and web applications</li><li>Analyze and maintain existing software applications</li><li>Design highly scalable, testable code</li><li>Discover and fix programming bugs</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Full Stack Software abilities</li><li>Development experience with programming languages</li><li>SQL database or relational database skills</li><li>Vast experience with Ruby on Rails</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T23:16:39.000Z"
+  },
+  "company": {
+    "name": "ClikDone",
+    "link": "https://www.linkedin.com/company/clikdone"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

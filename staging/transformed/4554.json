@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Company Description:</strong> </p><p>Sync Computing is an MIT based startup company on a mission to build the next leap in distributed computing in the cloud.  Sync Computing\u2019s foundational technology is capable of solving large-scale scheduling optimization problems instantly, unlocking unprecedented gains in the orchestration of large-scale computing applications. Businesses worldwide will be able to utilize cloud resources with optimal efficiency, saving billions of dollars and endless hours on the cloud.  We are targeting applications in data analytics, machine learning, and high-performance computing. </p><br><p><strong>Job Description:</strong> </p><p>Sync Computing is searching for a full-time software engineer located in Cambridge, MA. </p><br><p>As a software engineer, you will be part of a growing interdisciplinary team and will work closely with other world-class engineers to build, test, and deploy cutting-edge distributed software packages on the cloud. We are looking for someone who loves diving into code, working with complex systems, and building solutions. The responsibilities and qualifications of the position include: </p><br><ol><li><p>Provide and document reliable solutions within application development, deployment, and monitoring </p></li><li><p>Work in cloud development environment such as AWS, GCP </p></li><li><p>Build connective code between core technology and product </p></li><li><p>Adhere to code documentation and version control best practices </p></li><li><p>Strong understanding of modern web applications design architecture (experience with React is a plus), good API design patterns (experience with RESTful is a plus), performance, and scale </p></li><li><p>2+ years of experience in a similar role </p></li><li><p>Proficiency in Python (experience with fastAPI is a plus) </p></li></ol><br><p><strong>Qualifications:</strong> </p><p>A technical background in electrical engineering, computer science, applied math, physics, or related fields is required, with a B.S., M.S. or PhD degree. The candidate must be familiar with basic programming languages (e.g. Python) and Linux operating systems. Experience with AWS infrastructure is preferred. Candidates must have excellent written and oral communication skills, a strong desire to learn, be self-directed, and be motivated to work in a fast paced start-up environment. </p><br><p><strong>How to Apply:</strong> </p><p>To learn more, please send us a CV at careers@synccomputing.com</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T01:41:31.000Z"
+  },
+  "company": {
+    "name": "Sync Computing",
+    "link": "https://www.linkedin.com/company/synccomputing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

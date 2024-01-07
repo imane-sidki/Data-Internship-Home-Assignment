@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Web Developer",
+    "industry": "Information Technology and Services",
+    "description": "<p>A new lead front end developer will focus on sophisticated high quality web page development.The new developer will support the continued advancement with a range of user centered features for the display and analysis of results.</p><p></p><p><strong>Responsibilities:</strong></p><ul><li>Design and develop web applications and services that integrate with the client\u2019s products.</li><li>Collaborate with product managers, designers, and engineers to prototype and implement features.</li><li>Recommend best approaches for front-end architecture, tooling, and processes.</li></ul><p></p><p><strong>Qualifications:</strong></p><p><strong>Required</strong></p><ul><li>Bachelor\u2019s degree in Computer Science, Software Engineering, or related engineering and technical field.</li><li>3+ years of development experience in front end development.</li><li>Skilled with HTML, CSS, JS.</li><li>Basic familiarity with object-oriented programming concepts and technologies.</li></ul><p><br></p><p><strong>Preferred</strong></p><ul><li>Experience with front-end frameworks such as React and Vue.</li><li>Experience with Agile development.</li><li>Some experience with a major cloud provider such as Azure.</li><li>Skill in understanding and consuming RESTful APIs.</li><li>Knowledge of continuous integration is an advantage.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T15:13:56.000Z"
+  },
+  "company": {
+    "name": "VantageLinks, LLC",
+    "link": "https://www.linkedin.com/company/vantagelinks-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Machine Learning",
+    "industry": "Computer Software",
+    "description": "<strong><u>About Pave<br><br></u></strong>Here at Pave, you\u2019ll be joining a world class team with tremendous growth potential. We\u2019re a Series B start-up backed by top Silicon Valley investors Andreessen Horowitz (a16z), Y Combinator Continuity, and Bessemer Venture Partners.<br><br>The world of compensation is broken today. Pave is here to fix it. Today, teams cobble together hundreds of messy spreadsheets and outdated surveys to determine how to compensate their workforce. Covid and remote work have made the situation far more difficult, and the notion of \u201cmarket compensation\u201d is now confusing to everyone.<br><br>At Pave, you will reinvent the world of compensation and help build a more transparent future of work.<br><br>Pave allows companies to benchmark compensation to leaders in their industry, analyze internal compensation data and make the right adjustments, then visually communicate compensation to their employees. We\u2019re building the world\u2019s largest real-time compensation data platform to accomplish this goal, and are acquiring amazing customers like Credit Karma, Discord, and Allbirds at an unbelievable pace. Come join our team on this mission!<br><br><strong>Our Team<br><br></strong>Do you want to work on meaningful data science projects that truly make the world a better place? Are you interested in working with the world\u2019s largest and most complete real-time compensation dataset? Would you rather spend more time delivering value than cleaning data? Do you want to be a force multiplier who works with a variety of tools, domains, and stakeholders?<br><br>At Pave, we have one of the world\u2019s most interesting datasets (seriously, this is every data scientist\u2019s dream). We have almost every characteristic you could want, from compensation characteristics to demographic characteristics to location data to, well, anything you could want analyze. Oh, did we mention it was clean? If you said yes to the above, come help us make a more fair and transparent world at Pave.<br><br><strong>Your Primary Focus<br><br></strong>At Pave you'll be working with product managers and other key stakeholders to<br><ul><li> understand Pave's current and future products and</li><li> design and implement models to support and grow the value those products provide.<br></li></ul>This means you'll be:<br><ul><li> Advising leadership about potentially predictive and prescriptive solutions which would increase the value delivered by Pave to its customers</li><li> Creating predictive models using the world's most complete collection of real-time compensation data ever collected</li><li> Building pipelines to support modeling and any upstream or downstream interfaces to deliver model outputs<br></li></ul><strong>About You<br><br></strong><ul><li>2-3+ years of developing and delivering machine learning models to production</li><li>2-3+ years of owning model pipelines from start to finish (from data engineering, cleaning, modeling, visualization, to delivery)</li><li>Expert knowledge of (Python or R) and SQL</li><li>You have experience and enjoy working with other stakeholders across our organization </li><li>Experience with Looker and Airflow are nice to haves! <br></li></ul><strong>Life at Pave<br><br></strong>Pave is growing incredibly fast, and we have high ambition. In true work hard / play hard fashion, we've complemented our ambitious goals with a world-class culture and a variety of early startup benefits. As an early hire, you\u2019ll play a key role in shaping what this looks like, but some of the benefits that we already offer include:<br><br><strong>Compensation:</strong> Competitive salary and startup equity (it's in our DNA)<br><br><strong>Wellness:</strong> Top tier health insurance along with exercise &amp; wellness benefits<br><br><strong>Food:</strong> All meals while working, plus snacks. We take our snacking seriously<br><br><strong>Tech:</strong> Choose your laptop and accessories of choice<br><br><strong>Team:</strong> Retreats, happy hours, and events for our team, friends, and family<br><br><strong>FlexibleTime Off:</strong> Take the time you need<br><br><strong>WFH Wednesday:</strong> A dedicated work from home day each week<br><br><strong>Location:</strong> Our company is based in San Francisco's SoMA district with a high energy in-person culture<br><br>And much more... we want all Pave employees to define the best benefits based on our combined interests.<br><br>Pave is committed to a diverse and inclusive workforce. We are an equal opportunity employer and do not discriminate on the basis of race, ethnicity, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please email recruiting@pave.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:31:40.000Z"
+  },
+  "company": {
+    "name": "Pave",
+    "link": "https://www.linkedin.com/company/pave"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

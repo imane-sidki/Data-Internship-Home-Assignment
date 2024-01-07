@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Description</strong></p><p>As a Software Engineer at FanFood, expect to spend your day on database and API development, designing slick user interfaces, and building integrations with external technology vendors and partners. You will be writing a lot of code \u2014 but more importantly you will be helping shape the future of our mobile ordering platform.</p><p><br></p><p>Our ideal candidate is an excellent communicator and a curious problem-solver, excited to ideate and develop new features across our suite of products. We\u2019re on a modern stack, leveraging end-to-end JavaScript (React, React Native, and Node) and PostgreSQL on cloud native, serverless AWS infrastructure.</p><p><br></p><p>On our team, we know that everything we build won\u2019t be perfect. With a focus on usability and rapid feature development, we are in a unique position to develop quickly, test out new ideas, learn from our mistakes, and improve our customer satisfaction in the process.</p><p><br></p><p><strong>Requirements</strong></p><ul><li>Passionate and hard-working team member who strives to build outstanding tech products</li><li>Stellar communication skills with the ability to take loose requirements and collaborate to define and implement new features</li><li>Curiosity to ask great questions and constantly identify areas of improvement</li><li>Full-stack (web, mobile, API, database) development experience</li><li>Some JavaScript experience (React and Node preferred)</li><li>Strong desire to learn on the job and continuously grow as an engineer</li></ul><p><br></p><p><strong>About Us</strong></p><p>FanFood is a Chicago-based mobile ordering startup looking to grow fast! We started a few years ago in the sports and entertainment space \u2014 now you can find us everywhere from food trucks, drive-ins, malls, high schools, luxury hotels, high rises and more. We love enhancing our customer\u2019s experience through cashless and contactless mobile ordering. The FanFood App allows users to order food and beverages from the comfort of their stadium seat, car, or even their sofa, and be notified when their order is ready for in-store pickup, curbside pickup, or in-person delivery.</p><p><br></p><p>Our team is full of passionate, collaborative individuals who are dedicated to improving our platform. Whether it\u2019s fixing a small bug or developing a large new feature, we are eager to build the best products for both our users and our venue partners, optimizing the mobile concession journey from beginning to end.</p><p><br></p><p>www.fanfoodapp.com</p><p><br></p><p><strong>Benefits</strong></p><ul><li>Competitive market salary</li><li>Employee healthcare coverage</li><li>A fulfilling, challenging adventure of a work experience</li><li>Outstanding team culture</li></ul><p><br></p><p><strong>Location</strong></p><p>We\u2019re headquartered in downtown Chicago, IL, but currently working fully remote due to COVID-19. We are accepting remote applicants.</p><p><br></p><p><em>FanFood provides equal employment opportunities (EEO), celebrating diversity and committed to creating an inclusive environment for all employees. In addition to federal law requirements, FanFood complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T17:39:01.000Z"
+  },
+  "company": {
+    "name": "FanFood",
+    "link": "https://www.linkedin.com/company/fanfood"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

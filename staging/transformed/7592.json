@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - 100% Remote",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Job Title:</strong>Data Engineer</p><p><strong>Position Type:</strong> Contract until December 2021 (2.5 Months)</p><p><strong>Location:</strong> 100% remote, no travel, prefer Central or East Coast location since a lot of the team onshore work East Coast.</p><p> </p><p><strong>Primary Skills:</strong> 5+ years of developer/data engineer experience working specifically in Azure Python, Scala, SQL and/or Databricks hands on experience</p><p> </p><p><strong>Requirements: </strong></p><ul><li>At least 5+ years of developer/data engineer experience working specifically in Azure.</li><li>Must have python, scala, SQL and/or databricks hands on experience.</li><li>Should be independent worker but collaborate with necessary peers and deliver results incrementally by taking full ownership of tasks.</li></ul><p></p><p><strong>Daily duties: </strong></p><p>1.Gen 1 to Gen 2 transition</p><p>a)Majority of their data pipelines are using Azure Data Lake Storage Gen 1 which is going to be deprecated by Microsoft</p><p>b)Hence they need to migrate this to ADLS Gen 2 version</p><p>c)Approximately, 155 data pipelines will be impacted from an ingestion pov and another 30 pipelines will also need to be updated in Refined data process</p><p><br></p><p>2.Data Quality automation</p><p>a)Today, they have several notebooks and scripts that perform aggregate quality checks for multiple sources</p><p>b)Some of these need to be upgraded to use more current pipeline run information and also needs automation</p><p>c)They will utilize ADLSg2 to store this metadata for reporting and analysis </p><p><br></p><p>3.Functions optimization and Vacuum implementation</p><p>a)There are Azure Functions based processes that needs update and optimization as each of them are running independently</p><p>b)Opportunity to modularize some of these functions and as a result reduce overhead on system resources</p><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:39:17.000Z"
+  },
+  "company": {
+    "name": "Staffing Technologies",
+    "link": "https://www.linkedin.com/company/staffing-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

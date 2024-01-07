@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Oil & Energy,Financial Services",
+    "description": "<strong>Local Unit &amp; Position Description</strong> <br><br>Site Reliability Engineering (SRE) is the discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create, deploy, and manage scalable and highly reliable software systems. SRE ensures that all services - both our internally critical and our externally visible systems - have reliability and uptime appropriate to users' needs while keeping a watchful eye on capacity and performance.<br><br>We are looking for a Site Reliability Engineer to help us grow our oil and gas pipeline software business. The successful candidate will work in an agile team environment on cloud-based enterprise applications deployed to both internal and external clients. The ideal site reliability engineer candidate is either a software engineer with a good administration background or a highly skilled system administrator with knowledge of coding and automation.<br><br>This position will be located in our Mechanicsburg, PA or Katy, TX (Houston, TX area) office. Possibility for remote in other locations (excluding Colorado).<br><br><strong>Tasks may include</strong> <br><ul><li>Deployment of software to multiple operating environments; installation and configuration of demo/production/training environments</li><li>Day-to-day administration of multiple operating environments including joint responsibility for our production environments</li><li>Troubleshoot issues that arise in web-based operating environments, document defects in Azure DevOps, and work with colleagues to resolve issues</li><li>Support DevOps efforts daily interacting with Development and Operations team members</li><li>Support development of processes and procedures for deployment, operations, and maintenance</li><li>Support web operations workflow automation using configuration management and continuous deployment frameworks</li><li>Apply service delivery best practices</li><li>Conduct post-mortems, investigate, analyze and document unplanned downtime events</li><li>Automate existing manual processes</li><li>Work with a global team spread across tech hubs in multiple geographies and time zones</li><li>Troubleshoot, stabilize, and resolve incidents when they occur.</li><li>Perform incident analysis to gather findings and identify follow-up actions that lead to more reliable products.<br></li></ul><strong>Requirements</strong> <br><br><strong> Position Qualifications </strong> <br><ul><li>Systems engineering or DevOps experience</li><li>Experience with site reliability engineering specifically with Azure or AWS cloud</li><li>Experience writing code to automate day-to-day tasks</li><li>Experience developing and maintaining continuous deployment pipelines (e.g., ADO)</li><li>Experience in service engineering lifecycle and live site operation at internet scale</li><li>Experience in configuration, deployment, and maintenance of Cloud-based platforms</li><li>Excellent knowledge of a scripting language like Python</li><li>Experience working on cloud-based infrastructure (e.g. Azure)</li><li>Experience in automating releases, continuous integration/delivery systems and relevant tools</li><li>Solid foundation in both software and systems engineering\u202f</li><li>Knowledge of standard production practices including change management</li><li>Comfort with frequent, incremental code deployment</li><li>Familiarity with monitoring and metric collection systems</li><li>Azure DevOps experience</li><li>Excellent troubleshooting skills</li><li>A strong desire to current on technical trends in order to suggest innovative tools and approaches to interesting problem</li><li>Strong written and verbal English communication skills</li><li>We conduct a pre-employment background check and drug screen<br></li></ul><strong>Preferred Skills</strong> <br><ul><li>Experience with container and container orchestration technology (e.g., Docker, Kubernetes) strongly preferred</li><li>Experience securing cloud/web applications strongly desired</li><li>Version Control Systems experience (GIT preferred)</li><li>Bachelor\u2019s degree or higher in related field preferred<br></li></ul>**Immigration-related benefits (for example, visa sponsorship) are not available for this position. **<br><br><strong>Opportunities Beyond Business</strong> <br><br>Our mission is to safeguard life, property, and the environment. By joining us, you will work towards our meaningful vision: to make a global impact for a safe and sustainable future. DNV offers a congenial working environment, competitive salaries, and an exceptional benefits package.<br><br>DNV is an Equal Opportunity Employer and gives consideration for employment to qualified applicants without regard to race, color, religion, age, sex, national origin, disability or protected veteran status. For more information about your rights under the law, see:<br><br>http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf<br><br>Please visit our website at www.dnv.com<br><br><strong>Company &amp; Business Area Description</strong> <br><br>DNV is a world-leading provider of digital solutions for managing risk and improving safety and asset performance for ships, pipelines, processing plants, offshore structures, electric grids, smart cities and more.<br><br>Our open industry platform Veracity, cyber security and software solutions support business-critical activities across many industries, including maritime, energy and healthcare.<br><br><strong> Equal Opportunity Statement </strong> <br><br>DNV is an Equal Opportunity Employer and gives consideration for employment to qualified applicants without regard to gender, religion, race, national or ethnic origin, cultural background, social group, disability, sexual orientation, gender identity, marital status, age, or political opinion. Diversity is fundamental to our culture and we invite you to be part of this diversity!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T14:59:33.000Z"
+  },
+  "company": {
+    "name": "DNV",
+    "link": "https://no.linkedin.com/company/dnv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Katy",
+    "region": "TX",
+    "postal_code": "77492",
+    "street_address": null,
+    "latitude": 29.794857,
+    "longitude": -95.81653
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Distributed Systems Software Engineer (Senior/Lead/Principal) - Public Cloud",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br><br></em><strong> Job Category </strong>Products and Technology<strong> Job Details <br><br></strong>Note: By applying to the Public Cloud - Distributed Systems Software Engineer posting, recruiters and hiring managers across the organization hiring Software Engineer will review your resume. Our goal is for you to apply once and have your resume reviewed by multiple hiring teams.<br><br>Our Public Cloud engineering teams are responsible for innovating and maintaining a massive distributed systems engineering platform that ships hundreds of features to production for tens of millions of users across all industries every day. Our users count on our platform to be highly reliable, lightning fast, supremely secure, and to preserve all of their customizations and integrations every time we ship. You will need deep experience with concurrency, large scale systems, proficiency with solving real-world data management challenges, a strong understanding of how to architect solutions that are highly available, and a proven ability to design, develop, and optimize the core back-end systems.<br><br><strong><u>Your Impact<br></u></strong><ul><li>Deliver cloud infrastructure automation tools, frameworks, workflows, and validation platforms on Public Cloud such as AWS, GCP, Azure, or Alibaba</li><li>Designing, developing, debugging, and operating resilient distributed systems that run across thousands of compute nodes in multiple data centers</li><li>Using and contributing to open source technology (Spinnaker, Zookeeper, etc.)</li><li>Developing Infrastructure-as-Code using Terraform</li><li>Writing microservices on containerization frameworks such as Kubernetes, Docker, Mesos</li><li>Resolving complex technical issues and drive innovations that improve system availability, resilience, and performance</li><li>Eat, sleep, and breathe services. You have experience balancing live-site management, feature delivery, and retirement of technical debt<br></li></ul><strong><u>Required Skills<br></u></strong><ul><li>BS with 5+ years of experience or MS with 3+ years of experience</li><li>Deep knowledge of programming in Java, Golang, or Python</li><li>Experience owning and operating multiple instances of a mission-critical service</li><li>Experience with Agile development methodology and Test-Driven Development</li><li>Experience owning and operating multiple instances of mission-critical infrastructure services including, monitoring, alerting, logging, and reporting applications<br></li></ul><strong><u>Benefits &amp; Perks<br><br></u></strong>We have a public-facing website that explains our various benefits, including wellbeing reimbursement, generous parental leave, adoption assistance, fertility benefits, and more. Visit for the full breakdown!<br><br><strong><em>Open to Fully Remote, Flex (1-3 days/week in the office), or Office-Based (4-5 days/week in office)<br><br></em></strong>For Colorado-based roles: Minimum annual salary of $98,900. You may also be offered a bonus, restricted stock units, and benefits. More details about our company benefits can be found at the following link: getsalesforcebenefits.com<br><br>Salesforce information<br><br>We are Salesforce Engineering<br><br>Salesforce Ohana Culture<br><br>Salesforce Engineering behind the cloud<br><br><strong> Accommodations <br><br></strong>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br><br><strong> Posting Statement <br><br></strong>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br><br><u>Salesforce.com</u> and <u>Salesforce.org</u> are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. <u>Salesforce.com</u> and <u>Salesforce.org</u> do not accept unsolicited headhunter and agency resumes. <u>Salesforce.com</u> and <u>Salesforce.org</u> will not pay any third-party agency or company that does not have a signed agreement with <u>Salesforce.com</u> or <u>Salesforce.org</u> .<br><br>Salesforce welcomes all.<br><br>Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:23:46.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

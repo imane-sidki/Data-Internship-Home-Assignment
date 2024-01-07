@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Do you want a meaningful job? RadioMobile is looking for a Software Engineer to join the development team to create, enhance, maintain and develop 911 dispatch, mobile and associated hardware used by public safety agencies and fleet management organizations. Join the RadioMobile team developing exciting mission critical end-to-end public safety systems including mobile hardware, firmware and software. This position concerns Windows-based mobile data computers, remote display terminals, along with fire station alerting systems, that include computers, radios, and station control units. RadioMobile hosts on-prem as well as cloud-based services, Windows and iOS applications, integration with various wireless communications including 4G/5G, 2-way satellite and LMR. All of this to make citizens and fire fighters safer and saving lives.</p><p><br></p><p>RadioMobile's development team is looking for a Software engineer with emphasis in <strong>Microsoft Server, SQL Server and Azure</strong> environments to create, enhance, maintain and test software applications for 911 dispatch, mobile devices and associated applications used by public safety departments &amp; fleet management organizations. In addition to the current products this position will work with management and other team members to evaluate and create new programs and systems as part of ongoing innovation.</p><p><br></p><p><strong>POSITION REQUIREMENTS:</strong></p><ul><li>Design &amp; development of software applications &amp; tools using standard development tools using Agile methodology</li><li>Design &amp; development of database driven client-server applications</li><li>Assist team with QA testing, problem resolution and documentation</li><li>Coordinate with other staff designers and developers to ensure total end-to-end system functionality</li><li>Assist with customer support, enhancements and new features</li></ul><p><br></p><p><strong>REQUIRED QUALIFICATIONS:</strong></p><ul><li>Bachelor or Master\u2019s degree of Computer Science or Computer Engineering</li><li>2+ years directly related experience in Software Development technologies</li><li>Extensive development experience in C# &amp; .NET technologies</li><li>Extensive development experience using Microsoft SQL Server</li><li>Development experience with REST API</li><li>Strong coding &amp; code review skills</li><li>Proficient with GUI (Graphical User Interface) development tools and techniques</li><li>Familiar with web development technologies</li><li>Self-motivated, good time management and comfort working individually and in a group environment</li><li>Individual must exhibit very good written and verbal communication skills</li></ul><p><br></p><p><strong>OTHER PREFERRED QUALIFICATIONS:</strong></p><p>Familiarity with:</p><ul><li>GIS/Mapping and SDKs (e.g., ESRI)</li><li>Relational database management system (SQLite, Microsoft SQL Server)</li><li>TCP/IP, UDP, socket communications &amp; networking technologies (WebAPI, REST, etc.)</li><li>Cloud and virtualization technology</li><li>Security mindset (HTTPS, VPN, TLS, X.509 certificates)</li><li>Agile software development experience (e.g., Atlassian tools)</li><li>Public Safety Environment</li></ul><p><br></p><p>Candidate <strong>MUST</strong> be authorized to work in the US for any employer.</p><p><br></p><p><strong>About RadioMobile</strong></p><p>Headquartered in San Diego, RadioMobile provides products that enable public safety and commercial organizations to have access to situational awareness information to make informed decisions. With a wide portfolio ranging from ruggedized in-vehicle mobile data computers, dispatch/tracking software products including mapping, fire station alerting, mobile vehicle location services, customized mobile data networking products, integration and installation services, we pride ourselves in having the flexibility to support products across government and public safety, security services and the private fleet management industries.</p><p><br></p><p>Email: careers@radiomobile.com</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T18:20:13.000Z"
+  },
+  "company": {
+    "name": "RadioMobile, Inc.",
+    "link": "https://www.linkedin.com/company/radiomobile"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75500,
+    "max_value": 123000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

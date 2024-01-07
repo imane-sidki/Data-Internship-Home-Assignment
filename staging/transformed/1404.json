@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Medical Devices",
+    "description": "<p><strong><em>The Company</em></strong></p><p>The world is facing a medical crisis, bacteria are increasingly evolving resistance to even our strongest antibiotics. The problem is already very real and immediate; for example, bloodstream infection leading to sepsis is now responsible for more than half of all deaths in hospitals and is the most expensive condition treated in hospitals. Sepsis mortality rate increases &gt;6% every hour without effective antibiotic treatment. Yet, despite the life and death urgency, and healthcare cost impacts, current methodologies require 3 days to determine the correct antibiotic.</p><p>Specific Diagnostics has developed a breakthrough solution to rapidly determine the effective antibiotic treatment for bloodstream and other acute infections. Used for bloodstream infection Specific\u2019s solution provides results 2 days sooner than existing methods, saving patients suffering from drug-resistant infection.</p><p>We have been funded by nearly $30 M in non-dilutive government sponsored research support and recently $17.5 M in venture capital. This is an opportunity to join us at an inflection point in our commercial growth as we bring our first key product to market and with recognition from major customers fueling an expansion of our staff.</p><p><strong>The Job</strong></p><p>This is the job for you if want to be where your ideas to be central to a world-changing and lifesaving product. Data science and analytics are at the core of our company we are seeking an exceptional talent to join our team. You will be a key contributor and critical to the success of the company. The main analysis tasks you are expected to contribute to are:</p><ul><li>Analytical methods and statistical analysis for processing high-volume, temporal high-dimensional data streams generated in real-time from our proprietary sensor technology.</li><li>The development of data-driven visualization tools for the explorative analysis of high-dimensional data.</li><li>The application and development of suitable pre-processing, feature-selection and dimensional reduction techniques to detect, measure and account for data artifacts.</li><li>The development and validation of applications for a medical instrument built under the guidance of a senior manager experienced in the application development discipline (so you\u2019ll be learning the valuable skill of integrating your work into applications for medical diagnostic devices).</li><li>Algorithm development for decisions and measurements from multi-dimensional data streams.</li></ul><p>This is not the job for a numbers-only person. We want someone with a passion for and experience in the sciences that will lead you to look deeply into the sources of the data along with the scientists so that the data analysis is influenced by the science of our diagnostic technology and the science is influenced by the analysis.</p><p><strong><em>You</em></strong></p><p>You have a proven track record of successfully developing, validating, and deploying data analysis and analytical methods to solve challenging real-world applications. You are deeply familiar with a broad range of analytical models and are at the pulse of developments in the field. Ideally, you have proven expertise in the analysis of Spatio-temporal data. You have strong domain knowledge in the field of statistical analysis and signal processing. You should have a track record of success in your education and projects and have these characteristics and skills:</p><ul><li>MS degree in computer sciences, biomedical engineering, or related field and at least 5 years of interesting relevant experience.</li><li>Expert in R and proficient with C++ and Python.</li><li>Expertise in analytical methods and statistical analysis.</li><li>Proficiency in SQL as well as NoSQL database technologies is a plus.</li><li>Full fluency (verbal and written) of the English language is a must.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T21:13:12.000Z"
+  },
+  "company": {
+    "name": "Specific Diagnostics",
+    "link": "https://www.linkedin.com/company/specificdiagnostics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 90900,
+    "max_value": 198100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

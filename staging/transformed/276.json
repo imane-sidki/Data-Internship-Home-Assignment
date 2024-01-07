@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Modis is looking for a Machine Learning Engineer in San Jose, CA. This will be working in a fast-paced global enterprise environment and will require the Machine Learning Engineer to be onsite. The ideal Machine Learning Engineer must have strong leadership and communication skills in addition to technical expertise.</p><p><br></p><p>POSITION SUMMARY</p><ul><li>The role is to support the engineering development of ADAS/AD feature for series production. The focus is development US specific feature and validation of the same. The responsibility starts with creating machine learning models for sensor fusion, situation interpretation and path planner.</li><li>Once SW is integrated this position will be responsible to perform integration testing in HIL/SIL lab and after successful testing the same need to be verified and validated in target vehicle environment.</li></ul><p>Role Responsibilities:</p><ul><li>Developing machine learning models for Situation and Interpretation modules (Ex: Intention prediction, Corridor build-up etc. (60%)</li><li>Data collection and training neural networks with large amounts of data (20%)</li><li>Software Integration and Verification in HIL/SIL (20%)</li></ul><p>Required:</p><ul><li>3+ years of experience with AI / deep learning concepts and experience with at least few of the topics like trajectory prediction, behavior prediction, multimodal architectures, recurrent architectures like LSTMs, transformers, attention, uncertainty, probabilistic models, graphical neural nets, model compression/optimization etc.</li><li>Bachelors Degree in Engineering (computer science or comparable)</li><li>A good fundamental understanding of AI / deep learning concepts</li><li>Experience with at least few of the topics like trajectory prediction, behavior prediction, multimodal architectures, recurrent architectures like LSTMs, transformers, attention, uncertainty, probabilistic models, graphical neural nets, model compression/optimization etc.</li><li>Experience with some of the open source datasets like Argoverse, kitti, nuscenes, etc. and/or similar data coming from simulation ( e.g. CARLA etc.).</li><li>Strong coding background</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-29T14:56:55.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

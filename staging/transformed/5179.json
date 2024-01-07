@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Who We Are<br><br></u></strong>Hi, we\u2019re SambaSafety and we offer the industry\u2019s most comprehensive driver monitoring software. Our technology helps everyone from large corporations to small companies ensure only the safest individuals are driving on behalf of their business. These companies trust SambaSafety to keep their employees safe on the roads, helping protect their brand, greater community and bottom line. Simply put, we save lives and are on a mission to reduce crashes on American roadways 20 percent by 2025.<br><br>We\u2019ve built an inclusive, supportive, and exceptional culture where every employee is empowered in their role. Don\u2019t take our word for it; we\u2019ve been recognized as a Top Workplace by The Denver Post and Built In Colorado. And our employees rate SambaSafety top-notch, with a rock solid 4.7-star rating on Glassdoor.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Investigate and contribute to solving various issues in production environments</li><li>Drive infrastructure as code adoption</li><li>Deployment of software releases</li><li>Proactively analyze and contribute improvements to support deployment processes</li><li>Provide collaboration as a conduit between various technical and non-technical teams</li><li>Work with the development teams to improve system quality</li><li>Build effective monitoring, alerts, and metrics for production services</li><li>Provide configuration management for production applications</li><li>Participate in an on-call rotation<br></li></ul><strong><u>What You\u2019ll Need<br></u></strong><ul><li>Ability to listen to team feedback and prioritize efforts within the shift or escalate to managers for suggestions.</li><li>Excellent collaboration skills.</li><li>Ability to think strategically and act tactically.</li><li>Works with a sense of urgency in high pressure environment and demonstrates the ability to effectively respond to issues during emergency situations.</li><li>Demonstrates the ability to adapt quickly to changing priorities, circumstances and direction.</li><li>Professional experience with cloud environments (AWS certification preferred)</li><li>Strong knowledge and experience working in Linux/Unix environment</li><li>Experience with centralized logging solutions (Splunk, Elk, etc.)</li><li>Knowledge of active monitoring (Datadog, Dynatrace, etc.)</li><li>Understanding of security best practices</li><li>Experience with CI/CD tools (Jenkins, CircleCI, etc.)</li><li>Experience with a modern programming language (python, Java etc.)</li><li>Experience with SQL and NoSQL databases</li><li>Understanding of git</li><li>Knowledge of networking principles such as firewalls, load balancing, routing and switching</li><li>Knowledge of horizontal and vertical scaling best practices<br></li></ul><strong><u>Benefits And Perks<br></u></strong><ul><li>Unlimited Paid Time Off and Paid Volunteer Days</li><li>401k match and generous Healthcare Benefits including a fully employer paid family medical plan</li><li>Wellness &amp;Tuition Reimbursement</li><li>Zoom Happy Hours</li><li>Flexible Work From Home schedule &amp; a Monthly Internet stipend</li><li>Lots of Samba swag</li><li>Samba Virtual Events including our famous Samba Sprint<br></li></ul>Our team of talented and committed safety professionals is exceptional. At SambaSafety we strive to foster an inclusive culture that supports, encourages and celebrates a wide array of diversity. We are committed to create a space where all employees can show up as their authentic selves every day, and we work to advance employee equality, diversity and inclusion.<br><br>SambaSafety provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, gender identity, and expression or genetics.<br><br>Come join us to find out for yourself what all the excitement is about!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T10:07:35.000Z"
+  },
+  "company": {
+    "name": "SambaSafety",
+    "link": "https://www.linkedin.com/company/sambasafety"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

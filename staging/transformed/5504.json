@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Ruby",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We\u2019re working to find new and better ways to help businesses succeed on their own terms\u2014and we\u2019re looking for people like you to help shape tomorrow at Square.<br><br><strong><u>Job Description<br><br></u></strong>This role is part of a bigger Contact Center Engineering Organization, you will be responsible for designing, building, and maintaining Contact Center Applications including full stack web applications that control square customers&apos; helpline journeys end to end.<br><br>Our contact center supports a global presence, ensuring local 24x7 voice support across time zones. The reliability and quality of services are driven by the scalability and efficiency of our platforms and partners. This relies on the interaction of multiple Square systems in a constant feedback loop where the voice platform provides real-time data to the business that can be consumed in future interactions. On this team, you will work on state-of-the-art technologies to ensure both internal and external customers have the best possible experience with Square.<br><br><strong><u>You Will<br></u></strong><ul><li>Write full stack, custom apps and services that enable Customer Success (CS) Advocates to support and educate Square merchants through various channels.</li><li>Integrate with data science models to optimize how support inquiries are handled.</li><li>Improve CS Advocate workflows through data-driven optimization and automation. </li><li>Put smiles on CS Advocates and merchants faces, while driving significant cost savings.</li><li>Combine your technical knowledge with hands on experience to help CS innovate through new products and tools.</li><li>You will also be responsible for the all contact center voice engineering portfolio that includes CCaaS platforms , IVR Applications, Speech Recognition Systems and a wide array of AWS Services : Lambda, Transcribe, Comprehend, Dynamo, IAM.<br></li></ul><strong><u>You Have<br><br></u></strong><strong>Qualifications<br></strong><ul><li>5+ years experience in building large scale applications using Ruby</li><li>BA/BS degree or equivalent practical experience</li><li>Experience developing product infrastructure and web services</li><li>Experience developing server-side code</li><li>Experience designing data models</li><li>Experience with unix production systems<br></li></ul><strong><u>Technologies We Use And Teach<br></u></strong><ul><li>Ruby on Rails, Ember.js, Sidekiq, Redis, Mysql</li><li>Salesforce Service Cloud, Amazon Connect Streams API, Amazon Connect and AWS Services.</li><li>S2S architecture, REST APIs, protobufs<br></li></ul><strong><u>Additional Information<br><br></u></strong>At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible.<br><br><strong>Perks<br><br></strong>At Square, we want you to be well and thrive. Our global benefits package includes:<br><ul><li>Healthcare coverage</li><li>Retirement Plans</li><li>Employee Stock Purchase Program</li><li>Wellness perks</li><li>Paid parental leave</li><li>Paid time off</li><li>Learning and Development resources<br></li></ul>We\u2019re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Square is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.<br><br>We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.<br><br>Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.<br><br><strong>Perks<br><br></strong>At Square, we want you to be well and thrive. Our global benefits package includes:<br><ul><li>Healthcare coverage</li><li>Retirement Plans</li><li>Employee Stock Purchase Program</li><li>Wellness perks</li><li>Paid parental leave</li><li>Paid time off</li><li>Learning and Development resources<br></li></ul><em>Square, Inc. (NYSE: SQ) builds tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in person, manage their business, and access financing. Individuals use Cash App to spend, send, store, and invest money. And TIDAL is a global music and entertainment platform that expands Square&apos;s purpose of economic empowerment to artists. Square, Inc. has offices in the United States, Canada, Japan, Australia, Ireland, Spain, Norway, and the UK.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:18:41.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 150000,
+    "max_value": 215000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

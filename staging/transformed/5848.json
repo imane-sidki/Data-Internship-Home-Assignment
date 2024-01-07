@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Our healthcare client is looking for a Senior Software Engineer to join their team! </p><p><br></p><p>The Project: Working on a service layer that converts native API mostly built in JSON format to a HL7 FHIR API to interconnect health systems.</p><p><br></p><p>Your Background: Experience developing software with Java. FHIR knowledge is a plus</p><p><br></p><p>Job Responsibilities:</p><ul><li>Serve as a senior software developer for the software platform developing FHIR-based REST APIs.</li><li>Allocated time, on average:</li><li>75% of the time coding</li><li>25% of the time collaborating with solution architects/BA/QA on overall software implantation design and best practices</li><li>Provide input on software solution designs</li><li>Work across all teams as a subject matter expect</li><li>Mentor junior software developers on coding designs and best practices</li></ul><p><br></p><p><br></p><p>Required Skills:</p><ul><li>6+ years of experience with hands on development with C# or Java</li><li>8+ years of experience dev</li><li>2+ years of experience EHR clinical integrations</li><li>2+ years of experience with integrating services into a cloud architecture</li><li>2+ years of experience working with Docker containers</li><li>Experience working in Agile environment</li></ul><p><br></p><p><strong>We cannot provide sponsorship upon conversion</strong></p><p><br></p><p>What skills/attributes are preferred (will set a candidate apart)?</p><ul><li>2+ years of experience with good understanding on FHIR standard</li><li>2+ years of experience developing RESTFUL APIs</li><li>The ability to execute existing queries as well as write SQL queries of varying complexity</li><li>Experience with GIT for code repository</li><li>Experience with Jenkins for deployment automation</li><li>Understanding of software development processes and methodologies</li><li>Collaborate in team environment</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:37:32.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

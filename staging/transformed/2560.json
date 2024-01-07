@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p><strong>Is this you?</strong></p><p><br></p><p>Looking for an opportunity that helps you grow and recognize your goals.</p><p>Looking to make positive contributions to a technology team.</p><p>Understands how business drives technology.</p><p>Has a prosperity mindset to succeed.</p><p>If this sounds like you, then please read on...</p><p><br></p><p><strong>Who we are</strong></p><p><br></p><p>Kapow!\u2014by Hello! Destination Management\u2014is an industry-leading event platform that allows companies to find, book and manage memorable, scalable and essential corporate events. We help companies grow revenue quickly by combining thousands of pre-packaged experiences and national partnerships with restaurants, retailers and other special event venues, and the service and expertise of local event experts. Kapow! empowers customers to drive stakeholder collaboration, boost attendance, fill pipeline, measure success and produce bottom-line results from their event programs. Kapow! is based in Chicago and Orlando, and we operate all over the U.S. and in select international markets. However, this role will be in Chicago.</p><p><br></p><p><strong>Our working agreement</strong></p><p><br></p><p>These are guidelines developed by our team as to how we want to work together. They are revisited and revised on a regular basis. Our working agreement is deeply ingrained into the culture of everything we do at Kapow! </p><ol><li>Have empathy, always assume good intent</li><li>Be reasonable, do things for a reason, listen and hear</li><li>Disagree and commit. Everyone commits to the work, reflect on mistakes as a team. Be enthusiastic about the work we agree to do</li><li>Progress over process</li><li>While we have processes, they are not hard and fast rules. Bend and break them as needed. That also means communication is extra important</li><li>Operate as an owner. Be service-oriented. Understand that sometimes we need to drop sprint work to help out our users. \u201cIt\u2019s not my job\u201d should not be part of your vocabulary. We all lend a hand.</li><li>Lean into the unknown, embrace ambiguity</li></ol><p><br></p><p><strong>What you\u2019ll be doing</strong></p><p><br></p><ul><li>Developing features for the Kapow platform on a Mac using Ruby/Rails, Git and MySQL</li><li>Writing Javascript using React, Webpack, NPM, Yarn and related libraries</li><li>Building API\u2019s</li><li>Using source version control tools</li><li>Doing cloud based deployments</li><li>Working in 2-week sprints and you\u2019ll be participating in all Scrum activities</li><li>Designing and architecting software features</li><li>Reviewing and QA\u2019ing the work of other Engineers</li></ul><p></p><p>Even if you don\u2019t meet all qualifications below we still encourage you to apply! We value open-mindedness and flexibility. The prerequisites for joining our development team are simple: we care more about your attitude and aptitude than the specific tools and technologies you have used in the past.</p><p><br></p><p><strong>Technical requirements and qualifications:</strong></p><p><br></p><p><strong>Needs:</strong></p><p><br></p><ol><li>2-4 years of relevant software engineering experience on an app framework like Rails, Spring, Django, Express,...etc.</li><li>1-3 years Front-End HTML5/CSS3/JavaScript experience with a JS framework/library like React, Angular, Ember, Vue,...etc.</li><li>Comfortable developing API\u2019s (GraphQL, RESTful, JSON)</li><li>Familiarity with third-party API integrations</li><li>Proficient with SQL and databases like MySQL, PostgreSQL,...etc.</li><li>Fluent in Unit Testing (RSpec, Cucumber, or equivalent in your favorite language)</li><li>Comfortable working in an agile environment in 2-week sprints.</li><li>Problem solver and an executor who can thrive in an agile environment</li></ol><p><br></p><p><strong>Nice to have\u2019s:</strong></p><p><br></p><ul><li>Experience with Ruby on Rails</li><li>Experience with React</li><li>Experience with Sidekiq or other job queueing systems</li><li>Experience working in cloud environment like AWS (EC2, S3, Elasticsearch, ElasticBeanStalk, CloudFormation)</li><li>Experience with continuous integration environments and deployment tools (Jenkins, Travis CI...etc.)</li><li>Best practices around system security and encryption schemes</li><li>Programming structures (multi-thread, single thread,...etc.)</li><li>Experience developing microservices</li><li>Experience developing and improving e-commerce platforms</li><li>Experience with distributed systems</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:50:10.000Z"
+  },
+  "company": {
+    "name": "Kapow",
+    "link": "https://www.linkedin.com/company/kapow"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

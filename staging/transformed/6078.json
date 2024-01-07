@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Management Consulting,Financial Services,Accounting",
+    "description": "KPMG New Zealand is part of the international KPMG network and is passionate about providing the best audit, tax, and advisory services to clients.<br><br>KPMG Lighthouse provides specialised data and analytics talent and data-driven solutions that help our clients achieve rapid results. KPMG Lighthouse works with large data sets and leverages deep domain expertise in data engineering, data science, advanced visualisation, artificial intelligence, and robotics to help us better serve our clients.<br><br><strong> The Opportunity <br></strong><ul><li>Our Data and Analytics practice is growing, and we're looking for a Data Scientist who will be responsible for analyzing large data sets to develop custom models and algorithms to identify opportunities to drive business solutions.<br><br></li></ul><strong> Day To Day You Will <br></strong><ul><li>Use advanced analytics techniques to solve challenging business questions relating to optimising customer experience, generating revenue, reducing cost, and managing risk</li><li>Use advanced analytics / statistical techniques such as predictive modelling, machine learning, clustering, natural language processing and forecasting</li><li>Develop custom data models and algorithms to apply to datasets</li><li>Process, transform and integrate disparate data sources</li><li>Explore and transform raw datasets to draw meaningful insights</li><li>Work with stakeholders throughout the organisation to identify opportunities to leverage data to drive business solutions</li><li>Keep up with latest trends in the industry and with the latest technologies for data manipulation</li></ul>What you'll bring to our team:<br><ul><li>Qualification in Computer Science, Information Science, Statistics, Physics, Mathematics, or another quantitative field</li><li>2 to 5 years hands on experience, preferably in a consulting environment</li><li>Experience using programming languages (Python, SQL, C#, Scala etc.) to manipulate data and draw insights from large data sets</li><li>Prior experience preparing data for analysis, building predictive models and machine learning algorithms on large scale platforms, and helping to drive innovation into the modelling process/offerings</li><li>Experience with Cloud Platforms (e.g., AWS, Azure, and/or Google Cloud)</li><li>Familiarity with data manipulation and visualization tools and libraries (Power Bi, Tableau, Pandas/NumPy, scikit-learn, Apache Spark)</li><li>Excellent written and verbal communication skills, with proven ability to work with cross-functional teams to translate business issues into potential analytics solutions</li></ul>We offer rewarding careers for outstanding professionals, ongoing learning and development opportunities, a collaborative and inclusive culture, and flexible and agile work practices that focus on our people's wellbeing to drive innovation and entrepreneurship. We also believe that our business plays a distinct and vital role in helping solve important social and environmental issues; and use our unique skills and expertise to help create positive and lasting impacts for our communities.<br><br>We believe diversity of thought, background and experience strengthens relationships and delivers meaningful benefits to our people, our clients and communities. We strive to be recognised as an employer of choice for all, irrespective of gender, ethnicity, generation, flexible work status, family circumstances, sexual orientation or disability and our inclusive culture promotes the development of our people nationwide.<br><br>To be legally entitled to work in New Zealand, you should be a New Zealand citizen / resident or Australian citizen / permanent resident; or alternatively you must hold a valid work visa for New Zealand. Please check the New Zealand Immigration website for the most up to date information.<br><br>We are a 2021 Circle Back Initiative Employer \u2013 we commit to respond to every applicant.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:01:05.000Z"
+  },
+  "company": {
+    "name": "KPMG New Zealand",
+    "link": "https://nz.linkedin.com/company/kpmg-new-zealand"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wellington",
+    "region": "FL",
+    "postal_code": "33470",
+    "street_address": null,
+    "latitude": 26.661062,
+    "longitude": -80.25384
+  }
+}

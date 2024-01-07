@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Machine Learning, Simulation, Optimization, Statistical Modeling",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T23:19:24.000Z"
+  },
+  "company": {
+    "name": "FedEx",
+    "link": "https://www.linkedin.com/company/fedex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Memphis",
+    "region": "TN",
+    "postal_code": "38111",
+    "street_address": null,
+    "latitude": 35.14338,
+    "longitude": -90.05214
+  }
+}

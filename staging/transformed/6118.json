@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AWS DevOps/Site Reliability Engineer",
+    "industry": "Computer Hardware",
+    "description": "<p><strong>Power the Possibilities<br></strong>The CDK Global technology team is looking for collaborative innovators who are passionate about making their mark on emerging enterprise software products. We\u2019re building and developing cloud technology for the automotive retail industry<br>that will change the landscape for automotive dealers, original equipment manufacturers (OEMs) and the customers they serve.<br><br><strong>Be Part of Something Bigger<br></strong>Each year, more than three percent of the U.S. gross domestic product (GDP) is attributed to the auto industry, which flows through our customer, the auto dealer. It\u2019s time you joined an evolving marketplace where research and development<br>investment is measured in the tens of billions. It\u2019s time you were a part of something bigger.<br><br>We\u2019re expanding our workforce \u2013 engineers, architects, developers and more \u2013 onboarding early adopters who can optimize, pivot and keep pace with ever-evolving development roadmaps and applications.<br><br><strong>Join Our Team<br></strong>Growth potential, flexibility and material impact on the success and quality of a next-gen, enterprise software product make CDK an excellent choice for those who thrive in challenging, fast-paced engineering environments.<br>The possibilities for impact are endless. We have exceptional opportunities to evolve our industry by driving change through new technology.<br><br></p><p><br>If you\u2019re ready for high-impact, you\u2019re ready for CDK.<br><br></p><p>Location:<br><br></p><ul><li>US - Hoffman Estates IL, Austin TX, San Jose CA, Portland OR</li></ul><p> <strong>Role:<br><br></strong></p><ul><li>Provide technical leadership role in defining public Cloud governance strategy, principals and implementation</li><li>Implement solutions that support financial, security and technology governance.    Assist CDK product teams with their implementation.   </li><li>Assist application teams with automating their production support run-books (automate everywhere)</li><li>Assist application teams when they have issues using AWS services are not are fully up to speed in their use. Hands on development of automation solutions to support application teams.</li><li>Define and maintain AWS technical and governance standards (ex. security, cost management, deployment automation, etc.).</li><li>Define and manage AWS Financial Controls.  Identify cost optimization opportunities and assist application teams with specific recommendations to drive cost savings.</li><li>Work with application teams to assess applications hosted on AWS with respect to identifying gaps in use of CDK AWS standards and assist teams to address identified gaps.</li><li>Define and implement AWS Security Controls to ensure compliance with CDK Security standards</li><li>Optimizing and tuning designs based on performance and root cause analysis</li></ul><p><strong>Essential Duties &amp; Responsibilities:<br><br></strong></p><ul><li>This is a hands-on role where the candidate is expected to take on technical tasks where in depth knowledge on usage and architectural best practices of AWS/public cloud technologies is important:</li><li>AWS Skills and Experience</li><ul><li>Governance:  Experience with Cost Explorer, Organizations, Anomaly Detection, CloudWatch, CloudTrail, AWS Config, Personal Health Dashboard, AWS CLI, Trusted Advisor</li><li>Compute:  Experience with EC2, Lambda, Auto-scale, EKS</li><li>Database:  Experience with RDS, Aurora, Elasticache, Dynamo, Mongo</li><li>Networking:  Familiarity with Load Balancing (ALB/ELB), gateways, routing, VPC and Availability Zone architectures, firewalls</li><li>Storage:  Familiarity with EBS, S3</li><li>Security:  Experience with AWS Identity and Access Management, SCP, Guard Duty, AWS Detective, Key Management Service, Secrets Manager, AWS WAF</li></ul><li>Scripting and development; preferred Python &amp; Java languages</li><li>Broad understanding/experience across full stack infrastructure technologies</li><li>Site Reliablity Engineering practices</li><li>Github/Artifactory/Bamboo/Terraform</li><li>Database solutions (SQL/NoSQL)</li><li>Containerization Solutions (Docker, Kubernetes)</li><li>DevOps processes and tooling</li><li>Message queuing, data streaming and caching solutions</li><li>Micro-service architecture</li><li>Networking principles and concepts</li><li>In depth knowledge of server based operating systems (Windows/Linux) and Web Services (IIS, Apache)</li><li>Experience of designing, optimizing and troubleshooting public cloud platforms associated with large, complex application stacks</li><li>Have clear and concise communication and be comfortable working with at all levels in the organization</li><li>Capable of managing and prioritize multiple projects with competing resource requirements and timelines</li></ul><p><strong>Years of Experience:<br><br></strong></p><ul><li>10 yrs+ working in an IT Infrastructure related role along with associated design experience.</li><li>5 yrs+ working in the AWS public cloud environment</li><li>2+ years working specifically on the AWS Platform implementing governance solutions</li><li>AWS Solution Architect Professional certification preferred</li><li>Experience with Infrastructure as code (CloudFormation, Terraform)</li></ul><p>CDK Global knows you have passions outside of work.  You have family, friends, sporting events, and lots of things going on.   That\u2019s why we offer a comprehensive benefits package to not only take care of you but your family as well.   All of our benefits are effective the first day of employment including 401K matching, paid time off to re-energize, donate your time to volunteer in your community, and tuition reimbursement to name a few.<br><br></p><p>At CDK, we pride ourselves on having a diverse workforce. We value and celebrate the uniqueness of individuals and the different perspectives they provide. We offer equal opportunity employment regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, or protected veteran status.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T01:22:54.000Z"
+  },
+  "company": {
+    "name": "CDK Global",
+    "link": "https://www.linkedin.com/company/cdknorthamerica"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

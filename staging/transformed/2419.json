@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site reliability engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Vy Systems, is seeking the following. Apply via Dice today!<br><br>An experienced (at least 15 years) SRE Lead to work on a critical project for one of our biggest clients in the banking domain. The Individual should be passionate about technology, experienced in developing and managing cutting edge technology applications. Technical Skills Conduct assessments, model reliability for transaction flows Design Architecture for high availability reliability Troubleshooting availability issues Skills Technical Architecture, Performance Engineering Reliability Engineering SME 15+ years overall experience LateralPeer leadership skills Experience in production management, performance engineering Experience with implementing monitoring using AppDynamics DataDog Prometheus",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-02T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

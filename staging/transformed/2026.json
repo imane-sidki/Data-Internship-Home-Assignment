@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, 3D Applications (AR/VR)",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Are you ready to explore a new application domain with a talented and collaborative team? Apple's Technology Development Group is seeking skilled 3D application developers to help us build graphically intense and highly interactive applications. This team is working with some of Apple's most advanced technologies including the augmented reality (AR) and virtual reality (VR) support offered in ARKit and Metal 2. As a member of our creative organization, you will have a uniquely rewarding opportunity to craft future products that will delight and inspire millions of people every day.<br><br> <br><strong>Key Qualifications<br></strong> <br>Proficient in one or more of the following languages: C/C++, Objective-C, Swift <br><br>Fundamental knowledge of software engineering technologies, methodologies, and practices <br><br>Familiarity with 3D math, linear algebra, 3D geometry, graphics, and rendering<br><br> <br><strong>Description<br></strong> <br>The ideal engineer for this role is comfortable working in a dynamic and creative team charged with exploring an uncharted and rapidly evolving domain. You will be researching and developing an entirely new application paradigm - a challenge that will demand rapid experimentation and prototyping without sacrificing code quality or attention to detail. You'll need a keen understanding of the state of the art in interactive 3D applications and an ambition to discover what the future holds in this space. We are building a passionate and diverse team that will span a broad range of application categories including productivity, communication, and entertainment.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS in Computer Science OR equivalent experience<br><br> <br><strong>Additional Requirements<br></strong> <br>Interest or proficiency in UI/UX design<br><br>Proficiency in macOS, iOS, tvOS or watchOS development Experience with low-level graphics APIs (Metal, OpenGL, DirectX) <br><br>Experience developing AR/VR applications<br><br>Familiarity with ARKit<br><br>Experience using iOS frameworks like UIKit, AVFoundation, Core Motion, Core ML, CloudKit, SiriKit, StoreKit, etc.<br><br>Experience with Unix development, daemons, cross-process communication, etc<br><br> <br>Role Number: 200257219<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:40:56.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

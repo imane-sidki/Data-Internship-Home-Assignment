@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "FedNow Senior Software Engineer",
+    "industry": "Banking,Capital Markets,Financial Services",
+    "description": "<strong><u>Company<br></u></strong>Federal Reserve Bank of BostonThe Federal Reserve is developing a new interbank 24x7x365 real-time gross settlement (RTGS) service with integrated clearing functionality, called the FedNow service. This service will help enable financial institutions provide their customers with the ability to send and receive payments any time, any day, and have full access to those funds within seconds. This position is a unique opportunity to be part of a new mission-critical Federal Reserve initiative that will be transformative to the payments landscape in the United States.<br><br><strong>Position Contributions-<br><br></strong>Top level technical expert in one or more highly specialized areas of applications systems analysis and programming. Responsible for software design, coding, testing, debugging, and documentation. Has full technical knowledge of all phases of applications systems analysis and development. Provides technical leadership on complex projects. Interacts with internal project teams and work groups regularly. level of work required is considered advanced and staff must be able to work under minimal supervision. This job does not have any direct reports. You have an appetite to learn, and a passion for technology, innovation, and developing new skills on evolving technologies.<br><br><strong><u>What Will Be Expected Of You-<br><br></u></strong><ul><li>Serves as a Senior Software Engineer: to design, develop and implement new complex solutions in accordance with FedNow and Fed Standards</li><li>Develops software solutions (front end SPA and backend) in Cloud</li><li>Develop end to end Infrastructure-as-Code solutions in Cloud</li><li>Provides input into strategic and tactical planning of software solutions and software development lifecycle changes</li><li>In addition to being able to engineer across numerous areas of technology, you\u2019ll serve as subject matter expert in one or more areas</li><li>Trains and consults cross functionally within the organization on troubleshooting/resolving highly complex and/or highly time critical problems</li><li>Collaborates with analysts as part of an integrated Agile team to define user requirements and conduct design review for the development of complex and innovative cloud applications using modern internet-scale technologies and Serverless architecture in Cloud</li><li>Demonstrates skill dexterity; seeking to continuously adapt and employ new technical skills alongside proven staples</li><li>Ensures that the quality of software developed, maintained and enhanced in-house and installed into production is sufficient to prevent the occurrence of catastrophic defects that cause the customer significant problems, missed deadlines, or interruption to the production environment</li><li>Ensure compliance with Fed policies, procedures and standards</li><li>Provides primary or backup production support for applications and components, including but not limited to timely resolution to production problems and processing issues<br><br></li></ul><strong>Expertise you will bring-<br></strong><ul><li>8+ years of Java Development</li><li>3+ years working with AWS cloud-based platforms in an enterprise environment.</li><li>Demonstrated experience engineering software with cloud-first architectures</li><li>5+ years software engineering experience in a team-based environment</li><li>Experience with building and deploying solutions in Cloud</li><li>Experience with Serverless architecture for building software solutions in Cloud</li><li>Experience with CI/CD build tools, and DevOps processes</li><li>Experience developing high performance, high volume, highly available</li><li>(24/7/365) environments</li><li>Experience with Agile software engineering (Scrum, Kanban, Lean etc)</li><li>Bachelor's degree in Computer Science, Information Systems, <br><br></li></ul><strong><u>Logistics&amp; Requirements-<br><br></u></strong><ul><li>Deep expertise in Java and proficient knowledge of programming languages (JavaScript, XML, JSON, HTML, CSS etc. Python a bonus)</li><li>Proficient knowledge of operating systems (Linux, Unix, Windows)</li><li>Proficient knowledge of database development (SQL, Oracle, DB2)</li><li>Ideally, you\u2019ll have experience with AWS services, and integrating them into an application</li><li>Ideally you\u2019ll have experience with leading edge Cloud technologies, such as Kafka, in-memory and NoSQL databases, messaging platforms, memcache etc).</li><li>Demonstrates independent thinking and decision-making abilities</li><li>Demonstrates excellent written and oral communication abilities</li><li>Proficient knowledge of cloud security for application development and delivery</li><li>Advanced knowledge of object-oriented programming</li><li>Ideally, Infrastructure as Code (IAC); Terraform<br><br></li></ul><strong>Nice to Have- <br></strong><ul><li>Experience with API Development and consumption and microservices architecture</li><li>Experience with agile development methodology</li><li>AWS Certifications</li><li>Knowledge of technology project and secure coding standards</li><li>Strong interpersonal, teamwork and negotiation skills</li><li>Strong customer service skills</li><li>Strong problem solving and critical thinking skills</li><li>Familiarity with usability techniques and best practices</li><li>Infrastructure as Code (IAC); Terraform</li></ul><strong><u>Full Time / Part Time<br></u></strong>Full time<strong><u>Regular / Temporary<br></u></strong>Regular<strong><u>Job Exempt (Yes / No)<br></u></strong>Yes<strong><u>Job Category<br></u></strong><strong><u>Work Shift<br></u></strong>First (United States of America)<br><br><em>The Federal Reserve Banks believe that diversity and inclusion among our employees is critical to our success as an organization, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool. The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.<br><br></em>Privacy Notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:45:16.000Z"
+  },
+  "company": {
+    "name": "Federal Reserve Bank of Boston",
+    "link": "https://www.linkedin.com/company/federal-reserve-bank-of-boston"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80100,
+    "max_value": 131000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

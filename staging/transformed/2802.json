@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Enterprise",
+    "industry": "Computer Software",
+    "description": "<p><strong>ABOUT JOTFORM</strong></p><p></p><p>JotForm is a San Francisco-based SaaS company with more than 9 million users worldwide. We are thriving and growing, and we\u2019ve never needed outside funding. That\u2019s because we like keeping things agile, independent, and fun. JotForm believes everyone should be able to create their own online forms. Our 10,000+ ready-made form templates, 100+ integrations, and more than 380 widgets have made us one of the most popular online form builders for organizations of all sizes \u2014 from small businesses to enterprises.</p><p></p><p>Since our inception in 2006, our mission has been to help users create, manage, and share online forms and receive responses in the easiest way possible.</p><p></p><p>Released in 2018, JotForm Enterprise helps organizations with multiple JotForm users to automate workflows and business processes as well as collect internal and/or external data in a structured manner.</p><p><br></p><p>As a rapidly growing company, JotForm is seeking a Site Reliability Engineer (SRE) \u2014 Enterprise located in the western U.S. This is a <strong>full-time, fully remote opportunity in the Pacific time zone,</strong> though an <strong>exception</strong> can be made for a<strong> great fit located elsewhere in the U.S. who is willing and able to work during Pacific time zone business hours.</strong></p><p><br></p><p><strong>Role Summary</strong></p><p><br></p><p>We\u2019re looking for an experienced SRE who possesses a strong understanding of how to leverage SRE best practices.As a critical member of our Engineering team, the ideal candidate will combine engineering experience and an innate drive to improve existing systems and processes with the creativity to develop novel solutions to evolving challenges. You\u2019ll be responsible for availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning.</p><p><br></p><p><strong>Here\u2019s what you will be doing</strong></p><p><br></p><ul><li>Collaborate with software developers to design solutions for hosting and maintaining custom business applications in Google Cloud and AWS.</li><li>When CI/CD deployment pipelines fail or monitoring systems indicate performance degradation, troubleshoot these issues, working closely with product owners until the problem is resolved.</li><li>Contribute to ongoing efforts to develop standardized and compliant infrastructure services.</li><li>Participate in a morning stand-up or team meeting to report your accomplishments, plans for the day, and any roadblocks you encountered. Your team will do the same, giving you an opportunity to understand and contribute to other ongoing initiatives.</li><li>Research and present new ideas to your colleagues and leadership to further our digital transformation and contribute to continuously improving our enterprise hosting services.</li></ul><p><br></p><p><strong>Education/Work Experience/Technical Requirements</strong></p><p><br></p><ul><li>Expert knowledge of Linux/Unix variants, especially Ubuntu and its derivatives, including best practices for deploying applications</li><li>Experience with Google Cloud services (examples include commonly used services such as Compute Engine, Cloud LB, and Cloud SQL)</li><li>Experience with infrastructure as code and automation/configuration management using Puppet</li><li>The ability to use a wide variety of technologies, including hosting services, continuous deployment and continuous integration services, code repositories, and security vulnerability identification tools to support our cloud infrastructure (examples include GCE, PHP, MySQL, Nginx, Gearmand, Docker, GitHub Actions, and Jenkins)</li><li>Good understanding of programming languages like PHP, Python, and/or Go</li><li>Experience analyzing solutions components, understanding systems integration challenges, and identifying technology gaps in current components that must be resolved to reach future performance targets and functionality requirements in cloud infrastructure</li><li>Advanced automated script design, coding, debugging, and maintenance skills (using Bash, Python, etc.)</li><li>Experience with HIPAA/PCI compliance</li></ul><p><br></p><p><strong>Personal Characteristics/Skills</strong></p><p><br></p><ul><li>Patience and tolerance when things go wrong</li><li>The skill and discipline to work remotely with a distributed team</li><li>Excellent communication skills (written, verbal, and virtual)</li><li>Self-motivated, logical, and detail oriented</li><li>Passionate about new technologies, software, and processes</li><li>The ability to multitask in a fast-paced environment with multiple deadlines is essential</li></ul><p></p><p><strong>JotForm Perks</strong></p><p><br></p><ul><li>Full-time role with competitive base salary in a fast-growing company</li><li>Flexible remote work from anywhere in US</li><li>Fully paid medical, dental, vision, and life insurance</li><li>401(k) with company match</li><li>Additional company benefits include 10 vacation days per year, holidays, and office closure during the holiday season</li></ul><p><br></p><p>JotForm is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T16:51:42.000Z"
+  },
+  "company": {
+    "name": "JotForm",
+    "link": "https://www.linkedin.com/company/jotform"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

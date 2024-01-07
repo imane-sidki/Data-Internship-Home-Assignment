@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<strong>Software Engineer<br><br>Partner Software - Athens, GA<br><br></strong>Partner Software is seeking a Mid-Level Full Stack Developer/Engineer for the Map Platform team. We are looking for a motivated developer who wants to own the design and development of an application used to process, analyze, and display geographic data.<br><br>If you have a desire to take lead on a project and build simple yet powerful programs, you will be a great fit. You will also enjoy the benefits of working in a small and fast paced business that is backed with the necessary resources to enhance your career and have your efforts play a key role in the success of the company.<br><br><strong><u>What We Are Looking For<br></u></strong><ul><li>2+ years experience in Java development</li><li>Excellent analytical and problem solving skills</li><li>Strong communication skills and the ability to work closely with others</li><li>Demonstrated ability to work on small, focused teams<br></li></ul><strong><u>What Will Help You Stand Out<br></u></strong><ul><li>Experience with GIS </li><li>Experience with code versioning tools and process</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T15:30:51.000Z"
+  },
+  "company": {
+    "name": "Partner Software",
+    "link": "https://www.linkedin.com/company/partner-software"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Athens",
+    "region": "GA",
+    "postal_code": "30605",
+    "street_address": null,
+    "latitude": 33.957413,
+    "longitude": -83.3768
+  }
+}

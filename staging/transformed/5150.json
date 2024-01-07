@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services,Health, Wellness and Fitness,Hospital & Health Care",
+    "description": "<strong><u>Description<br><br></u></strong>Performs advanced data design and analysis using the Electronic Medical Record (EMR) to create new knowledge useful to KP and outside organizations. Extracts and cleans large volumes of healthcare data across dozens of sources. Applies expert statistical methodologies to clinical outcomes. Partners effectively with physicians, other clinicians, software engineers and business managers to communicate findings using data visualization techniques.<br><br><strong><u>Essential Responsibilities<br></u></strong><ul><li>Works with physicians, epidemiologists, statisticians, business managers, and software engineers, to formulate and scope questions and translate knowledge into care transformation</li><li>Develops algorithms and predictive models to solve critical health service problems</li><li>Influences a general audience to understand the quality, completeness, and appropriate use of data</li><li>Provides advice about choice of statistical approaches, perform statistical analysis</li><li>Develops tools and libraries to create efficiencies for future work</li><li>Develops systematic approaches to assure data validity.</li><li>Identifies new sources of data within the electronic medical record that will improve information about target diseases and clinical processes.</li><li>Establishes links across existing data sources; process large volumes of data needed for complex research/operational studies</li><li>Trains Data Consultants and other data workers.</li><li>Kaiser Permanente conducts compensation reviews of positions on a routine basis. At any time, Kaiser Permanente reserves the right to reevaluate and change job descriptions, or to change such positions from salaried to hourly pay status. Such changes are generally implemented only after notice is given to affected employees.<br></li></ul><strong><u>Secondary Functions<br></u></strong><ul><li>Position is for one year. Continuation is contingent upon contract/grant funding<br></li></ul><strong><u>Experience<br><br></u></strong><strong>Basic Qualifications:<br></strong><ul><li>Minimum eight (8) years of experience with multivariate data analysis commonly used in epidemiology (e.g. logistic regression, linear regression, cluster analysis, Cox proportional hazard analysis, GEE, and hierarchical models).</li><li>Minimum eight (8) years of experience writing and executing complex queries to extract/process data (e.g. SQL), including linking tables and variables from very large datasets.</li><li>Minimum eight (8) years of programming experience to build and validate machine language and statistical algorithms and to perform statistical analysis (e.g. R, Python, SAS)<br></li></ul><u>Education<br></u><ul><li>Master's degree required in a quantitative health field (epidemiology, math/statistics, bioinformatics) or computer science.<br></li></ul><u>License, Certification, Registration<br></u><ul><li>N/A<br></li></ul><strong><u>Additional Requirements<br></u></strong><ul><li>Demonstrated understanding of data systems and architecture.</li><li>Experience using data science, AI, and machine-learning platforms to build and deploy supervised and unsupervised models.</li><li>Demonstrated ability to create and execute solutions to complex data science problems.</li><li>Demonstrated ability to lead project efforts, communicate effectively with team members, and guide decision making.</li><li>Advanced knowledge of data visualization tool principles, theories, and concepts.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Experience working with electronic medical record, to conduct health research and analytics.</li><li>Experience using novel open source software for analytic and non-analytic processing.</li><li>Experience with health record standards, including HL7 and other interchange and coding standards highly desirable.</li><li>Advanced training in biostatistics and/or statistics (degree or continuing education).</li><li>Demonstrated scholarly activities to advance the field (e.g., teaching, presentations at conferences, lead or co-authorship of scientific manuscripts).</li><li>Demonstrated understanding of clinical workflows.</li><li>Demonstrated proficiency with Natural Language Processing.</li><li>Well versed in open source libraries and methodologies for creating data workflows composed of most appropriate technologies, including command line tools, containerized tools, microservices, etc.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Kaiser Permanente",
+    "link": "https://www.linkedin.com/company/kaiser-permanente"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91500,
+    "max_value": 134000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

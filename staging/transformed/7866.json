@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<ul><li>5+ years of Experience in managing highly-scalable and distributed systems.</li><li>Knowledge of Web Services, HTTP/HTTPS Protocols.</li><li>Knowledge of Data Security, SSL, Certificates, etc.</li><li>Strong problem solving, and troubleshooting skills</li><li>Experience in performance tuning of the applications including JVM tuning, memory profiling.</li><li>Provide OnCall support to 1st level production support teams.</li><li>Fast learner who is generous with their knowledge</li><li>Self-directed, demonstrates leadership potential, and a great teammate.</li><li>Experience with container orchestration systems like Kubernetes, and Continuous Delivery platforms like Spinnaker</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-04T21:53:03.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

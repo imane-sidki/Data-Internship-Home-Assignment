@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Software",
+    "description": "<strong>Job Title:</strong> Senior Software Engineer<br><br><strong>Location:</strong> Philadelphia, PA or New York, NY<br><br><strong><u>Required Technology And Skills<br></u></strong><ul><li>5 years of software development experience with focus on web-based applications and full-stack development for both customer facing UI and backend services</li><li>Experience developing software in LAMP stack with PHP preferable utilizing Symfony.</li><li>Experience developing with a UI framework, Ember.js preferred or React and Anuglar </li><li>Experience with Linux configuration</li><li>Some experience with different PHP runtimes </li><li>Hands on experience with relational databases \u2013 MySQL preferred. Prefer database design and query development</li><li>Experience maintaining and improving distributed systems<br></li></ul><strong><u>Nice To Have Skills<br></u></strong><ul><li>Experience developing a REST API.</li><li>Knowledge of Docker and containers.</li><li>Experience working with AWS services </li><li>Experience with CI/CD preferred Jenkins<br></li></ul><strong><u>Salary And Compensation<br></u></strong><ul><li>$120,000-$140,000</li><li>Bonus<br></li></ul><strong><u>Benefits And Perks<br></u></strong><ul><li>Ability to work remote</li><li>401K match<br></li></ul><strong><u>Client<br></u></strong><ul><li>Our client is a Fortune 500 firm that specialize in software solutions for the edtech and health tech space<br></li></ul>Please email jpillion@talener.com for more information or to apply.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:41:54.000Z"
+  },
+  "company": {
+    "name": "Talener",
+    "link": "https://www.linkedin.com/company/talener"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

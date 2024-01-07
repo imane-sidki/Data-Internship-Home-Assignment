@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Games,Computer Software",
+    "description": "<p>Electronic Arts Inc. is a global interactive entertainment software company. EA delivers games, content and online services for Internet-connected consoles, personal computers, mobile phones and tablets.</p><p><br></p><p>Our Worldwide Customer Experience (WWCE) team exists to help the world play. We support players across the globe in 13+ languages and value employees that will bring new ideas to help make WWCE a great place to be and be from. We celebrate diversity and inclusion and aim to create great experiences for our employees as often as our players.</p><p><br></p><p>And we want you to join us. We're hiring a Software Engineer (Sr. Prototyper). You will be part of the Innovation Labs within the EA's Customer Experience organization. The Customer Experience organization strives to make EA known for taking care of its players.</p><p><br></p><p>You will explore new technologies and develop proof-of-concept demonstrations. You have a firm grasp of programming concepts and are comfortable with multiple programming languages (and learning new ones). You will report to the Sr. Manager, WWCE Innovation Labs within Customer Experience organization's Insights team.</p><p><br></p><p><u>You Will Spend Most Of Your Time</u></p><ul><li>Work with Innovation Labs providing technical expertise/direction for experiment design</li><li>Research new technology areas that can improve the EA Customer experience</li><li>Develop technical proof of concepts to test new services, frameworks and programming languages</li><li>Experiment with different combinations of our existing technology to prove or disprove hypotheses</li><li>Wire-framing UI/UX for new POCs</li><li>Create technical architecture designs for new POCs/Systems</li><li>Help manage the Innovation Labs Tech stack (internal VMs, External cloud providers)</li><li>Participate in brainstorming sessions about research and experiments</li><li>Document and write up research notes on POC findings</li><li><br></li></ul><p><u>If You're Interested You'll Need These Skills Or Experiences</u></p><ul><li>BA/BS in Computer Science or similar field</li><li>2+ years of programming experience (Experience with HTML5, CSS/SASS, JavaScript, JS Frameworks (React/Vue), NodeJS, Python, SQL, and Java )</li><li>Interest in understanding and designing UX/UI</li><li>Experience with open source software (MySQL, Linux, and so on.)</li><li>Experience with unit/integration testing frameworks</li><li>Familiarity with virtualization technologies (EC2, VMware)</li><li>Awareness of container technologies (Docker, Kubernetes)</li><li>Working knowledge of git (GitHub/Gitlab, CI/CD setups and so on.)</li><li>Talent for taking abstract and theoretical ideas and converting them into clear requirements</li><li>Familiar with new technologies (AI/Chatbots, Machine Learning, Toxicity moderation, Image detection, Text Analytics)</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T13:47:10.000Z"
+  },
+  "company": {
+    "name": "Electronic Arts (EA)",
+    "link": "https://www.linkedin.com/company/electronic-arts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62500,
+    "max_value": 83200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

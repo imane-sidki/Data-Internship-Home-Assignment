@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple\u2019s ETS Platform Services group is looking for an outstanding Software Engineer who will ensure the availability, performance, maintenance of a highly available, high-demand most meaningful enterprise platforms.<br><br><br>Application relate to Infrastructure Platform (DevOps, Nginx), Integration Platforms (Messaging, data services, SOA), Communication Platforms (Business, Transactional Mail including phishing detection component) and Business Platforms (Delivery Quote, Centralize Inventory system). <br><br><br>The position requires shown analytical understanding of distributed computing, consistency and availability concerns in geographically distributed data and performance tuning in such scenarios.<br><br> <br><strong>Key Qualifications<br></strong> <br>Experience in engineering highly-scalable and distributed systems.<br><br>Knowledge of Web Services, HTTP/HTTPS/WebDav Protocols.<br><br>Knowledge of Data Security, SSL, Certificates, etc.<br><br>Unix Performance Monitoring &amp; Tuning<br><br>Strong problem solving, and troubleshooting skills<br><br>Strong programming expertise in Java/J2EE background with deeper knowledge on Spring frameworks such as spring-security, spring-mvc, spring-data, JPA &amp; hibernate.<br><br>Validated understanding of C/C++ is a plus<br><br>Experience in performance tuning of the applications including JVM tuning, memory profiling.<br><br>Strong knowledge on securing applications, detailed understanding of OWASP top 10 risks and solutions.<br><br>Experience in developing high efficiency, high performance systems and global applications.<br><br>Good understanding of Database concepts, PL/SQL and NoSql Technologies.<br><br>Good fundamentals on Release Management &amp; continuous Integration<br><br>Experience with Splunk and BigData solution <br><br>Teammate; able to work/coordinate with multiple teams<br><br>2+ years\u2019 experience leading software engineer teams<br><br>5+ years of IT experience<br><br> <br><strong>Description<br></strong> <br>Reviewing hardware, software infrastructure and application functionality for identifying and optimizing performance bottlenecks. <br><br>Developing and maintaining application services and driving incident management. <br><br>Working closely with Multi-functional IT organization, Business group, Apple's production support team, application engineers, systems engineers, database administrators and QA team to successfully ensure implementation and reliability of Platforms/Applications.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in Computer Science, Software Engineering or equivalent is required.<br><br> <br>Role Number: 200250392<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T15:43:15.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

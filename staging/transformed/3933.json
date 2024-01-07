@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Java Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Title </strong>- Senior Java Software Engineer</p><p><strong>Type </strong>- Fulltime</p><p><strong>Location </strong>- <strong>San Jose, California, United States</strong></p><p></p><p><strong>Requirements:</strong></p><ul><li><strong>Four or more years of programming experience in Java, Scala and or/ Python.</strong></li><li><strong>Two or more years of experience in AWS or other Cloud platforms like Azure/GCP</strong></li><li>Two or more years of experience in Kafka or other messaging technologies such as Google Pub/Sub, RabbitMQ</li><li>Three or more years of experience in one or more databases: noSQL databases like MongoDB, Cassandra or relational databases like DynamoDB/Aurora</li><li>Experience with development frameworks, monitoring tools, command-line applications (Spring Boot, git, ssh, grafana/prometheus/datadog) and other aspects of developing in large, distributed software teams</li><li>Experience in one or more unit and e2e testing frameworks like JUnit, JMeter, Locust, BlazeMeter Exposure to Big Data pipelines and technologies.</li></ul><p><br></p><p>Responsibilities:</p><ul><li>Work across technology boundaries (networking, compute, security, storage, analytics) to develop cloud native microservices to meet the strategic needs of the company</li><li>Develop a scalable system using Cloud development paradigms and constructs of distributed deployment</li><li>Ability to create quality code with good development and test practices that produce least amount of issues in the field</li><li>Work closely with Product Management and the CTO group to define the product architecture and leads its development</li><li>Assist with pre-sales customer discussions to understand the Enterprise deployment models and their requirements.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:28:24.000Z"
+  },
+  "company": {
+    "name": "Avesta Computer Services",
+    "link": "https://www.linkedin.com/company/avesta-computer-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

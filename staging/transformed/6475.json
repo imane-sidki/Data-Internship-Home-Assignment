@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "QA Software Engineer/SDET (Rochester)",
+    "industry": "Construction,Information Technology and Services,Computer Software",
+    "description": "Dematic is an intralogistics innovator that designs, builds and supports intelligent, automated solutions for manufacturing, warehouse and distribution environments for customers that are powering the future of commerce. With engineering centers, manufacturing facilities and service centers located in more than 25 countries, the Dematic global network of 10,000 employees has helped achieve more than 6,000 worldwide customer installations for some of the world\u2019s leading brands. Headquartered in Atlanta, Dematic is a member of KION Group, one of the global leaders in industrial trucks and supply chain solutions, and a leading provider of warehouse automation.<br><br><strong> The Role <br><br></strong><strong><u>Capabilities<br></u></strong><ul><li> Demonstrate an understanding of industry-standard software Quality Assurance methodologies, tools and processes</li><li> Possess knowledge of Warehouse Controls, Warehouse Management, or Warehouse Execution Software and operational processes</li><li> Experience with Object Oriented Programming languages (C# or Java) and SOLID design principles </li><li> Experience with Git or other distributed version control systems </li><li> Exposure to Continuous Integration / Continuous Deployment practices </li><li> Experience on working with various Operating Systems </li><li> Familiar with Agile methodology. </li><li> Setting up production-like environment in local environment and also be able to deploy artifacts </li><li> Design and develop test suites with Java, Selenium, TestNG framwork </li><li> Experience in testing web services such as REST and SOAP. </li><li> Familiarity with build tools such as Ant, Maven </li><li> Experience in using test management tools like Testrail </li><li> Experience in any bug tracking or issue tracking tool like JIRA </li><li> Understand database structure and how to retrieve information using MYSQL or SQLServer</li><li> Understand Customer business requirements to foresee potential issues, provide input on functional requirements and advise on design</li><li> Define and execute test scripts, evaluate results against predicted outcomes</li><li> Have the ability to effectively communicate risks for mitigation and defects for swift resolution</li><li> Participate in, and eventually lead onsite testing of software with related distribution center functional groups and mechatronics</li><li> Participate in, and lead Customer end-user training as related to the standard operating of the software tested</li><li> Support Dematic\u2019s Customer Service center with trouble-shooting root cause to expedite resolution</li><li> Be willing to take ownership of testing excellence for optimal project execution<br></li></ul>tion<br><br><strong><u>Experience And Education<br><br></u></strong><strong> What We Are Looking For <br><br></strong>The ideal SDET will have the following education, certifications and experience:<br><ul><li> Masters Degree or similar degree</li><li> Software Quality Assurance Certifications - Preferred</li><li> 3 \u2013 5 years QA testing experience - Preferred</li><li> 2 \u2013 5 years distribution center, material handling, or software industry experience - Preferred</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:36:26.000Z"
+  },
+  "company": {
+    "name": "Dematic",
+    "link": "https://www.linkedin.com/company/dematic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rochester",
+    "region": "NY",
+    "postal_code": "14612",
+    "street_address": null,
+    "latitude": 43.15571,
+    "longitude": -77.61255
+  }
+}

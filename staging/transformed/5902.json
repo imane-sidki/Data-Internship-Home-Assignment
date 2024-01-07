@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer in Testing (White Box Testing | SDET )",
+    "industry": "Electrical/Electronic Manufacturing,Nanotechnology,Semiconductors",
+    "description": "<p><strong><u>Company Overview</u></strong></p><p>KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and in 2019 we invested 15% of sales back into R&amp;D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world\u2019s leading technology providers to accelerate the delivery of tomorrow\u2019s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.</p><p><br></p><p>KLA is ramping up its new state-of-the-art research &amp; development center in Ann Arbor, Michigan, and we're hiring the best talent to join our phenomenal team. If you are inspired to solve complex challenges, help create major technological breakthroughs, and join our mission of advancing humanity, please visit www.kla.com/michigan to learn more about KLA Corporation in Ann Arbor.</p><p>Surrounded by 18 acres of natural woodland, our new Ann Arbor campus plays a prominent role in the future growth of KLA. Ann Arbor is consistently ranked as one of the top five places to live in the U.S., offering excellent public schools, a vibrant dining and nightlife scene, ample outdoor activities, beautiful scenery, and a diverse and welcoming local community.</p><p>Our growing Ann Arbor team is developing product equipment, test centers, software, and AI algorithms that power the cutting-edge capabilities that KLA is recognized for. By joining the high-performing KLA team in Ann Arbor, you\u2019ll enjoy an incredible career with supportive colleagues in a spectacular place to live.</p><p><br></p><p><strong>Group/Division</strong></p><p>With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA\u2019s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers.The Film and Scatterometry Technology (FaST) Division provides industry leading metrology solutions for worldwide semiconductor IC manufacturers.The FaST Division portfolio of metrology products includes hardware and software solutions for optical film thickness, optical critical dimension (CD), composition, and resistivity measurement systems.These products are essential for the IC manufacturers as they provide critical metrology capabilities for the development and implementation of their advanced IC processes.The FaST division is committed to support our customers to achieve performance entitlement of our solution and we effectively partner with our customers from their early research and development phase to the high volume in-line manufacturing implementation specific for their process needs.The division consists of a global team located in US, Israel, China, and India.</p><p>This position is a senior level SQC position with a focus on developing tests for new software features. The position is within an algorithm and modeling software group for Optical Critical Dimension (OCD) metrology. OCD is used to measure key transistor dimensions during the semiconductor device fabrication processes.</p><p></p><p><strong>Minimum Qualifications</strong></p><p>At least 5 years hands-on experience with software development and testing processes</p><p>Experience with testing applications written on .NET and must be able to develop/update test scripts in Python, C#, VB, VBS, AutoIt, .bat/.cmd.</p><p>Experience in automation architecture and it's application to testing</p><p>Strong communication skills (written and verbal)</p><p>Ability to design, develop and execute effective acceptance, comprehensive, performance, usability tests</p><p>Ability to design effective tests without requirements specification</p><p>Ability to make clear and concise description of found issues illustrated by screenshots</p><p>Experience of working with Rational Team Concert defect tracking system</p><p>Dev-OP experience is a plus</p><p><br></p><p>Kindly send your resumes to <strong>Sivaram.bose@kla.com</strong></p><p><br></p><p>We offer a competitive, family friendly total rewards package. We design our programs to reflect our commitment to an inclusive environment, while ensuring we provide benefits that meet the diverse needs of our employees.</p><p></p><p>KLA is proud to be an Equal Opportunity Employer. We do not discriminate on the basis of race, religion, color, national origin, sex, gender identity, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other status protected by applicable law. We will ensure that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:43:54.000Z"
+  },
+  "company": {
+    "name": "KLA",
+    "link": "https://www.linkedin.com/company/klacorp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92200,
+    "max_value": 117000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Ann Arbor",
+    "region": "MI",
+    "postal_code": "48106",
+    "street_address": null,
+    "latitude": 42.281418,
+    "longitude": -83.748474
+  }
+}

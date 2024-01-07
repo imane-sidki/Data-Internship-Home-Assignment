@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong>Who are we?<br><br></strong>Sidewalk Labs is an urban innovation company that tackles cities' greatest challenges. We create products and solutions, invest in new companies, and help developers build more sustainable, innovative, and equitable places around the world. Our ambitious vision requires us to push ourselves beyond conventional thinking, and we work hard in pursuit of our mission. Our cross-disciplinary team consists of experts from real estate, urban planning, government, finance, technology, and engineering, among other backgrounds.<br><br>Our urban innovations include Delve (a generative design product that empowers real estate teams to design better, faster, with less risk), Mesa (an easy-install kit for commercial buildings that cuts energy costs, improves tenant comfort, and simplifies building operations), Pebble (a low-cost vehicle sensor to help manage parking and curb space), and Affordable Electrification (a new way to manage home energy use to meet a customer\u2019s monthly budget). We're also developing an offsite construction company that can deliver high-quality mass timber buildings for more sustainable living and working.<br><br>With the potential to radically improve quality of life in cities for all, our work is both exciting and complex. We are working to achieve something unprecedented \u2014 help us build it!<br><br><strong>What is the role?<br><br></strong>To significantly improve sustainability in cities, Sidewalk Labs is developing new technology that will drastically reduce greenhouse gas emissions compared to the status quo, enable smarter management of resources, and reduce the cost of future upgrades and maintenance.<br><br>We are looking for initiative-taking Machine Learning Software Engineers to join our development of Mesa, our affordable energy-saving offering for commercial real estate (more on the product here). Your first project will be building machine learning software that ingests large and diverse data sets from buildings, aids in reducing energy use, and enables intelligent management of buildings through sensors and connected infrastructure .<br><br>It\u2019s a bonus (but not a requirement) if you are familiar with building systems and IoT sensors, their data, and analysis of it (e.g., HVAC, occupancy, temperature, electric loads etc.).<br><br>What is required is a passion for sustainability to reduce the world\u2019s emissions, affordably.<br><br>We encourage engineers of all experience levels to apply, and will determine your level within Sidewalk Labs based on interview performance.<br><br>Note: We are currently working remotely, and we expect to eventually re-open our offices when it is safe to return, in 2021. After re-opening, candidates will be expected to come into the New York office.<br><br><strong><u>What You Will Achieve<br></u></strong><ul><li>Within your first few months, you should have:</li><ul><li>Built a deep understanding of the team's current initiatives and technology infrastructure (Python and Typescript running on the Google Cloud Platform), coding style and standards.</li><li>Familiarized yourself with our current ML pipeline.</li><li>Contributed code to the repository.</li></ul><li>From there your role will continue to develop and change over time. We are a small team working on an early stage product. Future projects may include:</li><ul><li>Work with building energy experts to develop, test, and evaluate new control algorithms to improve buildings' energy efficiency and surface operational insights.</li><li>Build tools and systems to scale deployment of models and pipelines.</li><li>Develop models and systems to detect problems or anomalies in buildings and surface them to users.<br></li></ul></ul><strong><u>What We Expect<br></u></strong><ul><li>Know your software engineering.</li><ul><li>Have a strong CS background in order to choose the right algorithms, systems approaches and patterns to solve problems, without reinventing the wheel.</li><li>Candidates need to be able to hit the ground running. Therefore, for this role we are looking for 2+ years of industry experience.</li><li>Experience with Python and frameworks such as Numpy and Pandas. , plus at least one systems programming language (Python, C++, Java, or Go).</li><li>Experience building and owning machine learning pipelines end-to-end. Bonus points for:</li><ul><li>Work on optimizing the built environment.</li><li>Experience with HVAC or IoT systems</li></ul></ul><li>Act as a technologist.</li><ul><li>Bias towards action and shipping. Once you\u2019ve sketched out an idea, you find the fastest path to a prototype to prove the concept.</li><li>Strong ability to write production code quickly.</li><li>You are obsessed with privacy and constantly ask how we can build privacy into product design.</li><li>Be comfortable with a range of languages and open source tools and frameworks, and make good decisions about which to use to solve a particular problem. You are excited to learn something new when the need arises. </li></ul><li>Solve problems, together.</li><ul><li>Come up with novel solutions, working well with technologists and non-technologists alike.</li><li>Ask hard questions and challenge assumptions to ensure that we\u2019re solving the right problems.</li><li>Have flexibility to work on the team\u2019s most pressing problems.</li></ul><li>Care. </li><ul><li>About cities, solving hard problems, and our team\u2019s success.</li><li>You are committed to creating more equitable and inclusive outcomes both in the workplace and in the work you do.<br></li></ul></ul>Are you a machine learning engineer interested in Sidewalk Labs, but are not sure this is the right role for you? No worries, please apply to our generalist position here. All applicants will be considered for any open position on our teams.<br><br>We are very excited to hear from you.<br><br>Sidewalk Labs is proud to be an equal opportunity employer. We actively seek applicants from underrepresented communities. Even if you are not 100% sure you are right for the role, please apply and we will be happy to consider your application. All employment is based on merit and business need, and we respond to each application we receive.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Sidewalk Labs",
+    "link": "https://www.linkedin.com/company/sidewalk-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "<p>Do you want to help drive the next architectural shift? Our new venture is going to have a significant impact as we are addressing the next big computing wave with an Industrial-strength low code platform for apps at the edge, focusing on autonomous machines and vehicle systems.</p><p><br></p><p>We are looking for a <strong>Software Engineer </strong>who can join us in creating a new language that extends the C++ language, using the LLVM toolset, with unique declarative capabilities. You will be an integral part of designing, building, and promoting this new declarative programming language, ensuring it is simple and accessible for our customers. We are looking for candidates who are passionate about creating a complete ecosystem, starting with the language and including modern developer aids like IntelliSense through to full source-level debugging for the language. Ideal candidates will be active relevant open-source communities and will be able to showcase their proficiency with their contributions.</p><p><br></p><p>Skills required for this role include:</p><p>\u2022\tStrong C++ skills</p><p>\u2022\tExperience with modifying LLVM toolset</p><p>\u2022\tPassion for languages and development tools</p><p><br></p><p><br></p><p>We are a Bellevue, WA startup and we\u2019re building our company from the ground up. Our founders (David Vaskevitch. Mehtap Ozkan and Hal Berenson) have a history of industry-changing successes in Enterprise software with many years of technical leadership experience at both Microsoft, Amazon, and other startups. Very soon, we\u2019ll be surrounded by self-directed computers operating as delivery drones, autonomous inspection robots, air taxis, smart grid controllers, and other IoT devices. This will require an enormous amount of new software. But writing it won\u2019t be easy. Programmers need new tools to help them reach the edge, wrangle complexity, and integrate the latest advances from machine learning and robotics. Gaia Platform provides that platform that will empower programmers and subject matter experts to rapidly deliver high-performance, maintainable applications at the edge and beyond the cloud.</p><p><br></p><p>This position might be open to remote work within the United States.  No visa assistance is available</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T16:41:21.000Z"
+  },
+  "company": {
+    "name": "Gaia Platform",
+    "link": "https://www.linkedin.com/company/gaia-platform"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

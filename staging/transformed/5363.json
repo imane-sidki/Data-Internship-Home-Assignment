@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Machine Learning Platform",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Software Engineer, Machine Learning Platform<br><br></strong><strong><u>About The Role<br><br></u></strong>Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.<br><br><strong><u>About The Team<br><br></u></strong>Uber is on the lookout for top-notch software engineers to join our Machine Learning Platform (Michelangelo) team. This role involves building and managing robust distributed systems, and solve infrastructure challenges to empower Uber\u2019s product engineering and data science teams with latest technologies in large scale Artificial Intelligence.<br><br><strong><u>For More Information On The Michelangelo Machine Learning Platform, See Our Select Blog Posts<br><br></u></strong>The Michelangelo team works on software and services that democratizes and empowers teams in Uber to use the technology. You will be part of a team of strong software and systems engineers, executing in a fast paced environment.<br><ul><li>Meet Michelangelo: Uber\u2019s Machine Learning Platform</li><li>Productionizing Distributed XGBoost to Train Deep Tree Models with Large Data Sets at Uber</li><li>Michelangelo PyML: Introducing Uber\u2019s Platform for Rapid Python ML Model Development</li><li>Continuous Integration and Deployment for Machine Learning Online Serving and Models</li><li>Meet Horovod: Uber\u2019s Open Source Distributed Deep Learning Framework for TensorFlow</li><li>Elastic Distributed Training with XGBoost on Ray<br></li></ul><strong><u>On This This Team You Will<br></u></strong><ul><li>Design and deliver software and tools as part of our state-of-the-art Machine Learning platform.</li><li>Systems architecture design, including management of upstream and downstream dependencies.</li><li>Provide technical leadership, influence and partner with fellow engineers to architect, design and build infrastructure that can stand the test of scale and availability, while reducing operational overhead.</li><li>Drive efficiencies in systems and processes through automation: capacity planning, configuration management, performance tuning, monitoring and root cause analysis.</li><li>Participate in periodic on-call rotations and be available for critical issues.</li><li>Collaborate with platform, product and security engineering teams, and enable successful use of infrastructure and foundational services.<br></li></ul><strong><u>Minimum Qualifications<br><br></u></strong>Bachelor\u2019s degree or equivalent in Computer Science, Engineering, Mathematics or related field <strong>OR</strong> 1-year full-time Software Engineering work experience, <strong>WHICH INCLUDES</strong> 1-year total technical software engineering experience in one or more of the following areas:<br><ul><li>Programming language (e.g. C, C++, Java, Python, or Go)<br></li></ul>Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education &amp; full-time work experience indicated.<br><br><strong><u>Preferred<br><br></u></strong><strong>Technical skills:<br></strong><ul><li>2+ years of professional experience with software engineering in production.</li><li>MS in Computer Science or a related technical field, or equivalent experience.</li><li>Understanding of Computer Science fundamentals.</li><li>Understanding of scalable and reliable architectural patterns and practices.</li><li>Experience with and good working knowledge of networking, Linux, Docker, databases, Hadoop, Hive, Spark.</li><li>Experience in building and managing distributed systems and high-throughput services.</li><li>Systematic problem solving approach and knowledge of algorithms, data structures and complexity analysis.</li><li>Grit, drive and a strong feeling of ownership coupled with collaboration and leadership.</li><li>Experienced production user of Deep Learning frameworks such as Apache SparkML, XGBoost, Ray, Tensorflow, PyTorch, Keras, etc.</li><li>Power-user Linux knowledge and willingness to explore Linux internals.</li><li>Experience in managing dependencies in data science packages.</li><li>Experience in high performance computing.<br></li></ul>At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!<br><br>We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let\u2019s move the world forward, together!<br><br>Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.<br><br>If you have a disability or special need that requires accommodation, please let us know by completing this form.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T22:05:19.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Retail,Financial Services",
+    "description": "<strong><u>What's Cool About This Job<br><br></u></strong>We currently have an exciting opportunity to join our Experiences agile team as a <strong>Software Engineer</strong> . This team builds and maintains the systems at the core of delivering on our mission to \"inspire, educate and outfit for a lifetime of outdoor adventure and stewardship\". Experiences offerings include instructor-led classes and events, guided day and multi-day trips, group outings, gear rentals and more all centered around a variety of outdoor activities (camping, hiking, running, stewardship, water sports, snow sports and many others). We're on a mission to revolutionize our customer experience by making our digital offerings seamless and painless while decreasing the time it takes to meet up, gear up and get outside. We've set some lofty goals and the challenges that lie ahead are many and diverse but staying true to our values in action - \"we go further together\". We invite you to join us on our journey. Bring your passion, curiosity and respect for your fellow humans and join a talented team focused on making our Experiences offerings among the best on the planet.<br><ul><li> Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations </li><li> Ability to take a project from scoping requirements through actual launch of the project </li><li> Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs </li><li> Contribute to a strong, mutually supportive work spirit and culture where people can do their best </li><li> Experience working in an e-commerce retail/hospitality environment preferred <br></li></ul><strong>Bring your passion and expertise<br></strong><ul><li> 4+ years\u2019 experience in hand coding, proofing and troubleshooting standards-compliant HTML5, CSS3 and JavaScript </li><li> 4+ years\u2019 experience with JavaScript ES5/ES6, related front-end frameworks, tools and bundlers (currently we use Vue.js, NPM, Node.js, WebPack, Rollup, Mocha, Chai, to name a few) </li><li> Experience using CSS preprocessors and an ability to discuss their strengths and weaknesses (we use Less and Sass) </li><li> Cross-browser and cross-platform design and testing experience in manual debugging and automated tooling (we use Babel for cross-browser transpilation) </li><li> Experience with AJAX/ES6 Fetch techniques, as well JSON and XML to consume back end experience for complex web apps </li><li> Experience integrating tracking and other analytics tags </li><li> Experience working on large websites, with many interconnected systems </li><li> Ability to participate in on-call 24x7 incident response (rotation about 1 week per 10) <br></li></ul>Job Function: Information Technology<br><br>City: Seattle<br><br>State: Washington<br><br>Store: Seattle HQ<br><br>Remote Eligible: Yes<br><br>Please visit the<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:54:47.000Z"
+  },
+  "company": {
+    "name": "REI",
+    "link": "https://www.linkedin.com/company/rei"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83300,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Computer Software",
+    "description": "<p><strong>About Bevy:</strong>100% Remote Organization</p><p>Bevy is an early stage Startup with a mission to help brands build, grow and scale their virtual and in-person communities. Founded in April 2017 by the core team behind Startup Grind, Bevy is an Enterprise-grade SaaS platform used by companies that include Adobe, Amazon, Asana, Atlassian, Ebay, Epic Games, IDEO, Intuit, MongoDB, Red Bull, Roblox, Salesforce, SAP, Slack and many more. In April 2019, Bevy acquired CMX which is the world\u2019s largest network of community professionals. CMX offers world-class training, events and research for the community industry.In March 2021, we raised a $40M series C investment. For this funding round, we\u2019ve built a coalition of investors that reflect the communities that we live in every day.</p><p><br></p><p><strong>The Role</strong></p><p>As a Senior Software Development Engineer in Test on the Bevy engineering team you will work to ensure the quality, performance, and reliability of the Bevy platform and connected systems. As a white labelled product, Bevy offers a platform that feels at home to each of our client\u2019s communities. Bevy provides a toolkit to community organizers including everything form automated emails, newsletters, payments, video conferencing, and integrations with other software. However, the challenges of scaling a highly dynamic platform present opportunities for novel engineering solutions and creativity. In this role you will also do cross functional collaboration with SDETS on other teams.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Contribute to technical leadership and strategic direction to continuously improve the quality of the Bevy platform.</li><li>Identify, implement, and maintain the quality standards for our CI pipeline.</li><li>Identify and triage functional and performance regressions.</li><li>Author and enhance test plans based on feature requirements and specifications, as well as technical discussions and deep dives with application engineers.</li><li>Deep dive into requirements, plan, and automate end-to-end integration test cases.</li><li>Build, enhance, and maintain automation frameworks utilized by team to automate critical user scenarios for regression testing.</li><li>Effectively collaborate with an interdisciplinary team of application engineers, UX-UI Designers, and product managers to ensure continuous quality improvements.</li></ul><p><br></p><p><strong>What we\u2019re looking for:</strong></p><ul><li>3 - 5+ years of experience developing automated tests for modern web applications.</li><li>Experience writing automated tests for REST APIs and web-based user Interfaces using Python or Javascript.</li><li>Experience automating large and technically complex test cases in an agile development environment (Scrum, Kanban, XP, \u2026)</li><li>Proven experience developing comprehensive and effective automated testing tools, and automation frameworks.</li><li>Solid understanding of different types of test (unit tests, integration tests, functional tests, load tests, smoke tests \u2026), especially End-to-End(E2E) and when to use them.</li><li>Experience with load testing and associated tools, such as Locust.</li><li>Experience with End-to-End(E2E) testing using tools like, Selenium, BrowserStack, and TestCafe.</li><li>Proactive in monitoring running systems and troubleshooting exceptions in testing environments with tools like NewRelic, DataDog, Sentry, and Rollbar.</li><li>Ability to work in a complex multi-service architecture continuously deployed on Kubernetes and GCP.</li><li>Excited about detecting edge cases, validating acceptance criteria, and improving code coverage.</li><li>Enjoy improving an application's user experience by breaking software by detecting defaults and gaps in code coverage.</li><li>You are an excellent communicator. You need to be able to articulate complex ideas efficiently and effectively. When people do not share an office, it is essential to pay extra attention to communication &amp; speak up.</li></ul><p><br></p><p>We welcome candidates from traditionally underrepresented groups to apply. We are proud to foster a workplace free from discrimination. We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our users and the communities we serve.</p><p><br></p><p>Although we are a remote company, we try to minimize the time zone spread within our teams. Our daylight working hours are within the North and South America's timezone.</p><p><br></p><p><strong><span class=\"ql-cursor\"></span>Our Team</strong></p><p>We are a small but powerful team, dedicated to achieving our mission to bring more community to the world through virtual events. Many of us have worked in community positions before and understand the struggles and peaks that come with the role. Our team communicates candidly, giving feedback early and often. We set ambitious goals, and do what it takes to achieve them, while making sure that we take care of our own personal health and mental wellbeing. We\u2019ll want you to be ready to take on a lot of responsibility with guidance and mentorship along the way. We work to create a diverse, equitable and inclusive environment. We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our team and a better product for our customers and the communities we serve.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T23:30:02.000Z"
+  },
+  "company": {
+    "name": "Bevy",
+    "link": "https://www.linkedin.com/company/bevyhq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Title: Devops Engineer</strong></p><p><strong>Location: USA, Remote</strong></p><p><strong>Duration: Contract </strong></p><p><br></p><p><strong>Note: Client is only looking for US Citizens</strong></p><p><strong></strong></p><p><strong>Required Skills/Experience</strong></p><p>The minimum requirements for this role are as follows:</p><ul><li>2+ years of experience as DevOps engineer, SRE, software engineer, or system engineer</li><li>Proven programming skills (Python, Linux Shell, Java, Go, etc.)</li><li>Hands-on experience in Kubernetes, Docker, AWS, Ansible, Terraform and Linux OS is required</li><li>Hands-on experience with the following technologies is a definite plus</li><li>AWS GovCloud and services such as S3, ECS, EC2, CloudFront, Lambda, Route 53, ElastiCache and RDS</li><li>Jenkins, Groovy, Harness, Artifactory, Maven, or similar CI/CD pipelines related tools and technologies</li></ul><p></p><p><em>If you are interested, please share a good time and your number for a short discussion. Alternatively, you could share your updated resumeat </em><strong>anosh.kumar@bayonesolutions.com</strong><em>or call me at</em><strong>(925) 218-2347</strong><em>. Looking forward to hearing from you!</em></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:38:28.000Z"
+  },
+  "company": {
+    "name": "BayOne Solutions",
+    "link": "https://www.linkedin.com/company/bayone-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

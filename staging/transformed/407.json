@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Machine Learning Platform Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "The Machine Learning (ML) team supports production-facing customer experiences and solutions including search engines, style and template recommendations, dynamic content generation, phishing and fraud detection and more. You will be a founding ML Platform engineer reporting to the manager of Machine Learning. ML Platform builds tools from the ground up to automate data-intensive workflows, enhance telemetry and reproducibility of our modeling ecosystem and provide top-class developer tools for ML engineering peers. This is a hands-on technical leadership position where you will have support and autonomy to make architectural decisions and develop your vision of a foundational ML modeling platform.<br><br>All Squarespace employees are working remotely at this time. We are closely monitoring the status of COVID-19 as we continue our work to build a return-to-work plan that ensures a safe return to our offices and provides flexibility for our employees.<br><br><strong><u>Responsibilities<br></u></strong><ul> <li>Lead design and implementation for ML telemetry, experiment tracking and feature store systems</li> <li>Take ownership of complex production systems with a focus on microservice delivery, continuous integration and automating ML workloads</li> <li>Partner with data platform and operation teams to solve complex data ingestion, pipeline and governance problems for ML systems</li> <li>Provide technical mentorship, guidance and quality-focused code review to ML platform engineers</li> <li>Lead roadmap and architectural planning efforts for the future of ML platforms and represent ML infrastructure to engineering leaders across the company</li> <br><br></ul><strong><u>Qualifications<br></u></strong><ul> <li>6+ years of software engineering experience focusing on tools for machine learning infrastructure</li> <li>Detailed experience with production-facing web service delivery and related engineering concerns such as containerization, observability, logging and continuous integration</li> <li>Expertise in ML telemetry, feature stores, experiment tracking and infrastructure patterns and tools</li> <li>Experience creating cross-team agreement on engineering solutions and architecture decisions</li> <li>2+ years of hands-on experience with specific ML-focused platform tools such as MLflow and MLeap, cloud tools such as Dataproc and Sagemaker, or vendor tools such as Weights &amp; Biases and Databricks</li> <br><br></ul><strong><u>About Squarespace<br><br></u></strong>Squarespace makes beautiful products to help people with creative ideas succeed. By blending elegant design and sophisticated engineering, we empower millions of people \u2014 from individuals and local artists to entrepreneurs shaping the world\u2019s most iconic businesses \u2014 to share their stories with the world. Squarespace\u2019s team of more than 1,200 is headquartered in downtown New York City, with offices in Dublin and Portland. For more information, visit www.squarespace.com/about.<br><br><strong><u>Benefits &amp; Perks<br></u></strong><ul> <li>Health insurance with 100% premium covered for you and your dependent children</li> <li>Flexible vacation &amp; paid time off</li> <li>Up to 20 weeks of paid family leave</li> <li>Equity plan for all employees</li> <li>Retirement benefits with employer match</li> <li>Fertility and adoption benefits</li> <li>Free lunch and snacks at all offices</li> <li>Education reimbursement</li> <li>Dog-friendly workplace in New York office</li> <li>Commuter benefit in the form of reduced tax (Ireland) and pretax (US)</li> <br><br></ul><em>Today, more than a million people around the globe use Squarespace to share different perspectives and experiences with the world. Not only do we embrace and celebrate the diversity of our customer base, but we also strive for the same in our employees. At Squarespace, we are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, national origin, gender, sex, gender identity or expression, sexual orientation, age, citizenship, marital or parental status, disability, veteran status, or other class protected by applicable law. We are proud to be an equal opportunity workplace.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:16:22.000Z"
+  },
+  "company": {
+    "name": "Squarespace",
+    "link": "https://www.linkedin.com/company/squarespace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 183000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

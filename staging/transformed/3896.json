@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br><br></em><strong> Job Category </strong>Products and Technology<strong> Job Details <br><br></strong>The Global Sales Intelligence team at Salesforce is looking for a Machine Learning Engineer to develop tools, insights, and technologies to help our Global Enablement team achieve extraordinary value. We are looking for someone to join our team to work on groundbreaking R&amp;D projects, to leverage massive structured, unstructured, transactional and real-time data sets from a variety of sources, to analyze usage and behavior patterns. We aim to provide actionable recommendations and insights to enable our sales teams to increase their productivity, remove obstacles and reduce their time spend on on-sales activities.<br><br>You will build ML systems and AI services in order to drive sales teams\u2019 engagement, enablement program design, and make enablement activities measurable, actionable, relevant, and predictable. You will be responsible for translating business and functional requirements into concrete work with the design, development, testing, and deployment of highly scalable distributed services.<br><br>The ideal candidates will have a solid background in machine learning and software engineering, model development and testing, model explanations, data visualization, and production automation. They should exhibit technical acumen, product sense and business savvy, with a passion for making an impact through creative storytelling and timely actions.<br><br>If you are a machine learning engineer who is equally at home discussing a project with business owners, data scientists, researchers or developers, thrives on accelerating business growth, is willing to roll their sleeves up and do the hard work, and is extremely creative, collaborative, innovative \u2013 yet disciplined, methodical and down to earth \u2013 we want to hear from you.<br><br>Work with us as we develop and apply state-of-the-art AI techniques, where your work will directly impact the success of Sales operations across Salesforce.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Work with data scientists, data analysts to design best-suited, robust, and scalable ML solutions and evaluate the deployed ML model\u2019s effectiveness.</li><li>Write robust production-level and well tested code and engage in code reviews.</li><li> Build ETL pipelines with SQL and Python based technologies and platforms. </li><li>Deploy ML model pipelines, scale through Big Data, optimize performance and automate fail-over.</li><li>Own the machine learning pipeline end-to-end (data pipeline, model development and optimization, and insight delivery)</li><li> Work with different technologies (Python, R, shell scripts) and translate logic into well-performing SQL or other relational language and/or platform. </li><li> Develop data products on SQL (Oracle, Snowflake) and Python on cloud platforms (AWS, GCP). Be prepared to learn new platforms and syntax with short ramp-up cycles. </li><li> Be prepared for changes in business direction and understand when to adjust designs. </li><li> Design, develop and document database objects with the best architectural principles and patterns. </li><li>Collaborate on data visualization efforts to drive insights for the business.</li><li> Demonstrate operational excellence and strong can-do attitude. <br></li></ul><strong><u>Job Requirements<br></u></strong><ul><li>Advanced degree in stats, math, CS or another relevant field.</li><li> Strong skills working with very large data sets with a variety of tools; experience in dealing with performance and scaling issues. </li><li>2+ years of experience in machine learning product development is a must</li><li> 3+ years of Python development experience working with third-party APIs and building custom ETL packages. </li><li> At least 3 years of professional experience with SQL. </li><li> Experience in statistical modeling is a plus. </li><li>Experience with big data tools: Hadoop, Spark, Kafka, etc.</li><li> Ability to work effectively in an unstructured and fast-paced environment both independently and in a team setting, with a high degree of self-management. </li><li> Ability to prioritize and execute multiple tasks in a highly dynamic environment with a results oriented mindset. Strong problem solving with acute attention to detail and ability to meet tight deadlines and project plans. </li><li> Familiarity with Scrum/Agile project management methodologies. </li><li>Comfortable working in a dynamic, research-oriented group with several ongoing concurrent projects</li></ul><strong> Accommodations <br><br></strong>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br><br><strong> Posting Statement <br><br></strong>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br><br><u>Salesforce.com</u> and <u>Salesforce.org</u> are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. <u>Salesforce.com</u> and <u>Salesforce.org</u> do not accept unsolicited headhunter and agency resumes. <u>Salesforce.com</u> and <u>Salesforce.org</u> will not pay any third-party agency or company that does not have a signed agreement with <u>Salesforce.com</u> or <u>Salesforce.org</u> .<br><br>Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T07:59:38.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Hyderabad",
+    "region": null,
+    "postal_code": "500065",
+    "street_address": null,
+    "latitude": 17.36172,
+    "longitude": 78.47517
+  }
+}

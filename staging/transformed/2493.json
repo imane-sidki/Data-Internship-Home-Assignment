@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "<p>Looking for minimum 5+ years of experience</p><p>Good Understanding on Machine Learning and NLP</p><p>Tools like Numpy, TensorFlow,Pytorch</p><p>Understanding on REST</p><p>Python Knowledge</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T15:52:57.000Z"
+  },
+  "company": {
+    "name": "EA Team Inc",
+    "link": "https://www.linkedin.com/company/eateam-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Edison",
+    "region": "NJ",
+    "postal_code": "08899",
+    "street_address": null,
+    "latitude": 40.525524,
+    "longitude": -74.38823
+  }
+}

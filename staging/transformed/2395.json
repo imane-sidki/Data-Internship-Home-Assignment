@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Health, Wellness and Fitness",
+    "description": "<p>This position will be responsible for helping with the teams move to automation. This will include both Infrastructure as Code and SecDevOps.</p><p><br></p><p>This individual will be responsible for maintaining existing code, creating new automation and corresponding documentation.</p><p><br></p><p>The position will focus Application Delivery Networking, which includes Load Balancing, Smart DNS and Security Offerings.</p><p><br></p><p><strong>Required Qualifications</strong></p><p><br></p><ul><li>2+ years of development and maintenance experience in Ansible OR Tower.</li><li>2+ years of development and maintenance experience in Git.</li><li>2+ years of development and maintenance experience in REST Interfaces.</li></ul><p><br></p><p><strong>Preferred Qualifications</strong></p><p><br></p><ul><li>It would be nice if the candidate had experience with Load Balancing, Networking or Private Key Infrastructure.</li><li>Experience in:</li><li>Cloud platform experience: AWS/AZURE/GCP</li><li>Declarative Onboarding using AS3</li><li>Database Experience</li><li>Octopus</li><li>Bash</li><li>VSCode\\Python\\PHP</li><li>Node.js</li><li>React.js</li><li>SNOW</li></ul><p><br></p><p><strong>Education</strong></p><p><br></p><ul><li>A degree in information technology or matching job experience.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T01:33:47.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hartford",
+    "region": "CT",
+    "postal_code": "06156",
+    "street_address": null,
+    "latitude": 41.765774,
+    "longitude": -72.673355
+  }
+}

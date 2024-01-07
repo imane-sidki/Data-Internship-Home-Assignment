@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Management Consulting,Computer Software",
+    "description": "<p>A Houston based Consultancy are looking to add a Data Scientist to their experience team. The Consultancy are focused towards AI/Data Science and work closely with a range of clients across industries.</p><p></p><p><strong>Responsibilities</strong></p><ul><li>Analyze raw data: assessing quality, cleansing, structuring for downstream processing</li><li>Design accurate and scalable prediction algorithms</li><li>Collaborate with engineering team to bring analytical prototypes to production</li><li>Generate actionable insights for business improvements</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or equivalent experience in quantative field (Statistics, Mathematics, Computer Science, Engineering, etc.)</li><li>At least 2+ years' of experience in quantitative analytics or data modeling</li><li>Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms</li><li>Fluency in a programming language (Python, C,C++, Java, SQL)</li><li>Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T10:20:59.000Z"
+  },
+  "company": {
+    "name": "X4 Technology ",
+    "link": "https://uk.linkedin.com/company/x4-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

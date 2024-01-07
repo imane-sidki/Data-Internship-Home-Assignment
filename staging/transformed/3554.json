@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today, but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.<br><br><strong><u>What You'll Do<br><br></u></strong><ul><li> Actively support and lead the planning, design, implementation and integration of recently released software solutions in customer environments. </li><li> Drive solution delivery improvements through automation, testing and best practices implementation to optimize deployments, accelerate customer value-realization and improve overall online service reliability. </li><li> Practice SRE delivery principles, including building CI/CD pipelines and measure KPIs via Service Level Indicators (SLIs), Service Level Objectives (SLOs) and Service Level Agreement (SLAs). </li><li> Collaborate in transformational initiatives to define and improve new delivery methodologies in accordance with DevOps and SRE models. </li><li> Interact with professional services delivery, product management, and BU teams to integrate automation in our offers to improve quality and customer experience. <br></li></ul><strong><u>Who We Are<br><br></u></strong>You will be part of the SRE Cross Domain Team in Cisco\u2019s Customer Experience (CX) Technology and Transformation Group for the Americas region. Service Reliability Engineering (SRE) is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. At Cisco, we practice SRE principles to create scalable and highly reliable software systems and solutions. We focus on fixing reliability problems in our solutions as well as building tools and systems that will contribute to the reliability of the systems that it supports.<br><br><strong><u>Minimum Qualifications<br></u></strong><ul><li> 10+ years\u2019 experience after a B.S or M.S in Computer Science, Electrical Engineering, or a related field. </li><li> 2+ years of hands on SRE experience. </li><li> Ability to define good SLI, SLO and error budget to maintain reliability of any system wile utilizingtools such as AppDynamics, ThousandEyes, Prometheus, Grafana, DataDog. </li><li> Subject matter expertise in software development (Docker, OpenStack, Kubernetes), programmability (Python, Java, Angular, Django) , automation (Ansible, Terraform) and DevOps related tools (Git, Jenkins). <br></li></ul><strong><strong>Why Cisco<br><br></strong></strong>At Cisco, each person brings their unique talents to work as a team and make a difference.<br><br>Yes, our technology changes the way the world works, lives, plays and learns, but our edge comes from our people. We connect everything \u2013 people, process, data and things \u2013 and we use those connections to change our world for the better.<br><br>We innovate everywhere - From launching a new era of networking that adapts, learns and protects, to building Cisco Services that accelerate businesses and business results. Our technology powers entertainment, retail, healthcare, education and more \u2013 from Smart Cities to your everyday devices.<br><br>We benefit everyone - We do all of this while striving for a culture that empowers every person to be the difference, at work and in our communities.<br><br>Colorful hair? Don\u2019t care. Tattoos? Show off your ink. Like polka dots? T",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:25:19.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

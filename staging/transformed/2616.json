@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Search Modeling",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Who are we looking for<br>We are looking for a Data Scientist, Search Modeling to join the Search Sciences Team at Nike is a rapidly growing data science and machine learning team specializing in building the core models to power search on Nike.com and in the Nike app. Search at Nike covers both the traditional search space of query intent, ranking, etc, and also covers the emerging ability of ML to help with inventory management. Models in this space provide a portal into Nike\u2019s portfolio for Athletes* in dozens of countries and subsequently generate billions of dollars in revenue. Efficiency improvements in more accurate search for customers and better aligned inventory to meet customer demand will have a substantial impact across the business. The opportunity to improve Nike\u2019s current search functionality for customers and link insights back to the supply chain is vast. To move quickly and thoughtfully, this team will balance off the shelf solutions with custom model development and develop a framework for balancing the multiple objectives of search. This team has openings for senior and junior roles in Search Modeling, Search Measurement, and Search Integration.<br>What will you work on<br>In this role, you will\u2026<br><br><ul> <li>Work with data from language models, image processing, inventory performance, and customer preferences to create core search models.</li> <li>Research options for integrating, maintaining, and customizing pretrained models for improving the processing of search queries.</li> <li>Help balance providing the fastest search results to our customers with exploring the performance of new inventory.</li> <li>Identify and advocate for the team to work on areas of novel interest and impact for search in the context of managing a two sided marketplace between customers and inventory.</li> <li>Help design long term strategies for steadily improving the search experience for customers and building a competitive advantage in managing inventory in a search context.</li> </ul> What you bring<br><ul> <li>Experience with in production ML systems</li> <li>Proficient in Python</li> <li>Experience with one of recommender systems, multi-objective optimization, inventory management, search, or product search preferred</li> <li>Experience working in complex code environments with multiple repos and collaborating with operations teams to deploy models preferred</li> <li>Experience setting team standards of development for code or analysis preferred</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T20:21:28.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

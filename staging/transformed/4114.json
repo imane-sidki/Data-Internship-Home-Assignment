@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>The Opportunity:</strong></p><p><strong><span class=\"ql-cursor\"></span></strong></p><p>FastSpring is the world\u2019s leading ecommerce platform for Software and SaaS companies.Our product hosts over 10 million transactions per year empowering sales growth for more than 6,000 companies in over 200 countries, using every major currency.We pride ourselves on being an innovative company with an entrepreneurial culture, growth mindset, global influence, and profitable operations.</p><p>We are committed to building an inclusive work environment and we invest in our employees by helping team members grow and develop professionally.We are developers, technologists, and business professionals who are globally-minded, customer-focused, and driven by constant innovation.</p><p><br></p><p><strong>The Position:</strong></p><p><br></p><p>FastSpring is looking for a Senior Software Engineer to join a growing team at its headquarters</p><p>in Santa Barbara, CA. The Senior Software Engineer is responsible for designing and</p><p>developing our industry-leading full-service ecommerce platform.</p><p><br></p><p><strong>Skills &amp; Experience:</strong></p><p><br></p><ul><li>Working within our agile software development teams, lead design and development of product features for highly available payment processing, subscription billing, and reporting platforms.</li><li>Ensure a robust software delivery process through clear procedures as well as automated build, test, and deployment capabilities</li><li>Reduce time to market by decomposing large feature requirements into small development tasks suitable for incremental releases</li><li>Participate in design and code review with other team members</li><li>Mentor junior members of the development team</li><li>Manage software issues through tickets according to product development priorities</li><li>Lead integrations with external platforms such as payment networks</li><li>Work with other FastSpring team members to understand and incorporate business requirements into product solutions</li><li>Flexible hours to work with local and remote team members on feedback and requirements</li><li>Respond to production issues and apply continuous improvement techniques to fully resolve them</li></ul><p><br></p><p><strong>Qualifications, Technology &amp; Systems:</strong></p><p><br></p><ul><li>7+ years of software development experience delivering commercial SaaS solutions using Java</li><li>4+ years of experience with SQL and NoSQL storage</li><li>3+ years of experience implementing RESTful service-oriented architectures with public APIs</li><li>HTML / CSS / JavaScript / JQuery / Angular experience</li><li>Unit testing, mocking and automation experience</li><li>Experience with Amazon Web Services, including EC2, S3, RDS, DynamoDB; experience with Lambda and Redshift is a plus</li><li>Experience with LINUX; experience with containers &amp; docker is a plus</li><li>Bachelor\u2019s or master\u2019s degree in Computer Science or equivalent experience</li></ul><p><br></p><p><strong>About the Company:</strong></p><p><br></p><p>FastSpring is the trusted ecommerce partner for companies that sell software around the world. With FastSpring\u2019s full-service ecommerce solution, you can sell more, compete big, and stay lean. Founded in 2005, FastSpring is a privately owned company headquartered in Santa Barbara with offices in Amsterdam, and Halifax. For more information, please visit https://www.fastspring.com.</p><p><br></p><p>FastSpring is an EQUAL EMPLOYMENT OPPORTUNITY/AFFIRMATIVE ACTION employer. Candidates are considered for employment with FastSpring without regard to their race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, veteran status (specifically status as a disabled veteran, special disabled veteran, Vietnam Era veteran, recently separated veteran, armed forces service medal veteran, or other protected veteran) or other classification protected by applicable federal, state or local law.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:28:30.000Z"
+  },
+  "company": {
+    "name": "FastSpring",
+    "link": "https://www.linkedin.com/company/fastspring"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Barbara",
+    "region": "CA",
+    "postal_code": "93105",
+    "street_address": null,
+    "latitude": 34.420868,
+    "longitude": -119.69834
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "This individual will work to monitor system health, investigate and troubleshoot delivery failures and/or related production issues, escalate issues as needed and take part in an on-call rotation (roughly every 5-6 weeks). The main focus of this role will be to monitor batch and real-time processing and support overall production support activity as well as aid in the automation of manual tasks.<br><br>\u2022 3-5 years of operations experience with large-scale, high-availability distributed systems<br>\u2022 Application/Platform production support experience<br>\u2022 SQL/Oracle and UNIX functional proficiency<br>\u2022 An understanding of programming \u2013 java, javascript, web development, etc.<br>\u2022 On-call support experience with a critical platform<br>\u2022 Familiarity with Batch/Scheduled job execution and troubleshooting<br>\u2022 File Transfer Protocol (FTP) experience<br>\u2022 Scripting and automation experience<br>\u2022 Healthcare EDI/ANSI/X12 industry knowledge<br>\u2022 Splunk, New Relic, Solar Winds or other enterprise monitoring tool experience",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-12T15:13:05.000Z"
+  },
+  "company": {
+    "name": "TEKsystems",
+    "link": "https://www.linkedin.com/company/teksystems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

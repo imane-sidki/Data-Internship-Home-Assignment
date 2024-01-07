@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ISE, Input Experience - Software Engineer, Analytics",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>At Apple, our goal is to provide an effortless input experience to everyone, no matter what languages they speak, across modalities, with world-class intelligence at the core. The Input Experience organization is directly responsible for keyboard and pencil input across multiple platforms. We also work very closely with the Siri speech team to seamlessly integrate dictation into our user\u2019s text input.<br><br><br>We are looking for an experienced Software Engineer to help us develop both on-device infrastructure and applications to help measure our customer\u2019s experience with our input technologies. The insights derived from this work will be:<br><br><br>Deep - we want to have true measure of the customer experience. This will demand the creativity to go beyond obvious metrics and capture true insights about their interactions include detecting signals of frustration as well as joy! <br><br><br>Broad - our mission to provide such insights must be inclusive to input modalities as well as user language and locale. We also want to collect and analyze data across many of Apple\u2019s products including but limited to iPhones, iPads and Macs and Watches.<br><br><br>Private - we must always adhere to Apple\u2019s promise to our customers to value and protect their privacy.<br><br><br>If you believe that data is a powerful way to make our awesome products even better, then read on...<br><br> <br><strong>Key Qualifications<br></strong> <br>Proven software engineering background including key concepts such as data structures, algorithms, &amp; object-oriented design<br><br>4+ years programming in a C language (e.g., C, C++, Objective C, C#, Java, Swift)<br><br>Ability to code at the system (e.g., framework) and application level<br><br>Deep understanding of one or more of the following: API design, Multi-threading, Inter-process communication, etc.<br><br>Experience with automated testing (e.g., unit, integration, UI) as a means to insure high quality software<br><br>Great communication and collaboration skills<br><br>Experience or interest in input technologies including keyboards, pencil and speech<br><br>Experience or interest in statistics, software metrics and analytics<br><br> <br><strong>Description<br></strong> <br>You will partner across engineering groups to collectively design methods to measure the user\u2019s input experience. You are equally comfortable designing and contributing to system-level frameworks such as UIKIt as well as building apps and other tools to support our team\u2019s mission. <br><br><br>IN THIS ROLE, YOU WILL: <br><br>- Collaborate within and across teams to define the next generation architecture for Input Experience Analytics that will be embedded into our OS platforms <br><br>- Design, implement and test new metrics and Key Performance Indicators (KPIs)<br><br>- Develop applications that complement our embedded analytics <br><br>- Provide assistance to engineers on other teams implementing feature-level metrics<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS/MS in Computer Science, Computer Engineering, Informatics (or equivalent experience)<br><br> <br>Role Number: 200246586<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:37:01.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

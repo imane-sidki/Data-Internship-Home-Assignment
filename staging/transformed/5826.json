@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Remote)",
+    "industry": "",
+    "description": "<p><strong>Description</strong></p><p>We are looking for an experienced software engineer to join a young development team.As a software engineer, you will be building product features for a web application while optimizing user experiences, security, and scalability.You will be working closely with the product manager and UI/UX designer to create user-friendly, intuitive, and practical interfaces, actively defining how the application should work as well as how it looks. You will be involved in all aspects of the product development lifecycle from planning to deployment, ensuring that a quality product is delivered and provides value to its end users.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Design, develop, and, maintain the structure and design of the web and mobile pages within the application, optimizing for speed, scalability, and responsiveness.</li><li>Work closely with product managers, UI/UX designers, and other developers to ensure new product features meet business objectives as well as technical standards</li><li>Assist with designing, building, and maintaining core back-end services and APIs for the Q4J app</li><li>Design and maintain reusable code and library for future use to ensure consistency across the suite</li><li>Support the test and deployment of new products and features</li><li>Participate in code reviews</li><li>Continuously stay up to date on latest emerging technology</li></ul><li><br></li><p><strong>Qualifications</strong></p><ul><li>3-5 years of proven work experience as a software developer both developing and testing web-based applications</li><li>Working experience with React or other similar front-end frameworks, Javascript, and CSS</li><li>Experience with building hybrid web and mobile applications, ensuring responsive and adaptive designs</li><li>Experience in object-oriented design and database design</li><li>Experience working in cross-functional teams with other developers, UI/UX designers, and QAs</li><li>You must be introspective</li><li>You must be motivated by values, particularly those related to right and wrong such as justice</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:32:41.000Z"
+  },
+  "company": {
+    "name": "Quest for Justice",
+    "link": "https://www.linkedin.com/company/quest-for-justice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "At U.S. Bank, we're passionate about helping customers and the communities where we live and work. The fifth-largest bank in the United States, we\u2019re one of the country's most respected, innovative and successful financial institutions. U.S. Bank is an equal opportunity employer committed to creating a diverse workforce. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, among other factors.<br><br><strong><u>Job Description<br><br></u></strong>Be a part of transformational change where integrity matters, success inspires and great teams collaborate and innovate. As the fifth-largest bank in the United States, we're one of the country's most respected, innovative, ethical and successful financial institutions. We're looking for people who want more than just a job - they want to make a difference! U.S. Bank is seeking a Software Engineer who will contribute toward the success of our technology initiatives in our digital transformation journey.<br><br>This position will be responsible for the analysis, design, testing, development and maintenance of best in class software experiences. The candidate is a self-motivated individual who can collaborate with a team and across the organization. The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience. The candidate will be adept with the agile software development lifecycle and DevOps principles.<br><br><strong><u>Essential Responsibilities<br></u></strong><ul><li> Responsible for designing, developing, testing, operating and maintaining products.</li><li> Takes full stack ownership by consistently writing production-ready and testable code.</li><li> Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs.</li><li> Makes sound design/coding decisions keeping customer experience in the forefront.</li><li> Takes feedback from code review and apply changes to meet standards. Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures.</li><li> Accountable for ensuring all aspects of product development follow compliance and security best practices.</li><li> Exhibits relentless focus in software reliability engineering standards embedded into development standards.</li><li> Embraces emerging technology opportunities and contributes to the best practices in support of the bank's technology transformation.</li><li> Contributes to a culture of innovation, collaboration and continuous improvement.</li><li> Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery. Anticipates and communicates blockers and delays before they require escalation.<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li> Bachelor's degree, or equivalent work experience</li><li> Seven to Nine years of relevant experience<br></li></ul><strong><u>Preferred Skills/Experience<br></u></strong><ul><li> Thorough understanding of a feature, the users impacted, the flows impacted and feature's purpose</li><li> Technical designs are clear, well thought out, and considers dependencies, failure states, maintainability, testability and ease of support</li><li> Considers scalability, reliability and performance of systems/contexts affected when defining technical designs</li><li> Understands the team's domain, how work in this domain relates to the team's objectives and deliverables and how it contributes to overall business strategy and how technical strategy maps to this</li><li> Thoroughly understands the business model in relation to their current product focus area</li><li> Ability to analyze the bigger picture, identifying and prioritizing with the aim to consider more than one domain within an analysis</li><li> Looks for opportunities to simplify product and technical design</li><li> Adept with agile software development lifecycle and DevOps principles</li><li> Able to communicate processes and results with all parties involved in the product team, including engineers, product owner, scrum master, third party vendors and customers</li><li> Strong problem-solving and analytical skills</li><li> Excellent communication and interpersonal skills<br></li></ul><strong><u>Core Technology Skill Set Needed<br><br></u></strong>Development expertise in ReactJS, next.js<br><br>Cucumber for BDD<br><br>Agile and scrum experience<br><br>Test automation using TestCafe<br><br>API integration experience with GraphQL<br><br>Site cat tagging for Tag management analytics<br><br>See test, Penetration testing, Load testing experience<br><br>front-end development tools such as Babel, Webpack, NPM<br><br>Prod monitoring/analysis using App Dynamics, Kibana logs<br><br>Code management and build deployments using Jenkins CI/CD, docker<br><br>Content management using AEM(Adobe Experience Manager) for internationalization<br><br><strong><u>Benefits<br><br></u></strong>Take care of yourself and your family with U.S. Bank employee benefits. We know that healthy employees are happy employees, and we believe that work/life balance should be easy to achieve. That's why we share the cost of benefits and offer a variety of programs, resources and support you need to bring your full self to work and stay present and committed to the people who matter most - your family.<br><br>Learn all about U.S. Bank employee benefits, including tuition reimbursement, retirement plans and more, by visiting usbank.com/careers .<br><br><strong>EEO is the Law<br><br></strong>Applicants can learn more about the company\u2019s status as an equal opportunity employer by viewing the federal EEO is the Law poster.<br><br><strong>E-Verify<br><br></strong>U.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-02T02:22:26.000Z"
+  },
+  "company": {
+    "name": "U.S. Bank",
+    "link": "https://www.linkedin.com/company/us-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65700,
+    "max_value": 113000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postal_code": "55440",
+    "street_address": null,
+    "latitude": 44.977486,
+    "longitude": -93.264366
+  }
+}

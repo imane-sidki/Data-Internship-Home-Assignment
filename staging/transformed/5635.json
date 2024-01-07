@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Real Estate",
+    "description": "Job ID<br><br>29173<br><br>Posted<br><br>20-Aug-2021<br><br>Service line<br><br>Advisory Segment<br><br>Role type<br><br>Full-time<br><br>Areas of Interest<br><br>Data &amp; Analytics<br><br>Location(s)<br><br>Los Angeles - California - United States of America, San Jose - California - United States of America, Orlando - Florida - United States of America, Atlanta - Georgia - United States of America, Dallas - Texas - United States of America, Seattle - Washington - United States of America<br><br><strong><u>Job Summary<br><br></u></strong>Responsible for modeling complex problems, discovering insights and identifying opportunities through statistical, algorithmic, mining and visualization techniques. Applies advanced statistical and predictive modeling techniques to build, maintain, and improve how data is ingested, mastered, shared and presented.<br><br><strong><u>Responsibilities<br><br></u></strong>This role will assist and support the evaluation of proprietary and third-party data, to develop machine learning algorithms to interrogate data, and to develop and implement a scaling stack to develop products for the purpose of business intelligence.<br><br><strong><u>Essential Duties And Responsibilities<br><br></u></strong>Identifies what data is available and relevant, including internal and external data sources, leveraging new data collection processes such as geo-location information.<br><br>Work on complex, cross-functional research or analytical projects leveraging advanced computational algorithms.<br><br>Applies the tools of modern data science using open source architecture to the analysis of CBRE's proprietary data<br><br>Supports data research efforts for product development for internal and external clients.<br><br>Delivers and updates standard and bespoke data dashboards and presentations on Tableau, Power BI, Dimension and other visualization tools to enhance ROI of available data to producers and market leaders.<br><br>Develop custom algorithms for solving complex real estate business problems across a wealth of structured and unstructured data across multiple data sources.<br><br>Develop data structures and pipelines to organize, collect, cleanse and standardize data that helps to generate insights.<br><br>Evaluates new data sources, data processing tools and communications software.<br><br><strong><u>Qualifications<br><br></u></strong>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required.<br><br>Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br><br><strong><u>EDUCATION And EXPERIENCE<br><br></u></strong>Bachelors or Masters in disciplines such as Mathematics (Pure/ Applied), Statistics, Computer Science/ Engineering, Information Systems or any other Scientific discipline is ideal. But other quantitative fields of study are also considered.<br><br>2-4 years of impactful experience in creating data-driven products and ML models.<br><br><strong><u>Communication Skills<br><br></u></strong>Excellent written and verbal communication skills. Strong organizational and analytical skills.<br><br>Ability to wrap data insights into narratives and visualizations is essential to the role.<br><br><strong><u>Technical Skills<br></u></strong><ul><li> Must have an intuitive understanding of algorithms underpinning various statistical and machine learning models from regression, classification, clustering to optimization and decision theory</li><li> Proven functional experience in generating quick and sturdy business insights using standard tools and frameworks, potentially across various tech stacks including Open Source</li><li> Visual thinking of outputs, as Tableau/ Power BI/ Streamlit, etc. dashboards. Crispness in communicating the outputs is necessary</li><li> Strong coding skills in R and Python; and scripting in SQL and MS Excel. Any other relevant programming language skills like Java, Scala, Julia, etc. would be a plus.<br></li></ul>REASONING ABILITY<br><br>Ability to comprehend, analyze, and interpret complex documents. Ability to solve problems involving several options. Requires advanced analytical and quantitative skills.<br><br>SCOPE OF RESPONSIBILITY<br><br>Decisions made with thorough understanding of procedures, company policies, and business practices to achieve general results and deadlines. Responsible for setting work unit and/or project deadlines. Errors in judgment may cause long-term impact to the line of business.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T08:26:31.000Z"
+  },
+  "company": {
+    "name": "CBRE",
+    "link": "https://www.linkedin.com/company/cbre"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82700,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Seattle Area",
+    "region": null,
+    "postal_code": "98109",
+    "street_address": null,
+    "latitude": 47.591396,
+    "longitude": -122.33279
+  }
+}

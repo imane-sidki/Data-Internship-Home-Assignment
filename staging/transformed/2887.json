@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Please refer website for multiple open roles -<br>https://www.theodtech.com/OD/#career",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T20:35:20.000Z"
+  },
+  "company": {
+    "name": "The ODTech",
+    "link": "https://www.linkedin.com/company/theodtech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Fayetteville",
+    "region": "AR Area",
+    "postal_code": "72701",
+    "street_address": null,
+    "latitude": 36.050095,
+    "longitude": -94.18262
+  }
+}

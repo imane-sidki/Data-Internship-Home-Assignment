@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "The Microsoft Search in Bing Team is looking for strong full-stack a Senior developer with a passion for building large scale web services and state of the art web applications. In this role, you will have the opportunity to work on complex problems, interface closely with the partner teams and contribute to the exciting product in Microsoft.<br><br>You will be part of a passionate and growing team who takes pride in their work, and cares about their colleagues. If you are someone who takes ownership of your projects and thrives in a dynamic environment, then let's chat!<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Architect, design and develop large scale distributed software services and solutions in collaboration with teammates. </li><li>Take end-to-end responsibility for the development, observability, quality, testing, and production readiness of the services you build. </li><li>Invest in the growth of an inclusive and capable by mentoring and training team members within the team and across the org </li><li>Constantly improve our live site with monitoring and automation </li><li>Build accessible experiences sensitive to the needs of all users </li><li>Modularize components for use across Microsoft 365 <br><br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>Required Qualifications:<br></strong><ul><li>Bachelor\u2019s degree or higher in a Computer Science or related technical/engineering discipline</li><li>5+ years Professional experience with at least one of C#/C/C++/Java/other programming language </li><li>3+ years of client-side web development experience in TypeScript, JavaScript, React/Reduxor similar technologies </li><li>Expertise in middle tier/backend technologies such as .NET, relational and/or non-relational (NoSQL) databases, web services and RESTful concepts.<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>3+ years of implementing code level patterns that allow large codebases &amp; teams to scale. </li><li>Great written and oral presentation skills</li><li>Experience driving efforts across product groups and business units. </li><li>Solid coding, debugging, algorithm design, and problem-solving skills.</li><li>Experience with orchestration and distributed system architecture patterns </li><li>Telemetry and Experimentation<br><br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.<br><br>#webxt #bing #webdevelopement",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:03:56.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 150000,
+    "max_value": 182000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

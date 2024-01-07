@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Project Description<br><br></u></strong>Major airline is researching an efficient way to place flights at gates in a timely manner to reduce delay penalties. In doing so, we need to be able to create data visualizations to understand the output of our predictions, assess operations research models, and work with the team to implement changes.<br><br><strong><u>Responsibilities<br></u></strong><li><br></li><strong><u>Skills<br><br></u></strong>Must have<br><br><strong><u>Min Qualifications - Education And Prior Job Experience<br></u></strong><ul><li> Bachelor's degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline, or equivalent experience/training</li><li> 3 years software solution development using agile, DevOps, operating in a product model that includes designing, developing, and implementing large-scale applications or data engineering solutions</li><li> 3 years data analytics experience using SQL</li><li> 2 years of cloud development and data lake experience (prefer Microsoft Azure) including Azure EventHub, Azure Data Factory, Azure Databricks, Azure DevOps, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Power BI.</li><li> Combination of Development, Administration &amp; Support experience in several of the following tools/platforms required:<br></li></ul>Scripting: Python, Spark, Unix, SQL<br><br>Data Platforms: Teradata, Cassandra, MongoDB, Oracle, SQL Server, ADLS, Snowflake, Azure Data Explorer. Administration skills a plus<br><br>Azure Cloud Technologies: Azure Data Factory, Azure Databricks, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Azure Functions<br><br>CI/CD: GitHub, Jenkins, Azure DevOps, Terraform<br><br>BI Analytics Tool Stack - Cognos, Tableau, Power BI, Alteryx, Denodo, and Grafana<br><br>Data Warehousing: DataStage, Informatica<br><br>Data Governance and Privacy: Informatica Axon and EDC, BigID<br><br><strong><u>Preferred Qualifications- Education &amp; Prior Job Experience<br><br></u></strong>5+ years software solution development using agile, dev ops, product model that includes designing, developing, and implementing large-scale applications or data engineering solutions.<br><br>5+ years data analytics experience using SQL<br><br>3+ years full-stack development experience, preferably in Azure<br><br>3+ years of cloud development and data lake experience (prefer Microsoft Azure) including Azure EventHub, Azure Data Factory, Azure Functions, ADX, ASA, Azure Databricks, Azure DevOps, Azure Blob Storage, Azure Data Lake, Azure Power Apps and Power BI.<br><br>Airline Industry Experience<br><br>Nice to have<br><br>Python, Spark, Unix, SQL<br><br><strong>Languages<br><br></strong>English: C2 Proficient",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:14:12.000Z"
+  },
+  "company": {
+    "name": "Luxoft",
+    "link": "https://ch.linkedin.com/company/luxoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Biotechnology",
+    "description": "Seeking a Senior Software Engineer, Architect who will develop complex software for low power and battery powered medical devices. Come join a team of professionals where your experience will be a Value add.<br><br>What You Will Be Doing<br><br>Develop Linux applications that communicate with firmware running on development boards<br><br>Design and implement<br><ul><li>Real-time, embedded signal processing software and algorithms</li><li>Programmable and configurable data acquisitions systems</li><li>Highly secure authentication and encryption systems, such as secure booting, secure data collection, bidirectional authentication mechanisms</li><li>User interface and conduct applications programming</li><li>Bluetooth Low Energy wireless connectivity</li><li>Real-time data visualization using custom Qt Widgets for data collection systems</li><li>Robust and fault-tolerant wireless data transfer and synchronization between multiple devices in unpredictable environments<br></li></ul>Architecting the firmware system design<br><br>Ensure high reliability suitable for verification and validation<br><br>What You Need for this Position<br><br>Bachelor's Degree in Computer Science or a related field<br><br>5+ years of Software Engineer experience<br><br>Implement secure data streaming and synchronization over BLE/USB<br><br>Implement streaming and synchronization using REST APIs<br><br>Support group efforts toward high quality documentation<br><br><strong><u>Knowledge Of Or Experience In The Following<br></u></strong><ul><li>C/C++ programming</li><li>Object oriented programming</li><li>Design patterns</li><li>Computer architecture, memory organization</li><li>Code optimization and code debugging</li><li>Firmware development</li><li>Bluetooth Low Energy (BLE)</li><li>Near Field Communications (NFC)</li><li>USB device interfaces (libUSB)</li><li>TCP/IP and REST APIs</li><li>Encryption (AES)</li><li>Distributed systems</li><li>Software testing methods (unit testing, integration testing<br></li></ul>Familiarity with Qt, Linux systems and implementing applications that communicates with firmware<br><br>Knowledge of QMS, FDA design controls and GMP regulation<br><br>Experience working in both large structured and small entrepreneurial organizations<br><br>For your hard work and dedication earn a generous salary, bonus and stock option along with a comprehensive benefits package including 401k and much more.<br><br>Relocation assistance could be available for an ideal candidate.<br><br><strong><u>Email Your Resume In Word To<br><br></u></strong>Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:<br><br>Nyna.Goldberg@CyberCoders.com<br><ul><li>Please do NOT change the email subject line in any way. You must keep the JobID: linkedin : NG-1641839 -- in the email subject line for your application to be considered.***<br></li></ul>Nyna Goldberg - Principal Recruiter - CyberCoders<br><br>Applicants must be authorized to work in the U.S.<br><br><strong>CyberCoders, Inc is proud to be an Equal Opportunity Employer<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.<br><br><strong>Your Right to Work</strong> - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:38:27.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67100,
+    "max_value": 85100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lake Forest",
+    "region": "CA",
+    "postal_code": "92609",
+    "street_address": null,
+    "latitude": 33.66746,
+    "longitude": -117.6885
+  }
+}

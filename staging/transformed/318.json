@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Systems Engineer",
+    "industry": "Defense & Space,Information Technology and Services,Electrical/Electronic Manufacturing",
+    "description": "The Naval Nuclear Laboratory is seeking a highly motivated Data Systems Engineer to support transitioning testing to an agile and modern approach with focus on supporting multiple platforms (e.g. bench top experiments, medium sized portable test stands, large scale mockups)! New testing needs will require the development of various data acquisition systems (DAS) solutions utilizing commercial and custom designs to fit the scale of testing.<br><br>The DSE unit is responsible for developing and maintaining DAS to provide high quality and timely test data to the Knolls Atomic Power Laboratory (KAPL) testing community.<br><br>Responsibilities of this position include, but are not limited to:<br><br><ul><li>Software development for data management (e.g. retrieval and storage, data processing, network routing) and system interfaces</li> <li>Working with a team of software developers to drive software quality and lifecycle management through software documentation, reviews testing and maintenance</li> <li>The design/interface/troubleshooting of electrical systems to measure analog and digital signals from pressure and temperature detectors and other process control equipment across an unclassified network</li> <li>Frequent integration with operations and test sponsor communities to ensure satisfactory data and understand opportunity to simplify, innovate and modernize systems</li> <br><br></ul>If you are interested in being part of a team that does challenging yet rewarding work from concept to completion, apply today!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:27:52.000Z"
+  },
+  "company": {
+    "name": "Naval Nuclear Laboratory (FMP)",
+    "link": "https://www.linkedin.com/company/naval-nuclear-laboratory-bmpc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Niskayuna",
+    "region": "NY",
+    "postal_code": "12008",
+    "street_address": null,
+    "latitude": 42.805782,
+    "longitude": -73.896965
+  }
+}

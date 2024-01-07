@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Machine Learning Engineer",
+    "industry": "Health, Wellness and Fitness,Pharmaceuticals,Retail",
+    "description": "<strong><u>Job Summary<br><br></u></strong>Builds &amp; maintains machine learning and big data pipelines to support advanced analytics, data science, and AI/ML solutions.<br><br><strong><u>Job Responsibilities<br></u></strong><ul><li> Assists in development of software that processes, stores and serves data and machine learning models for use by others.</li><li> Assists in development of data structures and pipelines to organize, collect and standardize data that helps generate insights and intelligence to support business needs.</li><li> Writes ETL (Extract / Transform / Load) or ELT processes, designs data stores and develops tools for real-time and offline analytic processing on premise or on cloud infrastructure.</li><li> Assists in development of data and ML pipelines that are scalable, repeatable and secure</li><li> Assists in troubleshooting software and processes for data consistency and integrity. Integrates data from a variety of sources, assuring that they adhere to data quality and accessibility standards.</li><li> Escalates problems and roadblocks as they occur</li><li> Interacts with team members and peers and may interact with external peers to provide semi-routine information related to assigned tasks.<br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor's degree</li><li>Experience establishing and maintaining key relationships with internal (peers, business partners and leadership) and external (business community, clients and vendors) within a matrix organization to ensure quality standards for service.</li><li>Willing to travel up to 10% of the time for business purposes (within state and out of state).<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Knowledge of SQL or programming skills in one or more of the following: Python, C, C++, Spark, Scala, and/or Java</li><li>Exposure to Azure</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T16:45:12.000Z"
+  },
+  "company": {
+    "name": "Walgreens",
+    "link": "https://www.linkedin.com/company/walgreens"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

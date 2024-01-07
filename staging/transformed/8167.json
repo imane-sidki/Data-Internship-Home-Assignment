@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "We're looking for software engineers, either frontend, backend, or full stack. On the frontend, we mostly use react while on the backend we use python/Django. <br><br>We're also looking for AI scientists, whether general purpose, computer vision, natural language, or more traditional ML techniques. <br><br>Reach out on here or via email at tkoby@artisight.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T03:01:25.000Z"
+  },
+  "company": {
+    "name": "Artisight",
+    "link": "https://www.linkedin.com/company/artisight"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

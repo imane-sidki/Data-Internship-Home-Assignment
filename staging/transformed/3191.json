@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Telecommunications,Information Technology and Services",
+    "description": "<p>Job Title: Software Engineer 5</p><p>Location: Mountain View, CA (100% Remote is an option for this role as long as the candidate can work PST time zone)</p><p>Role: Full Time</p><p><br></p><p>Job Responsibilities</p><p>Requirements:</p><p>\u2022 6+ years of professional experience as a Sr. Software Engineer</p><p>\u2022 4+ years of solid experience in Ruby on Rails with experience in libraries like Resque and RSpec</p><p>\u2022 Experience with GrapQL is a big plus</p><p>\u2022 Experience in ReactJS/Redux JavaScript frameworks, Ad experience a plus</p><p>\u2022 Experience in JavaScript, HTML5, CSS3, and other core web technologies</p><p>\u2022 Experience in consuming REST APIs in JavaScript/NodeJS</p><p>\u2022 Experience in SCM Source Code Management systems and tools, such as GIT</p><p>\u2022 Strong knowledge in Computer Science foundations</p><p>\u2022 BS/MS in Computer Science/Engineering or equivalent experience</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T16:48:46.000Z"
+  },
+  "company": {
+    "name": "Larsen &amp; Toubro",
+    "link": "https://in.linkedin.com/company/larsen-&amp;-toubro-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Semiconductors",
+    "description": "<strong><strong>At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. <br><br></strong></strong>Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality.<br><br>Cadence customers are the world\u2019s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.<br><br>We are looking for a talented, motivated software engineer to work with the R&amp;D team on developing high-performance software. You will be responsible for design, implementation, and optimization of infrastructure and abstraction layers for running the physical verification software, with the focus on performance, reliability, and distribution.<br><br><strong><u>Job Requirements<br><br></u></strong>Excellent programming skill in C/C++<br><br>Must have excellent verbal, written and interpersonal communication skills to work with geographically distributed team.<br><br>Desire to learn and deliver with highest quality is a must.<br><br>Knowledge of advanced process and physical verification product (especially LVS - layout vs. schematic) are pluses<br><br>Experience with scripting languages (Python and/or Tcl, nice to have<br><br>The position requires Master in Computer Science or Engineering, or equivalent<br><br><strong> <strong>We\u2019re doing work that matters. Help us solve what others can\u2019t.</strong></strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:20:54.000Z"
+  },
+  "company": {
+    "name": "Cadence Design Systems",
+    "link": "https://www.linkedin.com/company/cadence-design-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 119000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

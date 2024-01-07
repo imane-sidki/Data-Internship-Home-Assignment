@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "RiskIQ, which is part of Microsoft's Cloud Security team. RiskIQ is the leader in attack surface management, providing the most comprehensive discovery, intelligence, and mitigation of threats associated with an organization\u2019s digital presence. With more than 75 percent of attacks originating outside the firewall, RiskIQ allows enterprises to gain unified insight and control over web, social and mobile exposures. RiskIQ\u2019s platform combines advanced internet data reconnaissance and analytics to expedite investigations, understand digital attack surfaces, assess risk, and take action to protect the business, brand, and customers.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Design and develop features as part of delivering our Communication Platform.</li><li>Adhere to and drive modern software engineering practices through design and code reviews.</li><li>System design through well-defined interfaces across multiple components, code reviews, leveraging data/telemetry to make decisions.</li><li>Develop \u201cbest-in-class\u201d engineering for our services by ensuring that the services and the components are: well-defined and modularized, secure, reliable, diagnosable, actively monitored and reusable.</li><li>Improve test coverage for services, organize and implement integration tests, and resolve problem areas.</li><li>Consider testability, portability/monitoring, reliability, and maintainability, and understand when code is ready to be shared and delivered.</li><li>Gain a working understanding of Microsoft as a business and collaborate with mentors and leaders in order to contribute to cohesive, end-to-end experiences for our users.</li><li>Focus on customer/partner needs through a data driven approach.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Significant Coding experience Java, Python, Bash or other equivalent </li><li>Mastering CI\\CD concepts and hands on implementations experiences </li><li>3+ years of Linux hands on system experiences </li><li>3+ years of a mix of coding/testing/Integration experience </li><li>Proven experience with building services, supportability, and monitoring Infrastructures </li><li>Ability to manage, proof of concept and deliver multiple project phases at the same time </li><li>Strong analytical and problem solving and organizational skills </li><li>Excellent written and oral communication skills </li><li>Ability to deal with the ambiguity associated with working in a fast-paced and changing environment. </li><li>Leadership skills: Sound problem resolution, judgment, negotiating and decision-making skills. </li><li>Feedback/Metrics collection techniques to expose live site/service issues </li><li>Support a 24x7 live site support model for the services the team owns <br></li></ul><strong><u>Preferred Experiences And Technologies<br></u></strong><ul><li>Kubernetes, and the Kubernetes satellite technologies </li><li>Hadoop and/or HBase experience </li><li>Spark, Data Lake or hands on big data platform pipeline development (Ex. Azure Data Factory, Data Explorer/Kusto, Data Bricks, Spark) </li><li>Azure DevOps and GitHub tooling </li><li>Data mining or data science experiences utilizing Big Data and\\or relational data bases technologies </li><li>Excellent communication skills and ability to collaborate in a multi-disciplinary team consisting of Software Engineers, Program Managers, Security researchers, and Data Scientists </li><li>Development experience with cloud platforms such as Microsoft Azure <br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-13T04:33:20.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 195000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

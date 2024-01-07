@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Defense & Space,Telecommunications",
+    "description": "Bigger challenges. Bolder ideas. Global impact. At Viasat, we\u2019re on a mission to deliver connections with the capacity to change the world. We\u2019re the company behind the world\u2019s fastest satellite internet service, with technology that\u2019s helping to bridge the digital divide and improve life for our customers around the globe. By providing powerful new ways for people to connect with one another, gain greater access to education, entertainment, medical research, commerce, and much more, our team is empowering millions of customers worldwide.<br><br>We\u2019re looking for passionate, innovative professionals to join our team and connect the world to more. You\u2019ll work in a collaborative and inclusive environment that values diverse perspectives and continuous learning, and provides industry-leading benefits with unmatched opportunities for career growth. Our team is fearless in pursuit of new ideas and uncompromising in our quest to become the world\u2019s first truly global Internet Service Provider. Interested in joining our mission? Take a look at career opportunities at Viasat today.<br><br>Job Responsibilities<br><br>The Customer Engineering team is a group of highly technical engineers who are tasked with maintaining and developing the reliability, scalability and performance of the Service to different Enterprise Customers . The Customer Engineering Team is empowered to drive technical resolutions across the technology stack from hardware through to application and all stops in between. Team is also responsible to build and maintain Alerts to proactively monitor the service. Team acts as the technical Liaison between Customer facing teams and the Engineering teams.<br><br><strong><u>As a Site Reliability Engineer , You Will<br></u></strong><ul><li> Identify and investigate potential and actual customer performance problems, recommend and prioritize remediation, and assess effectiveness of remediation actions </li><li> Participate in and provide feedback on product design, especially with regard to reliability and availability </li><li>Drive initiatives with partner teams to improve the reliability and performance of the Service through improved system design</li><li>Drive a culture of intolerance to manual activity which results in a highly automated environment delivering scalable solution</li><li>Work Closely with Customer facing teams ( Technical Account Mangers and Program Teams) to understand and prioritize the Customer issues</li><li>Drive monitoring and automation initiatives</li><li>Create and present Performance reports for technical and management stakeholders</li><li>Work closely with Engineering teams to communicate and prioritize the service impacting issues</li><li>Be part of on-call rotations<br><br></li></ul><strong><u>Requirements<br></u></strong><ul><li> 5+ years experience in troubleshooting and triage of technical issues in a fast paced environment, to support customers. </li><li>5+ years experience in Network Operations or Product Support</li><li>Advanced knowledge of modern programming languages, especially Python</li><li>An ability to understand large complex systems and a passion to constantly improve environments</li><li> Strong networking knowledge: TCP/IP, IPSEC, VPN, NAT, Routing Protocols, AAA </li><li>Set priorities and work efficiently in a fast-paced environment</li><li>Demonstrated ability to deliver results on time with high quality and attention to detail</li><li>Demonstrated ability to work with ambiguous requirements, adapt, and learn</li><li>Experience with data analytics tools(Splunk, Kibana) </li><li>Keen (data-driven) decision making skills under incomplete information</li><li>Excellent face-to-face and remote customer rapport </li><li>Bachelor\u2019s degree in Electrical Engineering, Computer Science, or Computer Engineering </li><li>Up to 10% travel<br><br></li></ul>Preferences<br><ul><li> Experience analyzing data and trending to gain operational efficiencies </li><li> Telecom or related operational service experience, especially wireless networks </li><li> Previous technical role in a DevOps/SRE workflow </li><li> Experience with Satcom technology </li><li> Experience/knowledge of Splunk or any Data analytics tool<br></li></ul> ______<br><br>To learn more about this site and other office locations, please click !<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T06:20:20.000Z"
+  },
+  "company": {
+    "name": "Viasat Inc.",
+    "link": "https://www.linkedin.com/company/viasat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Carlsbad",
+    "region": "CA",
+    "postal_code": "92010",
+    "street_address": null,
+    "latitude": 33.16604,
+    "longitude": -117.33793
+  }
+}

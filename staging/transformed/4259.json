@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Services,Information Technology and Services,Computer Software",
+    "description": "<p>Everyone wants a career with impact. Here, you\u2019ll be helping some of the world\u2019s most renowned and ambitious companies build winning cloud platforms.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Work with customers to define, design, and develop complex, multi-tier distributed software applications on cloud platforms ( AWS / GCP)</li><li>Passionate about mentoring team members and bringing in new technologies within the larger team.</li><li>Work hands-on with cloud native services to demonstrate and prototype outcomes in customer/partner environments.</li><li>Work in a supportive environment with many growth opportunities.</li></ul><p><br></p><p><strong>Technical Requirements:</strong></p><ul><li>3+ years of experience with Java and Spring Boot framework.</li><li>Experience building, architecting, designing and implementing highly distributed global cloud-based systems on either AWS or GCP</li><li>Experience building or integrating with Continuous Integration/Delivery process.</li><li>Experience implementing platform components such as RESTful APIs, Message Queues Systems, Observability Services, State Management Systems, Caching etc.</li><li>Hands-on micro services architecture experience using Spring boot, Docker and Kubernetes</li><li>Expertise with the AWS or GCP cloud native services</li><li>Self-starter and strong, quick problem solving skills.</li><li>Ability to communicate with clients on a business level and translate their needs into a technical solution.</li><li>Bonus if you have experience with both AWS and GCP</li><li>Bonus if you have experience with Google Kubernetes Engine</li><li>Bonus if you are familiar with provisioning and automating infrastructure with infrastructure as code tool such as Terraform or Cloud Formation.</li><li>Bonus if you have experience using Anthos, BigQuery, BigTable, TensorFlow.</li></ul><p><br></p><p><strong>Benefits Include:</strong></p><ul><li>Competitive compensation.</li><li>Generous benefits.</li><li>Flexible vacation and PTO policies (we have a minimum vacation policy in fact!)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:58:56.000Z"
+  },
+  "company": {
+    "name": "Experienced Recruiting Partners, LLC.",
+    "link": "https://www.linkedin.com/company/experienced-recruiting-partners-llc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

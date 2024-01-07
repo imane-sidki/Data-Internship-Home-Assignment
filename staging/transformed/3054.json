@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Product",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "DoorDash is building the world's most reliable on-demand, logistics engine for delivery! We're looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7, global infrastructure system that powers DoorDash\u2019s three-sided marketplace of consumers, merchants, and dashers.<br><br>Product engineers work at the intersection of product and infrastructure to solve key business problems with elegant technical solutions. You'll operate our backend services and architecture that support all product functionality and will be challenged to consider the big picture -- collaborating cross-functionally, as well as evaluating and executing on trade-offs to maximize business impact for the company.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Develop, release and run large-scale web applications</li><li>Develop and define the backend architecture and tech stack for a product area</li><li>Improve performance, reliability, scalability and security for our backend systems</li><li>Be involved in transitioning our monolithic codebase to a microservice-based architecture</li><li>Completely disrupt logistics by tackling bleeding-edge, technical problems<br></li></ul><strong><u>What We're Looking For<br></u></strong><ul><li>B.S., M.S., or PhD. in Computer Science or equivalent</li><li>5+ years of industry experience</li><li>Prior experience working with backend tech stacks</li><li>Able to analyze and improve efficiency, scalability, and stability of various system resources</li><li>Experience with service oriented architecture, writing REST API\u2019s, unit testing, and architectural design</li><li>Understanding of modern web stacks and architecture (HTTP, REST)</li><li>Experience with SQL and NoSQL databases and other technologies (e.g. Postgres, Redis, Elasticsearch, RabbitMQ)<br></li></ul><strong>Nice To Haves<br></strong><ul><li>Experience building large scale, real-time applications</li><li>Experience with Java/Kotlin</li><li>Contributor to open source projects<br></li></ul><strong>Why You\u2019ll Love Working at DoorDash<br></strong><ul><li>We are leaders - Leadership is not limited to our management team. It\u2019s something everyone at DoorDash embraces and embodies.</li><li>We are doers - We believe the only way to predict the future is to build it. Creating solutions that will lead our company and our industry is what we do -- on every project, every day. </li><li>We are learners - We\u2019re not afraid to dig in and uncover the truth, even if it\u2019s scary or inconvenient. Everyone here is continually learning on the job, no matter if we\u2019ve been in a role for one year or one minute.</li><li>We are customer obsessed - Our mission is to grow and empower local economies. We are committed to our customers, merchants, and dashers and believe in connecting people with possibility.</li><li>We are all DoorDash - The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights. </li><li>We offer great compensation packages and comprehensive health benefits.<br></li></ul><strong><u>About DoorDash<br><br></u></strong>DoorDash is a technology company that connects customers with their favorite local and national businesses in all 50 US states, Canada, and Australia. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash blog or at www.doordash.com.<br><br><strong>Our Commitment to Diversity and Inclusion<br><br></strong>We\u2019re committed to growing and empowering a more inclusive community within our company, industry, and cities. That\u2019s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.<br><br>Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.l",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:15:03.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

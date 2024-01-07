@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Biotechnology",
+    "description": "<p>As an ML Engineer, you will assist with the development of the model training and evaluation infrastructure. You will work closely with data scientists to experiment on model architecture and take them into production. You'll build, maintain and improve data processing pipelines that process billions of data points and petabytes of data. You'll work in an interdisciplinary team composed of data scientists, bioinformaticians, biologists, and software engineers to help solve hard problems which improve biological research and, ultimately, health outcomes across all of biology.</p><p><br></p><p>Minimum Qualifications</p><ul><li>This is an on-site position -- not remote. Work from home as appropriate.</li><li>Bachelor\u2019s in computer science, data science, or equivalent</li><li>Expertise in working with at least one deep learning framework, such as PyTorch, TensorFlow, Caffe.</li><li>Strong analytical and problem-solving skills</li><li>Ability to understand and execute the company\u2019s mission and values</li><li>Maintain a high degree of ethical standard and trustworthiness</li><li>Strong technical written and oral communication skills</li></ul><p><br></p><p>Preferred Qualifications</p><ul><li>2+ years\u2019 software development experience</li><li>Proficient in Python</li><li>Experienced in cloud providers such as GCP or AWS</li><li>Experienced in working with ETL pipelines.</li><li>A track record for delivering Machine Learning projects for a product</li><li>Excellent written and verbal communication skills</li><li>Strong and proactive communication, natural curiosity. Ambition to apply skills to a wide variety of fields</li><li>Be able and open to pick up new skills, work with 3rd party technologies and devices</li></ul><p><br></p><p>This role is NOT remote - Work from home Flex</p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-24T22:11:58.000Z"
+  },
+  "company": {
+    "name": "Harnham",
+    "link": "https://uk.linkedin.com/company/harnham"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

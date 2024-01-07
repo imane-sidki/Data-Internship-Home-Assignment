@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE), Apple Cloud Services",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>People at Apple don\u2019t just build products \u2014 they craft the kind of experience that have revolutionized entire industries. The diverse collection of our people  and their ideas inspire innovation in everything we do. Imagine what you could do here! Join Apple, and help us leave the world better than we found it. The Apple Cloud Services (ACS) team builds and provides systems and infrastructure that fuel Apple\u2019s services (such as iCloud, iTunes, Siri, and Maps). We are the foundation on which Apple\u2019s software developers build the products that our customers love. We are looking for passionate and talented Site Reliability Engineers to continue our focus in providing our customers the highest quality Apple Services experience. Our services have to scale globally, stay highly available, and \"just work.\u201d If you love designing, engineering and running systems and infrastructure that will help millions of customers, then this is the place for you!<br><br> <br><strong>Key Qualifications<br></strong> <br>Strong sense of ownership and integrity demonstrated through clear communication and collaboration<br><br>Experience in managing and scaling distributed systems in a public, private, or hybrid cloud environment<br><br>The ability to design, author, and release code in languages like Go, Python, Ruby or Java<br><br>Acute drive to automate manual operations and to improve them through repeated iteration<br><br>Understanding of the Linux Operating System, standard networking protocols, and components<br><br>Hands-on experience managing large numbers of diverse systems with configuration management or software delivery platforms (such as Puppet, Chef, Ansible, and Spinnaker)<br><br>Experience with deploying, supporting and monitoring new and existing services, platforms, and application stacks<br><br>Excellent troubleshooting and problem solving skills<br><br>Experience with scale testing, disaster recovery, and capacity planning<br><br>Familiarity with microservices architecture and container orchestration with Kubernetes<br><br> <br><strong>Description<br></strong> <br>Apple Cloud Services infrastructure is BIG. Operating at our scale, across multiple geographically dispersed data centers and servicing hundreds of millions of users presents unique challenges. As an SRE at Apple, you'll need to solve these problems using data, teamwork, and your own expertise. SREs at Apple own the full infrastructure stack; from device driver performance debugging to content delivery network traffic management \u2014 our responsibilities are both broad and deep.<br><br>ACS runs the majority of its systems on Linux. We run a mix of open source, vendor licensed, and internally developed tools to perform functions such as system configuration management, provisioning, software deployment, logging, and monitoring. You'll learn these tools and have opportunities to improve them. Our team is collaborative; we work closely with the development teams we support to deliver the best results for Apple. We think critically and strive to balance the best solution with the need to get things done for each engineering challenge we face. Good ideas are heard and results are rewarded.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>- BS/MS in Computer Science or Equivalent (5+ years of software development or production operations experience in a large-scale environment)<br><br> <br>Role Number: 200262376<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T06:28:06.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

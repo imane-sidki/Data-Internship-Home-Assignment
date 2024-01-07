@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Engineer 1",
+    "industry": "Electrical/Electronic Manufacturing,Automotive,Mechanical or Industrial Engineering",
+    "description": "The Mobility team is building the cloud platform for DENSO's next generation of Connected Car technology. It will also deliver new services to our customers, simplifying the car sharing experience. In this role, you will have the opportunity to build backend systems that can process requests from our Telematics devices and various consumer/enterprise apps.<br><br>Surrounded by engineers experienced in building systems, apps, and computer science in general, you will grow your technical skills as well as have an impact on tomorrow's shared mobility solution.<br><br><strong><u>What You'll Be Doing<br></u></strong><ul><li> Collaborate with cross-functional teams to define, design, and create services and API's that support innovative user experiences. </li><li> Help define and shape our backend architecture </li><li> Scale the platform and build out new features. </li><li> Contribute to the frontend when needed, developing new skills as needed. </li><li> Create documentation to showcase work and support external and internal customers. <br></li></ul><strong><u>Core Qualifications<br></u></strong><ul><li> Computer Science, Engineering or equivalent degree </li><li> Minimum 5 years of experience as a software engineer </li><li> Expertise in one or more object oriented programming language (e.g. Python, Java, C++, C#). </li><li> Experience developing backend services and RESTful APIs. </li><li> Experience building services for systems at scale. </li><li> Experience with large-scale distributed storage and database systems (SQL or NoSQL, e.g. MySQL, Cosmos DB). <br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> MS in Computer Science, Mathematics or Engineering. </li><li> 3+ years of experience developing backend services and RESTful APIs. </li><li> Experience in web and/or mobile application development. </li><li> Experience building frontend code. </li><li> Experience with machine learning (e.g. TensorFlow), information retrieval, algorithmic complexity, data mining, and optimization. </li><li> Familiarity with PaaS and SaaS (AWS, Heroku, Azure, Google Cloud) </li><li> Take ownership in your work, and understand the need for code quality, elegance, and robust infrastructure. <br></li></ul><strong><u>About DENSO<br><br></u></strong>DENSO is an advanced mobility supplier and global Fortune 500 company. Here, we innovate, create and make things to change how the world moves. We develop technology and components for major automakers worldwide, which you can find on nearly every vehicle make and model on the road today.<br><br>At our core, DENSO wants to make the world a better place. And, we have the ability to do so using our broad product portfolio, which spans mobility electronics, thermal systems, electrification systems, powertrain systems, sensors &amp; semiconductors, and non-automotive businesses.<br><br>We\u2019re far reaching: Globally headquartered in Japan, we have 170K+ employees across 221 facilities in 35 countries across the globe. Here in North America, our headquarters is in Southfield, Michigan. Last year, we had $47.6 billion in global consolidated revenue with North America contributing $10.9 billion.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:29:20.000Z"
+  },
+  "company": {
+    "name": "DENSO",
+    "link": "https://jp.linkedin.com/company/denso"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Southfield",
+    "region": "MI",
+    "postal_code": "48037",
+    "street_address": null,
+    "latitude": 42.480198,
+    "longitude": -83.241
+  }
+}

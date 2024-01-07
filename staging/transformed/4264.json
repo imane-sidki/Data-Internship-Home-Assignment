@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "ALLOY\u2019s engineering team provides software development and technical expertise to solve practical, real-world problems and build high-end, world-class customer experiences. We maintain existing products, architect new ones, estimate effort and provide informed opinions around what\u2019s possible, reasonable and feasible. We strive to incorporate more DevOps practices into our work every day and to continually leverage the latest cloud computing services. Our engineers are fearless, aggressive makers and problem solvers. We love to combine talents to overcome the obstacles that strike fear in the hearts of most shops. We learn something new every day and never shy away from conversations, music recommendations, or new ideas.<br><br><strong><u>What You Will Do<br></u></strong><ul><li>Develop and enhance a suite of applications written in C# and SQL Server, hosted in AWS</li><li>Implement new features and bug fixes and support them through testing and deployment</li><li>Migrate legacy, server based applications onto serverless platforms and managed services</li><li>Research and pinpoint issues in complex systems with lots of moving pieces</li><li>Develop CI/CD pipelines and automated tests to ensure your applications are always in a deployable state<br></li></ul><strong><u>Requirements<br><br></u></strong><strong>What we definitely need <br></strong><ul><li>Takes pride in writing clean, elegant code</li><li>Knowledgeable of modern software platforms, patterns, and practices</li><li>Strong understanding of web protocols such as TCP, HTTP, and REST</li><li>Detail oriented</li><li>Able to explain complex concepts in simple terms</li><li>Ability and desire to quickly learn new technology</li><li>Strong troubleshooting/debugging skills</li><li>C#</li><li>ASP.NET MVC</li><li>Javascript frameworks such as Node.js, React, and Vue</li><li>Entity Framework/Dapper</li><li>SQL Server</li><li>AWS</li><li>Git<br></li></ul><strong>Nice to haves <br></strong><ul><li>Bachelor of Science in CS or MIS preferred</li><li>SQL/.NET/AWS certification is a plus</li><li>Experience with Agile and Scrum methodology best practices</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T04:34:51.000Z"
+  },
+  "company": {
+    "name": "Alloy",
+    "link": "https://www.linkedin.com/company/alloy-birmingham"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Birmingham",
+    "region": "AL",
+    "postal_code": "35226",
+    "street_address": null,
+    "latitude": 33.522858,
+    "longitude": -86.80771
+  }
+}

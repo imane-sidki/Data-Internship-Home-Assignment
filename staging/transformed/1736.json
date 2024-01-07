@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux Engineering - open source, remote",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.<br><br>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.<br><br><strong><u>Job Summary<br><br></u></strong>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.<br><br>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.<br><br>As a Linux Engineer you will:<br><ul> <li>Resolve complex customer problems related to Ubuntu, Kernel, or Ceph</li> <li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li> <li>Participate in upstream communities</li> <li>Develop fixes, backport patches, and work with upstream for inclusion</li> <li>Demonstrate good judgement in technical methods and techniques</li> <li>Prioritise work and manage your time effectively against those priorities</li> <li>Participate in team discussions to improve processes, tools, and documentation</li> <li>Maintain clear, technical and concise communications</li> <li>Travel internationally up to 10% of work time for team meetings, events and conferences</li> <br></ul>The successful Linux Engineer will have:<br><ul> <li>Professional experience as a software engineer is required</li> <li>Bachelor's or equivalent in Computer Science, STEM or similar degree</li> <li>Strong experience with Linux, Ceph, OpenStack, Kubernetes or other cloud technologies</li> <li>Strong development-level experience with Python, Go, C or C++ on Linux</li> <li>Ability to troubleshoot with gdb and other tools</li> <li>Familiarity with git source code repositories and branches</li> <br></ul>What you'll do<br><ul> <li>Collaborate proactively with a distributed team</li> <li>Debug issues and produce high quality code to fix them</li> <li>Review code produced by other engineers</li> <li>Discuss ideas and collaborate on finding good solutions</li> <li>Work from home with global travel 2 to 4 weeks per year for internal and external events</li> <br></ul>Who you are<br><ul> <li>You love technology and working with brilliant people</li> <li>You are curious, flexible, articulate, and accountable</li> <li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li> <li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li> <br><br></ul><strong><u>About Canonical<br><br></u></strong>Canonical is a growing multi-national software company that works with the open-source community to deliver Ubuntu -- the world's leading cloud operating system. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.<br><br>We offer:<br><ul> <li>Learning and personal professional development budget</li> <li>Annual compensation review</li> <li>Recognition rewards</li> <li>Annual leave</li> <li>Generous parental leave</li> <li>Priority Pass for travel</li> <br></ul><em>Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world's computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br></em>#stack<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:07:06.000Z"
+  },
+  "company": {
+    "name": "Canonical",
+    "link": "https://uk.linkedin.com/company/canonical"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "PA",
+    "postal_code": "15419",
+    "street_address": null,
+    "latitude": 40.067097,
+    "longitude": -79.89491
+  }
+}

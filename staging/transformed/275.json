@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br><br></em><strong> Job Category </strong>Products and Technology<strong> Job Details </strong><ul><li></li><ul><li>The Einstein Platform group is looking for a Software Engineer to work on the machine learning pipelines that power Einstein Recommendation Builder (ERB), a general-purpose engine that can recommend anything to anyone, on-demand. Whether our customers are interested in recommending products to users, jobs to applicants, parts to work orders, with ERB our customers can forget about the engineering complexity, focus on their business needs, and customize their recommendations as they will. You can watch this short video to learn more about ERB: https://salesforce.vidyard.com/watch/zUg845rTevXiv7T3S6Ezdz . Einstein Platform helps customers derive immediate business value by tapping into the power of advanced algorithms in an intuitive, secure, and scalable platform. Our mission is to empower technical experts in building data science solutions by removing the engineering complexity out of their way and to help non-technical users by building explainable, ML-driven plug-and-play solutions for their businesses. You will be working alongside a great group of machine learning and software engineering experts to:</li><ul><li></li><ul><li>Define and build interfaces for new machine learning problems,</li><li>Add functionality to existing models in Einstein Platform Apps and</li><li>Contribute directly to the Einstein platform that powers 1000s of models and billions of predictions daily in production today!</li></ul></ul><li>Required Skills</li><ul><li>You have industry experience with writing code (e.g. Spark, python, Scala, Java) and taking machine learning models to production. Preference for 4+ years of industry experience. The ideal candidate would have previous experience developing distributed systems powering ML products. Fluency in Python and Java or Scala would help you become immediately productive. However, programming languages are no barriers to a motivated, self-driven and scrappy software engineer.</li><li>You have to love data - this is what we do. We are looking for people who are excited about different and unique data sets, and all the ways that they could be used in order to improve user experience.</li><li>Strong customer focus and service orientation.</li><li>You are metrics-driven and run end-to-end experiments to evaluate model efficacy.</li><li>You are team and customer-oriented, you go the extra mile to identify problems that need solving, and work with others to resolve them.</li><li>You enjoy learning - we face new challenges every day, anything that ranges from the operating model of a financial services companies to how to make Spark work with the S3 file system</li><li>Experience in building software on AWS cloud computing such as EMR, S3, and are comfortable learning and working with custom services.</li><li>Experience writing and running production-level code (e.g. Scala, Spark, Python, Java)</li><li>Proven track record in building products on some production-grade systems.</li></ul></ul></ul><strong> Accommodations <br><br></strong>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br><br><strong> Posting Statement <br><br></strong>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br><br><u>Salesforce.com</u> and <u>Salesforce.org</u> are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. <u>Salesforce.com</u> and <u>Salesforce.org</u> do not accept unsolicited headhunter and agency resumes. <u>Salesforce.com</u> and <u>Salesforce.org</u> will not pay any third-party agency or company that does not have a signed agreement with <u>Salesfore.com</u> or Salesforce.org.<br><br>Salesforce welcomes all.<br><br>Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T00:44:10.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

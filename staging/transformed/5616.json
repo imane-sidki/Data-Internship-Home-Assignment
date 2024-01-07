@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>COMPANY OVERVIEW</p><p>At Peregrine, we create technology to help governments transform the way they fight crime while building trust with their communities. We do this through openness, accountability, careful policy enforcement, and respect for people\u2019s personal freedoms.</p><p>Our platform fuses disconnected, unstructured data across secure networks and empowers users with highly intuitive interfaces to search, analyze, and collaborate. Customers tell us we help them solve cases that they thought were unsolvable, and allow them to communicate in ways they have never seen before. We are particularly proud to help government agencies solve more crimes while averting wrongful arrests.</p><p><br></p><p>Peregrine has been used to protect children and victims of human trafficking, diffuse organized crime networks, de-escalate hostage scenarios, solve homicide cases, identify serial burglary suspects, and more. Customers use the same platform to facilitate Freedom of Information responses, provide targeted social services for homeless populations, and share data with their community.</p><p><br></p><p>We believe the careful deployment of modern technology to solve hard problems in government will create extraordinary positive change for our society, and we seek teammates who want to be part of our mission.</p><p><br></p><p>WHY US</p><p>Peregrine is set up to build better governance and communities. Focused on emergency response. Accountability, transparency, and operations. Responding to local disasters that otherwise could not be responded to efficiently. Looking for thoughtful engineers, to really get in the mind of the user. Lots of autonomy and ownership in this team. Looking for a partnership mindset. This is the opportunity to join the founding team.</p><p><br></p><p><strong>Our Team</strong></p><p>We are a team of principled and curious entrepreneurs who are motivated by solving hard problems. We trust each other, help each other, and love diving into challenges together. We believe perseverance, curiosity, creativity, humble ethos, and world-class execution are key ingredients to building impactful software.</p><p>We are inspired to work hand-in-hand with public servants. Our customers are our partners; we listen to their needs, learn from their experiences, and develop effective software experiences to help them do their best work.</p><p>Our team is advised by leading experts and industry practitioners in the law enfoWe are looking for strong developers to join our small but growing team. As one of the earliest engineering hires, you\u2019ll take on a lead role with vast ownership across one of our stacks. We are tackling challenging and important problems, and need engineers who can operate well in ambiguity and come to a great solution.</p><p><br></p><p>As an engineering team, we believe strongly that empathy improves our solutions. Seeing people use the product is a priority and the way we get to the right answer. Engineers will have the opportunity to work closely with our team onsite to understand the variety of use-cases that we serve. We value strong ownership on our team, while also being highly collaborative and always seeking input and feedback.</p><p><br></p><p>As part of being a backend engineer, you\u2019ll use a variety of programming languages and technologies to scale our platform to handle terabytes of data being ingested across a variety of data sources. You will work on a wide range of complex challenges, including building a sophisticated sharing model, processing streams of data from multiple sources, efficiently notifying users on data matching specified criteria, andoptimizequeries to serve search results quickly. Our stack is constantly evolving but based on the foundations of Python, Django, Celery, Airflow, PostgreSQL, Elasticsearch, Neo4J, AWS, Terraform, and Ansible.</p><p>About You</p><p><br></p><ul><li>Significant experience working with cross-functional software development teams</li><li>Comfortable navigating large codebases and building distributed systems</li><li>Shipped and iterated on major software components in your professional career, the open-source community, and/or side projects</li><li>Write robust, well tested, and well-designed code that frequently gets deployed to users</li></ul><p><br></p><p>What We Look For</p><ul><li>Strong understanding of architecture and scaling large software systems</li><li>Strong best practices in modern software development such as deployments, CI/CD, data management, and distributed systems</li><li>Excellent technical vision with the ability to synthesize product requests into strong and reliable software components</li><li>Passion for crafting and shipping software solutions that delight users</li><li>Driven and self-disciplined with the ability to own projects from start to finish</li><li>We are committed to creating an inclusive environment for all employees. We celebrate diversity and are a proud equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T00:36:05.000Z"
+  },
+  "company": {
+    "name": "Peregrine",
+    "link": "https://www.linkedin.com/company/peregrine-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

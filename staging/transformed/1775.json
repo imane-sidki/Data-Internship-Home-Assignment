@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Integration Analyst",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Allworth Financial (www.allworthfinancial.com) is an independent investment financial advisory firm that specializes in retirement planning, investment advising, and 401(k) management with a direct approach to financial planning. Allworth Financial delivers long- and short-term investment planning solutions and advice to help clients achieve their goals and plan strategically for retirement.<br><br>Allworth Financial is a high growth, private equity backed, Registered Investment Advisory business, headquartered in Sacramento, CA. The business is a $10 billion firm and is on track for continued growth through both acquisitions and strong organic growth. Allworth Financial was recognized as a Barron's Top 100 RIA in 2020.<br><br><strong><u>Summary<br><br></u></strong>As part of Allworth Financial's growth, the Finance team has created a new Data Integration position reporting to the VP of Analytics &amp; Insights. The ideal candidate must have the following:<br><ul> <li>Strong organizational skills to work independently and with a team, set priorities, plan and coordinate multiple projects while adapting to changing priorities</li> <li>Strong attention to detail and understand how various issues impact the company's overall data environment.</li> <li>Tactful, solid business judgment with the ability to make business-savvy recommendations based on data analyzed</li> <br><br></ul><strong><u>Responsibilities<br></u></strong><ul> <li>Work directly with acquisition targets to conduct due diligence related to acquisition targets' data and infrastructure and report findings to data team</li> <li>Meet with acquisition targets to scope/map data migration and conversions</li> <li>Migrate data from acquisition targets' data platforms and integrate into Allworth's standard reporting structure</li> <br><br></ul><strong><u>Requirements<br></u></strong><ul> <li>Standard understanding of Excel</li> <li>SQL Experience<br><ul> <li>Be able to effectively use joins, case statements, WHERE/GROUP BY/HAVING statements</li> <li>Be able to use aggregate functions: SUM, MIN, MAX for exploratory data analysis</li> <li>Preferably SQL Server experience, but not mandatory</li> </ul> </li> <li>Python Experience<br><ul> <li>Basic understanding of Built in Python features<br><ul> <li>Lists, Dictionaries, etc.</li> <li>List and Dictionary comprehensions</li> <li>Lambda functions</li> <li>Error and exception handling</li> </ul> </li> <li>Experience with Jupyter Notebooks is a plus</li> <li>Deep understanding of Pandas library</li> </ul> </li> <li>Prior experience with Salesforce a plus but not required</li> <li>Ability to work with all levels of management</li> <li>Bachelor's Degree in Finance, Computer Science or similar</li> <br><br></ul><strong><u>Benefits<br><br></u></strong>We value our associates' time and effort. Our commitment to your success is enhanced by our competitive base pay and an extensive benefits package including flexible work arrangements, paid time off, medical and other insurances, Retirement Benefit \u2013 401K and future growth opportunities within the company. Plus, we work to maintain the best possible environment for our associates, where people can learn and grow with the firm. We strive to provide a collaborative, creative environment where each person feels encouraged to contribute to our processes, decisions, planning and culture.<br><br><em>The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. Typical reporting relationships are described, but actual relationships may vary in some instances. This job description is not intended to be an exhaustive list of all responsibilities, duties, skills, or knowledge required of personnel classified in this job.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:13:43.000Z"
+  },
+  "company": {
+    "name": "Allworth Financial",
+    "link": "https://www.linkedin.com/company/allworth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Folsom",
+    "region": "CA",
+    "postal_code": "95763",
+    "street_address": null,
+    "latitude": 38.681324,
+    "longitude": -121.163734
+  }
+}

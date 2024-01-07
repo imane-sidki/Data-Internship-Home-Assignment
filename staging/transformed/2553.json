@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Qualifications:<br>Design, develop, test and implement technology solutions utilizing AWS technologies. Ensure technology solutions comply with enterprise architecture standards and principles while identifying opportunities for application reuse and extensibility. Works with diverse technologies to design, develop (build), test, and implement automated solutions for existing and new software. Provides production support of current applications and collaborates with other developers in order to mature process and reduce technical debt. Collaborates with business areas to develop a thorough understanding of business processes, identify application development solutions, enhance new or existing applications, integrate purchased or System solutions to meet business requirements. Documents, analyzes and resolves problems, tests, implements, provides on-going support and assists in responding to audit reviews and findings for existing applications/software. Applies the appropriate software/system development life cycle methodology; collaborates with others in development work to achieve desired results; provides planning, estimation, and management of medium to high complexity projects using established methodologies and practices. Researches, evaluates, and recommends application programming solutions, identifies ways to reuse existing code, and designs prototypes using current or emerging technologies. Bachelor's degree or equivalent combination of education and experience; major or coursework in Computer Science or Management Information Systems (MIS) is preferred. Minimum of 1-2 years of real world experience in application development using current technology trends and architectural development solutions. Experience with the following technologies is required: AWS Cloud Native Solutions development AWS Serverless Solutions including: Lambda, Dynamo DB, API Gateway Experience with 1 or more functional and typed languages: Typescript, Javascript, C#, JAVA Unit testing frameworks Advanced analytical skills and the ability to manage multiple projects/priorities are needed. Strong oral, written, and interpersonal skills are needed. Must be comfortable working in an iterative development, highly collaborative environment with the ability to lead from various aspects of the SDLC process.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T14:05:51.000Z"
+  },
+  "company": {
+    "name": "TechDigital Corporation",
+    "link": "https://www.linkedin.com/company/techdigital-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Minneapolis-St. Paul Area",
+    "region": null,
+    "postal_code": "55401",
+    "street_address": null,
+    "latitude": 44.981667,
+    "longitude": -93.27795
+  }
+}

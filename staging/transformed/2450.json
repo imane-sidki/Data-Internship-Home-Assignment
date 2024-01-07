@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Construction,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Description<br><br></u></strong><em>Position at Glidewell Dental<br><br></em>Glidewell Dental is an industry-leading provider of dental technology products and services to dental professionals worldwide. Headquartered in Newport Beach/Irvine, CA, the Glidewell campus is home to 3,300 employees and complete with an employee gym, cafeteria, massage therapist, acupuncturist, and of course, a dentist. Glidewell Dental employs over 5,000 employees worldwide and is privately owned.<br><br>So what is a dental company doing with technology?<br><br>Glidewell is dedicated to building the future of dental through additive manufacturing, data science, and even machine learning. We research and develop new innovative products and services for the dental industry at affordable costs. Just ask your dentist!<br><br><strong><u>As a Observability Engineer, You Will<br></u></strong><ul><li>Develops enterprise-wide instrumentation strategy to support real time observability, health checks and remediations.</li><li>Continuously improves observability tools by actively collaborating with Software Engineering to identify and resolve visibility gaps.</li><li>Collaborates with Engineering teams to ensure applications are emitting the right metrics, and debugs issues to better understand how to improve and automate tool visibility, usability and enables them to quickly set up instrumentation.</li><li>Owns APM tools and works to ensure it is setup properly to monitor metrics, traces, and logs.</li><li>Conducts presentations and trains engineers on observability tool usage</li><li>Serves as subject matter expert on Observability.</li><li>Owns monitoring, logging, and alerting.</li><li>Provides advanced troubleshooting skills to resolve technical problems.</li><li>Provides day-to-day support of production critical applications.</li><li>Writes clear, concise code in accordance with the Company\u2019s development standards and best practices when applicable or necessary.</li><li>Creates heartbeats, end-to-end integration tests to ensure applications function according to requirements and Glidewell best practices.</li><li>Creates, automates, and responds to daily operation alerts for the large-scale enterprise corporate network.</li><li>Proactively collaborates with the Company to expand the monitoring environment to develop a specific, early warning monitoring environment.</li><li>Develops operational dashboards and reviews reports tracking key performance indicators (KPIs) and trends to present to team and management.</li><li>Provides analysis and consultation to appropriate teams.</li><li>Promotes automation to replace manual processes, and implement changes to improve processes and workflows.</li><li>Performs preventative maintenance tasks and creates, maintains, and updates runbooks.</li><li>Participates in the development, evaluation, and execution of the company\u2019s strategic plans.</li><li>Collaborates with Product Owners in agile environment to meet project deadlines.</li><li>Provides feedback to Agile Scrum Product Owners on application improvements.</li><li>Monitors/follows up with Agile Scrum team Product Owners on backlog item status.</li><li>Participates in daily Scrum team meetings with developers and product owners to discuss project goals and statuses.</li><li>Participates in ongoing development, patching, and updating of released products through use of Agile process.</li><li>Performs other related duties and projects as business needs require at direction of management.<br></li></ul><strong>Interested in working with us? You will have:<br></strong><ul><li>Bachelor\u2019s degree in Computer Science or Engineering; Master\u2019s degree, a plus.</li><li>Minimum five (5) years of related work experience, or any equivalent education and/or experience from which comparable knowledge, skills and abilities have been demonstrated/achieved.</li><li>Experience with at least two (2) of the following AWS services \u2013 API Gateway, Relational Database Service, ElasticSearch, Lambda, SNS, and Virtual Private Cloud.</li><li>Experience with monitoring systems and APMs including but not limited to SolarWinds, DataDog, AppDynamics, CloudWatch, Dynatrace, and PagerDuty..</li><li>Experience with AIOps, a plus.</li><li>Experience working in a DevOps/SRE culture.<br></li></ul><strong> Note to Current employees: Please apply through Employee Transfer Application to complete the transfer request form.</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:55:14.000Z"
+  },
+  "company": {
+    "name": "Glidewell Dental",
+    "link": "https://www.linkedin.com/company/glidewell"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

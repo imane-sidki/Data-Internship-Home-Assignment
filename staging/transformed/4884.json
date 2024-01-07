@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong>Apex Systems has an immediate need for a Site Reliability Engineer to support one of our largest government clients. It will be 100% remote, but in Oct. employees will be asked to come back on-site in Columbia, Maryland.<br><ul><li>Supporting Portal 24/7 operations, and providing on-call support as needed</li><li>Troubleshooting anomalies as part of Portal system reliability</li><li>Integrating new data sources to enhance the Portal infrastructure monitoring tool</li><li>Supporting the development of new visual aids and enhancing existing visual aids to improve early detection of infrastructure anomalies</li><li>Improving the performance of existing and new monitoring tools</li><li>Supporting the troubleshooting activities to identify the root cause of infrastructure anomalies in a timely manner</li><li>Ensuring the system\u2019s high availability</li><li>Maintaining required Service Level Agreements (SLA)<br></li></ul><strong><u>What You\u2019ll Need<br></u></strong><ul><li>Bachelor\u2019s degree in computer science, information systems, related field or equivalent experience.</li><li>4+ years of experience supporting a 24x7 Internet-oriented production environment, preferably across multiple data centers, involving at least hundreds of servers</li><li>Proficiency in scripting with Python, Perl, or shell</li><li>Thorough understanding of fundamental internet protocols such as DNS, HTTP, and TCP</li><li>Proven experience in various website/infrastructure monitoring tools, such as Chartbeat, ExtraHop, NewRelic, Dynatrace and Splunk</li><li>Familiarity with common open-source infrastructure tools</li><li>Experience with common networking equipment (Cisco, Juniper, F5, etc.)</li><li>Strong understanding of networking protocols</li><li>Experience in fast paced Agile environments using Scrum/Kanban</li><li>Experience in DevOps and Continuous Integration/Continuous Development (CI/CD)</li><li>Candidate must be able to obtain Public Trust clearance and must have lived in the United States at least three (3) out of the last five (5) years<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>US citizen or a Green Card holder</li><li>AWS experience using AWS FedRamp</li><li>AWS System Administration certification(s)</li><li>SAFe certification(s)</li><li>Health Care Industry experience</li><li>Experience utilizing Scrum/Kanban methodologies</li><li>Experience using JIRA</li><li>Proven oral and written skills to communicate with external and internal stakeholders effectively<br></li></ul><strong><u>What Gdit Can Offer You<br></u></strong><ul><li>401K with company match</li><li>Customizable health benefits packages</li><li>Collaborative teams of highly motivated critical thinkers and innovators<br></li></ul>EEO Employer<br><br>Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T17:17:20.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Baltimore",
+    "region": "MD",
+    "postal_code": "21226",
+    "street_address": null,
+    "latitude": 39.290443,
+    "longitude": -76.612335
+  }
+}

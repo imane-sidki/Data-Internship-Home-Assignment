@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Backend)",
+    "industry": "",
+    "description": "Who We Are<br><br>Founded by a group of intrepid ex-SpaceX engineers who want to revolutionize the food industry, Serve Automation is changing the way your favorite food gets delivered. Serve has secured funding from top-tier investors who have invested in companies like Beyond Meat, Lyft, Creator, Blue Bottle Coffee, and Sweetgreen.<br><br>The Serve Automation team is searching for the best and brightest to join our team of rocket scientists turned food automation engineers. Serve is a collaborative work environment \u2013 we all work together to move the company forward as needed. In other words, we all wash dishes! If you love tackling big ideas, working with a stellar team, and eating great food, Serve Automation may be the perfect place for you!<br><br>What You'll Do<br><ul><li>Assume ownership of our high-level kitchen automation software.</li><li>Write and maintain code for our various backend applications including SQL data stores, an API and application layer, vision systems, and robotic system sequencing.</li><li>Develop tools to track machine reliability and regularly report on changes in reliability.</li><li>Improve machine reliability and efficiency through code improvements and through rigorous test suites that exercise the full extent of our hardware and software.</li><li>Develop clear and meaningful requirements with stakeholders via user stories.</li><li>Take the initiative on other roles and tasks the company needs to succeed. Serve Automation is a fast-growing startup.<br></li></ul>What You'll Need<br><ul><li>3+ years of meaningful solo contributor experience as a software engineer.</li><li>Significant experience contributing to the architecture and design (schema design, API patterns, infrastructure, etc) of highly-available distributed systems.</li><li>Experience with at least one modern backend programming language, especially Python or NodeJS.</li><li>Experience interfacing with robotic systems or electrical interface in general.</li><li>Experience with common machine vision libraries and techniques is a plus.</li><li>Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.</li><li>Strong written and verbal communication skills.<br></li></ul>Where You'll Work<br><br>Our office is located in an industrial park in Hawthorne, CA. We're about 1.5 miles from the Crenshaw Station on the Green Line in close proximity to a number of aerospace and manufacturing companies including SpaceX and Triumph. We are situated next to Common Space Brewery and LA Aleworks.<br><br>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:06:26.000Z"
+  },
+  "company": {
+    "name": "Serve Automation",
+    "link": "https://www.linkedin.com/company/serveautomation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

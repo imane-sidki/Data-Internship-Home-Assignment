@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - New Grad 2022",
+    "industry": "Computer Software",
+    "description": "<strong><u>What We're Looking For<br><br></u></strong>Stytch is the platform for user authentication. We make it simple for developers to build complex authentication flows in a matter of minutes. We look for engineers who are excited to think about what to build, not just how to build it, whether that be a new API product, a feature in our developer dashboard, or a new data pipeline.<br><br><strong><u>What Excites You<br></u></strong><ul><li>A collaborative environment with a tight feedback loop between the work you do and the impact it has on users</li><li>Solving problems with pragmatic solutions \u2014 you know when to make trade offs between complexity and shipping quickly</li><li>Shaping the culture and growing the team through recruiting, mentorship, and establishing best practices</li><li>Learning new skills and technologies in a fast paced environment \u2014 as a small start up, things move quickly<br></li></ul><strong><u>What Excites Us<br></u></strong><ul><li>Curiosity and excitement to dive into complex problems</li><li>A degree in Computer Science or similar<br></li></ul><strong><u>What Success Looks Like<br></u></strong><ul><li>Technical \u2014 build foundations that enable our team to create experiences that delight developers and end users</li><li>Ownership \u2014 advocate for projects and solutions that you believe in and ship them to production</li><li>Leadership \u2014 level up your teammates by providing feedback and guidance<br></li></ul><strong>Our Tech Stack<br></strong><ul><li>Go for back end services</li><li>Node and Typescript for our web services</li><li>React on the front end </li><li>Swift for our iOS sdk and Kotlin for the Android sdk</li><li>We run on AWS with Kubernetes for containerization</li><li>gRPC and protobufs for internal service communication<br></li></ul><em>We're looking to hire a GREAT team and that means hiring people who are highly empathetic, ambitious, and excited about building the future of user authentication. You should feel empowered to apply for this role even if your experience doesn't exactly match up to our job description (our job descriptions are directional and not perfect recipes for exactly what we need). <br><br></em><em>We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. We look forward to hearing from you!<br><br></em><strong>Learn more about our team and culture </strong><strong>here</strong><strong>!</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T12:55:07.000Z"
+  },
+  "company": {
+    "name": "Stytch",
+    "link": "https://www.linkedin.com/company/stytch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

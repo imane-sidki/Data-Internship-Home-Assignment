@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Financial Services,Hospital & Health Care",
+    "description": "<strong>McKesson requires new employees to be fully vaccinated for COVID-19 as defined by the CDC, subject to applicable, verified accommodation requests.<br><br></strong>McKesson Corporation is a Fortune 8 company and is one of the largest providers of healthcare supply chain management solutions, retail pharmacy, medical &amp; pharmaceutical supplies, healthcare technology, community oncology and specialty care in the United States with revenues of $231 billion in 2020. The company was founded in 1833 by John McKesson and Charles Olcott in New York with a focus on importing and wholesaling pharmaceutical products. United by our ICARE shared principles, McKesson's 80,000 employees work together every day to make better care possible around the globe - one product, one partner, one patient at a time.<br><br><strong>Current Need<br><br></strong>We are seeking a <strong>Data Scientist</strong> to join our team in <strong>Irving, TX</strong>.<br><br><strong><u>Position Description<br><br></u></strong>At McKesson, we rely on data insights and intelligence to power our systems and solutions. We're seeking an experienced data scientist to understand our business and data, ask the right questions and deliver relevant insights to help the business grow and operate more efficiently.<br><br>Our ideal team member will have the mathematical and statistical proficiency, but also a natural curiosity to learn and adapt. As you mine, interpret, and clean our data, we will rely on you to ask questions, connect the dots, and uncover opportunities that lie within-all with the ultimate goal of realizing the data's full potential. The ideal candidate is adept at using large data sets to find opportunities using a variety of data mining/data analysis methods and tools, building and implementing models, leveraging ML techniques/algorithms and creating/running simulations. They must be comfortable working with a wide range of stakeholders and functional teams.<br><br><strong><u>Key Responsibilities<br></u></strong><ul><li>Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions Identify valuable data sources and automate collection processes</li><li>Undertake preprocessing of structured and unstructured data</li><li>Analyze large amounts of information to discover trends and patterns</li><li>Build predictive models and machine-learning algorithms</li><li>Combine models through ensemble modeling</li><li>Present information using data visualization techniques</li><li>Propose solutions and strategies to business challenges</li><li>Collaborate with engineering and product development teams<br></li></ul><strong><u>Minimum Requirements<br><br></u></strong>Degree or equivalent and typically requires 2+ years of relevant experience.<br><br><strong><u>Critical Skills<br></u></strong><ul><li>Experience in data mining</li><li>Understanding of machine-learning and operations research</li><li>Knowledge of R, SQL and Python</li><li>Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)</li><li>Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks</li><li>Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications</li><li>Familiarity with Scala, Java or C++ is a big plus<br></li></ul><strong><u>Additional Knowledge And Skills<br></u></strong><ul><li>Good written and verbal communication skills for coordinating across teams.</li><li>Problem-solving aptitude<br></li></ul><strong>Education <br></strong><ul><li>Bachelor's in computer science, Engineering or relevant field</li><li>Master's degree in Data Science or other quantitative field is preferred<br></li></ul><strong><u>Physical Requirements<br><br></u></strong>General Office Demands<br><br>Must be authorized to work in the US<strong>. <br><br></strong>We take pride in our culture of connection and believe in a workplace where everyone can be their full, authentic self. We welcome and encourage veterans, individuals with disabilities and others with diverse perspectives to join our growing team. Your unique perspective and experience are valuable assets that can translate into a rewarding career path with us. Apply to join our team and help shape the future of healthcare!<br><br><strong>McKesson is an Equal Opportunity/Affirmative Action employer. <br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.Qualified applicants will not be disqualified from consideration for employment based upon criminal history.<br><br>McKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to McKessonTalentAcquisition@mckesson.com . Resumes or CVs submitted to this email box will not be accepted.<br><br>Current employees must apply through the internal career site.<br><br><strong>Join us at McKesson!</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T00:00:00.000Z"
+  },
+  "company": {
+    "name": "McKesson",
+    "link": "https://www.linkedin.com/company/mckesson"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97700,
+    "max_value": 135000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

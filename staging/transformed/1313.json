@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "",
+    "description": "<p>If you\u2019ve ever wasted a day trying to land a two-line change because you were thwarted by merge conflicts, linting errors, flaky tests, and the myriad other things that can go wrong and thought, \u201cthere has to be a better way\u201d, then we\u2019ve got the role for you! We\u2019re a team of engineers building systems that will remove the friction of everyday software development and are looking for talented engineers to help us get there.</p><p><br></p><p>Trunk is anAndreessen Horowitzfunded dev tools startup with a killer ex-Uber/Google founding team. We\u2019re building a product that will redefine software development at scale.</p><p><br></p><p>We\u2019re still in the early stages of development, so there\u2019s plenty of greenfield to own and projects to take on. We\u2019ll have tons of leadership opportunities as we grow, but right now every person at Trunk is coding all day every day and we have a flat structure.</p><p><br></p><p>We\u2019ve spent enough time inside some of the best and worst development environments to realize there is a better way to build code at scale - and we\u2019d love for you to join us to make it a reality!</p><p><br></p><p><strong>We\u2019re looking for engineers who</strong></p><ul><li>Are product-minded with a strong intuition about making great development environments.</li><li>Create high-quality mockups and prototypes that can grow into products our users love.</li><li>Have a keen sense for intuitive user experiences and good design. We want to build products that just work and feel right.</li><li>Love building user-facing interfaces but are comfortable navigating the full stack and modifying features in backend services.</li><li>Are able to think holistically about system integration and where all of the pieces fit together.</li><li>Believe strongly in the importance of unit and integration tests throughout the entire tech stack.</li><li>Know when to dive deep into a project and when to pull the plug to work around blockers.</li><li>See a problem and want to solve it (after maybe complaining about it).</li><li>Are opinionated about how high-quality software should be written, but never drown out the thoughts of others.</li><li>Solve problems on their own but know when to ask for a helping hand.</li><li>Living in the SF area or are willing to relocate.</li></ul><p><br></p><p><strong>Our Tech Stack(expertise appreciated but not required)</strong></p><ul><li>Typescript</li><li>React + Puppeteer</li><li>Node.js</li><li>gRPC + gRPC-web</li><li>AWS</li><li>C++</li><li>Bazel</li></ul><p><br></p><p><strong>What\u2019s it like to work at Trunk?</strong></p><p>You know that team in your current company that somehow manages to get an outsized amount of work done, while still enjoying their roles; that\u2019s us on some days. Other days we are banging our collective heads against the wall trying to wrangle gRPC + typescript + Bazel to play nicely together. We seriously enjoy the challenge of writing code and building new systems.</p><p><br></p><p><strong>Next steps</strong></p><p>The next step in our process is a project-based assessment on the Hatchways platform.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T15:41:16.000Z"
+  },
+  "company": {
+    "name": "Trunk",
+    "link": "https://www.linkedin.com/company/trunkio"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

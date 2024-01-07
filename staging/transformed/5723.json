@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "<p>TITLE:<strong>Senior Data Engineer \u2013 ETL/ELT, SQL and Python or Java</strong></p><p>LOCATION:This is a remote role.</p><p>PAY: Target pay for this role may vary based on experience and location of the candidate.</p><p></p><p>OVERVIEW</p><ul><li>ProFocus is searching for a Senior Data Engineer with proven experience in ETL/ELT, SQL and Python or Java for a remote, direct hire role.</li><li>This is an Experienced/Senior level Data Engineer role with great compensation and is responsible for developing a world-class analytics capability to enable efficient collection, aggregation, and delivery of data across a wide range of sources.Please email us your resume so we can discuss.</li></ul><p></p><p>WHAT YOU WILL BE DOING</p><ul><li>Lead the development of optimal data pipeline architecture</li><li>Build the infrastructure required for optimal extraction, transformation and loading of data</li><li>Build analytics tools that utilize the data pipeline to provide insights into key business performance metrics</li></ul><p></p><p>WHO WE'RE LOOKING FOR</p><ul><li><strong>5-10 years of experience in SW development or analytics with at least 5 dedicated to data engineering</strong></li><li><strong>Expert knowledge of ETL/ELT and streaming data tools with broad knowledge of open-source tools</strong></li><li>Advanced proficiency in<strong>OOP</strong>(Python preferred)</li><li>Expert knowledge of<strong>SQL</strong>and cloud database administration</li><li>Have strong verbal and written communication skills</li><li>Authorization to work in the US is a precondition of employment. We do not sponsor work visas.</li></ul><p></p><p>PREFERRED</p><ul><li>Bachelor\u2019s degree in<strong>Computer Science, Informatics, Statistics, Information Systems</strong>or demonstrate equivalent experience</li><li>Hand on experience with<strong>graph databases</strong>(Neo4j) preferred</li><li>Provide a strong portfolio with work samples \u2013 GitHub link</li><li>Experience authoring automated ML pipelines is strongly preferred</li></ul><p></p><p>ABOUT OUR CLIENT</p><ul><li>Our client is an established company with an exciting new subsidiary.Their mission is led by technologists and scientists using innovative technology for good.Be a part of this global momentum!</li></ul><p></p><p>WHY ProFocus</p><ul><li><strong>Candidates come first.</strong>ProFocus recently earned the Best in Staffing Award for Talent Satisfaction due to our World-Class service to our amazing candidates.</li><li><strong>Quality process.</strong>We invest the time to learn about your skills, experience, and career goals in detail so we can find you a position that is a great fit.</li><li><strong>Access to hiring managers.</strong>We have close relationships with some of the most respected companies in Portland. Due to those relationships, we can provide direct access to managers and positions that may not be available anywhere else.</li><li><strong>Excellent benefits.</strong>We offer medical, dental, vision, 401k, education reimbursement, sick leave, and employer-paid short-term disability and life insurance.</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:22:39.000Z"
+  },
+  "company": {
+    "name": "ProFocus",
+    "link": "https://www.linkedin.com/company/profocus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oregon",
+    "region": "United States",
+    "postal_code": "97350",
+    "street_address": null,
+    "latitude": 43.938683,
+    "longitude": -120.558105
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>&lt;HIRING AT ALL LOCATIONS IN US FOR ALL LEVELS&gt;</p><p><br></p><p>Are you interested in supporting large-scale distributed infrastructure for the cloud? The <strong>Oracle Cloud Infrastructure (OCI) team</strong> will give you the opportunity to support and operate a suite of massive scale, integrated cloud services in a broadly distributed, multi-tenant cloud environment. OCI is committed to providing the best in cloud products that meet the needs of our customers who are tackling some of the world\u2019s biggest challenges. Our mission is to provide our customers with best-in-class compute, storage, networking, database, security, and an ever-expanding set of foundational cloud-based services. https://cloud.oracle.com/cloud-infrastructure</p><p><br></p><p>We are building a new Software Assurance Gateway team at OCI. Our mission is to build and operate a set of gateway services to perform comprehensive software assurance of the applications running within a tenancy. We are looking for strong Site Reliability Engineer\u2019s to join Software Assurance Gateway team at OCI. You will be taking on the challenge of engineering infrastructure solutions for scale and performance while providing strong guarantees of availability to our customers. Your team will have diverse expertise in systems, networking, and software development to provide the stability, performance and reliability our customers need. You will build tools to address hard operational problems while enabling our service developers to remain agile and deliver feature changes. You will deliver the solutions that directly contribute to our customer\u2019s success.</p><p><br></p><p>A SRE, at OCI, will spend a significant amount of their time doing \"ops\" related work such as production issues and service on-call. When not working on operations the SRE is working on software engineering tasks such as design and development of systems that increase our reliability, scalability and reduce operational overhead through automation. The ideal SRE candidate is proficient programmer who has large breadth of knowledge and experience including areas such as networking, internet protocols and Linux systems.</p><p>Our SREs are close partners with service owners in all aspects of service operations and ownership. We have a strong culture of innovation, collaboration and team work inspired by the DevOps philosophy.</p><p><br></p><p>Job Responsibilities:</p><ul><li>Act as a point of escalation for incidents and other issues arising within the region</li><li>Operates and performs maintenance for services running within the region</li><li>Deploys code and executes other changes within the region</li><li>Troubleshoots operational issues on behalf of service teams</li><li>Ensures timely resolution and documentation of incidents through bridges</li><li>Ensures thorough documentation of incidents through company-standard reporting methods</li><li>Monitors the region for faults, alarms, and other errors. Informs internal teams as required through process and procedure .</li><li>Work in conjunction with service developers to evolve systems/products for better scalability, reliability and development velocity.</li><li>Practice sustainable incident response and drive root cause analysis.</li></ul><p><br></p><p>Basic Qualifications:</p><ul><li>BS degree in Computer Science or related technical field</li><li>2+ years of Operations/Support Engineer/Site Reliability Engineer experience including on-call rotations, working on highly scalable distributed systems.</li><li>Understanding of Linux operating systems and Linux system administration.</li><li>Experience automating tasks with scripting languages such as Python and Bash.</li><li>Experience with container technologies (Docker, Kubernetes)</li><li>Knowledge of Internet protocols and standards, including SMTP, REST, SSL/TLS, DNS and HTTP. </li><li>Experience deploying code within change management procedures</li><li>Experience troubleshooting complex software and/or networking issues</li><li>Strong understanding of cloud concepts and platforms</li><li>Systematic problem-solving approach, strong communication skills and a sense of ownership and drive.</li><li>Should be a flexible &amp; resourceful team player that is able to thrive in a fast-paced and constantly changing environment.</li></ul><p><br></p><p>Preferred Qualifications:</p><ul><li>Masters/Ph.D. degree in Computer Science.</li><li>Experience in cloud technical support, operations, NOC or similar is preferred</li><li>Familiarity with GO and Java languages is preferred.</li><li>Proven ability to quickly learn new technical domains and then train others</li><li>Experience with orchestration/automation tools (Ansible, Terraform, Chef, etc.)</li><li>Understanding of service KPI metrics, alarms, logging, and system health dashboards such as Grafana.</li><li>Experience working in an operational environment with mission critical tier one services with associated alarming tools like pager duty.</li></ul><p><br></p><p>Oracle is an Affirmative Action-Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veterans status, age, or any other characteristic protected by law.</p><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T19:48:09.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

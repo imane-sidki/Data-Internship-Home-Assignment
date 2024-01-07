@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "<p><strong>WHAT WE DO</strong></p><p>Every second, 3,248 parcels are shipped globally.</p><p>10% fail to reach their destination on time.</p><p>An incredible 466,000 parcels per day.</p><p>That\u2019s a lot of unhappy customers.</p><p><br></p><p>Coros provides visibility into shipment accuracy so that shippers and carriers get your parcel, to you, on time. If you\u2019ve been frustrated by late delivery, then come and help us fix it for everyone.</p><p><br></p><p>We use visual imagery to create ground truth data for the supply chain at Fortune 50 scale; we engineer systems that deliver 99.9% accuracy when tracking fast-moving objects, and we guarantee enterprise-class reliability and availability to our customers.</p><p><br></p><p>Coros is a seed-stage company with clearly defined MVP and early customers that have validated product-market fit. Our reference customers are household brands helping harden our services for scale.</p><p></p><p><strong>ABOUT THE JOB</strong></p><p>As a Site Reliability Engineer, you will be part of the growing Coros software group.We have teams working on embedded systems, computer vision, machine learning, mobile applications, and web interfaces and services.We use a variety of tools, which we regularly evaluate to make sure developer productivity is protected, if not enhanced.We rely heavily on automation.</p><p></p><p></p><p><strong>ABOUT YOU</strong></p><p>Responsibilities</p><p></p><ol><li>Construct and/or improve continuous build and continuous deployment software for Coros internal and customer-facing cloud services.</li><li>Write and review software architecture proposals for compliance with cloud best practices.</li><li>Help build a response procedure for handling outages of upstream and downstream services.</li><li>Assist product team with development of cost model for customer-facing cloud computing usage.</li></ol><p><br></p><p>Qualifications</p><p></p><ol><li>Bachelor\u2019s degree and/or Master\u2019s degree, preferably in Computer Science, or equivalent experience.</li><li>Proficiency in Python or Go programming with CS training.Familiarity with Terraform desirable.</li><li>Experience with Kubernetes-based cloud management.</li><li>Recent participation in cloud deployments on a Tier 1 cloud service provider.</li><li>Excited about working in a fast-paced, dynamic startup environment</li></ol><p><br></p><p>Coros is your opportunity to join a fast-growing pre-series A startup solving real-world problems. Our management has built successful startups, so we understand work/life balance, don\u2019t take ourselves too seriously, and value everyone.</p><p><br></p><p><em>Coros is committed to equal employment opportunities and to provide employees with a work environment free of discrimination and harassment.All employment decisions are based on business needs, job requirements and individual qualifications. Coros encourages applicants of all ages.</em></p><p><em></em></p><p><strong><em>NOTE TO RECRUITERS</em></strong></p><p><em>Coros will not accept unsolicited resumes from any source other than directly from a candidate. Any unsolicited resumes sent to Coros, including unsolicited resumes sent to a Coros mailing address, fax machine or email address, directly to Coros employees, or to the Coros resume database will be considered Coros property. Coros will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume. Coros will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees.</em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T22:16:45.000Z"
+  },
+  "company": {
+    "name": "Coros",
+    "link": "https://www.linkedin.com/company/coros"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

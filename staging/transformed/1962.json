@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Hospital & Health Care",
+    "description": "The National Insurance Producer Registry (NIPR), an affiliate of the National Association of Insurance Commissioners (NAIC), has an exciting opportunity for a Software Engineer III or Sr. Software Engineer. NIPR is looking for a team member who enjoys working for an organization that strives every day to support the public good and make a difference. This individual will work as a developer on a cross functional agile team supporting current needs, including cloud migration. In addition, as a Sr. Software Engineer this position will act as a mentor to staff. The NIPR's office is located in the Town Pavilion building just a block from downtown Kansas City's Power and Light District. Town Pavilion includes a fitness center, and great restaurants. This is a full-time position which will allow a person to work remotely, hybrid (in-office and remote), or in the NIPR's physical office space! Apply today! Responsibilities include: Actively participates in team meetings daily stand-up, planning, retrospective, etc.Follows all standards and best practices as defined by NAIC/NIPR solution architectsFollows NAIC/NIPR accepted guidelines on version control for all technical developmentProficient in application design, development languages, security, and tools Participates in automation of tests and processes Proficient in unit, integration, regression, and performance testing Participates in code reviews Provides technical and architectural suggestions to improve existing code base Troubleshoots and resolves data and application software problems as assignedOperates under minimal supervision within a collaborative team environmentProvides excellent customer service to NAIC/NIPR customers, both internally and externally Displays willingness to work effectively and learn from more experienced staff Skills and experience: Java development Experience on a cross-functional agile team Willing and able to train and mentor others Java, Spring/Spring Boot experience Continuous Integration/Continuous Delivery (CI / CD) Must have SQL knowledge, proficient in query writing, structure Source control systems (git, subversion, etc.) Cloud Development experience (AWS, GCP, Azure, Cloud Foundry) HTML Unix/Linux JBoss XML/JSON/YAML JIRA or other issue tracking tool Minimum education and/or experience required: Bachelor's degree (B.A.) in Computer Science or Associates Degree in Applied Science specific to Computer Science; six to eight years related work experience; or an equivalent combination of education and work experience. Preferred Knowledge &amp; experience: React &amp; Redux experience Amazon Web Services, AWS Basic competency preferred Java Servlet container competency (e.g. JBoss, Tomcat) Docker/Kubernetes competency Experience with insurance industry a plus Participated in DevOps environment Participated in a cloud migration Git competency Automation testing with at least one automation tool-Selenium, Rest Assured, JMeter, etc. Why Work at NIPR? 37.5 Hour Work Week Tuition Reimbursement Referral Bonuses Choice of Insurance Plans Vacation Buy Back Adoption Assistance Infants in the Workplace Parental Leave Employee Recognition Programs Days Off for Community Service Student Loan Repayment Program Fitness Center The NIPR is proud to be an Equal Opportunity Employer Applicants for all positions are considered without regard to age, race, creed, color, religion, sex, sexual orientation, gender identity or expression, national origin or ancestry, marital status, pregnancy, genetic information, military or veteran status, disability, or any other basis protected by applicable law. PDN-940794d5-ba6e-48dd-9321-b5f966b85ec7",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:42:59.000Z"
+  },
+  "company": {
+    "name": " Professional Diversity Network",
+    "link": "https://www.linkedin.com/company/prodivnet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - REMOTE",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong> Site Reliability Engineer <br><br></strong><strong> LOCATION: UNITED STATES - REMOTE <br><br></strong><strong> NOTE: We are unable to provide visa sponsorship for this role at this time. No candidates requiring visa sponsorship will be considered. <br><br></strong>Passionate about technology and see the world a little differently than your peers? Everywhere you look, there\u2019s possibility. Opportunity. Boundaries to push and challenges to solve. You believe software engineering changes how people live.<br><br>We are looking for talented engineers to join our expanding cloud team for food and beverage software. You will help build and operate a suite of integrated cloud services that deliver best-in-class features to your favorite restaurants and eateries.<br><br>As a site reliability engineer, you will be responsible for helping ensure our systems are reliable and scalable by designing processes, automating deployments, building tooling, and guiding development teams to adhere to best practices for the cloud.<br><br>We work with some of the smartest, nicest people you'll meet. People who work here say the problems they work on are enormously challenging, and that the team culture is the most supportive they have seen.<br><br>Curious? Read on. We\u2019re looking for software engineering talent like you.<br><br><strong><u>What Working On This Team Is Like<br></u></strong><ul><li> We own our process and we're free to improve on it. </li><li> We emphasize quality above all else. </li><li> We automate everything. <br></li></ul><strong><u> How do you know if you are right for this job? <br></u></strong><ul><li> You thrive in a fast-paced environment focused on delivering production code at a regular cadence using Agile techniques, tools and methodologies. </li><li> You have built or want to build automation tools and components to aide in installation and provisioning of cloud-based applications in cloud providers like Oracle Cloud, AWS, Azure, or similar. </li><li> You understand the value of continuous delivery and want to help teams release frequently and often to production, with high quality. </li><li> You have helped develop and manage systems in production environments. </li><li> You have the ability to tackle both large and small problems. </li><li> You have a strong desire to continually learn new technologies, tools, and methodologies, including those out of your comfort zone. <br></li></ul><strong><u>Experience And Skills You Will Need<br></u></strong><ul><li> Solid understanding of core computer science fundamentals including common data structures, algorithms, and concurrent programming. </li><li> Strong experience with at least one scripting language such as Ruby, Python, or JavaScript. </li><li> Working knowledge of containers and supporting tools like Docker, Podman, etc. </li><li> Experience using container orchestration tools like Kubernetes or Docker Swarm. </li><li> Strong attention to detail and excellent analytical capabilities. </li><li> Passion for developing clear, robust, and testable software. </li><li> BS in Computer Science, Software Engineering, Computer Engineering, or equivalent experience. <br></li></ul><strong><u>Experience And Skills We Hope To See<br></u></strong><ul><li> Prior experience solving automation problems such as deployment orchestration, continuous integration, etc. </li><li> Familiarity working with at least one major cloud platform, such as Oracle Cloud, AWS, Azure, GCP, etc. </li><li> Experience with infrastructure automation with tools such as Terraform, CloudFormation, etc. </li><li> Understanding of security principles and how they apply to cloud-based software. </li><li> Background working on publicly available, production systems. </li><li> Skill with additional programming languages such as Java, C#, C++, Scala, Go, Clojure, etc. <br></li></ul>Develop, analyze and maintain tools that support and automate processes for hardware or software product release.<br><br>As a member of the software engineering division, you will perform high-level design based on provided external specifications. Specify, design and implement minor changes to existing software architecture. Build highly complex enhancements and resolve complex bugs. Build and execute unit tests and unit plans. Review integration and regression test plans created by QA. Communicate with QA and porting engineering as necessary to discuss minor changes to product functionality and to ensure quality and consistency across specific products.<br><br>Duties and tasks are varied and complex utilizing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. Typically four years of software engineering or related experience needed.<br><br>If you are a Colorado resident, Please Contact us or Email us at oracle-salary-inquiries_us@oracle.com to receive compensation and benefits information for this role. Please include this Job ID: 121469 in the subject line of the email.<br><br><strong><u>About Us<br><br></u></strong>Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It\u2019s when everyone\u2019s voice is heard and valued, that we are inspired to go beyond what\u2019s been done before. That\u2019s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.<br><br>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T20:04:11.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Maryland",
+    "region": "United States",
+    "postal_code": "20708",
+    "street_address": null,
+    "latitude": 38.952736,
+    "longitude": -76.701294
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer",
+    "industry": "Computer Software,Information Technology and Services,Computer & Network Security",
+    "description": "As a <strong>Senior Software Development Engineer</strong> (SDE) at Kaseya, you will help design, develop, and implement code for our award-winning products. We use a wide range of technologies internally and look for interesting experience and skill sets. One day you might be working on a cloud app in AWS or Kubernetes, and the next day writing deployed software in Golang. From C to Go and Python to PowerShell, we use the right tools for the job to solve interesting problems on almost any device or platform our customers use. You will add your unique personality to our endeavor, namely: to ship high-quality software that is on-time and business-aligned. We\u2019re a company whose startup days are behind it but with a lot of growing to do. If you want to be part of making the changes to take us to the next stage of growth while having fun doing your job, this is the opportunity for you.<br><br><strong><u>Job Summary<br><br></u></strong>SDEs take ownership of their code and work closely with others to develop new features as well as efficiently address reported defects in ways that delight our customers. Using an Agile/Scrum methodology, SDEs discuss requirements, propose solutions, estimate their work, and then collaborate with others through the entire life cycle.<br><br><strong>Role &amp; Responsibility<br></strong><ul><li>Follow the established Agile/Scrum methodology for software design, development, code reviews, and testing; ensuring product quality and reliability</li><li>Design, develop and integrate solutions (both hardware and software) that can be shipped on time while complying with standards for usability, security, stability, reliability, and performance.</li><li>Implement New Functionality</li><li>Bugfix of existing code / technical debt</li><li>Writing technical documentation</li><li>Code review.<br></li></ul><strong><u>Required Skills<br></u></strong><ul><li>BS in Computer Science or related technical field or equivalent practical experience.</li><li>4+ years of professional software development experience </li><li>Knowledge of professional software engineering and best practices for the full software development life cycle including coding standards, code reviews, source control management, build processes, unit testing, and deployment</li><li>Strong analytic and problem-solving skills.</li><li>Knowledge of ALM suites such as JIRA</li><li>A strong understanding of relational databases</li><li>Effective communication skills (both written and verbal)<br></li></ul><strong><u>Desired Skills</u></strong> <ul><li>Experience with the following languages:</li><ul><li>Golang</li><li>C or C++</li><li>Python</li><li>Powershell</li></ul><li>Knowledge of Linux</li><li>Experience in Win API architecture</li><li>Experience with clustering and HA technologies (Kubernetes, JuJu etc.)</li><li>PostgreSQL or similar DB knowledge.</li><li>Understanding of Hyper-V, Microsoft AD and other Microsoft products.</li><li>Understanding of CI/CD approach.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:04:10.000Z"
+  },
+  "company": {
+    "name": "Kaseya",
+    "link": "https://www.linkedin.com/company/kaseya"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbia",
+    "region": "SC",
+    "postal_code": "29033",
+    "street_address": null,
+    "latitude": 34.009285,
+    "longitude": -81.037094
+  }
+}

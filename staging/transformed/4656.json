@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "<strong>Job Description:<br><br></strong><u>Position Summary<br><br></u>Assist in building upcoming projects<br><br><strong><u>Required Skills<br><br></u></strong>Understanding PRPC Architecture, tools and framework<br><br>BPM Technology<br><br><strong><u>Desired Skills<br></u></strong><ul><li>-Pega Senior System Architect with proven experience in designing, developing and supporting high volume transactional n-tier enterprise components/applications. Will be working as part of team</li><li>-5+ years in PRPC - Pega V 6.x / Pega 7.x / Pega 8.x</li><li>-Strong in PEGA concepts and implementation experience with PEGA connectors, performance tuning, decision trees, listeners , UI design, Integration, Security Model etc.</li><li>-SQL/Database concepts</li><li>-Experience in with full lifecycle PEGA implementations (preferably PEGA 7)</li><li>-Experience in all phases of software development lifecycle including analysis, design, implementation, testing and deployment</li><li>-Ability to create reusable components that can be leveraged across the enterprise for providing top-notch customer experience.</li><li>-Ability to troubleshoot and resolve complex production issues</li><li>-Provide leadership and deep technical expertise in all aspects of solution design and application development for specific business environment</li><li>-Should be able to collaborate with external technology team to coordinate delivery of software solution.</li><li>-Will not have direct reports but may lead projects and direct activities of a team related to special technology initiatives or operations.</li><li>-Strong communication and presentation skills.<br></li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:01:36.000Z"
+  },
+  "company": {
+    "name": "Bank of America",
+    "link": "https://www.linkedin.com/company/bank-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "College Park",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 33.653393,
+    "longitude": -84.4495
+  }
+}

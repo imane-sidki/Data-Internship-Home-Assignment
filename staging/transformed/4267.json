@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Summary:</strong></p><p>The main function of the Data Scientist is to produce innovative solutions driven by exploratory data analysis from complex and high-dimensional datasets.</p><p><br></p><p><strong>Job Responsibilities:</strong></p><ul><li>Apply knowledge of statistics, machine learning, programming, data modeling, simulation, and advanced mathematics to recognize patterns, identify opportunities, pose business questions, and make valuable discoveries leading to prototype development and product improvement.</li><li>Use a flexible, analytical approach to design, develop, and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the data.</li><li>Generate and test hypotheses and analyze and interpret the results of product experiments.</li><li>Work with product engineers to translate prototypes into new products, services, and features and provide guidelines for large-scale implementation.</li><li>Provide Business Intelligence (BI) and data visualization support, which includes, but limited to support for the online customer service dashboards and other ad-hoc requests requiring data analysis and visual support.</li></ul><p><br></p><p><strong>Skills:</strong></p><ul><li>Experienced in either programming language such as SQL, Python and/or R, Big Data tools such as Hadoop, or data visualization tools such as Tableau.</li><li>The ability to communicate effectively in writing, including conveying complex information and promoting in-depth engagement on course topics.</li><li>Experience working with large datasets.</li><li>Experience with AB Testing</li></ul><p><br></p><p><strong>Education/Experience:</strong></p><ul><li><strong><span class=\"ql-cursor\"></span></strong>Master of Science degree in computer science or in a relevant field.</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T13:57:28.000Z"
+  },
+  "company": {
+    "name": "Creospan Inc.",
+    "link": "https://www.linkedin.com/company/creospan"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles County",
+    "region": "CA",
+    "postal_code": "91413",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

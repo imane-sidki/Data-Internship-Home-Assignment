@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Human Resources",
+    "description": "<strong><u>Position Summary<br><br></u></strong>OpenStax is a non-profit textbook publisher, learning software producer, and platform for learning research based at Rice University. Our mission is to provide every student with free or low-cost access to high-quality learning materials and tools that help them succeed in their education and career. We have created a library of 31+ free and openly licensed college textbooks that serve 2.2 million students (as of 2018), resulting in $171 million dollars in savings annually.<br><br>We are embarking on an ambitious and exciting strategic initiative to create a unified OpenStax experience for the faculty and students that use our textbooks and learning tools. We are creating a compelling student experience for our entire library that generates meaningful insights that we can use to improve student performance and learning. This new platform will also serve as the hub for learning research, where we can discover what learning strategies best serve students given their individual differences (personalization) and then turn those discoveries into practical benefits for students.<br><br>OpenStax is seeking a talented Software Engineer who will work with a product team to deliver new features and updates for the OpenStax suite of products. Potential work areas include our content publishing tools, interactive reading experiences, analytics engines, learning science research systems, and homework platforms. This position will write code and participate in as part of an agile product team.<br><br>The Software Engineer will work in Python, XML, Javascript/Typescript, and HTML across the range of Openstax products, including those that serve both internal and external users.<br><br>This person will execute all programming tasks, including programming, analyzing, designing, developing, implementing, modifying, and maintaining computer programs. This individual works on systems of small to moderate size and complexity or segments of larger systems.<br><br>You will join a team who is driving change at a pivotal phase of our evolution, as we deliver high quality educational content, ranging from textbooks to simulations and videos to exercises to full courses, and give educators and learners the support they need in core college and high school disciplines. We celebrate diversity of all kinds and we are committed to nurturing an inclusive environment. We seek to hire, develop, and retain talented people from all backgrounds. We are part of a private university, but our team comes from a variety of backgrounds and includes people who attended universities and community colleges, as well as people who did not graduate from college.<br><br>Ideal candidates should have experience in web development and the ability to use a variety of programming methods. The ability to define and solve logical problems for technical applications is also important.<br><br><strong><u>Essential Functions<br></u></strong><ul><li> Assesses user needs and requirement </li><li> Designs and develops basic applications </li><li> Assists in maintaining and updating existing programs </li><li> Assists in creating programs that meet reporting and analysis needs </li><li> Documents changes in the software </li><li> Follows team software development methodology </li><li> Performs all other duties as assigned <br></li></ul><strong><u>Required Qualifications<br></u></strong><ul><li> Bachelor's degree, or additional related experience, above and beyond what is required, on an equivalent year for year basis may be substituted </li><li> One year of experience in web development including Python, Javascript and/or Ruby </li><li> Knowledge of existing and new software and design standards </li><li> Basic ability to define and solve logical problems for technical applications </li><li> Basic knowledge and ability to use a variety of programming methods <br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> Experience with web-development frameworks </li><li> Experience using APIs </li><li> Experience with continuous integration and automated testing </li><li> Experience with git and Github </li><li> Experience with agile software development practices </li><li> Creating responsive layouts </li><li> Unit test development </li><li> Debugging with browser web tools </li><li> Experience with Typescript</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T11:52:12.000Z"
+  },
+  "company": {
+    "name": "Rice University",
+    "link": "https://www.linkedin.com/company/riceuniversity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Services,Financial Services,Information Technology and Services",
+    "description": "<strong>Company Description</strong>As the world&apos;s leader in digital payments technology, Visa&apos;s mission is to connect the world through the most creative, reliable and secure payment network - enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company&apos;s dedication to innovation drives the rapid growth of connected commerce on any device, and fuels the dream of a cashless future for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.<br><br>At Visa, your individuality fits right in. Working here gives you an opportunity to impact the world, invest in your career growth, and be part of an inclusive and diverse workplace. We are a global team of disruptors, trailblazers, innovators and risk-takers who are helping drive economic growth in even the most remote parts of the world, creatively moving the industry forward, and doing meaningful work that brings financial literacy and digital commerce to millions of unbanked and underserved consumers.<br><br><strong>You&apos;re</strong> an Individual. <strong>We&apos;re</strong> the team for you. <strong>Together</strong>, let&apos;s transform the way the world pays.<br><br><strong><u>Job Description<br><br></u></strong>Visa has the world\u2019s largest consumer payment transaction data set. We see data on over 100 billion transactions per year from all over the world. <strong><strong>Visa Predictive Models</strong></strong> (VPM) team develops and maintains predictive machine learning models to primarily support Visa Global Data Products, Security and Identity Products, and Cardinal Commerce. Using mostly VisaNet data and leveraging Machine Learning (ML) and Artificial Intelligence (AI), our model scores help Visa clients all over the world for fraud defense, identity verification, smart marketing, credit underwriting and etc. Through our models and services, VPM fuels the growth of Visa clients, generates and diversifies revenues for VISA, greatly improving Visa Card customer experience and their financial lives.<br><br><strong><u>Essential Functions<br></u></strong><ul><li>Build and validate predictive models with advanced machine learning techniques and tools to drive business value; interpret and present modeling and analytical results to non-technical audience</li><li>Write predictive model software packages for production deployment; support model installations, monitor and calibrate production models</li><li>Conduct statistical analyses on various internal and external data sources with big data tools like Hadoop and Spark to identify interesting and valuable insights and trends, produce visualization and reports to internal business and product customers</li><li>Develop insights from data into products using advanced statistical and machine learning methods<br></li></ul><strong><u>Secondary Responsibilities<br></u></strong><ul><li>Support sales and marketing efforts with sound statistical and financial analysis; execute ad-hoc analyses to meet the fast-changing market demands</li><li>Develop business requirements and appropriate statistical analysis/prototypes to meet critical business needs</li><li>Derive and develop new data attributes/features for modeling to grow analytic products</li><li>Work on cross functional teams and collaborate with internal and external stakeholders</li></ul><strong>Qualifications<br><br></strong><strong><u>Basic Qualifications<br></u></strong><ul><li>2 years of work experience with a Bachelor\u2019s Degree or an Advanced Degree (e.g. Masters, MBA, JD, MD, or PhD)<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>3 or more years of work experience or more than 2 years of work experience with an Advanced Degree (e.g. Masters, MBA, JD, MD)</li><li>1 year of experience with Big Data tools (e.g. Hive, Impala, Spark)</li><li>Experience with production model development, implementation and monitoring</li><li>Experience in deep neural network (e.g. RNN, CNN), natural language processing or graph database analytics</li><li>Experience with data visualization and business intelligence tools like Tableau</li><li>Experience in an Agile development environment</li><li>Proven ability to quickly learn and apply new techniques</li><li>Must be a team-player and capable of handling multi-tasks in a dynamic environment</li><li>Excellent business writing, verbal communication, and presentation skills</li><li>Excellent project management skills<br></li></ul><strong><u>Technical Qualifications<br></u></strong><ul><li>Proficiency in Python programming language</li><li>Proficiency in Python data analysis, modeling building and visualization libraries</li><li>Proficiency with SQL</li><li>Experience with Spark is a plus</li><li>Experience with Unix/Linus script and shell programming is a plus</li><li>Experience with SAS is a plus but not required</li></ul><strong>Additional Information<br><br></strong><strong><u>Work Hours<br><br></u></strong>This position requires the incumbent to be available during core business hours<br><br><strong><u>Travel Requirements<br><br></u></strong>This position requires the incumbent to travel for work less than 5% of the time<br><br><strong><u>Mental/Physical Requirements<br><br></u></strong>This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, reach with hands and arms, and bend or lift up to 25 pounds.<br><br>Visa will consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.<br><br>Job Number: REF34588M",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T09:47:13.000Z"
+  },
+  "company": {
+    "name": "Visa",
+    "link": "https://www.linkedin.com/company/visa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 94300,
+    "max_value": 142000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

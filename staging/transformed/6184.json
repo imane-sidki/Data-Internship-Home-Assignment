@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Cloud Infrastructure Automation System Support Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>Job Description<br><br></u></strong><strong>Job Description: <br></strong><ul><li>10+ Years of diversified IT experience in software design, development and unit testing of applications using C#, VB.Net, ASP.Net &amp; Migration, Support and Maintenance of business applications and Microsoft Azure Cloud Compute Infra and Services using agile project management and methodologies.</li><li>8 + Years of expertise in Microsoft Azure Cloud Services (IaaS, PaaS, Websites, App Services, Storage, Network, SQL Azure, Service Fabric Clusters, ADL, HDI Hadoop clusters etc.) </li><li>DevOps role to build/develop various Operational tools/ services like Usage Metrics tools, Bulk processing tools, VMs management/deployment, Networking deployments using PowerShell scripting, ARM Template deployments, VMs migration to Azure Cloud, TFS reporting, Excel Programming, C#, Python, VB etc.</li><li>Experience in Windows/Azure PowerShell, AZ-CLI scripts to automate various Azure Provisioning, Maintenance, Monitoring, Auto Snooze using Azure Runbooks, Pulling the usage and other metrics, frequent Operational/Administrative activities to perform remotely. </li><li>Experience of building a range of Services in a Cloud Service provider (ideally Azure) Expert understanding of DevOps principles and Infrastructure as a Code concepts and techniques Strong understanding of CI/CD and available tools in Azure vNets, Resource Groups, VMs, Storage Accounts, Database services and in AWS \u2013 VPCs, EC2 VMs, SSM, S3, RDS, Lambda.</li><li>Good understanding of physical networks (vNETs, SubNets, NSG, Natting, Routing) Security and Compliance, e.g. IAM (ADFS, OAuth) and cloud compliance/auditing/monitoring tools Customer/stakeholder focus. </li><li>Designing / Implementing Proof of Concepts POCs for migrating the on-premises applications / Physical Servers to Azure IaaS &amp; PaaS services like IaaS VMs, PaaS VMs, Azure SQL, Azure SQL Data warehouse, Azure Storage, Azure Service Fabric Cluster, Azure Data Lake, Hadoop HDI Cluster etc.</li><li>Understanding the future roadmap of applications, utilization patterns, application performance requirements and availability needs and accordingly defining the roadmap of full migration to Azure and maintenance</li><li>Designing and setting up the monitoring strategy for Azure (Performance counters, whether to leverage Azure monitoring /Splunk /Geneva Monitoring etc.) aligned to unique requirement of each application</li><li>Design the backup and recovery strategy for the application leveraging Microsoft SQL Always on, SQL Backups, Azure recovery services vaults (ASR) for IaaS VMs, File system</li><li>Implementing the migration to Azure Leveraging Azure Portal, ASR, Custom PowerShell scripts for infrastructure configuration</li><li>Strong knowledge of Object-Oriented programming and concepts with excellent problem-solving skills</li><li>Build and manage the Azure foundation platform to enable application deployments Engineer solutions on Azure foundation platform using Infrastructure As Code methods (e.g. Terraform) Integrate, configure, deploy and manage centrally provided common cloud services (e.g. IAM, networking, logging, Operating systems Containers.) </li><li>Manage SDN in Azure Consume centrally agreed base Hardened OS (Linux and Windows) <br></li></ul>Ensure compliance with centrally defined Security Ensure compliancy with Operational risk standards (E.g. Network, Firewall, OS, Logging, Monitoring, Availability, Resiliency)<br><ul><li>Build and support continuous integration (CI), continuous delivery (CD) and continuous testing activities Engineering activities to implement patches provided centrally Support non-functional testing </li><li>Update support and operational documentation as required Fault find and support Applications teams </li><li>Ensure good Change management practice is implemented as specified by central standards. <br></li></ul>Provide impact assessments where requested for changes proposed on Azure core platform<br><ul><li>On a rotational on call basis provide out of business hours support as part of our 24 x 7 coverage </li><li>AZURE Certifications - ideally professional Linux Certification Windows Server Certification Experience operating in highly regulated industry, e.g. Financial Services </li></ul> <strong>Job Type<br><br></strong>Full Time<br><br><strong>Location<br><br></strong>WARREN<br><br><strong><u>Mandatory Skills<br></u></strong><ul><li>Azure Stack</li></ul> <strong>Years of Experience<br><br></strong>Above 10 Years<br><br>Apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:17:10.000Z"
+  },
+  "company": {
+    "name": "Mindtree",
+    "link": "https://in.linkedin.com/company/mindtreeltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Warren",
+    "region": "MI",
+    "postal_code": "48397",
+    "street_address": null,
+    "latitude": 42.52144,
+    "longitude": -83.02019
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "<strong><u>Description<br><br></u></strong><strong><u>Job Description:<br><br></u></strong>Come put your software engineering skills into action! The Leidos Defense Group has openings for a talented Staff Software Engineer to join our Software Factory in Omaha, NE. The responsibilities for this position include all aspects of the software development lifecycle including scope and work estimation, architecture and design, coding, and automated testing within an Agile and Continuous Integration and Continuous Delivery model. In this role, you will join a dynamic team that is singularly focused on providing world class solutions to our customers in an exciting, collaborative, and inclusive atmosphere. You will be challenged and provided a tremendous opportunity for growth in a customer-facing, fast-paced, and fun environment.<br><br>As a leader in the Software Factory, you will architect, design, build, and enhance highly available and scalable systems used by customers worldwide. You will direct major deliverables of projects through all aspects of the software development lifecycle including scope and work estimation, architecture and design, coding and unit testing. Additionally, you will determine and recommend the best designs based on customer business objectives, timelines and other resource constraints.<br><br><strong><u>Primary Responsibilities<br></u></strong><ul><li>Help build, manage and mentor multi-disciplined teams executing Agile and DevSecOps processes using best-of-breed tools.</li><li>Cultivate a culture of innovation and promote collaboration across teams and projects.</li><li>Design, develop, test, deploy, maintain and continuously improve our software deliverables.</li><li>Manage project priorities, deadlines and deliverables.<br><br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li>Bachelor's Degree in Software Engineering, Computer Science, or related field and 8-12 years of software engineering experience, or a Master's with 6-10 years of experience.</li><li>Hands-on expertise with Java/C++ and object oriented programming.</li><li>Strong proficiency with basic web technologies including HTML, CSS, REST, JSON, and JavaScript.</li><li>Demonstrated proficiency with web application technologies and deployment environments, including Docker, Kafka, and Kubernetes.</li><li>Experience architecting, developing, and delivering complex software systems into production.</li><li>Strong understanding of modern software design patterns and coding standards.</li><li>Experience leading multi-disciplined technical project teams and setting the technical direction.</li><li>Working knowledge of Agile development and continuous integration and continuous delivery methodologies and tools.</li><li>Experience with a version control system (e.g., Git).</li><li>Experience with an issue/problem tracking system (e.g., Jira).</li><li>Proficiency with multiple operating systems (Mac OSX, Windows, Linux, etc.)</li><li>Interest and ability to learn new programming languages, tools, frameworks, and techniques.</li><li>Must be able to obtain a DoD Secret Security Clearance.<br><br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Master\u2019s degree in Software Engineering, Computer Science, or a related field</li><li>Hands-on experience with Agile management tools such as Jira, Bitbucket, GitLab, Confluence.</li><li>Hands-on experience with continuous integration and delivery tools such as Jenkins, SonarQube, JUnit, Cucumber, Selenium, JMeter.</li><li>Active DoD security clearance.<br><br></li></ul><strong><u>External Referral Bonus<br><br></u></strong>Eligible<br><br><u><strong>External Referral Bonus $:<br></strong></u>2000<br><br><strong><u>Potential For Telework<br><br></u></strong>No<br><br><strong><u>Clearance Level Required<br><br></u></strong>None<br><br><strong><u>Travel<br><br></u></strong>Yes, 10% of the time",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:18:57.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "NE",
+    "postal_code": "68147",
+    "street_address": null,
+    "latitude": 41.15106,
+    "longitude": -95.90025
+  }
+}

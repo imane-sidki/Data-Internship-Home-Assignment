@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Thoughtfocus, is seeking the following. Apply via Dice today!<br><br>JOB TITLE Site Reliability Engineer JOB TYPE Contract CONTRACT DURATION 6 Months IMPORTANT Immediate Start The candidate must be in West coast (pacific time zone). Must be expert in Kubernetes (EKS) SUMMARY OBJECTIVE As a site reliability engineer you will be a part of a team that will design, develop, deliver, and maintain a microservices based cloud software solution on a service-mesh using modern orchestration technologies. WHAT YOU'LL DO Responsible for cloud platform production infrastructure. Respond to production incidents receiving on-call notifications of service distributions and coordinating with development teams to resolve outages. Create and share incident post-mortems. Set up and maintain observability infrastructure. Maintain service level objectives. Monitor and improve service performance and scalability. Reduce MTTR and False Positive rates. Ensure and report on GRC compliance. Reduce toil (automate, automate, and automate some more). SKILLS YOU NEED You're passionate about researching, implementing, and managing solutions to build a cloud native platform. You get into deep philosophical debates about the benefits of each major cloud provider, and can argue the merits of each. You know what five nines means, and the steps needed to achieve it. You understand that observability is crucial, and you have a dashboard of metrics that prove it. You dream about new ways to optimize cloud infrastructure. You laugh maniacally as you design chaos engineering tests. Your root cause analysis walks the fine line between detail and brevity while understanding the true goal is to learn, teach, and adapt. Your systems are so well maintained that you double check your alert settings because they haven't gone off in months. TECHNOLOGIES YOU SHOULD KNOW AWS Kubernetes (EKS) Terraform Istio ArgoCD DataDog Kafka (Amazon MSK)",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T22:17:45.000Z"
+  },
+  "company": {
+    "name": "Dice",
+    "link": "https://www.linkedin.com/company/dice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

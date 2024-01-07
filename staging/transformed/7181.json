@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer, K8s and Container orchestration",
+    "industry": "Computer & Network Security,Computer Software,Information Technology and Services",
+    "description": "We are looking for an experienced Site Reliability Engineer to join our Technical Operations team. At Okta, we are \"Always On.\" The core of that starts with this team, ensuring that customers never worry about the Okta service.<br><br>We strive to build the most reliable and performant systems on the planet. and build upon a highly diverse platform, applying software engineering principles to automate the Okta Workflow micro-service ecosystem while promoting insight and transparency into each service. If you\u2019re excited to play with new technologies and improve existing systems while working with a team of passionate engineers, this is the job and the company for you.<br><br>This is a full-time position with a primary focus on engineering systems orchestration and management. You should be comfortable with a wide range of technologies, have an interest in Kubernetes and Container orchestration, and be passionate about crafting solutions for a globally distributed platform using software engineering best practices.<br><br><strong><u>Job Duties And Responsibilities<br></u></strong><ul><li>Contribute to Okta Workflow Kubernetes-oriented orchestration.</li><li>Manage production and developer environments spanning multiple cloud platforms.</li><li>Develop testing, monitoring, and insight toolsets and frameworks.</li><li>Improve environment visibility and management in a repeatable and automatable way.</li><li>Collaborate with all engineering teams to improve overall product health and reliability.<br></li></ul><strong><u>Required Knowledge, Skills, And Abilities<br></u></strong><ul><li>Strong motivation to improve service ecosystems by the application of engineering principles.</li><li>4+ years\u2019 experience in a software engineering role.</li><li>Deep understanding of Linux and containers (e.g cgroups, jails, and the like).</li><li>Experience with container-based orchestration platforms: Kubernetes, Swarm, OpenShift, etc.</li><li>Supporting a 24x7 online environment as part of an on-call rotation</li><li>Bachelor\u2019s degree in Computer Science, Math, Physics, Electrical Engineering or comparable work experience.<br></li></ul>Okta is an Equal Opportunity Employer.<br><br>Okta is rethinking the traditional work environment, providing our employees with the flexibility to be their most creative and successful versions of themselves, no matter where they are located. We enable a flexible approach to work, meaning for roles where it makes sense, you can work from the office, or from home, regardless of where you live. Okta invests in the best technologies and provides flexible benefits and collaborative work environments/experiences, empowering employees to work productively in a setting that best and uniquely suits their needs. Find your place at Okta https://www.okta.com/company/careers/.<br><br>By submitting an application, you agree to the retention of your personal data for consideration for a future position at Okta. More details about Okta\u2019s privacy practices can be found at: https://www.okta.com/privacy-policy.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:15:07.000Z"
+  },
+  "company": {
+    "name": "Okta",
+    "link": "https://www.linkedin.com/company/okta-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

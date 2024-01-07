@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - RetailMeNot",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Description<br><br></u></strong>We are looking for a Site Reliability Engineer II to join our SRE team. We define the systems and services that allow RetailMeNot development teams to have a low-friction deployment experience, with always-on monitoring, and the fault-tolerant infrastructure. SRE works on defining Service-Level Agreements (SLAs), leading incident response, practicing blameless post-mortems, and automating processes to reduce operational toil.<br><br>As a member of the team, you'll be responsible for delivering highly scalable and resilient cloud deployment and provisioning solutions. You will be exposed to technology like Kubernetes, Prometheus, Helm, Terraform, and others. You will help automate and streamline the company's operations and processes through innovations in application monitoring and alerting, CI/CD modernization, and other efforts.<br><br>Are you a software engineer with a real passion for delivering and automation opportunities? Are you looking to join an organization with a well-established SRE culture? Start here!<br><br><strong>RetailMeNot is headquartered in Austin, TX! This position is fully remote and we encourage applicants nationwide!<br><br></strong>Who You Are<br><ul><li>You have a Bachelor's degree in computer science or equivalent STEM field, or equivalent work experience.</li><li>You have at least 2 years of SRE or DevOps experience.</li><li>You have exposure to and understanding of cloud (AWS, Google Cloud, Azure, etc.) architectures/services.</li><li>You have experience writing code with Python, Shell, Go, Java, or similar languages.</li><li>You have worked within the container and container orchestration space (Docker, Kubernetes, etc.).</li><li>You have worked with infrastructure provisioning tools like CloudFormation, Terraform, Chef, Puppet, or others.</li><li>You have enabled CI/CD pipelines using tools such as Jenkins, AWS Code Pipeline, Gitlab, or others.</li><li>You bring a deep understanding and application of computer science fundamentals: data structures, algorithms, and design patterns.</li><li>You understand networking protocols (TCP/IP, HTTP, DNS, etc).</li><li>You have a track record of delivering successful solutions and collaborating with others.</li><li>You have strong interpersonal skills and can explain SRE concepts to a wider audience.<br></li></ul>What You'll Do<br><ul><li>You'll be working closely with Docker and Kubernetes to containerize applications and provision infrastructure.</li><li>You will investigate new technologies and tools and recommend those that best fit the team and organization.</li><li>You will champion SRE methodologies around monitoring, distributed tracing, deployment strategies (e.g. canary, sandbox), and logging.</li><li>You will identify and execute on opportunities to optimize existing systems, improve infrastructure, and eliminate work through automation.</li><li>You will participate in our on-call rotation for production services.<br></li></ul>Who We Are<br><ul><li>We have an open environment where engineers are given a lot of responsibility and the freedom to make a huge impact.</li><li>We have lots of smart people to work with and learn from.</li><li>We work on large scale challenges with a variety of technologies and believe in an ever-growing diversity of technology platforms.</li><li>We believe in giving prizes, bonuses, and recognition for doing what you enjoy.</li><li>We have a phenomenal open vacation policy.</li></ul>#RetailMeNot<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:40:52.000Z"
+  },
+  "company": {
+    "name": "RetailMeNot",
+    "link": "https://www.linkedin.com/company/retail-me-not"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

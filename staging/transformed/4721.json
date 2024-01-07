@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Engineer - DevOps",
+    "industry": "Electrical/Electronic Manufacturing,Automotive,Mechanical or Industrial Engineering",
+    "description": "We are looking for a DevOps leader to drive and manage our infrastructure, help build and refine our automated CI/CD pipeline, support the design and development of cloud applications and systems, and continue to find new ways make our advanced engineering organization better. The role will work with a team of software engineers integrating complex systems consisting of embedded applications, cloud services, and mobile apps.<br><br><strong><u>What You'll Be Doing<br></u></strong><ul><li> Define DevOps best practices for our application teams and assist them in implementing these processes. </li><li> Ownership and support of configuration management and deployment automation tools, including Jenkins, Jira, SonarQube, and Terraform. </li><li> Assist in implementation of security best practices and initiatives at all levels of the infrastructure. </li><li> Codify current AWS infrastructure, automating and reporting on the environment. </li><li> Work with development teams to develop alerting triggers, logging, and general application monitoring. </li><li> Create and maintain automated deployments based on Kubernetes. </li><li> Thought leader on the future technologies used for environment management, automation, monitoring, and self-healing. <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li> B.S. In Computer Science related field desired, AWS certification preferred. </li><li> Minimum 5 years of experience. </li><li> Well versed in DevOps principles, and able to lead software engineers in this area. </li><li> Well versed in CI/CD practices, and able to lead software engineers in this area. </li><li> Experience of using Git, Bitbucket for version control. </li><li> Experience of working in a Scrum team and Agile concepts. </li><li> Familiar and comfortable in scripting languages - Python, bash. </li><li> Experience with Docker and containerizing applications. </li><li> Experience with orchestration platforms (Kubernetes preferred, Rancher, etc.) </li><li> Experience with Infrastructure-as-a-Service platforms (AWS preferred). </li><li> Experience with Jenkins. </li><li> Familiar with relational databases, such as MySQL/Percona and Postgres, and NoSQL databases, such as Cassandra and HBase. </li><li> Familiar with document-oriented databases, such as Couchbase and MongoDB. <br></li></ul><strong><u>About DENSO<br><br></u></strong>DENSO is an advanced mobility supplier and global Fortune 500 company. Here, we innovate, create and make things to change how the world moves. We develop technology and components for major automakers worldwide, which you can find on nearly every vehicle make and model on the road today.<br><br>At our core, DENSO wants to make the world a better place. And, we have the ability to do so using our broad product portfolio, which spans mobility electronics, thermal systems, electrification systems, powertrain systems, sensors &amp; semiconductors, and non-automotive businesses.<br><br>We\u2019re far reaching: Globally headquartered in Japan, we have 170K+ employees across 221 facilities in 35 countries across the globe. Here in North America, our headquarters is in Southfield, Michigan. Last year, we had $47.6 billion in global consolidated revenue with North America contributing $10.9 billion.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:29:01.000Z"
+  },
+  "company": {
+    "name": "DENSO",
+    "link": "https://jp.linkedin.com/company/denso"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Southfield",
+    "region": "MI",
+    "postal_code": "48037",
+    "street_address": null,
+    "latitude": 42.480198,
+    "longitude": -83.241
+  }
+}

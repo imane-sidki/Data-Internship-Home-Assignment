@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Hospital & Health Care",
+    "description": "<p>As a Site Reliability Engineer you will be hands on in building, maintaining and scaling Current Health's internal and customer-facing services. This will include:<br><br></p><br><ul> <li>Improving and maintaining the availability, performance, security, and scalability of the platform</li> <li>Build new and maintain existing platform infrastructure through the use of Infrastructure as Code, Configuration as Code, CI/CD, and custom tooling</li> <li>Working with software engineering teams on new system designs or rearchitecting existing services to meet new requirements</li> <li>Providing education, documentation, support, and tooling to enable the software engineering teams in taking full ownership of their services from inception, through development, to production operations</li> <br></ul><p>Requirements:<br><br></p><p><strong>What experience would I need?<br><br></strong></p><br><ul> <li>Broad commercial experience in AWS services, Linux, networking, infrastructure as code, configuration as code, and managing distributed systems.</li> <li>Development experience in at least one modern high level programming language (eg. Java, Python, JavaScript/TypeScript, Go)</li> <li>Experience with service and micro-service based distributed architectures</li> <li>An eye for both high level infrastructural/architectural optimisation opportunities and low level code and data level ones</li> <li>An ability to methodically tackle problems with a large number of unknowns</li> <li>An eye for detail from infrastructural to the code level</li> </ul><br><p><br><br></p><br><p><strong>What tech will I be using?<br><br></strong></p><br><p>Infrastructure &amp; Configuration: Terraform, Puppet, Serverless Framework / CDK<br><br></p><br><p>Languages: Java, Python, TypeScript, Go<br><br></p><br><p>Operating Systems: Ubuntu LTS<br><br></p><br><p>Runtimes: Docker/Nomad on AWS EC2, AWS ECS (Fargate), AWS Lambda<br><br></p><br><p>Datastores: RDS PostgreSQL, Couchbase, DynamoDB, Elasticache (Redis), S3<br><br></p><br><p>Messaging: RabbitMQ, SNS/SQS, Kinesis<br><br><br></p><p>Benefits:<br><br></p><p><br><br><br></p><br><ul> <li>401k contribution up to a maximum of 3% on base salary</li> <li>70% contribution towards Health, Optical and dental plans including partner and family.</li> <li>1 x Life &amp; AD&amp;D Insurance</li> <li>Holidays: 33 days per year inclusive of public holidays</li> <li>Flexible, autonomous working environment</li> <li>Travel expenses covered</li> <li>Spec your own environment</li> <li>Employee Assistance Program</li> <li>Team events</li> <li>Monthly snack box</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T16:36:31.000Z"
+  },
+  "company": {
+    "name": "Current Health",
+    "link": "https://www.linkedin.com/company/currenthealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

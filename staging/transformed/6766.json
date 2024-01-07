@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - MotoSport",
+    "industry": "Marketing and Advertising,Consumer Goods,Retail",
+    "description": "<strong><u>Description<br><br></u></strong><em>Position at MotoSport<br><br></em>As a Software Engineer you will play an integral role in Motosport helping our customers never miss a ride. Our Engineers develop cross-platform web-based applications that look beautiful and perform at blazing speed. We work with cutting edge technologies and assist the product teams to identify feasibility of experiences to thrill our customers.<br><br>As an Engineer, you will provide technical support in every stage of our development process: gathering requirements from business or vendors, designing solutions, developing quality software, production deployments and maintaining a real ownership of our applications. All of these following Agile principles and strong soft skills like ownership, responsibility, proactivity, transparency, patience, feel comfortable working with remote teams from other countries, build and maintain strong relationships and communication channels.<br><br>You will be part of an experienced team, which may help you grow as an Engineer and develop skills that will help you get to the next level in our organizations.<br><br><strong><u>Essential Duties &amp; Responsibilities<br></u></strong><ul><li>Build the best user experience to delight customers. Period.</li><li>Develop scalable services and tools to improve responsiveness and overall performance</li><li>Implement solutions for interacting with marketplaces and third party vendors</li><li>Raise the bar. Share your ideas and experience with other engineers, and advocate for best practices, great usability and exceptional quality. </li><li>Work with product managers to understand the customers, their requirements and design scalable solutions to thrill customers in an Agile environment.</li><li>Passion for unit and automated testing, modular designs, and shipping quality code</li><li>Develop cross-platform web-based applications using leading-edge technologies like Symfony or Laravel for PHP, AJAX, JQuery, CSS3, HTML5, NodeJs, MongoDB.</li><li>Responsive web design is part of your definition of done</li><li>Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code.<br></li></ul><strong><u>Qualifications, Skills &amp; Abilities<br></u></strong><ul><li>Experience designing and modeling data from MS-SQL Server, Postgres and MongoDB to meet business requirements and then deliver it to the MotoSport.com code via RESTful services.</li><li>Experience using Python to build and maintain cross-platform web service architecture with JSON RESTful web services.</li><li>Experience working with Amazon Web Services is a plus</li><li>1-3 years of experience in web platforms.</li><li>Comfortable operating in a full-stack role using Linux, although not required.</li><li>Experience working in a continuous delivery environment is a plus.</li><li>Experience working within SCRUM or Agile environments is a plus.</li><li>Experience working with APIs in an SOA environment</li><li>Single page applications like React, Angular are a plus.</li><li>Java Experience is a plus.</li><li>Powersports enthusiasm a plus, but not required<br></li></ul><strong><u>About Motosport<br><br></u></strong>MotoSport.com is more than a powersports company. We are a gathering of power sports devotees who ride and wrench like there\u2019s no tomorrow\u2026 just like our customers. Because we\u2018re living the moto life, we make sure that we have the right parts and gear for you \u2013 whoever you are. But we wouldn\u2019t be that different from the other guys if we just had a ton of stuff, would we? So we\u2019ll do you one better: here at MotoSport.com we have a wealth of expert knowledge that comes from experience. That means our customers get the right parts and gear every time, and we go above and beyond to get it there in time. At the end of it all, we strive to make people (who aren\u2019t that different from us) happy and satisfied\u2026 After all, we know what it\u2019s like to be passionate about powersports, so who better to bring that enthusiasm to life than MotoSport?<br><br>We take this concept seriously, both personally and professionally, which for employees translates to careers with growth potential and the ability to take ownership and make an impact daily. Perks such as an excellent gear discount, an annual summer Adventure Contest, summer barbecues, and a pet-friendly office make for a fun work environment. MotoSport employees will have the benefit of working with colleagues who are passionate about their careers as well as the outdoors. Benefits include medical, dental, vision, and disability &amp; life insurance, paid maternity and paternity leave, 401(k) matching, and Flexible Spending or Health Savings Accounts.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:51:15.000Z"
+  },
+  "company": {
+    "name": "Backcountry",
+    "link": "https://www.linkedin.com/company/backcountry"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96900,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Park City",
+    "region": "UT",
+    "postal_code": "84068",
+    "street_address": null,
+    "latitude": 40.660316,
+    "longitude": -111.5095
+  }
+}

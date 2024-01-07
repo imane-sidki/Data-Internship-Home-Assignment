@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Networking",
+    "description": "<p>CENIC's <strong>Software Engineers</strong> design, build, and implement robust software solutions to advance CENIC\u2019s organizational goals and objectives, including support of the CENIC network.This position provides advanced-level programming expertise for a variety of system integrations, tools development, software support, and troubleshooting activities.The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.</p><p></p><p><strong>Key Success Factors</strong></p><ul><li>Experience with and strong understanding of object-oriented design principles</li><li>Strong interpersonal skills and ability to work well in a diverse team-oriented environment</li><li>Adept at understanding technical information and learning new concepts</li><li>Strong interest in learning about networking concepts and technologies</li></ul><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Develop quality software applications</li><li>Analyze and maintain existing software applications</li><li>Design highly scalable, testable code</li><li>Document code consistently throughout the development process</li><li>Identify, troubleshoot, and resolve problems relating to internal mission-critical software applications</li><li>Work with stakeholders to define requirements and implement software used to instrument, manage, and troubleshoot large-scale diverse networks</li><li>Use robust and secure software development principles: robust exception-handling, input validation, proper application and use of cryptographic algorithms and libraries, proper handling of concurrency issues</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li>5+ years of full-time software engineering experience</li><li>Proficiency in at least one backend server language such as <strong>Java</strong>, <strong>Scala</strong>, <strong>Go</strong>, or <strong>Python </strong>(we use <strong>Python</strong>)</li><li>Production experience with database systems - <strong>SQL</strong> and/or <strong>NoSQL</strong> (we use <strong>Postgres</strong>, <strong>ElasticSearch</strong>)</li><li>Experience working in <strong>Agile </strong>and <strong>SCRUM </strong>methodologies</li><li>Experience working with <strong>CI/CD</strong> tools</li><li>Experience working with package managers such as <strong>Maven</strong>, <strong>PyPI</strong>, and <strong>NPM</strong></li><li>Experience working with version control systems (we use <strong>git</strong>)</li><li>Experience working with a major cloud platform (<strong>AWS </strong>preferred)</li><li>Familiarity with <strong>Docker </strong>and container orchestration systems</li><li>Familiarity with <strong>APIs</strong> and <strong>microservices</strong></li></ul><p><br></p><p><strong>About CENIC</strong></p><p><strong>Join the team that<em>connects California to the world</em></strong>\u2014 advancing education and research statewide by providing the world-class computing network essential for innovation, collaboration, and economic growth. Our organization operates the California Research and Education Network (CalREN), a high-capacity computer network with more than 8,000 miles of optical fiber. The network serves over 20 million users across California, including the vast majority of K-20 students together with educators, researchers, and individuals at other vital public-serving institutions.</p><p><br></p><p><strong>Why work at CENIC?</strong></p><ul><li><strong>Company Culture:</strong>Small teams and a collaborative environment provide the opportunity to make a large impact in a small organization.</li><li><strong>Workplace Flexibility:</strong>We understand that the world is changing and we're open to remote and hybrid work options.</li><li><strong>Community Engagement:</strong>We work with research and education institutions in the largest state economy in the United States. The work you do has meaning.</li><li><strong>Health Benefits:</strong>We have generous medical benefits as well as dental, vision, and life insurance.</li><li><strong>Paid Time Off:</strong>We offer liberal vacation, holiday, and sick leave.</li><li><strong>Investment in Your Future:</strong>CENIC contributes to your 403(b) even if you don't. We also offer matching contributions on top of that.</li></ul><p><br></p><p><strong>Applicants must be currently authorized to work in the United States on a full-time basis.</strong></p><p><br></p><p><strong>Location</strong></p><p>CENIC has two California offices, the home office in La Mirada and a smaller office in Berkeley. This position is based out of our La Mirada office.Please note due to COVID-19 this position is temporarily remote and not expected to be back in the office until conditions in the state of California improve.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T16:54:56.000Z"
+  },
+  "company": {
+    "name": "CENIC",
+    "link": "https://www.linkedin.com/company/cenic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

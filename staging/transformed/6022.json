@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Marketing and Advertising,Information Technology and Services",
+    "description": "<p><strong>OVERVIEW:</strong></p><p>We are looking for a Software Engineer Ito join ourInnovation department at our rapidly growing Center City, Philadelphia office.</p><p><br></p><p>As a Software Engineer I on the Data Engineering team, you will have the opportunity to write code to the standard of Sidecar\u2019s internal best practices, while collaborating with others and owning multiple systems and operational tools.</p><p><br></p><p><strong>REQUIREMENTS:</strong></p><ul><li>1+ years of experience with Go, Python, or JavaScript</li><li>Database knowledge or experience</li><li>Github knowledge or experience</li><li>Docker knowledge or experience</li></ul><p><br></p><p><strong>BONUS:</strong></p><ul><li>Experience working with Kubernetes</li><li>Knowledge of microservice architecture</li><li>Experience in a production environment</li><li>Knowledge of Postgres and Redshift</li></ul><p><br></p><p><strong>WHO YOU ARE:</strong></p><p>This is an intermediate level position; the idealcandidate is looking to start their career in Software Engineering within the Digital Marketing industry. You are:</p><ul><li>An intelligent, motivated person who thinks for themselves and is motivated by team success as well as their own</li><li>Collaborative; open to and positively receive and deliver feedback</li><li>Excited to build your skills with guidance from your manager and through hands-on application</li></ul><p><br></p><p><strong>WHAT YOU\u2019LL DO:</strong></p><p>As a Software Engineer on our Data Engineering team, you will:</p><ul><li>Work on data governance, ensuring the data we store is accurate and necessary.</li><li>Maintain data pipelines for product feeds, advertising metrics, and more.</li><li>Adhere to and improve upon Sidecar's standards for coding, testing, and documentation</li><li>Improve on our existing features and help maintain scalable, stable, and sustainable codebases</li><li>Successfully deliver tasks that meets company, product, and team goals and standards</li></ul><p><br></p><p>...If you reached this point, we hope you're feeling excited about the job description. Even if you don't feel that you meet every single requirement, we still encourage you to apply. We're eager to meet people that believe in Sidecar's mission and can contribute to our team in a variety of ways \u2013 not just candidates who check all the boxes!</p><p><br></p><p><strong>BENEFITS:</strong></p><ul><li>Comprehensive Insurance Coverage</li><li>401K Plan with Employer Match</li><li>Employee Stock Options Program</li><li>Generous Paid Time Off (20 Vacation days, 5 Sick days, 20 Company Holidays)</li><li>Flexible Schedule</li><li>Pre-tax deductions of public transportation costs for your commute</li><li>Choice of Device: Mac or Windows + additional tech accessories</li><li>Discounted Gym Membership</li></ul><p><br></p><p><strong>WHO WE ARE:</strong></p><p>Sidecar is dedicated to solving the challenges retailers face in performance marketing channels like paid search and shopping.</p><p><br></p><p>Our technology digests and analyzes massive amounts of real-time data to continually improve campaign performance and efficiency for e-commerce retailers of all sizes and verticals in the U.S. and abroad, including Under Armour, Crate &amp; Barrel, and Boscov's, to name a few. Our team of performance marketing pros collaborate with our customers to ensure our approach and technology remain aligned to their businesses and goals.</p><p><br></p><p>Sidecar is proud to be an equal opportunity employer with employees stemming from a wide range of backgrounds and experiences. As a business, we value the enrichment that diversity brings to our organization and are committed to a culture that creates a sense of inclusion and belonging. We welcome new perspectives and affirm that all employment decisions are made without regard to race, color, ancestry, religion, national origin, age, familial or marital status, sex, sexual orientation, pregnancy, gender identity or expression, disability, genetic information, veteran status, or any other classification protected by federal, state, or local law.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T15:29:21.000Z"
+  },
+  "company": {
+    "name": "Sidecar",
+    "link": "https://www.linkedin.com/company/sidecar"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

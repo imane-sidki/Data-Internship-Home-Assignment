@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p>Infosys is seeking Machine learning Engineer. This position will interface with key stakeholders and apply your technical proficiency across different stages of the Software Development Life Cycle including Requirements Elicitation, Application Architecture definition, and Design; play an important role in creating the high-level design artifacts; deliver high-quality code deliverables for a module, lead validation for all types of testing and support activities related to implementation, transition and warranty; be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and value</p><p></p><p><strong>Required Qualifications:</strong></p><ul><li>Candidate must be located within commuting distance of Tampa, FL, or be willing to relocate to the area. This position may require travel in the US.</li><li>Bachelor\u2019s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.</li><li>At least 4 years of Information Technology experience</li><li>U.S. citizens and those authorized to work in the U.S. are encouraged to apply, we are unable to sponsor at this time.</li></ul><p><br></p><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience with research and development of ML-based solutions, including the productization, deployment, and lifecycle management of production-level ML models. Pipelines</li><li>Experience in developing ML solutions with Python ML Stack (Pandas, Matplotlib, SciKitLearn) , Jupyter, Keras/tensor flow</li><li>Experience with Big Data processing: Hadoop, Redis, Spark, Big Query, Data Lake, Qlik View</li><li>Experience working on one of DB technologies, writing queries etc. \u2013 Oracle, No-SQL, PL/SQL or Postgres</li><li>Work with large complex data sets to extract analyze, visualize and infer meaningful insights</li><li>Design and monitor tools to measure a particular problem or the contribution of a particular technique over time</li><li>Work with product management and application development teams to identify, prototype, develop and deploy ML models.</li><li>Experience developing cloud-based applications, preferably AWS, GCC</li><li>Experience of full-stack development of enterprise applications using Java/J2EE, JavaScript, SOAP, REST Webservices, Spring Boot, Microservices</li></ul><p></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-07T19:41:13.000Z"
+  },
+  "company": {
+    "name": "Infosys",
+    "link": "https://in.linkedin.com/company/infosys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

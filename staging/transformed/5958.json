@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Retail,Food & Beverages",
+    "description": "<p>MUST HAVES:</p><p>-5+ Python software development for composition and modularity, debugging and following tracebacks</p><p>-Strong stats background and concepts including hypothesis testing, correlation, R squared, P-value</p><p>-Experience with Pandas, NumPy, SciPy, Pytorch </p><p>-Tensorflow functional API, deep learning</p><p>-Mathematics of machine learning- linear algebra, multivariable calculus </p><p>-SQL querying </p><p>-Hyperparameter optimization, regularizing regression models </p><p><br></p><p>PLUSSES:</p><p>-Masters or PhD- HIGHLY preferred!! </p><p>-Ecommerce experience </p><p></p><p>DAY TO DAY:</p><p>A company is looking for a Data Scientist/Machine Learning Engineer to sit remotely within the US.We follow industry standard practices for managing, collaboration, deployment and testing.We deploy and interact with resources on AWS.</p><p>Responsibilities include:</p><p>\u2022 Analyze large data sets by quantifying the data quality, identifying particular patterns, and visualizing results </p><p>\u2022 Understand business problems and identify the right data sets and ML/Statistical approach to produce the desired outcomes </p><p>\u2022 Adapt to account for changes and be able to propose alternative approaches </p><p>\u2022 Ideate and develop analytics and modeling solutions cross-functionally to build customized, long-term, and sustainable solutions </p><p>\u2022 Provide critical thought leadership and enhance organizational capabilities </p><p>\u2022 Own machine learning pipelines end-to-end </p><p>\u2022 Write production-grade machine learning code using standard engineering practices and deploy models to production </p><p>\u2022 Improve codebase and lead/participate in code reviews with Research Scientists and Data Scientists </p><p>\u2022 Help non-engineers develop their engineering skills </p><p>\u2022 Mentor junior team members and contribute to a culture where everyone is valued</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T23:42:38.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

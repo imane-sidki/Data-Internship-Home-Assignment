@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising",
+    "description": "Hello, Software Engineer!<br><br>Freeosk is looking for a Software Engineer to join our Technology team. This position will own the process of automating functional testing of our kiosk application and contribute to its feature and functionality evolution. Our ideal candidate has experience developing durable ReactJS or Electron based applications, strong functional testing skills, and a testing oriented mindset.<br><br>Our HQ is in Chicago, but you can be located within the continental United States. There will be travel required to our Chicago office from time to time.<br><br>Key responsibilities for this role...<br><ul><li>Improve the durability of the Kiosk application through code enhancements, technical reviews, and documentation</li><li>Design and execute a functional test suite for the kiosk application</li><li>Automate the functional critical path testing of the kiosk application</li><li>Contribute to debugging and addressing field issues related to the kiosk application</li><li>Review kiosk application pull requests and provide feedback</li><li>Contribute to the forward vision of the kiosk app</li></ul>Your skills, background and experience include\u2026<br><ul><li>2+ years professional experience with React (ReactJS) and NodeJS</li><li>3+ years of professional development experience </li><li>3+ years of experience using Git</li><li>Knowledge of Unix based operating systems a plus</li><li>Knowledge of all or any is a plus: C#, Java, Ruby, Python</li><li>Excellent written and verbal communication skills</li><li>Ability to prioritize daily activities based on project goals established by management<br><br></li></ul><strong> Our Benefits <br></strong><ul><li>Competitive pay</li><li>401(k) Match Program</li><li>Medical, Dental, Vision Insurance</li><li>Work From Home Stipend</li><li>Short Term and Long Term Disability</li><li>Life Insurance</li><li>Paid Time Off</li><li>Volunteer Opportunities</li><li>Summer Hours</li><li>Parental Leave</li><li>Tuition Reimbursement</li><li>Sabbatical Program</li><li>Professional Development</li><li>Gym Stipend</li><li>Free Divvy membership</li><li>Social events</li></ul>Who are we?<br><br>Freeosk uses the power of free to fuel the product discovery process, speeding the connection between consumers and the brands they love. We have smart-kiosks in more than 1,300 retail locations across the United States. We count over 70% of CPG companies in the Fortune 500 as customers and every one of those in the Fortune 100. We expect to aggressively expand our network of kiosks over the next few years.<br><br>We are a nimble, Chicago-based omni-channel marketing platform made up of a cross-disciplinary team of engineers, creatives, data analysts, account managers and other specialists. We help brands advance their key marketing initiatives using our patented technology and a unique database of real-world consumer intent signals.<br><br>Freeosk is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T17:11:12.000Z"
+  },
+  "company": {
+    "name": "Freeosk",
+    "link": "https://www.linkedin.com/company/freeosk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

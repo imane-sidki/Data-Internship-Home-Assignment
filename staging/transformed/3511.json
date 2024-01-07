@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "<p><strong>Job Description</strong></p><p>If you are an affable and talented data scientist with excellent attention to detail who enjoys a flexible, fast-paced work environment, Adlumin is the place for you. We are a growing startup in Washington, DC, running a cloud-native, machine learning-empowered Security Information and Event Management (SIEM) platform. Our clients range from small regional financial institutions to multi-national corporations.</p><p>The Data Science team at Adlumin collaborates with a team of engineers to automate the ingestion of security logs into the cloud and builds machine learning solutions for empowering IT security. These applications have immediate impact on Adlumin clients, boosting their ability to effectively monitor billions of log messages through online model scoring and highly informative alerts on events that warrant further investigation. You will be joining a team of data scientists committed to cutting-edge research in anomaly detection. The general use case is relatively new and therefore offers the opportunity to write breakthrough algorithms using unsupervised modeling techniques on a wide range of data types.</p><p><br></p><p><strong>THIS IS NOT A REMOTE POSITION - CANDIDATES MUST RESIDE IN OR BE RELOCATING TO THE WASHINGTON, DC METRO AREA AND MUST BE U.S. CITIZENS; WE OFFER SUBSTANTIAL FLEXIBILITY ON WORKING FROM HOME; NOT OPEN TO RECRUITERS</strong></p><p><br></p><p><strong>Required Qualifications</strong></p><ul><li>Bachelor\u2019s Degree in STEM field, advanced degree a plus</li><li>2-4 years\u2019 experience in a machine learning developer role and general familiarity with all relevant Python libraries</li><li>Non-STEM degree combined with long track record in data mining will be considered, especially candidates with exposure to cloud data solutions and/or cybersecurity domain knowledge</li><li>Fluency in anomaly detection techniques and unsupervised methods</li><li>Ideal candidate will have strong theoretical foundation in the main categories of machine learning techniques and sharp intuition for commercial application</li><li>Attention to detail</li><li>An ability to adapt to change in a fast-paced environment\u2014we are a small, agile team, and require someone who can roll with changes and hit the gas when it\u2019s time to move</li><li>Effective and proven time management skills\u2014you have to be someone we can count on to deliver on time, every time</li><li>Top-notch communication skills\u2014the kind you use to engage team members and interact with clients</li><li>US Citizenship</li></ul><p><strong>What You Will Be Doing</strong></p><ul><li>Develop and own 3-4 distinct algorithms targeting different data streams, solving unique challenges in terms of data ingestion, model training, and model inference</li><li>Solve technical challenges specific to keeping machine learning applications compatible with the cloud architecture in place, being especially mindful of compute capacity optimization issues inherent in the platform</li><li>Utilize AWS services such as Kinesis, Firehose, Glue, Athena, and Lambda as building blocks for the functions listed above and algorithm deployment functionalities in such services as CodePipeline and SageMaker</li><li>Communicate with clients on occasion to explain the intricacies of a given machine learning algorithm and clarify the intuition behind a particular detection or alert</li><li>Write documentation and perform monitoring and performance evaluation on models under ownership and recommend development plans for future iterations and patches</li><li>Develop and maintain cloud-based platforms for safely testing new algorithms prior to deployment and for change management</li><li>Work on government contracts for delivering customized machine learning and analytics solutions, meeting client expectations and solving challenges specific to the client\u2019s data environment</li><li>Provide subject matter expertise to the team in chosen area of machine learning such as graph-based techniques, dimensionality reduction, and time-series</li><li>Partner with peers in the broader Product Engineering organization within Adlumin to streamline interactions between backend and frontend teams and reduce bottlenecks in the development/deployment process</li><li>Influence peers and leadership to advance promising solutions</li></ul><p><strong>Featured Benefits</strong></p><ul><li>Full Medical/Dental/Vision Insurance</li><li>Unlimited Vacation</li><li>Bonus and stock option packages</li></ul><p><br></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T21:50:01.000Z"
+  },
+  "company": {
+    "name": "Adlumin, Inc.",
+    "link": "https://www.linkedin.com/company/adlumin-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

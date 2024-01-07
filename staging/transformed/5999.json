@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong><u>Minimum Qualifications<br></u></strong><ul><li>Passion for machine learning (ML) and understanding of industry trends, especially as it relates to NLP (deep learning, large language models, transfer learning, etc.)</li><li>Experience reading and implementing machine learning research papers</li><li>Strong Python programming skills with demonstrated software development best practices, including testing, OOP, etc.</li><li>Familiarity with modern tools of the trade, including TensorFlow and/or PyTorch, as well as SpaCy or another NLP library</li><li>Ability to create and maintain scalable APIs that can serve model results with a wide variety of memory, CPU, GPU requirements, as well as low latency (well below 1 second)</li><li>Strong DevOps skills and ability to maintain CI pipelines for everything from model training to model serving in production</li><li>Comfort with *nix, Git and Github, Docker </li><li>Experience with Agile and assisting with large-scale, highly available products<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li>Familiarity with modern ML frameworks such as DVC, MLFlow, or Kubeflow</li><li>Experience deploying and supporting applications on Kubernetes</li><li>Experience in cloud computing services, especially AWS<br></li></ul><strong><u>Job Summary<br><br></u></strong>The Machine Learning Engineer designs and develops machine learning models that help our 70 million monthly users. This team member develops research programs that evolve and adapt the state-of-the-art (SOTA) results available in the literature and creates the rich infrastructure needed to support model development from prototyping to production.<br><br><strong><u>Responsibilities<br></u></strong><ul><li>Assess SOTA research to identify and prioritize research for prototyping and experimentation</li><li>Establish and evolve processes and infrastructure for training and evaluating ML models</li><li>Develop modern best practices for low-latency model serving at scale</li><li>Find or create the required datasets and ensure they are managed for longevity and model reproducibility</li><li>Participate in code reviews of your and your team's work</li><li>Collaborate closely with data science, project, and product management team members<br></li></ul><strong><u>Who We Are<br><br></u></strong>Dictionary.com is committed to eliminating anxiety with the English language through simple, expertly crafted definitions, the perfect synonyms, and rich narratives about the intersection of words and culture. We are the leading digital source for everything related to words and their meanings, with 70 million monthly users and 100 million app installs. We believe words are core to the human experience, and as such, we\u2019ve made it our mission to deliver the best dictionary and thesaurus imaginable to the largest audience possible.<br><br>The Dictionary.com team exudes energy and a passion for words and language and is driven to invest in the people and products that will propel Dictionary.com forward another 20+ years.<br><br><strong>Disclaimer<br><br></strong>This is an outline of the primary responsibilities of this position. As with everything in life, things change. The tasks and responsibilities can be changed, added to, removed, amended, deleted and modified at any time by the leadership group.<br><br>We are proud equal opportunity employers and committed to providing an inclusive environment based on mutual respect for all candidates and team members. Employment decisions, including hiring decisions, are not based on race, color, religion, national origin, sex, physical or mental disability, sexual orientation, gender identity or expression, age, military or veteran status or any other characteristic protected by state or federal law. We also provide reasonable accommodations to qualified individuals with disabilities in accordance with state and federal law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T11:02:46.000Z"
+  },
+  "company": {
+    "name": "Dictionary.com",
+    "link": "https://www.linkedin.com/company/dictionary.com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

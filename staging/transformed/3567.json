@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Infrastructure",
+    "industry": "Internet",
+    "description": "<p>Goal: To facilitate and empower every team/individual managing services at scale. Scope: This team manages all infra services across ByteDance as well as TikTok operation in the US. As the team is ramping up, it is very operation-heavy, and now we are moving into a future of automation/code-heavy projects. We would like to automate ourselves out of work! Responsibilities: Build and maintain our advanced compute, network and storage infrastructure. Build automation to manage and monitor infrastructure services and applications. Experience in configuration management and infrastructure provisioning (Tech: Chef, Puppet, Ansible, Terraform). Experience or strong knowledge on: storage concepts (object/block/file storage, NFS), compute concepts (different OS environments, virtualization), networking concepts (DNS, HTTP, TCP, UDP, IP), database concepts (MySQL/PostgreSQL databases, Linux servers)</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T22:52:53.000Z"
+  },
+  "company": {
+    "name": "TikTok",
+    "link": "https://www.linkedin.com/company/tiktok"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

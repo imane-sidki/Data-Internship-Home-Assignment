@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (Modeling)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We\u2019re working to find new and better ways to help businesses succeed on their own terms\u2014and we\u2019re looking for people like you to help shape tomorrow at Square.<br><br><strong><u>Job Description<br><br></u></strong>As a Machine Learning Engineer within the Risk Machine Learning team, you work on projects that enable a software driven, machine learning centric view on all money movement and every transaction within the rapidly growing Square seller ecosystem. This touches on actively maximizing the trade off of revenue growth and risk using artificial intelligence. The machine learning driven software that we release interacts with every transaction and money movement within our seller ecosystem - a profound degree of scale and impact. Such machine learning techniques touch on reinforcement learning, decision theory, deep learning sequence modeling, and optimization theory. In addition, we also strive to provide our sellers, through seller facing products, with transparency around why our machine learning made a particular decision. This touches on algorithms in the relatively new space of explainable artificial intelligence.<br><br>Our algorithms derive value from our unique and rich data from our entire product portfolio within our rapidly growing seller ecosystem. We partner with business, product, operations and engineering teams to drive optimal decision making systems using sophisticated modeling and machine learning. We\u2019re a passionate team of entrepreneurs, scientists, and engineers who are shipping machine learning software that actively actively manages Square\u2019s view on each transaction as it pertains to our revenue growth and risk.<br><br>You Will<br><ul><li>Build machine learning/deep learning models that detect risk (credit or fraud) activity in real time across our Seller\u2019s ecosystem consisting of payments, banking and debit card products. </li><li>You will leverage experimentation mindset along with state-of-the-art algorithms to drive down false positives, collaborate on new product features to drive losses down and explore new datasets (including 3rd party data) to engineer new features for risk models. </li><li>Collaborate with business leaders, subject matter experts, and decision makers to develop success criteria and optimize new products, features, policies, and models<br><br></li></ul><strong><u>Qualifications<br><br></u></strong>You Have<br><ul><li>An advanced degree (M.S., PhD.), preferably in Computer Science,Engineering, Statistics, Physics, Mathematics or a related technical field.</li><li>PhD plus 2 years (or Master plus 4 years or Bachelor plus 6 years) industry working experience on applied Machine learning or Deep learning </li><li>A strong track record of performing machine learning model development using Python (numpy, pandas, tensorflow, pytorch, scikit-learn, etc.) and SQL/NoSQL interaction patterns.</li><li>Expert level knowledge of modern techniques in machine learning and deep learning, e.g., transformer network architectures, with an orientation to maximizing such algorithms in a large scale production setting. Reinforcement learning experience is a plus for developing optimal control policies</li><li>Familiarity with Linux/OS X command line, version control software (git), and general software development principles with a machine learning software development life-cycle orientation.</li><li>Machine learning strategic sequencing of methodological and software improvements to work back from maximizing core metrics associated with optimizing the business.</li><li>The ability to clearly communicate complex results to technical and non-technical audiences and stakeholders (PMs, Operations, Engineers).<br><br></li></ul><strong><u>Additional Information<br><br></u></strong>At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible.<br><br><strong>Perks<br><br></strong>At Square, we want you to be well and thrive. Our global benefits package includes:<br><ul><li>Healthcare coverage</li><li>Retirement Plans</li><li>Employee Stock Purchase Program</li><li>Wellness perks</li><li>Paid parental leave</li><li>Paid time off</li><li>Learning and Development resources<br><br></li></ul><em>Square, Inc. (NYSE: SQ) builds tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in person, manage their business, and access financing. Individuals use Cash App to spend, send, store, and invest money. And TIDAL is a global music and entertainment platform that expands Square&apos;s purpose of economic empowerment to artists. Square, Inc. has offices in the United States, Canada, Japan, Australia, Ireland, Spain, Norway, and the UK.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T02:23:03.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 114000,
+    "max_value": 263000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Staff Network Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "<strong><u>Company Description<br><br></u></strong>ServiceNow is making the world of work, work better for people. Our cloud\u2011based platform and solutions deliver digital workflows that create great experiences and unlock productivity for employees and the enterprise. We&apos;re growing fast, innovating faster, and making an impact on our customers&apos; and employees&apos; lives in significant and important ways. With over 6,900 customers, we serve approximately 80% of the Fortune 500, and we&apos;re on the 2020 list of FORTUNE World&apos;s Most Admired Companies.\u00ae<br><br>We\u2019re looking for people who are ready to jump right in and help us build on our incredible momentum, our diverse, engaged workforce, and our purpose to make the world of work, work better.<br><br>Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow.<br><br><strong><u>Job Description<br><br></u></strong><strong>What you get to do in this role:<br></strong><ul><li>Drive a business-critical public cloud infrastructure around the world.</li><li>Design and deploy networks based on business and technical requirements.</li><li>Participate in the design and coding of a new piece of automation or on-platform optimization.</li><li>Partner with project and program managers to meet overall timelines and resolution of issues.</li><li>Operate and troubleshoot networks to identify and resolve issues quickly.</li><li>Take a lead role in the engagement and mitigation of outage causing events or issues.</li><li>Validate problem descriptions and perform detailed problem diagnosis; track and update problems in trouble-ticketing system.</li><li>Perform non-critical investigations into functionality that is not working as desired.</li><li>Engage deeply in the sustainment function to proactively analyze network parameters such as capacity and availability to ensure issues are fixed before they cause an outage.</li><li>Review, consult and prepare for planned change introduction to production environment.</li><li>Participate in rotating \u201con call\u201d schedule with other members of the team including weekends.</li><li>Partner with teams to plan and execute software code upgrades and device maintenance.</li><li>Partner with the Site Reliability Engineering (SRE) team to provide mentorship and input on operational process improvements.</li><li>Provide feedback to infrastructure architects on design issues or improvements and input into the design process for new initiatives.</li><li>Sample first 6-month deliverables</li><li>Quickly integrate into the environment and gain a solid understanding of network architecture, organization, and process/procedures.</li><li>Deploy capacity into a datacenter based on demand.</li><li>Participate in incident bridges and serve as the networking engineering resource to troubleshoot and mitigate outages.</li><li>Partner with the SRE team to identify and solve one network process issue.<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>To be successful in this role you have:</strong><ul><li>The candidate should have a solid foundation in networking including routing, switching, security and load balancing.</li><li>4+ years of experience with public peering relationships and route optimizations with other ISPs as a network engineer.</li><li>Continuous Integration/Continuous Deployment (CI/CD): using DevOps, Bit Bucket, GitHub.</li><li>Experience in one or more automation languages (PowerShell, shell scripts, Perl, Python, Ansible, Terraform) desired.</li><li>A minimum of 5 years of experience in working on Internet and data center networks.</li><li>Possess a solid understanding of and have experience with most of the following network technologies: MPLS, RSVP-TE, BGP, OSPF, IS-IS, HSRP/VRRP, IPSEC, SNMP.</li><li>Deep, hands-on experience with TCP/IP protocols including capturing and analyzing traffic with Wireshark and/or other tools.</li><li>Familiarity with Cisco IOS and JunOS operating systems required.</li><li>F5 and Cisco ASA knowledge and experience is strongly desired.</li><li>Experience with network monitoring applications such as EMC Watch4Net, Cacti, Splunk is a plus.</li><li>The ability to partner with peers who are globally distributed is a key part of this role.</li><li>Passion for customer experiences and focus on delivering high-quality support.</li><li>Strong communication skills and empathy for customers.</li><li>Ability to learn new technology in a fast-paced environment.</li><li>2+ years of experience with cloud computing technologies (e.g. Azure, AWS, Google Cloud Platform, etc.) across Windows and/or Linux</li><ul><li>Azure Core Platform: Compute, Storage, Networking.</li><li>Azure Web Apps: developing, deploying, debugging and supporting web applications using .NET, Java, PHP, Python, Node.js etc. on Windows or Linux.<br></li></ul></ul><strong><u>Additional Information<br><br></u></strong>ServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.<br><br>If you require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at talent.acquisition@servicenow.com for assistance.<br><br>For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have to obtain export licensing approval from the U.S. Government for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the U.S. Government.<br><br>Please Note: Fraudulent job postings/job scams are increasingly common. Click here to learn what to watch out for and how to protect yourself. All genuine ServiceNow job postings can be found through the ServiceNow Careers site.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:40:11.000Z"
+  },
+  "company": {
+    "name": "ServiceNow",
+    "link": "https://www.linkedin.com/company/servicenow"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kirkland",
+    "region": "WA",
+    "postal_code": "98034",
+    "street_address": null,
+    "latitude": 47.675507,
+    "longitude": -122.20336
+  }
+}

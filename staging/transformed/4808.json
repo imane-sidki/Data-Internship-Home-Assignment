@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Medical Devices,Biotechnology,Pharmaceuticals",
+    "description": "GRAIL is a healthcare company whose mission is to detect cancer early, when it can be cured. GRAIL is focused on alleviating the global burden of cancer by developing pioneering technology to detect and identify multiple deadly cancer types early. The company is using the power of next-generation sequencing, population-scale clinical studies, and state-of-the-art computer science and data science to enhance the scientific understanding of cancer biology, and to develop its multi-cancer early detection blood test. GRAIL is headquartered in Menlo Park, CA with locations in Washington, D.C., North Carolina, and the United Kingdom. It is supported by leading global investors and pharmaceutical, technology, and healthcare companies. For more information, please visit www.grail.com .<br><br>As a software engineer at GRAIL you\u2019ll enjoy working on a broad array of software systems and projects. We pride ourselves on building effective, efficient, easy to use and scalable software systems to address GRAIL\u2019s many computational and automation related challenges.<br><br>Quality and operational excellence are our joint responsibility. Each and every one of us takes ownership of the quality our products from design, through implementation, testing and production. We review code before check-in, have thorough unit and integration tests, continuous integration and reproducible production deployments that we jointly operate.<br><br><strong><u>Projects Include<br></u></strong><ul><li>Cloud (Amazon, Google) automation and service development.</li><li>Data storage design, APIs and associate large scale data processing systems and algorithms.</li><li>Compression techniques and algorithms; algorithm design, implementation and optimization particularly for processing DNA sequencing data.</li><li>LIMS (Laboratory Information Management Systems) and lab robotics and automation management systems</li><li>EDC (Electronic Data Capture) System for conducting Clinical Studies</li><li>Mobile and web application development, user interface design and user experience research.<br></li></ul><strong><u>Your Background Should Include<br></u></strong><ul><li>Bachelors degree in Computer Science, Electrical Engineering, Bioinformatics or similar technical field. </li><li>1+ years of relevant work or internship experience designing, developing, testing and maintaining software.</li><li>Strong knowledge of general purpose programming languages including C++, Java, Javascript, Python, Go.</li><li>Interest in human biology and genetics (many engineers on our team have no prior experience in the life science industry.) <br></li></ul><strong><u>Bonus Points<br></u></strong><ul><li>Extensive experience in any of these areas: distributed systems, databases, security, storage, networking, web applications, UI or automation.</li><li>Experience with next generation sequencing data analysis (DNA, RNA, or epigenetic analysis.)</li><li>Demonstrated experience with and track record of quickly learning new programming languages and technologies. Demonstrated effective written and verbal communication skills.</li><li>Demonstrated leadership and self-direction. </li><li>Demonstrated willingness to both teach others and learn new techniques.<br></li></ul>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br><br>GRAIL, Inc. and its affiliates and subsidiaries (\"GRAIL\") does not accept any liability for fees for resumes from recruiters or employment agencies (\u201cAgency\u201d), without a binding, written recruitment agreement between GRAIL and Agency describing the services and specific job openings (\u201cAgreement\u201d). GRAIL may consider any candidate for whom an Agency has submitted an unsolicited resume and explicitly reserves the right to hire those candidate(s) without any financial obligation to the Agency, unless an Agreement is in place. Any email or verbal contacts with any person within GRAIL is inadequate to create a binding agreement. Agencies without an Agreement are requested not to contact any hiring managers of GRAIL with recruiting inquiries or resumes. Agencies interested in partnering with GRAIL may contact GRAIL's HR Department through our Customer Service team .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T18:42:40.000Z"
+  },
+  "company": {
+    "name": "GRAIL, Inc.",
+    "link": "https://www.linkedin.com/company/grail-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

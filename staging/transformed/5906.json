@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Python Developer/Cloud Engineer",
+    "industry": "Information Technology and Services,Financial Services",
+    "description": "<p>Going digital requires holistic thinking that puts humans at the center of everything. Entech delivers complete solutions including strategies, technologies, and implementation services to master digital convergence. We integrate our unique outside-in approach to people, processes, and technology to orchestrate digital empowerment to address today's business challenges. Mastering digital convergence at enterprise scale.</p><p><br></p><p>We are looking for a Python Developer/Cloud Engineer who is passionate about technology and adopting modern software engineering practices.</p><p><br></p><ul><li>CloudFormation is a must-have</li><li>Python - Must be a seasoned Python developer</li><li>DevOps CI/CD - Must be very strong in CI/CD and exposure to the typical tools (GIT, Jenkins, etc.) - know how to create templates that trigger action in the pipeline. </li><li>Typical AWS tech stack elements - Lambda, ECS, S3, etc.</li><li>Work with architects and other IT and business groups to identify technical and functional needs of applications based on priority</li><li>Design, build serverless solutions for cross-functional, multi-platform internal and client-facing applications</li><li>Ability to decipher complex, ambiguous customer needs and translate into optimal feature delivery</li><li>Writing great quality code with a drive for automated testing and validation</li><li>Thinks in terms of architecture as well as code. Able to develop and evaluate solutions for strengths and weaknesses (e.g., complexity, quality, scalability, latency, security, performance, data integrity, etc.) which are key for an enterprise engineer</li><li>Experience working with AWS technologies (Lambda, S3, Glue, Kinesis, DDB, RDS, Step functions, SQS\\SNS, AppSync)Understands software engineering best practices (e.g. CI\\CD automated pipelines, Operational Excellence, Information Security IAM)Experience with deployments and dev ops</li><li>Experience with application integration via APIs/REST, API Gateways</li><li>Experience providing technical leadership and mentoring other engineers on best practices</li><li>Experience with UI/UX and AWS cloud development: TypeScript/JavaScript/NodeJS/Java/ Python/CloudFormation/AWS SDK</li><li>Experience with cloud technologies and security: AWS, IAM, Okta OIDC, Auth0, API Gateways (Kong, CA API Gateway, AWS API Gateway)</li><li>Experience or exposure in build and CI\\CD technologies: GitHub, BitBucket, DevOps, Nexus or Sonar</li><li>Exposure to Agile development concepts</li><li>Bonus if exposure to Containers and orchestration: Docker, Fargate, Kubernetes, etc.</li><li>Hands on building multi region architectures</li><li>5+ years of professional software development experience</li><li>2+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems</li><li>Bachelor\u2019s degree in Computer Science or equivalent certifications or work experience</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:41:35.000Z"
+  },
+  "company": {
+    "name": "Entech",
+    "link": "https://www.linkedin.com/company/entech_2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Malvern",
+    "region": "PA",
+    "postal_code": "19355",
+    "street_address": null,
+    "latitude": 40.033436,
+    "longitude": -75.51271
+  }
+}

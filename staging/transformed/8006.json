@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Hospital & Health Care,Information Technology and Services",
+    "description": "<strong><u>Description<br><br></u></strong>At NRC Health, we promise to help our customers bring H uman U nderstanding to healthcare for their patients and communities. Our associates are at the heart of delivering that promise, so we promise that same H uman U nderstanding to each other. Come where culture is everything.<br><br><strong><u>As An Associate, You<br><br></u></strong>Innovate with us to move healthcare forward.<br><br>Give back to the community with volunteer time off.<br><br>Fit your role and do what you love.<br><br>Grow and develop along a career path designed by you.<br><br>Support one another \u2013 no one says, \u201cThat\u2019s not my job.\u201d<br><br>Play hard at beer:30 and team outings \u2013 we have a lot to celebrate.<br><br>Let life happen with 4+ weeks time off, a flexible work environment, and dress for your day attire.<br><br>Live healthy with a comprehensive healthcare plan and wellness program.<br><br>Who we want<br><ul><li> Do you write fast, clean, beautiful code? </li><li> Are you comfortable working across the full stack, SQL included? </li><li> Do you thrive in a collaborate environment where all team members are empowered to design and deliver solutions to end-users? </li><li> Do you enjoy being a feature developer that works with existing code and systems ? </li><li> Are you highly proficient in at least one object-oriented programming language, preferably C#? </li><li> Do you look forward to the mix of working with existing code and creating new things from scratch? <br></li></ul>What you will do<br><br>As a Software Engineer, you will be responsible for working with stakeholders and the development team to define, build and deliver software solutions. While we won\u2019t ask you to whiteboard a red-black tree, you do need to be strong in object-oriented design, data structures, algorithms, and run-time analysis. You are highly collaborative with a strong independent drive to see solutions through to implementation. You can look at an existing component or system, understand how it works and know what changes need to be made in order to satisfy the feature request. Additionally, you\u2019re a strong communicator that works effectively with non-technical business partners to inform product and business solutions.<br><br>What you need<br><ul><li> Bachelor's degree in relevant technical field or equivalent experience </li><li> 1 + years of experience using a t least one object-oriented programming language ( C# preferred) </li><li> Experience working in a collaborative environment using agile methodology </li><li> Experience working with relational databases </li><li> Advanced proficiency with at least one object - oriented programming language (C# preferred) <br></li></ul>Would be nice<br><ul><li> 1 + years\u2019 experience working on a professional development team </li><li> Experience in web development with a strong understanding of HTML and CSS </li><li> Strong understanding of MVC, OOP design, data structures, and algorithms </li><li> Familiarity with AWS technologies such as EC2, RDS, Lambda, Docker/ECS/ Fargate or SQS is a plus </li><li> Familiarity with client-side web frameworks such as AngularJS or EmberJS is a plus </li><li> Familiarity with ETL technologies like SSIS, Kettle or similar is a plus <br></li></ul>Have Purpose. Think B oldly. Feel C onnected . Be U nderstood.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:44:23.000Z"
+  },
+  "company": {
+    "name": "NRC Health",
+    "link": "https://www.linkedin.com/company/national-research-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 43800,
+    "max_value": 73300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lincoln",
+    "region": "NE",
+    "postal_code": "68583",
+    "street_address": null,
+    "latitude": 40.8136,
+    "longitude": -96.70261
+  }
+}

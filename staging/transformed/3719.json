@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Web",
+    "industry": "Broadcast Media",
+    "description": "<p>iHeart is seeking a talented Software Engineer to join our Web engineering team in our Nashville iHeart office! This Software Engineer will assist in developing our web platform and can expect to be involved in building new core features, improving developer experience / workflows, and scaling up our codebase from just a web app to a variety of audio-enabled HTML5 based iot devices.</p><p></p><p>The right candidate has experience working with applications in a high traffic ecosystem. This person will also understand application level design patterns and can cleanly break down complex tasks. If you have a sharp attention to detail and are comfortable learning and applying technologies on the cutting edge of the web stack (Node / React / Webpack / Kubernetes to name a few) then this might be the role for you!</p><p><strong></strong></p><p><strong>You Like:</strong></p><p><br></p><ul><li>Developing and deploying new responsive and cross browser/platform features and enhancements on iheart.com</li><li>Writing clean, maintainable, and testable code</li><li>Building reusable components and architecture that is both code-scalable and traffic-scalable</li><li>Using metrics to improve application load and performance</li><li>Introducing and understanding development best practices, usability, and semantics</li><li>Proposing and advocating for clean, functional design systems</li><li>Delivering the best audio experience possible to millions of users across the globe.</li></ul><p></p><p><strong>You Have:</strong></p><p><br></p><ul><li>3+ years experience or recently graduating from a engineering bootcamp in relevant field</li><li>Experience with application frameworks / libraries (React / Vue/ Angular / Ember / Backbone etc), React a must have</li><li>Experience coding in vanilla JavaScript, knowledge of JavaScript fundamentals. ES6/ES2015 a plus</li><li>Some experience with front-end performance optimization techniques</li><li>Knowledge of HTML semantics, CSS fundamentals and the basics of HTTP and new and evolving browser APIs</li><li>Experience in monitoring client applications</li><li>Desire to continuously learn new languages, platforms, and skills</li></ul><p></p><p>iHeart is the number one commercial podcast publisher globally and the largest American radio company. We offer fans the chance to connect with their favorite artists, and personalities by offering users thousands of live radio stations, playlists and podcasts as well as personalized listening in the form of dynamically generated playlists and stations. We have continued to build on our position as the only major international multi-platform audio company, with a reach extending across more than 250 platforms, 2,000 different connected devices, and 135 million registered users. Join the audio revolution today!</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:59:41.000Z"
+  },
+  "company": {
+    "name": "iHeartMedia",
+    "link": "https://www.linkedin.com/company/iheartmedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

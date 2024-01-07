@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer-Revenue Engineering",
+    "industry": "Internet",
+    "description": "<strong><u>Company Description<br><br></u></strong>Twitter is what\u2019s happening and what people are talking about right now. For us, life&apos;s not about a job, it&apos;s about purpose. We believe real change starts with conversation. Here, your voice matters. Come as you are and together we&apos;ll do what&apos;s right (not what&apos;s easy) to serve the public conversation.<br><br><strong><u>Job Description<br><br></u></strong><strong>Who We Are<br><br></strong>Twitter\u2019s Revenue organization operates services at extensive scale. We are looking for a Site Reliability Engineer (SRE) to join our Revenue Engineering team!<br><br>Our Revenue SRE&apos;s provide a healthy user experience while serving highly relevant and personalized ads. We also help advertisers translate their marketing strategy to an audience on Twitter while protecting the safety of their brand.<br><br>At Twitter, we use state of the art open-source and proprietary technologies, and operate some of the world\u2019s largest and most sophisticated distributed systems. We embed deeply with development teams, sharing on-call with a focus on up-leveling services and increasing automation.<br><br>(More information Resilient Ad Serving at Twitter Scale)<br><br><strong><u>How You\u2019ll Work<br></u></strong><ul><li>Work closely with Software Engineering (SWE) counterparts and take an active role as a co-owner of production services to ensure services are built, maintained, and operated in a reliable and scalable way. You will be part of the successful delivery of new features and services, as well as the day-to-day successful operation of existing services.</li><li>Deep involvement with application services throughout the Software Development Lifecycle, serving as the local SRE domain specialist and point of contact. Through this involvement you will gain a deep understanding of the technology stack, and be empowered to meaningfully contribute to design documents, code reviews, and other technical discussions.</li><li>Collaborate with the software engineering teams to drive operational health improvements, root cause analysis, postmortem discussions and their associated remediations that serve to improve reliability and sublinearly scale operations.</li><li>Partner with others to use tools, processes, and techniques to sublinearly scale operations and reduce business risk, in areas that include infrastructure &amp; configuration management, deploys, capacity modeling &amp; planning, and incident mitigation.</li><li>Identify common patterns in challenges with operating services in production, collaborate with other SRE teams to design and implement reusable solutions and/or other multi-functional work that drives down the complexity, difficulty, costs, and risks of operating the business.<br></li></ul><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Actively participate and contribute to code reviews and technical design documents, with an eye toward identifying performance and reliability bottlenecks.</li><li>Work with SWE counterparts to identify and mitigate production issues; validate, document and exercise failover/disaster recovery plans and graceful degradation mechanisms policies and standard methodologies</li><li>Capacity planning and analysis, and infrastructure change management (including tuning, reshaping, resizing, and migrating infrastructure), for services and their immediate downstreams.</li><li>Join with SWE service owners on in-progress large engineering projects, including migrating to the latest Twitter technologies and adopting related standard methodologies.</li><li>Productionalize new services and features, as well as improve production landscape for existing services, providing SRE expertise and implementing standard methodologies in the areas of CI/CD, dashboard integrity improvements, identifying and evaluating for the right set of alerts, SLOs and error budgets to use for services on an ongoing basis.</li><li>Attend team meetings, standups, and on-call handoffs.</li><li>Participate in team on-call rotation.<br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>3+years of experience managing, diagnosing, and debugging large-scale distributed systems in production.</li><li>Practical knowledge of at least one higher-level language (Python, Go, Ruby, or similar).</li><li>Thorough understanding of Linux servers, specifically RHEL/CentOS.</li><li>Detailed understanding of tools, methodologies, and analysis techniques in a distributed systems environment.</li><li>Experience developing infrastructure, configuration, and deployment scripting and automation for large scale / high complexity services in a microservice environment.</li><li>Experience dealing with large data sets that inform your knowledge around building robust data pipelines and architectures, and tuning java applications.</li><li>Experience using containerization software such as Mesos, Kubernetes, Docker or LXC</li><li>Experience with Lucene based search systems and scatter gather query patterns is desirable.</li><li>B.S. in Computer Science or equivalent experience.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T21:07:39.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

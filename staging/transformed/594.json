@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Information Technology and Services,Defense & Space,Computer Software",
+    "description": "<strong><u>Job Description<br><br></u></strong>Metron's ORCA division in San Diego, CA is seeking software testers to contribute to the design and development of a family of large-scale defense and homeland security simulations. The successful candidate will be responsible for testing and evaluating ORCA\u2019s applications and systems.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Designing, executing, and debugging test plans of applications based on software requirements and technical specifications </li><li> Creating test cases and validating results against functional requirements </li><li> Detecting and identifying software failures so that defects may be discovered and corrected </li><li> Documenting results and generating historical analysis of applications\u2019 state and stability </li><li> Documenting anomalies and defects in a maintained issue tracking database </li><li> Deploying, operating, and maintaining application test instances and/or networks </li><li> Ensuring compliance with general software development, testing, and maintenance best practices </li><li> Ensuring data integrity standards </li><li> Participating in application planning meetings </li><li> Evaluating software ease of usability and error handling procedures </li><li> Providing application instructions for users <br></li></ul><strong><u>Desired Qualifications<br></u></strong><ul><li> Bachelors Degree in Computer Science, Electrical Engineering or other related field </li><li> Minimum 1 year of experience </li><li> Must possess excellent written and verbal skills to communication with development team </li><li> Must be able to work independently as well as in a team environment </li><li> Strong knowledge of quality assurance methodologies, test plans, and debugging is required </li><li> Previous test automation experience is a plus </li><li> US CITIZENSHIP REQUIRED, position will require background investigation to authorize access to classified information <br></li></ul>Position Location: Liberty Station, San Diego, CA<br><br><strong> All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or protected veteran status. Metron takes affirmative action in support of its policy to employ and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. <br><br></strong><strong> VEVRAA Federal Contractor</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-18T01:21:21.000Z"
+  },
+  "company": {
+    "name": "Metron, Inc.",
+    "link": "https://www.linkedin.com/company/metron-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66900,
+    "max_value": 123000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

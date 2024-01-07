@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<strong><u>Description<br><br></u></strong>Are you excited about powering Amazon\u2019s physical stores\u2019 expansion through the application of Machine Learning and Big Data technologies? Do you thrive in a fast-moving, innovative environment that values data-driven decision making, scalable solutions, and sound scientific practices? We are looking for experienced scientists to build the next level of intelligence that will help Amazon physical stores grow and succeed.<br><br>Our team is responsible for building the core intelligence, insights, and algorithms that support the real estate acquisition strategies for Amazon physical stores. We are tackling cutting-edge, complex problems \u2014 such as predicting the optimal location for new Amazon stores \u2014 by bringing together numerous data assets from disparate sources inside and outside of Amazon, and using best-in-class modeling solutions to extract the most information out of them.<br><br>You will have a proven track-record of delivering solutions using advanced science approaches. You will be comfortable using a variety of tools and data sources to answer high-impact business questions. You will transform one-off models into automated systems. You will be able to break down complex information and insights into clear and concise language and be comfortable presenting your findings to audiences with a broad range of backgrounds.<br><br><strong><u>Responsibilities<br></u></strong><ul><li> Develop production software systems utilizing advanced algorithms to solve business problems.</li><li> Analyze and validate data to ensure high data quality and reliable insights.</li><li> Partner with data engineering teams across multiple business lines to improve data assets, quality, metrics and insights.</li><li> Proactively identify interesting areas for deep dive investigations and future product development.</li><li> Design and execute experiments, and analyze experimental results in collaboration with Product Managers, Business Analysts, Economists, and other specialists.</li><li> Leverage industry best practices to establish repeatable applied science practices, principles &amp; processes.<br><br></li></ul><strong><u>Basic Qualifications<br></u></strong><ul><li> MS in computer science, statistics, applied mathematics, engineering, or related field with 2+ years of relevant experience.</li><li> Strong Python programming skills in industrial setting.</li><li> Excellent understanding of computer science fundamentals, machine learning, data structures, and algorithms.</li><li> Able to understand and translate business and product questions into analytics projects.</li><li> Understanding of relational databases and familiarity with statistics.</li><li> Great design and problem solving skills, passion for quality and engineering excellence at scale.</li><li> Ability to work independently in a fast-paced, iterative development environment.</li><li> Exemplary communication skills, ability to work with large cross functional teams of technical and non-technical members.<br></li></ul><strong><u>Preferred Qualifications<br></u></strong><ul><li> PhD in computer science, statistics, applied mathematics, engineering or related field with 5+ years of relevant experience.</li><li> Expertise in specialized areas such as Machine Learning.</li><li> Expertise in Big Data technologies (EMR, Spark, Hive, Pig)</li><li> Knowledge and direct experience using statistical packages and business intelligence tools.</li><li> Experience in gathering requirements and formulating business metrics for reporting.</li><li> Track record of delivering actionable solutions which drive business decisions.<br></li></ul>Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br>Job ID: A1646626",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T09:04:51.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

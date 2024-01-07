@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer I",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>*This role can be based anywhere in the United States.</strong></p><p><br></p><p>Are you motivated by an incredible sense of purpose in doing work that helps keep people safe and business running daily, with results that regularly make headlines? Are you passionate about innovating on the industry\u2019s cutting edge to develop solid architecture principles, operability guidelines, progressive scaling methodologies, and other sophisticated techniques to reliably operate critical technology infrastructure at scale? Do you have an insatiable appetite for streamlining out inefficiency, automating away toil, and proactively eliminating problems before they occur in the first place? If so, this position is a perfect opportunity for you to join the Everbridge Site Reliability Engineering team in a hands-on role driving the design, implementation, and operation of our global platforms.</p><p><br></p><p>As the Everbridge Site Reliability Engineering team, we are responsible for ensuring overall service quality and availability of Everbridge's solutions. The technology platforms that we support automate the international delivery of critical information to help keep people safe and businesses running.</p><p><br></p><p>We are a 24x7x365 distributed team that can do our job anytime, anywhere on the planet with an Internet connection. Our holistic understanding of OSI layers 0 through 8 allows us to effectively maintain a heterogeneous blend of worldwide public and private cloud services where lives and livelihoods are at stake in the event of failures. We are dedicated, passionate people who are committed to internal/external customer service and doing the right thing.</p><p><br></p><p><strong>What you'll do:</strong></p><ul><li>Keep people safe and businesses running.</li><li>Own operational availability, security, scalability, efficiency, monitoring, instrumentation, and overall service reliability of Everbridge's solutions.</li><li>Collaborate across Agile teams with Architects, Developers, Quality, Data, Security, and other Operations engineers on designing and implementing highly reliable solutions.</li><li>Embrace Site Reliability Engineering principles of proactivity, automation, cross-functional collaboration, data-driven decision making, and fast+safe failing to continually improve our technology and culture.</li><li>Enhance our infrastructure, tooling, and processes to extend operability as a self-service function for other groups in the engineering value stream.</li><li>Participate in a rotating on-call schedule to troubleshoot and resolve production escalations from our 24x7x365 NOC.</li><li>Have fun while we work hard to make a difference.</li></ul><p><br></p><p><strong>What you'll bring:</strong></p><ul><li>Previous experience contributing in a production Site Reliability, DevOps, SaaS/Technical Operations, or NOC environment</li><li>Dedicated commitment to technical excellence and quality customer service</li><li>Ability to write code in at least one programming language (e.g. Python, Perl, Java, Ruby, Go)</li><li>Comfort using Git for practical configuration data and code management</li><li>Expertise with cloud compute IaaS/abstracted PaaS solutions (AWS Solutions Architect or equivalent) and hybrid/on-premises private compute environments (VMware Certified Professional or equivalent)</li><li>Deep knowledge in one of these disciplines forms the central pillar of your T-shaped skill set:</li><li>Network architecture and operation with an emphasis on: application load balancing at local and global scales (ALB/ELB/Route 53), IPv4 routing and dynamic routing protocols (OSPF, BGP), VPN, and network security best practices</li><li>Automation framework orchestration, configuration management, and software-defined infrastructure management techniques (SaltStack preferred, others e.g. Puppet, Chef, Ansible, etc. also acceptable)</li><li>Large scale production UNIX/Linux operating system, application, and security maintenance in an online service provider environment (Ubuntu and Debian GNU/Linux preferred)</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T14:08:52.000Z"
+  },
+  "company": {
+    "name": "Everbridge",
+    "link": "https://www.linkedin.com/company/everbridge"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

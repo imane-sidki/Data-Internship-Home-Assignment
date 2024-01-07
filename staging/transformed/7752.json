@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>TIDAL is a global music and entertainment streaming platform committed to creating a deeper connection between artists and fans through its library of more than 70 million songs, over 250,000 high quality videos, and available in over 60 countries. In addition, TIDAL offers its subscribers exclusive access to high-profile music and music videos, original content series, podcasts, documentaries, livestream concerts, tickets, merchandise and live experiences. Together, TIDAL and Square will be music-obsessed and artist-focused while we explore new artist tools, listener experiences, and access to financial systems that help artists be successful.<br><br><strong><u>Job Description<br><br></u></strong>We are in search of a Data Scientist who can help unlock a greater understanding of our customers and our platform. You will lead the development of various technical solutions that address the data and information needs for teams across the company, with a particular focus within the marketing organization.<br><br>You will become an integral part of TIDAL and will develop the core of our marketing analytics and customer understanding. Those solutions will help bring to light actionable insights to improve business decisions and provide better experiences for our customers. Our tech stack currently includes AWS, Spark, Redshift, Postgres, Airflow, Tableau, and Databricks. You will report to the Head of Analytics.<br><br><strong><u>You Will<br><br></u></strong><strong>Qualifications<br></strong><ul><li>Clarify loosely defined problems or business objectives across the marketing organization and devise useful metrics and technical solutions that support data-driven decision making</li><li>Partner with Data Engineering to implement analytics-specific data layers; this includes internal subscription and platform usage data, as well as enhancements from external vendors such as Google Analytics, Adjust, Braze, and other platforms in the marketing tech stack</li><li>Leverage latest methodologies in experimentation, modeling and statistical analysis to solve business problems, and translate findings into actionable recommendations</li><li>Partner with Head of Analytics and Data Engineering to modernize preexisting data processes and team best practices</li><li>Troubleshoot issues in data pipelines and reporting packages<br></li></ul><strong><u>You Have<br><br></u></strong><strong>Additional Information<br></strong><ul><li>4+ years of experience in quantitative analytics, data science, and analytical consulting</li><li>Experience with analytical SQL; this role will work with an array of disparate data sources so experience writing efficient, performance-optimized queries is a must</li><li>Familiarity with a programming language typically used for statistical analysis and machine learning (preferably Python)</li><li>Hands-on experience with self-service analytics tools (e.g.Tableau, Looker)</li><li>Training in econometrics and statistics, with experience applying the relevant methodologies; a thorough understanding of statistical inference is required</li><li>Familiarity with marketing concepts such as user segmentation, customer journeys, user churn and lifetime value<br></li></ul>We\u2019re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Square is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.<br><br>We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. <em><strong>Want to learn more about what we\u2019re doing to build a workplace that is fair and square? Check out our I+D page. <br><br></strong></em>Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.<br><br><strong>Perks<br><br></strong>We want you to be well and thrive. Our global benefits package includes:<br><ul><li>Healthcare coverage</li><li>Retirement Plans</li><li>Employee Stock Purchase Program</li><li>Wellness perks</li><li>Paid parental leave</li><li>Paid time off</li><li>Learning and Development resources<br></li></ul><em>Square, Inc. (NYSE: SQ) builds tools to empower businesses and individuals to participate in the economy. Sellers use Square to reach buyers online and in person, manage their business, and access financing. Individuals use Cash App to spend, send, store, and invest money. And TIDAL is a global music and entertainment platform that expands Square&apos;s purpose of economic empowerment to artists. Square, Inc. has offices in the United States, Canada, Japan, Australia, Ireland, Spain, Norway, and the UK.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T03:53:34.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62100,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "Working in Site Reliability Engineering (SRE) means you'll use both creative and critical thinking skills to maintain application systems that are crucial to the daily operations of the firm. You'll work collaboratively in teams on a wide range of projects based on your primary area of focus: design or programming. While learning to fix application and data issues as they arise, you'll also gain exposure to software development, testing, deployment, maintenance, and improvement, in addition to production lifecycle methodologies and risk guidelines. Finally, you'll have the opportunity to develop professionally -and to grow your career in any direction you choose.<br><br>This role requires a wide variety of strengths and capabilities, including:<br><ul><li> Bachelor's/Master's Degree in Computer Science, related field or Equivalent work experience </li><li> 10+ years of professional experience in the field of information and technology. </li><li> 7+ years of experience in Data Management/ data warehouse; </li><li> 5+ years of Experience in developing and designing of ETL methodology for supporting data transformations using Ab Initio and/or Informatica </li><li> 3+ years of experience in Big DataTechnolgy; </li><li>2+ years of experience in Java Spark.</li><li> Experience in working in Teradata environment, using Teradata utilities (TPT, FastLoad, MultiLoad, TPump, FastExport) </li><li> Experience with Batch Scheduling tools such as Contol-M </li><li> Experience with Linux platforms, Unix Scripting </li><li> Experience in SQL debugging skills </li><li> Experience in using BI tools such as Cognos and/or Tableau </li><li> Knowledge of open source tools and utilities </li><li> Experience in leading teams </li><li> Ability to multi-task /change focus quickly. </li><li> Must be a team player. <br></li></ul><strong><u>Responsibilities<br><br></u></strong>As a Production Support Analyst/Site Reliability Engineer (SRE), you will be responsible for leading the Incident and Problem resolution for aligned LOBs, providing end-to-end resolution to ensure completion of all jobs within defined objectives. Troubleshoot production issues and coordinate with other teams to remediate and implement to production in order to minimize impact to customers and/or downstream.<br><br>The role also involves engaging and partnering with AD teams, and various platform owners like TD, ETL, BI, etc. and also interfacing with executive and sr. management with Root Cause Analysis (RCA) and remediation actions. The responsibility will included but limited to following functions -<br><ul><li> End-to-end Incident and Problem resolution for responsible LOBs. </li><li> Responsible to ensure that the applications met their required service levels </li><li> Responsible to support process improvements to continuously improve the stability and performance of the applications. </li><li> Identify system bottlenecks and opportunities for betterment </li><li> Perform service transition from development to support </li><li> Prioritize workload, provide timely and accurate resolutions. </li><li> Perform in-depth research and identify sources of production issues. </li><li> Effectively perform root cause analysis of issues and report the outcome to business community and Management. </li><li> Develop / utilize core support tools and processes to perform work while improving day-to-day practices for support team members with the goal of delivering service improvements to the business. </li><li> Coordinate and work with the global production support team. <br></li></ul>JPMorgan Chase &amp; Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.<br><br>We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.<br><br>Equal Opportunity Employer/Disability/Veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-06T12:20:52.000Z"
+  },
+  "company": {
+    "name": "JPMorgan Chase &amp; Co.",
+    "link": "https://www.linkedin.com/company/jpmorganchase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

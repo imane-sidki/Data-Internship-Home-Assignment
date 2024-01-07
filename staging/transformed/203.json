@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - QE",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "<strong><u>About Verusen<br><br></u></strong>Job Description<br><br>Verusen is experiencing incredible growth in our second year in our current business model. We have signed some of the worlds most respected brands growing over 300% in 2020; a year that has been challenging for so many others.<br><br>Verusen is a leading technology company that uses artificial intelligence to provide visibility, digitization, and prediction of materials data and inventory for complex supply chains. The companys AI software harmonizes disparate material data across ERP instances/systems while providing accurate MDM across the enterprise to optimize inventory costs. Intelligent controls enforce inventory procedures to help prevent future inventory spikes, while predictive capabilities optimize allocation and procurement needs. The result is a data foundation you can trust to move quickly to innovate and support related Industry 4.0 initiatives.<br><br>Verusen is venture-backed by leading investors from San Francisco to Boston, and is a Signature Company at Georgia Techs Advanced Technology Development Center (ATDC). Partnerships including SAP and Accenture. Verusen is a portfolio company of .<br><br><strong><u>Job Description<br><br></u></strong>As a Machine learning QE engineer, you will work closely with Product Management and Data science to understand how to evaluate and monitor our ML pipelines. The successful ML-QA has a strong technical aptitude and is obsessed with continuous quality improvement in the ML field; they are experienced and highly committed to creating world-class automation for feature testing and regression for different ML models.<br><br><strong><u>Responsibilities<br><br></u></strong>Design, develop, execute and maintain manual and automated tests and monitors for machine-learning pipelines.<br><br>Work closely with front end QE to ensure that high-quality data is presented to customers<br><br>Understanding of machine learning techniques, data structures, algorithms, statistics.<br><br>Work cross-functionally with other QEs, developers, and product managers<br><br>Drive research of industry trends and apply best practices in quality engineering practices used in evolving machine learning techniques.<br><br><strong><u>Qualifications<br><br></u></strong>Bachelors Degree in Computer Science/ Engineering preferred<br><br>1-2 years of experience in Machine Learning algorithms<br><br>Understanding how machine learning algorithms are evaluated, and how models are compared.<br><br>Familiarity with monitoring AI pipelines.<br><br>Expertise in automation suites, frameworks for verification of distributed systems and machine learning models such as Amazon Sagemaker or Google DataLab.<br><br>Demonstrated ability to learn and apply new technology, tools and processes<br><br>Analytical mindset and detail-oriented approach to problem-solving<br><br>Positive approach, good culture fit, and a passion for Quality Engineering and automation<br><br>Good communication skills<br><br>Supply Chain experience a plus<br><br>Rapid Growth and/or Startup experience a plus<br><br>Proficiency in python language, working knowledge of pytest is a plus.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T16:56:04.000Z"
+  },
+  "company": {
+    "name": "Verusen",
+    "link": "https://www.linkedin.com/company/verusen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81600,
+    "max_value": 161000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellwood",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 33.77455,
+    "longitude": -84.41243
+  }
+}

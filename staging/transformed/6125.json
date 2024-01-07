@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Site Reliability Engineer",
+    "industry": "",
+    "description": "<p>The CRS Group is currently looking for a Site Reliability Engineer for one of our clients in the Riverwoods area. The CRS Group is a nationwide Staffing Firm who works primarily with Fortune 500 and Fortune 1000 corporations.</p><p><br></p><p>The Site Reliability Engineer applies software engineering techniques and discipline to production operations to attack reliability and performance issues to fix them for good. SREs focus on availability, latency, performance, efficiency, change management, monitoring, emergency response and capacity planning of their services. SREs have an intense passion for finding and improving efficiencies with infrastructure, development, and deployment automation. As a SRE, you will lead the efforts of application deployment, reliability, scalability, availability and performance alongside the engineering and infrastructure teams. Site Reliability Engineers will work closely with our engineering teams to build mature, production-ready services and applications. As part of the SRE team, you will help define our standards for monitoring, alerting, scalability, and production-readiness. You will monitor and report on the uptime of our systems and services, the performance of our applications, and the capacity of our platform.</p><p><strong>Job Duties:</strong></p><ul><li>Define SRE framework</li><li>Define reliable design patterns</li><li>Define canned reliability user stories for feature delivery</li><li>Define what looks good like for baselinemonitoring/alerting</li><li>Define scorecards, gates, technical debt oversight for organization</li><li>Define consistent problem management process, PIRs</li><li>Job descriptions, training, common language, definitions</li><li>Leading teams in developing SRE playbooks</li><li>Ensure reliability is built into new designs</li><li>Ensure canned reliability users\u2019 stories are executed for every feature</li><li>Perform design reviews of existing apps and production readiness reviews</li><li>Execute chaos testing</li><li>Identify operational functions that need to be automated</li></ul><p><strong>Qualifications:</strong></p><ul><li>Bachelor\u2019s degree Information Technology or equivalent experience</li><li>5+ years SRE experience in highly customer-focused environment</li><li>Proficiency in designing resilient app patterns</li><li>Expertise in 24x7 site monitoring and ability to own uptime &amp; performance SLAs for large scale distributed systems</li><li>Expertise and operational experience at operating highly available, scalable, and fault-tolerant systems using container platforms</li><li>Familiarity with OS tuning, optimization and system requirements for vertical scaling</li><li>Proficiency in one or more general purpose programming languages</li><li>Expertise in automation tools experience</li><li>Strong leadership skills and ability to motivate team</li><li>Ability to drive change, and motivate engineers to develop simple solutions for complex operational challenges</li><li>Experience collaborating and partnering effectively with several other teams</li><li>Experience leading discussions with senior leadership, and are able to tailor the level of technical detail to suit audience</li></ul><p><br></p><p><strong>AboutCRS Group:</strong></p><p>Founded in 1994 as Computer Resource Solutions, The CRS Group is a privately held company with offices in Itasca, IL and downtown Chicago. CRSG provides staffing solutions to Fortune 500 companies by successfully managing their IT contingent workforce needs. We expanded our offerings to extend that same high-quality service to other business needs, including creative, marketing, finance, legal and HR.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T08:22:58.000Z"
+  },
+  "company": {
+    "name": "CRS Group",
+    "link": "https://www.linkedin.com/company/crsgroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

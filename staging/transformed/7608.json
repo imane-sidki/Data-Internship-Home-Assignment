@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Data",
+    "industry": "Computer Software,Consumer Services,Internet",
+    "description": "Tinder brings people together. With tens of millions of users, hundreds of millions of downloads, 2 billion swipes per day, hundreds of thousands of requests per second, 20 million matches per day and a presence in every country on earth, our reach is expansive\u2014and rapidly growing.<br><br>Tinder is looking for an engineer who's eager to design and implement the next generation of our data platform. Our growing business always has new needs for actionable information, and this gives us an exciting roadmap with high-value products ready to be designed and many more waiting to be identified. This role will involve working with large scale data pipelines in near-real-time, batch, and lambda frameworks.<br><br>This role can also be located in Los Angeles, CA or Palo Alto, CA.<br><br><strong>What You'll Do:<br></strong><li>Work on pipelines ingesting greater than 1gb per second</li><li>Design, implement, and own software solutions for ingesting and exposing high volume data feeds</li><li>Coordinate with engineering, analytics, and other teams to assess the cost and value of existing and potential projects</li><li>Research and evaluate new technologies in the big data space to guide our continuous improvement</li><li>Collaborate with multifunctional engineers across the company to help tune the performance of large data applications to drive cost savings<br><br></li><strong>We\u2019re looking for:<br></strong><li>3+ years of experience working with a distributed framework like Spark, Flink, Kafka Streams, Dask, or Hadoop</li><li>1+ years of experience with ETL job orchestration, preferably with a feature-rich tool such as Airflow, Argo, or Rundeck</li><li>2+ years of experience working with Scala, Python, Java, or C#</li><li>2+ years ensuring the reliability of software and the integrity of large data stores in a production environment</li><li>Exposure to a variety of databases and no-SQL appliances (Redshift, Snowflake, Druid, Dynamo, Cassandra, Kafka, Elastic Search, Hive, etc.)<br><br></li><strong>As part of our team, you\u2019ll enjoy:<br></strong><li> Working on a product that has an immediate impact on people\u2019s lives all around the world</li><li> Collaborating with a team of creative, fun and driven colleagues</li><li> Comprehensive health coverage, competitive salary, 401(k) employer match, Employee Stock Purchase Plan (ESPP)</li><li> Other perks and wellness benefits like a fitness membership subsidy, paid concierge medical membership, pet insurance offerings, and a commuter subsidy</li><li> A robust Learning + Development offering including our MentorMatch program, access to a library of 6,000+ online learning courses through Udemy, and an annual L+D stipend</li><li> Access to mental health resources</li><li> Fertility preservation benefits</li><li> No Meeting Wednesdays and access to a wide range of product and service discounts through Perkspot</li><li> Charitable donations match up to $15,000 annually</li><li> Monthly and weekly interactive virtual events including Book Club, trivia with prizes and yoga workouts</li><li> The opportunity to join six active Employee Resource Groups (ERGs)<br><br></li>At Tinder, we don\u2019t just accept difference \u2014 we celebrate it, we support it, and we thrive on it for the benefit of our employees, our product, and our community. We strive to make our workplace an inclusive and diverse environment, giving people from all walks of life the opportunity to have a voice. We champion and encourage those who bring different perspectives, ideas, and creativity to join our team dedicated to bringing people together across the globe. Tinder is proud to be an equal opportunity workplace where we welcome all people regardless of sex, gender identity, race, ethnicity, disability, or other lived experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:35:58.000Z"
+  },
+  "company": {
+    "name": "Tinder",
+    "link": "https://www.linkedin.com/company/tinder-incorporated"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 202000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

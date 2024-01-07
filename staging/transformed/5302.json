@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer in Test",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Imagine what you could do here. At Apple, new insights have a way of becoming phenomenal platforms, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. <br><br><br>We are looking for a highly motivated, result-oriented Engineer with a strong background in Quality Engineering. The QE Engineer position will be part of a horizontal Quality Engineering group passionate about a breadth of technologies and applications including very highly scalable distributed applications, No-Sql platforms, internal search platforms, end customer facing websites and services, critical security systems, machine learning and anomaly detection systems, software-load balancing, iOS Applications etc. <br><br><br>The job responsibility will include API Testing, Website testing, iOS Applications, building test tools and automation platforms, and working to continuously improve the Quality Engineering process. The Quality Engineer will be part of a Software Engineering process that is highly agile, with short iterations with a big focus on test automation.<br><br><br>The engineer should enjoy working in an environment that is dynamic and fun loving, where change is constant and communication is open, and perfection is encouraged through collaboration<br><br> <br><strong>Key Qualifications<br></strong> <br>7+ years of combined experience in Software development and Quality Engineering<br><br>Expertise in Software Quality Engineering<br><br>Experience crafting Quality automation frameworks from scratch<br><br>Expertise in QE automation frameworks and tools for both frontend and backend applications, such as Cucumber, Selenium, TestNG, SOAPUI<br><br>Experience in automating functional &amp; integration testing of Web, iOS, OS X, and backend services &amp; applications<br><br>Exposure to testing in Java, SQL, Unix, Scala, NoSQL, and Web Services (Rest &amp; SOAP) environments<br><br>Experienced as Quality Engineer for highly scalable, distributed and robust platforms<br><br>Excellent knowledge of QE automation architecture, methodologies, processes, and tools<br><br>Experience with Continuous Integration (CI), Behavior Driven Frameworks (BDD), DevOps and setting up QE environments<br><br>Exposure to security domains including areas like PKI, Certificates, Cryptography, OWASP &amp; Mod Security is a huge plus.<br><br>Proven track record to deliver high-quality work on tight schedules<br><br>Ability to work in a fast-paced environment with frequent context switching<br><br>Self-motivated, independent, and dedicated<br><br>Outstanding collaboration and organizational skills<br><br>Excellent written and verbal communication skills<br><br>You are upbeat, adaptable, and results oriented with a positive attitude<br><br> <br><strong>Description<br></strong> <br>Provide functional and integration quality-assurance testing for features delivered on Web, iOS, OS X, and other operating systems<br><br>Build QE Automation tools and platforms with the goal of 100% automation and reduction of regression test cycles<br><br>Build Functional testing tools and improve existing automation platforms<br><br>Work closely with multi-functional organizations, project teams and clients to develop project schedules, execute test plans and cases, and deliver high quality products<br><br>Act as a strong advocate for quality in the product development process for software engineering<br><br>Chip in to initiatives to improve the overall QE process, such as identifying gaps or inefficiencies in workflows and suggesting improvements.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>Bachelor\u2019s degree in Computer Science / Computer Engineering and minimum 6 years of post-baccalaureate experience in area of quality engineering<br><br> <br>Role Number: 200227024<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:05.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99800,
+    "max_value": 170000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

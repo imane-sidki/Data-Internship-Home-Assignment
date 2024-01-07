@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "<strong><u>Company Description<br></u></strong><ul><li>Apexon is a digital technology services and platform solutions company that partners with clients to improve their digital experience and insight. With more than 25 years of experience, our 5000+ Apexers in more than 10 offices worldwide are helping companies enhance their digital experience with their customers.<br></li></ul>We work in the areas of digital experience, analytics, AI and cloud to unlock the power of technology for our clients to empower humans with intelligent and experiential solutions. We enable #HumanFirstDigital.<br><br><strong><u>Job Description<br><br></u></strong>Client : Harvard Business Online<br><br>Loc: Boston, MA<br><br>Duration: 12 months<br><br><strong><u>Job-Specific Responsibilities<br><br></u></strong>The Data Scientist will provide leadership in advocating for and expanding the use of data science and analytics at client or customer. They will support leadership, marketing, course developers, and product management in decision making using data analysis and modeling to better understand our participants and how we can encourage and achieve participation to further scale the School\u2019s mission of educating leaders who will make a difference in the world.<br><br><strong><u>Typical Duties<br></u></strong><ul><li>Understand and then abstract complicated data models from multiple platforms, including the Client Online Course platform, our Salesforce-based business and student information system, marketing, and participant community platforms.</li><li>Work to understand and improve the client online learning platform by measuring participant interactions and building models to understand how those interactions relate to positive outcomes like participant satisfaction, grades, and course completion.</li><li>Build data and modeling abstractions on top of the data from these platforms that allow us to reason, test and make predictions, when possible.</li><li>Facilitate the productization of models so they can provide direct feedback where necessary (e.g., to a participant in the learning platform, or someone working on an application to a program).</li><li>Bring an attitude of skepticism to the fairness of analytical models and attempt to use our modeling and analyses to achieve fair outcomes and recommendations, rather than perpetuate biases.</li><li>Be responsible for other duties as assigned.<br></li></ul><strong>Typical Core Duties:</strong><ul><li>Lead aspects of data management services which may include database and analytics platform research and design, database performance and optimization, recovery/load strategy and implementation, and data modeling.</li><li>Collaborate to prepare data verification and testing methods for data/applications loaded into the warehouse, or other data repositories, to ensure compatibility across different sources.</li><li>Code, develop, and document complex scripts integration mappings and workflows, and stored procedures.</li><li>Provide technical expertise and direction in developing and supporting system level programs.</li><li>Troubleshoot advanced data problems and recommend appropriate action.</li><li>Create new or enhanced components of data architecture and interfaces.</li><li>Collaborate with business partners to determine needs and evaluate solutions.</li><li>Provide training to clients and staff.</li><li>May function as subject matter expert or project lead.</li><li>Actively contribute to formulation of plans and policies.</li><li>Abide by and follow the client IT technical standards, policies and Code of Conduct.<br></li></ul><strong>Basic Qualifications:</strong><ul><li>Minimum of five years\u2019 post-secondary education or relevant work experience.<br></li></ul><strong>Additional Qualifications and Skills:</strong><ul><li>In addition to the requirements above, we also require 3 years of experience using a data analytics and modeling framework like R, Python/Pandas, or Stata.<br></li></ul><strong>Preferred qualifications include:</strong><ul><li>Ability to interact with a large data warehouse using SQL queries.</li><li>Ability to produce descriptive data visualizations.</li><li>Experience building statistical and machine learning models.</li><li>Experience with Natural Language Processing tools and libraries.</li><li>Strong verbal and written communications skills.</li><li>Pitches in where needed - \u201cno job is too big or small\u201d.<br></li></ul>Additional Information<br><br>All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-04T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Apexon",
+    "link": "https://www.linkedin.com/company/apexon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Entertainment",
+    "description": "<p><strong>Site Reliability Engineer</strong></p><p><strong>4 month contract with potential to extend/convert (medical benefits offered)</strong></p><p><strong>Remote - eventually some onsite in Atlanta, GA</strong></p><p><strong>W2 only - sorry not able to C2C</strong></p><p><br></p><p>This Software Engineer will be part of the Site Reliability Engineering (SRE) team. The SRE team is an innovative team devoted to providing automated solutions and services to measure, evaluate and plan for visible, reliable application delivery and maintenance. As a member of the SRE team, you will work with development teams to help create automated pipelines and solutions required for continuous delivery in an Agile Dev/Ops environment. The tools and use-cases are diverse, and our challenge is to increase the development velocity by optimizing various parts of the pipeline and increase application stability. This is an opportunity to create automation, monitoring, and pipelines to improve deploy and response time across the board. We are looking for engineers who are passionate about infrastructure as code and continuous deployment to build scalable and highly reliable applications.</p><p><br></p><p>If you love to figure out how all the pieces are put together and if automation and building tools to monitor and manage your applications sounds interesting to you, we want to talk to you.</p><p><br></p><p><strong>What you will do:</strong></p><p>- Automate anything and everything! (Infrastructure build out, testing, deploying, monitoring, etc.)</p><p>- Design and assist in the authoring of software tools that reliably manage application delivery</p><p>- Design and assist in the setup and maintenance of application monitoring and alerting</p><p>- Engage with Development/Capability Teams to ensure best practices are implemented</p><p>- Improve predictability and reliability of software releases, workflows and operating software.</p><p>- Reduce application deployment windows by leading company towards a Continuous Deployment environment</p><p>- Reduce mean time to recovery (MTTR) by helping troubleshoot, monitor, alert, and automating recovery.</p><p><br></p><p><strong>The skills we require:</strong></p><p>- Python, Ruby, Go or other systems programming (moderate skills required)</p><p>- Experience with configuration management systems (Octopus, Chef, Puppet)</p><p>- Experience rolling out redundant, mission-critical applications in a highly available production environment</p><p>- Experience with version control systems (Git or SVN)</p><p>- Experience with Cloud Computing platforms (Amazon AWS, Kubernetes, Heroku, etc)</p><p>- Linux system engineering expertise</p><p>- Experience with continuous integration tools (Jenkins, CircleCI, etc), Artifactory (or Nexus)</p><p>- Excellent written communication, problem solving, and process management skills</p><p>- Desire to work in a fast paced, evolving, growing, dynamic environment</p><p><br></p><p><strong>The skills we prefer:</strong></p><p>- VMWare, VirtualBox experience.</p><p>- Experience supporting Ruby or Java applications</p><p>- Experience supporting Database Server infrastructure (MySQL, Postgres, etc)</p><p>- Networking Knowledge</p><p>- Experience with Hashicorp tools (Vagrant, Terraform, Packer, etc), Linux Containers (docker, rocket)</p><p>- Experience with Java build tools such as Ant, Maven, Gant, or Gradle</p><p>- Experience with agile development, continuous integration and automated testing</p><p>- Experience with dashboarding, monitoring</p><p><br></p><p>For immediate consideration - please forward your resume toDenise.Wicks@SynergisIT.com</p><p><br></p><p><strong>About Synergis</strong></p><p>Synergis serves a myriad of clients across nearly all industries, from start-ups to Fortune 100 companies. The outcomes of these relationships are demonstrated in a growing list of more than 300 clients and industry recognition by Inc. magazine and the Atlanta Business Chronicle. From its foundation in 1997, Synergis has been successfully recruiting and placing IT professionals in all areas of information technology. Synergis has been successfully recruiting and placing IT professionals for over 20 years. For more information about Synergis, please visit the company website atwww.synergishr.com.</p><p></p><p>Synergis is an Equal Opportunity/Affirmative Action employer.</p><p></p>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T15:58:03.000Z"
+  },
+  "company": {
+    "name": "Synergis IT + Creative",
+    "link": "https://www.linkedin.com/company/synergis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

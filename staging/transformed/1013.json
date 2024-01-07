@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Developer III - Data Engineer, IS Core Services",
+    "industry": "Logistics and Supply Chain,Human Resources,Financial Services",
+    "description": "<strong><u>Company Description<br><br></u></strong>\u201cWe\u2019re not in the shipping business; we\u2019re in the information business\u201d -Peter Rose, Expeditors Founder<br><br>Global supply chain management is what we do, but at the heart of Expeditors you will find professionalism, leadership, and a friendly environment, all of which foster an innovative, customer service-based approach to logistics.<br><ul><li>18,000 trained professionals</li><li>300+ locations worldwide</li><li>Fortune 500</li><li>Globally unified systems</li></ul> Job Description<br><br>\u201cVelocity, Variety, and Volume\u201d - those are three \u2018V\u2019s of the Big Data that our global logistics company, Expeditors, is handling daily while moving freight from all over the world. We invite you to an exciting opportunity to become part of a Big Data development team to help build a data lake environment and to support users through ingesting, analyzing, and visualizing Expeditors\u2019 Big Data. You will be working with highly skilled software development engineers using Event-Driven Architecture, Domain Driven Design, and Event Sourcing. If you are a data geek and excited about big data related technologies, we would like to talk to you about this great opportunity.<br><br><strong><u>Qualifications<br><br></u></strong><strong>MINIMUM QUALIFICATIONS<br></strong><ul><li>5+ years of professional software development experience.</li><li>Object-oriented programming and component-based development with Java/Python.</li><li>Experience working with both structured and unstructured data, with a high degree of SQL knowledge.</li><li>Experience designing and implementing scalable ETL/ELT processes.</li><li>Experience in modeling data for low latency reporting.</li><li>Expertise with Big Data ecosystem services, such as Spark/SparkSQL, Kafka, Apache NiFi, Hadoop/Hive, MongoDB, HBase, and Kafka Streams.</li><li>Experienced in Modern Big Data Analytics using Data Lakes, Spark, and different file formats like Avro, JSON, and Parquet.</li><li>Experience working with large cloud data lakes.</li><li>Hands-on experience with Databricks, building data pipelines.</li><li>Performance tuning, troubleshooting and diagnostics, process monitoring, and profiling.</li><li>Ability to work in a fast-paced environment with evolving requirements and capability goals.</li><li>Appetite for learning new &amp; emerging technologies.</li><li>Strong problem-solving skills and communication skills.</li><li>Self-motivated, driven, and independent individual.<br></li></ul><strong><u>Desired Qualifications<br></u></strong><ul><li>BS in Computer Science or similar, or comparable work experience.</li><li>Prior experience with any cloud stack, preferably Azure.</li><li>Prior experience with open source Apache projects.</li><li>Understanding of reporting tools such as Power BI/MicroStrategy/Tableau/ etc.</li><li>Experience with orchestrating complex data pipelines using tools like Azure Data Factory or Apache Airflow.</li><li>Experience with large-scale data processing, complex event processing, stream processing.</li><li>Experience working with CI/CD pipelines, source code repositories, and operating environments.</li><li>Understanding containerization, virtualization, and cloud computing.</li><li>Experience working in the Scrum Agile software development framework.</li><li>Demonstrated expertise in Linux.<br></li></ul>Additional Information<br><br><strong><u>Expeditors Offers Excellent Benefits<br></u></strong><ul><li>Paid Vacation, Holiday, Sick Time </li><li>Health Plan: Medical, Prescription Drug, Dental and Vision</li><li>Life and Long Term Disability Insurance </li><li>401(k) Retirement Savings Plan </li><li>Employee Stock Purchase Plan</li><li>Training and Personnel Development Program<br></li></ul><em>All your information will be kept confidential according to EEO guidelines. Successful candidates must pass a background check.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Expeditors",
+    "link": "https://www.linkedin.com/company/expeditors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78400,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

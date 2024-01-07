@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Foursquare is the leading independent location technology company, powered by our deep understanding of how people move throughout the world. Our solutions help businesses make smarter decisions, developers create more engaging experiences, and brands build more effective marketing strategies.<br><br>Foursquare\u2019s platform includes Attribution, Audience, Proximity, Places, Pilgrim SDK and Visits. As the industry\u2019s first and only accredited company for location data from the Media Rating Council (MRC), this foundation powers all our solutions \u2014 those that exist today and those we have yet to build. Over 14 billion consumer-verified place visit confirmations help us keep our map and models fresh and up-to-date, building a phone\u2019s-eye-view of the world with 105 million unique places of interest worldwide.<br><br><strong><u>About The Role<br><br></u></strong>As a member of Foursquare\u2019s data science team, you\u2019ll be responsible for owning important methodological components of our leading foot traffic measurement platform. The methodologies we employ are varied which creates a rich environment for the application of data science technology. This is not just a machine learning job. We look for data scientists who are excited by the challenge of solving problems using a wide array of modeling and quantitative techniques.<br><br><strong><u>Responsibilities Of The Role<br></u></strong><ul><li>Partner with product and engineering teams to power end-to-end implementation of data-driven features on our industry-leading causal inference product.</li><li>Work with core clients to communicate data insights, understand analytics use cases, and prototype novel features. </li><li>Proactively Identify and implement product and process changes to make the platform more efficient and accurate. <br></li></ul><strong><u>Qualifications<br></u></strong><ul><li>Training in using advanced quantitative methods (statistics, econometrics, ML, causal inference, AB experimentation methodology)</li><li>Proven problem solver, with a track record of successfully uncovering data insights that lead to positive business impact. </li><li>3+ years of work or educational experience in data science, machine learning, statistics, or applied mathematics a plus<br></li></ul><strong><u>Highlights<br></u></strong><ul><li>Industry Leading technology: You will be working on one of the leading measurement products in the industry. <br></li></ul><strong><u>Perks And Benefits<br></u></strong><ul><li>Learning and development programs from ICs to managers</li><li>Individual, professional coaching for all full-time employees</li><li>Flexible time off - rest and recharge when you need it!</li><li>Comprehensive and competitive health, vision, dental, life insurance</li><li>401(k) with company match</li><li>Home office setup: you get all necessary hardware and internet reimbursement </li><li>Family planning programs via Carrot and Maven</li><li>Employee Resource Groups to help you stay connected<br></li></ul>Foursquare is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.<br><br>Foursquare is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected Veteran status, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T03:12:48.000Z"
+  },
+  "company": {
+    "name": "Foursquare",
+    "link": "https://www.linkedin.com/company/foursquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 87300,
+    "max_value": 110000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

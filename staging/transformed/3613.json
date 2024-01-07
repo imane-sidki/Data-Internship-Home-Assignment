@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Job Title:</strong>DevOps Engineer - REMOTE</p><p><strong>Location:</strong>Tampa, FL</p><p><br></p><p><strong>Job Summary:</strong></p><p>Heitmeyer Consulting is currently seeking a DevOps Engineer for a contract or direct hire opportunity with one of our clients in Tampa, FL(remote).</p><p><strong>Job Responsibilities:</strong></p><ul><li>Experience with Cloud based architecture, infrastructure on AWS</li><li>Experience building DevOps and Test automation capabilities from ground up for a complex cloud-based solution using Gitlab CI</li><li>Hands on experience with systems-level technologies, Windows, Linux.</li><li>Collaborate with architects and software engineers on improving software delivery, configuration, monitoring and operation</li><li>Assist other department engineers in creating practical demonstrations of proposed solutions and demonstrating them to other members of the team</li><li>Working on ways to automate and improve development and release processes</li></ul><p><strong>Required Skills/Qualifications:</strong></p><ul><li>2+ AWS experience is required: CloudFormation, EC2/ECS, RDS, Monitoring, Networking VPC.</li><li>2+ experience with scripting with Python.</li><li>Experience with building deployment pipelines on Gitlab CI/CD.</li><li>Knowledge of package management tools like Artifactory.</li><li>Deep understanding of the DevOps philosophy and agile methods.</li><li>Ability to work on multiple priorities and/or projects simultaneously, independently or with a team.</li><li>Excellent verbal and written communication skills.</li><li>Possesses strong analytical and problem-solving skills in order to resolve or coordinate the resolution of complex problems in a flexible and logical manner.</li><li>Demonstrate excellent ability to learn</li></ul><p>Heitmeyer Consulting is an equal opportunity employer and we encourage all qualified candidates to apply. Qualified applicants will be considered without regard to minority status, gender, disability, veteran status, or any other characteristic protected by law.</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T16:22:38.000Z"
+  },
+  "company": {
+    "name": "Heitmeyer Consulting",
+    "link": "https://www.linkedin.com/company/heitmeyer-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

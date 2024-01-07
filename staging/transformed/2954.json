@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "<strong>Location: Gilbert, AZ or Orlando, FL preferred<br><br></strong>Deloitte Consulting LLP is one of the world's leading management consulting firms for executable strategy, operations, technology, and human capital advisory services. We provide powerful business solutions to some of the world's most well-known and respected companies, including more than 75 percent of the Fortune 100.<br><br><strong> The Platforms Machine Learning Group <br><br></strong>The machine learning group sits in the Deloitte Platform (DP) practice, part of Deloitte Consulting LLP, which supports the firm on a technical level to offer a variety of mixed services to provide the clients' needs. The machine learning team specifically focusses on creating products and solutions that require deeper analytical and problem-solving skills to create tangible results. This is a continuous cycle where we strive to keep innovating and provide state-of-the-art assets.<br><br><strong> Junior Data Scientist Position Scope <br><br></strong>As a junior data scientist, you will focus on supporting the machine learning group and actively participate in all the processes in a data science project. As a newcomer in the field, the initial focus will be on data cleaning, wrangling, and exploratory data analysis. Later, the focus extends to feature generation and selection, creating models, and boost their performance &amp; accuracy as well as guiding more junior resources and act as a sounding board. It is important that the person in this role is proactive and independent. You should be a problem solver with an open mind and an eagerness to pick-up new skills ranging from deeper statistical analysis and better modeling skills to honing programming and communication skills.<br><br><strong><u>Qualifications<br><br></u></strong>Competitive candidates for this role will possess the following:<br><ul><li>Knowledge of Python (Numpy, Pandas, Scikit, etc) or R. Preferably both.</li> <li>Good knowledge of statistics, scientific method, data collection and cleaning</li> <li>First experience with commonly used machine learning algorithms</li> <li>Knowledge of deep learning, NLP or big data analytics tools (e.g. Apache Spark) is a plus</li> <li>Knowledge of UNIX, experience with Google and Amazon Machine Learning and Cloud tools is a plus</li> <li>Goal oriented with high standards for quality and performance</li> <li>Ability to work on multiple projects simultaneously</li> <li>Excellent verbal and written communication skills</li> <li>MS in Computer Science, Engineering, Mathematics, Physics or related fields<br>OR BS and two years of related work experience</li> <br><br></ul><strong><u>About Deloitte<br><br></u></strong>At Deloitte you can have a rewarding career on every level! As a dynamic and leading edge company, Deloitte offers a phenomenal opportunity for staff to join a high growth environment to expand, enhance and strengthen their client service and technology skills. In addition to challenging and meaningful work, you'll have the chance to give back to your community, make a positive impact on the environment, participate in a range of diversity and inclusion initiatives, and find the support, coaching, and training it takes to advance your career. To learn more about our culture, benefits and to submit your resume, visit us at www.deloitte.com/us/careers .<br><br><strong><u>Qualifications<br><br></u></strong>Required:<br><ul><li>MS in Computer Science, Software engineering or related field<br>OR<br>BS and 3+ years of related work experience</li> <li>Background in statistics, scientific methods or mathematics</li> <li>Experience in Python &amp; Unix Shell Scripting</li> <li>Familiar with commonly used machine learning algorithms</li> <li>Goal oriented with high standards for quality and performance</li> <li>Ability to manage multiple projects simultaneously</li> <li>Excellent verbal and written communication skills</li> <br></ul>Preferred:<br><ul><li>Experience with cloud platforms such as Google Could Platform or Microsoft Azure</li> <li>Experience of modeling on natural language or image data</li> <li>Familiar with machine learning model development life cycles</li> <li>Familiar with tools for Python program profiling and optimization</li> <br></ul>*Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.*",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T18:09:15.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

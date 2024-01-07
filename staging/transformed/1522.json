@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Financial Services,Hospital & Health Care",
+    "description": "<strong><u>About The Company<br><br></u></strong>We believe in a world without misdiagnoses, where every patient receives the best opportunity to recover and lead a healthy life. And we are the team solving this problem every single day for millions of patients across the country.<br><br>Covera Health is transforming how quality health care is measured and delivered. We are starting in radiology where the wrong diagnosis can lead to a cascade effect of misguided care, enormous patient harm and, for some, a missed opportunity for recovery. An early and accurate diagnosis is the patient's best chance to get better.<br><br>Our first product uses a proprietary framework that leverages advanced data science and artificial intelligence to help patients receive an accurate diagnosis. Today, we are working with some of the largest healthcare payers in the country to impact millions of patient lives. With a pipeline representing 25% of insured individuals in the US, the opportunity to transform radiology and, in turn, improve patient care across the globe is in front of us.<br><br>Headquartered in New York City, Covera Health closed a $23.5M Series B financing round with Insight Partners, a leading global venture capital and private equity firm investing in high-growth companies that are driving transformative change in their industries.<br><br><strong><u>About The Role<br><br></u></strong>As a software engineer at Covera Health, you'll gain a deep understanding of our product through close collaboration with data scientists, clinicians, and others in the company. You'll work with a distributed engineering team to build and enhance the web services and applications that support our customers. We'll look to you to help ensure that we're leveraging and building the best technology that we can, and you'll play a key role in shaping the future direction of the product.<br><br>You will:<br><ul> <li>Collaborate closely with Product, Engineering, and other teams across the company to understand and support business needs.</li> <li>Use your knowledge and experience with different technologies to help us choose the right tool for each job (and to help us switch to better tools where appropriate).</li> <li>Design and build reliable, performant, maintainable, secure systems and pipelines which can scale to the needs of our business.</li> <li>Transform workflows and integrations into streamlined and automated code to enable company priorities</li> <li>Expose data interfaces to customers, providers, and internal teams.</li> <li>Mentor other engineers by reviewing work, providing feedback, and evangelizing best practices.</li> <li>Play a key role in recruiting.</li> <br><br></ul><strong><u>About You<br><br></u></strong>We care about our work at Covera Health and expect you to care about yours. We like engineers with attention to detail who strive to deliver high quality work (even when it's needed quickly) and who are continually learning (including learning from mistakes). It's important for engineers on our team to be able to effectively collaborate and communicate with others, including exchanging opinions about technology in a constructive way.<br><br>In addition, you have the following:<br><ul> <li>BA/BS in computer science or relevant experience</li> <li>3-5 years of professional full-stack software development experience.</li> <li>Strong problem solving skills with attention to detail.</li> <li>Ability to effectively handle ambiguity, balance competing requirements, and deliver practical solutions.</li> <li>Strong communication skills with excellent ability to work in a team environment.</li> <li>Strong software design skills</li> <li>Ability to write clean, correct, well-tested code.</li> <li>Experience with PostgreSQL, MySQL, or other relational database systems.</li> <li>Experience with Python and Django</li> <br></ul>You may also have the following:<br><ul> <li>Familiarity with HTML/CSS/JavaScript and at least one front-end framework.</li> <li>Familiarity with AWS</li> <br><br></ul><strong><u>Benefits<br><br></u></strong>You will be a full-time employee with competitive salary, stock options, and great benefits. These benefits include medical, dental, and vision insurance, HRA, 401k, pre-tax commuter benefits, flexible paid time off, and--when we go back to the office--a comfortable office space filled with a variety of quality snacks and beverages. Most importantly, you'll get to know each of us and we love to work together to find solutions. We are a talented, fun, focused, and unique team of people who are truly passionate about changing healthcare for the better! Even while remote, you'll experience the Covera culture as we offer a host of virtual experiences including a book club, fitness club, guest speakers, dynamic Slack channels, and more!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T05:17:00.000Z"
+  },
+  "company": {
+    "name": "Covera Health",
+    "link": "https://www.linkedin.com/company/covera-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81500,
+    "max_value": 177500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

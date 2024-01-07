@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "<p><strong>Designation: </strong></p><p><strong>Project Tech. Lead (4A): 5 \u2013 7 Years</strong></p><p><strong>Project Manager/Architect (4B/5A): 7 \u2013 10 Years</strong></p><p><strong></strong></p><p><strong>Role and responsibilities</strong></p><p>\u00b7Project Management (50%)</p><p>\u00b7Front Door (Requirements, Metadata collection, classification &amp; security clearance)</p><p>\u00b7Data pipeline template development</p><p>\u00b7Data pipeline Monitoring development &amp; support (operations)</p><p>\u00b7Design, develop, deploy, and maintain production-grade scalable data transformation, machine learning and deep learning code, pipelines; manage data and model versioning, training, tuning, serving, experiment and evaluation tracking dashboards.</p><p>\u00b7Manage ETL and machine learning model lifecycle: develop, deploy, monitor, maintain, and update data and models in production.</p><p>\u00b7Build and maintain tools and infrastructure for data processing for AI/ML development initiatives.</p><p></p><p><strong>Technical skills requirements</strong></p><p>The candidate must demonstrate proficiency in,</p><p>\u00b7Experience deploying machine learning models into production environment.</p><p>\u00b7Strong DevOps, Data Engineering and ML background with Cloud platforms</p><p>\u00b7Experience in containerization and orchestration (such as Docker, Kubernetes)</p><p></p><p></p><p></p><p></p><p>\u00b7Experience with ML training/retraining, Model Registry, ML model performance measurement using ML Ops open source frameworks.</p><p>\u00b7Experience building/operating systems for data extraction, ingestion and processing of large data sets</p><p>\u00b7Experience with MLOps tools such as MLFlow and Kubeflow</p><p>\u00b7Experience in Python scripting</p><p>\u00b7Experience with CI/CD</p><p>\u00b7Fluency in Python data tools e.g. Pandas, Dask, or Pyspark</p><p>\u00b7Experience working on large scale, distributed systems</p><p>\u00b7Python/Scala for data pipelines</p><p>\u00b7Scala/Java/Python for micro-services and APIs</p><p>\u00b7HDP, Oracle skills &amp; Sql; Spark, Scala, Hive and Oozie DataOps (DevOps, CDC)</p><p><strong></strong></p><p><strong>Nice-to-have skills</strong></p><p>\u00b7Jenkins, K8S</p><p>\u00b7Google Cloud certification</p><p>\u00b7Unix or Shell scripting</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T13:29:01.000Z"
+  },
+  "company": {
+    "name": "Incedo Inc.",
+    "link": "https://www.linkedin.com/company/incedo-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "IN",
+    "locality": "India",
+    "region": null,
+    "postal_code": "",
+    "street_address": null,
+    "latitude": 22.351994,
+    "longitude": 79.36288
+  }
+}

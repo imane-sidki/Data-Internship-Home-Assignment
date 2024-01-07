@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "<p>Title: Software Engineer</p><p>Location: Sunnyvale, California</p><p></p><p>Job Description: </p><p>As a Software Engineer in the Engineering Department, your primary responsibilities will include working side by side with R&amp;D and 3rd party vender on the development of new automated test equipment. You will be expected to demonstrated an excellent working knowledge of C/C# programming, developing application and automating tool per product required. You are a self-motivated professional who demonstrates the ability to quickly grasp new technologies, products and use cases.</p><p>Responsibilities will include:</p><ul><li>Participate in product functional, system architecture and design review.</li><li>Collaborate effectively with peers and venders to solve complex problems, deliver end-to-end quality in our product and customer experience.</li><li>Triage customer issues and find timely creative solution to customer problems.</li><li>Execute test cases, analyze and report test results to internal R&amp;D or venders.</li><li>Write API and feature documentation.</li></ul><p>Required qualifications:</p><ul><li>BS/MS in Computer Science or equivalent experience.</li><li>2+ year\u2019 working experience on Windows/Linux SW development with strong debugging skills.</li><li>Have strong programming skills on C#, Java, Python, etc.</li><li>Knowledge of cloud-based services or imaging process will be preferred.</li><li>Strong collaboration and communication skills.</li><li>Strong initiative and ability to work independently.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-13T17:36:58.000Z"
+  },
+  "company": {
+    "name": "FutureDial, Incorporated",
+    "link": "https://www.linkedin.com/company/futuredial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

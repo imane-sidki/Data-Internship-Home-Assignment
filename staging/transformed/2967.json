@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Weather Data",
+    "industry": "Computer Software,Consumer Services,Automotive",
+    "description": "Waymo is an autonomous driving technology company with a mission to make it safe and easy for people and things to get where they\u2019re going. Since our start as the Google Self-Driving Car Project in 2009, Waymo has been focused on building the World\u2019s Most Experienced Driver in hopes of improving the world's access to mobility while saving thousands of lives now lost to traffic crashes. Our Waymo Driver powers Waymo One, our fully autonomous ride-hailing service, as well as Waymo Via, our trucking and local delivery service. To date, Waymo has driven over 20 million miles autonomously on public roads across 25 U.S. cities and conducted over 20 billion miles of simulation testing.<br><br>Software Engineering builds the brains of Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you\u2019re a software engineer or researcher who\u2019s curious and passionate about Level 4 autonomous driving, we'd like to meet you.<br><br>The Weather team at Waymo is responsible for connecting the impacts of weather to the autonomous technologies, vehicle fleet and operations. In this data science role, you will work closely with Engineering, Data Science, and a variety of other teams across the company on getting the Waymo Driver ready for all types of weather conditions. This entails evaluating the driving and safety performance of Waymo's self driving car in challenging weather conditions as well as helping to improve its capabilities. This will be based on a wide variety of data from real and simulated driving from Waymo\u2019s self-driving system, weather sensors on the cars, and from external data sources.<br><br><strong><u>Typical Role Responsibilities Include<br></u></strong><ul> <li>Analysis, utilization, and improvement of existing data sources and metrics, with a focus on weather data</li> <li>Development of novel approaches for measuring, estimating and predicting weather conditions</li> <li>Write statistical analysis and modeling code</li> <li>Collaborate with engineers and other data scientists on evaluating and improving core Waymo technologies, with a focus on bringing statistical depth, general analytical rigor, and accurate causal interpretation of data.</li> <br><br></ul><strong><u>We'd Like You To Have<br></u></strong><ul> <li>PhD in statistics, math, or other quantitative area</li> <li>Statistics or data science experience either in academia or industry</li> <li>Willingness to understand a complex system and its various components</li> <li>Experience with tools for manipulating big data</li> <li>Experience with R/Python and statistical libraries</li> <li>At least 3 years of experience in the data science field as an independent contributor and innovator</li> <br></ul>For this role it's preferred if you have experience in:<br><ul> <li>Experience in weather data and forecasting, meteorology</li> <li>Experience with C++</li> <br><br></ul>We appreciate your interest in Waymo. Waymo is an equal employment opportunity employer. Waymo\u2019s policy is not to discriminate against any applicant or employee based on race, color, sex, religion, national origin, age, disability, military status, genetic information or any other characteristic protected by law. Waymo also prohibits harassment of applicants or employees based on any of these protected categories. Waymo will also consider for employment qualified applicants with criminal records in accordance with applicable law. Waymo also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.<br><br>Waymo is committed to maintaining the same safe and inclusive environment for candidates as for our team members. Addressing you by the correct pronoun is an important part of this commitment.<br><br>Waymo Candidate Privacy Policy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T18:56:16.000Z"
+  },
+  "company": {
+    "name": "Waymo",
+    "link": "https://www.linkedin.com/company/waymo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Ann Arbor",
+    "region": "MI",
+    "postal_code": "48106",
+    "street_address": null,
+    "latitude": 42.281418,
+    "longitude": -83.748474
+  }
+}

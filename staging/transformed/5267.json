@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer Manager - Machine Learning",
+    "industry": "Consumer Electronics",
+    "description": "<br><strong>Summary<br></strong> <br>Apple\u2019s GPU Compute and Advance Rending team provides a suite of high performance GPU algorithms and computation graph for developers inside and outside of Apple for iOS, macOS and tvOS. Team is passionate about providing acceleration for machine learning frameworks like TensorFlow &amp; PyTorch, and algorithms across machine learning, linear algebra, image processing and ray tracing on Apple\u2019s GPUs. We are always looking for exceptionally hardworking individuals to grow our outstanding team.<br><br> <br><strong>Key Qualifications<br></strong> <br>Proven programming and problem solving skills<br><br>Good understanding of machine learning fundamentals<br><br>Experience with system level programming and computer architecture<br><br>Strong communication and teamwork skills<br><br> <br><strong>Description<br></strong> <br>Our team is looking for an engineering manager to lead the team responsible for building and maintaining GPU acceleration support for machine learning frameworks like TensorFlow and PyTorch, and collaborating with driver, compiler, metal frameworks and hardware groups to provide the best acceleration of ML Training on current and future HW. The ideal candidate would have previous technical leadership experience, Machine Learning experience, understanding of GPU architecture, and be willing to learn about new technologies.<br><br> <br><strong>Education &amp; Experience<br></strong> <br>BS or MS Degree or equivalent experience.<br><br> <br><strong>Additional Requirements<br></strong> <br>-  Experience with machine learning libraries (TensorFlow. PyTorch); adding runt time and computation graph support is a plus<br><br><br>-  Experience with high performance parallel programming, GPU programming experience a plus<br><br> <br>Role Number: 200259247<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:30:31.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

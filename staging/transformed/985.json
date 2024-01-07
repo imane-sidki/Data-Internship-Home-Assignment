@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "<strong><u>Company Description<br><br></u></strong>YouGov is an international market research and data analytics group.<br><br>Our mission is to supply a continuous stream of accurate data and insight into what the world thinks, so that companies, governments and institutions can better serve the people and communities that sustain them.<br><br>We have the best data and the best tools. We continuously challenge conventional approaches to research, and we disrupt our industry to ensure that our clients always get the best solutions.<br><br>We are driven by a set of shared values. We are fast, fearless and innovative. We work diligently to get it right. We are guided by accuracy, ethics and proven methodologies. We respect and trust each other, and bring these values into everything that we do.<br><br>Each day, our highly engaged proprietary global panel of over 15 million people provides us with thousands of data points on consumer opinions, attitudes and behaviours. We combine this continuous stream of data with our research expertise to provide insights that enable intelligent decision-making and informed conversations.<br><br>With operations in the UK, North America, Mainland Europe, the Nordics, the Middle East, India and Asia Pacific, YouGov has one of the world\u2019s largest research networks.<br><br><strong>The Culture<br><br></strong>Diversity and inclusion are fundamental to YouGov. We are committed to giving the world a voice by capturing the opinions of all groups, including the ones that are often under-represented in research. We are also committed to making sure that our products and tools are free from any bias, as accuracy is key to what we do. None of the above can be done without having a truly diverse workforce, in an inclusive workplace. We are very keen on attracting and retaining the best talent. And best talent also means a diverse pool of talent, with various backgrounds and perspectives.<br><br>Supporting the wellbeing of our staff, including maintaining a good work and life balance, is important to us. We support flexible working arrangements where appropriate for a role, with many locations offering a hybrid office-and-remote working approach.<br><br>As an Equal Opportunity Employer, qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, veteran status, disability status, or any other characteristic protected by law. All employment decisions are made on the basis of occupational qualifications, merit, and business need.<br><br><strong><u>Job Description<br><br></u></strong>You will help build some of the largest and most innovative research data products in the world. YouGov has 20 years of historical survey data including billions of data points across dozens of countries. In this position, you will own how we structure, standardize, process, and analyze that data internally \u2014 so that we can then build cutting edge data products for our external customers. You\u2019ll be building data models for our users for the years to come.<br><br>If you think of yourself as a \u201cdata generalist\u201d or a \u201cdata wrangler,\u201d this position is a perfect fit for you. This isn\u2019t a position for a pure statistician, data modeler, or a machine learning specialist.<br><br>Every day will be very different than the day before. An example day might be something like this:<br><br><em>The night before, a user opened a ticket with a puzzling question about some metadata. Your morning starts with data detective work to identify the issue, and you discover an anomaly. You realize there\u2019s a historical inconsistency in some metadata, so you write code in Python or R to parse out that metadata, clean it, and standardize it. Then you update ETLs to Redshift to reflect the new metadata, and you add functionality to the web-frontend tool you built to allow users to search through that metadata in a new way.<br><br></em><strong><u>Responsibilities<br></u></strong><ul><li>Collect data from various data sources including survey instrument, APIs, and relational databases, including the tens of thousands of survey questions and billions of answers</li><li>Perform exploratory data analysis</li><li>Assess the effectiveness and accuracy of new data sources and data gathering techniques</li><li>Develop scripts, workflows, and ETL pipelines for data pre-processing, cleaning and model inputs.</li><li>Deploy statistical models developed by senior data scientists into production environments, with a focus on accuracy, speed, and efficiency.</li><li>Build and maintain summary dashboards of key survey information for tracking purposes</li><li>Develop and deploy processes and tools to monitor and analyze pipeline performance and data accuracy</li></ul> Qualifications<br><br><strong><u>Demonstrated Knowledge And Experience<br></u></strong><ul><li>2 years of Data Science experience, with an engineering focus</li><li>Demonstrated experience working cross-functionally with engineering, product, and data science teams</li><li>Experience with polling, surveys, and public opinion analysis preferred but not required<br></li></ul><strong><u>Technical Skills<br></u></strong><ul><li>Experience using Python and SQL; R helpful as well</li><li>Experience using tools such as Pandas to manipulate data and draw insights from data sets rapidly</li><li>Preferably, experience working as a data engineer/analyst in a cloud-based environment, using AWS (preferred), GCP or Azure</li><li>Ideally experience building small tools or interfaces for less technical users to interact with data<br></li></ul><strong><u>Soft Skills<br></u></strong><ul><li>You\u2019re resourceful</li><li>You deal well with open ended problems (i.e., figuring out the right questions to ask about a data set) rather than being told exactly what to analyze or how to analyze it</li><li>You consider yourself to be an excellent \u201cdata wrangler\u201d</li><li>A drive to learn and master new technologies and techniques</li><li>A collaborative mindset<br></li></ul>Additional Information<br><br>This role can be 100% remote.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T00:00:00.000Z"
+  },
+  "company": {
+    "name": "YouGov",
+    "link": "https://uk.linkedin.com/company/yougov"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 216000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

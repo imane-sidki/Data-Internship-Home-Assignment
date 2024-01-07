@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior CloudOps Engineer",
+    "industry": "",
+    "description": "<p><strong>Senior CloudOps Engineer</strong></p><p>We are hiring high-quality engineers with a diverse set of experiences and skillsets for positions on the ERP cloud platform team delivering the vision of Connected Communities. The strongest candidates will have solid operations and automation expertise and demonstrated software development experience on large-scale cloud infrastructure. Our customers count on us to provide exceptional availability, scalability, and security for services and infrastructure. As a Senior CloudOps Engineer, you\u2019ll be on a team of engineers whose mission is to build and improve Tyler's next-generation hosted ERP platform. Are you up to the challenge?</p><p><br></p><p>Work with our innovative software solutions that help local government and school districts centralize data and connect their organizations. By working to develop and support our financial management solutions, you can help integrate our solutions with human resources, revenue management, tax billing, and asset management.</p><p><br></p><p>Responsibilities</p><p>You will be responsible for mentoring other members of the CloudOps team and providing constant constructive feedback.</p><p>You will be expected to be a thought leader, and drive best practices and patterns for all the supported products and teams.</p><p>You will be responsible for performing code reviews and approving pull requests for other members of the CloudOps team as well as members of other product teams.</p><p>Work with various product teams as an embedded resource to help develop and implement comprehensive CI/CD pipelines</p><p>Work to plan and build the next generation of Tyler's ERP hosting platform through careful application of IAC, Configuration Management, Event-Driven Infrastructure to deploy secure, repeatable, and resilient infrastructure as demand requires.</p><p>Develop tools to improve our ability to rapidly deploy and effectively monitor services in a large-scale distributed environment</p><p>Work with teams to architect, develop, and implement innovative software solutions related to the DevOps and Agile transformation of the enterprise</p><p>Participate in periodic on-call duties</p><p>Collaboration: Work with your peers within your team and outside your team to help develop these solutions</p><p>Learning and Teaching: be a continuous learner, generously teach others what you learn.</p><p>Feedback: provide respectful yet honest feedback to leadership about how to better achieve the DevOps goals</p><p>Knowledgeable: be knowledgeable about DevOps and the need for application teams to adopt best practices.</p><p>Qualifications</p><p>5+ years of cloud-focused experience as a DevOps/CloudOps engineer, software engineer, or similar discipline on AWS</p><p>5+ years writing enterprise-level documentation and providing guidance to development teams</p><p>3+ years of experience working in a CI/CD environment</p><p>2+ years of Linux system administration experience</p><p>3+ years of experience implementing or maintaining high availability and secure systems</p><p>3+ years of experience migrating and managing AWS workloads</p><p>3+ years of software development experience in an Object-Oriented language - C# .Net Preferred</p><p>3+ years scripting experience (BASH, Python)</p><p>Expertise with AWS base services including EC2, VPC, ELB, RDS, Route53, CloudWatch, S3, etc.</p><p>Expertise in at least one IAC toolset (CloudFormation, AWS-CDK, Terraform, etc.)\u2013 Terraform preferred</p><p>Demonstrate an expert level of understanding and experience with at least 1 CI/CD platform(Harness, Jenkins, GitHub/GitHub Actions)</p><p>Demonstrate an expert level of understanding and experience with at least 1 Realtime Monitoring system (DataDog)</p><p>Extensive understanding of microservice architecture</p><p>Must be able to work independently as well as part of a team</p><p>Must be able to solve complex problems with little guidance</p><p>Must have a passion for defining best practices and patterns</p><p>Must be able to learn new technologies and teach others what you have learned</p><p>Must be able to review others' code and provide constructive feedback.</p><p>Must be able to communicate effectively and efficiently in both verbal and written format.</p><p>PostgreSQL and MSSQL Server experience preferred</p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:05:20.000Z"
+  },
+  "company": {
+    "name": "Tyler Technologies",
+    "link": "https://www.linkedin.com/company/tyler-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Yarmouth",
+    "region": "ME",
+    "postal_code": "04096",
+    "street_address": null,
+    "latitude": 43.80108,
+    "longitude": -70.187935
+  }
+}

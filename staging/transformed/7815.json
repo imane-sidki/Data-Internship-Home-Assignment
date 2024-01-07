@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Title: Data Scientist (Machine Learning, AWS, Python)<br>Location: San Francisco CA<br>Contract Duration: 12 Months<br><br>Candidates must have experience in Machine Learning (Client), NLP, Computer Vision (CV), transformer, good coding skills.   9+ years exp.<br><br>Job Description:<br><br>Experience with production-level Deep Learning models in Computer Vision and NLP.<br>Expertise in software development with Python (including Object-Oriented design, Python packaging, and unit testing).<br>Experience with PySpark.<br>Familiarity with distributed model training frameworks like Horovod and Petastorm (although this can be learned).<br>Familiarity with MLOps frameworks like MLflow.<br>Familiarity with SQL.<br>Some familiarity with AWS Lambda, AWS SageMaker, Jenkins, and Databricks.<br>Familiarity with Git.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-04T20:11:41.000Z"
+  },
+  "company": {
+    "name": "PeoplActive",
+    "link": "https://www.linkedin.com/company/peoplactive"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

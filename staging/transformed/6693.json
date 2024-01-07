@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Americas",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "This role is an opportunity for a hands-on technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products. If you have an affinity for open source development and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.<br><br><strong>Job Summary:<br><br></strong>The IS Team at Canonical supports and maintains all of Canonical's production services. Members of the team use real-life operational experiences to contribute to product improvements. The team is in charge of running services used by over 60 million Ubuntu users.<br><br>As an SRE you'll be in a unique position to improve Canonical products and the open-source technologies they're based on. You'll do this by providing critical feedback to developers on how their products operate at scale as well as writing code, submitting bugs, and working with other teams within the company. You will also be encouraged to develop and submit fixes and enhancements directly and to collaborate with development teams during the design and implementation phases.<br><br>You'll be part of a global team of SREs that work together and support each other to provide the best possible services to our company, Canonical's customers and the Ubuntu Community.<br><br><strong>As a Site Reliability Engineer you will:<br></strong><ul><li>Maintain operational responsibility for all of Canonical's core services, networks, and infrastructure</li><li>Develop new features and improve the resilience and scalability of the existing cloud and container portfolio at Canonical</li><li>Automate operations for reuse across the worlds largest companies, taking into consideration the complexities of distributed systems</li><li>Develop skills in troubleshooting, capacity planning, and performance investigation</li><li>Collaborate with development teams to design service architecture, documentation, playbooks, policies and operational procedures</li><li>Provide assistance and work with globally distributed engineering, operations, and support peers</li><li>Be given uninterrupted software development time to focus on larger coding projects and automation of manual tasks</li><li>Carry final responsibility for time-critical escalations<br></li></ul><strong>The successful Site Reliability Engineer candidate will have:<br></strong><ul><li>Bachelor's degree or greater, preferably in computer science or related engineering field</li><li>A passion for writing, sharing, and maintaining enterprise open-source software solutions</li><li>Python software development experience, with large projects</li><li>Strong modern engineering background (peer-review, unit testing, SCM, CI/CD, Agile)</li><li>Preference for treating configuration as code and automating to reliably solve problems</li><li>Extensive knowledge of cloud computing concepts and technologies</li><li>Practical knowledge of Linux networking, routing, and firewalls</li><li>Hands-on experience administering enterprise Linux servers</li><li>Able to communicate clearly and effectively in English over email, chat, video or voice calls and in-person</li><li>Motivated and able to troubleshoot from kernel to web, and willing to ask others when appropriate</li><li>A willingness to be flexible and able to learn new things quickly</li><li>Be inspired by the needs of fast-changing environments</li><li>Happy to work within distributed teams</li><li>Be passionate and familiarized about open-source, especially Ubuntu or Debian<br></li></ul><strong><u>About Canonical<br><br></u></strong>Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu -- the world's #1 cloud operating system. Our mission is to realize the potential of free software in the lives of individuals and organisations. Our services are helping businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.<br><br>We offer:<br><ul><li>100% Work-from-home </li><li>Learning and Development</li><li>Recognition Rewards</li><li>Annual Leave</li><li>Priority Pass for travel</li><li>Flexible working option<br></li></ul><em>Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world's computing needs. We are committed to ensuring equal employment opportunities to all qualified persons. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br></em><em> #stack<br><br></em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T17:16:28.000Z"
+  },
+  "company": {
+    "name": "Canonical",
+    "link": "https://uk.linkedin.com/company/canonical"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cleveland",
+    "region": "OH",
+    "postal_code": "44144",
+    "street_address": null,
+    "latitude": 41.505547,
+    "longitude": -81.6915
+  }
+}

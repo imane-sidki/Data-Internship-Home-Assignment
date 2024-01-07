@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineering Manager, Storage Infrastructure",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "<strong>Engineering Manager, Data and Storage Infrastructure<br><br></strong>\"The front page of the internet,\u201d Reddit brings over 500 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities. Come for the cats, stay for the empathy.<br><br>The Infrastructure org has the mission of building and delivering the compute orchestration environment, storage and data systems, and essential platform services behind all of Reddit.<br><br>The Infrastructure organization is looking to hire an experienced Engineering Manager, to take on and grow a team around Reddit\u2019s core storage and data systems. This is a high impact role where you will drive related technical strategy, operations, architecture, and execution for one of the largest sites in the world.<br><br><strong><u>What You\u2019ll Do<br></u></strong><ul><li>Build, hire and lead a high-calibre team of software engineers and systems engineers.</li><li>Design, engineer and deliver the core data infrastructure services used by all of Reddit\u2019s products. </li><li>Be responsible for setting and maintaining availability, scalability, latency, and efficiency SLOs.</li><li>Lead, coordinate, and execute a coherent vision for storage and data infrastructure that supports and enables Reddit\u2019s growth into new product capabilities. </li><li>Coach and mentor engineers on the team to further their professional development.</li><li>Set and support a culture of metrics driven quality, with efficient processes and strong transparency. <br><br></li></ul><strong><u>Who You Might Be<br></u></strong><ul><li>3+ years experience of managing a team of software engineers.</li><li>5+ years of experience developing internet-scale software, preferably in data infrastructure roles.</li><li>Professional experience and capability with cloud infrastructure systems (Kuberrnetes, AWS, GCE).</li><li>Strong experience in data infrastructure systems; </li><li>Strong track record of managing a team including hiring, onboarding, and professional development.</li><li>Software development experience in one or more general purpose programming languages; Python, Go, Rust, Java, C++.</li><li>Strong organizational skills, the ability to prioritize tasks and keep projects on schedule.</li><li>BS degree in Computer Science, similar technical field of study or equivalent practical experience.<br><br></li></ul><em>Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at </em><em>ApplicationAssistance@Reddit.com</em><em>.</em>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:12:53.000Z"
+  },
+  "company": {
+    "name": "Reddit, Inc.",
+    "link": "https://www.linkedin.com/company/reddit-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

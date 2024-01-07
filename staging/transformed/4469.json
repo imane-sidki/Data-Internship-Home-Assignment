@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "Computer Software",
+    "description": "<p><strong>Machine Learning Data Engineer</strong></p><p><strong>Austin, TX</strong></p><p><strong>Long term </strong></p><p><strong></strong></p><p><strong>Job Summary:</strong></p><p>As a part of our Decision Sciences group, you will work with our clients to help define solutions for institutionalizing data-driven decision making in a cost effective and scalable manner. The focus is not only in driving analytical outcomes but defining approaches to automate the operationalizing of the predictions within our client applications. The Machine Learning (ML) Engineer, with an interest in a variety of disciplines, will strive to build frameworks and supporting utilities to enhance the experience of our data scientists.</p><p><br></p><p><strong>Responsibilities:</strong></p><p>Develop and support a platform that enables data scientists to rapidly develop, train, and experiment with machine learning models. Collaborate with other engineers and data scientists to design high performance architectures to support development of machine learning models, data wrangling and data provisioning pipelines and metadata rich data lake repositories.</p><p>Implement POCs and make recommendations for new ML accelerator tools</p><p><br></p><p><strong><span class=\"ql-cursor\"></span>Required Skills:</strong></p><p>Strong programming experience building data integration frameworks using Python (on-prem)</p><p>Strong experience with ETL patterns to support data science is required</p><p>Experience with AWS or Azure ML stack is desired</p><p>Industry experience as a Machine Learning Engineer</p><p>Statistical background is a nice to have</p><ul><li>Bachelor\u2019s Degree or foreign equivalent in Computer Science, Electrical Engineering, Mathematics, Computer Applications, Information Systems or Engineering is required.</li></ul>",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T18:16:23.000Z"
+  },
+  "company": {
+    "name": "ConnectTel, Inc.",
+    "link": "https://www.linkedin.com/company/connecttel"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

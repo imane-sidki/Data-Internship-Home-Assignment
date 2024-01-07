@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "<strong>Growing 5G company in Milpitas, CA is looking for a Site Reliability Engineer to join the team!<br><br></strong>This Jobot Job is hosted by Taylor Buckelew<br><br>Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.<br><br>Salary $135,000 - $180,000 per year<br><br><strong>A Bit About Us<br><br></strong>Located in the beautiful Milpitas, CA we are the first 5G wireless company that is eliminating hardware and providing true NLOS performance . We are looking to hire a sharp Site Reliability Engineer to join or small but growing team!<br><br>As part of the Software Engineering team, you will help us manage software that runs on the cloud and remotely manages millions of radio devices. You will work on a team responsible for all aspects of cloud operations.<br><br><strong><br><br><strong>Why join us?<br><br><br></strong></strong>We offer a comprehensive compensation package including but not limited to<br><ul><li> A competitive base salary ranging from $135K-$180K + EQUITY! </li><li> Full Benefits (Medical, Dental, Vision) </li><li> 401K + match! </li><li> Generous Paid Time Off/Holiday/Sick time</li><li> Mentorship / Growth Opportunities</li><li> Friendly/collaborative team<br></li></ul><strong>Job Details<br><br></strong>You will be responsible for<br><ul><li> Cloud operations including CI/CD pipelines, Infrastructure as Code, Monitoring and alerting, Automation for scaling, failure recovery, disaster recovery, Non-disruptive upgrades, rollbacks, etc.</li><li> Managing development, testing, staging, and AWS environments</li><li> Setting up and managing Kubernetes and Istio-based clusters for deploying applications</li><li> Setting up and managing other services needed by the application (e.g. AWS Kafka, ElasticSearch, Redis, RDS databases, etc.)</li><li> Implementing and maintaining CI/CD pipelines</li><li> Automating the monitoring and auto-scaling of the production environment, to support millions of connected devices<br></li></ul>MUST HAVE, strong experience with<br><ul><li> Linux administration</li><li> AWS </li><li> Implementing CI/CD pipelines<br></li></ul>NICE TO HAVE, knowledge of some or most of the skills below<br><ul><li> CI/CD using GitLab</li><li> Terraform</li><li> Ansible</li><li> Kubernetes</li><li> Istio service mesh</li><li> Microservice architecture</li><li> Helm charts for deployment<br></li></ul>Exposure in deploying and managing various other technologies, like<br><ul><li> EFK Stack</li><li> Databases like PostgreSQL and MySQL</li><li> Apache Kafka clusters</li><li> Redis caches</li><li> Monitoring and Alerting using Prometheus &amp; Grafana<br></li></ul>IF INTERESTED, APPLY DIRECTLY HERE OR EMAIL ME A RESUME AT taylor.buckelew@jobot.com<br><br>Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T21:20:24.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milpitas",
+    "region": "CA",
+    "postal_code": "95035",
+    "street_address": null,
+    "latitude": 37.430763,
+    "longitude": -121.897514
+  }
+}

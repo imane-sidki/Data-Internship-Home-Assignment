@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software engineer in Intel oneMKL",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Semiconductors",
+    "description": "<strong><u>Job Description<br><br></u></strong>The Intel oneAPI Math Kernel Library (oneMKL) team is looking for a software development engineer to work in the exciting area of Systems Programming and design. This includes the development and maintenance of global Intel oneMKL library solutions portable across various operating systems and hardware as well as the development of new features for Intel and Intel-compatible architectures. The primary job function is to design, develop and validate high performance mathematical software, additionally you may work directly with companies developing compilers, operating systems, and other software technologies and customers optimizing oneMKL software usage<br><br><strong><u>Qualifications<br><br></u></strong><strong>Qualifications<br><br></strong>You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school-work/classes/research and/or relevant previous job and/or internship experiences. This is an entry level position and would be compensated accordingly.<br><br><strong><u>Minimum Qualifications<br><br></u></strong>You must possess the below minimum qualifications to be initially considered for this position. Experience listed below would be obtained through a combination of your school-work/ classes/ research and/or relevant previous job and/or internship experiences.<br><ul><li>Bachelor degree with 3 or more years or Masters with 6+ months of experience or PhD in Computer Science or Computer engineering or Electrical Engineering or information technology or Mathematics or Physics or Computational science or aerospace engineering or mechanical engineering<br></li></ul>6+ months of experience with the following skills:<br><ul><li>Numerical analysis or scientific software design and development.</li><li>Development in C, Fortran or C++ languages.</li><li>Parallel programming technologies, such as OpenMP, TBB or MPI.</li><li>Linux, Windows or Mac OS development. <br></li></ul><strong><u>Experience With<br><br></u></strong>Preferred Qualifications:<br><ul><li>Data structures/algorithms.</li><li>Computer architecture specific code optimizations.</li><li>Using mathematics software libraries.</li><li>Intel software development tools.</li><li>Experience of optimizations for CPUs or GPUs <br></li></ul><strong>Inside this Business Group<br><br></strong>Intel Architecture, Graphics, and Software (IAGS) brings Intel's technical strategy to life. We have embraced the new reality of competing at a product and solution level\u2014not just a transistor one. We take pride in reshaping the status quo and thinking exponentially to achieve what's never been done before. We've also built a culture of continuous learning and persistent leadership that provides opportunities to practice until perfection and filter ambitious ideas into execution.<br><br><strong>Posting Statement<br><br></strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<br><br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:08:40.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hillsboro",
+    "region": "OR",
+    "postal_code": "97124",
+    "street_address": null,
+    "latitude": 45.52395,
+    "longitude": -122.98974
+  }
+}

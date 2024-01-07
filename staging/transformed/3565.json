@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Airlines/Aviation",
+    "description": "<p><strong>Job Summary:<br><br></strong></p><p>Signature Consultants is seeking a Site Reliability Engineer for an opportunity with a client located in Hapeville, GA. Our client is seeking an experienced SRE. The ideal candidate will work with IT development squads to implement best practices for reliability and performance with the applications and services they support. The candidate will be well-versed in modern cloud-based and on prem architecture and experienced in designing systems for reliability as well as implementing monitoring, alerting, and ops automation to reliably operate and maintain the services they build.<br><br><br><br></p><p><strong>Responsibilities:<br><br></strong></p><ul><li>Building and supporting a reliable application suite for the environment in order to meet the development and maintenance requirements of systems/platforms</li><li>Working with development teams to evaluate the health, stability and reliability of applications</li><li>Utilizing monitoring, alerts, dashboards, and management tools to ensure the availability, reliability and performance of applications and services</li><li>Constantly working to improve and implement automation of applications tasks</li><li>Providing technical support for systems/platforms according to application SLA's</li><li>Responsible for designing and developing resiliency in the application code, troubleshooting incidents, engaging with squads to address failure patterns, and participating in incident management</li></ul><p> <br><strong>Minimum Qualifications:<br></strong> <br><br></p><ul><li>High School Diploma, GED or High School Equivalency</li><li>Embraces diverse people, thinking and styles</li><li>Consistently makes safety and security of self and others the priority</li><li>7 or more years of experience as an application developer or SRE</li><li>2 or more years of experience with ops automation using a scripting language such as Python or Ansible</li><li>Site Reliability Engineering: Knowledge of the theories and methodologies of reliability engineering</li><li>Ability to design, develop and support various tools, services and applications to maintain a reliable site environment</li><li>Performance Measurement and Tuning</li><li>Knowledge of system performance, testing and programming</li><li>Ability to monitor, measure, and optimize system performance and network communication</li><li>Knowledge of concepts, values and tools applied in building Continuous Integration(CI), Continuous Delivery and Continuous Deployment(CD) pipeline</li><li>Ability to design, build, implement and maintain CI/CD pipelines to achieve the automation of software delivery process</li><li>Knowledge of strategies, practices and tools for managing versions and distribution of software products and enhancements</li><li>Ability to evaluate and improve release management practices and tools</li><li>Knowledge of production applications</li><li>Ability to monitor application functions and resolve issues to maintain optimal conditions for system applications</li><li>Knowledge of software engineering</li><li>Ability to deliver new or enhanced software products</li><li>Knowledge of agile methodologies and the agile development lifecycle</li><li>Ability to utilize formal agile methodologies, disciplines, practices and techniques for the delivery of new and enhanced applications</li><li>Knowledge of concept, functions, and capabilities of container tools and techniques</li><li>Ability to effectively apply containers in various IT business environments</li><li>Knowledge of the products and services regarding cloud platforms </li><li>Ability to utilize related tools and technologies to develop cloud solutions and deploy applications on cloud platforms</li></ul><p><br> <strong>Preferred Qualifications: <br></strong> <br><br></p><ul><li>Bachelors degree in Computer Science, Information Technology or related field is preferred</li><li>AWS Certified SysOps Administrator or AWS Certified DevOps Engineer certification is preferred</li><li>Experience with an APM tool such as Dynatrace, New Relic, AppDynamics, or Datadog is preferred</li><li>Experience with airline applications and infrastructure technology is a plus</li><li>Experience developing ops automation in Tekton pipelines is a plus</li><li>Experience developing applications and/or automation running in Red Hat OpenShift is a plus</li></ul><p> <br><br></p><p><strong>About Signature Consultants, LLC<br><br></strong></p><p><em>Headquartered in Fort Lauderdale, Florida, Signature Consultants was established in 1997 with a singular focus: to provide clients and consultants with superior staffing solutions. For the ninth consecutive year, Signature was voted as one of the \"Best Staffing Firms to Work For\" and is now the 14th largest IT staffing firm in the United States (source: Staffing Industry Analysts). With 28 locations throughout North America, Signature annually deploys thousands of consultants to support, run, and manage their clients' technology needs. Signature offers IT staffing, consulting, managed solutions, and direct placement services. For more information on the company, please visit </em><em>www.sigconsult.com</em><em><u>. </u></em><em>Signature Consultants is the parent company to </em><em>Hunter Hollis</em><em> and </em><em>Madison Gunn</em><em>.<br><br></em></p><p><em>EEO Employer<br><br></em></p><p><em>Signature Consultants is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Signature will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at </em><em> or 888.838.1020.<br><br></em></p>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T12:42:34.000Z"
+  },
+  "company": {
+    "name": "Signature Consultants",
+    "link": "https://www.linkedin.com/company/signature-consultants"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hapeville",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 33.658863,
+    "longitude": -84.40896
+  }
+}

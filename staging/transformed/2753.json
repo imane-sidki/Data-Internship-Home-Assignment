@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "",
+    "description": "\u2022\tHands on experience with Terraform, Ansible and Kubernetes.<br>\u2022\tExperience with AWS services like EC2, EKS, ECR, IAM Roles/Policies, etc..<br>\u2022\tExperience in Dev ops tools like Jenkins, ELK Stack.. <br>\u2022\tGood to have- HELM, Prometheus, Grafana etc.<br>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:36:05.000Z"
+  },
+  "company": {
+    "name": "ACS Solutions",
+    "link": "https://www.linkedin.com/company/acs-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Spring",
+    "region": "TX",
+    "postal_code": "77387",
+    "street_address": null,
+    "latitude": 30.079731,
+    "longitude": -95.41769
+  }
+}

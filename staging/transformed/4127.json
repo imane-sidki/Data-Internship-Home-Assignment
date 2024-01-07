@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, C++ - Tableau",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br><br></em><strong> Job Category </strong>Products and Technology<strong> Job Details <br><br></strong><strong><u>What You'll Be Doing...<br><br></u></strong>VizQL Server is the service at the heart of Tableau\u2019s Analytics capabilities and our team is on a mission to ensure customers have a performant, reliable experience with our product when hosted at high scale. The Monitoring &amp; Health team drives features to increase levels of availability, performance, reliability and observability for this service that backs creating and viewing visualizations in Tableau.<br><br>We are passionate about understanding the true production behavior of our analytics code and ensuring that our hosted environments and products can scale. Your work will directly improve the customer experience and the value of Tableau\u2019s brand for our growing cloud-based Analytics community in Tableau Online and Public, as well as for our larger Enterprise customers.<br><br><strong>As an engineer on the team, some of the things you'll be doing include\u2026<br></strong><ul><li> Using our existing telemetry data, collaborate with the performance engineering team to build anomaly detection pipelines which help make smarter decisions for handling traffic, prevent errors and report on performance bottlenecks. </li><li> Own and e xtend the current tracing system for a single C++ process so that it can be used across all distributed cloud services in Tableau as the primary tool for performance and resource monitoring . </li><li> Contribute to the design, development, test and operational excellence of the VizQL Server and libraries supporting it. </li><li>Improve the monitoring maturity across the team by leveraging and extending VizQL Server\u2019s telemetry available through a real time Kafka based data pipeline </li><li>Participate in design and code reviews, breaking down and estimating work, and selecting and incorporating appropriate tools and frameworks for the job.<br></li></ul><strong><u>Who You Are\u2026<br></u></strong><ul><li> Experienced. You are a high-performing software developer, with strong skills in modern C++. You have a strong understanding of concurrency, asynchronous programming and synchronization, as well as other low-level programming primitives. </li><li>Passionate. You have a passion for solving complex problems and you are always developing and growing your skills as an engineer. You do great work even when no one is watching. The drive to deliver is just part of you.</li><li>Relentlessly High Standards. You are not satisfied by the status quo and work with those around you to improve the quality of our systems, code and engineering practices. You work toward pragmatic solutions that regularly deliver customer-delighting functionality while steadily improving system quality over time.</li><li>Team Player. You enjoy collaborating, learning from and teaching others so we can all become better engineers. You assume good intent in others, and actively do your part to make a positive work environment.</li><li>Strong Communicator. You can present your ideas and results to the team, contribute to technical documentation, ask questions and apply active listening skills.</li><li>You are a Recruiter! Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring onboard to help us continue to build one of the best companies in the world.<br></li></ul><strong> Accommodations <br><br></strong>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br><br><strong> Posting Statement <br><br></strong>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.<br><br><u>Salesforce.com</u> and <u>Salesforce.org</u> are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. <u>Salesforce.com</u> and <u>Salesforce.org</u> do not accept unsolicited headhunter and agency resumes. <u>Salesforce.com</u> and <u>Salesforce.org</u> will not pay any third-party agency or company that does not have a signed agreement with <u>Salesforce.com</u> or <u>Salesforce.org</u> .<br><br>Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:37:39.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "",
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

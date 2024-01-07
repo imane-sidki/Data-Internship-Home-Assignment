@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer- The Juice",
+    "industry": "Marketing and Advertising",
+    "description": "<strong>About The Juice:</strong> The Juice is reinventing the B2B Content Marketing landscape, putting content consumers front and center.<br><br>The Juice collects, consolidates, and curates insightful resources from across the internet into a single platform where members can organize, share, and enjoy content curated for them without ever having to fill out a form.<br><br>While much of the best educational content for professionals is produced by brands, the experience of consuming this content has traditionally been terrible, with gated content forms followed by the inevitable pummeling of unwanted sales pitches. The Juice puts content consumers in control of how and when they engage with brands, while augmenting the impact and audience for brands that produce quality content.<br><br><strong>About this role:</strong> The Juice is looking for a motivated Software Engineer. You should be an experienced software engineer who enjoys building cutting edge technology from the ground up.<br><br>As one of the first members of the engineering team in a fast growing start-up, this is an opportunity to have your fingerprints on a product and team that is creating a content marketing platform to put an end to antiquated marketing and sales tactics. Your efforts will shape the future of the company and your career growth and opportunities will be dramatically accelerated. You'll work closely with the product and engineering teams while reporting directly to our CTO.<br><br>The Juice is based in Indianapolis, but open to remote employees.<br><br><strong>Our stack: <br></strong><ul><li>Ruby 3</li><li>Rails 6</li><li>Hotwire (Stimulus + Turbo)</li><li>Sidekiq</li><li>Redis</li><li>Postgres 13</li><li>Heroku<br></li></ul><strong>Compensation: $70,000-$100,000, based on experience<br><br></strong><strong><u>What You'll Do<br></u></strong><ul><li>Work as part of a product &amp; engineering team that's focused on delivering value to both content consumers and our B2B content marketer customers</li><li>Write readable, scalable, maintainable, and well tested code in Ruby on Rails applications with an expectation to enhance proficiency in Ruby and JavaScript</li><li>Assist in the definition and scoping of new product features</li><li>Review the work of fellow engineers (i.e. code reviews)</li><li>Collaborate on engineering ideas and concepts with product and engineering teams</li><li>Pursue ongoing professional development to develop engineering skills<br></li></ul><strong><u>What We're Looking For<br></u></strong><ul><li>3+ years professional development experience</li><li>Significant hands-on experience in Ruby on Rails with some front-end experience</li><li>Experience in end-to-end product design (conceptual discovery through high-fidelity delivery), but with a strong visual UI focus</li><li>Someone with strong communication skills to connect with a small, early-stage team</li><li>Desire to listen, understand the \"why\" behind engineering tasks, and push back when something doesn't make sense</li><li>Genuine curiosity and a strong desire to continuously learn and grow<br></li></ul><strong>What We Value:<br><br></strong><strong>DREAMING BIG<br><br></strong><strong>We constantly challenge ourselves to push boundaries, defy conventional wisdom, and take smart risks by pursuing big opportunities hiding in plain sight.<br><br></strong><strong>MOVING FAST<br><br></strong><strong>We push ourselves and portfolio companies to build processes and systems that compress time, speed, and decision-making to produce results faster.<br><br></strong><strong>EXPECTING MORE<br><br></strong><strong>We demand the best from ourselves, our team, and our partners. We create the context for success by providing the appropriate resources, infrastructure, training, and mentorship required to win.<br><br></strong><strong>High Alpha is an equal opportunity employer, and we value diversity at our company. We don't discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</strong>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:07:06.000Z"
+  },
+  "company": {
+    "name": "The Juice",
+    "link": "https://www.linkedin.com/company/the-juice-hq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Machinery,Mechanical or Industrial Engineering",
+    "description": "Born out of MIT, VulcanForms is commercializing the first fully scalable industrial metal additive manufacturing (AM) solution. Building the world\u2019s most powerful and advanced metal AM system is the first step towards our vision of lights-out, highest quality metal AM mass production. We are a team of leading technology and operational experts with decades of experience in advanced manufacturing, materials, automation, and robotics. We are continuously seeking contributors who demonstrate outstanding integrity, intelligence, hunger, accountability, and a passion for learning.<br><br><strong><u>Job Summary<br><br></u></strong>VulcanForms is currently seeking a <strong>Machine Learning Engineer</strong> with a focus on operations to join our Machine Learning and Data Science team in <strong>Burlington, MA</strong>. As a machine learning engineer, you will develop and maintain ML pipelines, deploy, and monitor ML models / data analytics in production for our cutting-edge metal Additive Manufacturing factory. You will have a unique opportunity to push the frontier of ML applications in additive manufacturing.<br><br><strong><u>Essential Functions And Responsibilities<br></u></strong><ul> <li>Build, maintain and manage end-to-end ML training and deployment pipelines.<br></li> <li>Deploy, monitor, and optimize ML models and data analytics in the edge, on-premises and in the cloud for Additive Manufacturing.</li> <li>Develop software that integrate ML pipelines within the additive manufacturing process.</li> <li>Working with our additive manufacturing and process control experts to identify and solve technical pain-points to expand the application of Machine Learning and data analysis in AM.</li> <br><br></ul><strong><u>Required Qualifications<br></u></strong><ul> <li>Master of Science degree in Computer Science, Data Science, or related field with 1+ years of relevant work experience, or Bachelor of Science degree in relevant field with 3+ years of relevant work experience, or Ph.D. in relevant field<br></li> <li>Hands-on experience training, and deploying machine learning models</li> <li>Familiarity with at least one of the Deep Learning frameworks (I.e., TensorFlow, PyTorch)</li> <li>Proficient in Python and its Machine Learning stacks</li> <li>Strong programming skills, familiarity with software development cycles, solid understanding of data structures and algorithms</li> <li>This position must satisfy ITAR compliance requirements, therefore candidates must be U.S. Citizens, or lawful Permanent Residents of the U.S. (Green Card Holders)</li> <br><br></ul><strong><u>Preferred Qualifications<br></u></strong><ul> <li>Ph. D. in relevant field<br></li> <li>Experience of deploying deep learning models for low-latency applications and in the edge</li> <li>Experience with Docker or other containerization technologies</li> <li>Experience with microservices</li> <li>Experience with C++</li> <li>A desire to stay current with open-source ML ecosystems</li> <li>Self-motivated, capable of setting and reaching ambitious goals</li> <li>Team player with excellent communication skills</li> <li>Additive Manufacturing (AM) industry experience</li> <li>Experience working in a fast-paced startup company environment</li> <br><br></ul><u><strong>Benefits<br></strong></u><ul> <li>Medical, dental, vision, and life insurance available to you starting on your first day of employment<br></li> <li>Generous time off package including vacation PTO, sick PTO, and 11 company-paid federal holidays</li> <li>Flexible work schedule</li> <li>401(k) with company match and stock options.</li></ul>",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-25T05:08:45.000Z"
+  },
+  "company": {
+    "name": "VulcanForms Inc.",
+    "link": "https://www.linkedin.com/company/vulcanforms-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

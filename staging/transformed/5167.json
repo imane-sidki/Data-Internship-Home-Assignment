@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "<strong><u>Organization Summary<br><br></u></strong>If you love the pursuit of excellence and are inspired by the challenges that come through driving innovations that impact how the world lives, works and plays, then we invite you to learn more about Microsoft Operations - and the value we deliver across Microsoft and to our customers and partners. We offer unique opportunities to work on interesting global projects in an environment that appreciates diversity, focuses on talent development and recognizes and rewards great work.<br><br>We make doing business with Microsoft easy.<br><br><strong><u>Position Description<br><br></u></strong>The Microsoft Business Operations Data Engineering team is looking for a talented Site Reliability Engineer to design, build &amp; operate business oriented services for Microsoft.<br><br>The successful candidate will be at ease leading the architecture for the next generation of Data Engineering Platform as we move into PaaS, Performance Tuning SQL, and SSAS, Troubleshooting across complex distributed systems, and leading incident investigations &amp; capable of identifying root cause in a complex, distributed environment.<br><br><strong><u>Related Technology<br></u></strong><ul><li>Big Data Technologies, Data Bricks, Kusto, Kensho</li><li>SQL Server, SSAS, SSIS, SSRS.</li><li>Azure SQL</li><li>SQL Datawarehouse / Synapse</li><li>Azure Infrastructure - IaaS, PaaS</li><li>PowerShell, Shell Scripts</li><li>Monitoring tools such as App Insights, Log Analytics, Kusto, Geneva</li><li>Azure DevOps</li><li>TSQL (SQL Azure, MSSQL)</li><li>DAX/MDX Querying</li><li>.Net and C# <br></li></ul><strong><u>Responsibilities<br><br></u></strong><strong>Responsibilities:<br></strong><ul><li>Conduct Troubleshooting and determine Root Cause of complex cross product issues (ADF, Data Bricks, SQL Server, SSAS, SSRS, PowerBI, Power Platform, etc)</li><li>Conduct performance analysis/tuning</li><li>Ensure accurate service capacity planning.</li><li>Build tools, develop efficient support processes, &amp; contribute to our knowledge base.</li><li>Plan &amp; conduct proof of concept projects with new technology &amp; processes.</li><li>Build / Optimize monitoring &amp; self-healing capabilities.</li><li>Collaborate at depth with peers in Development &amp; Program Management.<br></li></ul><strong><u>Qualifications<br><br></u></strong><strong>Basic Qualifications (must be quantitative):<br></strong><ul><li>Degree in Computer Science, or similar subject (Data Science, IT, Business Intelligence, Data Warehousing, Math, Statistics), or relevant industry experience equivalent to a degree.</li><li>2+ years experience in Site Reliability, Service Engineering, or an Operations team delivering industry-leading technical solutions with the highest quality.</li><li>2+ years experience writing code in C# or a similar high level language.</li><li>2+ years experience writing scripts in PowerShell or a similar scripting language.</li><li>1+ years of experience with ITIL, MOF, or other industry standard operations / support framework</li><li>1+ years knowledge / Experience with DevOps</li><li>2+ years experience working in an Agile environment. SCRUM, etc.</li><li>2+ years experience with continuous delivery &amp; configuration management</li><li>2+ years experience with telemetry, instrumentation, monitoring, &amp; alerting.</li><li>Strong analytical capabilities.</li><li>Ability to manage multiple priorities, commitments &amp; projects.</li><li>A passion for customer experience &amp; usability, including successful delivery of customer selfservice tools &amp; automated management/optimization of services.<br></li></ul><strong><u>Preferred Qualifications (can Be Quantitative &amp; Qualitative)<br><br></u></strong>It is desirable that you have one or more of the following MSFT certifications;<br><ul><li>Azure Infrastructure</li><li>Azure Architecture</li><li>SQL Server Administration</li><li>Windows Server Administration<br></li></ul>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.<br><br>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T02:43:13.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}
